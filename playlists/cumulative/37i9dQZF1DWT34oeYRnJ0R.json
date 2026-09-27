@@ -210,7 +210,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 245933,
       "name": "2 K 1 6",
       "url": "https://open.spotify.com/track/6hXcH4KnoRgkFQDhvxo872"
@@ -2475,6 +2475,32 @@
     },
     {
       "album": {
+        "name": "Castles in the sky",
+        "url": "https://open.spotify.com/album/4dhaMCFHsK1GwKSDaBg0wg"
+      },
+      "artists": [
+        {
+          "name": "Nicole Obarzanek",
+          "url": "https://open.spotify.com/artist/4odzb21zllMpMiguvwtVs8"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        },
+        {
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/0fX7Q6oIBe710t9vsEu0Pj"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181248,
+      "name": "Castles in the sky",
+      "url": "https://open.spotify.com/track/3VETx4dUj0tZF5cwz8F2Yq"
+    },
+    {
+      "album": {
         "name": "casualidad",
         "url": "https://open.spotify.com/album/25Dq8Vh1wTBbTaV6gvrTqf"
       },
@@ -2702,6 +2728,24 @@
       "duration_ms": 214658,
       "name": "Chula",
       "url": "https://open.spotify.com/track/1yV4oNq40BpcwAxr0Bl4Mx"
+    },
+    {
+      "album": {
+        "name": "BARAJA BENDITA",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127740,
+      "name": "CHULA",
+      "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
     },
     {
       "album": {
@@ -4082,7 +4126,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 134870,
       "name": "DONDE TE ESCONDES? (feat. Robinson)",
       "url": "https://open.spotify.com/track/7DiNJqM6uyiYqqWX1wsqxG"
@@ -5235,6 +5279,24 @@
     },
     {
       "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/5Wz7Qjr7y6LgoJKM2dmDdh"
+      },
+      "artists": [
+        {
+          "name": "Angel Trino",
+          "url": "https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Eterno",
+      "url": "https://open.spotify.com/track/2SImudGoPHS5GvS9iSAto6"
+    },
+    {
+      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -5586,6 +5648,24 @@
       "duration_ms": 186493,
       "name": "FAVORiTE",
       "url": "https://open.spotify.com/track/02fcGHwZIEpB1VnHMfgCnO"
+    },
+    {
+      "album": {
+        "name": "Favorite Girl",
+        "url": "https://open.spotify.com/album/4DtyNPxox5i679Uxj4RMDu"
+      },
+      "artists": [
+        {
+          "name": "Destiny Rogers",
+          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Favorite Girl",
+      "url": "https://open.spotify.com/track/7ncHM5up3NdcE9dEOWjB78"
     },
     {
       "album": {
@@ -7741,6 +7821,28 @@
     },
     {
       "album": {
+        "name": "La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/1TNT0PLVvggBGApSQDg8re"
+      },
+      "artists": [
+        {
+          "name": "Jhon Paul \"El Increible\"",
+          "url": "https://open.spotify.com/artist/3SW7wpjrR76LCdMNCPqmxi"
+        },
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156374,
+      "name": "La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6Hd1PUsQ0OSp9vWqoUTNdX"
+    },
+    {
+      "album": {
         "name": "La Ruta",
         "url": "https://open.spotify.com/album/5lgRpUbqo5VRODoEiQeNCW"
       },
@@ -8112,7 +8214,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 199139,
       "name": "Lo Intent\u00e9",
       "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
@@ -11285,6 +11387,28 @@
     },
     {
       "album": {
+        "name": "Ola <3",
+        "url": "https://open.spotify.com/album/5QaOre1ZyTW0MrocZByawc"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148235,
+      "name": "Ola <3",
+      "url": "https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF"
+    },
+    {
+      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -11795,6 +11919,32 @@
     },
     {
       "album": {
+        "name": "PARADIXE",
+        "url": "https://open.spotify.com/album/2JVB1VDasV9KioM1An1fwX"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342485,
+      "name": "PARADIXE",
+      "url": "https://open.spotify.com/track/6NRtAEJbWxrcnmoCSOM71a"
+    },
+    {
+      "album": {
         "name": "Para\u00edso",
         "url": "https://open.spotify.com/album/60zwZ3rcvhQZepAwfcpuYI"
       },
@@ -11916,7 +12066,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 309280,
       "name": "Passoa",
       "url": "https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0"
@@ -12117,6 +12267,28 @@
     },
     {
       "album": {
+        "name": "Pick Me",
+        "url": "https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0"
+      },
+      "artists": [
+        {
+          "name": "ZUCO OMG",
+          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
+        },
+        {
+          "name": "Annasofia",
+          "url": "https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170298,
+      "name": "Pick Me",
+      "url": "https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE"
+    },
+    {
+      "album": {
         "name": "Pila",
         "url": "https://open.spotify.com/album/3UfafmtKzWQvkfDHZ5Xltz"
       },
@@ -12136,6 +12308,24 @@
       "duration_ms": 195692,
       "name": "Pila",
       "url": "https://open.spotify.com/track/5iLGGkfG1XLtngOjtEsfau"
+    },
+    {
+      "album": {
+        "name": "PLAYA FR\u00cdA",
+        "url": "https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "PLAYA FR\u00cdA",
+      "url": "https://open.spotify.com/track/4aKRWHJbiu8kFNow0o9JUS"
     },
     {
       "album": {
@@ -12322,7 +12512,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 264946,
       "name": "POR SI MA\u00d1ANA NO ESTOY",
       "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
@@ -12548,7 +12738,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 146460,
       "name": "QLOO*",
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
@@ -12912,7 +13102,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 141031,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
@@ -14253,6 +14443,28 @@
     },
     {
       "album": {
+        "name": "SUPER INTENSO (with Hamilton)",
+        "url": "https://open.spotify.com/album/2vvsLhc2MTLzioJ2rQgxCk"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168712,
+      "name": "SUPER INTENSO (with Hamilton)",
+      "url": "https://open.spotify.com/track/6mNe3iEDfjHYS5tvTVFikv"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/1gXKwhoxCwFWeJGLv28yIH"
       },
@@ -14648,7 +14860,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 230857,
       "name": "Thal\u00eda - Remix",
       "url": "https://open.spotify.com/track/7rOBXchP5e7U0pNETeyES1"
@@ -15344,7 +15556,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 152500,
       "name": "Una A La Vez",
       "url": "https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg"
@@ -15918,7 +16130,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 305265,
       "name": "Whisky",
       "url": "https://open.spotify.com/track/3FuDnj8GeuIDPyFsLOmyck"

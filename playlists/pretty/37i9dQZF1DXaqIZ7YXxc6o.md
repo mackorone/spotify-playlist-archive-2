@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: weirdtechnogirlfriend, PAUL LE BÁY
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,918 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,911 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [U KNOW](https://open.spotify.com/track/2zD75uKSkgolgsBO2psrXE) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [U KNOW](https://open.spotify.com/album/2Vmyoa5jGWkEifaI3zsKOB) | 3:42 |
 | 100 | [Comes and Goes \- Dom Dolla Remix](https://open.spotify.com/track/3vVapQ0417yRGO66kWT2V3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Comes and Goes \(Dom Dolla Remix\)](https://open.spotify.com/album/0P1a7qP5rKjk9tCdj8SAd5) | 4:27 |
 
-Snapshot ID: `AAAAAA4L2lmSadUUyUcpPZbsGNy7wJjE`
+Snapshot ID: `AAAAAE0ZT7ARHa5Ku9qZUQKGOe9zR9pb`

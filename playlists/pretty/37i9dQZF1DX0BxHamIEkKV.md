@@ -4,10 +4,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BxHamIEkKV.md) - [plain]
 
 > Smart, engaging podcasts that go beyond the headlines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,927 likes - 1 song - 20 min 42 sec
+[Spotify](https://open.spotify.com/user/spotify) - 23,926 likes - 1 song - 20 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Two Americas collide](https://open.spotify.com/episode/1idsbT8zcNTi1HdKzjJ4Y2) | [Post Reports](https://open.spotify.com/show/4c2PEjWLJ5vGUu2kjRR808) | [Post Reports](https://open.spotify.com/album/4c2PEjWLJ5vGUu2kjRR808) | 20:42 |
 
-Snapshot ID: `AAAAAAVl5AYwcg16Fk0XWoWdxlVgb3Ml`
+Snapshot ID: `AAAAAMWaWE1hxToigXaTVrlCUjxG58m/`

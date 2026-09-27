@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,450 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,451 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 19 | [Paren de Matarnos](https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:22 |
 | 20 | [Gitanas](https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Gitanas](https://open.spotify.com/album/2S6OhCz266448hlUEzIduB) | 3:10 |
 | 21 | [Mi Fuerza Es Tuya](https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga) | [Thelma Fardin](https://open.spotify.com/artist/0SBwpTwANByEBrhww6nGEl), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Mi Fuerza Es Tuya](https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W) | 4:05 |
-| 22 | [Hermanas](https://open.spotify.com/track/1ZMILHInTaxZ3G5A7y55hY) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg), [Maria Rezende](https://open.spotify.com/artist/3WDDrOm8mMLjqb8DltOW4k) | [Hermanas](https://open.spotify.com/album/5UPSoi84uNlqOuRcSkOOEa) | 4:06 |
-| 23 | [Belicosa](https://open.spotify.com/track/1FvhrIQOQnK0oXzDgk5SD9) | [Baja Frequencia](https://open.spotify.com/artist/5hkLgDHHOCdNfLSdevCX2z), [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m) | [Belicosa](https://open.spotify.com/album/2uRdtPtwPoYAbgnT6LKr8R) | 2:49 |
+| 22 | [Belicosa](https://open.spotify.com/track/1FvhrIQOQnK0oXzDgk5SD9) | [Baja Frequencia](https://open.spotify.com/artist/5hkLgDHHOCdNfLSdevCX2z), [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m) | [Belicosa](https://open.spotify.com/album/2uRdtPtwPoYAbgnT6LKr8R) | 2:49 |
+| 23 | [Hermanas](https://open.spotify.com/track/1ZMILHInTaxZ3G5A7y55hY) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg), [Maria Rezende](https://open.spotify.com/artist/3WDDrOm8mMLjqb8DltOW4k) | [Hermanas](https://open.spotify.com/album/5UPSoi84uNlqOuRcSkOOEa) | 4:06 |
 | 24 | [Nosotras Tenemos Otros Datos](https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Nosotras Tenemos Otros Datos](https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4) | 3:21 |
 | 25 | [Nos Deseo](https://open.spotify.com/track/4dSMI9UzUk9dmJ4hmUNLWw) | [Tremenda Jauría](https://open.spotify.com/artist/2PHostfMixbU0kfU62poO8), [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Cuentas Pendientes](https://open.spotify.com/album/4DDnKiQFpoYi6kRZXZJSb6) | 3:28 |
 | 26 | [Canción Sin Miedo \- Versión Ayuujk \(Tlahuiltoltepec\) / Español](https://open.spotify.com/track/5VIDgMv9x9PfEHK9I1ukEA) | [Banda Femenil Regional "Mujeres del Viento Florido"](https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Canción Sin Miedo \[Versión Ayuujk \(Tlahuiltoltepec\) / Español\]](https://open.spotify.com/album/6cqEBK9aE4vDw2GcUV7h2F) | 2:56 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 64 | [Se Quemó](https://open.spotify.com/track/2x3pyIaB1hsqU7W06lfYDL) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/29UNByudXjnpljtU2XOU6j) | 4:43 |
 | 65 | [No Ves](https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Ves](https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC) | 3:19 |
 
-Snapshot ID: `AAAAALBbAv2T1vAe0RFhVCy9UiyquN9b`
+Snapshot ID: `AAAAAH0Pt56DxI8gV089RehzqFr17Cur`

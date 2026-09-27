@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: aespa\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,287 likes - 114 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,325 likes - 114 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 113 | [Merseyside](https://open.spotify.com/track/7v6kKzsVGNKqSxesaVfx1t) | [Sanbo](https://open.spotify.com/artist/2rKxDvJDT1Pv93k4ohx8Cp) | [Merseyside](https://open.spotify.com/album/35I56Tt4RQ4qwnhRW79GCa) | 3:59 |
 | 114 | [Our Youth!](https://open.spotify.com/track/60OeXiAejO8R5QIRvaYKkh) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Summer.zip \(2\)](https://open.spotify.com/album/3PP4JzoEFQBMCJqCEo4a4W) | 3:28 |
 
-Snapshot ID: `AAAAAPGLcjhd0PE/nU2tGNO7Uixai4nl`
+Snapshot ID: `AAAAAF+bQqILidPXRiUBQTgmTbL4SrYB`

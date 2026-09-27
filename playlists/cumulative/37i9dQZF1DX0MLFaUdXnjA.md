@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Ashe
 
-2,749 songs - 6 day 4 hr 15 min
+2,750 songs - 6 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1123,7 +1123,7 @@
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2025-05-30 | 2026-01-17 |
 | [I Need You To Hate Me](https://open.spotify.com/track/1zY6ekSJ8VI6tZ6nBqoo7g) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [I Need You To Hate Me](https://open.spotify.com/album/1iTfzcKZxr2SEgNCIDyhol) | 2:37 | 2020-06-19 | 2020-09-18 |
 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2021-06-12 | 2021-08-28 |
-| [i remember everything](https://open.spotify.com/track/0UPkt0Wqk1Po0FnEi0tAb5) | [Rin](https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA) | [i remember everything](https://open.spotify.com/album/1Z5DbLdPaRXKrgiWcIX09q) | 2:35 | 2026-08-28 |  |
+| [i remember everything](https://open.spotify.com/track/0UPkt0Wqk1Po0FnEi0tAb5) | [Rin](https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA) | [i remember everything](https://open.spotify.com/album/1Z5DbLdPaRXKrgiWcIX09q) | 2:35 | 2026-08-28 | 2026-09-27 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/58pTPJPBjw1xL9OcLcQczU) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/6iiQFr91jK794wZRDMSXkp) | 3:47 | 2023-09-01 | 2024-11-16 |
 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 | 2025-05-16 | 2025-07-19 |
 | [I See You](https://open.spotify.com/track/3wWE0epHK7FIu8w6KeSoIY) | [Adam Turley](https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF) | [I See You](https://open.spotify.com/album/7xFjwDBa6ZdHmqUmyEBF5D) | 3:00 | 2021-01-01 | 2021-05-15 |
@@ -2098,6 +2098,7 @@
 | [slower](https://open.spotify.com/track/1bd4heB3yXc5iFTPoOMPuo) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [slower](https://open.spotify.com/album/4NwShGLn0PyyJ7AC7cEqBz) | 3:07 | 2021-03-06 | 2021-06-26 |
 | [Small Doses](https://open.spotify.com/track/3U1zgAed3FGsfb4bE2GOtn) | [Camille](https://open.spotify.com/artist/2X1AUAAyXLbTxQGfnvsNL6) | [Small Doses](https://open.spotify.com/album/32dtZ5mPoCxJZRaSBmihPU) | 2:48 | 2023-02-17 | 2023-04-01 |
 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 | 2025-09-12 | 2026-01-17 |
+| [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 | 2026-09-27 |  |
 | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/track/1ZHzO47YcJQWZd7TVqZKIE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/album/0wtqjgDzHqDPgUtkavt79b) | 2:37 | 2025-03-14 | 2025-03-29 |
 | [Smoke & Mirrors](https://open.spotify.com/track/2Le1u9lWfnmrMJspgloTO4) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Smoke & Mirrors](https://open.spotify.com/album/4AHVQizkcBOUBvVWtZnsrD) | 2:55 | 2025-03-14 | 2025-06-14 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-09-05 | 2024-02-24 |

@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 208186,
       "name": "...Ready For It?",
       "url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 203618,
       "name": "365",
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
@@ -18615,6 +18615,24 @@
     },
     {
       "album": {
+        "name": "Jesus Christ 2005 God Bless America",
+        "url": "https://open.spotify.com/album/4V4ijZy3zgtfHmzrm1OlbN"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264006,
+      "name": "Jesus Christ 2005 God Bless America",
+      "url": "https://open.spotify.com/track/3tk5DaXxxUoV7b5nOdCDBv"
+    },
+    {
+      "album": {
         "name": "Judee Sill",
         "url": "https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf"
       },
@@ -27343,6 +27361,24 @@
     },
     {
       "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221392,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3W4xpnA5BVg9qduchV1mQy"
+    },
+    {
+      "album": {
         "name": "Her Love Still Haunts Me Like a Ghost",
         "url": "https://open.spotify.com/album/2WSzjPtCHRBV3zz2NeYksT"
       },
@@ -30494,6 +30530,24 @@
       "duration_ms": 42173,
       "name": "Shine a Light (Reprise)",
       "url": "https://open.spotify.com/track/1ddHu7EaziwvG3VN0kSpGd"
+    },
+    {
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/3MzZoiKQKmJufZiMuNTcqb"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170541,
+      "name": "Shiny Collarbone",
+      "url": "https://open.spotify.com/track/0Q9ysQo1UUc5aFMhbCShjv"
     },
     {
       "album": {
@@ -42218,7 +42272,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 171360,
       "name": "You Need To Calm Down",
       "url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5"

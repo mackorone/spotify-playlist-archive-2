@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37454,
+  "num_followers": 37455,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAD30fcgcoMYFVVfa+EbcnQ0",
+  "snapshot_id": "arW5gAAAAADyHg+jx5jrG4yIBnHpW6O8",
   "tracks": [
     {
       "added_at": null,
@@ -815,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+        "name": "Vuli Ndlela",
+        "url": "https://open.spotify.com/album/0PoVjEm9WTgOXjlUE0wMrA"
       },
       "artists": [
+        {
+          "name": "MIRO",
+          "url": "https://open.spotify.com/artist/5g1ur5g9ACTQ0BGZKioztO"
+        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 298906,
-      "name": "Ngohlala Ngi Nje",
-      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
+      "duration_ms": 203874,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/5I4rknDPn9lYRACi80RbbQ"
     }
   ],
   "unique_name": "This Is Brenda Fassie",

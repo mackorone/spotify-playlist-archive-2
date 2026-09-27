@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur..\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,809 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,821 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Haïve](https://open.spotify.com/track/5MQsyoSmKvGypaAqhYWiMC) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Haïve](https://open.spotify.com/album/3AiC8VODpkcPYaELmjvm4M) | 4:55 |
 | 60 | [DRAMA club: Emotions](https://open.spotify.com/track/3tkrLOFeELGNtNUcfZKICg) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [DRAMA club: Emotions](https://open.spotify.com/album/6nKjXMaiUZZ84U4JrX9J5X) | 2:57 |
 
-Snapshot ID: `AAAAAPAJW8EPz/20jAr98eUUANazFPGN`
+Snapshot ID: `AAAAABSYq4Wna5NeST2CSwd243+kH5fr`

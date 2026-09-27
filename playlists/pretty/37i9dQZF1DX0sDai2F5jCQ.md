@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Quavo
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,918 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,888 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 79 | [Making Promises](https://open.spotify.com/track/4kVLd059k0S5WGNo8ULoZh) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Making Promises](https://open.spotify.com/album/7EFfR2LfIfXxSoIPQZ8b8T) | 2:24 |
 | 80 | [Who is this](https://open.spotify.com/track/6bMhRR5YlzitohR5xPOFHw) | [Fraksha](https://open.spotify.com/artist/1LNA0Z5On9miY8WjoEcstl), [Posseshot](https://open.spotify.com/artist/1iMp6xzgbWnO15izaVC7QU) | [GHOST EP](https://open.spotify.com/album/03g9bw3MW7LZlocBe3j3C3) | 3:39 |
 
-Snapshot ID: `AAAAABMkaX/i5CzYtJDUdglW89DIEg3y`
+Snapshot ID: `AAAAAMt33yR+UVMN0miHg2VpqnUczqYd`

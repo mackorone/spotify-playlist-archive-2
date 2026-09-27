@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 835893,
+  "num_followers": 835944,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHgG5t66vGjJHwVctrKMJOaYbc6d",
+  "snapshot_id": "AAAAAFKSDjqCYNgQ037vEgXP67AY0k2v",
   "tracks": [
     {
       "added_at": "2026-09-18 14:47:59",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-09-18 14:47:59",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+        "name": "Same Truck",
+        "url": "https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU"
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
         }
       ],
-      "duration_ms": 216693,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
+      "duration_ms": 230226,
+      "name": "Damn Strait",
+      "url": "https://open.spotify.com/track/0gNrujgnSfw4LuSvd0Jbs6"
     },
     {
       "added_at": "2026-09-18 14:47:59",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-09-18 14:47:59",
       "album": {
-        "name": "Same Truck",
-        "url": "https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
       },
       "artists": [
         {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 230226,
-      "name": "Damn Strait",
-      "url": "https://open.spotify.com/track/0gNrujgnSfw4LuSvd0Jbs6"
+      "duration_ms": 216693,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
     },
     {
       "added_at": "2026-09-18 14:47:59",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-09-18 14:47:59",
       "album": {
-        "name": "Some Things I Know",
-        "url": "https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8"
-      },
-      "artists": [
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "I'll Think Of A Reason Later",
-      "url": "https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa"
-    },
-    {
-      "added_at": "2026-09-18 14:47:59",
-      "album": {
         "name": "The Deana Carter Collection",
         "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 290466,
       "name": "Strawberry Wine",
       "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
+    },
+    {
+      "added_at": "2026-09-18 14:47:59",
+      "album": {
+        "name": "Some Things I Know",
+        "url": "https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "I'll Think Of A Reason Later",
+      "url": "https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa"
     },
     {
       "added_at": "2026-09-18 14:47:59",

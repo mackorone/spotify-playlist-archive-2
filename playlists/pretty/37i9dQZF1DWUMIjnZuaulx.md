@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Anthony Brown & group therAPy
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,438 likes - 80 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,567 likes - 80 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 11 | [When I Think \(I Thank\) \[feat\. Pamela Westbrook\] \- Live](https://open.spotify.com/track/4E32e0xuwmC7CEpgdlOywx) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Pamela Westbrook](https://open.spotify.com/artist/0luHqzeHAIGzFqrHeFN9ZD) | [When I Think \(I Thank\) \[Live\]](https://open.spotify.com/album/4gGzUYY1vp9JrYMfJPIZWh) | 7:58 |
 | 12 | [Live Breathe Fight \- Radio Edit](https://open.spotify.com/track/3jqMQdxkyaudfrX62axCjq) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Live Breathe Fight \(Radio Edit\)](https://open.spotify.com/album/5ENgy9hJVcX6p44OamK5SY) | 3:46 |
 | 13 | [You Know My Name](https://open.spotify.com/track/6RhbpIePM17MPqCqDAtOrS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [You Know My Name](https://open.spotify.com/album/5fuP4rcGPYJZFGeRhgUods) | 8:41 |
-| 14 | [My God](https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My God](https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B) | 8:08 |
+| 14 | [MY GOD, YOU ARE GOOD](https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [MY GOD, YOU ARE GOOD](https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B) | 8:08 |
 | 15 | [Your Love \(Acoustic\)](https://open.spotify.com/track/7FkJNeeZgyvt7ubqxReYfO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love \(Acoustic\)](https://open.spotify.com/album/660Sxw29q5Cohy30qjBBlz) | 4:38 |
 | 16 | [Jesus](https://open.spotify.com/track/4fu4P9YKVxcBLU7OyQKlAr) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Jesus](https://open.spotify.com/album/3wCNNSJYHTRFhh7Kc4tDYb) | 8:14 |
 | 17 | [Have You Ever](https://open.spotify.com/track/2u8XdqQo3TtkfkYR6nvIf4) | [FK&M](https://open.spotify.com/artist/0QEY4d9rhrxTR8nMdudJ0y), [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Keith Staten](https://open.spotify.com/artist/1p94IpPWGRqcNsAmzCtnWe), [Marcus Cole](https://open.spotify.com/artist/2bijKkJaOp4tSJASryiJNB), [New Rain](https://open.spotify.com/artist/1GECSLvvJg1fzJkbuKqWzq) | [Time Capsule II](https://open.spotify.com/album/6AvTDERfl2eGNa7vVwxF9V) | 3:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 79 | [worship 101 \- the worship culture tour](https://open.spotify.com/track/5GCjjpNipaMG7z6Eegx3jv) | [Jordan G\. Welch](https://open.spotify.com/artist/7FoyFSZKYKQXPDfrITKxrs) | [worship 101 \(the worship culture tour\)](https://open.spotify.com/album/46kxeETDSztn44h2WPfd6E) | 3:45 |
 | 80 | [Made New \- Radio Edit](https://open.spotify.com/track/38GV2hTJoKJwhHsDRi9WbA) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Made New \(Radio Edit\)](https://open.spotify.com/album/00RBYgE7x0XFvLHCPZrPQq) | 3:39 |
 
-Snapshot ID: `AAAAAIbxjsRFkYBsXdqtORmbAt0TK7tE`
+Snapshot ID: `AAAAACqfpmZdNiatueWl7nAxk7570Ert`

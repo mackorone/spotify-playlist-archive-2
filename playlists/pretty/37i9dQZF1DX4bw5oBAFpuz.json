@@ -1,12 +1,12 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 87700,
+  "num_followers": 87694,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFvl6InLDyMsYmFK9cwPS1l5XyQp",
+  "snapshot_id": "AAAAAHWVMSatoK5N0ZNsuURlZzEAp6Kt",
   "tracks": [
     {
       "added_at": "2026-09-22 22:00:05",
@@ -107,18 +107,18 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Love Somebody",
-        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
+        "name": "Perfect Man",
+        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 204828,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
+      "duration_ms": 213690,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -139,18 +139,18 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Perfect Man",
-        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 213690,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
-        "url": "https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
-      "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "Break Up in Reverse",
         "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 205523,
       "name": "Break Up in Reverse",
       "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
+        "url": "https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
+      "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/5lIHC13ACZ3AAgCggkR50i"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/1nYfCyKon0jtsOh2WYMfxo"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
         "name": "Dangerous Lover",
         "url": "https://open.spotify.com/album/2EIRNYg9YwfZt0iRuuUFCh"
       },
@@ -431,38 +447,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "It Was Gonna Be You",
-        "url": "https://open.spotify.com/album/3SJEEDxYhsw4HqNPb6I3Vl"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "It Was Gonna Be You",
-      "url": "https://open.spotify.com/track/6VzorL4qfmkmPax6xJs3jS"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/5lIHC13ACZ3AAgCggkR50i"
-      },
-      "artists": [
-        {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Note To Self",
-      "url": "https://open.spotify.com/track/1nYfCyKon0jtsOh2WYMfxo"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "TRUSTFALL (Tour Deluxe Edition)",
         "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 212304,
       "name": "All Out Of Fight",
       "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "It Was Gonna Be You",
+        "url": "https://open.spotify.com/album/3SJEEDxYhsw4HqNPb6I3Vl"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "It Was Gonna Be You",
+      "url": "https://open.spotify.com/track/6VzorL4qfmkmPax6xJs3jS"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -627,18 +627,22 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Evering Road (Special Edition)",
-        "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
+        "name": "Us",
+        "url": "https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct"
       },
       "artists": [
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 230615,
-      "name": "Don't Break the Heart",
-      "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
+      "duration_ms": 187226,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -659,22 +663,18 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct"
+        "name": "Evering Road (Special Edition)",
+        "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 187226,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D"
+      "duration_ms": 230615,
+      "name": "Don't Break the Heart",
+      "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Won\u2019t Fall",
-        "url": "https://open.spotify.com/album/4uSNgH9awhE0zRbG62IUek"
+        "name": "My Lucky Day",
+        "url": "https://open.spotify.com/album/78wgkYYTT235IBZYo7iZ2u"
       },
       "artists": [
         {
-          "name": "DI-RECT",
-          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
         }
       ],
-      "duration_ms": 228900,
-      "name": "Won\u2019t Fall",
-      "url": "https://open.spotify.com/track/1f7P00oydj1vmqzPqk9AxN"
+      "duration_ms": 160058,
+      "name": "My Lucky Day",
+      "url": "https://open.spotify.com/track/32Tzk2ucF5fgljunf6aP4L"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "My Lucky Day",
-        "url": "https://open.spotify.com/album/78wgkYYTT235IBZYo7iZ2u"
+        "name": "Won\u2019t Fall",
+        "url": "https://open.spotify.com/album/4uSNgH9awhE0zRbG62IUek"
       },
       "artists": [
         {
-          "name": "Milow",
-          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
         }
       ],
-      "duration_ms": 160058,
-      "name": "My Lucky Day",
-      "url": "https://open.spotify.com/track/32Tzk2ucF5fgljunf6aP4L"
+      "duration_ms": 228900,
+      "name": "Won\u2019t Fall",
+      "url": "https://open.spotify.com/track/1f7P00oydj1vmqzPqk9AxN"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
       },
       "artists": [
         {
-          "name": "Jim Gardner",
-          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 153973,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
+      "duration_ms": 168562,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
         }
       ],
-      "duration_ms": 168562,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
+      "duration_ms": 153973,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "Bitter Sweet Love (Deluxe)",
         "url": "https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 205522,
       "name": "Sinners",
       "url": "https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Love Vaccination",
-        "url": "https://open.spotify.com/album/1kvJBxY8gyKZHeu4909TzC"
-      },
-      "artists": [
-        {
-          "name": "Lo\u00efs Lane",
-          "url": "https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt"
-        }
-      ],
-      "duration_ms": 200137,
-      "name": "Love Vaccination",
-      "url": "https://open.spotify.com/track/3DEx3nVNz8woiNaAxGSotf"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "Somebody New",
         "url": "https://open.spotify.com/album/64ot0PGuCe2LEcT8qtrG2E"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 198932,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/083IXbUGlHYi4Ia1Trrzyv"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "Love Vaccination",
+        "url": "https://open.spotify.com/album/1kvJBxY8gyKZHeu4909TzC"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efs Lane",
+          "url": "https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt"
+        }
+      ],
+      "duration_ms": 200137,
+      "name": "Love Vaccination",
+      "url": "https://open.spotify.com/track/3DEx3nVNz8woiNaAxGSotf"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
         "name": "Something Perfect",
         "url": "https://open.spotify.com/album/2eQDu24S8h6K7of2gJNv0c"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+        "name": "Little Thoughts",
+        "url": "https://open.spotify.com/album/2cWK3EBhoMyu4WDdo2vigp"
       },
       "artists": [
         {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
         }
       ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
+      "duration_ms": 199111,
+      "name": "Little Thoughts",
+      "url": "https://open.spotify.com/track/05FPfS6NwDGRbscWCYpYuA"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -1543,22 +1559,6 @@
       "duration_ms": 238340,
       "name": "Funeral - Acoustic",
       "url": "https://open.spotify.com/track/45dAd4OmYSHUn7F5BqTneE"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
-        "name": "Little Thoughts",
-        "url": "https://open.spotify.com/album/2cWK3EBhoMyu4WDdo2vigp"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "Little Thoughts",
-      "url": "https://open.spotify.com/track/05FPfS6NwDGRbscWCYpYuA"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -1711,22 +1711,18 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "BITE THE BULLET",
-        "url": "https://open.spotify.com/album/5E5Bh3gHUFO3ECImoixFwC"
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
       },
       "artists": [
         {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        },
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 167693,
-      "name": "BITE THE BULLET",
-      "url": "https://open.spotify.com/track/6pk5Z5AaQXL5E0AcGL0aA6"
+      "duration_ms": 117000,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -1747,18 +1743,22 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
+        "name": "BITE THE BULLET",
+        "url": "https://open.spotify.com/album/5E5Bh3gHUFO3ECImoixFwC"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        },
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
         }
       ],
-      "duration_ms": 117000,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
+      "duration_ms": 167693,
+      "name": "BITE THE BULLET",
+      "url": "https://open.spotify.com/track/6pk5Z5AaQXL5E0AcGL0aA6"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/70q6JczgrEpipUdkcbkd9i"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 170976,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/5xdC35mf072S94yav2vRt6"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "Every Side Of You",
         "url": "https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 204573,
       "name": "Every Side Of You",
       "url": "https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/70q6JczgrEpipUdkcbkd9i"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 170976,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/5xdC35mf072S94yav2vRt6"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Buckle Down",
-        "url": "https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2"
-      },
-      "artists": [
-        {
-          "name": "Melanie Ryan",
-          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
-        }
-      ],
-      "duration_ms": 166957,
-      "name": "Buckle Down",
-      "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "the devil's advocate",
         "url": "https://open.spotify.com/album/3AQLKzmHD6t3R4MTE90E4P"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 179426,
       "name": "the devil's advocate",
       "url": "https://open.spotify.com/track/6EQxQwc56xRBxjQQMHPFkn"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "Buckle Down",
+        "url": "https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2"
+      },
+      "artists": [
+        {
+          "name": "Melanie Ryan",
+          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
+        }
+      ],
+      "duration_ms": 166957,
+      "name": "Buckle Down",
+      "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "The Healing",
-        "url": "https://open.spotify.com/album/1Giu0w3VhoS72xVjaWGTCH"
-      },
-      "artists": [
-        {
-          "name": "Jasper Steverlinck",
-          "url": "https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "The Healing",
-      "url": "https://open.spotify.com/track/71NRgNmHbukGD3bXxN5Xyx"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "Quarter Life Crisis",
         "url": "https://open.spotify.com/album/4sfC2BT8zecnW2Lh9rDml1"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 235667,
       "name": "Feel At Home",
       "url": "https://open.spotify.com/track/4rjPdgGdaLyuQfOzV79v9h"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "The Healing",
+        "url": "https://open.spotify.com/album/1Giu0w3VhoS72xVjaWGTCH"
+      },
+      "artists": [
+        {
+          "name": "Jasper Steverlinck",
+          "url": "https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "The Healing",
+      "url": "https://open.spotify.com/track/71NRgNmHbukGD3bXxN5Xyx"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Y O U",
-        "url": "https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr"
-      },
-      "artists": [
-        {
-          "name": "Tangarine",
-          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
-        }
-      ],
-      "duration_ms": 221643,
-      "name": "Here With You - Acoustic",
-      "url": "https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0BvwpL6wdl6FacJayiN1GK"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 208000,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/0G1eL9g083NCOyvB7tXwZC"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "Y O U",
+        "url": "https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr"
+      },
+      "artists": [
+        {
+          "name": "Tangarine",
+          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
+        }
+      ],
+      "duration_ms": 221643,
+      "name": "Here With You - Acoustic",
+      "url": "https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Play (Extended Edition)",
-        "url": "https://open.spotify.com/album/7hkuAIT9TEVABBi7WJq5sz"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207256,
-      "name": "For Always",
-      "url": "https://open.spotify.com/track/0T02ywvKCK8xVKuymZm3AS"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 152195,
       "name": "Follow",
       "url": "https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/7hkuAIT9TEVABBi7WJq5sz"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207256,
+      "name": "For Always",
+      "url": "https://open.spotify.com/track/0T02ywvKCK8xVKuymZm3AS"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -2335,18 +2335,18 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Weak In The Knees",
-        "url": "https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p"
+        "name": "Misfits",
+        "url": "https://open.spotify.com/album/65VFiBQZyDAxVq5Fy3cpIr"
       },
       "artists": [
         {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+          "name": "Wulf",
+          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
         }
       ],
-      "duration_ms": 186653,
-      "name": "Weak In The Knees",
-      "url": "https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu"
+      "duration_ms": 162922,
+      "name": "Misfits",
+      "url": "https://open.spotify.com/track/1YNKJeJImFDqyOtJD543uH"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -2367,18 +2367,18 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Misfits",
-        "url": "https://open.spotify.com/album/65VFiBQZyDAxVq5Fy3cpIr"
+        "name": "Weak In The Knees",
+        "url": "https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p"
       },
       "artists": [
         {
-          "name": "Wulf",
-          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
         }
       ],
-      "duration_ms": 162922,
-      "name": "Misfits",
-      "url": "https://open.spotify.com/track/1YNKJeJImFDqyOtJD543uH"
+      "duration_ms": 186653,
+      "name": "Weak In The Knees",
+      "url": "https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -2463,6 +2463,22 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 180159,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
         "name": "Armada Acoustic 2017",
         "url": "https://open.spotify.com/album/1vaZZiBeoQO0QvzcDyxfHr"
       },
@@ -2483,22 +2499,6 @@
       "duration_ms": 192724,
       "name": "This Is What It Feels Like - John Ewbank Classical Remix",
       "url": "https://open.spotify.com/track/1MTHcjq2LmrQDYDuLentyu"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
-        "name": "Too Far",
-        "url": "https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        }
-      ],
-      "duration_ms": 180159,
-      "name": "Too Far",
-      "url": "https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Rolling",
-        "url": "https://open.spotify.com/album/5meYSRyh2OUGjPDYxHxJ3Z"
-      },
-      "artists": [
-        {
-          "name": "Krystl",
-          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Fool For You",
-      "url": "https://open.spotify.com/track/0N1QRsfKXJs7uGpzZc58cY"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "Can't Take You Home",
         "url": "https://open.spotify.com/album/7ircwf7LABt7ds3vhYbgO4"
       },
@@ -2579,6 +2563,22 @@
       "duration_ms": 181935,
       "name": "Can't Take You Home",
       "url": "https://open.spotify.com/track/2ghd71Bobpq07hQ7PU9AB4"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "Rolling",
+        "url": "https://open.spotify.com/album/5meYSRyh2OUGjPDYxHxJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Krystl",
+          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/0N1QRsfKXJs7uGpzZc58cY"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1JsBybdsBJvct13iVujNb3"
-      },
-      "artists": [
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 186473,
-      "name": "Plastic heart",
-      "url": "https://open.spotify.com/track/0Yhezw3qivWS5WvsWe1vJe"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "Now That We\u2019ve Found Love",
         "url": "https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8"
       },
@@ -2699,6 +2683,22 @@
       "duration_ms": 154176,
       "name": "Now That We\u2019ve Found Love",
       "url": "https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1JsBybdsBJvct13iVujNb3"
+      },
+      "artists": [
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 186473,
+      "name": "Plastic heart",
+      "url": "https://open.spotify.com/track/0Yhezw3qivWS5WvsWe1vJe"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -2807,6 +2807,26 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
+        "name": "Take A Chance (Acoustic)",
+        "url": "https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        },
+        {
+          "name": "Alexander Oscar",
+          "url": "https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM"
+        }
+      ],
+      "duration_ms": 166585,
+      "name": "Take A Chance - Acoustic",
+      "url": "https://open.spotify.com/track/7maJDADttwHBFlcuTzf2s9"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
         "name": "Meet You In The Middle",
         "url": "https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV"
       },
@@ -2835,26 +2855,6 @@
       "duration_ms": 181002,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/43DQTjc9abmcaGOq6Wjpdo"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
-        "name": "Take A Chance (Acoustic)",
-        "url": "https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf"
-      },
-      "artists": [
-        {
-          "name": "SERA",
-          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
-        },
-        {
-          "name": "Alexander Oscar",
-          "url": "https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM"
-        }
-      ],
-      "duration_ms": 166585,
-      "name": "Take A Chance - Acoustic",
-      "url": "https://open.spotify.com/track/7maJDADttwHBFlcuTzf2s9"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
-      },
-      "artists": [
-        {
-          "name": "Josh Island",
-          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 195355,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
+      },
+      "artists": [
+        {
+          "name": "Josh Island",
+          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -3099,22 +3099,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Fire Needs Air",
-        "url": "https://open.spotify.com/album/6kcr08oAUCpEyGmaNC3zeC"
-      },
-      "artists": [
-        {
-          "name": "Dazzled Kid",
-          "url": "https://open.spotify.com/artist/5qxWXQ3Dgux2hrMKN2sz4h"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/2mnuH6wQXWl2x50JcRmHlz"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "When Summer Ends",
         "url": "https://open.spotify.com/album/2zzEOdJdCLGPdtd6wsuzlk"
       },
@@ -3127,6 +3111,22 @@
       "duration_ms": 211385,
       "name": "When Summer Ends",
       "url": "https://open.spotify.com/track/3XvYvC2W5N9kKuiORxekSk"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "Fire Needs Air",
+        "url": "https://open.spotify.com/album/6kcr08oAUCpEyGmaNC3zeC"
+      },
+      "artists": [
+        {
+          "name": "Dazzled Kid",
+          "url": "https://open.spotify.com/artist/5qxWXQ3Dgux2hrMKN2sz4h"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/2mnuH6wQXWl2x50JcRmHlz"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -3147,22 +3147,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Till The River Runs Dry",
-        "url": "https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ"
-      },
-      "artists": [
-        {
-          "name": "Bunch Of Grapes",
-          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Till The River Runs Dry",
-      "url": "https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/0nUk17FZxbfpK1AOQF4cHD"
       },
@@ -3175,6 +3159,22 @@
       "duration_ms": 182808,
       "name": "Company",
       "url": "https://open.spotify.com/track/6lf2e8a0NOf8877D78GpaP"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "Till The River Runs Dry",
+        "url": "https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ"
+      },
+      "artists": [
+        {
+          "name": "Bunch Of Grapes",
+          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Till The River Runs Dry",
+      "url": "https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -3635,6 +3635,22 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
+        "name": "Laps Around the Sun",
+        "url": "https://open.spotify.com/album/1mjMbSI9f1AYixV1CI7mLL"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Laps Around The Sun",
+      "url": "https://open.spotify.com/track/68ZVCePM9IP0MSbcmeZuup"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
         "name": "Swim With Sam",
         "url": "https://open.spotify.com/album/3NSLHcKHZ8422YD7MQO8Ch"
       },
@@ -3667,22 +3683,6 @@
       "duration_ms": 197751,
       "name": "How Am I Gonna Love Myself",
       "url": "https://open.spotify.com/track/2XQZn07ixmAvy4VwCYZ0R0"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
-        "name": "Laps Around the Sun",
-        "url": "https://open.spotify.com/album/1mjMbSI9f1AYixV1CI7mLL"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Laps Around The Sun",
-      "url": "https://open.spotify.com/track/68ZVCePM9IP0MSbcmeZuup"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -3731,6 +3731,22 @@
       "duration_ms": 183073,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/5ouXSHkPf6VnpeKqYuyBBU"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "If I Don't Love Me",
+        "url": "https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt"
+      },
+      "artists": [
+        {
+          "name": "Martin Jasper",
+          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
+        }
+      ],
+      "duration_ms": 177077,
+      "name": "If I Don't Love Me",
+      "url": "https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -3923,22 +3939,6 @@
       "duration_ms": 167179,
       "name": "Something To Remember",
       "url": "https://open.spotify.com/track/2p8NCaU68YwlL8ZNnyLFxx"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
-        "name": "If I Don't Love Me",
-        "url": "https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt"
-      },
-      "artists": [
-        {
-          "name": "Martin Jasper",
-          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
-        }
-      ],
-      "duration_ms": 177077,
-      "name": "If I Don't Love Me",
-      "url": "https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd"
     },
     {
       "added_at": "2026-09-22 22:00:05",

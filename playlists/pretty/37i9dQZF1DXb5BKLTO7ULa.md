@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Taylor Swift, Yade Lauren, Mula & Lijpe, Racoon, Benny Sings, Sam Feldt en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,163 likes - 101 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,162 likes - 101 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 100 | [Never Come Down](https://open.spotify.com/track/3DItwNoTG6tOfflFYwYH9n) | [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV) | [Change Is The New Gold](https://open.spotify.com/album/07TnUt5jNLjWsqY48jx4Zf) | 3:08 |
 | 101 | [The Long Run](https://open.spotify.com/track/1MZwDlAUCzSNYdINHisC9r) | [Favour](https://open.spotify.com/artist/3UDCA2vjy6FkE5eKQq38qo) | [The Long Run](https://open.spotify.com/album/55PpU9vn0wlIyuuWK7bx2P) | 2:29 |
 
-Snapshot ID: `AAAAAARD5w6IEL5aauy6aXkLoj9C6rST`
+Snapshot ID: `AAAAAN3sUJQ4h3IM4Va3YCIiYNYuk8Tf`

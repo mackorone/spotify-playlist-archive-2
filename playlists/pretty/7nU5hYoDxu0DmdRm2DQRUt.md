@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 8,088 likes - 257 songs - 1 day 0 hr 42 min
+[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 8,089 likes - 257 songs - 1 day 0 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Xtasy](https://open.spotify.com/track/5hSdS8oiSqixprXLj9ZYJr) | [DJ H0tline](https://open.spotify.com/artist/0zprlAObxam7Bw4qVstgHr) | [Total 26](https://open.spotify.com/album/4nhEDipXBSgJZuBhhyQjVx) | 5:16 |
+| 1 | [Xtasy](https://open.spotify.com/track/5hSdS8oiSqixprXLj9ZYJr) | [DJ H0tline](https://open.spotify.com/artist/0zprlAObxam7Bw4qVstgHr) | [Kompakt: Total 26](https://open.spotify.com/album/4nhEDipXBSgJZuBhhyQjVx) | 5:16 |
 | 2 | [So Deep \- Remix](https://open.spotify.com/track/0kBjQXjSh9ucVU9uxxTjub) | [Orlando Voorn](https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u) | [So Deep \(Remix\)](https://open.spotify.com/album/2gMvYumtlbQzEGaEDfnYGH) | 6:19 |
 | 3 | [Illu](https://open.spotify.com/track/4UONuzd409SaE2rQdhIMiW) | [Fango](https://open.spotify.com/artist/0Ey5SuiHfEJX8DZzwyENz1) | [E Dee Vol\. 3](https://open.spotify.com/album/2MUL6mWTB1bD9phskjTm6G) | 6:58 |
 | 4 | [Do Da Doo \- Plastikman Acid House Mix](https://open.spotify.com/track/04AlFIQA3FzdZpN2ct4Bg6) | [Robotman](https://open.spotify.com/artist/0rR0rKB2DplWkjks6zFgOp), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Do Da Doo](https://open.spotify.com/album/5nR8TrcDAADcOVvuuBvqZF) | 11:58 |

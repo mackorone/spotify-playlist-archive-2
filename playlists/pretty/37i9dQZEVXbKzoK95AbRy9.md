@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,634 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,681 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 34 | [Irmão da Lua, Amigo das Estrelas](https://open.spotify.com/track/1PW3LjmxJqVoQ9nmdbxF9f) | [Zezé Di Camargo & Luciano](https://open.spotify.com/artist/4dyYjqmYDjegbB3F2mbvcT) | [Zezé Di Camargo & Luciano 2003](https://open.spotify.com/album/4YM96MAAUClSgu2y5P80bw) | 4:11 |
 | 35 | [Flash \- Ao Vivo](https://open.spotify.com/track/3rRihXlOCLUlkQTzglpwCi) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Flash \(Ao Vivo\)](https://open.spotify.com/album/16mA88kUlFisTLlnAE4pod) | 2:11 |
 | 36 | [Meu Silêncio \- Ao Vivo](https://open.spotify.com/track/0ycQtDnc4mOcefV6yyV6dm) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Meu Silêncio \(Ao Vivo\)](https://open.spotify.com/album/086Jke99gK8bDLMFkgzGaj) | 2:59 |
-| 37 | [Bala Alojada](https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Bala Alojada](https://open.spotify.com/album/4mFeX8UBFJ1KAyvfboPI7d) | 3:38 |
+| 37 | [Bala Alojada \- Ao Vivo](https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Bala Alojada \(Ao Vivo\)](https://open.spotify.com/album/4mFeX8UBFJ1KAyvfboPI7d) | 3:38 |
 | 38 | [Deixa Eu \- Ao Vivo](https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX) | 2:38 |
 | 39 | [Aproveita Que Eu Tô Brigado \- Ao Vivo](https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Paredão do Nattan \(Ao Vivo Em Fortaleza\)](https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS) | 2:36 |
 | 40 | [Eu Me Apaixonei](https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Eu Me Apaixonei](https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [P do Pecado \- Ao Vivo](https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi) | 3:12 |
 | 50 | [Baqueado \- Ao Vivo](https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Panda Sem Moderação \(Ao Vivo\)](https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC) | 2:26 |
 
-Snapshot ID: `MknvWAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mks+gAAAAAAAAAAAAAAAAAAAAAAAAGVu`

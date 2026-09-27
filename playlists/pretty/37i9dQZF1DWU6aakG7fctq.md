@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: ZUCO OMG & Annasofia
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,747 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,648 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [creiziiii](https://open.spotify.com/track/7F37hWsqlVNux3dATtr4ls) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [PINK LEMONADE](https://open.spotify.com/album/0Zv6IMPprJQeSqKsMpCVLq) | 3:55 |
 | 50 | [PERMANENTE](https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V) | [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi), [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [PERMANENTE](https://open.spotify.com/album/0JLo9Cf13yWYWebq6rIU0d) | 2:22 |
 
-Snapshot ID: `AAAAABOxAwYFuucE5SGdej1EqW9WshtP`
+Snapshot ID: `AAAAADLKo93MkLgdKF/PpIzkbX2ZLOp1`

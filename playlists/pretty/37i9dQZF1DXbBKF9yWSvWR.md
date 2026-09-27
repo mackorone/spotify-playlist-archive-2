@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Ciska Ciska
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,901 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,904 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Deep End](https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Deep End](https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE) | 2:49 |
 | 100 | [Guardian](https://open.spotify.com/track/7G5HqMfPuRLvoTVfBg6FPu) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [Guardian](https://open.spotify.com/album/7cd7roz7SRwSDhvS7Q3pwC) | 3:36 |
 
-Snapshot ID: `AAAAAEQYQhYMiHuPckyVjk93t6xPYkOt`
+Snapshot ID: `AAAAAKRJYTT6I8D0CEJlXWVmSIqFZHDw`

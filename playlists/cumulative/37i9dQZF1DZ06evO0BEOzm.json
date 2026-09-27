@@ -130,7 +130,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 140613,
       "name": "B.B.B.",
       "url": "https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp"
@@ -1670,6 +1670,28 @@
       "duration_ms": 80816,
       "name": "Outta Town Freestyle",
       "url": "https://open.spotify.com/track/3LOyQpKiM8MnE019hWB5uj"
+    },
+    {
+      "album": {
+        "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
+        "url": "https://open.spotify.com/album/3sqKpIBO5ST20iCc5kY5nA"
+      },
+      "artists": [
+        {
+          "name": "Dolly Babe",
+          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161817,
+      "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
+      "url": "https://open.spotify.com/track/2k1gcQWaB2FuVFqK46s4ob"
     },
     {
       "album": {

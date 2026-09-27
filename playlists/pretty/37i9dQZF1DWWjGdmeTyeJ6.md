@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Dirt Buyer\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,115 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223,210 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [such is life](https://open.spotify.com/track/3AMNrBLaZ5CinnVTMIfjRp) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [separate from the noise \(side b\)](https://open.spotify.com/album/229pJHC8KLloiTOUj1KYtl) | 3:53 |
 | 100 | [Don't Stop](https://open.spotify.com/track/5IM3QDSAX5uqoNSSWLJFtj) | [Redstain](https://open.spotify.com/artist/1OtzdqtxsQqVFl3gM5JYDq) | [Spotted I](https://open.spotify.com/album/2jWptg5kuYUa4JbIUZC1kE) | 1:43 |
 
-Snapshot ID: `AAAAANTpbpmbwXl8c7wiqbq/8GsTZwTi`
+Snapshot ID: `AAAAABmF4xmFxsAUk+ufm7G+k9fpuwo3`

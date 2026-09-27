@@ -4786,6 +4786,24 @@
     {
       "album": {
         "name": "help",
+        "url": "https://open.spotify.com/album/7Dx5yEjWuHnmn12uSunUGB"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170303,
+      "name": "don't stop",
+      "url": "https://open.spotify.com/track/2X8Bn919hWniuJBnKDgeF0"
+    },
+    {
+      "album": {
+        "name": "help",
         "url": "https://open.spotify.com/album/4PcOLASOD0VikPG4yB3bxg"
       },
       "artists": [
@@ -4796,7 +4814,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 170303,
       "name": "don't stop",
       "url": "https://open.spotify.com/track/4Zz7qwjSgxs9sRnOP2KjHb"
@@ -7176,7 +7194,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 183291,
       "name": "Go Ape",
       "url": "https://open.spotify.com/track/0fudfsZijcNuGXkGdbFART"

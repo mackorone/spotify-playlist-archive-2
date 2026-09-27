@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,159 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,111 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [Another Summer Night](https://open.spotify.com/track/3qNCkA9U5RgDiUonpjZgeN) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Another Summer Night](https://open.spotify.com/album/58v7qdKomDLAEuMgW91hm9) | 2:59 |
 | 100 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 |
 
-Snapshot ID: `AAAAAJ6Ai8XbVkoKCx3CH23R/RnDpfCi`
+Snapshot ID: `AAAAAD8vk7xRjZ/ypm+S9C04TuEZT9qr`

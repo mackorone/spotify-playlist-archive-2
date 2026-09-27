@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Pomme.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,360 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,342 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [Les mots blessent](https://open.spotify.com/track/4B1bOtFHzttyas5Q0dTU9Y) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [Les mots blessent](https://open.spotify.com/album/1xof0wVd4NHl6GD39ay3iw) | 2:46 |
 | 50 | [DANS LE LOINTAIN DE TA VOIX](https://open.spotify.com/track/1OpHQ93V8O2l4v3tmqKGdx) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [DANS LE LOINTAIN DE TA VOIX,](https://open.spotify.com/album/4RZKuT6mq1LPZCMZ5yvtVF) | 4:45 |
 
-Snapshot ID: `AAAAAK9fJaCGSiioOmvdR/khy+z6kaQW`
+Snapshot ID: `AAAAACNwnu6ixp+mCRoqyzEE36zC1qSk`

@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-139 songs - 8 hr 51 min
+140 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Chan Kithan Guzari Ayee Raat](https://open.spotify.com/track/6lhj5jxQ824CfnrAyjjvMR) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Nightingale of Punjab: Surinder Kaur](https://open.spotify.com/album/2zavYk1CzXnTndGsGRNQhw) | 3:15 | 2021-11-03 | 2025-04-19 |
 | [Chan Kithe Guzari Ayeerat](https://open.spotify.com/track/1cru0v9dm9EkUrCwtOwNA5) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 3:15 | 2022-07-16 | 2024-04-19 |
 | [Chann Kithaan](https://open.spotify.com/track/6QIg2fockltXGj8bxEta4y) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2) | [Chann Kithaan](https://open.spotify.com/album/1BZosnxUj4uQuKf4UGPWum) | 2:03 | 2025-01-31 | 2025-06-18 |
+| [Chann Kitthan](https://open.spotify.com/track/4SLA4bxtd0c98H3t2ZY7UU) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo) | [Chann Kitthan](https://open.spotify.com/album/0YThqPwboJDu2orXmeE9xN) | 4:42 | 2026-09-25 |  |
 | [Charkha Chanan Da](https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO) | [Vanitaa Pande](https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH) | [Charkha Chanan Da \- Single](https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db) | 2:41 | 2021-11-03 | 2026-08-11 |
 | [Charkha The Vibe](https://open.spotify.com/track/09R2sRYoPdCcDNcCiyGQJI) | [Ustad Puran Chand Wadali](https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Charkha The Vibe](https://open.spotify.com/album/7IwTJvvcQF74BnkFLp0rDD) | 3:50 | 2024-09-16 |  |
 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 | 2021-11-03 |  |
@@ -64,7 +65,7 @@
 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 | 2021-11-03 |  |
 | [Hulle Hulaare](https://open.spotify.com/track/5MOpZgPo1iGtHX3gH0Nf57) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Geet Shagna De](https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j) | 4:24 | 2026-01-13 | 2026-07-26 |
 | [Ik Jogi aa Gya](https://open.spotify.com/track/2rk1APwyNw3H0BmfiONgyu) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf), [Parwaaz Gill](https://open.spotify.com/artist/5jmBUt1mJQmrCriEgOJSFM), [Karanvir Klair](https://open.spotify.com/artist/7eCmvzU59pXo2zmjAlcRFz) | [Ik Jogi aa Gya](https://open.spotify.com/album/4m5xMq1O6qZVU35zIcUDxi) | 4:46 | 2025-04-21 |  |
-| [Jaago Aaiya](https://open.spotify.com/track/1hZxlzNO0gl0rl300qF7ta) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Monewala](https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe) | [Jaago Aaiya](https://open.spotify.com/album/16frN5B43EYTDx3qby507S) | 4:13 | 2025-04-18 |  |
+| [Jaago Aaiya](https://open.spotify.com/track/1hZxlzNO0gl0rl300qF7ta) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Monewala](https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe) | [Jaago Aaiya](https://open.spotify.com/album/16frN5B43EYTDx3qby507S) | 4:13 | 2025-04-18 | 2026-09-27 |
 | [Jagga](https://open.spotify.com/track/3FPP8CPjv5Show7rV5xQKN) | [Sarbjit Cheema](https://open.spotify.com/artist/67MuCsoVbUNiltSTIzIq9E) | [Haani](https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ) | 4:03 | 2025-07-03 |  |
 | [Jaggo](https://open.spotify.com/track/3dDMUe2iYu4ZbXCfrnTSIW) | [Manpreet Akhtar](https://open.spotify.com/artist/1CwUuNEwAVFy1v7499k1b6), [Simerjit Kumar](https://open.spotify.com/artist/2EsBXiOTeqKfrr4Le5f1tH), [Rani Randip](https://open.spotify.com/artist/28uWZQnbjKMIuB7lb68sx6) | [Haani](https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ) | 8:48 | 2025-07-03 |  |
 | [Jind Mahi](https://open.spotify.com/track/2NVJHduFkMaNNqhj3kmxWX) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Jind Mahi](https://open.spotify.com/album/4bemzLUnC5A2PDMyBroFY2) | 2:32 | 2024-10-23 | 2024-12-10 |

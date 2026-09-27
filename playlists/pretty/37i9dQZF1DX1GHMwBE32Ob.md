@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Danpapa GTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,026 likes - 60 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,125 likes - 60 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 41 | [Rock Me Gentle](https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Rock Me Gentle](https://open.spotify.com/album/45NPP48bR0MLByihoQBOia) | 3:06 |
 | 42 | [CLEAR](https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:33 |
 | 43 | [Gbewa](https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Gbewa](https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1) | 2:49 |
-| 44 | [CLAAT!](https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [CLAAT!](https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx) | 2:54 |
-| 45 | [Group Chat](https://open.spotify.com/track/4SdgMlhtSTiMnd8XuqCjn5) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [STREET THERAPIST](https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i) | 2:39 |
+| 44 | [Group Chat](https://open.spotify.com/track/4SdgMlhtSTiMnd8XuqCjn5) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [STREET THERAPIST](https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i) | 2:39 |
+| 45 | [CLAAT!](https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [CLAAT!](https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx) | 2:54 |
 | 46 | [Free](https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:31 |
 | 47 | [ITALAWA](https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [ITALAWA](https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W) | 2:53 |
 | 48 | [Bank Alert](https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Bank Alert](https://open.spotify.com/album/6gbIE8I2TYRVU23PoIltaS) | 2:22 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 56 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
 | 57 | [GO GO!](https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [B4R&W TAPE](https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY) | 2:04 |
 | 58 | [Jembe](https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Jembe / 14DRoad](https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew) | 2:18 |
-| 59 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 |
-| 60 | [Excellent](https://open.spotify.com/track/7iB4d1Hv4etq3g12IK8RHQ) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Excellent](https://open.spotify.com/album/4QSZZ7iKC0mYdxN7GxU6OQ) | 3:07 |
+| 59 | [Kowope](https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Kowope](https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh) | 3:31 |
+| 60 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 |
 
-Snapshot ID: `AAAAAK8p/93U/cK/MMrTTS6+DF4ZR1TA`
+Snapshot ID: `AAAAAP6CP3GMVsEix4l5QFj7jnbXzOjo`

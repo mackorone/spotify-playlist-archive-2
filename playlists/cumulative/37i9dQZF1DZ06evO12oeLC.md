@@ -4,7 +4,7 @@
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 9 min
+74 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,10 +21,10 @@
 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/5zQlCwM9crafkj3Al40Ptd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:28 | 2024-10-19 |  |
 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/7kRmyF6PQpQQbOZYb5NeA3) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BITCH YOU COULD NEVER](https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0) | 2:28 | 2024-10-10 | 2024-10-14 |
 | [Blanche](https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 2:36 | 2024-10-10 |  |
-| [Blue](https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:16 | 2024-10-10 |  |
+| [Blue](https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:16 | 2024-10-10 | 2026-09-27 |
 | [BRUTAAL](https://open.spotify.com/track/2h423mxiCIELj4DuQ2pre9) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUTAAL](https://open.spotify.com/album/065M2qcX0n60mgNjggtDFw) | 4:06 | 2024-10-10 | 2024-12-31 |
 | [BRUTAAL](https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUTAAL](https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ) | 4:06 | 2024-12-31 |  |
-| [Bye Bye Bye](https://open.spotify.com/track/72nmpQNmVWqUQqMJEV6qGo) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:22 | 2025-12-12 |  |
+| [Bye Bye Bye](https://open.spotify.com/track/72nmpQNmVWqUQqMJEV6qGo) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:22 | 2025-12-12 | 2026-09-27 |
 | [CATCHEUR](https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 2:39 | 2024-10-10 |  |
 | [Changer](https://open.spotify.com/track/7ap955BZJmJJDynfwgtCQW) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:08 | 2024-10-26 | 2024-11-01 |
 | [Corps](https://open.spotify.com/track/7qx03NsIL42jM03zFphnRO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 5:13 | 2024-10-10 |  |
@@ -59,6 +59,7 @@
 | [Nudes](https://open.spotify.com/track/2m5xfxB2MuEEDEAsunQxJb) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Nudes](https://open.spotify.com/album/17pL16UfqKUlIoZHMRW5h3) | 3:18 | 2024-10-10 |  |
 | [Nudes](https://open.spotify.com/track/71J6q9BTYhMT4JOjcH9ea1) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Bleu](https://open.spotify.com/album/6fpbdcvp2uiG3K28AaweQN) | 3:19 | 2024-10-21 | 2026-07-28 |
 | [NÉON ROUGE](https://open.spotify.com/track/7EHd1uyYFyuhMR7l6aH074) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:50 | 2024-10-10 |  |
+| [ONE MORE TIME](https://open.spotify.com/track/2nDmt51NZoiDMCpoRdr00I) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [ONE MORE TIME](https://open.spotify.com/album/5udFKmbffhWKbXaRDgCj1m) | 2:41 | 2026-09-27 |  |
 | [Pause](https://open.spotify.com/track/57TwkG6mUvWDZsEqARyeI2) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:05 | 2024-10-10 |  |
 | [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 | 2024-10-10 |  |
 | [PETIT <3](https://open.spotify.com/track/6f0gMyXWn8vd4sDwA9xlNg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:12 | 2024-10-10 |  |
@@ -71,6 +72,7 @@
 | [STUPID\(E\)](https://open.spotify.com/track/5Ldw3ME8Wy1SMhgSGCfEvt) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:14 | 2024-10-10 | 2025-11-27 |
 | [SUICIDE](https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:26 | 2024-10-10 |  |
 | [Summer Love](https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:00 | 2024-10-10 |  |
+| [Superstar](https://open.spotify.com/track/0m7irE9fQpYzqWvVnXQYzj) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Superstar](https://open.spotify.com/album/1MXDUYzVkR8AvpCOdKiVQq) | 3:54 | 2026-09-27 |  |
 | [Te Amo](https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 3:02 | 2024-10-10 | 2026-09-01 |
 | [Trop peu de temps \- Souvenirs d'été](https://open.spotify.com/track/52zR5zo8AYk8j6NuXEQpTg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Trop peu de temps \- Souvenirs d'été](https://open.spotify.com/album/47DegVvp3qZCPIs6952aa6) | 3:32 | 2024-10-10 |  |
 | [TUNING](https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:42 | 2024-10-10 |  |

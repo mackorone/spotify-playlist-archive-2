@@ -5123,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/47rlABSBChwZC7qxAKzOWw"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229728,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv"
+    },
+    {
+      "album": {
         "name": "Soul Directions EP",
         "url": "https://open.spotify.com/album/00hsq6Q20JyLrWF9D3aUla"
       },

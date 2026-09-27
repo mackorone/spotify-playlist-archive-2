@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63412,
+  "num_followers": 63409,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAB1qrBcO0A5k0EcA3SFcXk9",
+  "snapshot_id": "arW5gAAAAAD32ntgC8B3dlT5QX2MtvyR",
   "tracks": [
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 131106,
-      "name": "Mais Perto Quero Estar - Ao Vivo",
-      "url": "https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q"
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
+      "duration_ms": 131106,
+      "name": "Mais Perto Quero Estar - Ao Vivo",
+      "url": "https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q"
     },
     {
       "added_at": null,
@@ -515,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reina Sobre Mim",
-        "url": "https://open.spotify.com/album/23nFUCxOBdQu13XZrYDcsL"
+        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Nathanael Brito",
+          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
         }
       ],
-      "duration_ms": 388200,
-      "name": "Reina Sobre Mim",
-      "url": "https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv"
+      "duration_ms": 602491,
+      "name": "Que Ele Cres\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
     },
     {
       "added_at": null,
@@ -551,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
+        "name": "Reina Sobre Mim",
+        "url": "https://open.spotify.com/album/23nFUCxOBdQu13XZrYDcsL"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Nathanael Brito",
-          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
         }
       ],
-      "duration_ms": 602491,
-      "name": "Que Ele Cres\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
+      "duration_ms": 388200,
+      "name": "Reina Sobre Mim",
+      "url": "https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv"
     },
     {
       "added_at": null,
@@ -851,26 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Ele a Gl\u00f3ria na Igreja",
-        "url": "https://open.spotify.com/album/03Oehqdaqtyu4ubVUcBh7k"
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
       "artists": [
         {
-          "name": "Thamires Garcia",
-          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
-        },
-        {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Giovana Chartres",
-          "url": "https://open.spotify.com/artist/1Cbv61WBoMPhe7nTGNBE24"
         }
       ],
-      "duration_ms": 904635,
-      "name": "At\u00e9 que o Senhor venha + At\u00e9 que Ele venha + Ser achado Fiel",
-      "url": "https://open.spotify.com/track/1iH4wVFCRPZjmL4VlyHiFs"
+      "duration_ms": 265586,
+      "name": "Os Que Esperam - Ao Vivo",
+      "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
     },
     {
       "added_at": null,
@@ -891,18 +883,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+        "name": "A Ele a Gl\u00f3ria na Igreja",
+        "url": "https://open.spotify.com/album/03Oehqdaqtyu4ubVUcBh7k"
       },
       "artists": [
         {
+          "name": "Thamires Garcia",
+          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
+        },
+        {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Giovana Chartres",
+          "url": "https://open.spotify.com/artist/1Cbv61WBoMPhe7nTGNBE24"
         }
       ],
-      "duration_ms": 265586,
-      "name": "Os Que Esperam - Ao Vivo",
-      "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
+      "duration_ms": 904635,
+      "name": "At\u00e9 que o Senhor venha + At\u00e9 que Ele venha + Ser achado Fiel",
+      "url": "https://open.spotify.com/track/1iH4wVFCRPZjmL4VlyHiFs"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ousado Amor",
+        "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 826880,
+      "name": "Ousado Amor",
+      "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medley Cora\u00e7\u00e3o Igual ao Teu (Ao Vivo)",
         "url": "https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 437090,
       "name": "Medley Cora\u00e7\u00e3o Igual ao Teu - Ao Vivo",
       "url": "https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ousado Amor",
-        "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 826880,
-      "name": "Ousado Amor",
-      "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
     },
     {
       "added_at": null,

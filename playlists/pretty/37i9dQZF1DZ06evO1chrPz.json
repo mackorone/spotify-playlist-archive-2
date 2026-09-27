@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 208582,
+  "num_followers": 208585,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAABqQhs2ZgRTll7mLJTFYbO+",
+  "snapshot_id": "arW5gAAAAADtkABgE+bSclhOQu/clFAn",
   "tracks": [
     {
       "added_at": null,
@@ -263,30 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starlight (Live)",
-        "url": "https://open.spotify.com/album/6FQt2yjB8m4548YBYLTqZZ"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        }
-      ],
-      "duration_ms": 299365,
-      "name": "King of My Heart (Live)",
-      "url": "https://open.spotify.com/track/4XMy9Gv7Q7SWwIU4RdzdSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
@@ -307,6 +283,30 @@
       "duration_ms": 514573,
       "name": "God of Revival (Live)",
       "url": "https://open.spotify.com/track/6gkCpCwYkE60dNJULveMfZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/6FQt2yjB8m4548YBYLTqZZ"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "duration_ms": 299365,
+      "name": "King of My Heart (Live)",
+      "url": "https://open.spotify.com/track/4XMy9Gv7Q7SWwIU4RdzdSG"
     },
     {
       "added_at": null,

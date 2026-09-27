@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 657 likes - 158 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 659 likes - 158 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,8 +156,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 146 | [The Pophams](https://open.spotify.com/track/7DvL140nbVHu0qiKbJYqyw) | [Murray Matheson](https://open.spotify.com/artist/29UpLxizw1xzz0588qT73J) | [Oh, Kay! \(The Original Cast Album\)](https://open.spotify.com/album/0zGvpLNJcPl8ylxbn0fc8o) | 2:12 |
 | 147 | [Our Little Kitchenette](https://open.spotify.com/track/0AQlJlTXS8S812djx0LRJt) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Rebecca Luker](https://open.spotify.com/artist/5KXbASGgemRL6AkTtwH1if), [Philip Chaffin](https://open.spotify.com/artist/4Y52j2FlUUCfcOa5WuX31W) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 3:22 |
 | 148 | [A Corner of Heaven with You](https://open.spotify.com/track/224N7d1XLDBbBgOZ6QmyBv) | [Earl Okin](https://open.spotify.com/artist/5NVqliGdTXQoIfOTTzAKxk) | [Songs from a Basement](https://open.spotify.com/album/4quNKedgvcKb3yepHw9OgS) | 3:54 |
-| 149 | [Sumartid](https://open.spotify.com/track/7n69jT21lZMfG0n4AcSebs) | [Gerd Michaelsen](https://open.spotify.com/artist/03Xqh5fw9mUwbR28LAQNNr) | [Stille Ballade](https://open.spotify.com/album/0hc2dN14KACxyXx2hQImjs) | 4:28 |
-| 150 | [I'm a poached egg](https://open.spotify.com/track/2P4P55eCP2eBTYfQl6ncwk) | [Cassandra Charlick](https://open.spotify.com/artist/6vT9kqySnFplqB0FMkVfwQ), [The Southwest Quintet](https://open.spotify.com/artist/5vrQ57YwqhAsjelse0KMIg) | [Caves Road](https://open.spotify.com/album/5E9MILTdZtgxrLj8Lu9vgK) | 3:02 |
+| 149 | [I'm a poached egg](https://open.spotify.com/track/2P4P55eCP2eBTYfQl6ncwk) | [Cassandra Charlick](https://open.spotify.com/artist/6vT9kqySnFplqB0FMkVfwQ), [The Southwest Quintet](https://open.spotify.com/artist/5vrQ57YwqhAsjelse0KMIg) | [Caves Road](https://open.spotify.com/album/5E9MILTdZtgxrLj8Lu9vgK) | 3:02 |
+| 150 | [Sumartid](https://open.spotify.com/track/7n69jT21lZMfG0n4AcSebs) | [Gerd Michaelsen](https://open.spotify.com/artist/03Xqh5fw9mUwbR28LAQNNr) | [Stille Ballade](https://open.spotify.com/album/0hc2dN14KACxyXx2hQImjs) | 4:28 |
 | 151 | [Just Supposing](https://open.spotify.com/track/6xiBjih1c1K1OI7juHhqNO) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Philip Chaffin](https://open.spotify.com/artist/4Y52j2FlUUCfcOa5WuX31W), [Sara Jean Ford](https://open.spotify.com/artist/623OjNkhQw1xarNCQZqiO3) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 2:51 |
 | 152 | [You Started It](https://open.spotify.com/track/4eNA2fvVW2rZQiU4whUHoo) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frederick Hodges](https://open.spotify.com/artist/7Ag8IpdEfkvkjbKhytoiFv) | [Do It Again: Frederick Hodges Plays the Music of George Gershwin](https://open.spotify.com/album/3nvK08h8vItkdLdlrYwGdt) | 4:37 |
 | 153 | [The Life Of A Rose](https://open.spotify.com/track/1Aufh3lEEZWJx1z5iqcDm7) | [前田祐希](https://open.spotify.com/artist/4Po73izFwEqVrjRVnnH8ks), [柴野さつき](https://open.spotify.com/artist/38BUVTxULHjh8JxpJCBwJu) | [JAZZ AGE GERSHWIN SONG BOOK Ⅱ](https://open.spotify.com/album/68JFr9RwdwhnC07ECuRN7b) | 2:18 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 157 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 158 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AcdSMAAAAAASMjSx5Rv/+8KHnASiVOQ6`
+Snapshot ID: `AcdXsgAAAACOOcU4nb8fowJ/0uyYR5LD`

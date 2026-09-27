@@ -4,7 +4,7 @@
 
 > This is Intocable\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 1 min
+85 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Contigo](https://open.spotify.com/track/4uvXexDPkF0gV2K6sqNYDV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:25 | 2023-08-08 |  |
 | [Contra Viento Y Marea](https://open.spotify.com/track/4kciJLaO7wMORqQILZbYCU) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [X](https://open.spotify.com/album/66JS64FD7dhGEKIHo2Uizr) | 3:41 | 2025-07-16 | 2025-10-01 |
 | [Coqueta](https://open.spotify.com/track/7qA8CEV09ZmwrDGUU5cCmc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Otro Mundo](https://open.spotify.com/album/59Vhmr9cg38yiXZwUgxfQZ) | 3:01 | 2023-08-08 |  |
+| [Cuando Se Haga De Noche](https://open.spotify.com/track/2gBbXhcJKwji4r3aWTEksV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Cuando Se Haga De Noche](https://open.spotify.com/album/1JBjepMflPft1aLR3dwWFN) | 3:18 | 2026-09-27 |  |
 | [Culpable Fui \(Culpable Soy\)](https://open.spotify.com/track/22XeCzFTEZvb2ztvrg8hDY) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [En Peligro De Extinción](https://open.spotify.com/album/0nKSgzMBxxghnjJATsPm2Z) | 3:34 | 2025-06-20 |  |
 | [Dame Un Besito](https://open.spotify.com/track/4TkNaOLBBSHVI4W5vjuAKK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:47 | 2023-08-08 |  |
 | [Dejate Amar](https://open.spotify.com/track/5iveqz8wifjSPTBWwOtSiI) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [X \(Vol\. 2\)](https://open.spotify.com/album/410rRXK2ZRpUWNv37vUSy2) | 4:31 | 2023-08-08 |  |
@@ -75,7 +76,7 @@
 | [Sueña](https://open.spotify.com/track/7EjNvqolyU8YKutApPPwXe) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 4:13 | 2023-08-08 | 2024-09-13 |
 | [Sueña](https://open.spotify.com/track/4yGH1izgbWxMYIEu8EVH9x) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Sueños](https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24) | 4:16 | 2024-09-13 |  |
 | [Te Amo \(Para Siempre\)](https://open.spotify.com/track/6IL4kE0WnD4CfKp2me7vCa) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [En Peligro De Extinción](https://open.spotify.com/album/0nKSgzMBxxghnjJATsPm2Z) | 4:34 | 2023-08-08 |  |
-| [Te Dejo Libre](https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [La Vida \(Deluxe\)](https://open.spotify.com/album/2mCF7tagY5QWepheBHM236) | 3:04 | 2023-08-08 |  |
+| [Te Dejo Libre](https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [La Vida \(Deluxe\)](https://open.spotify.com/album/2mCF7tagY5QWepheBHM236) | 3:04 | 2023-08-08 | 2026-09-27 |
 | [Te Perdono](https://open.spotify.com/track/6TNp0Npc9NP2NKznr1Xb4Y) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Highway](https://open.spotify.com/album/1XdnsguIr95QPVg7lZ45rm) | 3:24 | 2023-08-16 |  |
 | [Te Sigo Amando](https://open.spotify.com/track/06ObpSp29jQW8zOhpYrmSq) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Sueños](https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24) | 3:33 | 2025-03-20 | 2026-08-27 |
 | [Te Voy A Conquistar](https://open.spotify.com/track/4d6qswupJd3fNwwN7t8kr2) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 2:34 | 2023-08-08 | 2026-08-27 |

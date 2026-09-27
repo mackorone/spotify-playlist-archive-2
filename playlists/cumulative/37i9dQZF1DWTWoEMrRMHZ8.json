@@ -1617,6 +1617,32 @@
     },
     {
       "album": {
+        "name": "Amigos Novos e Antigos",
+        "url": "https://open.spotify.com/album/1fR9eyUb98QHYIiB5Wz4ms"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276013,
+      "name": "Amigos Novos e Antigos",
+      "url": "https://open.spotify.com/track/4lfemtNyGfHygcrF5C2tg4"
+    },
+    {
+      "album": {
         "name": "Amor a tr\u00eas (Ou de Como Flertei com Lobo Antunes)",
         "url": "https://open.spotify.com/album/2CDEJdMlTcIvMTS5hSekfd"
       },
@@ -10907,6 +10933,28 @@
     },
     {
       "album": {
+        "name": "Jo\u00e3o",
+        "url": "https://open.spotify.com/album/4afLVA7wfxfZb3ZMV2DtUb"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9zar Mendes",
+          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214831,
+      "name": "Jo\u00e3o",
+      "url": "https://open.spotify.com/track/4rfBy8eeyvMaaXbuWjIkBe"
+    },
+    {
+      "album": {
         "name": "80 Anos",
         "url": "https://open.spotify.com/album/2API3cAXrr7L5tiW4RVyqp"
       },
@@ -12784,7 +12832,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 369806,
       "name": "Medley Latino - Ao Vivo",
       "url": "https://open.spotify.com/track/2aJKzqgQWPHl54LcoYc30N"
@@ -14230,7 +14278,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 232966,
       "name": "Nem Uma, Nem Duas, Nem Tr\u00eas",
       "url": "https://open.spotify.com/track/6CtJhfxODuGlf3atmAbki1"
@@ -16158,6 +16206,52 @@
       "duration_ms": 198702,
       "name": "Olha",
       "url": "https://open.spotify.com/track/5V5EFOPbPIbQxuxgGIRKDt"
+    },
+    {
+      "album": {
+        "name": "OLHO NO OLHO",
+        "url": "https://open.spotify.com/album/2cdVtTXvo7LAGoyf7sZ32Q"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Matta",
+          "url": "https://open.spotify.com/artist/5hW7nkcg78uGyLhGFlpLtS"
+        },
+        {
+          "name": "Larissa Luz",
+          "url": "https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        },
+        {
+          "name": "Mateus Aleluia",
+          "url": "https://open.spotify.com/artist/5a4ZtVIIv7tXhpSniKoUdv"
+        },
+        {
+          "name": "Roberto Barreto",
+          "url": "https://open.spotify.com/artist/2Qns8nfDAcCCelORHr5JhV"
+        },
+        {
+          "name": "Lan Lanh",
+          "url": "https://open.spotify.com/artist/7uPgOaM3jjmkwuua1RgZHg"
+        },
+        {
+          "name": "Enio",
+          "url": "https://open.spotify.com/artist/4zTNWL5CqIzosKFehBaYu0"
+        },
+        {
+          "name": "Guilherme Kastrup",
+          "url": "https://open.spotify.com/artist/7DBqQRhNbhTOu3hDO0XE8Q"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "OLHO NO OLHO",
+      "url": "https://open.spotify.com/track/657LqO6QrB6TJm6ZYZzVLg"
     },
     {
       "album": {
@@ -21136,7 +21230,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 174565,
       "name": "SEM DRAMAS",
       "url": "https://open.spotify.com/track/7aYoAp3JEVSEpZHW0r06hw"
@@ -22664,6 +22758,24 @@
       "duration_ms": 199000,
       "name": "Tanto Voc\u00ea",
       "url": "https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c"
+    },
+    {
+      "album": {
+        "name": "Tantos Amores",
+        "url": "https://open.spotify.com/album/6L0Jz9YcrAXBgw1auErWFf"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181813,
+      "name": "Tantos Amores",
+      "url": "https://open.spotify.com/track/0I4DvvxFa0sBuuJId2bU9L"
     },
     {
       "album": {
@@ -24752,7 +24864,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 125193,
       "name": "VAMO COM CALMA, MALANDRA",
       "url": "https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm"

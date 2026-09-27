@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 53492,
+  "num_followers": 53495,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAC8W5IHBhARip5dywQ8eMqn",
+  "snapshot_id": "arW5gAAAAAD0UFSKEhOKl2j2nR3GauZO",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music From The Motion Picture Michael",
-        "url": "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 264786,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Forgiveness",
         "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 165400,
       "name": "Louise - 2008 Remaster",
       "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music From The Motion Picture Michael",
+        "url": "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Cry On My Shoulder",
-      "url": "https://open.spotify.com/track/6YQ2RgaJVn2aeFFsNHB4Yb"
+      "duration_ms": 194908,
+      "name": "Nobody's Girl",
+      "url": "https://open.spotify.com/track/3N3Pa8T8epLgjMplqbetq8"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 194908,
-      "name": "Nobody's Girl",
-      "url": "https://open.spotify.com/track/3N3Pa8T8epLgjMplqbetq8"
+      "duration_ms": 224200,
+      "name": "Cry On My Shoulder",
+      "url": "https://open.spotify.com/track/6YQ2RgaJVn2aeFFsNHB4Yb"
     },
     {
       "added_at": null,

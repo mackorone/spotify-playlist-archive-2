@@ -1,12 +1,12 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 821685,
+  "num_followers": 821726,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOx+y7dMHlkHGxVJyd856Ufg7TFF",
+  "snapshot_id": "AAAAAAaKe5aGKMnnc2BzOQo07r3P3cDB",
   "tracks": [
     {
       "added_at": "2026-09-25 04:02:48",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-09-25 04:02:48",
       "album": {
+        "name": "Holy Line",
+        "url": "https://open.spotify.com/album/00zs78kdZrIo3qGLITPC2a"
+      },
+      "artists": [
+        {
+          "name": "Mynolia",
+          "url": "https://open.spotify.com/artist/1M7odak1xeImHJBDcIMTAg"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Holy Line",
+      "url": "https://open.spotify.com/track/5JZD5yys1uzvrE0nCFJDJ0"
+    },
+    {
+      "added_at": "2026-09-25 04:02:48",
+      "album": {
         "name": "John Came Home",
         "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 191182,
       "name": "John Came Home",
       "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
-    },
-    {
-      "added_at": "2026-09-25 04:02:48",
-      "album": {
-        "name": "Heavy Tobacco",
-        "url": "https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj"
-      },
-      "artists": [
-        {
-          "name": "Angela Autumn",
-          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
-        }
-      ],
-      "duration_ms": 189609,
-      "name": "Heavy Tobacco",
-      "url": "https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at"
     },
     {
       "added_at": "2026-09-25 04:02:48",
@@ -655,18 +655,18 @@
     {
       "added_at": "2026-09-25 04:02:48",
       "album": {
-        "name": "Holy Line",
-        "url": "https://open.spotify.com/album/00zs78kdZrIo3qGLITPC2a"
+        "name": "Heavy Tobacco",
+        "url": "https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj"
       },
       "artists": [
         {
-          "name": "Mynolia",
-          "url": "https://open.spotify.com/artist/1M7odak1xeImHJBDcIMTAg"
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
         }
       ],
-      "duration_ms": 207718,
-      "name": "Holy Line",
-      "url": "https://open.spotify.com/track/5JZD5yys1uzvrE0nCFJDJ0"
+      "duration_ms": 189609,
+      "name": "Heavy Tobacco",
+      "url": "https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at"
     },
     {
       "added_at": "2026-09-25 04:02:48",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-09-25 04:02:48",
       "album": {
-        "name": "How To Act",
-        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 221104,
-      "name": "How To Act",
-      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
-    },
-    {
-      "added_at": "2026-09-25 04:02:48",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 335586,
       "name": "Hy-Brasil",
       "url": "https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq"
+    },
+    {
+      "added_at": "2026-09-25 04:02:48",
+      "album": {
+        "name": "How To Act",
+        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 221104,
+      "name": "How To Act",
+      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
     },
     {
       "added_at": "2026-09-25 04:02:48",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-09-25 04:02:48",
       "album": {
-        "name": "Wooden Machine",
-        "url": "https://open.spotify.com/album/1pTDcGfgXQEwT2uzMuKTT3"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 222170,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/1bSaCwYFe8qwTcNuEIFvKV"
-    },
-    {
-      "added_at": "2026-09-25 04:02:48",
-      "album": {
         "name": "Blacklisted",
         "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 150293,
       "name": "Things That Scare Me",
       "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
+    },
+    {
+      "added_at": "2026-09-25 04:02:48",
+      "album": {
+        "name": "Wooden Machine",
+        "url": "https://open.spotify.com/album/1pTDcGfgXQEwT2uzMuKTT3"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 222170,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/1bSaCwYFe8qwTcNuEIFvKV"
     },
     {
       "added_at": "2026-09-25 04:02:48",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-09-25 04:02:48",
       "album": {
-        "name": "The Winter of '68",
-        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 202979,
-      "name": "The Winter of '68",
-      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
-    },
-    {
-      "added_at": "2026-09-25 04:02:48",
-      "album": {
         "name": "Billy Jack",
         "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 285680,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy"
+    },
+    {
+      "added_at": "2026-09-25 04:02:48",
+      "album": {
+        "name": "The Winter of '68",
+        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 202979,
+      "name": "The Winter of '68",
+      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
     },
     {
       "added_at": "2026-09-25 04:02:48",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-09-25 04:02:48",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 180920,
-      "name": "The Beast",
-      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
-    },
-    {
-      "added_at": "2026-09-25 04:02:48",
-      "album": {
         "name": "Another Man\u02bcs Grave",
         "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 188677,
       "name": "Another Man\u02bcs Grave",
       "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
+    },
+    {
+      "added_at": "2026-09-25 04:02:48",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "The Beast",
+      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
     },
     {
       "added_at": "2026-09-25 04:02:48",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-09-25 04:02:48",
       "album": {
-        "name": "Look Homeward",
-        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
-      },
-      "artists": [
-        {
-          "name": "Look Homeward",
-          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Sister Death",
-      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
-    },
-    {
-      "added_at": "2026-09-25 04:02:48",
-      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2026-09-25 04:02:48",
+      "album": {
+        "name": "Look Homeward",
+        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
+      },
+      "artists": [
+        {
+          "name": "Look Homeward",
+          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Sister Death",
+      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
     },
     {
       "added_at": "2026-09-25 04:02:48",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-09-25 04:02:48",
       "album": {
-        "name": "Small Town Murder Songs - Original Soundtrack",
-        "url": "https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ"
-      },
-      "artists": [
-        {
-          "name": "Bruce Peninsula",
-          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB"
-    },
-    {
-      "added_at": "2026-09-25 04:02:48",
-      "album": {
         "name": "Underneath the Blood Moon",
         "url": "https://open.spotify.com/album/0wSfaQBd6ihGGQjGNCza3B"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 270733,
       "name": "Underneath the Blood Moon",
       "url": "https://open.spotify.com/track/76JVAMWG968qRkbccq6ziq"
+    },
+    {
+      "added_at": "2026-09-25 04:02:48",
+      "album": {
+        "name": "Small Town Murder Songs - Original Soundtrack",
+        "url": "https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
+        }
+      ],
+      "duration_ms": 192586,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB"
     },
     {
       "added_at": "2026-09-25 04:02:48",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-09-25 04:02:48",
       "album": {
+        "name": "All At Once",
+        "url": "https://open.spotify.com/album/0fhD46AUdmjSYUCRqK6dvQ"
+      },
+      "artists": [
+        {
+          "name": "Kyle Brew",
+          "url": "https://open.spotify.com/artist/4N25oCcl4blSyXlM7Ee99x"
+        }
+      ],
+      "duration_ms": 252580,
+      "name": "All At Once",
+      "url": "https://open.spotify.com/track/74gSpIrkHzp0KmlvYzrm5M"
+    },
+    {
+      "added_at": "2026-09-25 04:02:48",
+      "album": {
         "name": "Bastard Children",
         "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 203546,
       "name": "Country Blues",
       "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
-    },
-    {
-      "added_at": "2026-09-25 04:02:48",
-      "album": {
-        "name": "All At Once",
-        "url": "https://open.spotify.com/album/0fhD46AUdmjSYUCRqK6dvQ"
-      },
-      "artists": [
-        {
-          "name": "Kyle Brew",
-          "url": "https://open.spotify.com/artist/4N25oCcl4blSyXlM7Ee99x"
-        }
-      ],
-      "duration_ms": 252580,
-      "name": "All At Once",
-      "url": "https://open.spotify.com/track/74gSpIrkHzp0KmlvYzrm5M"
     },
     {
       "added_at": "2026-09-25 04:02:48",

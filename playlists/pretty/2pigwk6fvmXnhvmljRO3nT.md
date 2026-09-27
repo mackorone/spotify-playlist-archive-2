@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,573 songs - 21 day 19 hr 15 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,574 songs - 21 day 19 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8581,5 +8581,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8571 | [낙인](https://open.spotify.com/track/1H5lkV0ikc6UgAiHxNViIP) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [CHUNO \(Original Television Soundtrack\)](https://open.spotify.com/album/4wk034lM0Ih9IZeen9obw6) | 4:46 |
 | 8572 | [Be Like a Woman](https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n) | [Chris Rainbow](https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl) | [White Trails \(Expanded\)](https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU) | 4:15 |
 | 8573 | [The Blonde](https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:47 |
+| 8574 | [Tears in Heaven](https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Rush \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2) | 4:31 |
 
-Snapshot ID: `AAANIxoyVIMJOw1+VX7WvEjaCWR/xZP/`
+Snapshot ID: `AAANJCjtYFK63Tuie+39KUue5g3oOI/X`

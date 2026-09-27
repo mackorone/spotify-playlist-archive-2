@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1435164,
+  "num_followers": 1435200,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAAn+9u0foq83YV/9OT8JPoB",
+  "snapshot_id": "arW5gAAAAABs7lvYtCzhnQ/IJNNB1x1L",
   "tracks": [
     {
       "added_at": null,
@@ -379,30 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awake Tonight",
-        "url": "https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Awake Tonight",
-      "url": "https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That's Life (feat. Mac Miller & Sia)",
         "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
       },
@@ -423,6 +399,30 @@
       "duration_ms": 202390,
       "name": "That's Life (feat. Mac Miller & Sia)",
       "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awake Tonight",
+        "url": "https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Awake Tonight",
+      "url": "https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music (Songs From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 292656,
+      "name": "Courage to Change",
+      "url": "https://open.spotify.com/track/7FPJ3rncDYvcdgW11PhTMw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 204093,
       "name": "Audio (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/100eDEmpWV5YGVCqHI0leU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music (Songs From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 292656,
-      "name": "Courage to Change",
-      "url": "https://open.spotify.com/track/7FPJ3rncDYvcdgW11PhTMw"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Big Girls Cry",
-      "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Still Here",
         "url": "https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 241910,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Big Girls Cry",
+      "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chakzilla",
+        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Cool You Down - feat. Sia",
+      "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1000 Forms Of Fear",
         "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 263520,
       "name": "Alive",
       "url": "https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chakzilla",
-        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Cool You Down - feat. Sia",
-      "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
     },
     {
       "added_at": null,

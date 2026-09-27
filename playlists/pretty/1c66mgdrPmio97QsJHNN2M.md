@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,988 likes - 219 songs - 11 hr 29 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,989 likes - 223 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,5 +227,9 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 217 | [Who whatever](https://open.spotify.com/track/4cA8Ezw2mxVgYI4hi0ml0G) | [maryann connolly](https://open.spotify.com/artist/1Kfx404oSvrK7zHM8m68Tq) | [Who whatever](https://open.spotify.com/album/0PdZuDVoUbsZ6Z126mvdnp) | 3:09 |
 | 218 | [SIX FEET UNDER](https://open.spotify.com/track/4IxMM0mr98Xbljw4AAuwig) | [Hailwin](https://open.spotify.com/artist/4RkWRB5PKxsHIRO2wO1qGE), [Avareld Syd](https://open.spotify.com/artist/0emocifRgTbVRtGGHnJA4H) | [SIX FEET UNDER](https://open.spotify.com/album/2JblkpvTX2kRJ0Gb0OE4Fb) | 2:57 |
 | 219 | [Lady BlackRock](https://open.spotify.com/track/0PCToz8pEJeWLvgwl8Tq29) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Seasons of the Heart](https://open.spotify.com/album/5odgStwg57XKUhSFhiJtxS) | 4:22 |
+| 220 | [3h33](https://open.spotify.com/track/21pN6mwkdjC9mnxnm9OHhL) | [JXNAI](https://open.spotify.com/artist/3e74U07jLifk60Lilku0dc) | [3h33](https://open.spotify.com/album/4QrmOnyiLed5dT2Q1J3uTr) | 2:33 |
+| 221 | [Lilac](https://open.spotify.com/track/5mMIebW4Dc6hta7nWoIjbW) | [OXSOLATE](https://open.spotify.com/artist/05cFqIG5wdH4ixqazlLTlM) | [If We Can Make It To The Moon](https://open.spotify.com/album/7nr9V5xqkN2BcD3Dh3xQlh) | 2:08 |
+| 222 | [Waterfall Of Love](https://open.spotify.com/track/5OW5g5T1f4UnXsTjmKOaBR) | [MATURE](https://open.spotify.com/artist/1lwuXLBuOkjKd0rZ1fwV41) | [Waterfall Of Love](https://open.spotify.com/album/30uLVyrCkpCFEsFCkZ80fB) | 2:44 |
+| 223 | [Halloween](https://open.spotify.com/track/1p6gPdesVFeJ0iUIW36szB) | [Missing Since Monday](https://open.spotify.com/artist/4oPbfmyQAkcukOgEUt3ZAb) | [Halloween](https://open.spotify.com/album/1ArECBsSpdUMD2bbInsYx9) | 3:16 |
 
-Snapshot ID: `AAA8muIPMDas8CBokQl2IayNMt17oUOy`
+Snapshot ID: `AAA8nkWL2bTniZ3dBu1Cgxzvd+kCShp0`

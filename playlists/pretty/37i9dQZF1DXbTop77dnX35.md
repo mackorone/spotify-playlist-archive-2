@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Young Jonn, Tiakola, Ayo Maff, Niniola, Shoday, Camidoh, Kabza de Small and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,833 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,951 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 59 | [Groove](https://open.spotify.com/track/1IBGirswsPLdCNGt5RjSNO) | [Champz](https://open.spotify.com/artist/2fZXMOwo3wPF5TcA48sKKs) | [Groove](https://open.spotify.com/album/3SWh3SJqQBBRnpmGiPZ4Y8) | 2:26 |
 | 60 | [Sam Loco](https://open.spotify.com/track/76TYCrrpDwUmj8PpleVcey) | [R33NZO](https://open.spotify.com/artist/2w34rjWGumCU3vOiCVd3J6), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Sam Loco](https://open.spotify.com/album/7hxSqSEadUIaVI73BGpsOg) | 2:02 |
 
-Snapshot ID: `AAAAAHsDhQGeL/wgKa1BZOZ8rUi3WK0v`
+Snapshot ID: `AAAAAFqwU9Ql26jaXY02xoKH8Td8wv/p`

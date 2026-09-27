@@ -2,9 +2,9 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> The hottest hits right now\. Cover: Shaw
+> The hottest hits right now\. Cover: Tchubi
 
-579 songs - 1 day 6 hr 34 min
+580 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [Nsiti](https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG) | 2:52 | 2022-12-21 | 2023-08-26 |
 | [Nsiti](https://open.spotify.com/track/39IyCxrLN3USQLaTQ9tnMa) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/0uTXQyHxnSUibdyT05WCCu) | 2:52 | 2022-09-01 | 2022-12-24 |
 | [Ntiya](https://open.spotify.com/track/3HTXEyvWPTZusrpBWmU6oy) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Ntiya](https://open.spotify.com/album/6kHpHJnasd7it6G9fYW6lc) | 4:16 | 2024-07-18 | 2024-08-02 |
-| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-08-22 |  |
+| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-08-22 | 2026-09-27 |
 | [Obligación](https://open.spotify.com/track/5YyO478uZQNJ9s9B1cBB3z) | [Delarue](https://open.spotify.com/artist/5k63RPpkbbyVuufLXS2GTe), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [NO STOP](https://open.spotify.com/album/6FPY0EcDgbE3bNaFPAtfVv) | 4:30 | 2024-06-13 | 2024-07-19 |
 | [OFF MY MIND REWORK \(ALIVE SESSION\)](https://open.spotify.com/track/28azhH8rcRQvoJn4btylPF) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Lina Guessoussi](https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd) | [DIARY OF A DEAD MAN \(ALIVE SESSION\)](https://open.spotify.com/album/4mQeK8UfZQgMkxtynqJXli) | 4:25 | 2025-02-18 | 2025-06-20 |
 | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/track/0XnvKbl68rDvXAI4uOU8rk) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/album/48OejE1iLW3oJeoA1g8xDI) | 2:52 | 2022-05-12 | 2022-05-31 |
@@ -409,6 +409,7 @@
 | [POUR ELLE](https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:59 | 2024-11-04 | 2025-01-05 |
 | [prayer1](https://open.spotify.com/track/2R4sIoCrJb4OV5qcsNDIQ6) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [prayer1](https://open.spotify.com/album/7byVxlCnqyq58cDcMj3bls) | 2:22 | 2023-10-29 | 2023-12-13 |
 | [prayer1](https://open.spotify.com/track/4GCI038c3eATmIc1NwNIzs) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [prayer1](https://open.spotify.com/album/0fODpsuQX4BZSnYoEnRHCf) | 2:22 | 2023-12-08 | 2023-12-14 |
+| [PRINCES DE LA VILLE](https://open.spotify.com/track/04oqFPC9D6wBX00Mm2ozR4) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Hoba Hoba Spirit](https://open.spotify.com/artist/2aZPgvcYQD2z4NIoO8x8Gi) | [A MAN WITH A GUN](https://open.spotify.com/album/1fPQXsgkWCQIvcLMgOeztV) | 3:37 | 2026-09-26 |  |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2025-01-11 | 2025-02-19 |
 | [Pyramide](https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:28 | 2024-03-08 | 2024-04-22 |
 | [Pélican](https://open.spotify.com/track/3vE9tuRoHiyNPG5HJQLgNd) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Pélican](https://open.spotify.com/album/7tGOpS4UrTuzHTnnyHv8YS) | 2:45 | 2025-02-24 | 2025-08-14 |

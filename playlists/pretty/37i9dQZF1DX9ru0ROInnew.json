@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 149123,
+  "num_followers": 149151,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEvyoHaPGBZfgV65f0CXK8q0aW9W",
+  "snapshot_id": "AAAAAN1qlbHB4pkipfHeMmy1d5DAbUNY",
   "tracks": [
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1795,6 +1795,42 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Robinson Cano",
+        "url": "https://open.spotify.com/album/0t8jeXWVB5YtvvfWnQYdqL"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 182710,
+      "name": "Robinson Cano",
+      "url": "https://open.spotify.com/track/22nhlBxAx3I1TVunOKPDoS"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Ahora Dice",
         "url": "https://open.spotify.com/album/7JiRyDVQealzbiLq8b1mOb"
       },
@@ -1819,42 +1855,6 @@
       "duration_ms": 271080,
       "name": "Ahora Dice",
       "url": "https://open.spotify.com/track/5LVoGJTyG6fLJgoGkY2QAZ"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Robinson Cano",
-        "url": "https://open.spotify.com/album/0t8jeXWVB5YtvvfWnQYdqL"
-      },
-      "artists": [
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 182710,
-      "name": "Robinson Cano",
-      "url": "https://open.spotify.com/track/22nhlBxAx3I1TVunOKPDoS"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1895,30 +1895,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/3VnPV75DGyQMdljH0OHgx3"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/4WzsycqZkpkS48H9AAAGux"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY"
       },
@@ -1955,22 +1931,42 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/0AAxqrygloVXEathVtYauj"
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/3VnPV75DGyQMdljH0OHgx3"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/4WzsycqZkpkS48H9AAAGux"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "LowKey",
+        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
       },
       "artists": [
         {
           "name": "Bryant Myers",
           "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/5MNS5FF4LrTX0jIaI0gory"
+      "duration_ms": 193027,
+      "name": "LowKey",
+      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2187,18 +2183,22 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "LowKey",
-        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0AAxqrygloVXEathVtYauj"
       },
       "artists": [
         {
           "name": "Bryant Myers",
           "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 193027,
-      "name": "LowKey",
-      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/5MNS5FF4LrTX0jIaI0gory"
     },
     {
       "added_at": "2024-08-19 19:01:43",

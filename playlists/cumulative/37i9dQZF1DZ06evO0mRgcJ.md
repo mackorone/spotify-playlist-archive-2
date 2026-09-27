@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 49 min
+108 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Dile Que No](https://open.spotify.com/track/3kFLhQ7tOovutkhVjvc9ax) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Conjunto Brio Norteño](https://open.spotify.com/artist/0DjscwAusQfeGfhAtTjczy) | [Dile Que No](https://open.spotify.com/album/6CxhgIBZ58cKISoJWOkkBF) | 3:05 | 2024-01-29 | 2024-02-24 |
 | [Efecto de Mariposa](https://open.spotify.com/track/4bdQk3sno5kGGRFt3wkrXs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Efecto de Mariposa](https://open.spotify.com/album/2tWNqqFKKY4uDSmTJe85rE) | 4:01 | 2025-10-19 | 2026-06-27 |
 | [El Burro \(En Vivo\)](https://open.spotify.com/track/4PeRWR5tReFefm2qCyNpX9) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 2:49 | 2025-08-13 |  |
-| [El Famoso Chino Antrax](https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mafia De Corridos](https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp) | 3:30 | 2024-01-29 |  |
+| [El Famoso Chino Antrax](https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mafia De Corridos](https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp) | 3:30 | 2024-01-29 | 2026-09-27 |
 | [El Guanaco](https://open.spotify.com/track/1OcLkBeRvbZfsKKdnCfXqp) | [Los Pimenteles](https://open.spotify.com/artist/5d6K5E4jQZHP3mzj6FekJS), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Guanaco](https://open.spotify.com/album/3ApGhOlz2bt2FyYcMz8KbT) | 2:44 | 2024-01-29 |  |
 | [EL LOS](https://open.spotify.com/track/6NAFF3diA0iYXsFHvtH94Y) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 3:21 | 2024-04-10 | 2025-05-23 |
 | [El Niño Fame](https://open.spotify.com/track/2EzRb90iPu15kFq0Ia1evR) | [Los Chavalos de California](https://open.spotify.com/artist/1mkQparEZMfT9Zbgb5mLMk), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Niño Fame](https://open.spotify.com/album/0g0PfLThD4vHLK8DIZZGKF) | 2:41 | 2024-11-25 |  |
@@ -102,6 +102,7 @@
 | [Salieron Rumores](https://open.spotify.com/track/0SX9Hs9YY4AP4Z9CR33tAv) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Salieron Rumores](https://open.spotify.com/album/6Fs1Gcj7MrYUMEzOUA7CYB) | 2:19 | 2024-01-29 |  |
 | [Simplemente El P](https://open.spotify.com/track/79E2tjgMIO5PvlbvE8E5DG) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [JR Barraza](https://open.spotify.com/artist/0iWFmZPXZ81BaRmXXoTYRw) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:58 | 2024-02-20 |  |
 | [Sin Saber De Mi](https://open.spotify.com/track/2bfDHwOhVLJFRyMV23hiLR) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Agrado](https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:26 | 2024-01-29 |  |
+| [Sin Ti](https://open.spotify.com/track/6LUlSba3EueBbyy9Nizkmf) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Jueves 10 \- EP](https://open.spotify.com/album/45q42PqoUrX4apu9SMFISp) | 3:31 | 2026-09-27 |  |
 | [Situaciones de la Calle](https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:25 | 2024-01-29 |  |
 | [Solo Un Día](https://open.spotify.com/track/2LtTWSMZHFujtwwgkz3NAl) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Solo Un Día](https://open.spotify.com/album/03f4DPOqYJ4655QNyFUI5u) | 2:56 | 2025-05-07 | 2025-07-10 |
 | [Soy Chapito Soy Amigo \(En Vivo\)](https://open.spotify.com/track/0Y0lKXho3LtYi6vcEG4Esf) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:22 | 2024-01-29 | 2024-04-10 |

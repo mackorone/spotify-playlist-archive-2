@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2878319,
+  "num_followers": 2878499,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKmd83uachyWQBaEPxJvkbyIT1yD",
+  "snapshot_id": "AAAAAFPFQocM9GPvyHOmKIQZu4DBEurU",
   "tracks": [
     {
       "added_at": "2026-09-18 04:00:38",
@@ -343,26 +343,6 @@
     {
       "added_at": "2026-09-18 04:00:38",
       "album": {
-        "name": "Big Dawgs",
-        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Big Dawgs",
-      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
-      "added_at": "2026-09-18 04:00:38",
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+    },
+    {
+      "added_at": "2026-09-18 04:00:38",
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
       "added_at": "2026-09-18 04:00:38",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-09-18 04:00:38",
       "album": {
-        "name": "No Face",
-        "url": "https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
-    },
-    {
-      "added_at": "2026-09-18 04:00:38",
-      "album": {
         "name": "THY KINGDOM COME",
         "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 156478,
       "name": "Napoleon",
       "url": "https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv"
+    },
+    {
+      "added_at": "2026-09-18 04:00:38",
+      "album": {
+        "name": "No Face",
+        "url": "https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
     },
     {
       "added_at": "2026-09-18 04:00:38",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-09-18 04:00:38",
       "album": {
-        "name": "4X4",
-        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 190581,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
-    },
-    {
-      "added_at": "2026-09-18 04:00:38",
-      "album": {
         "name": "Trunks (From \"Highest 2 Lowest\")",
         "url": "https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 223566,
       "name": "Trunks (From \"Highest 2 Lowest\")",
       "url": "https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe"
+    },
+    {
+      "added_at": "2026-09-18 04:00:38",
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
     },
     {
       "added_at": "2026-09-18 04:00:38",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-09-18 04:00:38",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2026-09-18 04:00:38",
-      "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 160966,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
+    },
+    {
+      "added_at": "2026-09-18 04:00:38",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2026-09-18 04:00:38",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-09-18 04:00:38",
       "album": {
+        "name": "No Rest for The Wicked",
+        "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "duration_ms": 188237,
+      "name": "God's Favorite",
+      "url": "https://open.spotify.com/track/7fBStyA2XOfFpDhrlzdvIs"
+    },
+    {
+      "added_at": "2026-09-18 04:00:38",
+      "album": {
         "name": "Lil Durk Presents: Loyal Bros 2",
         "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 153600,
       "name": "Mad Max",
       "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
-    },
-    {
-      "added_at": "2026-09-18 04:00:38",
-      "album": {
-        "name": "No Rest for The Wicked",
-        "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
-      },
-      "artists": [
-        {
-          "name": "AZ Chike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
-        }
-      ],
-      "duration_ms": 188237,
-      "name": "God's Favorite",
-      "url": "https://open.spotify.com/track/7fBStyA2XOfFpDhrlzdvIs"
     },
     {
       "added_at": "2026-09-18 04:00:38",
@@ -1347,8 +1347,8 @@
     {
       "added_at": "2026-09-18 04:00:38",
       "album": {
-        "name": "POP MY SHIT",
-        "url": "https://open.spotify.com/album/0NwoimNvEBNqeCaBOlCyGJ"
+        "name": "Never Sleep",
+        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
       },
       "artists": [
         {
@@ -1356,13 +1356,17 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Frost",
-          "url": "https://open.spotify.com/artist/7C45GcWNQ1SReRiaiL7hbK"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 113333,
-      "name": "POP MY SHIT",
-      "url": "https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx"
+      "duration_ms": 185785,
+      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
     },
     {
       "added_at": "2026-09-18 04:00:38",

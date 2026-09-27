@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 446228,
+  "num_followers": 446284,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACX3SOgQ5/CMNWEwztSNyBnnkJ62",
+  "snapshot_id": "AAAAAOlaYF68SGCsWpYzrFLiQMxMgfOj",
   "tracks": [
     {
       "added_at": "2026-09-04 15:20:08",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "T'estimo tant",
         "url": "https://open.spotify.com/album/5jeVqyBskdQV0FAY82QDxt"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 183231,
       "name": "T'estimo tant",
       "url": "https://open.spotify.com/track/0jZcdLFYg3XDFqQaqzGlaQ"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 123375,
-      "name": "Camila",
-      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 252293,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 123375,
+      "name": "Camila",
+      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1123,6 +1123,30 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
         "name": "Boredom (Demo 2015)",
         "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
       },
@@ -1203,26 +1227,18 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Pictures",
-        "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
+        "name": "Fuegos Artificiales",
+        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
       },
       "artists": [
         {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
-        },
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        },
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
+      "duration_ms": 178434,
+      "name": "Fuegos Artificiales",
+      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Fuegos Artificiales",
-        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
-      },
-      "artists": [
-        {
-          "name": "Ire",
-          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Fuegos Artificiales",
-      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "SANGRE SUCIA",
         "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "B\u00c9SAME",
-        "url": "https://open.spotify.com/album/0x4SJEVWkZ5iHVCUlbM6ld"
-      },
-      "artists": [
-        {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "B\u00c9SAME",
-      "url": "https://open.spotify.com/track/7pAfQYhLaUURacktsLhuJS"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Toujours oui <3",
         "url": "https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 205738,
       "name": "Toujours oui <3",
       "url": "https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "B\u00c9SAME",
+        "url": "https://open.spotify.com/album/0x4SJEVWkZ5iHVCUlbM6ld"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "B\u00c9SAME",
+      "url": "https://open.spotify.com/track/7pAfQYhLaUURacktsLhuJS"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Aire Fresco (feat. LYNN)",
-        "url": "https://open.spotify.com/album/4ettSx3GCGTV4sEEILM0q8"
-      },
-      "artists": [
-        {
-          "name": "L'Beel",
-          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
-        },
-        {
-          "name": "LYNN",
-          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
-        }
-      ],
-      "duration_ms": 179134,
-      "name": "Aire Fresco (feat. LYNN)",
-      "url": "https://open.spotify.com/track/7y1t7Zw4DoiS6yXCv3O1k0"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "201 - Directo en Casa Grito",
         "url": "https://open.spotify.com/album/1cXNOx12JrvNBNczLLq4Y0"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 162750,
       "name": "Pladur",
       "url": "https://open.spotify.com/track/4NZwZYP1ZLdyenCTO7UFsI"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "Aire Fresco (feat. LYNN)",
+        "url": "https://open.spotify.com/album/4ettSx3GCGTV4sEEILM0q8"
+      },
+      "artists": [
+        {
+          "name": "L'Beel",
+          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
+        },
+        {
+          "name": "LYNN",
+          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
+        }
+      ],
+      "duration_ms": 179134,
+      "name": "Aire Fresco (feat. LYNN)",
+      "url": "https://open.spotify.com/track/7y1t7Zw4DoiS6yXCv3O1k0"
     },
     {
       "added_at": "2026-09-04 15:20:08",

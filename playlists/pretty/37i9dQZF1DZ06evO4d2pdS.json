@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 4018,
+  "num_followers": 4019,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAADw6jrR6xw5IX6+tggebZlt",
+  "snapshot_id": "arW5gAAAAAA+NRMiNyMw2HP692feWXdA",
   "tracks": [
     {
       "added_at": null,
@@ -394,11 +394,15 @@
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
         }
       ],
-      "duration_ms": 113450,
-      "name": "I Look Good",
-      "url": "https://open.spotify.com/track/1qk4oqAEOI0cN8D1J9ato9"
+      "duration_ms": 124904,
+      "name": "Real Bitch (feat. Gloss Up)",
+      "url": "https://open.spotify.com/track/4vbpCunPppd4IGZ6ZKmIFh"
     },
     {
       "added_at": null,
@@ -470,15 +474,11 @@
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Gloss Up",
-          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
         }
       ],
-      "duration_ms": 124904,
-      "name": "Real Bitch (feat. Gloss Up)",
-      "url": "https://open.spotify.com/track/4vbpCunPppd4IGZ6ZKmIFh"
+      "duration_ms": 113450,
+      "name": "I Look Good",
+      "url": "https://open.spotify.com/track/1qk4oqAEOI0cN8D1J9ato9"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WANT EM HOOD",
-        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
+        "name": "HERSKIII",
+        "url": "https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 165517,
-      "name": "WANT EM HOOD",
-      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
+      "duration_ms": 120774,
+      "name": "HERSKIII",
+      "url": "https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HERSKIII",
-        "url": "https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc"
+        "name": "WANT EM HOOD",
+        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 120774,
-      "name": "HERSKIII",
-      "url": "https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx"
+      "duration_ms": 165517,
+      "name": "WANT EM HOOD",
+      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOTION PACK",
+        "url": "https://open.spotify.com/album/1YvvObdtDdAha2JiKuMIc8"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 194430,
+      "name": "OLD SKOOL (feat. Bankroll Ni)",
+      "url": "https://open.spotify.com/track/0wssY5gSOybNywQ6VN5l2P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "313-414 (feat. Tee Grizzley)",
         "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOTION PACK",
-        "url": "https://open.spotify.com/album/1YvvObdtDdAha2JiKuMIc8"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 194430,
-      "name": "OLD SKOOL (feat. Bankroll Ni)",
-      "url": "https://open.spotify.com/track/0wssY5gSOybNywQ6VN5l2P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INDECISIVE",
         "url": "https://open.spotify.com/album/4XoU7QIkfbptrYjv2piTuA"
       },
@@ -695,30 +695,6 @@
       "duration_ms": 176744,
       "name": "INDECISIVE",
       "url": "https://open.spotify.com/track/78bTSkfWKOKbNvmSaoEP1i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
-      },
-      "artists": [
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        }
-      ],
-      "duration_ms": 217731,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
     },
     {
       "added_at": null,
@@ -759,6 +735,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        }
+      ],
+      "duration_ms": 217731,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "310degrees",
+        "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 124903,
+      "name": "look easy",
+      "url": "https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
         "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 208163,
       "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
       "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "310degrees",
-        "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 124903,
-      "name": "look easy",
-      "url": "https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV"
     },
     {
       "added_at": null,

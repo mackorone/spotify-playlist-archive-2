@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Medium Build",
-  "num_followers": 90375,
+  "num_followers": 90391,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALa4SJbp1s2xFChYPf8uayFXsbJH",
+  "snapshot_id": "AAAAACJ+ZeHOhTqJ6hPK7lCpXnEwuTSf",
   "tracks": [
     {
       "added_at": "2026-09-04 04:02:01",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Unforgivable Things",
-        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 155017,
-      "name": "Unforgivable Things",
-      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Bleeds",
         "url": "https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+        "name": "Unforgivable Things",
+        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
         }
       ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz"
+      "duration_ms": 155017,
+      "name": "Unforgivable Things",
+      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -415,6 +399,22 @@
       "duration_ms": 191840,
       "name": "My Regards",
       "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
-      },
-      "artists": [
-        {
-          "name": "Bebe Stockwell",
-          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
-        }
-      ],
-      "duration_ms": 213419,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Where's My Love (with Carla)",
         "url": "https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 243053,
       "name": "Where's My Love - with Carla",
       "url": "https://open.spotify.com/track/50fvAL9S2IfvMWinKtSEBQ"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 213419,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Made You Look",
-        "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        },
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 225628,
-      "name": "Math of Us",
-      "url": "https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "The Hudson",
         "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 216964,
       "name": "The Hudson",
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Made You Look",
+        "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 225628,
+      "name": "Math of Us",
+      "url": "https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 190944,
+      "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Never Notice",
         "url": "https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 225231,
       "name": "Wait Up (feat. I'm With Her)",
       "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
-        "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 190944,
-      "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Exit Strategy",
-        "url": "https://open.spotify.com/album/1KKUPIu7Fb91j2VDRi4viD"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 261026,
-      "name": "Undo Me",
-      "url": "https://open.spotify.com/track/7hsAvDcgyBAJAWciyNWR0r"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Anytime, Anyplace, Anyhow",
         "url": "https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 227147,
       "name": "Anytime, Anyplace, Anyhow",
       "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Exit Strategy",
+        "url": "https://open.spotify.com/album/1KKUPIu7Fb91j2VDRi4viD"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 261026,
+      "name": "Undo Me",
+      "url": "https://open.spotify.com/track/7hsAvDcgyBAJAWciyNWR0r"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Some Things Never Leave",
+        "url": "https://open.spotify.com/album/6SjTebu5erz22LeboDHsML"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "duration_ms": 240178,
+      "name": "Everyone Likes To Be Forgiven",
+      "url": "https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Getting By",
         "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 263799,
       "name": "The Cost of Growing Up",
       "url": "https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Some Things Never Leave",
-        "url": "https://open.spotify.com/album/6SjTebu5erz22LeboDHsML"
-      },
-      "artists": [
-        {
-          "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
-        }
-      ],
-      "duration_ms": 240178,
-      "name": "Everyone Likes To Be Forgiven",
-      "url": "https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Little Boxes",
-        "url": "https://open.spotify.com/album/01h62VkdHGj6AUleVFbroG"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 273241,
-      "name": "Little Boxes",
-      "url": "https://open.spotify.com/track/7chSr6q1DmIJUGwi0O4h5L"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Postcards to Heaven",
         "url": "https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz"
       },
@@ -1271,22 +1255,6 @@
       "duration_ms": 161931,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "My Maker",
-        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 259842,
-      "name": "My Maker",
-      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1307,6 +1275,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Little Boxes",
+        "url": "https://open.spotify.com/album/01h62VkdHGj6AUleVFbroG"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 273241,
+      "name": "Little Boxes",
+      "url": "https://open.spotify.com/track/7chSr6q1DmIJUGwi0O4h5L"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Sad And Beautiful World",
         "url": "https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "My Maker",
+        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 259842,
+      "name": "My Maker",
+      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 190923,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Collarbones",
+        "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
+      },
+      "artists": [
+        {
+          "name": "Anna Hamilton",
+          "url": "https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF"
+        }
+      ],
+      "duration_ms": 180947,
+      "name": "Collarbones",
+      "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Collarbones",
-        "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
-      },
-      "artists": [
-        {
-          "name": "Anna Hamilton",
-          "url": "https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF"
-        }
-      ],
-      "duration_ms": 180947,
-      "name": "Collarbones",
-      "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5l746yNWWESUlLuveqla2p"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Nostalgic for Nothing",
-        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 205484,
-      "name": "Nostalgic for Nothing",
-      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 249069,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Nostalgic for Nothing",
+        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 205484,
+      "name": "Nostalgic for Nothing",
+      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "One More Cowboy",
-        "url": "https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "One More Cowboy",
-      "url": "https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 187403,
       "name": "Like The Rain",
       "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "One More Cowboy",
+        "url": "https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "One More Cowboy",
+      "url": "https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n"
     },
     {
       "added_at": "2026-09-04 04:02:01",

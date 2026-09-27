@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> ⚔️ featuring MPH
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,509 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,519 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 99 | [HOLD ON](https://open.spotify.com/track/2zRHL8LMAENGLez8HoJzrU) | [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [HOLD ON](https://open.spotify.com/album/31LgGgmQPWJXXhNN64L59H) | 2:23 |
 | 100 | [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 |
 
-Snapshot ID: `AAAAAIV0aALXii7Y3ifT7HzFfIkfmdcF`
+Snapshot ID: `AAAAAMblXDTSu00z8gL7cxItlffnTmho`

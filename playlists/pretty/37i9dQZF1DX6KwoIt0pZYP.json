@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 262412,
+  "num_followers": 262435,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADTrSxd+1o8FEX577hUTu/xLmHTy",
+  "snapshot_id": "AAAAAEMga574HgL33ubsovECyVgpW2eI",
   "tracks": [
     {
       "added_at": "2026-08-07 04:12:22",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "love you twice",
-        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 172189,
-      "name": "love you twice",
-      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "Ikigai (feat. Loonie)",
         "url": "https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 245729,
       "name": "Ikigai (feat. Loonie)",
       "url": "https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "love you twice",
+        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 172189,
+      "name": "love you twice",
+      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -971,8 +971,8 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/08bgugAl607EFEit8Fot7c"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/62dp34XfSWYPUKXrZinum0"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx"
+      "duration_ms": 218430,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/14chlybq8fwH6kZJgwmbBD"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/62dp34XfSWYPUKXrZinum0"
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/08bgugAl607EFEit8Fot7c"
       },
       "artists": [
         {
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
         }
       ],
-      "duration_ms": 218430,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/14chlybq8fwH6kZJgwmbBD"
+      "duration_ms": 163333,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 199380,
+      "name": "i hope my cat loves me",
+      "url": "https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "twin flames",
         "url": "https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 173000,
       "name": "twin flames",
       "url": "https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "stay with the ocean, i'll find you",
-        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 199380,
-      "name": "i hope my cat loves me",
-      "url": "https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "dishonesty",
+        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 179216,
+      "name": "dishonesty",
+      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "Sweet Nothings (Chapter 2)",
         "url": "https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 159250,
       "name": "sweet nothings",
       "url": "https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "dishonesty",
-        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 179216,
-      "name": "dishonesty",
-      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "my love my love my love",
-        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 158312,
-      "name": "my love my love my love",
-      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "KOLORCOASTER",
         "url": "https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 166595,
       "name": "INDIGO (with u)",
       "url": "https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "my love my love my love",
+        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "my love my love my love",
+      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "BINIverse",
         "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 204650,
       "name": "Secrets (feat. eaJ)",
       "url": "https://open.spotify.com/track/0hzFVTCkNnMgRrBiTgRuXC"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "all in",
-        "url": "https://open.spotify.com/album/1fLw3tbWVz3Zk0k80C7uaj"
+        "name": "Infatuated",
+        "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
       },
       "artists": [
         {
-          "name": "pami",
-          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
         }
       ],
-      "duration_ms": 226000,
-      "name": "all in",
-      "url": "https://open.spotify.com/track/4W5XTCtji4ew31hQm0p9Zf"
+      "duration_ms": 226714,
+      "name": "Infatuated",
+      "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "Infatuated",
-        "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
+        "name": "all in",
+        "url": "https://open.spotify.com/album/1fLw3tbWVz3Zk0k80C7uaj"
       },
       "artists": [
         {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
         }
       ],
-      "duration_ms": 226714,
-      "name": "Infatuated",
-      "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
+      "duration_ms": 226000,
+      "name": "all in",
+      "url": "https://open.spotify.com/track/4W5XTCtji4ew31hQm0p9Zf"
     },
     {
       "added_at": "2026-08-07 04:12:22",

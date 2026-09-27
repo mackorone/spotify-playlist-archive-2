@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,605 likes - 2,022 songs - 4 day 17 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,603 likes - 2,022 songs - 4 day 17 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 10 | [Roses](https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Roses](https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF) | 3:28 |
 | 11 | [i think i'm going blind](https://open.spotify.com/track/7EDTx1bCXoF0HFII9ci8WL) | [Computer Kill](https://open.spotify.com/artist/3u50Zfk1E0uxAbFwDIEqof) | [i think i'm going blind](https://open.spotify.com/album/1n5BTN8rROdVBR3oyF8IAD) | 2:59 |
 | 12 | [free willy](https://open.spotify.com/track/1nyHFglyZLxya6wDBFexKF) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [kool marder](https://open.spotify.com/album/1zHN6NjFAwFZJb8NKB5pOq) | 2:13 |
-| 13 | [Somehow](https://open.spotify.com/track/0o0xDQvMqZUMu4LbuRsck6) | [Madrid Exit](https://open.spotify.com/artist/3WFmXJyXjp3MEf97eT0uzO) | [Somehow](https://open.spotify.com/album/4qFSrzg96dR3w8KAnfpFW2) | 3:03 |
-| 14 | [tokyo](https://open.spotify.com/track/4084zeP4efuRwcYH0o6GTA) | [dirty brunette](https://open.spotify.com/artist/1r9y5IHQeulmMjky9GCpjR) | [tokyo](https://open.spotify.com/album/1hiSfUj0jAXeHlkQbyyDf1) | 3:16 |
-| 15 | [Here I Am](https://open.spotify.com/track/3U0NiTCJbPyHQMKp6tvtQ2) | [LL Burns](https://open.spotify.com/artist/7Bg1G4G1VPEZHfy55wqKNS) | [Here I Am](https://open.spotify.com/album/5O9FDj4ePzXUL2jlfKmj9f) | 3:59 |
-| 16 | [Are you willing to change?](https://open.spotify.com/track/7FmB6G5FcIEZkKAeYtnZ1J) | [A.G\. Sully](https://open.spotify.com/artist/1DS9B5f4jcKRCqXI6fKDYY) | [Are you willing to change?](https://open.spotify.com/album/22oyuORNrfXqKzM8jjESWr) | 4:06 |
-| 17 | [Trust](https://open.spotify.com/track/1a79Hejm2if5ayuHJyZ9H1) | [Harmony Index](https://open.spotify.com/artist/2S6dcUaN4P9imxRaiQJ9W9) | [Lights On](https://open.spotify.com/album/2fyy1n1jqzaYwa7qZ11MWB) | 5:01 |
-| 18 | [double](https://open.spotify.com/track/7huEKLZAuEeMwJAsvoKTVP) | [TEILZ](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [double](https://open.spotify.com/album/4lU4ZCZP928cee0w5WZXVf) | 3:15 |
-| 19 | [Hit Me Back](https://open.spotify.com/track/4nQHF7CY484iX8kZQPoRWo) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Hit Me Back](https://open.spotify.com/album/441V0UvbXBdaUb3P4ywY2I) | 3:45 |
+| 13 | [Hit Me Back](https://open.spotify.com/track/4nQHF7CY484iX8kZQPoRWo) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Hit Me Back](https://open.spotify.com/album/441V0UvbXBdaUb3P4ywY2I) | 3:45 |
+| 14 | [Somehow](https://open.spotify.com/track/0o0xDQvMqZUMu4LbuRsck6) | [Madrid Exit](https://open.spotify.com/artist/3WFmXJyXjp3MEf97eT0uzO) | [Somehow](https://open.spotify.com/album/4qFSrzg96dR3w8KAnfpFW2) | 3:03 |
+| 15 | [tokyo](https://open.spotify.com/track/4084zeP4efuRwcYH0o6GTA) | [dirty brunette](https://open.spotify.com/artist/1r9y5IHQeulmMjky9GCpjR) | [tokyo](https://open.spotify.com/album/1hiSfUj0jAXeHlkQbyyDf1) | 3:16 |
+| 16 | [Here I Am](https://open.spotify.com/track/3U0NiTCJbPyHQMKp6tvtQ2) | [LL Burns](https://open.spotify.com/artist/7Bg1G4G1VPEZHfy55wqKNS) | [Here I Am](https://open.spotify.com/album/5O9FDj4ePzXUL2jlfKmj9f) | 3:59 |
+| 17 | [Are you willing to change?](https://open.spotify.com/track/7FmB6G5FcIEZkKAeYtnZ1J) | [A.G\. Sully](https://open.spotify.com/artist/1DS9B5f4jcKRCqXI6fKDYY) | [Are you willing to change?](https://open.spotify.com/album/22oyuORNrfXqKzM8jjESWr) | 4:06 |
+| 18 | [Trust](https://open.spotify.com/track/1a79Hejm2if5ayuHJyZ9H1) | [Harmony Index](https://open.spotify.com/artist/2S6dcUaN4P9imxRaiQJ9W9) | [Lights On](https://open.spotify.com/album/2fyy1n1jqzaYwa7qZ11MWB) | 5:01 |
+| 19 | [double](https://open.spotify.com/track/7huEKLZAuEeMwJAsvoKTVP) | [TEILZ](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [double](https://open.spotify.com/album/4lU4ZCZP928cee0w5WZXVf) | 3:15 |
 | 20 | [It Doesn't Matter](https://open.spotify.com/track/48sAjiqZ6wNVxJbRt7RFJK) | [Saccades](https://open.spotify.com/artist/3hE6XvCH9Di82RPfY8c9tn) | [It Doesn't Matter](https://open.spotify.com/album/6igLuQ3tNeELbDZr0JV4wn) | 4:29 |
 | 21 | [Animal](https://open.spotify.com/track/46ESzdrjwiKUk31pCmD0Tp) | [Danz CM](https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD) | [Animal](https://open.spotify.com/album/6VkE8g5gkiXYSa4z64ISuD) | 4:37 |
 | 22 | [Lime Green Jello](https://open.spotify.com/track/16adKkSJLx6sqUhuzjWGg9) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [How to Land a Plane](https://open.spotify.com/album/7L3PGXfmfRStA0xI8XG8YJ) | 3:03 |
@@ -2031,4 +2031,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 2021 | [Lifeloose](https://open.spotify.com/track/3zUJcgFg0tspBiRlVRijv6) | [Lifeloose](https://open.spotify.com/artist/0vaeDzewhDalyyjU2dzgMG) | [Lifeloose](https://open.spotify.com/album/6vViE9AAjxWXb3CRyvtANS) | 3:16 |
 | 2022 | [Everything But Myself](https://open.spotify.com/track/671cWwKtIvaTlk6XlwUGa5) | [Immaterialize](https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by), [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [Everything But Myself](https://open.spotify.com/album/2RPM6F6EljolsGoV1fPR17) | 4:00 |
 
-Snapshot ID: `AABcBmNHeSpPFMVIF5KdIzdkNCGBNyAv`
+Snapshot ID: `AABcCSbhuAdLDV1BFPzlXhjNUQ9mNL0o`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Fallon
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,969 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,985 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Viens qu'on se fatigue](https://open.spotify.com/track/5kSiiAu3p9LsJnw7Fz4evF) | [Papi Jay](https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI) | [Viens qu'on se fatigue](https://open.spotify.com/album/3u7p4p6n2kLEzP4aP87rEv) | 3:22 |
 | 40 | [Casanova](https://open.spotify.com/track/3hmS8qCuENsDJMYFniLS5n) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Casanova](https://open.spotify.com/album/4iQgvLGbrvICDkhndJrPf7) | 3:07 |
 
-Snapshot ID: `AAAAAAuPUaFy3/qrunZCFa/ZfU25aIep`
+Snapshot ID: `AAAAADC4msF5g5DRZ21abbf6o9Jhv6v2`

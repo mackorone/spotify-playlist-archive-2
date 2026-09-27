@@ -4,7 +4,7 @@
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Greyson Chance
 
-651 songs - 1 day 10 hr 46 min
+652 songs - 1 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [glow](https://open.spotify.com/track/00Y2l01kEJw4eOWfSlNIWp) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [glow](https://open.spotify.com/album/3wWHQTG6IQslHl1NJSyEKn) | 2:05 | 2026-04-24 | 2026-06-06 |
 | [Go Down](https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Go Down](https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq) | 2:26 | 2026-06-05 | 2026-08-01 |
 | [God Body](https://open.spotify.com/track/08yhsIRFAW23dtpdipzjCL) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [God Body](https://open.spotify.com/album/7HZzxnYfuUK5QpncUMY8vN) | 3:41 | 2025-08-08 | 2026-01-15 |
-| [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 | 2026-07-24 |  |
+| [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 | 2026-07-24 | 2026-09-27 |
 | [God Save The Queens](https://open.spotify.com/track/5gYbg3Tj7FwPGTljJ6oWEb) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [God Save The Queens](https://open.spotify.com/album/4OGSbnTYEyXYYQL7j0q10x) | 2:25 | 2025-02-07 | 2025-12-06 |
 | [god, i'm messy](https://open.spotify.com/track/4CDjR7Es5Teb4Zm0nBKbYY) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [god, i'm messy](https://open.spotify.com/album/5y9KrKvrh4RGMneXY245Lt) | 2:28 | 2026-01-16 | 2026-04-04 |
 | [Gold](https://open.spotify.com/track/6Ij2LBj4OaPtcl1M2u4GQu) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Gold](https://open.spotify.com/album/0OcRYga5YnflYN3oLWas5w) | 3:26 | 2026-05-15 | 2026-06-17 |
@@ -311,6 +311,7 @@
 | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84) | 3:02 | 2023-12-15 | 2024-07-13 |
 | [Is It Fun Or Is It Over?](https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Is It Fun Or Is It Over?](https://open.spotify.com/album/54N4dAkractT6mUBC0a48b) | 2:40 | 2026-03-20 | 2026-05-02 |
 | [Is This Really Happening?](https://open.spotify.com/track/1ivFENev90vl7KkhV4ZuoV) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG) | [Is This Really Happening?](https://open.spotify.com/album/3mzlLP2CBMZGX3sYYbSwQW) | 4:21 | 2026-02-10 | 2026-04-18 |
+| [IS THIS THE END?](https://open.spotify.com/track/6DroHr4E3vTuRGJhPpqb9F) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [IS THIS THE END?](https://open.spotify.com/album/2BxFMC2ff2UDEsK7rcJOr9) | 3:02 | 2026-09-25 |  |
 | [IT IS WHAT IT IS](https://open.spotify.com/track/54rkDSLIa8TbUi7yZOoD33) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [IT IS WHAT IT IS](https://open.spotify.com/album/0VhIZyBKoUgJKNrICNsCFf) | 1:54 | 2023-12-15 | 2024-09-07 |
 | [It Wasn't Love](https://open.spotify.com/track/3MUiNiT2ORtzpIxD9b5UC2) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/5VTdHKo8yJhitaNtKQ2XQq) | 3:11 | 2023-12-15 | 2024-09-07 |
 | [IT'S HARD \(to be a Man\)](https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [IT'S HARD \(to be a Man\)](https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw) | 3:00 | 2025-09-05 | 2026-01-15 |

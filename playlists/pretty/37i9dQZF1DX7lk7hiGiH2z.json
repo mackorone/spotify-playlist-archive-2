@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Kastanienm\u00e4nnchen, Laternenlieder und K\u00fcrbis schnitzen. ",
-  "num_followers": 62070,
+  "num_followers": 62082,
   "original_name": "Familienzeit: Herbst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKmJqNDY/fcFWS9/Ti1itLLH0qZL",
+  "snapshot_id": "AAAAAB0FAQcWcVrHdP0zXl4FncB4m+81",
   "tracks": [
     {
       "added_at": "2026-09-24 22:00:49",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-09-24 22:00:49",
       "album": {
+        "name": "Kinderlieder f\u00fcr den Herbst - EP",
+        "url": "https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 127714,
+      "name": "Herbst",
+      "url": "https://open.spotify.com/track/2aaJ1w7phiLtSXJRseS96K"
+    },
+    {
+      "added_at": "2026-09-24 22:00:49",
+      "album": {
         "name": "Giraffenaffen 6",
         "url": "https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 142346,
       "name": "Bratkartoffellied",
       "url": "https://open.spotify.com/track/5Cuo019EmAoITD9BMCX8fC"
-    },
-    {
-      "added_at": "2026-09-24 22:00:49",
-      "album": {
-        "name": "Kinderlieder f\u00fcr den Herbst - EP",
-        "url": "https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 127714,
-      "name": "Herbst",
-      "url": "https://open.spotify.com/track/2aaJ1w7phiLtSXJRseS96K"
     },
     {
       "added_at": "2026-09-24 22:00:49",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-09-24 22:00:49",
       "album": {
-        "name": "Kinderlieder f\u00fcr die Kleinen - Zwergensprache (Vol. 2)",
-        "url": "https://open.spotify.com/album/0DGNWlTCnJ4HdeeBrKqxFx"
-      },
-      "artists": [
-        {
-          "name": "Schnabi Schnabel",
-          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
-        },
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        }
-      ],
-      "duration_ms": 109773,
-      "name": "Laterne, Laterne",
-      "url": "https://open.spotify.com/track/5nb0zkKJSPLG8uXbJwVttC"
-    },
-    {
-      "added_at": "2026-09-24 22:00:49",
-      "album": {
         "name": "Meine Lieblingskinderlieder f\u00fcr den Herbst",
         "url": "https://open.spotify.com/album/45vTBMcPkMDB0vJ06PRJxF"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 130723,
       "name": "Matschepf\u00fctze",
       "url": "https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM"
+    },
+    {
+      "added_at": "2026-09-24 22:00:49",
+      "album": {
+        "name": "Kinderlieder f\u00fcr die Kleinen - Zwergensprache (Vol. 2)",
+        "url": "https://open.spotify.com/album/0DGNWlTCnJ4HdeeBrKqxFx"
+      },
+      "artists": [
+        {
+          "name": "Schnabi Schnabel",
+          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 109773,
+      "name": "Laterne, Laterne",
+      "url": "https://open.spotify.com/track/5nb0zkKJSPLG8uXbJwVttC"
     },
     {
       "added_at": "2026-09-24 22:00:49",

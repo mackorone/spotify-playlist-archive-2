@@ -1,12 +1,12 @@
 {
   "description": "Meticulously selected by Spotify music experts.",
-  "num_followers": 96833,
+  "num_followers": 96818,
   "original_name": "Editors' Picks: Best Songs of 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAsYuTIryxx/aWxfXCyBv44dtcAx",
+  "snapshot_id": "AAAAANOHwexkVi1nxuzumcbVaFC4cBGk",
   "tracks": [
     {
       "added_at": "2026-02-04 14:24:46",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "Reliquia",
-      "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "Man of the Year",
         "url": "https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 228546,
       "name": "Man of the Year",
       "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "Reliquia",
+      "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Forget-Me-Not",
-      "url": "https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 146933,
       "name": "BIRDS",
       "url": "https://open.spotify.com/track/0kshHISCRGn9MwpkbqafG4"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Forget-Me-Not",
+      "url": "https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "viagr aboys",
-        "url": "https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 135831,
-      "name": "Uno II",
-      "url": "https://open.spotify.com/track/4GCXxLQnqf6pP6SI7ljbZV"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 222640,
       "name": "Munyon Canyon",
       "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "viagr aboys",
+        "url": "https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 135831,
+      "name": "Uno II",
+      "url": "https://open.spotify.com/track/4GCXxLQnqf6pP6SI7ljbZV"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "No Sharing (feat. Luh Tyler)",
-        "url": "https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        },
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 211717,
-      "name": "No Sharing (feat. Luh Tyler)",
-      "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 193883,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "No Sharing (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 211717,
+      "name": "No Sharing (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "choke enough",
-        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 198587,
-      "name": "blade bird",
-      "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "B A D I D E A",
         "url": "https://open.spotify.com/album/66w1jC2ICwyggAeHCPCBmr"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 109634,
       "name": "B A D I D E A",
       "url": "https://open.spotify.com/track/5qDvHAFgbVJrGkBb7sJM07"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "choke enough",
+        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 198587,
+      "name": "blade bird",
+      "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
     },
     {
       "added_at": "2026-02-04 14:24:46",

@@ -7405,6 +7405,24 @@
     },
     {
       "album": {
+        "name": "Mania",
+        "url": "https://open.spotify.com/album/1QZm3P0Hfr5rtx7bYA6JYs"
+      },
+      "artists": [
+        {
+          "name": "GLIZZYMO GLEN",
+          "url": "https://open.spotify.com/artist/1FZPYphRrS6eeXveD2pzGQ"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129263,
+      "name": "Mania",
+      "url": "https://open.spotify.com/track/3Dv0QbRMjgZB7Rh9xmmv7F"
+    },
+    {
+      "album": {
         "name": "Marginal",
         "url": "https://open.spotify.com/album/28lICaZjyM3VNqjMVNHIB5"
       },
@@ -12902,6 +12920,24 @@
       "duration_ms": 196789,
       "name": "UNDER ATTACK",
       "url": "https://open.spotify.com/track/1iZsqUTWkxYXAErYDp3asz"
+    },
+    {
+      "album": {
+        "name": "Undignified",
+        "url": "https://open.spotify.com/album/0crFw9gXxbKoaykCmz9q7k"
+      },
+      "artists": [
+        {
+          "name": "The Dark Wave",
+          "url": "https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198754,
+      "name": "Undignified",
+      "url": "https://open.spotify.com/track/0ctBeZaxiKB4wLAhSRDtj6"
     },
     {
       "album": {

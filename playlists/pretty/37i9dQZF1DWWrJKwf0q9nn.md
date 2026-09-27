@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: CVNTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,517 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,516 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 98 | [Careful](https://open.spotify.com/track/1kk2PNrO9mfMuwEGnAOipt) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Careful](https://open.spotify.com/album/524f63QHVObJQoDoYjqGPF) | 2:40 |
 | 99 | [Summer \(We Didn't Know\)](https://open.spotify.com/track/5LL4QCBj53zCWQuEvbXwtW) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [Monkeekid](https://open.spotify.com/artist/0oKT4w3eZ1BXF6DsA8KEiH) | [Summer \(We Didn't Know\)](https://open.spotify.com/album/5fletvKgPNyjes7FZO1xb6) | 2:36 |
 
-Snapshot ID: `AAAAALJj7tKz6ka8ZOm8vyJhhj8FbbMa`
+Snapshot ID: `AAAAAA0LOiWxmBu5vwyyGlQQK705fl95`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: MALIK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,211 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,247 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 99 | [Bhool Gaya](https://open.spotify.com/track/3GfPzRWJWyJZbl25NaatiW) | [izhaar Ali](https://open.spotify.com/artist/3Q2R81iiDAi2VKmbYvjpol) | [Bhool Gaya](https://open.spotify.com/album/0iL1P0t5Rth9zRWpB7VWy0) | 4:06 |
 | 100 | [Chune Ishq'en](https://open.spotify.com/track/4PeNxF94ppeUKQDkGtXRul) | [SAZGIR](https://open.spotify.com/artist/2oAG6MjavkOWhvC97uf212) | [Chune Ishq'en](https://open.spotify.com/album/1sU8WNSFTrE8hfgxtSFACP) | 3:23 |
 
-Snapshot ID: `AAAAABI8m77R9Z9FMr0hygpxFh7hKMdI`
+Snapshot ID: `AAAAALQ+A9LjpeX9ziwq1gAPdHU4iM1L`

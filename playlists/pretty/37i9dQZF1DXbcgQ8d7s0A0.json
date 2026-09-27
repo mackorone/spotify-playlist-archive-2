@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1418727,
+  "num_followers": 1418820,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHrmXup3LYpYzc+RFQpLxX/xshQ4",
+  "snapshot_id": "AAAAAC6k7M5QkneuXRt2bS1lryyXlU64",
   "tracks": [
     {
       "added_at": "2024-06-24 11:23:29",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Stax-Volt: The Complete Singles 1959-1968",
-        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Try A Little Tenderness",
-      "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 229440,
       "name": "Turn Your Love Around - 2015 GH Version",
       "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "Stax-Volt: The Complete Singles 1959-1968",
+        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Try A Little Tenderness",
+      "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
     },
     {
       "added_at": "2024-06-24 11:23:29",

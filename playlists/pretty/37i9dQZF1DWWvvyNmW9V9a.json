@@ -1,12 +1,12 @@
 {
   "description": "we got it covered",
-  "num_followers": 2082697,
+  "num_followers": 2082617,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAYIY38UeRVgEKPUMKTC9/M8r2YC",
+  "snapshot_id": "AAAAAGOrZ75zq/ltgTiGTBDPwl9xFs33",
   "tracks": [
     {
       "added_at": "2026-09-18 04:10:04",
@@ -235,6 +235,26 @@
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "added_at": "2026-09-26 03:13:53",
+      "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/1j6NNt6UDZVjrjijLFTKc7"
     },
     {
       "added_at": "2026-09-18 13:50:34",

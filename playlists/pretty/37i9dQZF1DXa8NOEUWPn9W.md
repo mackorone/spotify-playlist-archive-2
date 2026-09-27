@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring Chloé Caillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,009,761 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,010,115 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 99 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
 | 100 | [Shinjuku](https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Shinjuku](https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz) | 2:47 |
 
-Snapshot ID: `AAAAAL5teOkeqaK4FVHL1GJXGwm11CA5`
+Snapshot ID: `AAAAAB6M0awUo1JrvpfDNJJyd4njBIbe`

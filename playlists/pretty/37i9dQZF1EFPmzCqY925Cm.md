@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 8 | [Drunk Enough to Say That I Love You](https://open.spotify.com/track/4dzifrtt5uoB6Blb791hmL) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Drunk Enough to Say That I Love You](https://open.spotify.com/album/5l7yezoxX1ib8QBR5e4KfF) | 3:42 |
 | 9 | [Not All Men](https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Not All Men](https://open.spotify.com/album/7yuzurKlvq68HdLJj7l1lo) | 2:57 |
 | 10 | [Cynical](https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:14 |
-| 11 | [BORED](https://open.spotify.com/track/7nx5ZrnZymCwKlWXYJr5SF) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BORED](https://open.spotify.com/album/5COrkoVFqqcOksKw9UTJkw) | 2:20 |
-| 12 | [You Are Bad](https://open.spotify.com/track/6tSSghRWA2iOW4jGXSttwX) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:18 |
+| 11 | [You Are Bad](https://open.spotify.com/track/6tSSghRWA2iOW4jGXSttwX) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:18 |
+| 12 | [BORED](https://open.spotify.com/track/7nx5ZrnZymCwKlWXYJr5SF) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BORED](https://open.spotify.com/album/5COrkoVFqqcOksKw9UTJkw) | 2:20 |
 | 13 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 |
 | 14 | [Funeral](https://open.spotify.com/track/4HzfzcuokhG7MqcJKWnSrg) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:05 |
 | 15 | [RABBITHOLE](https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr) | 2:21 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 59 | [uh uh \(outside\)](https://open.spotify.com/track/5nT60m44V8pI8fxYW8F5XH) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [uh uh \(outside\)](https://open.spotify.com/album/3ElOgRYBG6fZDjubmlr1ca) | 3:09 |
 | 60 | [Do It](https://open.spotify.com/track/66FcNBFB1rh6sXgFR1YkfG) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 1:51 |
 | 61 | [DO OR DIE](https://open.spotify.com/track/1q90IzbN4Cs4R2DLVlsMWe) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DARKER WHITE](https://open.spotify.com/album/0UWEX5Hrmapw4CJOOeBStP) | 2:23 |
-| 62 | [Go Crazy](https://open.spotify.com/track/4RBCfqM0kITfgZDCMbfUDb) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 2:44 |
-| 63 | [OTHER SIDE](https://open.spotify.com/track/2RHaNiqM01toy1wyqzwsPw) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 3:31 |
+| 62 | [OTHER SIDE](https://open.spotify.com/track/2RHaNiqM01toy1wyqzwsPw) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 3:31 |
+| 63 | [Go Crazy](https://open.spotify.com/track/4RBCfqM0kITfgZDCMbfUDb) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 2:44 |
 | 64 | [I Can't Be Sad](https://open.spotify.com/track/0pXkLZoYe43k0ZDQSYm3YA) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [I Can't Be Sad](https://open.spotify.com/album/7631gVK7n6wyEWQnsNSHHu) | 2:19 |
 | 65 | [Elevate](https://open.spotify.com/track/6G5XiYJ4nSvVdbdQeFPVax) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 2:53 |
 | 66 | [MISS INTERNATIONAL](https://open.spotify.com/track/7q2UiCJ2VYBaWwPh814Ir0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 2:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 69 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
 | 70 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `AcdSHAAAAADDkHOqRqrX7azKCrhXtrDz`
+Snapshot ID: `AcdXsgAAAADct4DjKz+ujgzCr6iChyTn`

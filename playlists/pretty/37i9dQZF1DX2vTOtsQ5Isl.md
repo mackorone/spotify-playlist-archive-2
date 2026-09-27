@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 
 > Gorące nowości i przeboje od światowych gwiazd muzyki pop\. Cover: Madonna, Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,236 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,392 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 | 59 | [sad, alone?](https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR), [kurtis baker](https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv) | [sad, alone?](https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q) | 2:41 |
 | 60 | [FALLEN ANGEL](https://open.spotify.com/track/75QkBCdRc5DGgcyPiVSg4b) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel](https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx) | 3:19 |
 
-Snapshot ID: `AAAAADuSV477whdesyge/IxrArSOxVUN`
+Snapshot ID: `AAAAAMiRnsluuKj9Gvmoy4wNaijyN2VF`

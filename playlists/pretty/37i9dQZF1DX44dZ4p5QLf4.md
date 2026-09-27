@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: Shamis
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,769 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,760 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Mistake](https://open.spotify.com/track/6twgcBjpWalTD7w4Q55gS3) | [theo artz](https://open.spotify.com/artist/3eiT9L7vDW31nH9ufEL7Nb) | [Mistake](https://open.spotify.com/album/1xqLgnvTAYrGYnGWt5N7vB) | 2:27 |
 | 80 | [White Flag](https://open.spotify.com/track/15ogUxj5nlIwXqq6h54fiH) | [Lee Lewis](https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D) | [White Flag](https://open.spotify.com/album/4I3eWUXAc2jS6a3ZiORnRn) | 3:16 |
 
-Snapshot ID: `AAAAAHZwtpYhB1F0l1H/qRJwyW/LGN2+`
+Snapshot ID: `AAAAAMahI3LTMDdZ1haJmotmzPcXr985`

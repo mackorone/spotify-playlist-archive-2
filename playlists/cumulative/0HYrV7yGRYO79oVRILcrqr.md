@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-767 songs - 1 day 23 hr 50 min
+769 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Magnolia](https://open.spotify.com/track/6IufA64SPqtOYyFoKzL1s6) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [My Revenge](https://open.spotify.com/album/1rjfZshfNjxGP5cQXyIGzz) | 3:20 | 2026-07-09 | 2026-08-01 |
 | [Make Love](https://open.spotify.com/track/3ijoP1G48nhRcBY2QB2y4o) | [CLARASCHEIN](https://open.spotify.com/artist/3G6VR0fzmyjvNSxZx6480w), [Vittorio Longobardi](https://open.spotify.com/artist/06qOVeNb3n8mq1UhbWG3TE) | [Make Love](https://open.spotify.com/album/0kJwIehJg21K07TgHVzCcS) | 2:37 | 2026-01-28 | 2026-03-18 |
 | [Maldito Antro](https://open.spotify.com/track/78KBfIKs7GKPRPv4j35xyX) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [Maldito Antro](https://open.spotify.com/album/0ehJgzhkbrUz1EBt13KaV4) | 3:31 | 2026-02-25 | 2026-03-18 |
+| [Mania](https://open.spotify.com/track/3Dv0QbRMjgZB7Rh9xmmv7F) | [GLIZZYMO GLEN](https://open.spotify.com/artist/1FZPYphRrS6eeXveD2pzGQ) | [Mania](https://open.spotify.com/album/1QZm3P0Hfr5rtx7bYA6JYs) | 2:09 | 2026-09-26 |  |
 | [Marginal](https://open.spotify.com/track/4Nv0Bzom36kPiFXJt85HTT) | [Orecchio Sordo](https://open.spotify.com/artist/0f4qCSAE3bqGntDnL6gRyE) | [Marginal](https://open.spotify.com/album/28lICaZjyM3VNqjMVNHIB5) | 4:50 | 2025-09-29 | 2025-12-17 |
 | [Marijuana](https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l) | [Plastic Madmen](https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA) | [Marijuana](https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH) | 4:37 | 2025-11-26 | 2025-12-17 |
 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2026-01-02 | 2026-03-18 |
@@ -704,6 +705,7 @@
 | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/track/5kGZUGMDh7wUwEHPOjFKsm) | [Daniel Forsius](https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3) | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/album/4ISu9gFv2wlWWAoMHYVV8a) | 3:15 | 2025-12-01 | 2025-12-17 |
 | [Unbreakable Love](https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [Unbreakable Love](https://open.spotify.com/album/3cHG42Tti5QdUxLWPAlLTs) | 3:22 | 2026-03-15 | 2026-08-03 |
 | [UNDER ATTACK](https://open.spotify.com/track/1iZsqUTWkxYXAErYDp3asz) | [R4V€N](https://open.spotify.com/artist/2OeMnrNGgkbdV2Gvi1Z3LP), [Aaron Melody](https://open.spotify.com/artist/29sCXAGfrDIl85EFHdPdUo), [8bitplatypus](https://open.spotify.com/artist/3JgdgdUryJQPn23lmnb55o), [2Dreamers](https://open.spotify.com/artist/3ybOYKLMipfyUbhTo7ngxM) | [UNDER ATTACK](https://open.spotify.com/album/13QO4lcxBgafmVjAFsE9pa) | 3:16 | 2025-11-07 | 2025-12-17 |
+| [Undignified](https://open.spotify.com/track/0ctBeZaxiKB4wLAhSRDtj6) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Undignified](https://open.spotify.com/album/0crFw9gXxbKoaykCmz9q7k) | 3:18 | 2026-09-26 |  |
 | [Unforgettable You](https://open.spotify.com/track/3WH19TThR7mDY2WDL0BVb1) | [Grandpa BoBo](https://open.spotify.com/artist/4i9fnDTJBPHA5kfFj3q8YA) | [Unforgettable You](https://open.spotify.com/album/7jrmeCSsei50OQxOgYKwNt) | 3:09 | 2025-11-05 | 2025-12-17 |
 | [Universal Cowboy](https://open.spotify.com/track/3E1Xd1dU70XoR3RDSLJVpH) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Universal Cowboy](https://open.spotify.com/album/4rOErxwAu1auXgapFpo84E) | 4:23 | 2025-11-02 | 2025-12-17 |
 | [Uwa Afid](https://open.spotify.com/track/5dc3qGrxzYnwfKO2ZaZ7Ls) | [IBIBIO JAGABAN](https://open.spotify.com/artist/2zOU4ADwzUKJq3cVR3M2rf), [Mr Amanam](https://open.spotify.com/artist/1dIanW7GcwZWXcO82VReD0) | [Uwa Afid](https://open.spotify.com/album/44y5DfPqZyK8hIeKRjdPj0) | 4:03 | 2025-10-13 | 2025-11-28 |

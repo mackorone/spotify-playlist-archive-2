@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: We Are Messengers
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,610 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,602 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 79 | [Push Away](https://open.spotify.com/track/2X5ogUNvOzNyk4SpjhnuLh) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [Push Away](https://open.spotify.com/album/3CR9aPiKFEtEHOky4P4vvH) | 2:43 |
 | 80 | [UP A LEVEL](https://open.spotify.com/track/5x8Bmt7LtS9x0VAq3aKuiU) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [UP A LEVEL](https://open.spotify.com/album/5wJMDoABnnJuc3qVgxucpM) | 2:34 |
 
-Snapshot ID: `AAAAAC/I7GGdNR2ZU9Wnr5sJmd4tWbRf`
+Snapshot ID: `AAAAAE51xXd8eEUszoF0ZezOt8awNcZt`

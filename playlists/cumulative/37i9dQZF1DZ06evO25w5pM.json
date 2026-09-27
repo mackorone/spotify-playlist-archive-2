@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 450480,
       "name": "Dawn Mist - The Temple",
       "url": "https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2"
@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "What The Elephant Told",
+        "url": "https://open.spotify.com/album/7wK6o1HwwCezhZ45pjpv6n"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277632,
+      "name": "Kumbukumbu",
+      "url": "https://open.spotify.com/track/5rFIj2M4D0OX953gDMCLNp"
+    },
+    {
+      "album": {
         "name": "Bamboo Forest",
         "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
       },
@@ -784,7 +802,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 518626,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/6iM0Fhzfc9mT3IY2PZbT65"
@@ -990,6 +1008,24 @@
       "duration_ms": 349759,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/7dqg29qwZpI1VFTSzuIwxu"
+    },
+    {
+      "album": {
+        "name": "What The Elephant Told",
+        "url": "https://open.spotify.com/album/7wK6o1HwwCezhZ45pjpv6n"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273408,
+      "name": "Nymphaea",
+      "url": "https://open.spotify.com/track/7sJjAtBqMA6yIdmJfqd1yx"
     },
     {
       "album": {

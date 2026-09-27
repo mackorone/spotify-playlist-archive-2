@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Sonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,786 likes - 99 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,785 likes - 99 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 98 | [Annoy](https://open.spotify.com/track/7ArkYFjA2NvHWyM7kKSt5c) | [hedo](https://open.spotify.com/artist/5DblOmxHRh0b7fx2SgUtkd), [dracovalen](https://open.spotify.com/artist/5SggdzD4XioLDaiAZgLB0P) | [Annoy](https://open.spotify.com/album/68BqO31sHQ2gADzlGpA88f) | 2:19 |
 | 99 | [Take to the Sky](https://open.spotify.com/track/6LuPYJyFgVD3FG6kKe5zKN) | [J\-WALKER](https://open.spotify.com/artist/4cV7K5fCRxJEBMc98mgttu) | [Overhaul](https://open.spotify.com/album/2bEsZC5OzjBVz3UbPTiFx6) | 3:24 |
 
-Snapshot ID: `AAAAAI9ySllYV7pCgJeOI5CkivUQS6LQ`
+Snapshot ID: `AAAAAJxHjAgd4Vrj9ESeYLtA2L5ZBvuc`

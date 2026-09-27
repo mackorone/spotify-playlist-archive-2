@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: M.anifest & O'Kenneth
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,658 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,687 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 84 | [Wonti](https://open.spotify.com/track/2dlsncrlurYOmMHgBdftN4) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Wonti](https://open.spotify.com/album/5nlI5sQed4837qKtGrODtl) | 2:51 |
 | 85 | [STAY](https://open.spotify.com/track/7it4oVd30lT9dRJoYCsWzV) | [Moffy](https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [KOO JUNIOR](https://open.spotify.com/artist/4LS6XkHHTZHu2UsjA9gIJ2) | [STAY](https://open.spotify.com/album/2kaY91U8PLkAlmfLcX8NcN) | 2:33 |
 
-Snapshot ID: `AAAAAEGKufFDNnAa5U+tet+ZU0rblAhq`
+Snapshot ID: `AAAAANglqqpNxDyeuJjlZSEMjJq0ek6n`

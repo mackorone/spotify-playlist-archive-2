@@ -1,12 +1,12 @@
 {
   "description": "Hits e novos nomes do pop experimentando no mesmo palco! Foto: Bia Soull, Vita",
-  "num_followers": 355972,
+  "num_followers": 355925,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM7td2E0dp5/Vu9QkXjupL7BEr+J",
+  "snapshot_id": "AAAAAGorJoQcfIfECsvPUgEbaT5qKg5V",
   "tracks": [
     {
       "added_at": "2026-09-25 03:00:32",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-09-25 03:00:32",
       "album": {
-        "name": "MOSAICO",
-        "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "No Pain No Gain",
-      "url": "https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K"
-    },
-    {
-      "added_at": "2026-09-25 03:00:32",
-      "album": {
         "name": "Eita",
         "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 183867,
       "name": "Eita",
       "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
+    },
+    {
+      "added_at": "2026-09-25 03:00:32",
+      "album": {
+        "name": "MOSAICO",
+        "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "No Pain No Gain",
+      "url": "https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K"
     },
     {
       "added_at": "2026-09-25 03:00:32",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-09-25 03:00:32",
       "album": {
-        "name": "me leva pro rio",
-        "url": "https://open.spotify.com/album/6ozqGnMMCCWKqarf5GiKrm"
-      },
-      "artists": [
-        {
-          "name": "GEORGIA",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
-        }
-      ],
-      "duration_ms": 197475,
-      "name": "me leva pro rio",
-      "url": "https://open.spotify.com/track/2MtNg5GShfuAx81P0yTmOs"
-    },
-    {
-      "added_at": "2026-09-25 03:00:32",
-      "album": {
         "name": "Seda de Casulo",
         "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 150422,
       "name": "Ningu\u00e9m Morre de Amor",
       "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
+    },
+    {
+      "added_at": "2026-09-25 03:00:32",
+      "album": {
+        "name": "me leva pro rio",
+        "url": "https://open.spotify.com/album/6ozqGnMMCCWKqarf5GiKrm"
+      },
+      "artists": [
+        {
+          "name": "GEORGIA",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 197475,
+      "name": "me leva pro rio",
+      "url": "https://open.spotify.com/track/2MtNg5GShfuAx81P0yTmOs"
     },
     {
       "added_at": "2026-09-25 03:00:32",
@@ -523,6 +523,26 @@
     {
       "added_at": "2026-09-25 03:00:32",
       "album": {
+        "name": "Tamborim",
+        "url": "https://open.spotify.com/album/2FNuxRIspVSmquBNFR1x51"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 165568,
+      "name": "Tamborim",
+      "url": "https://open.spotify.com/track/0331uqlvE3OmOHsSGkrGbB"
+    },
+    {
+      "added_at": "2026-09-25 03:00:32",
+      "album": {
         "name": "Flerte",
         "url": "https://open.spotify.com/album/73oomwMP1uozxcNp9JE7v7"
       },
@@ -543,22 +563,6 @@
     {
       "added_at": "2026-09-25 03:00:32",
       "album": {
-        "name": "Tempo Bom",
-        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Gamou",
-      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
-    },
-    {
-      "added_at": "2026-09-25 03:00:32",
-      "album": {
         "name": "Noturno",
         "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
       },
@@ -571,6 +575,22 @@
       "duration_ms": 148000,
       "name": "Noturno",
       "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
+    },
+    {
+      "added_at": "2026-09-25 03:00:32",
+      "album": {
+        "name": "Tempo Bom",
+        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Gamou",
+      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
     },
     {
       "added_at": "2026-09-25 03:00:32",
@@ -707,22 +727,6 @@
     {
       "added_at": "2026-09-25 03:00:32",
       "album": {
-        "name": "Curvas",
-        "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "Curvas",
-      "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
-    },
-    {
-      "added_at": "2026-09-25 03:00:32",
-      "album": {
         "name": "Caipiranhas",
         "url": "https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA"
       },
@@ -755,6 +759,22 @@
     {
       "added_at": "2026-09-25 03:00:32",
       "album": {
+        "name": "Curvas",
+        "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "Curvas",
+      "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
+    },
+    {
+      "added_at": "2026-09-25 03:00:32",
+      "album": {
         "name": "Vida de Rei, Vida de C\u00e3o",
         "url": "https://open.spotify.com/album/5sS3K5dt9ZImnBB0J2xAFf"
       },
@@ -767,6 +787,22 @@
       "duration_ms": 164833,
       "name": "Vida de Rei, Vida de C\u00e3o",
       "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
+    },
+    {
+      "added_at": "2026-09-25 03:00:32",
+      "album": {
+        "name": "Setembro",
+        "url": "https://open.spotify.com/album/664fP87yIBwGsVN1ceZjO5"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00e3o",
+          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
+        }
+      ],
+      "duration_ms": 181690,
+      "name": "Setembro",
+      "url": "https://open.spotify.com/track/5R7UoAtZIQACKBWe4nY7Mi"
     },
     {
       "added_at": "2026-09-25 03:00:32",
@@ -803,6 +839,22 @@
     {
       "added_at": "2026-09-25 03:00:32",
       "album": {
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 187578,
+      "name": "A Estrela",
+      "url": "https://open.spotify.com/track/4ccQhtL76jcpLcPoIMiMnq"
+    },
+    {
+      "added_at": "2026-09-25 03:00:32",
+      "album": {
         "name": "Inimagin\u00e1vel",
         "url": "https://open.spotify.com/album/5on2cyZTeIfRnXYngdxnz2"
       },
@@ -827,26 +879,6 @@
     {
       "added_at": "2026-09-25 03:00:32",
       "album": {
-        "name": "DE COSTAS",
-        "url": "https://open.spotify.com/album/3mWaOArRlj3PiI6fScDY0K"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 224902,
-      "name": "DE COSTAS",
-      "url": "https://open.spotify.com/track/7e5cq16VImSKSV0liWo3c6"
-    },
-    {
-      "added_at": "2026-09-25 03:00:32",
-      "album": {
         "name": "F\u00faria",
         "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
       },
@@ -867,6 +899,26 @@
       "duration_ms": 193610,
       "name": "F\u00faria",
       "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
+    },
+    {
+      "added_at": "2026-09-25 03:00:32",
+      "album": {
+        "name": "DE COSTAS",
+        "url": "https://open.spotify.com/album/3mWaOArRlj3PiI6fScDY0K"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 224902,
+      "name": "DE COSTAS",
+      "url": "https://open.spotify.com/track/7e5cq16VImSKSV0liWo3c6"
     },
     {
       "added_at": "2026-09-25 03:00:32",
@@ -959,22 +1011,6 @@
     {
       "added_at": "2026-09-25 03:00:32",
       "album": {
-        "name": "Emocionalmente Indispon\u00edvel",
-        "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 191304,
-      "name": "Emocionalmente Indispon\u00edvel",
-      "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
-    },
-    {
-      "added_at": "2026-09-25 03:00:32",
-      "album": {
         "name": "PASSARINHO",
         "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
       },
@@ -987,6 +1023,22 @@
       "duration_ms": 201783,
       "name": "PASSARINHO",
       "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
+    },
+    {
+      "added_at": "2026-09-25 03:00:32",
+      "album": {
+        "name": "Emocionalmente Indispon\u00edvel",
+        "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 191304,
+      "name": "Emocionalmente Indispon\u00edvel",
+      "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
     },
     {
       "added_at": "2026-09-25 03:00:32",
@@ -1019,6 +1071,22 @@
       "duration_ms": 189570,
       "name": "A Minha Flor",
       "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
+    },
+    {
+      "added_at": "2026-09-25 03:00:32",
+      "album": {
+        "name": "Cen\u00e1rio a Dois",
+        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 221099,
+      "name": "Cen\u00e1rio a Dois",
+      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
     },
     {
       "added_at": "2026-09-25 03:00:32",
@@ -1059,22 +1127,6 @@
     {
       "added_at": "2026-09-25 03:00:32",
       "album": {
-        "name": "Cen\u00e1rio a Dois",
-        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 221099,
-      "name": "Cen\u00e1rio a Dois",
-      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
-    },
-    {
-      "added_at": "2026-09-25 03:00:32",
-      "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
       },
@@ -1095,22 +1147,22 @@
     {
       "added_at": "2026-09-25 03:00:32",
       "album": {
-        "name": "No Mar",
-        "url": "https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i"
+        "name": "Sem foto, sem v\u00eddeo",
+        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
       },
       "artists": [
         {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
         },
         {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
         }
       ],
-      "duration_ms": 171194,
-      "name": "No Mar",
-      "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
+      "duration_ms": 194407,
+      "name": "Sem foto, sem v\u00eddeo",
+      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
     },
     {
       "added_at": "2026-09-25 03:00:32",
@@ -1131,22 +1183,22 @@
     {
       "added_at": "2026-09-25 03:00:32",
       "album": {
-        "name": "Sem foto, sem v\u00eddeo",
-        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
+        "name": "No Mar",
+        "url": "https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i"
       },
       "artists": [
         {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
         },
         {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
         }
       ],
-      "duration_ms": 194407,
-      "name": "Sem foto, sem v\u00eddeo",
-      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
+      "duration_ms": 171194,
+      "name": "No Mar",
+      "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
     },
     {
       "added_at": "2026-09-25 03:00:32",
@@ -1215,70 +1267,6 @@
       "duration_ms": 171130,
       "name": "Brisa Boa",
       "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
-    },
-    {
-      "added_at": "2026-09-25 03:00:32",
-      "album": {
-        "name": "Ressaca da Saudade",
-        "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
-      },
-      "artists": [
-        {
-          "name": "Aram\u00e0",
-          "url": "https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD"
-        },
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 172395,
-      "name": "Ressaca da Saudade",
-      "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
-    },
-    {
-      "added_at": "2026-09-25 03:00:32",
-      "album": {
-        "name": "Te Amar Me D\u00e1 Asas",
-        "url": "https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        },
-        {
-          "name": "Ricky Ndombashi",
-          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
-        }
-      ],
-      "duration_ms": 195124,
-      "name": "Te Amar Me D\u00e1 Asas",
-      "url": "https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC"
-    },
-    {
-      "added_at": "2026-09-25 03:00:32",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
-      },
-      "artists": [
-        {
-          "name": "RDD",
-          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
-        },
-        {
-          "name": "Anik Khan",
-          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
     }
   ],
   "unique_name": "Palco POP",

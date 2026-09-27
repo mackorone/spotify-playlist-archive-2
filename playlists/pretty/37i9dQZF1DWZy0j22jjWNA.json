@@ -1,12 +1,12 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 125509,
+  "num_followers": 125518,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD3gXEHe6iypuRMmDWxlRRi0oCV0",
+  "snapshot_id": "AAAAAH5w3AqXcXS/5ya14tl4dOBtDYpu",
   "tracks": [
     {
       "added_at": "2026-07-29 15:45:01",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "YES BE YES",
-        "url": "https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj"
-      },
-      "artists": [
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 165619,
-      "name": "YES BE YES",
-      "url": "https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "You Shine",
         "url": "https://open.spotify.com/album/72jFirpOEYhHfEPNC0kpQt"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 204255,
       "name": "You Shine",
       "url": "https://open.spotify.com/track/7xErthsNR0N0Q6jCfTrgF0"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "YES BE YES",
+        "url": "https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 165619,
+      "name": "YES BE YES",
+      "url": "https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "honeydew (praise the Lord)",
-        "url": "https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "honeydew (praise the Lord)",
-      "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Joy Comes",
         "url": "https://open.spotify.com/album/6zZi74NcUwGK0uX7lvnACy"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 231375,
       "name": "Joy Comes",
       "url": "https://open.spotify.com/track/11cM33H4S1YN6iSjB7uAvQ"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "honeydew (praise the Lord)",
+        "url": "https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "honeydew (praise the Lord)",
+      "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
     },
     {
       "added_at": "2026-07-29 15:45:01",

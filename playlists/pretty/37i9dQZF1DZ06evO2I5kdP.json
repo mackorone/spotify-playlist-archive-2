@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAAqaJEI/4HOzF+afZOD05X6",
+  "snapshot_id": "arW5gAAAAACYvb60MG4WX8DNZWdYj3qG",
   "tracks": [
     {
       "added_at": null,
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 141026,
-      "name": "Anna Mae",
-      "url": "https://open.spotify.com/track/23khR4I3r7OUNfWOpBnzzR"
+      "duration_ms": 122680,
+      "name": "Little Darlin Seize the Sun",
+      "url": "https://open.spotify.com/track/0FcAIIz4Ti87cFBwyD3iCE"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 122680,
-      "name": "Little Darlin Seize the Sun",
-      "url": "https://open.spotify.com/track/0FcAIIz4Ti87cFBwyD3iCE"
+      "duration_ms": 141026,
+      "name": "Anna Mae",
+      "url": "https://open.spotify.com/track/23khR4I3r7OUNfWOpBnzzR"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 290000,
-      "name": "Amour, a liquid state",
-      "url": "https://open.spotify.com/track/314lwa5x8khiqqWnzrWHF9"
+      "duration_ms": 238000,
+      "name": "Shines for Eternity",
+      "url": "https://open.spotify.com/track/17wS3gFjBUZpncmlh7ANlW"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Shines for Eternity",
-      "url": "https://open.spotify.com/track/17wS3gFjBUZpncmlh7ANlW"
+      "duration_ms": 290000,
+      "name": "Amour, a liquid state",
+      "url": "https://open.spotify.com/track/314lwa5x8khiqqWnzrWHF9"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 2",
+        "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 110360,
+      "name": "Arp",
+      "url": "https://open.spotify.com/track/0lE0PBMsq6PpUItdQJIrBC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 167440,
       "name": "Glissando for Bodies and Machines in Space",
       "url": "https://open.spotify.com/track/2mAkrLxNUAUsGhVUW7UTxx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 2",
-        "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 110360,
-      "name": "Arp",
-      "url": "https://open.spotify.com/track/0lE0PBMsq6PpUItdQJIrBC"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 2",
+        "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 283586,
+      "name": "Vhs",
+      "url": "https://open.spotify.com/track/7GI3EonVrUfvUJ5fQ3sWB5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 326840,
       "name": "Some Limited and Waning Memory",
       "url": "https://open.spotify.com/track/2t3riouUalP5SEYXPGrQ9D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 2",
-        "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 283586,
-      "name": "Vhs",
-      "url": "https://open.spotify.com/track/7GI3EonVrUfvUJ5fQ3sWB5"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 369905,
-      "name": "Joanna",
-      "url": "https://open.spotify.com/track/6qlvxStk8h2ugHOQqVZQcX"
+      "duration_ms": 380090,
+      "name": "Open Delay",
+      "url": "https://open.spotify.com/track/0Iu4duedkuEJYAfsH63HQ2"
     },
     {
       "added_at": null,
@@ -700,45 +700,9 @@
           "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 253533,
-      "name": "Harp of Yaman",
-      "url": "https://open.spotify.com/track/36VdNFNWrX6NjwvyO86qeN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
-        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "John Also Bennett",
-          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Fields of Aloe Vera",
-      "url": "https://open.spotify.com/track/3u9hSHYGb3wKCYIaCBCAHV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 3",
-        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 304883,
-      "name": "Moon Drone",
-      "url": "https://open.spotify.com/track/4Qn5EO49XCHZqIcWwvcM5v"
+      "duration_ms": 369905,
+      "name": "Joanna",
+      "url": "https://open.spotify.com/track/6qlvxStk8h2ugHOQqVZQcX"
     },
     {
       "added_at": null,
@@ -763,6 +727,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 3",
+        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 304883,
+      "name": "Moon Drone",
+      "url": "https://open.spotify.com/track/4Qn5EO49XCHZqIcWwvcM5v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+      "url": "https://open.spotify.com/track/2ZXR6GNwSfgPuUa7KXr1Dk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Christina Vantzou, Michael Harrison and John Also Bennett",
         "url": "https://open.spotify.com/album/1gGeFnXsboBj17KDg0Iqfi"
       },
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 380090,
-      "name": "Open Delay",
-      "url": "https://open.spotify.com/track/0Iu4duedkuEJYAfsH63HQ2"
+      "duration_ms": 253533,
+      "name": "Harp of Yaman",
+      "url": "https://open.spotify.com/track/36VdNFNWrX6NjwvyO86qeN"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
-        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+        "name": "Landscape Architecture",
+        "url": "https://open.spotify.com/album/4Efmy1cGT5PcyZY3dvHMRf"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 125000,
-      "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
-      "url": "https://open.spotify.com/track/2ZXR6GNwSfgPuUa7KXr1Dk"
+      "duration_ms": 338000,
+      "name": "Phantom Tunnel",
+      "url": "https://open.spotify.com/track/1FqbE6urIwPZycA7X7X1hL"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 5",
-        "url": "https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk"
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
       },
       "artists": [
         {
@@ -880,17 +880,13 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         },
         {
-          "name": "Lieselot de Wilde",
-          "url": "https://open.spotify.com/artist/1Kl1WpZOpVYsySdBdH9TDR"
-        },
-        {
-          "name": "Margaret Hermant",
-          "url": "https://open.spotify.com/artist/3EuUrHJPp2kp1mUfDBzlin"
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 239596,
-      "name": "Kimona I",
-      "url": "https://open.spotify.com/track/5h3xuINapHUkdGtMNJjMjX"
+      "duration_ms": 68624,
+      "name": "Messengers of the Rains",
+      "url": "https://open.spotify.com/track/7nuyqnbGWKvtRxYLQZin5z"
     },
     {
       "added_at": null,
@@ -915,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
-        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+        "name": "No. 5",
+        "url": "https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk"
       },
       "artists": [
         {
@@ -924,13 +920,17 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         },
         {
-          "name": "John Also Bennett",
-          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+          "name": "Lieselot de Wilde",
+          "url": "https://open.spotify.com/artist/1Kl1WpZOpVYsySdBdH9TDR"
+        },
+        {
+          "name": "Margaret Hermant",
+          "url": "https://open.spotify.com/artist/3EuUrHJPp2kp1mUfDBzlin"
         }
       ],
-      "duration_ms": 68624,
-      "name": "Messengers of the Rains",
-      "url": "https://open.spotify.com/track/7nuyqnbGWKvtRxYLQZin5z"
+      "duration_ms": 239596,
+      "name": "Kimona I",
+      "url": "https://open.spotify.com/track/5h3xuINapHUkdGtMNJjMjX"
     },
     {
       "added_at": null,
@@ -959,8 +959,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Landscape Architecture",
-        "url": "https://open.spotify.com/album/4Efmy1cGT5PcyZY3dvHMRf"
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
       },
       "artists": [
         {
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 338000,
-      "name": "Phantom Tunnel",
-      "url": "https://open.spotify.com/track/1FqbE6urIwPZycA7X7X1hL"
+      "duration_ms": 252000,
+      "name": "Fields of Aloe Vera",
+      "url": "https://open.spotify.com/track/3u9hSHYGb3wKCYIaCBCAHV"
     }
   ],
   "unique_name": "This Is Christina Vantzou",

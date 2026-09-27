@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,216 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,258 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [Holy God](https://open.spotify.com/track/6V3SPRoks84L79tAs9ajyM) | [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [Holy God](https://open.spotify.com/album/4gPuQo6Xo1zwm5qK0PR3Sq) | 11:02 |
 | 100 | [Sweet Jesus](https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR) | [Jordan Bangoji](https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d) | [Sweet Jesus](https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q) | 2:27 |
 
-Snapshot ID: `AAAAABiMj87GBGY8P3OMDdf4bIRtY8Oz`
+Snapshot ID: `AAAAAHgumO++qHid8JZZdyhjeqELF2iR`

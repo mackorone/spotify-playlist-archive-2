@@ -4730,7 +4730,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 181186,
       "name": "Brandk\u00e5ren",
       "url": "https://open.spotify.com/track/5NTzLQGKimkWaVb9LHjug9"
@@ -21573,6 +21573,24 @@
     },
     {
       "album": {
+        "name": "Kontrollen & f\u00f6rlusten av den",
+        "url": "https://open.spotify.com/album/7JPUfsQrBO9S6Z6vY9PcI7"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183749,
+      "name": "Kontrollen & f\u00f6rlusten av den",
+      "url": "https://open.spotify.com/track/3N7nomr3lQ8x9GPMVYSbKf"
+    },
+    {
+      "album": {
         "name": "kort & kall",
         "url": "https://open.spotify.com/album/3pr7T4bj8g7aYTR6K6SJ4f"
       },
@@ -36108,7 +36126,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 214778,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz"
@@ -39096,7 +39114,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 178863,
       "name": "Tomma l\u00e4ppar",
       "url": "https://open.spotify.com/track/5oTwWYGGvz9c5S2kcQCYxf"

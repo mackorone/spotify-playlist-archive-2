@@ -1,12 +1,12 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 177882,
+  "num_followers": 177938,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ/KvO26hMqk3WQtH67sHQn+2yuX",
+  "snapshot_id": "AAAAALbNTJs92QlvSNDLGQpd/YnSgEh2",
   "tracks": [
     {
       "added_at": "2026-06-08 18:17:51",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Vato Sencillo",
+      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Int\u00e9ntalo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0epO2AI9n5OCd8rPOYQI5m"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 193533,
       "name": "Int\u00e9ntalo",
       "url": "https://open.spotify.com/track/1G1oltHy7huusOr9eoUUQM"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Vato Sencillo",
-      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/42y9XMsHd4bHlbtB5HLUJL"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Cada D\u00eda M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/3JGkx0qK6mh7O7qz9zCLXM"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Artilleria Pesada, Presenta:",
         "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 253880,
       "name": "Si Se\u00f1or",
       "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/42y9XMsHd4bHlbtB5HLUJL"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Cada D\u00eda M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/3JGkx0qK6mh7O7qz9zCLXM"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "El regreso de los reyes",
-        "url": "https://open.spotify.com/album/21pqkG5DDm78wlxhXJkZ9Q"
-      },
-      "artists": [
-        {
-          "name": "Cruz Martinez presenta Los Super Reyes",
-          "url": "https://open.spotify.com/artist/1mEYmsbKTfxfLbyyjvgEId"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/6aD9eiMPS1zn9rmvIMZbJq"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "ATP",
         "url": "https://open.spotify.com/album/5YAMa7LhSMdWOs1dF93g4V"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "El regreso de los reyes",
+        "url": "https://open.spotify.com/album/21pqkG5DDm78wlxhXJkZ9Q"
+      },
+      "artists": [
+        {
+          "name": "Cruz Martinez presenta Los Super Reyes",
+          "url": "https://open.spotify.com/artist/1mEYmsbKTfxfLbyyjvgEId"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/6aD9eiMPS1zn9rmvIMZbJq"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "HURT (feat. The Warning)",
         "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 213924,
       "name": "HURT (feat. The Warning)",
       "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -967,6 +951,22 @@
       "duration_ms": 255280,
       "name": "Qu\u00e9 Bello",
       "url": "https://open.spotify.com/track/2vw9TcQLOkCjCcSX3rKyJb"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Rigo Tovar '81",
-        "url": "https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Vuelve A Encender Mi Fuego",
-      "url": "https://open.spotify.com/track/6xsGdPEjDFBd5QTuugaA5P"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 186573,
       "name": "Arrastrando La Cobija",
       "url": "https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Rigo Tovar '81",
+        "url": "https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Vuelve A Encender Mi Fuego",
+      "url": "https://open.spotify.com/track/6xsGdPEjDFBd5QTuugaA5P"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Regalo Caro",
-        "url": "https://open.spotify.com/album/4D6UIG5sjJUN1VQn5v1AvE"
-      },
-      "artists": [
-        {
-          "name": "Luis y Julian",
-          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
-        }
-      ],
-      "duration_ms": 162440,
-      "name": "Chao Chao Amor",
-      "url": "https://open.spotify.com/track/4j5AdS0aQG5nummMEbSUNq"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Boleros de Hoy",
         "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 299922,
       "name": "Novios Cruzados",
       "url": "https://open.spotify.com/track/4KAnRxjTU7ofwCBXT40owu"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Regalo Caro",
+        "url": "https://open.spotify.com/album/4D6UIG5sjJUN1VQn5v1AvE"
+      },
+      "artists": [
+        {
+          "name": "Luis y Julian",
+          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
+        }
+      ],
+      "duration_ms": 162440,
+      "name": "Chao Chao Amor",
+      "url": "https://open.spotify.com/track/4j5AdS0aQG5nummMEbSUNq"
     },
     {
       "added_at": "2026-06-08 18:17:51",

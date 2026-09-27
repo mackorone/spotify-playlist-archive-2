@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Julie Bergan, Metropolen,  Charli XCX & Madonna og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,343 likes - 102 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,345 likes - 102 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 55 | [Kors på halsen](https://open.spotify.com/track/1fc5nFrEV4IrA5vHscdcgy) | [Ella Lockert](https://open.spotify.com/artist/5pX1VwwQahCy32y5kxYfS4) | [Kors på halsen](https://open.spotify.com/album/6OYiiqLIGZs5pmllL2LxCl) | 2:28 |
 | 56 | [Head Rush](https://open.spotify.com/track/0XOepWRctQZNF4PBieyxUA) | [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ), [Havanna Winter](https://open.spotify.com/artist/3QWgcNcKtobgBgbhGoQXDC) | [Head Rush](https://open.spotify.com/album/01KECdjsbBxXc3pz60Sy1j) | 2:51 |
 | 57 | [EPA EPA](https://open.spotify.com/track/3qyBU6eS6oea9dyy6IeBos) | [Sikkerhetsproffen](https://open.spotify.com/artist/01Nl8dhJLGs2meORN2K5rf), [EpaKongen](https://open.spotify.com/artist/0Ak3fHyAjNlhqOb0tLyq3b), [EpaQueen](https://open.spotify.com/artist/1oh6dcghw4Z23EJVsic6OD) | [EPA EPA](https://open.spotify.com/album/0G9AAKDRPuNCrqLZcFLkxd) | 1:41 |
-| 58 | [Vibes](https://open.spotify.com/track/7wdJQwPCpOPMyXfh7ebSkS) | [SVON](https://open.spotify.com/artist/5sqaJcKPPOmZ5QQfCM23eQ), [Winta](https://open.spotify.com/artist/7AaeiqBPoQF1QCfi6afA0l) | [Vibes](https://open.spotify.com/album/3764PzBec5VBTSyWs1p47m) | 3:34 |
+| 58 | [Vibes](https://open.spotify.com/track/7wdJQwPCpOPMyXfh7ebSkS) | [SVON](https://open.spotify.com/artist/5sqaJcKPPOmZ5QQfCM23eQ), [Winta](https://open.spotify.com/artist/71Da2sS3bMOTB3DCGFjGrF) | [Vibes](https://open.spotify.com/album/3764PzBec5VBTSyWs1p47m) | 3:34 |
 | 59 | [Jet Lag](https://open.spotify.com/track/5CYfZNnRoSRzMwaLyl4ey1) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [WpointM](https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8) | 3:01 |
 | 60 | [Little Bird](https://open.spotify.com/track/2IR3Lrx04gEw57PhESogtU) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [Little Bird](https://open.spotify.com/album/4yZx4NwHfXu4uSIjTNtEg9) | 2:41 |
 | 61 | [She’s Gonna Break My Heart](https://open.spotify.com/track/6FqoCnCIuNXNh4H6V7Aux3) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Groove Therapy](https://open.spotify.com/album/3xSvgav5fUUTKYFTLk9gMb) | 2:46 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 101 | [sentinel](https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [sentinel](https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf) | 3:26 |
 | 102 | [Stoney Shore](https://open.spotify.com/track/1kAMKX77dRmtoBPb71NvdU) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [Stoney Shore](https://open.spotify.com/album/0FlHnJ4haaysHsEkkYngQy) | 2:16 |
 
-Snapshot ID: `AAAAAIBauY+m4odwCZiBiseoPwpZooNq`
+Snapshot ID: `AAAAAHC7KcPNmMwiaY77p5M+KzVMPjSo`

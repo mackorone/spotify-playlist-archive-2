@@ -424,7 +424,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 309840,
       "name": "melt bitter",
       "url": "https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi"
@@ -2310,6 +2310,24 @@
       "duration_ms": 248235,
       "name": "\u7761\u308b\u541b",
       "url": "https://open.spotify.com/track/44IRqjfSa15d8E6URV3WO0"
+    },
+    {
+      "album": {
+        "name": "SENTIMENTALovers",
+        "url": "https://open.spotify.com/album/12H8S3cARLfYIQ3dSNKIUA"
+      },
+      "artists": [
+        {
+          "name": "Ken Hirai",
+          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343240,
+      "name": "\u77b3\u3092\u3068\u3058\u3066",
+      "url": "https://open.spotify.com/track/0JAQpusQK6R7w07s0UgcU3"
     },
     {
       "album": {

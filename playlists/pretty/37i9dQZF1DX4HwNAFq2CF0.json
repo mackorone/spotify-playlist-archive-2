@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Angine de Poitrine",
-  "num_followers": 77793,
+  "num_followers": 77794,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/NBZZ+nw3CsO8KRMgoQTw4TM4A",
+  "snapshot_id": "AAAAAP2/AGnskDeRPewfZ6GuZqkg22Hn",
   "tracks": [
     {
       "added_at": "2026-07-10 01:13:08",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Where the Shadow Ends",
-        "url": "https://open.spotify.com/album/5JV9WVTMzKobLw2rbs2FDY"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Someone to You",
-      "url": "https://open.spotify.com/track/2amiYVWBp4ixa2Ja7ix5cx"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 195747,
       "name": "sTraNgeRs",
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Where the Shadow Ends",
+        "url": "https://open.spotify.com/album/5JV9WVTMzKobLw2rbs2FDY"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Someone to You",
+      "url": "https://open.spotify.com/track/2amiYVWBp4ixa2Ja7ix5cx"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1265,6 +1265,22 @@
       "url": "https://open.spotify.com/track/4kN4CZD5UQiVdmjcHMIwWP"
     },
     {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Starcatcher",
+        "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 312084,
+      "name": "Meeting The Master",
+      "url": "https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ"
+    },
+    {
       "added_at": "2026-07-10 01:13:08",
       "album": {
         "name": "We Might as Well Be Strangers (ft. Wednesday)",
@@ -1283,22 +1299,6 @@
       "duration_ms": 214346,
       "name": "We Might as Well Be Strangers (ft. Wednesday)",
       "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
-        "name": "Starcatcher",
-        "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 312084,
-      "name": "Meeting The Master",
-      "url": "https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Lux \u00c6terna",
-        "url": "https://open.spotify.com/album/4nQohOCgjIAlnRmqUVYaSv"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Lux \u00c6terna",
-      "url": "https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Dirty Honey",
         "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 205090,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Lux \u00c6terna",
+        "url": "https://open.spotify.com/album/4nQohOCgjIAlnRmqUVYaSv"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U"
     },
     {
       "added_at": "2026-05-06 20:31:40",

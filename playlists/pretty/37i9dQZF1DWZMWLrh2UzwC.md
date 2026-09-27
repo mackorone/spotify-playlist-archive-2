@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Taylor Swift, ILLIT,  Hebe Tien, Hael Husaini, Mimifly, DOLLA, and many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,929 likes - 110 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,918 likes - 110 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 109 | [Chapter 4](https://open.spotify.com/track/7wsi6doEPUrUlFJYylmApv) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Chapter 4](https://open.spotify.com/album/7iVISoawYt4py8izsqOdq7) | 3:17 |
 | 110 | [Natural High](https://open.spotify.com/track/2ltTipWlzX9L8ofFKJioJi) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Natural High](https://open.spotify.com/album/7JLoQup5FmnWodYaoFfpBt) | 5:45 |
 
-Snapshot ID: `AAAAAFKAkU1a/ng2MqZ5t7/FvKSe2csS`
+Snapshot ID: `AAAAANuq3Dd8mq36zUxpD2kPDr1hXWlW`

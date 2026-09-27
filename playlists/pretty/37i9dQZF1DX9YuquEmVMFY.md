@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Oct 4th \(Sun\), 5th \(Mon\) @ Myunghwa Live Hall, Seoul
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,483 likes - 20 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,499 likes - 20 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 19 | [Look What You've Done](https://open.spotify.com/track/7jDtQkIxKFELTpQa27VWWR) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 3:01 |
 | 20 | [Eurosummer](https://open.spotify.com/track/2EhJHJV7itLmFGH1CQoK3i) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 2:52 |
 
-Snapshot ID: `AAAAAPVk18wlrqBor5zieUDAO5ZBWMnk`
+Snapshot ID: `AAAAALVuCAUlgojJUYRc/HGkczLSf20N`

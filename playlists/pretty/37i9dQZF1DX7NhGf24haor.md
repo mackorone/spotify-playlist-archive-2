@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Ran\-D
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,347 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,397 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Who I Am](https://open.spotify.com/track/4KkBmMGNe25NHTrBDN3H5w) | [Digital Punk](https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv), [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Who I Am](https://open.spotify.com/album/2M0UASTXCsOnhW9oNuQgpB) | 4:08 |
 | 100 | [Wolf City Anthem](https://open.spotify.com/track/2mdYEQ3bt8FaYOqgduO9rF) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Wolf City Anthem](https://open.spotify.com/album/0ZJuVo40fdaJgewKExLxuI) | 2:43 |
 
-Snapshot ID: `AAAAAKAdHUKNZ52KPZuyYVvo2X5SYaAk`
+Snapshot ID: `AAAAAFk22fWEL59tHvsKIsfF7dYK98NW`

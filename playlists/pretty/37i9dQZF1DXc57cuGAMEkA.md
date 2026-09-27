@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。藤井 風, Taylor Swift, Ado, Kroi, Tinashe,  <br/>Nothing But Thieves and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,209 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,238 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 79 | [hasty!](https://open.spotify.com/track/0yuPdnuIWmLFqme2kdYGsO) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [hasty!](https://open.spotify.com/album/738OhgTOyuNqjZXwc1wzWv) | 2:28 |
 | 80 | [Heart Motion Foto](https://open.spotify.com/track/4zA1ijz7NszMWMAs1fVEmF) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [I Wrote You A Letter](https://open.spotify.com/album/1EHDAMMjP2UCAEdmqf7704) | 2:54 |
 
-Snapshot ID: `AAAAAEREBzkvOkkLzL7AiULJO6alB9dp`
+Snapshot ID: `AAAAAKPyzahRRO9g4G+OLNHGNr0KGbdY`

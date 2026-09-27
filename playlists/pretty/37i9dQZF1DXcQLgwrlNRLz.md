@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,843 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,881 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,18 +16,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 6 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 |
 | 7 | [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 |
 | 8 | [Balek](https://open.spotify.com/track/6FyIByL10DzsD0xMKsa4hL) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [404](https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD) | 2:57 |
-| 9 | [N'y pense plus](https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide](https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU) | 3:32 |
-| 10 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:52 |
+| 9 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:52 |
+| 10 | [N'y pense plus](https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide](https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU) | 3:32 |
 | 11 | [Numero Uno](https://open.spotify.com/track/6vKcCo9wDTcjBiETLlVgul) | [TRK.](https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7) | [2026 Golden Run](https://open.spotify.com/album/5vUhGARSLeXAnVkauLN6Vg) | 2:53 |
 | 12 | [4 Kampé](https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [4 Kampé](https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88) | 3:34 |
 | 13 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
-| 14 | [GIRLFRIEND](https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [GIRLFRIEND](https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy) | 4:19 |
-| 15 | [Meleğim](https://open.spotify.com/track/0BD9boQC7jUTWkAoib4Z0d) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Vintage](https://open.spotify.com/album/6tGI9MGbLjbxyzcxYkMXPJ) | 3:40 |
+| 14 | [Meleğim](https://open.spotify.com/track/0BD9boQC7jUTWkAoib4Z0d) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Vintage](https://open.spotify.com/album/6tGI9MGbLjbxyzcxYkMXPJ) | 3:40 |
+| 15 | [GIRLFRIEND](https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [GIRLFRIEND](https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy) | 4:19 |
 | 16 | [Yaya \(feat\. Aya Nakamura\)](https://open.spotify.com/track/7epR1NCOGkOtJBZtp5Vicl) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:28 |
 | 17 | [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 |
 | 18 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 |
-| 19 | [Mood \(feat\. D2 & kulturr\)](https://open.spotify.com/track/0Map8Sn47eyojScNyuMnUD) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [D2](https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [HYPERACTIF](https://open.spotify.com/album/7FhduVA2rvpQqdTOPrYUnt) | 2:28 |
-| 20 | [CARTIER](https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:48 |
+| 19 | [CARTIER](https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:48 |
+| 20 | [Mood \(feat\. D2 & kulturr\)](https://open.spotify.com/track/0Map8Sn47eyojScNyuMnUD) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [D2](https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [HYPERACTIF](https://open.spotify.com/album/7FhduVA2rvpQqdTOPrYUnt) | 2:28 |
 | 21 | [Jam](https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [XX](https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf) | 3:00 |
 | 22 | [M3lo](https://open.spotify.com/track/7ELft1cx8anhsXE405kckI) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:18 |
 | 23 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 79 | [Ma Belle](https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz) | [DCartier](https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Ma Belle](https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj) | 3:09 |
 | 80 | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU) | 2:57 |
 
-Snapshot ID: `AAAAAPQ38oEBMrQJZCOZTK8xF/fU5bmv`
+Snapshot ID: `AAAAAFmaTmGBe/t96fGOeToQaw/KKPtk`

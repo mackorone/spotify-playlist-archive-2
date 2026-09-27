@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-843 songs - 1 day 16 hr 38 min
+844 songs - 1 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Blind](https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae) | [Jahplaka](https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk) | [Blind](https://open.spotify.com/album/5x9iKmrB20VHunQSud1vy6) | 2:27 | 2023-03-17 | 2023-03-31 |
 | [BLKN](https://open.spotify.com/track/72dnVyRTuvKakKNtbBGlKc) | [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [BLKN](https://open.spotify.com/album/0z8dBIlqELOczRx3dLCls9) | 2:07 | 2024-11-29 | 2025-03-05 |
 | [Blue Film](https://open.spotify.com/track/2hyzt7X3NUy8cEnIqJqA0C) | [DJ Yamz](https://open.spotify.com/artist/7r7jLkop1QhNvbiD9iWG5D), [Prince Hakeem Matthews](https://open.spotify.com/artist/3VR8K8yMdHiA5lmKKMSCCt), [Rama Brew](https://open.spotify.com/artist/21UP1AGVLvaDd2bNaHnpRf) | [27 in Accra Town](https://open.spotify.com/album/45b0DqkIiLicB6YcNHea52) | 4:44 | 2022-10-13 | 2022-10-31 |
-| [BMF ​\(f​eat​\. Byron Messia, Fireboy DML​\)](https://open.spotify.com/track/5479b6rH90I7QnI5QF1vnA) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:09 | 2025-09-26 |  |
+| [BMF ​\(f​eat​\. Byron Messia, Fireboy DML​\)](https://open.spotify.com/track/5479b6rH90I7QnI5QF1vnA) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:09 | 2025-09-26 | 2026-09-27 |
 | [BO NOR NI.](https://open.spotify.com/track/6zKC1raq5XpWCeMHqoG4Mq) | [theSylk](https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [BO NOR NI.](https://open.spotify.com/album/22C8cDxD6rjO80nVuvFu3f) | 2:54 | 2025-08-01 | 2025-09-05 |
 | [Bobo](https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Bobo](https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL) | 3:02 | 2025-09-05 | 2026-09-11 |
 | [Body Bad \(Freestyle\)](https://open.spotify.com/track/31G0EfE6cXWrkCna86YGyD) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [Body Bad \(Freestyle\)](https://open.spotify.com/album/3cQuh41tifUA3Zl8OiiydG) | 3:32 | 2026-01-14 | 2026-02-08 |
@@ -166,6 +166,7 @@
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 | 2023-12-02 |
 | [Chaser](https://open.spotify.com/track/47OEfIUDijuWI5mnV4U20H) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Chaser](https://open.spotify.com/album/39nOK6AHQW2nv0WE76xUWx) | 2:28 | 2026-08-28 |  |
 | [Chasing Wind](https://open.spotify.com/track/4uIr0EKmbKiBBuTdEaO6mM) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Chasing Wind](https://open.spotify.com/album/1jqwJofD3wFz2drsplzRwY) | 3:38 | 2023-06-22 | 2023-07-14 |
+| [CHE](https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [CHE](https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x) | 2:24 | 2026-09-25 |  |
 | [Cheers To Life](https://open.spotify.com/track/35APZC4TisJJihjSDtgn3C) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:22 | 2023-09-09 | 2023-10-18 |
 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 | 2022-07-28 | 2022-10-14 |
 | [Chigal](https://open.spotify.com/track/4EVzgtfcg5kMEnKEpDv2bL) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Chigal](https://open.spotify.com/album/48unx5t6zGTXFtMDhElQIK) | 2:06 | 2022-06-09 | 2022-10-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック Cover: KID FRESINO \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,944 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,973 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 99 | [24 years old](https://open.spotify.com/track/1Vich6ExRM11asPRH77Zev) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [24 years old](https://open.spotify.com/album/1eJmdpkNFKrGVES61YyPmM) | 3:27 |
 | 100 | [Amelie](https://open.spotify.com/track/716dlWPItSEiCTGIiWLX2b) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Amelie](https://open.spotify.com/album/0ty1hjADfr5M5I56GQlpWR) | 2:27 |
 
-Snapshot ID: `AAAAAIv6mq0hvaJ982hjvi0cQ6WvDfCA`
+Snapshot ID: `AAAAAFgzHtNbYS+WIdX1xKNfYqFGk5n3`

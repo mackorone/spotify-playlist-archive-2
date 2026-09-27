@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 229289,
+  "num_followers": 229295,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAADhDtE/SFdhZg2ggmAztQOD",
+  "snapshot_id": "arW5gAAAAABR9iU3VW7nu7fPW0UwgBTb",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendary (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 194935,
-      "name": "SWISH",
-      "url": "https://open.spotify.com/track/0aJ2hFC6e9Z00Lx9RIRNcT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hotel California (Deluxe)",
         "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 221493,
       "name": "Switch Lanes",
       "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legendary (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 194935,
+      "name": "SWISH",
+      "url": "https://open.spotify.com/track/0aJ2hFC6e9Z00Lx9RIRNcT"
     },
     {
       "added_at": null,
@@ -895,6 +895,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "DON\u2019T KILL THE PARTY (feat. Tyga, Shoreline Mafia & Quavo) [Coast 2 Coast]",
+        "url": "https://open.spotify.com/album/0zNgZSkhGkRcr1Yh06fyxr"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 225228,
+      "name": "DON'T KILL THE PARTY (feat. Tyga, Shoreline Mafia & Quavo) - Coast 2 Coast",
+      "url": "https://open.spotify.com/track/6p82E6XWmwC9yGzXPe1HHv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Furious 7: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm"
       },
@@ -927,30 +955,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DON\u2019T KILL THE PARTY (feat. Tyga, Shoreline Mafia & Quavo) [Coast 2 Coast]",
-        "url": "https://open.spotify.com/album/0zNgZSkhGkRcr1Yh06fyxr"
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
       "artists": [
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Shoreline Mafia",
-          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 225228,
-      "name": "DON'T KILL THE PARTY (feat. Tyga, Shoreline Mafia & Quavo) - Coast 2 Coast",
-      "url": "https://open.spotify.com/track/6p82E6XWmwC9yGzXPe1HHv"
+      "duration_ms": 145813,
+      "name": "Blessed (with Tyga)",
+      "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
     },
     {
       "added_at": null,
@@ -975,22 +995,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+        "name": "The Documentary III",
+        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
         },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 145813,
-      "name": "Blessed (with Tyga)",
-      "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
+      "duration_ms": 230160,
+      "name": "In The Way",
+      "url": "https://open.spotify.com/track/1n2BgOnlFIO1Ih8lNyNHR6"
     },
     {
       "added_at": null,
@@ -1019,30 +1043,6 @@
       "duration_ms": 196000,
       "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
       "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Documentary III",
-        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "RJMrLA",
-          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "In The Way",
-      "url": "https://open.spotify.com/track/1n2BgOnlFIO1Ih8lNyNHR6"
     },
     {
       "added_at": null,

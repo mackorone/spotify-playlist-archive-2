@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112889,
+  "num_followers": 112893,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACHJ98qE2saDTqlcY3o4lYCjay/w",
+  "snapshot_id": "AAAAAPuOzZ9QRqAm5lnvpCodclHtu+07",
   "tracks": [
     {
       "added_at": "2026-07-30 22:04:18",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-07-30 22:04:18",
       "album": {
+        "name": "At\u00e9 Sermos Um",
+        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 178446,
+      "name": "At\u00e9 Sermos Um",
+      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
+    },
+    {
+      "added_at": "2026-07-30 22:04:18",
+      "album": {
         "name": "Festa no Deserto (Ao Vivo)",
         "url": "https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC"
       },
@@ -635,6 +651,22 @@
     {
       "added_at": "2026-07-30 22:04:18",
       "album": {
+        "name": "Um Conselho",
+        "url": "https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ"
+      },
+      "artists": [
+        {
+          "name": "Milena Pina",
+          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
+        }
+      ],
+      "duration_ms": 147810,
+      "name": "Um Conselho",
+      "url": "https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS"
+    },
+    {
+      "added_at": "2026-07-30 22:04:18",
+      "album": {
         "name": "\u00c9 Mais Que Uma Honra",
         "url": "https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94"
       },
@@ -651,34 +683,18 @@
     {
       "added_at": "2026-07-30 22:04:18",
       "album": {
-        "name": "At\u00e9 Sermos Um",
-        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
+        "name": "Nossa Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
       },
       "artists": [
         {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+          "name": "Cord\u00e3o de Tr\u00eas",
+          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
         }
       ],
-      "duration_ms": 178446,
-      "name": "At\u00e9 Sermos Um",
-      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
-    },
-    {
-      "added_at": "2026-07-30 22:04:18",
-      "album": {
-        "name": "Um Conselho",
-        "url": "https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ"
-      },
-      "artists": [
-        {
-          "name": "Milena Pina",
-          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
-        }
-      ],
-      "duration_ms": 147810,
-      "name": "Um Conselho",
-      "url": "https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS"
+      "duration_ms": 189154,
+      "name": "Nossa Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
     },
     {
       "added_at": "2026-07-30 22:04:18",
@@ -707,38 +723,6 @@
     {
       "added_at": "2026-07-30 22:04:18",
       "album": {
-        "name": "Nossa Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
-      },
-      "artists": [
-        {
-          "name": "Cord\u00e3o de Tr\u00eas",
-          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "Nossa Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
-    },
-    {
-      "added_at": "2026-07-30 22:04:18",
-      "album": {
-        "name": "SL.27.4",
-        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 237209,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
-    },
-    {
-      "added_at": "2026-07-30 22:04:18",
-      "album": {
         "name": "Esque\u00e7o At\u00e9 o Tempo",
         "url": "https://open.spotify.com/album/5IpzcMpWNDaLiLylbnS3XV"
       },
@@ -759,22 +743,18 @@
     {
       "added_at": "2026-07-30 22:04:18",
       "album": {
-        "name": "Sonhar",
-        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
+        "name": "SL.27.4",
+        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
       },
       "artists": [
         {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        },
-        {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
         }
       ],
-      "duration_ms": 138080,
-      "name": "Sonhar",
-      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
+      "duration_ms": 237209,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
     },
     {
       "added_at": "2026-07-30 22:04:18",
@@ -791,6 +771,26 @@
       "duration_ms": 245744,
       "name": "SOCORRO",
       "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+    },
+    {
+      "added_at": "2026-07-30 22:04:18",
+      "album": {
+        "name": "Sonhar",
+        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        },
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Sonhar",
+      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
     },
     {
       "added_at": "2026-07-30 22:04:18",

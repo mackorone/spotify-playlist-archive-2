@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,843 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,857 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 3 | [Already Loved](https://open.spotify.com/track/1eQcRsCGoDTiRmTLPzPbae) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Already Loved](https://open.spotify.com/album/0s3raoXRQiFVnnUDZ7H9oP) | 3:46 |
 | 4 | [I Pray You Know The Love Of Jesus](https://open.spotify.com/track/6CugPKmjJNGAw18CJnvoRK) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Mireya Harris](https://open.spotify.com/artist/1Gn0VXnnCAV6arEb4hjKK5) | [I Pray You Know The Love Of Jesus](https://open.spotify.com/album/5Vbxsn75W3LYBTTyooUjeu) | 2:11 |
 | 5 | [Bigger Everyday](https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:12 |
-| 6 | [My God](https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My God](https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B) | 8:08 |
+| 6 | [MY GOD, YOU ARE GOOD](https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [MY GOD, YOU ARE GOOD](https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B) | 8:08 |
 | 7 | [I have escaped](https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [I have escaped \(Main Version\)](https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0) | 3:20 |
 | 8 | [Nothing Spoils in my Hand](https://open.spotify.com/track/2XqCY3rGj9lQtfghvaucTT) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Nothing Spoils in my Hand](https://open.spotify.com/album/56Dzq59j8Af14cve3psPXv) | 4:27 |
 | 9 | [Ayaya](https://open.spotify.com/track/1L1TEAUIblOiW7MSkjZQFO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Teninlanimi](https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Ayaya](https://open.spotify.com/album/5txYtOz5OSkeGelJHLffWs) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 99 | [Yahweh Yahweh](https://open.spotify.com/track/5luPkXtktEKUxL2YLRVDiQ) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Yahweh Yahweh](https://open.spotify.com/album/2lvOK6RPapKVZJ3MdKK9D3) | 3:20 |
 | 100 | [Dai Dai](https://open.spotify.com/track/7K81jfwTAAPw0vMD8vUdUg) | [Rimz john](https://open.spotify.com/artist/67ZYJtBc4bY0Zy0hLK5xpw) | [Dai Dai](https://open.spotify.com/album/1j5VLOg2EpYxQtw3yXT0k0) | 2:36 |
 
-Snapshot ID: `AAAAAMqfiszvgXh73n88+jYgIP5lCIHC`
+Snapshot ID: `AAAAACfbva0cu9y3WtxEEkfOdnYSirUB`

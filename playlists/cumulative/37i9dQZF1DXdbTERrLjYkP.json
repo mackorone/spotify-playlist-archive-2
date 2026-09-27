@@ -9007,6 +9007,24 @@
     },
     {
       "album": {
+        "name": "I HATE YOU DON'T LEAVE ME !",
+        "url": "https://open.spotify.com/album/3269Ki6QvWgGIMotSx45ig"
+      },
+      "artists": [
+        {
+          "name": "Chrissi",
+          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "I HATE YOU DON'T LEAVE ME !",
+      "url": "https://open.spotify.com/track/0sU6ZDMp8HZaW4StcO61pN"
+    },
+    {
+      "album": {
         "name": "i heart the internet",
         "url": "https://open.spotify.com/album/3Bg7PLOLItNpz7OajqkVDk"
       },
@@ -13340,7 +13358,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 206426,
       "name": "Not Going Back",
       "url": "https://open.spotify.com/track/6Th9lSm2XopRstK6kNlfSa"

@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,056 songs - 2 day 2 hr 47 min
+1,057 songs - 2 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Chaos](https://open.spotify.com/track/43jWipklxg90r0zx3sLiSA) | [Daboy Kenzi](https://open.spotify.com/artist/77HPdxhFodvllNDHT3JBmf) | [Chaos](https://open.spotify.com/album/30CBB6bBJGEKKCFWM1mhA1) | 3:10 | 2026-03-13 | 2026-05-26 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 | 2024-04-19 |
 | [Charm](https://open.spotify.com/track/3de3ASYwXvqgEzqJaMWYEQ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses \(Ultra\)](https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6) | 3:24 | 2024-04-19 | 2024-06-28 |
+| [CHE](https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [CHE](https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x) | 2:24 | 2026-09-25 |  |
 | [Check & Balance](https://open.spotify.com/track/4pT6DMvWj2nXyo0Xpj4sy5) | [Synnex Music](https://open.spotify.com/artist/1wOg4RKiG4cS1EcELL7gdB), [Musta4a](https://open.spotify.com/artist/4if5dwAkHl7FZNCJTIB5e9) | [Check & Balance](https://open.spotify.com/album/0uUfej33gYq7PBysLcmBBx) | 2:36 | 2025-08-25 | 2025-09-29 |
 | [Cheerleader](https://open.spotify.com/track/7HBNQu4Fe6DHm6T1KRSIVc) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Cheerleader](https://open.spotify.com/album/6DQ2VtjFoW67qav6ucPJ0Z) | 2:06 | 2025-10-03 | 2026-02-15 |
 | [Choco Milo](https://open.spotify.com/track/3nIWHeSpBwBM09Fi0VDxgF) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Choco Milo](https://open.spotify.com/album/5jngcep59Rk5mfytsXPvgz) | 1:56 | 2025-04-18 | 2025-05-29 |
@@ -963,7 +964,7 @@
 | [Time Traveler](https://open.spotify.com/track/2cv0OdZIThSfcPiMsDDQTk) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Time Traveler](https://open.spotify.com/album/6BS5k06GKg6rsxbkYiVGhS) | 2:46 | 2024-09-13 | 2025-01-18 |
 | [Timing](https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Timing](https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8) | 2:58 | 2024-10-04 | 2025-07-24 |
 | [Titi](https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 3:01 | 2025-07-04 |  |
-| [To Me](https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 2:27 | 2026-09-11 |  |
+| [To Me](https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 2:27 | 2026-09-11 | 2026-09-27 |
 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 | 2024-06-28 | 2024-12-19 |
 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 | 2023-10-20 | 2023-11-14 |
 | [Tornado](https://open.spotify.com/track/3oNOHoKJd2DlVb3NJvXh0j) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Tornado](https://open.spotify.com/album/0O3GM44tWAKIrzzK0UxjHV) | 2:41 | 2024-09-20 | 2024-09-28 |

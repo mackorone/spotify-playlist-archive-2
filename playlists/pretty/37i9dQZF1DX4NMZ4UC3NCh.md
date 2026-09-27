@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMZ4UC3NCh.md) - [plain]
 
 > Happiness! This is Red Velvet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,821 likes - 140 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,815 likes - 140 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMZ4UC3NCh.md) - [plain]
 | 139 | [Fool](https://open.spotify.com/track/7kedMPEnyRksvUqGeFhY9D) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/2pBrB5hW9CjLWWZGqrET2g) | 3:53 |
 | 140 | [처음인가요 First Time](https://open.spotify.com/track/0LOPFlsWqlqPpr0ICwMVcK) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/3ZkPccW7mkSC7BCulcPFJs) | 4:02 |
 
-Snapshot ID: `AAAAAE+29FbDqQO9nbjHGJ1t0hyXeKiu`
+Snapshot ID: `AAAAANDM9+BvPy+l4gmRipVdptIHm+fs`

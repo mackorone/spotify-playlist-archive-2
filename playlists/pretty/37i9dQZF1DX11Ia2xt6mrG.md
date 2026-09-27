@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Deorro y Jessica Audiffred en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,677 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,694 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 18 | [Solo Quiero Tomar](https://open.spotify.com/track/5lbdtAkTRsWCYBbkb2y7Sc) | [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Kill the Clowns](https://open.spotify.com/artist/7KczDuPvlKEo8nQCpa8my8) | [Solo Quiero Tomar](https://open.spotify.com/album/1tFw1Azm3nI4YxjHSOJu3l) | 2:42 |
 | 19 | [la vuelta](https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [la vuelta](https://open.spotify.com/album/5KCeDTcZYLehMtRszwxkoD) | 3:19 |
 | 20 | [FVCK](https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 3:06 |
-| 21 | [HOUSE OF LUX 2](https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 2:25 |
-| 22 | [Eco](https://open.spotify.com/track/6yQXgEmhBS5fc7OkPyCXSi) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Barbie Williams](https://open.spotify.com/artist/56v6nmscLs2EGMSvg3JrQI) | [Eco](https://open.spotify.com/album/4MWkaNUBfGp6LO8dQWbJqy) | 4:19 |
+| 21 | [Eco](https://open.spotify.com/track/6yQXgEmhBS5fc7OkPyCXSi) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Barbie Williams](https://open.spotify.com/artist/56v6nmscLs2EGMSvg3JrQI) | [Eco](https://open.spotify.com/album/4MWkaNUBfGp6LO8dQWbJqy) | 4:19 |
+| 22 | [HOUSE OF LUX 2](https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 2:25 |
 | 23 | [Coqueta](https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [Coqueta](https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa) | 3:02 |
 | 24 | [Ya no te quiero ver](https://open.spotify.com/track/2DByHCKGgd1J66nJvChvtl) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Ya no te quiero ver](https://open.spotify.com/album/1cZiPR4BvIiTr0x9P0zzP8) | 3:33 |
 | 25 | [Quemando Papel](https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [Quemando Papel](https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9) | 3:14 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 78 | [TUCU](https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [TUCU](https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8) | 2:36 |
 | 79 | [Chupa \(Feat\. Ms Nina\)](https://open.spotify.com/track/5IxkKy1BCUc4ysc1sZc3ck) | [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Chupa \(Feat\. Ms Nina\)](https://open.spotify.com/album/5adOkuXGCliZ1boMgjuA5Y) | 2:56 |
 | 80 | [RAYBEN CAP 6: EL DANZÓN](https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK) | [RAYBEN CAP 6: EL DANZÓN](https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh) | 2:22 |
-| 81 | [BLING BLING](https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [BLING BLING](https://open.spotify.com/album/0KjScAnphBueUEa3md9szW) | 2:40 |
-| 82 | [Midnight Replay](https://open.spotify.com/track/7rMiNWxXuxUIv93te7Mrnl) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Midnight Replay](https://open.spotify.com/album/6rWXLBj7nllYP31NrzZwa7) | 3:09 |
+| 81 | [Midnight Replay](https://open.spotify.com/track/7rMiNWxXuxUIv93te7Mrnl) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Midnight Replay](https://open.spotify.com/album/6rWXLBj7nllYP31NrzZwa7) | 3:09 |
+| 82 | [BLING BLING](https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [BLING BLING](https://open.spotify.com/album/0KjScAnphBueUEa3md9szW) | 2:40 |
 | 83 | [999 \(Goer\)](https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa) | [999 \(Goer\)](https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb) | 2:40 |
 | 84 | [Bandidas](https://open.spotify.com/track/7nOe5YtRc78d1vFGt1zi1V) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bandidas](https://open.spotify.com/album/2ADVnJXAX6V7NQoerdXPmD) | 2:22 |
 | 85 | [SOL](https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [SOL](https://open.spotify.com/album/0PxFydCKbJSPaLG8ouOMYA) | 3:15 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 89 | [R\-15](https://open.spotify.com/track/7zYNefq2q2xCOFXscMmW3B) | [Daniel Cuevas](https://open.spotify.com/artist/3pCZzxGXHvgoK3OdluWOLc), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61), [Manci](https://open.spotify.com/artist/4AVxNRSuuvQ19srEOaUemE) | [R\-15](https://open.spotify.com/album/4CATim7PRuGUtjURDpRyP5) | 2:54 |
 | 90 | [cuándo](https://open.spotify.com/track/6NVU7iVKXBmo07g4c3nLvh) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [cuándo](https://open.spotify.com/album/6MIUe2REUhOTndOLvPKvCr) | 3:21 |
 
-Snapshot ID: `AAAAAM0OUzBQ1BvaFRj0hFMm+u3LlQ/n`
+Snapshot ID: `AAAAALNWUEjMAVAQO/uHHbxRkUeWmJIe`

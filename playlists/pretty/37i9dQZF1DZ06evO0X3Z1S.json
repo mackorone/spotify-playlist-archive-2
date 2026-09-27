@@ -1,13 +1,33 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 88432,
+  "num_followers": 88436,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAARs94rustwEapb0Sjg+Mky",
+  "snapshot_id": "arW5gAAAAABPK/g+eG8syOJhyxJaAwA2",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girl 2.0",
+        "url": "https://open.spotify.com/album/7kkOjVl0B61otBddwcdh0o"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "duration_ms": 145798,
+      "name": "Girl 2.0",
+      "url": "https://open.spotify.com/track/2WL3V5U4xXbqy7rPzUMLl6"
+    },
     {
       "added_at": null,
       "album": {
@@ -623,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I See Love (From Hotel Transylvania 3)",
-        "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 173220,
-      "name": "I See Love - From Hotel Transylvania 3",
-      "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something Stupid (feat. AWA)",
         "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
       },
@@ -659,6 +659,26 @@
       "duration_ms": 176734,
       "name": "Something Stupid (feat. AWA)",
       "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I See Love (From Hotel Transylvania 3)",
+        "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 173220,
+      "name": "I See Love - From Hotel Transylvania 3",
+      "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
     },
     {
       "added_at": null,
@@ -1039,26 +1059,6 @@
       "duration_ms": 165120,
       "name": "Angles",
       "url": "https://open.spotify.com/track/1YIhmgvi4tTDD1VAiWQsIP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aceita (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/6QXjrHkPxuk3N8ZINvq3le"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Aceita - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/5neNUN5qPB1hkJzhT823rO"
     }
   ],
   "unique_name": "This Is Jonas Blue",

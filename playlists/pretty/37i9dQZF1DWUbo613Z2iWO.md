@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Zyah Belle
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,229 likes - 200 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,230 likes - 200 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 199 | [gutta child](https://open.spotify.com/track/1104jrxwuzye3TWcSxzd4k) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [gutta child](https://open.spotify.com/album/5bGEq0KEtEwQfgpnimNG7c) | 1:48 |
 | 200 | [to see thru closed eyes](https://open.spotify.com/track/5zXBf7bGyDM4TnWNTjMCfi) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [to see thru closed eyes](https://open.spotify.com/album/2r1gIPuzPCvtd4sURMPYS9) | 2:15 |
 
-Snapshot ID: `AAAAAHDZF4UqLB9ayww7AIZP1Zrv3FjF`
+Snapshot ID: `AAAAAAANdMkLxTiGEuX/BJojk20n2634`

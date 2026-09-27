@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Max McNown
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,457 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,460 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [TAKE ME AS I AM](https://open.spotify.com/track/1WbfAGf7Fo6eKZTZoHMbna) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [CROSSROADS](https://open.spotify.com/album/4VA9gdfckx7uV0noJVrZEU) | 3:51 |
 | 50 | [Saving Me](https://open.spotify.com/track/21GmnjIASYxKgFmBvtbVGC) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Saving Me](https://open.spotify.com/album/70RJexXwAZ3XJL4QXip3MM) | 3:41 |
 
-Snapshot ID: `AAAAAFzLNKXqqTiocL1j/Rf8LXOJGyKI`
+Snapshot ID: `AAAAAOd0SYk7P+SVV7wtoD6ixT9eaPE7`

@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 272996,
       "name": "Capitana - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2elUMQsM86Mc76C3kytRkq"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 274906,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
@@ -5969,6 +5969,28 @@
     },
     {
       "album": {
+        "name": "Rueda Eterna",
+        "url": "https://open.spotify.com/album/60upWGNYp7K9cllRlT8UJT"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Lucia Fumero",
+          "url": "https://open.spotify.com/artist/0NKTji2dtMilrWkrrtUsoJ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196854,
+      "name": "Petirrojo",
+      "url": "https://open.spotify.com/track/1VyWUvrBCAEPuFgZXxtHJ7"
+    },
+    {
+      "album": {
         "name": "Pienso en ti (Sesiones Moraima 2)",
         "url": "https://open.spotify.com/album/6ApaVcN0OP4DWSwgQuq58a"
       },
@@ -6588,7 +6610,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 179480,
       "name": "Rueda eterna",
       "url": "https://open.spotify.com/track/63tZPvFVEFLZUYngE4km29"

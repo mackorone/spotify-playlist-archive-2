@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310973,
+  "num_followers": 1310934,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPlC/uWpZHBeAwmU98MOEuyvvpzU",
+  "snapshot_id": "AAAAACyVRwiimbaNVk3/aOvOy8IYiHPX",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:19",
@@ -1489,6 +1489,22 @@
       "url": "https://open.spotify.com/track/3FLfgXWxlpvBJY46PbKIud"
     },
     {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "BADDIE",
+        "url": "https://open.spotify.com/album/0g1RE8cvHgGNfeOHxXGe2D"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 190170,
+      "name": "BADDIE",
+      "url": "https://open.spotify.com/track/5aCfSFFmhyaKASq13OPlaA"
+    },
+    {
       "added_at": "2026-05-15 15:18:31",
       "album": {
         "name": "Turn Up The Bass",
@@ -1527,22 +1543,6 @@
       "duration_ms": 165146,
       "name": "At The Disco",
       "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
-    },
-    {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "BADDIE",
-        "url": "https://open.spotify.com/album/0g1RE8cvHgGNfeOHxXGe2D"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 190170,
-      "name": "BADDIE",
-      "url": "https://open.spotify.com/track/5aCfSFFmhyaKASq13OPlaA"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1765,22 +1765,6 @@
       "url": "https://open.spotify.com/track/16zqNYSHjvKTNnvhKRQmp0"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
-    },
-    {
       "added_at": "2026-09-18 04:02:27",
       "album": {
         "name": "True",
@@ -1815,6 +1799,22 @@
       "duration_ms": 239090,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2026-06-15 17:48:38",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "About To Lose It",
+        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 195942,
+      "name": "About To Lose It",
+      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "CODEINE",
         "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 195000,
       "name": "CODEINE",
       "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "About To Lose It",
-        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "About To Lose It",
-      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1993,6 +1993,46 @@
       "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
     },
     {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "Step To The Floor",
+        "url": "https://open.spotify.com/album/1Vwum4cCMOAyYonYofPF7I"
+      },
+      "artists": [
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "Step To The Floor",
+      "url": "https://open.spotify.com/track/7ssvTvHXo0pqfcfPmfM21P"
+    },
+    {
+      "added_at": "2026-08-21 04:01:29",
+      "album": {
+        "name": "Rhythm Has Control",
+        "url": "https://open.spotify.com/album/5s6q0m3x7tbCBhlLIkaoV2"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        },
+        {
+          "name": "Hackatone",
+          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Rhythm Has Control",
+      "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "No Enemies (feat. Namasenda)",
@@ -2015,26 +2055,6 @@
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
-    },
-    {
-      "added_at": "2026-08-21 04:01:29",
-      "album": {
-        "name": "Rhythm Has Control",
-        "url": "https://open.spotify.com/album/5s6q0m3x7tbCBhlLIkaoV2"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        },
-        {
-          "name": "Hackatone",
-          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Rhythm Has Control",
-      "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
     },
     {
       "added_at": "2026-08-07 04:01:21",
@@ -2097,26 +2117,6 @@
       "url": "https://open.spotify.com/track/4TcDLZ64D57GAVfLUGBrr4"
     },
     {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "Step To The Floor",
-        "url": "https://open.spotify.com/album/1Vwum4cCMOAyYonYofPF7I"
-      },
-      "artists": [
-        {
-          "name": "Dansyn",
-          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "Step To The Floor",
-      "url": "https://open.spotify.com/track/7ssvTvHXo0pqfcfPmfM21P"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Bass Face",
@@ -2137,22 +2137,6 @@
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
-      "added_at": "2026-08-14 04:01:19",
-      "album": {
-        "name": "Monopoly Man",
-        "url": "https://open.spotify.com/album/7Kmepe8BIgqaega0xj2EVO"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 202101,
-      "name": "Monopoly Man",
-      "url": "https://open.spotify.com/track/2bc5X2BrwK6muSUCGkxU6A"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Earthquake",
@@ -2167,6 +2151,22 @@
       "duration_ms": 182272,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
+    },
+    {
+      "added_at": "2026-08-14 04:01:19",
+      "album": {
+        "name": "Monopoly Man",
+        "url": "https://open.spotify.com/album/7Kmepe8BIgqaega0xj2EVO"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 202101,
+      "name": "Monopoly Man",
+      "url": "https://open.spotify.com/track/2bc5X2BrwK6muSUCGkxU6A"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2277,24 +2277,24 @@
       "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
     },
     {
-      "added_at": "2026-08-21 04:01:29",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "EXES IN TEXAS",
-        "url": "https://open.spotify.com/album/7m9tqzACi2vGXz6Oir9E3n"
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
       },
       "artists": [
         {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         },
         {
-          "name": "Rhyder",
-          "url": "https://open.spotify.com/artist/3eoOvS1AeEVfYwSF1HVr0S"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 155300,
-      "name": "EXES IN TEXAS",
-      "url": "https://open.spotify.com/track/1tl8N5xqVezqcA6xtITbfi"
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
       "added_at": "2026-09-04 04:01:29",
@@ -2337,24 +2337,24 @@
       "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-08-21 04:01:29",
       "album": {
-        "name": "Deeper Underground",
-        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+        "name": "EXES IN TEXAS",
+        "url": "https://open.spotify.com/album/7m9tqzACi2vGXz6Oir9E3n"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
         },
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Rhyder",
+          "url": "https://open.spotify.com/artist/3eoOvS1AeEVfYwSF1HVr0S"
         }
       ],
-      "duration_ms": 190476,
-      "name": "Deeper Underground",
-      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
+      "duration_ms": 155300,
+      "name": "EXES IN TEXAS",
+      "url": "https://open.spotify.com/track/1tl8N5xqVezqcA6xtITbfi"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2393,6 +2393,30 @@
       "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
     },
     {
+      "added_at": "2026-09-04 04:01:29",
+      "album": {
+        "name": "Tequila Bounce",
+        "url": "https://open.spotify.com/album/7J02BSTJGwTsimcqNzSFes"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        },
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Tequila Bounce",
+      "url": "https://open.spotify.com/track/1RuV6ibdjBiAyv3xS4RhI2"
+    },
+    {
       "added_at": "2026-07-31 04:01:22",
       "album": {
         "name": "SO HYPE",
@@ -2423,30 +2447,6 @@
       "duration_ms": 194076,
       "name": "Ice Cold",
       "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
-    },
-    {
-      "added_at": "2026-09-04 04:01:29",
-      "album": {
-        "name": "Tequila Bounce",
-        "url": "https://open.spotify.com/album/7J02BSTJGwTsimcqNzSFes"
-      },
-      "artists": [
-        {
-          "name": "Juos",
-          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
-        },
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Tequila Bounce",
-      "url": "https://open.spotify.com/track/1RuV6ibdjBiAyv3xS4RhI2"
     }
   ],
   "unique_name": "Nasty Bits",

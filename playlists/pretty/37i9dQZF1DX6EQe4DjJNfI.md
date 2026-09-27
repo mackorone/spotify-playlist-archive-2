@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: THAMI, Luedji Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,892 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,894 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 48 | [Anjo](https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Decepções de Alguém que Ama](https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk) | 2:32 |
 | 49 | [Novehoras](https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu) | [João Loroza](https://open.spotify.com/artist/44ejp0LgYiq7kLEUjXiZzR), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [DJ TamY](https://open.spotify.com/artist/78BI41VSButcqEG7ptvi17) | [Novehoras](https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw) | 3:31 |
 | 50 | [sexta de manhã](https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l) | [BIA DOXUM](https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV), [Vibox](https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Desse Meu Mel](https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM) | 4:42 |
-| 51 | [SEM AR](https://open.spotify.com/track/1aqyJwn9vx6WMV6h8RfhM9) | [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [Guiggow](https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN), [Zuchini](https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ) | [SEM AR//CAOS](https://open.spotify.com/album/2x3AutqIh3CMYwiC3A1ZQl) | 2:40 |
+| 51 | [Amor à Luz do Dia](https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Amor à Luz do Dia](https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX) | 3:45 |
 | 52 | [Jeito Certo](https://open.spotify.com/track/271UeLAttA5JHMV0uJoral) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Jeito Certo](https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx) | 3:10 |
 | 53 | [Te Faria](https://open.spotify.com/track/2fp1et9og5rgwuT7osCkxo) | [Ellen Oléria](https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Te Faria](https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW) | 3:04 |
-| 54 | [Amor à Luz do Dia](https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Amor à Luz do Dia](https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX) | 3:45 |
+| 54 | [SEM AR](https://open.spotify.com/track/1aqyJwn9vx6WMV6h8RfhM9) | [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [Guiggow](https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN), [Zuchini](https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ) | [SEM AR//CAOS](https://open.spotify.com/album/2x3AutqIh3CMYwiC3A1ZQl) | 2:40 |
 | 55 | [NÃO VOU PARAR](https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [NÃO VOU PARAR](https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB) | 2:25 |
 | 56 | [FORA DA LEI](https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [FORA DA LEI](https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E) | 3:06 |
 | 57 | [Sem ter que me explicar](https://open.spotify.com/track/4l3PInS0V5wgzbkoI3Ofcu) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 1:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 |
 | 75 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 
-Snapshot ID: `AAAAAFYxQZ4+57btUXSeWIPkvy/AKWsi`
+Snapshot ID: `AAAAAFeLHmYg1c3mCgH99HaKmJS8KPis`

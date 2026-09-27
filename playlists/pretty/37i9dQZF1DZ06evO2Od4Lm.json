@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 134531,
+  "num_followers": 134534,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAApQNc1l8cab+auZ5VAD82M",
+  "snapshot_id": "arW5gAAAAACCYBWe75aPsP3BYBC3H1cb",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "For the Widows in Paradise, For the Fatherless in Ypsilanti",
-      "url": "https://open.spotify.com/track/1dkHo0hS9KnzlsRSbIjZzi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Javelin",
         "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 261165,
       "name": "A Running Start",
       "url": "https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "For the Widows in Paradise, For the Fatherless in Ypsilanti",
+      "url": "https://open.spotify.com/track/1dkHo0hS9KnzlsRSbIjZzi"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 122026,
-      "name": "Redford (for Yia-Yia and Pappou)",
-      "url": "https://open.spotify.com/track/2EL9uWRulB1rcgDmjYMzTO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Javelin",
         "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 222934,
       "name": "My Red Little Fox",
       "url": "https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 122026,
+      "name": "Redford (for Yia-Yia and Pappou)",
+      "url": "https://open.spotify.com/track/2EL9uWRulB1rcgDmjYMzTO"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 112583,
+      "name": "Javelin (To Have And To Hold)",
+      "url": "https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Yourself / With My Whole Heart",
         "url": "https://open.spotify.com/album/73IMTdj6ERTJdITZNNBIpE"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 103014,
       "name": "Love Yourself (Short Reprise)",
       "url": "https://open.spotify.com/track/0EMcBp9cy8tf18RInxD5hP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 289897,
-      "name": "So You Are Tired",
-      "url": "https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 289897,
+      "name": "So You Are Tired",
+      "url": "https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 112583,
-      "name": "Javelin (To Have And To Hold)",
-      "url": "https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 147229,
       "name": "It\u2019s Your Own Body And Mind",
       "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Delighted People",
-        "url": "https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "Enchanting Ghost",
-      "url": "https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 212866,
       "name": "Genuflecting Ghost",
       "url": "https://open.spotify.com/track/4Ysl0ybOaEiipH0Sb3A0qy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Delighted People",
+        "url": "https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Enchanting Ghost",
+      "url": "https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc"
     },
     {
       "added_at": null,

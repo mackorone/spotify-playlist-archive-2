@@ -1,12 +1,12 @@
 {
   "description": "Latin music bangers for your gaming session! Rauw Alejandro on cover",
-  "num_followers": 610134,
+  "num_followers": 610135,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAENXI9JC5m6nTo10lgjYB6sWboSp",
+  "snapshot_id": "AAAAAIUxvdYVXzDNWvZes0YLYimiMqqy",
   "tracks": [
     {
       "added_at": "2026-09-18 06:00:28",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-09-18 06:00:28",
       "album": {
-        "name": "FX De La Rose",
-        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 118666,
-      "name": "Yo te conozco :):",
-      "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"
-    },
-    {
-      "added_at": "2026-09-18 06:00:28",
-      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+    },
+    {
+      "added_at": "2026-09-18 06:00:28",
+      "album": {
+        "name": "FX De La Rose",
+        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 118666,
+      "name": "Yo te conozco :):",
+      "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"
     },
     {
       "added_at": "2026-09-18 06:00:28",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2026-09-18 06:00:28",
       "album": {
+        "name": "De Vuelta a las Andadas",
+        "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 221583,
+      "name": "Mi Clero",
+      "url": "https://open.spotify.com/track/7LdLq9qpjRDksIQlO5EyAQ"
+    },
+    {
+      "added_at": "2026-09-18 06:00:28",
+      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
-    },
-    {
-      "added_at": "2026-09-18 06:00:28",
-      "album": {
-        "name": "De Vuelta a las Andadas",
-        "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 221583,
-      "name": "Mi Clero",
-      "url": "https://open.spotify.com/track/7LdLq9qpjRDksIQlO5EyAQ"
     },
     {
       "added_at": "2026-09-18 06:00:28",
@@ -2935,22 +2935,6 @@
     {
       "added_at": "2026-09-18 06:00:28",
       "album": {
-        "name": "Carretera",
-        "url": "https://open.spotify.com/album/55rjt544eDAkDYSU6keHCa"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Carretera",
-      "url": "https://open.spotify.com/track/542UGSa3CDAitFbjCGmHqg"
-    },
-    {
-      "added_at": "2026-09-18 06:00:28",
-      "album": {
         "name": "ATORRANTE",
         "url": "https://open.spotify.com/album/0NilRVKhvokI2BJAVx564Y"
       },
@@ -2963,6 +2947,22 @@
       "duration_ms": 181673,
       "name": "ATORRANTE",
       "url": "https://open.spotify.com/track/3G5jq3h1jqx5kcvx6aalwK"
+    },
+    {
+      "added_at": "2026-09-18 06:00:28",
+      "album": {
+        "name": "Carretera",
+        "url": "https://open.spotify.com/album/55rjt544eDAkDYSU6keHCa"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Carretera",
+      "url": "https://open.spotify.com/track/542UGSa3CDAitFbjCGmHqg"
     },
     {
       "added_at": "2026-09-18 06:00:28",
@@ -2999,6 +2999,30 @@
     {
       "added_at": "2026-09-18 06:00:28",
       "album": {
+        "name": "Cap\u00edtulo 1",
+        "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
+      },
+      "artists": [
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "K y B",
+          "url": "https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f"
+        }
+      ],
+      "duration_ms": 211456,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
+    },
+    {
+      "added_at": "2026-09-18 06:00:28",
+      "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
       },
@@ -3031,30 +3055,6 @@
       "duration_ms": 248372,
       "name": "Aprend\u00ed",
       "url": "https://open.spotify.com/track/2TfTcErMx9XRqbOIt1nJvS"
-    },
-    {
-      "added_at": "2026-09-18 06:00:28",
-      "album": {
-        "name": "Cap\u00edtulo 1",
-        "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
-      },
-      "artists": [
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "K y B",
-          "url": "https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f"
-        }
-      ],
-      "duration_ms": 211456,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
     },
     {
       "added_at": "2026-09-18 06:00:28",

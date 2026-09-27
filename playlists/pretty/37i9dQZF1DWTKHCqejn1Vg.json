@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34711,
+  "num_followers": 34717,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtT6mA/zVju+xtNkDw3vUGJr5OK",
+  "snapshot_id": "AAAAACn2bp3KxlS+wTmdzZ8Cp+y96Gwl",
   "tracks": [
     {
       "added_at": "2026-09-03 07:18:48",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "Wait On Me - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/5cYGEaQIa9Sc7TYPYQ6nqC"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
         "name": "Hello, World - The 4th Mini Album",
         "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 173346,
       "name": "Truth Be Told",
       "url": "https://open.spotify.com/track/0NhfkWo4IBjNk8PnOM8Obg"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
+        "name": "Wait On Me - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5cYGEaQIa9Sc7TYPYQ6nqC"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "TR.EE",
-        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Overflow",
-      "url": "https://open.spotify.com/track/5fUO9bchmVIyee8JEGKnKj"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 219742,
       "name": "Your/My",
       "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
+        "name": "TR.EE",
+        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/5fUO9bchmVIyee8JEGKnKj"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -775,18 +775,22 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "CHASE - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
       "artists": [
         {
-          "name": "MINHO",
-          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        },
+        {
+          "name": "kuzi",
+          "url": "https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj"
         }
       ],
-      "duration_ms": 206053,
-      "name": "Chase",
-      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
+      "duration_ms": 143315,
+      "name": "At Night (feat. Kuzi)",
+      "url": "https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -811,22 +815,18 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
       },
       "artists": [
         {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        },
-        {
-          "name": "kuzi",
-          "url": "https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj"
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
         }
       ],
-      "duration_ms": 143315,
-      "name": "At Night (feat. Kuzi)",
-      "url": "https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK"
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
+        "name": "SET",
+        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Rebound",
+      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
         "name": "B side",
         "url": "https://open.spotify.com/album/7sEUUITszL8AQptgMEUrkz"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 197750,
       "name": "Flicker (Feat. Car, the garden)",
       "url": "https://open.spotify.com/track/1llrs3s4loOC4eMaV1yc1x"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
-        "name": "SET",
-        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Rebound",
-      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
+        "name": "MaRz&B",
+        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 213282,
+      "name": "Down (Feat. DUT2)",
+      "url": "https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
         "name": "Not my fault",
         "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
       },
@@ -1051,38 +1071,22 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "MaRz&B",
-        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
+        "name": "WHAT HAVE WE DONE",
+        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
       },
       "artists": [
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
         }
       ],
-      "duration_ms": 213282,
-      "name": "Down (Feat. DUT2)",
-      "url": "https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
-        "name": "Archive 1: [Road Runner]",
-        "url": "https://open.spotify.com/album/7vD1S5S2T4qHQzAAmZaSwl"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/2DQExJcuyW8ZuDIcOBx0EG"
+      "duration_ms": 164026,
+      "name": "ERYKAH BADU (Feat. CAMO)",
+      "url": "https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

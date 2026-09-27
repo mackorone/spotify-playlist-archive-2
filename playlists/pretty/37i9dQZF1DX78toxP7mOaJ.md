@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: sunbleached
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,807 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,881 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [Hilary](https://open.spotify.com/track/3EWSkEHJD94ecvT6wlw5iF) | [Sweat](https://open.spotify.com/artist/2rHjzMZMelbREOO0liIVS4) | [Hilary](https://open.spotify.com/album/3mAuA8s7al6S0lPa3yjMyz) | 2:49 |
 | 75 | [Meetings](https://open.spotify.com/track/24kld4AJX5lPrenmK8Juc6) | [TVOD](https://open.spotify.com/artist/7p1Yt9qJ5pSSmyCEnVdQxh) | [Meetings](https://open.spotify.com/album/3puuppnKghusvLsDzcJvEU) | 2:20 |
 
-Snapshot ID: `AAAAAICVdDEcOKv333r2/LRm49ELyrdE`
+Snapshot ID: `AAAAAOiUNhD89C0l9YcLUAUD5wNkxJ4G`

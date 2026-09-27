@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > 22simba in cover della playlist urban più 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,726 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,661 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [RAFFAELLA FICO](https://open.spotify.com/track/3fBHfKPOuaZ99tZOMg9Cgw) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [RAFFAELLA FICO](https://open.spotify.com/album/26BpBOqkCoqIFDEfavYQl7) | 2:12 |
 | 50 | [COME SE NON FOSSI NEI GUAI](https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:29 |
 
-Snapshot ID: `AAAAADuI4BznM5UHPvEiLJWRIqyYiA9Z`
+Snapshot ID: `AAAAAIZ7kLlkaVrC21VEFh1J6vxTgV5S`

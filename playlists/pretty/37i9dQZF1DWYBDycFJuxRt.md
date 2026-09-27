@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: go!go!vanillas \*👉 <a href="https://spice.eplus.jp/articles/349194">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,341 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,356 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [spark](https://open.spotify.com/track/318fM5GOa2usmitjlzuXu9) | [sui sui duck](https://open.spotify.com/artist/6asuiLN1ghRaYH2JoKcVAC) | [spark](https://open.spotify.com/album/4o8YwNBrecPU3IdLaUtPZA) | 3:26 |
 | 80 | [Yasashisa Wo Shiruhito](https://open.spotify.com/track/0i2hMS6HWGMTKFdGufStG1) | [宇雪](https://open.spotify.com/artist/1XxIFOqghfXfAuvXiYPHEE) | [ao wo komete](https://open.spotify.com/album/3lwXKQDSh2Mk7NzQ4Bwifj) | 3:37 |
 
-Snapshot ID: `AAAAACfIsyfGH7AapwSZc38ypuaaAx8H`
+Snapshot ID: `AAAAAHL5pXPXExNgQrSGcYNLd9W06iBv`

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118504,
+  "num_followers": 118521,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAC9OCctqjUQsmIjImjlqSwo",
+  "snapshot_id": "arW5gAAAAABuevrnnOeFzThvnCcisTJB",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 169145,
-      "name": "El Fugitivo",
-      "url": "https://open.spotify.com/track/6s2xZ3c71UsTpgI68iw9lP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Otra Cara",
         "url": "https://open.spotify.com/album/3PXMIloVcTFvoOKsFrloNt"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 158960,
       "name": "No Te Esperaba",
       "url": "https://open.spotify.com/track/5tN4tXkaWcq7UjiYFuvwq8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 169145,
+      "name": "El Fugitivo",
+      "url": "https://open.spotify.com/track/6s2xZ3c71UsTpgI68iw9lP"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 195070,
+      "name": "El Yuko - En vivo",
+      "url": "https://open.spotify.com/track/2Q7WUNDbsHITZO54t9JSUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enloquecido",
         "url": "https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv"
       },
@@ -251,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM"
+        "name": "El Sera y El Chavo (En Vivo)",
+        "url": "https://open.spotify.com/album/5L6W0E2hMD2URy4uYbTOQh"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 195070,
-      "name": "El Yuko - En vivo",
-      "url": "https://open.spotify.com/track/2Q7WUNDbsHITZO54t9JSUZ"
+      "duration_ms": 177000,
+      "name": "El Sera y El Chavo - En Vivo",
+      "url": "https://open.spotify.com/track/0zF4ncyttvlP9whKdkEVlh"
     },
     {
       "added_at": null,
@@ -295,26 +315,6 @@
       "duration_ms": 185888,
       "name": "Modo Avi\u00f3n",
       "url": "https://open.spotify.com/track/2exsTwrXYMCsZfW08n249n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Sera y El Chavo (En Vivo)",
-        "url": "https://open.spotify.com/album/5L6W0E2hMD2URy4uYbTOQh"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "El Sera y El Chavo - En Vivo",
-      "url": "https://open.spotify.com/track/0zF4ncyttvlP9whKdkEVlh"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 170004,
-      "name": "El Bolas",
-      "url": "https://open.spotify.com/track/5gP4fy4hP3TSyh6nuE25wB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 153344,
       "name": "La Linea Directa - En Vivo",
       "url": "https://open.spotify.com/track/6xvbYCizfFTX6tn3N7iRbL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 170004,
+      "name": "El Bolas",
+      "url": "https://open.spotify.com/track/5gP4fy4hP3TSyh6nuE25wB"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
+        "name": "La Otra Cara",
+        "url": "https://open.spotify.com/album/3PXMIloVcTFvoOKsFrloNt"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 149952,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
+      "duration_ms": 158048,
+      "name": "El Instructivo",
+      "url": "https://open.spotify.com/track/6vtfKCxBf7GrcyvlU2Dl0D"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Otra Cara",
-        "url": "https://open.spotify.com/album/3PXMIloVcTFvoOKsFrloNt"
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 158048,
-      "name": "El Instructivo",
-      "url": "https://open.spotify.com/track/6vtfKCxBf7GrcyvlU2Dl0D"
+      "duration_ms": 149952,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

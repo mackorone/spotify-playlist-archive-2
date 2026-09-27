@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Josh Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,031 likes - 120 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,097 likes - 120 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 119 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 |
 | 120 | [Touched](https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Touched EP](https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu) | 4:02 |
 
-Snapshot ID: `AAAAAEa/VfkxdZ5ExgLfQgguW7jgJj7Y`
+Snapshot ID: `AAAAAEKXH/WN/OECEau6fa3QaexNR6zU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: Aaron Rowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,493 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,507 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 99 | [Rags to Riches](https://open.spotify.com/track/1rEacgLTdcAXG56ZOESyMN) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd) | [Rags to Riches](https://open.spotify.com/album/4HM7GVj4fbpqCX3mUk0c1X) | 2:18 |
 | 100 | [Rude](https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Rude](https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee) | 2:50 |
 
-Snapshot ID: `AAAAADW8V7bG/analG+q79UWhKmROBWo`
+Snapshot ID: `AAAAANW9h606kCJI2MwY3CpEgq8xJ+Bh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,070 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,086 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [弱焦燥](https://open.spotify.com/track/6WOqJR097vXoLmrbT30XIN) | [僕はギターが弾けない](https://open.spotify.com/artist/6f97FuTlUdq7lzcInCViYb) | [僕はギターが弾けない](https://open.spotify.com/album/0PmguBM3VU0OMG5TZmEKju) | 3:27 |
 | 60 | [sayonara radio](https://open.spotify.com/track/5tTT9ClnbfuVRhGUMd3EIa) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [sayonara radio](https://open.spotify.com/album/68ToVq4WzoGDMx31oCrkEQ) | 3:55 |
 
-Snapshot ID: `AAAAAHTiqcGcP+r3hS5Zj6XAxcbRAbyX`
+Snapshot ID: `AAAAAJQYkOXw3BdDauaZWrkzT900uN1b`

@@ -1,12 +1,12 @@
 {
   "description": "Dim the lights and chill with these classic slow jamz.",
-  "num_followers": 484808,
+  "num_followers": 484840,
   "original_name": "Slow Jamz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4dWQEP+9meVB45oyRsnJMnaHrm",
+  "snapshot_id": "AAAAAI/1kRtbX/euRQ57EXPxXpOwq2MB",
   "tracks": [
     {
       "added_at": "2025-05-01 13:20:41",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Unleash The Dragon",
-        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
-      },
-      "artists": [
-        {
-          "name": "Sisqo",
-          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
-        }
-      ],
-      "duration_ms": 274226,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/3w8Mw9GHYepoTWOSdiyosj"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Keith Sweat",
         "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 264773,
       "name": "Nobody (feat. Athena Cage)",
       "url": "https://open.spotify.com/track/4SF1747p541umnykBp352Q"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Unleash The Dragon",
+        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
+      },
+      "artists": [
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "duration_ms": 274226,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/3w8Mw9GHYepoTWOSdiyosj"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 140760,
-      "name": "Girls Need Love",
-      "url": "https://open.spotify.com/track/644rGY6maSElnKVsAg1gJj"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Brandy",
         "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 291666,
       "name": "I Wanna Be Down",
       "url": "https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 140760,
+      "name": "Girls Need Love",
+      "url": "https://open.spotify.com/track/644rGY6maSElnKVsAg1gJj"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "I Wanna Go There",
-        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "How You Gonna Act Like That",
-      "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Release Some Tension",
         "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 264506,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "I Wanna Go There",
+        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "How You Gonna Act Like That",
+      "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 267440,
       "name": "You're Makin' Me High",
       "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "From The Bottom Up",
-        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "Brownstone",
-          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 304160,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
+      "duration_ms": 191573,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1107,6 +1091,22 @@
       "duration_ms": 296400,
       "name": "Make It Last Forever (with Jacci McGhee)",
       "url": "https://open.spotify.com/track/7vVIj8Tm1wCawjvwVZdeLD"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "From The Bottom Up",
+        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
+      },
+      "artists": [
+        {
+          "name": "Brownstone",
+          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
+        }
+      ],
+      "duration_ms": 304160,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 288386,
-      "name": "Crying Out For Me",
-      "url": "https://open.spotify.com/track/3lMgczyYCjVDpJX8Wl2ilu"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 284160,
       "name": "Diary (feat. Tony! Toni! Tone! & Jermaine Paul)",
       "url": "https://open.spotify.com/track/5dxHF4lrDimKqnI3GaZUmC"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 288386,
+      "name": "Crying Out For Me",
+      "url": "https://open.spotify.com/track/3lMgczyYCjVDpJX8Wl2ilu"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Dru Hill",
-        "url": "https://open.spotify.com/album/3R50GvGH8MAPLR6svNy6zz"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 252506,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/5P0FaLdSqCpFolBHv4M8ig"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Hard",
         "url": "https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 270880,
       "name": "Walked Outta Heaven",
       "url": "https://open.spotify.com/track/06ZDLodo1UDVavc3MXREZ3"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Dru Hill",
+        "url": "https://open.spotify.com/album/3R50GvGH8MAPLR6svNy6zz"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 252506,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/5P0FaLdSqCpFolBHv4M8ig"
     },
     {
       "added_at": "2025-05-01 13:20:41",

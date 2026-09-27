@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAACu7A6oGS2XS6xLA/LX8EQ5",
+  "snapshot_id": "arW5gAAAAADeAhOrmbHT7eD8uxWmzLJ2",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touchtheplants Presents Sound Wonders: A Series of Epics",
-        "url": "https://open.spotify.com/album/48HS17T60jMIBsS1CuFmO5"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 301693,
-      "name": "Moss II",
-      "url": "https://open.spotify.com/track/7mYRf9giLNW3IcocHXZ1yJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Texada (Original Score)",
         "url": "https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 198000,
       "name": "The Most Special Place",
       "url": "https://open.spotify.com/track/3RWe9Gwus561ZMZ7hUSMXm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Touchtheplants Presents Sound Wonders: A Series of Epics",
+        "url": "https://open.spotify.com/album/48HS17T60jMIBsS1CuFmO5"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 301693,
+      "name": "Moss II",
+      "url": "https://open.spotify.com/track/7mYRf9giLNW3IcocHXZ1yJ"
     },
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue of Distance",
-        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 425495,
-      "name": "The Blue of Distance",
-      "url": "https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Texada (Original Score)",
         "url": "https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 150000,
       "name": "It Happened Once",
       "url": "https://open.spotify.com/track/1PC3QnBq0vsi9ANqyoOtda"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 425495,
+      "name": "The Blue of Distance",
+      "url": "https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6"
     },
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue of Distance",
-        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 221951,
-      "name": "Wave III",
-      "url": "https://open.spotify.com/track/3CIKGoDrNvY3fdSGriRrX9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Texada (Original Score)",
         "url": "https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 162000,
       "name": "It Will Be Gone",
       "url": "https://open.spotify.com/track/7wsLUmHLhrs74IfLvr2dil"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 221951,
+      "name": "Wave III",
+      "url": "https://open.spotify.com/track/3CIKGoDrNvY3fdSGriRrX9"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue of Distance",
-        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 160056,
-      "name": "Wave II",
-      "url": "https://open.spotify.com/track/5ZCJVsOclucOcF3WjgqhHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drifts and Surfaces",
         "url": "https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 346560,
       "name": "Surfaces",
       "url": "https://open.spotify.com/track/3AOGToArEclNahkwA3k21d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 160056,
+      "name": "Wave II",
+      "url": "https://open.spotify.com/track/5ZCJVsOclucOcF3WjgqhHP"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue of Distance",
-        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 91855,
-      "name": "Before Blue",
-      "url": "https://open.spotify.com/track/05yney4nfLhGR1UVhIBVib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Texada (Original Score)",
         "url": "https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 132000,
       "name": "How Big Is Time",
       "url": "https://open.spotify.com/track/20V47MWSX8TPqQ0Rudb7HQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 91855,
+      "name": "Before Blue",
+      "url": "https://open.spotify.com/track/05yney4nfLhGR1UVhIBVib"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue of Distance",
-        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 596330,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2vKIle8Cz6jOaRjQwpVSR3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drifts and Surfaces",
         "url": "https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 328165,
       "name": "Drifts II",
       "url": "https://open.spotify.com/track/143Uu2ssw2p9to2BNXcdjV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 596330,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2vKIle8Cz6jOaRjQwpVSR3"
     },
     {
       "added_at": null,

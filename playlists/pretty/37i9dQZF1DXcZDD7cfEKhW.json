@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: AD\u00c9LA",
-  "num_followers": 4337335,
+  "num_followers": 4336966,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABm/hZJkCR0ndjkbClv4CJgeeIPR",
+  "snapshot_id": "AAAAAHN8pR8/wmZ7rmUJ/ATIGeJN9E/d",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:06",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Evolve (CLUBSOS VOL. 1)",
-        "url": "https://open.spotify.com/album/3YcueqZdPrKtwDywIlQ5LX"
+        "name": "Hide Away (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 194649,
-      "name": "Evolve - CLUBSOS VOL. 1",
-      "url": "https://open.spotify.com/track/1o67EGKvSKibKzkRUxR0OP"
+      "duration_ms": 137538,
+      "name": "Hide Away - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1075,22 +1079,18 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Hide Away (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N"
+        "name": "Evolve (CLUBSOS VOL. 1)",
+        "url": "https://open.spotify.com/album/3YcueqZdPrKtwDywIlQ5LX"
       },
       "artists": [
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 137538,
-      "name": "Hide Away - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
+      "duration_ms": 194649,
+      "name": "Evolve - CLUBSOS VOL. 1",
+      "url": "https://open.spotify.com/track/1o67EGKvSKibKzkRUxR0OP"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1297,6 +1297,26 @@
       "url": "https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN"
     },
     {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "Rise (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 162540,
+      "name": "Rise (Sam Feldt Remix)",
+      "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
+    },
+    {
       "added_at": "2026-09-04 04:00:35",
       "album": {
         "name": "Mr. Know It All (Remixes)",
@@ -1319,26 +1339,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Rise (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 162540,
-      "name": "Rise (Sam Feldt Remix)",
-      "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Sports car (remixes)",
         "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
       },
@@ -1355,26 +1355,6 @@
       "duration_ms": 150000,
       "name": "Sports car - TELYKAST Remix",
       "url": "https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
-        "name": "Not At This Party (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/2PdajQLCzFMKVuJgnRTTaR"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 171488,
-      "name": "Not At This Party - David Guetta Remix",
-      "url": "https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1403,6 +1383,26 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "Not At This Party (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/2PdajQLCzFMKVuJgnRTTaR"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 171488,
+      "name": "Not At This Party - David Guetta Remix",
+      "url": "https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io"
     },
     {
       "added_at": "2026-08-14 13:13:41",

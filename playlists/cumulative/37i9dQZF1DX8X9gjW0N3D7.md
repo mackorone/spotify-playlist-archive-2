@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Étienne Dufresne
 
-621 songs - 1 day 10 hr 41 min
+622 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Garde\-Malade](https://open.spotify.com/track/0qB5KfAWmhEnQmxs85GJ1m) | [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t) | [Garde\-Malade](https://open.spotify.com/album/5sVfv6lOfXSqIxHZIw8AKM) | 2:54 | 2025-02-21 | 2025-10-25 |
 | [Gazon mouillé](https://open.spotify.com/track/1jNwKEYRmB2mAKwe4bVhPw) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Gazon mouillé](https://open.spotify.com/album/327lifZqWkPWWyljcw7Gwj) | 3:05 | 2024-09-13 | 2025-10-03 |
 | [GODDAMN!](https://open.spotify.com/track/4LlIM1MXl0o0waT1ky2c11) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [GODDAMN!](https://open.spotify.com/album/49saxIwgOAHKizgWK5E8TD) | 4:07 | 2025-09-18 | 2025-10-18 |
-| [Gold in California](https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Gold in California](https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm) | 3:34 | 2026-06-26 |  |
+| [Gold in California](https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Gold in California](https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm) | 3:34 | 2026-06-26 | 2026-09-27 |
 | [Good Call](https://open.spotify.com/track/0JOLwH0Gk7ZydWzAVo2gjU) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Good Call](https://open.spotify.com/album/5xJOjW6bjyAZ0NxHX6thdV) | 4:01 | 2025-11-14 | 2026-01-24 |
 | [guérilla des fleurs](https://open.spotify.com/track/0iqiKB14enYEjGSzDk1kym) | [Alphonse Bisaillon](https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt) | [t.o.m\. ou la trajectoire des perséides](https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY) | 2:39 | 2026-02-20 | 2026-05-16 |
 | [Habitat](https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Habitat](https://open.spotify.com/album/04Tv2pBqM5gHrJQXOyLJNq) | 4:48 | 2025-10-31 | 2026-02-14 |
@@ -461,6 +461,7 @@
 | [QUAND JE ME NOiE](https://open.spotify.com/track/1mjXmGHUKMOG5eYsbh0jgm) | [Noëm](https://open.spotify.com/artist/6fiZDVQvW1lOkWfH6PV30w) | [QUAND JE ME NOiE](https://open.spotify.com/album/1hgAKI85NnUKXLmJG8r0zV) | 3:23 | 2026-04-30 | 2026-07-18 |
 | [Quand même](https://open.spotify.com/track/1sC4zWgATUKk6hNnaWOeKa) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Quand même](https://open.spotify.com/album/5gUYflyaZi4JNtAkoJcRNJ) | 3:11 | 2025-01-24 | 2025-11-22 |
 | [Quand on aime on a tout](https://open.spotify.com/track/4rb6bmm62zrozmwJH9Ccaz) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Quand on aime on a tout](https://open.spotify.com/album/0cVSZ3P1pGsPCVeyb7boet) | 2:35 | 2025-02-07 | 2025-03-15 |
+| [Quand on aura 100 ans](https://open.spotify.com/track/3hNuvsH6zArmxbMss28xpI) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt) | [Quand on aura 100 ans](https://open.spotify.com/album/6MQ4VjsvLXriZeaOcUBhKL) | 3:00 | 2026-09-25 |  |
 | [Quand vient le soir](https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Quand vient le soir](https://open.spotify.com/album/7JVCoH5a44JEupaJdMbN5R) | 3:45 | 2026-05-08 | 2026-06-27 |
 | [Que je vous aime](https://open.spotify.com/track/7x4DcnTpKSlQZrzMgpugv0) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Que je vous aime](https://open.spotify.com/album/1AiiElsCE9tm1xryxCswZP) | 3:16 | 2026-03-27 | 2026-06-27 |
 | [Que ta lumière](https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:52 | 2026-04-10 | 2026-08-22 |

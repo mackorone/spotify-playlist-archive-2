@@ -6054,7 +6054,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 272394,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
@@ -17334,7 +17334,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 109858,
       "name": "ParisLove",
       "url": "https://open.spotify.com/track/6zECxDYlNtEybq8hZ9Tp12"
@@ -17374,6 +17374,24 @@
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
       "album": {
@@ -21684,7 +21702,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -29365,6 +29383,28 @@
     },
     {
       "album": {
+        "name": "\u0414\u0432\u0456 \u0432\u0435\u0441\u043d\u0438",
+        "url": "https://open.spotify.com/album/6FPEAKQ5MHEYkBV4s6DzqU"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        },
+        {
+          "name": "Sviatoslav Vakarchuk",
+          "url": "https://open.spotify.com/artist/2xEuSZSodyOIuUAxBM3I5I"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230402,
+      "name": "\u0414\u0432\u0456 \u0432\u0435\u0441\u043d\u0438",
+      "url": "https://open.spotify.com/track/1LqZGmuthue7GOtBp6hEmQ"
+    },
+    {
+      "album": {
         "name": "\u041f\u0435\u0440\u0448\u0438\u0439 \u0442\u0430\u0439\u043c",
         "url": "https://open.spotify.com/album/2pRUpo4xoCDnCRejQJQ6gl"
       },
@@ -32680,7 +32720,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 247989,
       "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0439 \u043f\u043e\u043c\u0430\u0434\u043e\u0439",
       "url": "https://open.spotify.com/track/51jmkr4qNh3c8LkRO7ok8N"
@@ -34452,7 +34492,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 162249,
       "name": "\u041c\u0443\u0437\u0438\u043a\u043e",
       "url": "https://open.spotify.com/track/0kmkuAikPYfF8WiHpSO5d9"
@@ -35390,7 +35430,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 160972,
       "name": "\u041d\u0435 \u0445\u043e\u0434\u0438",
       "url": "https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs"
@@ -38158,7 +38198,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 145000,
       "name": "\u041f\u0440\u0438\u043a\u0443\u0442\u0456",
       "url": "https://open.spotify.com/track/4KfdSyCZM6LY7WlATxIgfx"
@@ -41263,6 +41303,24 @@
     },
     {
       "album": {
+        "name": "\u0422\u0438\u0441\u044f\u0447\u0430 \u043f\u0456\u0441\u0435\u043d\u044c",
+        "url": "https://open.spotify.com/album/0PFAI5uq4WBUqkVnZ8YDUV"
+      },
+      "artists": [
+        {
+          "name": "KLER",
+          "url": "https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231692,
+      "name": "\u0422\u0438\u0441\u044f\u0447\u0430 \u043f\u0456\u0441\u0435\u043d\u044c",
+      "url": "https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev"
+    },
+    {
+      "album": {
         "name": "8 \u0441\u043f\u043e\u0441\u043e\u0431\u043e\u0432 \u043a\u0430\u043a \u0431\u0440\u043e\u0441\u0438\u0442\u044c...",
         "url": "https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za"
       },
@@ -41836,7 +41894,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 175125,
       "name": "\u0422\u044b \u043b\u0435\u0442\u0438",
       "url": "https://open.spotify.com/track/42UHIWpXED2jQoFSTuCRJt"
@@ -43848,7 +43906,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 185061,
       "name": "\u0428\u041e\u0412\u041a\u041e\u0412\u0418\u0426\u042f",
       "url": "https://open.spotify.com/track/2vsIoRPtatBX9GceGkPHkY"

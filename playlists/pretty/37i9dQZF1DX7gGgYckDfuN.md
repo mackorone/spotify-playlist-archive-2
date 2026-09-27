@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SBR製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,380 likes - 54 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,660 likes - 54 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 | 53 | [狡猾な鼠](https://open.spotify.com/track/7emhF0OnsOkZbzLdtEsCjn) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険ダイヤモンドは砕けない O.S.T～Nightwalk～](https://open.spotify.com/album/7dabC3QeC7JAxJw5bLVaDF) | 3:15 |
 | 54 | [canzoni preferite](https://open.spotify.com/track/22pURPCv8K4XGzM7q1b8Rb) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 黄金の風 O.S.T \(vol.1 Overture\)](https://open.spotify.com/album/3F39P75zBe3YTwWCGmxUNL) | 2:24 |
 
-Snapshot ID: `AAAAAIFwNeoPljl1TT2Yt+WXbdQz2m5c`
+Snapshot ID: `AAAAAC7c7atH1YY1h+MWbKR34A0uw3XD`

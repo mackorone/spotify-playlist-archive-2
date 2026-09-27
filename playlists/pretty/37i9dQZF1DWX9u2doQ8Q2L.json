@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 393842,
+  "num_followers": 393848,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFxHgTl7ht8Glmls0BwCnZmUzCSX",
+  "snapshot_id": "AAAAAMLMLCZJ/nsvppEgEZzwJz39E9/A",
   "tracks": [
     {
       "added_at": "2026-09-16 03:36:47",
@@ -359,18 +359,18 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
-        "name": "\u5927\u7a7a\u6e2f",
-        "url": "https://open.spotify.com/album/7iB2FdbAgTdHcaFRRefY4i"
+        "name": "\u71c8",
+        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
       },
       "artists": [
         {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
         }
       ],
-      "duration_ms": 287840,
-      "name": "\u5927\u7a7a\u6e2f",
-      "url": "https://open.spotify.com/track/25PSTQG3ib1bWyyoCU1Dpl"
+      "duration_ms": 238720,
+      "name": "\u71c8",
+      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
     },
     {
       "added_at": "2026-09-16 03:36:47",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
-        "name": "\u71c8",
-        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
+        "name": "\u5927\u7a7a\u6e2f",
+        "url": "https://open.spotify.com/album/7iB2FdbAgTdHcaFRRefY4i"
       },
       "artists": [
         {
-          "name": "Soushi Sakiyama",
-          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
         }
       ],
-      "duration_ms": 238720,
-      "name": "\u71c8",
-      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
+      "duration_ms": 287840,
+      "name": "\u5927\u7a7a\u6e2f",
+      "url": "https://open.spotify.com/track/25PSTQG3ib1bWyyoCU1Dpl"
     },
     {
       "added_at": "2026-09-16 03:36:47",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
-        "name": "Make It Out Alive",
-        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 209799,
-      "name": "Make It Out Alive",
-      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 196500,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
     },
     {
       "added_at": "2026-09-16 03:36:47",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
-        "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
-        "url": "https://open.spotify.com/album/4bjpKHTLJ2FtOlzrdXDL1d"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 242603,
-      "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
-      "url": "https://open.spotify.com/track/03pAYCtkK1l7D8rQ5rvc89"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
         "name": "\u7768\u3081\u3063\u5a18",
         "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 159000,
       "name": "\u7768\u3081\u3063\u5a18",
       "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
+        "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
+        "url": "https://open.spotify.com/album/4bjpKHTLJ2FtOlzrdXDL1d"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 242603,
+      "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
+      "url": "https://open.spotify.com/track/03pAYCtkK1l7D8rQ5rvc89"
     },
     {
       "added_at": "2026-09-16 03:36:47",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
-        "name": "Ghost Avenue",
-        "url": "https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 173606,
-      "name": "Ghost Avenue",
-      "url": "https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
         "name": "\u98a8\u306b\u306a\u308c\u308b\u306f\u305a",
         "url": "https://open.spotify.com/album/7aZZDsYbHBvOuDXjxEB8QU"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 236856,
       "name": "\u98a8\u306b\u306a\u308c\u308b\u306f\u305a",
       "url": "https://open.spotify.com/track/3zjOOTnR1kFcS1OYVDjhob"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
+        "name": "Ghost Avenue",
+        "url": "https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 173606,
+      "name": "Ghost Avenue",
+      "url": "https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77"
     },
     {
       "added_at": "2026-09-16 03:36:47",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
-        "name": "0.0000%",
-        "url": "https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 155740,
-      "name": "0.0000%",
-      "url": "https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
         "name": "Soarin'",
         "url": "https://open.spotify.com/album/7DPc96w5fUdAK6X2dRKbRr"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 204966,
       "name": "Soarin'",
       "url": "https://open.spotify.com/track/75Mt8bfob6tPmP3xdvgELu"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
+        "name": "0.0000%",
+        "url": "https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 155740,
+      "name": "0.0000%",
+      "url": "https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy"
     },
     {
       "added_at": "2026-09-16 03:36:47",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-09-16 03:36:47",
       "album": {
-        "name": "\u604b\u611b\u5f8c\u907a\u75c7",
-        "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "\u604b\u611b\u5f8c\u907a\u75c7",
-      "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
-    },
-    {
-      "added_at": "2026-09-16 03:36:47",
-      "album": {
         "name": "Luv Myself (feat. AKLO & KEIJU)",
         "url": "https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 268799,
       "name": "Luv Myself (feat. AKLO & KEIJU)",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
+    },
+    {
+      "added_at": "2026-09-16 03:36:47",
+      "album": {
+        "name": "\u604b\u611b\u5f8c\u907a\u75c7",
+        "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "\u604b\u611b\u5f8c\u907a\u75c7",
+      "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
     },
     {
       "added_at": "2026-09-16 03:36:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Didi B x Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,099 likes - 49 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,181 likes - 49 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [CUTLASS](https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:49 |
 | 49 | [Comme avant](https://open.spotify.com/track/6HSZigmDMJqQ7IvxqqriYZ) | [Kurtys](https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU) | [Comme avant](https://open.spotify.com/album/5SLaHTl3hysYXO4OlA6LLY) | 2:11 |
 
-Snapshot ID: `AAAAAK1TCGH36CuSkmlPk9kokz+XAdNC`
+Snapshot ID: `AAAAACt7Mcu9/fngWDxUlGKizY/Ir3Vr`

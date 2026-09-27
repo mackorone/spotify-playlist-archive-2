@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-167 songs - 9 hr 51 min
+168 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [I'm Not My Brain \- Smooth Jazz Version](https://open.spotify.com/track/4dok81glpUJ6CmL7q6jrhk) | [Dario Margeli](https://open.spotify.com/artist/7mxNhEknpLj1TyWByXLrlt) | [I'm Not My Brain \(Smooth Jazz Version\)](https://open.spotify.com/album/2GrDB4ACxBI2Zfj3MUXOYE) | 4:29 | 2026-02-23 |  |
 | [If I'm James Dean, You're Audrey Hepburn](https://open.spotify.com/track/5JoVGZVHWEw9YX29Q9qoR0) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk) | [If I'm James Dean, You're Audrey Hepburn](https://open.spotify.com/album/5qMRcGq5Mi2sRpnS2QZMH3) | 3:56 | 2026-02-01 | 2026-03-25 |
 | [In My Way](https://open.spotify.com/track/4Cc2l0New2b1H1xo0YcKgu) | [Florin Gindu](https://open.spotify.com/artist/7tK6mIokWaz9Awj8pc2c2k) | [In My Way](https://open.spotify.com/album/1VONvnDOsrBbequpLPtl64) | 1:25 | 2023-10-14 |  |
+| [In the Zone](https://open.spotify.com/track/0il4gfhVGuKu1oMG6PcRhr) | [MaXimum Boost](https://open.spotify.com/artist/0turMaNvhFbQANB1QKyvmN) | [In the Zone](https://open.spotify.com/album/4dZJvmT95nDQ6tT0emGUEm) | 5:19 | 2026-09-26 |  |
 | [Inspiration](https://open.spotify.com/track/7kJe4f5qvxkSQEMS5N5wCl) | [Charles Connolly](https://open.spotify.com/artist/177sVR4PIPRGPAys8e5vG1) | [Inspiration](https://open.spotify.com/album/31sfUoh8zXgKOb509lxj3y) | 4:56 | 2024-03-08 |  |
 | [It's My Life](https://open.spotify.com/track/3XGK7kWTvorW1S1Lt86gUA) | [Jill Winter](https://open.spotify.com/artist/5m6M42fpTjqKbu0VuKjfSD) | [It's My Life](https://open.spotify.com/album/7hZTVJRgLVNLz8riZzE294) | 3:50 | 2024-07-19 |  |
 | [Jo Njësoj \(Gotta Release This Pain\)](https://open.spotify.com/track/0mskgNEFaqcuW9DXEGN3G5) | [Marvy](https://open.spotify.com/artist/5gxMLATm0iC82ZFLfXOYu5), [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12), [mrhatestheworld](https://open.spotify.com/artist/1UbXjFWwuEojxTSU6ZFcgU) | [Jo Njësoj \(Gotta Release This Pain\)](https://open.spotify.com/album/5nxq3qQwgvnpluEjx3Ut0i) | 3:00 | 2025-08-27 | 2026-06-10 |

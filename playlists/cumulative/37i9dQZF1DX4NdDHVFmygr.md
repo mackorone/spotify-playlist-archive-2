@@ -4,7 +4,7 @@
 
 > Les hits marocains du moment\. Cover: Manal
 
-544 songs - 1 day 4 hr 51 min
+545 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Mamacita](https://open.spotify.com/track/4P8HPmYPNCNxqHlYMovXRv) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [G.O.A.T](https://open.spotify.com/album/6NiSCshnU058O2fJ03ahDc) | 3:18 | 2022-03-05 | 2022-05-27 |
 | [Mandem](https://open.spotify.com/track/68n0XVahvsr0v0usJzykTH) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Mandem](https://open.spotify.com/album/4Lvndlgi6IBB4L4jn6d6RF) | 4:38 | 2023-05-13 | 2023-05-16 |
 | [Mankhalik Matkhalini](https://open.spotify.com/track/7IxGDdtOCXlgsnZGtQCL8P) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Yousra](https://open.spotify.com/artist/2hCrlLMEy5nMm00yVVOY6h) | [Mankhalik Matkhalini](https://open.spotify.com/album/5l8TksASDKz7pmNFIt77gh) | 3:31 | 2021-12-25 | 2022-01-28 |
-| [MANSORY](https://open.spotify.com/track/0VsPGERCzao6a6Oo0QsD5Z) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [MANSORY](https://open.spotify.com/album/0oBeMCpjd8FQqihlKnYtPP) | 3:46 | 2026-05-03 |  |
+| [MANSORY](https://open.spotify.com/track/0VsPGERCzao6a6Oo0QsD5Z) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [MANSORY](https://open.spotify.com/album/0oBeMCpjd8FQqihlKnYtPP) | 3:46 | 2026-05-03 | 2026-09-27 |
 | [Manzakine](https://open.spotify.com/track/1ExnYU3XbOW7mEIfaNeKX0) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Hajib](https://open.spotify.com/artist/4AJJyl9SLTjnRqzCGf0t6W) | [MANZAKINE x FIDÈLE](https://open.spotify.com/album/0hTLU8ZZhkjnXC1hPRawDm) | 2:57 | 2026-08-01 |  |
 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 | 2024-02-10 | 2024-08-29 |
 | [MARADONA \- Remix](https://open.spotify.com/track/1eiL5AM3hsfhrmXkfSKlfj) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [MARADONA \(Remix\)](https://open.spotify.com/album/0QXUQiwAzEr5mlyqTq8AqW) | 2:38 | 2024-08-28 | 2024-12-11 |
@@ -411,6 +411,7 @@
 | [Porfavor](https://open.spotify.com/track/0QQsxD6ZVzBINIgNgqWCF5) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Porfavor](https://open.spotify.com/album/0q83zWh0GQLgiGUl7U5wAs) | 2:45 | 2021-12-25 | 2022-03-04 |
 | [POWER \- A COLORS SHOW](https://open.spotify.com/track/0K7JXyHrinnADZ7wSPsZGu) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [POWER \- A COLORS SHOW](https://open.spotify.com/album/3WsYrkH5xsidXVE9wTQLAS) | 2:53 | 2023-03-18 | 2023-03-31 |
 | [Premier amour](https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Premier amour](https://open.spotify.com/album/7ntEx5oT99JfhXqsIfjZXv) | 3:08 | 2022-12-13 | 2022-12-21 |
+| [PRINCES DE LA VILLE](https://open.spotify.com/track/04oqFPC9D6wBX00Mm2ozR4) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Hoba Hoba Spirit](https://open.spotify.com/artist/2aZPgvcYQD2z4NIoO8x8Gi) | [A MAN WITH A GUN](https://open.spotify.com/album/1fPQXsgkWCQIvcLMgOeztV) | 3:37 | 2026-09-26 |  |
 | [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 | 2025-06-06 | 2025-09-10 |
 | [Psychologue](https://open.spotify.com/track/0qS4qhRKL177FnJofUIwQx) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Psychologue](https://open.spotify.com/album/6Ro6eqJkkWKKbYef8pKdOh) | 3:02 | 2024-12-10 | 2025-08-09 |
 | [Quand elle danse](https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Quand elle danse](https://open.spotify.com/album/6Dn9V3wCwHeZdX0YrjKe3K) | 3:11 | 2025-09-09 |  |

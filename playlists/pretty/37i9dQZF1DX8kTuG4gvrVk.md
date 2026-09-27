@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kTuG4gvrVk.md) - [plain]
 
 > Todos los éxitos de Venezuela están aquí\. Foto: KAROL G, Judeline y rusowsky
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,416 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,435 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kTuG4gvrVk.md) - [plain]
 | 49 | [222](https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [222](https://open.spotify.com/album/25XDm5oXIisowUalHOGQXh) | 1:55 |
 | 50 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
 
-Snapshot ID: `AAAAALKdkcdB5eAiDc3aRIG8WgGEzO0W`
+Snapshot ID: `AAAAAEozz3D0yH2pcVe3rPHeN5eatS9f`

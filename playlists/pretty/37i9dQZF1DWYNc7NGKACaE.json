@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 82988,
+  "num_followers": 82986,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHzTBZcY0nhpmX3WdIxXMfCcntZd",
+  "snapshot_id": "AAAAAK7egiRkNqDKKbG9GQO3sBUXw192",
   "tracks": [
     {
       "added_at": "2024-07-08 19:10:57",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Tipo Naldo",
-        "url": "https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ"
-      },
-      "artists": [
-        {
-          "name": "tiaresz",
-          "url": "https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP"
-        },
-        {
-          "name": "DJ Wkilla",
-          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
-        }
-      ],
-      "duration_ms": 138754,
-      "name": "Tipo Naldo - Speed Up",
-      "url": "https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Pe\u00e7a",
         "url": "https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 135418,
       "name": "Pe\u00e7a - Speed",
       "url": "https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Tipo Naldo",
+        "url": "https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ"
+      },
+      "artists": [
+        {
+          "name": "tiaresz",
+          "url": "https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP"
+        },
+        {
+          "name": "DJ Wkilla",
+          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
+        }
+      ],
+      "duration_ms": 138754,
+      "name": "Tipo Naldo - Speed Up",
+      "url": "https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh"
     },
     {
       "added_at": "2024-07-08 19:10:57",

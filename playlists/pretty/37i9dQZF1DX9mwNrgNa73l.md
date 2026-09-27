@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekhun tera nishaan hai, mehraab\-e\-dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,214 likes - 75 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,318 likes - 75 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 74 | [Mahi Ta Mera](https://open.spotify.com/track/1umCymfqbkijhZRmk5jk7R) | [Ibrahim Sulayman](https://open.spotify.com/artist/455eqD8miKi61kJndsKkFD), [Hassaan Malik](https://open.spotify.com/artist/1a5ucQWIQyAkoaj7wzfYVa) | [Mahi Ta Mera](https://open.spotify.com/album/6pLYYYOdykLgFKzhSAiIeV) | 4:05 |
 | 75 | [Peera](https://open.spotify.com/track/18Sb8NWo1cgXarrjIcDpNG) | [Dynaxty](https://open.spotify.com/artist/1Aum5XXhYTIfl41u7sBFco) | [Peera](https://open.spotify.com/album/4ZswuLeYSo0vX9PgJgNmcD) | 2:31 |
 
-Snapshot ID: `AAAAAEfsulbSXgMDPy/6oitdu/JQxt33`
+Snapshot ID: `AAAAAKGsc0GTxWnCd4FPXgxt2h4m2jYZ`

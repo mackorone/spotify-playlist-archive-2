@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,745 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,747 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 39 | [Taught Different](https://open.spotify.com/track/4lIfzjd5r3KuGMIxVWUHqs) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 3:19 |
 | 40 | [Tug of War March17](https://open.spotify.com/track/5Ol3Ltzg948mZyNVSacwhx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:37 |
 | 41 | [All I Know \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:12 |
-| 42 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 |
+| 42 | [Niggas Win](https://open.spotify.com/track/0NOkPlPKrAvfg5b2hiX8Cw) | [Tsu Surf](https://open.spotify.com/artist/6tYVXU1sKSsk6SIdkfIWGu), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [REAL INSIDE COLD OUTSIDE](https://open.spotify.com/album/4GgpQcfbyYZvPaSoDlXQXV) | 2:56 |
 | 43 | [Morals](https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 1:46 |
 | 44 | [UNDEFEATED](https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:45 |
-| 45 | [Rose Gold \(feat\. EST Gee\)](https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:05 |
-| 46 | [Niggas Win](https://open.spotify.com/track/0NOkPlPKrAvfg5b2hiX8Cw) | [Tsu Surf](https://open.spotify.com/artist/6tYVXU1sKSsk6SIdkfIWGu), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [REAL INSIDE COLD OUTSIDE](https://open.spotify.com/album/4GgpQcfbyYZvPaSoDlXQXV) | 2:56 |
-| 47 | [El Toro](https://open.spotify.com/track/6jmKbCmt3dsJT6xBUrKvOB) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [El Toro](https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3) | 2:44 |
-| 48 | [WOULDN'T HOLD YOU UP](https://open.spotify.com/track/6zUKuZMJflZgPWMS23nh7I) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 1:34 |
-| 49 | [CHICKENS \(feat\. EST Gee\)](https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:15 |
+| 45 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 |
+| 46 | [Rose Gold \(feat\. EST Gee\)](https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:05 |
+| 47 | [WOULDN'T HOLD YOU UP](https://open.spotify.com/track/6zUKuZMJflZgPWMS23nh7I) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 1:34 |
+| 48 | [CHICKENS \(feat\. EST Gee\)](https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:15 |
+| 49 | [El Toro](https://open.spotify.com/track/6jmKbCmt3dsJT6xBUrKvOB) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [El Toro](https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3) | 2:44 |
 | 50 | [RICH PROBLEMS](https://open.spotify.com/track/6rpwtMSVd51Uev03tDDvax) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BIGGER THAN THE DEVIL](https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE) | 2:06 |
 
-Snapshot ID: `arRoAAAAAABTaxg0W1PGVxovCSj1xZaX`
+Snapshot ID: `arW5gAAAAAAIUklbm0GVL9Gu5eKbZG6Z`

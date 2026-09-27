@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BH8DSWxh5I.md) - [plain]
 
 > Cozy up inside and do absolutely nothing\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,963 likes - 40 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,992 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BH8DSWxh5I.md) - [plain]
 | 39 | [On The Square](https://open.spotify.com/track/1WyEXbMQLt9szrhDos1uz8) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:29 |
 | 40 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
 
-Snapshot ID: `AAAAAFHvnRifVRctegC0HHkXMyT+UruX`
+Snapshot ID: `AAAAAD5v+Y3ozmZN8KwstIQVake86ywR`

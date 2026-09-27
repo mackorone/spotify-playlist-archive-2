@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,659 songs - 6 day 11 hr 21 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,660 songs - 6 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2667,5 +2667,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2657 | [La giusta frequenza](https://open.spotify.com/track/31FMJnC6sdicyFgVzbcsqr) | [SAM D](https://open.spotify.com/artist/3O8EvAOtzUfoQmzinpQOqr), [Numa Mc](https://open.spotify.com/artist/5O1HeNhR5Itl8JfAgKvNOQ), [DnD Records](https://open.spotify.com/artist/3hqVCWmGpzQVwolog0J7yE) | [La giusta frequenza](https://open.spotify.com/album/5vBt53WuOzmWyNlvAsP1Zt) | 3:00 |
 | 2658 | [at night i dream of you](https://open.spotify.com/track/79XUBO372HCq6WozbVeRte) | [Cold Water](https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw) | [at night i dream of you](https://open.spotify.com/album/7LW1scjbOo9fsvkBkawJCU) | 1:36 |
 | 2659 | [i remember this place](https://open.spotify.com/track/2Fz3Irq8yR19lBzwyyniSB) | [Bon Echo](https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy) | [i remember this place](https://open.spotify.com/album/1iJfTvqVZSwnYLWpBpgJlC) | 2:13 |
+| 2660 | [Rise And Fall](https://open.spotify.com/track/3exLIuw7dpaX8hGbmpU8Vn) | [Jumpscare](https://open.spotify.com/artist/6W6yM8NH6UPvCqvDdXjxr2) | [Rise And Fall](https://open.spotify.com/album/1fjCHBvoCdSqxgRjbCTXgh) | 5:24 |
 
-Snapshot ID: `AAALYwCgb0XLFYW6JJj24fnvyfv1vmP/`
+Snapshot ID: `AAALZLtAGRQtvcG50zh1bzxppwGT7E61`

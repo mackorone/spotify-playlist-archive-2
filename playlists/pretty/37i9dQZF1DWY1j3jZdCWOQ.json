@@ -1,12 +1,12 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 593492,
+  "num_followers": 593593,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB8+h8GIPyK+pNY89hleyDhqsLYu",
+  "snapshot_id": "AAAAAJMcnUEoLI1qeN5EThBZF8Kv108r",
   "tracks": [
     {
       "added_at": "2026-04-07 21:11:18",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
+        "name": "Bounce Energy Hear Me Out",
+        "url": "https://open.spotify.com/album/6KMS3Z8DZJI94pqwGTwCT6"
+      },
+      "artists": [
+        {
+          "name": "Lady Radiator",
+          "url": "https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov"
+        }
+      ],
+      "duration_ms": 314526,
+      "name": "Box Turtle, Magnificent Isn't She",
+      "url": "https://open.spotify.com/track/4Dev97TQztwKYRMfR7HZCM"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
         "name": "Cinematics (Expanded Edition)",
         "url": "https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 211026,
       "name": "Partners in Crime (feat. Ash Costello)",
       "url": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Bounce Energy Hear Me Out",
-        "url": "https://open.spotify.com/album/6KMS3Z8DZJI94pqwGTwCT6"
-      },
-      "artists": [
-        {
-          "name": "Lady Radiator",
-          "url": "https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov"
-        }
-      ],
-      "duration_ms": 314526,
-      "name": "Box Turtle, Magnificent Isn't She",
-      "url": "https://open.spotify.com/track/4Dev97TQztwKYRMfR7HZCM"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Clarion",
-        "url": "https://open.spotify.com/album/2gPxxzgdIHdUe9MAivY8Qw"
-      },
-      "artists": [
-        {
-          "name": "Clarion",
-          "url": "https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Hello Juliet",
-      "url": "https://open.spotify.com/track/5v3Dv4UlDOGaXlvphFpkIX"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 189373,
       "name": "crushcrushcrush",
       "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Clarion",
+        "url": "https://open.spotify.com/album/2gPxxzgdIHdUe9MAivY8Qw"
+      },
+      "artists": [
+        {
+          "name": "Clarion",
+          "url": "https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Hello Juliet",
+      "url": "https://open.spotify.com/track/5v3Dv4UlDOGaXlvphFpkIX"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Beachboy",
-        "url": "https://open.spotify.com/album/5HYTNHcx16osD8MCWucKxu"
-      },
-      "artists": [
-        {
-          "name": "McCafferty",
-          "url": "https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8"
-        }
-      ],
-      "duration_ms": 199341,
-      "name": "Beachboy",
-      "url": "https://open.spotify.com/track/70uQzsAyJ1vmloywhrO0ss"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "Tonight (demo)",
         "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 194666,
       "name": "Tonight (demo)",
       "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Beachboy",
+        "url": "https://open.spotify.com/album/5HYTNHcx16osD8MCWucKxu"
+      },
+      "artists": [
+        {
+          "name": "McCafferty",
+          "url": "https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8"
+        }
+      ],
+      "duration_ms": 199341,
+      "name": "Beachboy",
+      "url": "https://open.spotify.com/track/70uQzsAyJ1vmloywhrO0ss"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "HOW 2 GET AWAY WITH MURDER",
-        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 178217,
-      "name": "HOW 2 GET AWAY WITH MURDER",
-      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "LosT",
         "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 205368,
       "name": "LosT",
       "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "HOW 2 GET AWAY WITH MURDER",
+        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 178217,
+      "name": "HOW 2 GET AWAY WITH MURDER",
+      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Loud Bark",
-      "url": "https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "Dilworth",
         "url": "https://open.spotify.com/album/6oO0Y4DCsJVCJ4RAj56snX"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 189100,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/2cqxedldJT5vfjverE1n18"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Loud Bark",
+      "url": "https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "misery",
-        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "im so happy",
-      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "NEVER FUCKIN KNOW (Stripped)",
         "url": "https://open.spotify.com/album/6sVSzO967Mo8TdiXG9uBrB"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 164211,
       "name": "NEVER FUCKIN KNOW",
       "url": "https://open.spotify.com/track/4j0x1Io7KDUB81LrssaPRg"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "misery",
+        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "im so happy",
+      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Public Void",
-        "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
-      },
-      "artists": [
-        {
-          "name": "Penelope Scott",
-          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
-        }
-      ],
-      "duration_ms": 183992,
-      "name": "Cigarette Ahegao",
-      "url": "https://open.spotify.com/track/6UYJYgY8VRo6mKrhgTe1CF"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "Prom Queen",
         "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 136562,
       "name": "Prom Queen",
       "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Public Void",
+        "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "duration_ms": 183992,
+      "name": "Cigarette Ahegao",
+      "url": "https://open.spotify.com/track/6UYJYgY8VRo6mKrhgTe1CF"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2359,6 +2359,22 @@
       "duration_ms": 195951,
       "name": "You Stupid Bitch",
       "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Good Girls (Don\u2019t Get Used)",
+        "url": "https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 215402,
+      "name": "Good Girls (Don\u2019t Get Used)",
+      "url": "https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2427,22 +2443,6 @@
       "duration_ms": 160518,
       "name": "Animal",
       "url": "https://open.spotify.com/track/1iBljl6IFBU6OkUMJVKMbn"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Good Girls (Don\u2019t Get Used)",
-        "url": "https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 215402,
-      "name": "Good Girls (Don\u2019t Get Used)",
-      "url": "https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z"
     },
     {
       "added_at": "2026-04-07 21:11:18",

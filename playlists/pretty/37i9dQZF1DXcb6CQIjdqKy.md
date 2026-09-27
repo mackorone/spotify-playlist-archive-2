@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Matthew West
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,659,495 likes - 99 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,659,653 likes - 99 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 98 | [Hope's Gonna Find You \(with Franni Cash\)](https://open.spotify.com/track/1a6szj3r3ng4BwzOqgMCVi) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Hope's Gonna Find You \(with Franni Cash\)](https://open.spotify.com/album/1xKo457LHtDbMYpTp0rIA3) | 3:51 |
 | 99 | [Holy Spirit \(feat\. Phylisha Mitchell\)](https://open.spotify.com/track/24SrfIM7qWv1nuHemYgZSM) | [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Phylisha Mitchell](https://open.spotify.com/artist/3kKBNNEfSaHcoFb9LFkbUh) | [Not My Will \(Deluxe\)](https://open.spotify.com/album/3lW9WwXpVEHIsn7GYaMZnb) | 4:31 |
 
-Snapshot ID: `AAAAAF/Xojx9xDWmxPeT1vON3IgIH8s7`
+Snapshot ID: `AAAAACVFL8yuSPRvqGWnFNVqWW92wBQ2`

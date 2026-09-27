@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Ειδική Έκδοση Giorgos Mazonakis
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,350 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,372 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [Septemvris](https://open.spotify.com/track/3Y0YYhDOFz5QfPB5EhTPLc) | [Logos Timis](https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s), [Koraki](https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV), [Sativa](https://open.spotify.com/artist/6xfmBXL6ndOsNpZPpxWz6w) | [Septemvris](https://open.spotify.com/album/0Q2NqyFl31uiuYDRXJ4fo2) | 2:50 |
 | 50 | [AGAINST ALL](https://open.spotify.com/track/3klqwu80XOZBszq7TS214C) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [LOSHA](https://open.spotify.com/artist/5kZFsM5GvvDM9J8soKtyqB) | [WHY ALWAYS ME?](https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca) | 2:52 |
 
-Snapshot ID: `AAAAANt8fXiEprLVi4IUCIfjn6Xd/kTB`
+Snapshot ID: `AAAAABNT7JbPtILZZTNHLduR8yyQQDGr`

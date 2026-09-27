@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,603 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,609 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 32 | [Maarag](https://open.spotify.com/track/5BhpZtAbNFDUf2AHLQZoDj) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Salim Khan](https://open.spotify.com/artist/3y8bArrNsmocFZGkIiVG4n) | [Maarag](https://open.spotify.com/album/6bpKLi5PrbmhDOEcPHaQOw) | 7:42 |
 | 33 | [Ek Nazar](https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Ek Nazar](https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc) | 7:24 |
 | 34 | [Baithi Hun](https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:31 |
-| 35 | [Mauj Kasheer](https://open.spotify.com/track/4DVz2TzPa5Oi8zngm53vHk) | [ĀDAM](https://open.spotify.com/artist/045CvZOttpV5fYta0MrCE3), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Shivani Matyal](https://open.spotify.com/artist/7mDEXPflEFqaHkJFnv77NH) | [Mauj Kasheer](https://open.spotify.com/album/2JXBaRO4HVReZ8IW0aumtj) | 4:08 |
-| 36 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 |
+| 35 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 |
+| 36 | [Mauj Kasheer](https://open.spotify.com/track/4DVz2TzPa5Oi8zngm53vHk) | [ĀDAM](https://open.spotify.com/artist/045CvZOttpV5fYta0MrCE3), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Shivani Matyal](https://open.spotify.com/artist/7mDEXPflEFqaHkJFnv77NH) | [Mauj Kasheer](https://open.spotify.com/album/2JXBaRO4HVReZ8IW0aumtj) | 4:08 |
 | 37 | [SUWA TERI YAADON MA](https://open.spotify.com/track/4jxf2xH4KEoIvFrPXhnbIS) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Amit Saagar](https://open.spotify.com/artist/3ypGCTyMQVDPL5hAkjctCE) | [SUWA TERI YAADON MA](https://open.spotify.com/album/3mmRUd5H441cSYu8biuVp0) | 2:45 |
 | 38 | [Mahadeva](https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM), [Gaurav Chati](https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP), [Rstarjazz](https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7) | [Mahadeva](https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f) | 3:30 |
 | 39 | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/track/5ZY6Tet68fX8ea0R0D80T5) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Gulzar Ahmad Ganaie](https://open.spotify.com/artist/4gB0ajRtDQXc2Vdp02A1pJ) | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/album/1FxmcvIwRD99bcNLNdoRDH) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 49 | [Dwarika Darbaar \(From "Bhoomi 2025"\)](https://open.spotify.com/track/5l9EwrB0WVAJ1T4EErBe0m) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7), [Parth Tarpara](https://open.spotify.com/artist/1dC9LMLRmhqgIxnBXi0Var) | [Dwarika Darbaar \(From "Bhoomi 2025"\)](https://open.spotify.com/album/2LurX1DIo5jyBNjGbBgKhr) | 5:05 |
 | 50 | [Peele Amiras \- Sabr](https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Peele Amiras \(Sabr\)](https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg) | 5:15 |
 
-Snapshot ID: `AAAAACtFfGTU9p8MGJcMD9XzsqqVHIBK`
+Snapshot ID: `AAAAAMjy7cDGpnm0xLQlC8K+QRCfeY75`

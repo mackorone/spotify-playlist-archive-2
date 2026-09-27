@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,579 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,533 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Super High](https://open.spotify.com/track/01ttMtGfWUAvSuMsZSvGIH) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Super High](https://open.spotify.com/album/6RALTNSTufwfCPE9ClWsSO) | 3:02 |
 | 40 | [As You Are](https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg) | [KDAY](https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC) | [The Arrival](https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl) | 3:31 |
 
-Snapshot ID: `AAAAAMKwv0oMaWxoPg7ejZYbRgynYa0E`
+Snapshot ID: `AAAAADgrJt3qPo6YCeEMlNMRC///M+f4`

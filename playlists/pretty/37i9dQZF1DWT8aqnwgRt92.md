@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540,082 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540,034 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 99 | [Turn The World Upside Down](https://open.spotify.com/track/2rxXEhF8pvGKgq0ODWT608) | [霧島透子](https://open.spotify.com/artist/7IrMYd2djETd56sjTPt3UP) | [Turn The World Upside Down](https://open.spotify.com/album/5GZMJixxUfJjRPCoLWjQxU) | 2:02 |
 | 100 | [修楽旅行 \- 倉本千奈・紫雲清夏・十王星南・秦谷美鈴 ver.](https://open.spotify.com/track/010qPheCMSyBXh4oLRi9er) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [Medansy](https://open.spotify.com/artist/1Gqh8FFxliKkkUhuSnYjhv), [倉本千奈](https://open.spotify.com/artist/5ziidtfez7ZP5x9nU7Ytsv), [紫雲清夏](https://open.spotify.com/artist/0TuubEkxXuUbxPWhZyEsJs), [十王星南](https://open.spotify.com/artist/4e33uhfDljF9rLmxmhkW0N), [秦谷美鈴](https://open.spotify.com/artist/5LstC2QpqVuvrJZn2obzlx) | [修楽旅行 \(倉本千奈・紫雲清夏・十王星南・秦谷美鈴 ver.\)](https://open.spotify.com/album/3D59NocCPbslUe7c7jSPF2) | 3:33 |
 
-Snapshot ID: `AAAAABI9BSjZaRXCZb8vGHMf/HBpcib5`
+Snapshot ID: `AAAAAPpWN0Ub+XXkOfv0DFUmJvrTLi43`

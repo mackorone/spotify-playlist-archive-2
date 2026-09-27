@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Tee Grizzley, DDG, slayr and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,850 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,922 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [BIG DAWG](https://open.spotify.com/track/7fVRO5zd7eVh7Sn9CfdyYt) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [BIG DAWG](https://open.spotify.com/album/5iIUxdChbwPrvvymwPPCfb) | 1:38 |
 | 50 | [Barbiturates](https://open.spotify.com/track/285GmAVjZhpgy9yBEoKFpU) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Raphy](https://open.spotify.com/artist/2mVWoG9z1EyodUACazaQqK) | [Barbiturates](https://open.spotify.com/album/67ptZUXWgX2GRZKgqTBpPH) | 2:21 |
 
-Snapshot ID: `AAAAALjFmn0ZDagTWBtJiSoVfUT4TLee`
+Snapshot ID: `AAAAAAOo3LVOUCf3lVZANdS0Gb7xVipL`

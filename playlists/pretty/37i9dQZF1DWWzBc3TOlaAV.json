@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 1015842,
+  "num_followers": 1015945,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB8eF3S4y6vySCZRHimw04X44/wn",
+  "snapshot_id": "AAAAAJ7WAQ557Q3RpQ4cKH95eqhIVMCr",
   "tracks": [
     {
       "added_at": "2024-07-05 23:26:53",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 211787,
-      "name": "The Night They Drove Old Dixie Down",
-      "url": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "The Stooges",
         "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 188560,
       "name": "I Wanna Be Your Dog",
       "url": "https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 211787,
+      "name": "The Night They Drove Old Dixie Down",
+      "url": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Up On Cripple Creek",
-      "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Here Are the Sonics",
         "url": "https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Singles Plus",
-        "url": "https://open.spotify.com/album/1v4O55JGou3T0Vlj06fdXz"
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
       },
       "artists": [
         {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 145693,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/0KpTFH1SzexN8SGc0GPILC"
+      "duration_ms": 270293,
+      "name": "Up On Cripple Creek",
+      "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1031,6 +1015,22 @@
       "duration_ms": 214880,
       "name": "River Deep - Mountain High",
       "url": "https://open.spotify.com/track/44BmNSqH9uZV5OfIjGcER3"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "The Singles Plus",
+        "url": "https://open.spotify.com/album/1v4O55JGou3T0Vlj06fdXz"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 145693,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/0KpTFH1SzexN8SGc0GPILC"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
+        "name": "Hit Single Anthology",
+        "url": "https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v"
+      },
+      "artists": [
+        {
+          "name": "The Troggs",
+          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Wild Thing",
+      "url": "https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
         "name": "In My Lifetime",
         "url": "https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 184880,
       "name": "The Sounds of Silence",
       "url": "https://open.spotify.com/track/39CGrUZUozjtjgAASzzB56"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
-        "name": "Hit Single Anthology",
-        "url": "https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v"
-      },
-      "artists": [
-        {
-          "name": "The Troggs",
-          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Wild Thing",
-      "url": "https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU"
     },
     {
       "added_at": "2024-07-05 23:26:53",

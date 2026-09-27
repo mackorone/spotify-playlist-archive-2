@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > La BO officielle de l'été 2026 🌞 Photo : HUGEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,429 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,533 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 49 | [DANCE...](https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 4:47 |
 | 50 | [Dis\-le](https://open.spotify.com/track/58H3IsZi2NemGRCttisETY) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Dis\-le](https://open.spotify.com/album/27cdPx9msMd1V64HzU4DyF) | 4:07 |
 
-Snapshot ID: `AAAAAGJIbLt+ibB118MgzYN1h2MHm0/b`
+Snapshot ID: `AAAAAJGr69KFGPRYqqAG1NntBqh+tBiL`

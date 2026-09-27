@@ -4,7 +4,7 @@
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-106 songs - 6 hr 42 min
+107 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Paisagem](https://open.spotify.com/track/5mvd9zBoRstEcAJC2VwEOi) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 3:09 | 2023-09-18 | 2025-07-26 |
 | [Pantera Negra](https://open.spotify.com/track/0zcRz3S8bw3glaBp7mjBDk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pantera Negra](https://open.spotify.com/album/3pnSMptqglR6Z0e6Hy0pQ3) | 3:19 | 2025-11-27 |  |
 | [Pantera Negra](https://open.spotify.com/track/3oA8ovg8QzMjPTwG7kezA3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pantera Negra](https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj) | 3:19 | 2023-09-18 | 2025-11-27 |
+| [Para Tio](https://open.spotify.com/track/6MQ6LsPGDdCuQyTjPG0RcS) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [LR Beats](https://open.spotify.com/artist/76QB68tHPxjNOhncwYE0J7), [Damien Seth](https://open.spotify.com/artist/2CvIpYTTcWpSSINyjUNLvM), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [RPB/Para Tio](https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw) | 3:46 | 2026-09-27 |  |
 | [Passarinhos](https://open.spotify.com/track/0gGjX0aUg7OaUSAhi1CmDk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:41 | 2023-09-18 |  |
 | [País do Futebol](https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD) | [MC Guimê](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [País do Futebol](https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009) | 2:29 | 2023-09-18 |  |
 | [Pensamento \- Ao Vivo](https://open.spotify.com/track/0zmRdTMzCtNKGncGO7SF6w) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 2:21 | 2023-12-29 | 2024-01-21 |
@@ -86,7 +87,7 @@
 | [Quem Tem Um Amigo \(Tem Tudo\) \(feat\. Zeca Pagodinho & Tokyo Ska Paradise Orchestra\)](https://open.spotify.com/track/4yEBOuDHhrFeGXyXNJ3C4y) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 4:09 | 2023-09-18 |  |
 | [Quem Tem Um Amigo \(Tem Tudo\) / A Amizade \- Ao Vivo](https://open.spotify.com/track/4H4eSq6Z17gKau4TEUTO5q) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 6:11 | 2023-09-18 | 2025-12-13 |
 | [Rotina](https://open.spotify.com/track/2z39qAqEgZUC7vJUnatv5Y) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS) | 2:50 | 2025-11-10 | 2025-11-14 |
-| [Rotina](https://open.spotify.com/track/7zHL93JQ1MjyRUvJJwv1CD) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla) | 2:50 | 2026-08-28 |  |
+| [Rotina](https://open.spotify.com/track/7zHL93JQ1MjyRUvJJwv1CD) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla) | 2:50 | 2026-08-28 | 2026-09-27 |
 | [RPB](https://open.spotify.com/track/6Kdkt4iI1mKmx2fH8ZrGUd) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [RPB/Para Tio](https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw) | 2:53 | 2026-09-26 |  |
 | [Rua Augusta](https://open.spotify.com/track/4vHOJK3A4vxlMjVEBdL8Xs) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Emicidio](https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs) | 2:33 | 2023-09-18 | 2023-12-14 |
 | [Rua Augusta \- Live](https://open.spotify.com/track/09sMZakpoYDwZIdqgg9YKS) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 2:57 | 2023-12-13 | 2026-08-19 |

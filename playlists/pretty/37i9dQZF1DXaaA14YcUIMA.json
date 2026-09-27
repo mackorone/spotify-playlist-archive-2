@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 678989,
+  "num_followers": 679090,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIYqqyjKaoORoQ2aN4feM36jDCk0",
+  "snapshot_id": "AAAAALXSEonF1hnsHJ27nVBHvwS3gH0f",
   "tracks": [
     {
       "added_at": "2026-07-17 06:00:22",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
+        "name": "Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Contigo O Sin Ti",
+      "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
         "name": "Entre Nubes",
         "url": "https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 193880,
       "name": "Amor Sin Palabras",
       "url": "https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
-        "name": "Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Contigo O Sin Ti",
-      "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Ilusiones",
-        "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
-      },
-      "artists": [
-        {
-          "name": "Los Fugitivos",
-          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Coraz\u00f3n M\u00e1gico",
-      "url": "https://open.spotify.com/track/3Hj11HLySjrLEPAQya90TC"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Por El Mundo",
         "url": "https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 211346,
       "name": "Adoro (with Armando Manzanero) - Remasterizado",
       "url": "https://open.spotify.com/track/5cz3WaGeEN1QlifsSkTqmi"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Ilusiones",
+        "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
+      },
+      "artists": [
+        {
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Coraz\u00f3n M\u00e1gico",
+      "url": "https://open.spotify.com/track/3Hj11HLySjrLEPAQya90TC"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1403,22 +1403,18 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Reg\u00e1lame",
-        "url": "https://open.spotify.com/album/7hBobMi2V10BchhtucB3NV"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/1bImnfk8i3lgo4XNyqoV8l"
       },
       "artists": [
         {
-          "name": "Cumbia Pedregal",
-          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
-        },
-        {
-          "name": "Elaine Haro",
-          "url": "https://open.spotify.com/artist/2g55yY73Y02L4FpXJT02gS"
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 158945,
-      "name": "Reg\u00e1lame",
-      "url": "https://open.spotify.com/track/00uf9pQwn1uxlEH3OSHEOO"
+      "duration_ms": 181253,
+      "name": "Notas De Sociedad",
+      "url": "https://open.spotify.com/track/5PnGn9vbyCzHKNT2PpFeR0"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1439,18 +1435,22 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/1bImnfk8i3lgo4XNyqoV8l"
+        "name": "Reg\u00e1lame",
+        "url": "https://open.spotify.com/album/7hBobMi2V10BchhtucB3NV"
       },
       "artists": [
         {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        },
+        {
+          "name": "Elaine Haro",
+          "url": "https://open.spotify.com/artist/2g55yY73Y02L4FpXJT02gS"
         }
       ],
-      "duration_ms": 181253,
-      "name": "Notas De Sociedad",
-      "url": "https://open.spotify.com/track/5PnGn9vbyCzHKNT2PpFeR0"
+      "duration_ms": 158945,
+      "name": "Reg\u00e1lame",
+      "url": "https://open.spotify.com/track/00uf9pQwn1uxlEH3OSHEOO"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
+        "name": "Sin L\u00edmites",
+        "url": "https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 147360,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
         "name": "17 Super Exitos",
         "url": "https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 221773,
       "name": "Dos Enamorados",
       "url": "https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
-        "name": "Sin L\u00edmites",
-        "url": "https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 147360,
-      "name": "Pobre Gato",
-      "url": "https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Colecci\u00f3n De Oro, Vol. 3",
-        "url": "https://open.spotify.com/album/0Co4H1xWEZmKYczwFsSYr4"
-      },
-      "artists": [
-        {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
-        }
-      ],
-      "duration_ms": 193376,
-      "name": "Hablemos",
-      "url": "https://open.spotify.com/track/3ArvAQ4N8f2Keehg0RPIhN"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "San Valentin",
         "url": "https://open.spotify.com/album/7ilJ5tTsrC6YqZM0eVDosw"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 201346,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/2Bhnrp2ufzTscvWrlTj6Rd"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Colecci\u00f3n De Oro, Vol. 3",
+        "url": "https://open.spotify.com/album/0Co4H1xWEZmKYczwFsSYr4"
+      },
+      "artists": [
+        {
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+        }
+      ],
+      "duration_ms": 193376,
+      "name": "Hablemos",
+      "url": "https://open.spotify.com/track/3ArvAQ4N8f2Keehg0RPIhN"
     },
     {
       "added_at": "2026-07-17 06:00:22",

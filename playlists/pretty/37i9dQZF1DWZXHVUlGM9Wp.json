@@ -1,12 +1,12 @@
 {
   "description": "For skating and grooving. ",
-  "num_followers": 410067,
+  "num_followers": 410118,
   "original_name": "The Roller Rink ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACyTKytcr2/BNzwW4OENDm6hOpVh",
+  "snapshot_id": "AAAAAHXqPMjH1NBJOKQ4kjJ2Y/nB9kTa",
   "tracks": [
     {
       "added_at": "2026-06-08 19:52:05",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-06-08 19:52:05",
       "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
+    },
+    {
+      "added_at": "2026-06-08 19:52:05",
+      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 141542,
       "name": "All Night (feat. Knox Fortune)",
       "url": "https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T"
-    },
-    {
-      "added_at": "2026-06-08 19:52:05",
-      "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2026-06-08 19:52:05",

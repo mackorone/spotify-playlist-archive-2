@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,703 likes - 75 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,738 likes - 75 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 15 | [Bigil Bigil Bigiluma](https://open.spotify.com/track/71MYQe743EBq3RvLqidTLi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 2:02 |
 | 16 | [Gumthalakadi Gala Gala](https://open.spotify.com/track/3CaQ7uPo5xOIFLXpL1HZLg) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy) | [Dragon \(Original Score\)](https://open.spotify.com/album/4J53sSdhRl5wA2qfw5AWy2) | 1:59 |
 | 17 | [Twin Fish Walter \- From "Benz"](https://open.spotify.com/track/1uLRlKNoXLVeoc1cB25mva) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Twin Fish Walter \(From "Benz"\)](https://open.spotify.com/album/1ScLNCoLnooOF78ozrByRp) | 2:47 |
-| 18 | [Veeram](https://open.spotify.com/track/6s1O69LT5MswXY65KtzVva) | [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Koushik](https://open.spotify.com/artist/3NTVBHDjIBs2QmRxt9ao5V), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Jagadish](https://open.spotify.com/artist/5tUZe5gKJc12KkH5MZHnoE), [Santhosh](https://open.spotify.com/artist/1iZxszouU60Y4iU7STKgkj), [Senbagaraj](https://open.spotify.com/artist/6s9TSMCK36wxGo9CuJnhPu) | [Veeram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1f24GWAfUL1kuFf1ciaRHd) | 2:48 |
-| 19 | [How Else to Name It?](https://open.spotify.com/track/4uTDjWUAcN89tNSntdUHOP) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Dorothy \(Original Background Score\)](https://open.spotify.com/album/3YqDASfbZeuiKGnjHqceh6) | 2:51 |
+| 18 | [How Else to Name It?](https://open.spotify.com/track/4uTDjWUAcN89tNSntdUHOP) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Dorothy \(Original Background Score\)](https://open.spotify.com/album/3YqDASfbZeuiKGnjHqceh6) | 2:51 |
+| 19 | [Veeram](https://open.spotify.com/track/6s1O69LT5MswXY65KtzVva) | [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Koushik](https://open.spotify.com/artist/3NTVBHDjIBs2QmRxt9ao5V), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Jagadish](https://open.spotify.com/artist/5tUZe5gKJc12KkH5MZHnoE), [Santhosh](https://open.spotify.com/artist/1iZxszouU60Y4iU7STKgkj), [Senbagaraj](https://open.spotify.com/artist/6s9TSMCK36wxGo9CuJnhPu) | [Veeram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1f24GWAfUL1kuFf1ciaRHd) | 2:48 |
 | 20 | [Title Teaser \(From "Inji Vellam"\)](https://open.spotify.com/track/4r4XoaEHSFomf0ph2vZa73) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Title Teaser \(From "Inji Vellam"\)](https://open.spotify.com/album/6VF7vrBrq7exXFJqu9t5M5) | 0:38 |
 | 21 | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/track/5QNBsU077byAbXLLwXBCo5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/album/2j9Fx8Mi6VnW1csBunbFXh) | 1:10 |
 | 22 | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 74 | [Doctor Theme \- Background Score](https://open.spotify.com/track/2sW8zbqjQsOnwTcjC2JWBO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Doctor \(Original Background Score\)](https://open.spotify.com/album/57HnFkNaWMtqA3h7rrRIAh) | 0:43 |
 | 75 | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/album/15MnhzQdz7up0CdGyozomY) | 1:22 |
 
-Snapshot ID: `AAAAAL9gPIE1A1gcvy5iy2X3v2nlfGq1`
+Snapshot ID: `AAAAAA2awhxIpSyi9VBCMyHTEDI0i1Mr`

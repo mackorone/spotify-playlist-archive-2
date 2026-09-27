@@ -1,12 +1,12 @@
 {
   "description": "When you're thinking of the one who gives you the butterflies. ",
-  "num_followers": 276262,
+  "num_followers": 276364,
   "original_name": "Crushing ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKzb74d5Wb0tYsiUI2O031TcGXh0",
+  "snapshot_id": "AAAAAG4oV8+6Q/FLL7BAqUp2Oo9jkXH6",
   "tracks": [
     {
       "added_at": "2026-03-18 14:27:33",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-03-18 14:27:33",
       "album": {
-        "name": "Backyard Boy (Stripped)",
-        "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 129240,
-      "name": "Backyard Boy",
-      "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
-    },
-    {
-      "added_at": "2026-03-18 14:27:33",
-      "album": {
         "name": "Paramore (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 216013,
       "name": "Still into You",
       "url": "https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi"
+    },
+    {
+      "added_at": "2026-03-18 14:27:33",
+      "album": {
+        "name": "Backyard Boy (Stripped)",
+        "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 129240,
+      "name": "Backyard Boy",
+      "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
     },
     {
       "added_at": "2026-03-18 14:27:33",

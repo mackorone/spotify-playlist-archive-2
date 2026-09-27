@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,127 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915,983 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 68 | [Feather \- Sped Up](https://open.spotify.com/track/2WkrEyLzATbOK8U3xt8Ggq) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Feather \(Sped Up\)](https://open.spotify.com/album/0TCgFAC92fkbHe2lJkwZRF) | 2:33 |
 | 69 | [I Wouldn't Mind \- Sped Up](https://open.spotify.com/track/7LMvwcBObTDW6h05HXG0S2) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [I Wouldn't Mind \(Sped Up\)](https://open.spotify.com/album/219eYIAsXXSxfvAs78ot6Y) | 2:49 |
 | 70 | [LOOK DON'T TOUCH \- Sped Up](https://open.spotify.com/track/2m9Ho5nRJ1JwHBmSkzRQQq) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [XIII SORROWS \(ODECORE MIX\)](https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE) | 2:08 |
-| 71 | [Gabriela \- Sped Up Version](https://open.spotify.com/track/1hWWXZQFr0jAdnZaSLZYqG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS: The Remixes](https://open.spotify.com/album/6XF8wsqdbLWIBnLgcoEpYu) | 2:45 |
-| 72 | [just wanna rock \- Sped Up Version](https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [just wanna rock \(Lil Uzi Vert\) \[Sped Up Version\]](https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji) | 1:40 |
+| 71 | [just wanna rock \- Sped Up Version](https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [just wanna rock \(Lil Uzi Vert\) \[Sped Up Version\]](https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji) | 1:40 |
+| 72 | [Gabriela \- Sped Up Version](https://open.spotify.com/track/1hWWXZQFr0jAdnZaSLZYqG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS: The Remixes](https://open.spotify.com/album/6XF8wsqdbLWIBnLgcoEpYu) | 2:45 |
 | 73 | [Popular \(Sped Up\) \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/7H3cuCPaX9WHZXQ0Q9RlxH) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [Popular](https://open.spotify.com/album/0p0FGxiCrl3afABenvtWbQ) | 3:07 |
 | 74 | [Only Love Can Hurt Like This \- Sped Up Version](https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Sped Up Version\)](https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8) | 2:45 |
 | 75 | [Hell N Back \- Sped Up](https://open.spotify.com/track/2kjdWC3cn0xYJ3Hg8Wo6DR) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [Blue Valentine \- Sped Up Ver.](https://open.spotify.com/track/4LiufIB6RRB2VaxjEOcnGF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/6jy5700dqaCui8Wosnaaar) | 2:30 |
 | 100 | [YOU'RE TOO SLOW \- Sped Up](https://open.spotify.com/track/28IsqKmZQyl6eGiIapyUNm) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [DOOR TO DUSK \(ODECORE MIX\)](https://open.spotify.com/album/0lzxP3FqDyCvbEL8jER5kX) | 1:39 |
 
-Snapshot ID: `AAAAAFW4i2UNtI7bDbliLjX330OPziZU`
+Snapshot ID: `AAAAAM8Vy9+mCIM0w1OakmtcHZcXOp5E`

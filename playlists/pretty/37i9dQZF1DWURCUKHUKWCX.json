@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric and emotional piano pieces.",
-  "num_followers": 581241,
+  "num_followers": 581273,
   "original_name": "Atmospheric Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJwg5nRQao7WjFquBLBlOFnbS4R",
+  "snapshot_id": "AAAAAALeZYL6RwzGwEqMtosX+YpiTHoh",
   "tracks": [
     {
       "added_at": "2026-09-18 04:01:13",
@@ -331,6 +331,10 @@
         "url": "https://open.spotify.com/album/4sMimTNCh4SkFhVzWL50Zj"
       },
       "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
         {
           "name": "Olivia Belli",
           "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"

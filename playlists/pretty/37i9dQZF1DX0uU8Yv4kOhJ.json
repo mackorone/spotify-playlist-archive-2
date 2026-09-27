@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 135356,
+  "num_followers": 135354,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF8XFVBUaM7twaAOZKxXIcSsJYD8",
+  "snapshot_id": "AAAAAGsZQZcCy2mQ4S7HZtoMMSUGM3lY",
   "tracks": [
     {
       "added_at": "2026-09-25 04:59:23",
@@ -403,8 +403,8 @@
     {
       "added_at": "2026-09-25 04:59:23",
       "album": {
-        "name": "Pu\u00f1ales",
-        "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
+        "name": "Alma m\u00eda",
+        "url": "https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
         }
       ],
-      "duration_ms": 170037,
-      "name": "Pu\u00f1ales",
-      "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
+      "duration_ms": 192827,
+      "name": "Alma m\u00eda",
+      "url": "https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1"
     },
     {
       "added_at": "2026-09-25 04:59:23",
@@ -483,8 +483,8 @@
     {
       "added_at": "2026-09-25 04:59:23",
       "album": {
-        "name": "Alma m\u00eda",
-        "url": "https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ"
+        "name": "Pu\u00f1ales",
+        "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
         }
       ],
-      "duration_ms": 192827,
-      "name": "Alma m\u00eda",
-      "url": "https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1"
+      "duration_ms": 170037,
+      "name": "Pu\u00f1ales",
+      "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
     },
     {
       "added_at": "2026-09-25 04:59:23",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-09-25 04:59:23",
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Relato",
+      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
+    },
+    {
+      "added_at": "2026-09-25 04:59:23",
+      "album": {
         "name": "This Is How You Smile",
         "url": "https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 289186,
       "name": "Altamar",
       "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
-    },
-    {
-      "added_at": "2026-09-25 04:59:23",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Relato",
-      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
     },
     {
       "added_at": "2026-09-25 04:59:23",

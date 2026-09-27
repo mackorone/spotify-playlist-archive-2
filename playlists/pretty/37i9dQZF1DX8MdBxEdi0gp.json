@@ -1,12 +1,12 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 179165,
+  "num_followers": 179197,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHnCz5NU1HzLS2Jya58XM93fHn+j",
+  "snapshot_id": "AAAAAPHNU//xh+8SaKEuR5fkIbOUx6Ij",
   "tracks": [
     {
       "added_at": "2024-07-11 01:42:53",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Mujer De Todos Mujer De Nadie",
-        "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "iCollection",
         "url": "https://open.spotify.com/album/0vFB9bkeOurUUvOvIwUbnW"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 201160,
       "name": "Porque te vas",
       "url": "https://open.spotify.com/track/7vQZSwm9WRCHoPwUUuwkvv"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Mujer De Todos Mujer De Nadie",
+        "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
-      },
-      "artists": [
-        {
-          "name": "Miguel Gallardo",
-          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Muchachita",
-      "url": "https://open.spotify.com/track/3PyTaC8BN0de4KfYaQDtBs"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 188917,
       "name": "Maracas",
       "url": "https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
+      },
+      "artists": [
+        {
+          "name": "Miguel Gallardo",
+          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Muchachita",
+      "url": "https://open.spotify.com/track/3PyTaC8BN0de4KfYaQDtBs"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Bienvenido al Club",
         "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 241733,
       "name": "Por volverte a ver",
       "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Diego En Los 70",
-        "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Recuerdos Y Algo M\u00e1s (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/3FE9HECgHCfBxIvKb77GCz"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 190773,
       "name": "Por Que Nos Dijimos Adios",
       "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Diego En Los 70",
+        "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/0C4pX9Q4zwFNvMvYOsiaSa"
+      },
+      "artists": [
+        {
+          "name": "Trigo Limpio",
+          "url": "https://open.spotify.com/artist/2D5GkhykibubYsgi1CpVAO"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "Cinco Canas Mas",
+      "url": "https://open.spotify.com/track/5riZDaCsIM7ylEIUTMOQo7"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "Tesoros De Coleccion - Sonia Rivas",
         "url": "https://open.spotify.com/album/4ebWPRUoVQztHYZWmbqMN0"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 218426,
       "name": "El Reencuentro",
       "url": "https://open.spotify.com/track/53Af346CFsAjqvluCJud6T"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/0C4pX9Q4zwFNvMvYOsiaSa"
-      },
-      "artists": [
-        {
-          "name": "Trigo Limpio",
-          "url": "https://open.spotify.com/artist/2D5GkhykibubYsgi1CpVAO"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "Cinco Canas Mas",
-      "url": "https://open.spotify.com/track/5riZDaCsIM7ylEIUTMOQo7"
     },
     {
       "added_at": "2024-07-11 01:42:53",

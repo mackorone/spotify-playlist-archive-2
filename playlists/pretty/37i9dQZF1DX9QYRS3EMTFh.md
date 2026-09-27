@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Kima
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,102 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,145 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [Open The Door](https://open.spotify.com/track/3aq4Gvp45wJ37fxW2F875y) | [Keros\-N](https://open.spotify.com/artist/5DFOYJLWzBdNifHaXGuRQc), [Magistral Beats](https://open.spotify.com/artist/2x2eEYuTVLBSCf0c1pPrEf), [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [Open The Door + Caïpi](https://open.spotify.com/album/5Em60en5rU3JM4NTAHNNyj) | 3:00 |
 | 50 | [Bora Bora](https://open.spotify.com/track/23MwMhAO8cHJmNFiDgthuT) | [Lybro](https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Bora Bora](https://open.spotify.com/album/5pbyTK4mAIUA2asrSxdbXe) | 1:58 |
 
-Snapshot ID: `AAAAAD9v0Lyr5R1aQTD0ERphR5CbtQkz`
+Snapshot ID: `AAAAAG1LbSaYLFBrKIOItAppSNEr7U39`

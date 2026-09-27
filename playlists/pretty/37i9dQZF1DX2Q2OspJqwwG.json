@@ -1,12 +1,12 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia.",
-  "num_followers": 38824,
+  "num_followers": 38828,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEVwlN565aJGqFvYJoTwFu7+usAb",
+  "snapshot_id": "AAAAAGVn9NXkVg79504pU7qbCG8HTqc3",
   "tracks": [
     {
       "added_at": "2026-09-14 09:45:41",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-09-14 09:45:41",
       "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": "2026-09-14 09:45:41",
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2026-09-14 09:45:41",
-      "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "added_at": "2026-09-14 09:45:41",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-09-14 09:45:41",
       "album": {
-        "name": "THE FIRST TIME (DELUXE VERSION)",
-        "url": "https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 152979,
-      "name": "GIRLS",
-      "url": "https://open.spotify.com/track/6WhwHYd38f4ZB2CefpDgLo"
-    },
-    {
-      "added_at": "2026-09-14 09:45:41",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2026-09-14 09:45:41",
+      "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 152979,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/6WhwHYd38f4ZB2CefpDgLo"
     },
     {
       "added_at": "2026-09-14 09:45:41",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-09-14 09:45:41",
       "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "added_at": "2026-09-14 09:45:41",
+      "album": {
         "name": "The Real Me",
         "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
       },
@@ -1659,38 +1675,6 @@
     {
       "added_at": "2026-09-14 09:45:41",
       "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
-    },
-    {
-      "added_at": "2026-09-14 09:45:41",
-      "album": {
-        "name": "Tumbao",
-        "url": "https://open.spotify.com/album/4u0cGT9gxWZvrGyRqhTRyr"
-      },
-      "artists": [
-        {
-          "name": "Armando Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2FMAcV01llsAQTelJRXbns"
-        }
-      ],
-      "duration_ms": 151632,
-      "name": "Tumbao",
-      "url": "https://open.spotify.com/track/2HLpmbfnYiJZDp2i4GSw44"
-    },
-    {
-      "added_at": "2026-09-14 09:45:41",
-      "album": {
         "name": "Idols",
         "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
       },
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2026-09-14 09:45:41",
       "album": {
-        "name": "Estilo R'S",
-        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+        "name": "Tumbao",
+        "url": "https://open.spotify.com/album/4u0cGT9gxWZvrGyRqhTRyr"
       },
       "artists": [
         {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+          "name": "Armando Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2FMAcV01llsAQTelJRXbns"
         }
       ],
-      "duration_ms": 133564,
-      "name": "Beretta (De Los Cerros La Escuela)",
-      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
+      "duration_ms": 151632,
+      "name": "Tumbao",
+      "url": "https://open.spotify.com/track/2HLpmbfnYiJZDp2i4GSw44"
     },
     {
       "added_at": "2026-09-14 09:45:41",
@@ -1759,6 +1743,22 @@
       "duration_ms": 188852,
       "name": "Gut Genug (mit Blumengarten & Shirin David)",
       "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
+    },
+    {
+      "added_at": "2026-09-14 09:45:41",
+      "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Beretta (De Los Cerros La Escuela)",
+      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
     },
     {
       "added_at": "2026-09-14 09:45:41",

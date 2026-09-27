@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Fe con sabor a México\. Foto: Alex Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,587 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,610 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 79 | [Alfarero](https://open.spotify.com/track/7glYJPYo5hBPO4swG7EUJr) | [Oscar Hernandez](https://open.spotify.com/artist/2573OXyPEVbmrSVCHFIRFP) | [Alfarero](https://open.spotify.com/album/1G8avDqMgjqQDWhtxGfdJq) | 2:57 |
 | 80 | [El Corrido de Lázaro](https://open.spotify.com/track/53EjI3itXEJmrIYhoHpJAl) | [El Hijo Del Rey y Los Herederos](https://open.spotify.com/artist/0Kdn2lt8YCasqbCrcbW36i) | [Dos Caminos](https://open.spotify.com/album/7ezd67M7eEQhqrNSDqhtLB) | 3:15 |
 
-Snapshot ID: `AAAAAEaIdXAzt9+hB5TO4JD3ajhwIwHJ`
+Snapshot ID: `AAAAAJCkOsNmYuPVqChceX6Gj26mcML4`

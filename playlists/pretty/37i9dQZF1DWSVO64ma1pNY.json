@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 304342,
+  "num_followers": 304348,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHl+Aojx4X5KEnRqqpqTs1/49IsM",
+  "snapshot_id": "AAAAADoJFUPOwMv+5lEj5gfk8czIoh3D",
   "tracks": [
     {
       "added_at": "2024-12-03 09:27:47",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Billy Talent III",
-        "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "Rusted From the Rain",
-      "url": "https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "House of Gold & Bones, Part 1",
         "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 229840,
       "name": "Absolute Zero",
       "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Billy Talent III",
+        "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "duration_ms": 253306,
+      "name": "Rusted From the Rain",
+      "url": "https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 161253,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 189293,
       "name": "Given Up",
       "url": "https://open.spotify.com/track/400lQTCx3wYGgqAIHSZbNA"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 161253,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG"
-      },
-      "artists": [
-        {
-          "name": "CHIG",
-          "url": "https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i"
-        }
-      ],
-      "duration_ms": 226898,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "30 Seconds To Mars",
         "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 345133,
       "name": "Buddha For Mary",
       "url": "https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG"
+      },
+      "artists": [
+        {
+          "name": "CHIG",
+          "url": "https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i"
+        }
+      ],
+      "duration_ms": 226898,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX"
     },
     {
       "added_at": "2024-12-03 09:27:47",

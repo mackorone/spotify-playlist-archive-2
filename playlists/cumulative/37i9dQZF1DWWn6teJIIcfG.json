@@ -732,7 +732,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 294120,
       "name": "Andante spiniato in G: Allegro maestoso",
       "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
@@ -2408,10 +2408,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 211040,
       "name": "Fantasia for 4 Viols in E Minor, Z. 741",
       "url": "https://open.spotify.com/track/4sZLepVdgYfhwwD88BufWp"
+    },
+    {
+      "album": {
+        "name": "Fermata",
+        "url": "https://open.spotify.com/album/4JX6cTjreUto3SKGbrQvHy"
+      },
+      "artists": [
+        {
+          "name": "Suena",
+          "url": "https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183904,
+      "name": "Fermata",
+      "url": "https://open.spotify.com/track/3hCQEudNCNQs0u9zaBpSW8"
     },
     {
       "album": {
@@ -3538,6 +3556,24 @@
       "duration_ms": 297253,
       "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
       "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
+    },
+    {
+      "album": {
+        "name": "mirador",
+        "url": "https://open.spotify.com/album/2hGVnVTI3vz2SL4KPUr4Lz"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273029,
+      "name": "laulasmaa",
+      "url": "https://open.spotify.com/track/2wlTZsfL5eictmDVatgi6K"
     },
     {
       "album": {

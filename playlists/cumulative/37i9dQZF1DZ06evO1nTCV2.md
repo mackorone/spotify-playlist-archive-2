@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-308 songs - 18 hr 45 min
+309 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [I'm Waiting](https://open.spotify.com/track/4ovDtiwSEnTc83DCb2BZJR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:08 | 2026-07-14 | 2026-07-22 |
 | [Idiot Wind](https://open.spotify.com/track/0sp66y8IHtJUzPfhUr2nZO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 8:17 | 2023-02-15 | 2023-04-02 |
 | [Idiots Rule the World](https://open.spotify.com/track/1I182i2JPdMtJ5SwUuQafo) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:36 | 2026-07-15 | 2026-07-22 |
+| [Idiots Rule the World](https://open.spotify.com/track/5C4SSUPfOnRYda4FL0Yjqr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 3:36 | 2026-09-27 |  |
 | [If You See Her, Say Hello](https://open.spotify.com/track/5H8zlszpn4kQ4Gcsg8A8RE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 4:24 | 2023-02-16 | 2023-03-27 |
 | [In It For The Pleasure](https://open.spotify.com/track/7ef2egpnEu1ptiuASIHOwS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 4:20 | 2022-01-15 | 2022-03-30 |
 | [In My Time of Need](https://open.spotify.com/track/0APv17oLwplLLc376ipFH8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker \(25th Anniversary Edition\)](https://open.spotify.com/album/5qD8CvtAwVaQR5bhADos2U) | 4:27 | 2025-09-09 | 2025-12-05 |
@@ -191,7 +192,7 @@
 | [Nuclear](https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:24 | 2022-01-12 |  |
 | [Nutshell \- Live from Federal Way, WA\. 2023.](https://open.spotify.com/track/4WVcNNymCyoa5eh5ly6FBN) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Down In A Hole \(Live\)](https://open.spotify.com/album/1uz5hEKIxeHhZbdyu9s1s2) | 3:51 | 2024-06-16 | 2024-06-28 |
 | [Off Broadway](https://open.spotify.com/track/3BJgSn9OOpzuWaeOnf70tr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:45 | 2026-07-19 | 2026-07-22 |
-| [Off Broadway](https://open.spotify.com/track/7DdPo2tZ204EUXWPd7wegt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 3:45 | 2026-09-26 |  |
+| [Off Broadway](https://open.spotify.com/track/7DdPo2tZ204EUXWPd7wegt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 3:45 | 2026-09-26 | 2026-09-27 |
 | [Oh My God, Whatever, Etc.](https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:31 | 2022-01-12 |  |
 | [Oh My Sweet Carolina](https://open.spotify.com/track/20vlUj6CoLVNdZXlcM56mC) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Oh My Sweet Carolina](https://open.spotify.com/album/1y1FC7jvsvGugTm9m0nrWz) | 4:14 | 2025-08-10 | 2025-09-06 |
 | [Oh My Sweet Carolina](https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 4:56 | 2022-01-11 |  |

@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro fusion music: BLNDE
 
-1,179 songs - 2 day 8 hr 29 min
+1,180 songs - 2 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -817,7 +817,7 @@
 | [PLT IN THE BANK](https://open.spotify.com/track/2BZnNesHOzX1fUp95S795e) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [SPAGHETTI](https://open.spotify.com/album/66lj8DYjz1Aqezk6ebxkJB) | 2:22 | 2022-12-18 | 2023-01-28 |
 | [Pocket Money](https://open.spotify.com/track/3b664cwo3plVc4sjr6soT4) | [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR), [Mofe.](https://open.spotify.com/artist/1KM7CSGxtFgMF8NmNuRGXa), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [First Ep!c](https://open.spotify.com/album/4THgoLc03pGAzlji1JC3dT) | 1:23 | 2025-03-07 | 2025-05-30 |
 | [Pookie](https://open.spotify.com/track/5Q7AAQv0YGXEKRy9bTs8nz) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Pookie](https://open.spotify.com/album/6X1yNc6oCLtW9THe9shuNr) | 2:09 | 2025-02-21 | 2025-05-30 |
-| [Popstar Party](https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar Party](https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG) | 3:08 | 2025-11-14 |  |
+| [Popstar Party](https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar Party](https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG) | 3:08 | 2025-11-14 | 2026-09-27 |
 | [Pot of Gold](https://open.spotify.com/track/5k6wuWfwLk7ok1uA8uDteR) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [SPIRAL](https://open.spotify.com/album/5AdvIpZ7jHVpTUfiyroX69) | 3:29 | 2025-06-27 | 2026-03-31 |
 | [Pray](https://open.spotify.com/track/4JfsvpTMSYW9bU97A4PiGa) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dark Times](https://open.spotify.com/album/0WkNcmW479lQP6CjeqGE7M) | 2:44 | 2021-07-30 | 2022-09-02 |
 | [Pray for the Kids](https://open.spotify.com/track/79HMF5FAzSwzhFp6it4XFL) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Pray for the Kids](https://open.spotify.com/album/6YK2EvLKE64QQjYjHGtHIS) | 3:06 | 2025-11-14 | 2026-05-22 |
@@ -1043,6 +1043,7 @@
 | [Tell a friend](https://open.spotify.com/track/5FAqPy8p3JPhrLXBaT2dPm) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [Tell a friend](https://open.spotify.com/album/2zMbSsbpXCi2hYGgpP5QLY) | 2:15 | 2025-10-24 | 2026-01-15 |
 | [Tell Me](https://open.spotify.com/track/4kYo4gwBmu2MJVrUBeYkbO) | [Nuel Beatz](https://open.spotify.com/artist/4SOEmk8O48UGRzvrpimMrH), [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Tell Me](https://open.spotify.com/album/0kedTY9qlFdns9tuSeeJ9L) | 3:57 | 2026-07-31 |  |
 | [Tempo](https://open.spotify.com/track/5u3DPeOB7igxEaZV6lntlh) | [dndSection](https://open.spotify.com/artist/7mQzdxdxZFsbWLMP3lcZtS) | [Tempo](https://open.spotify.com/album/62idXCwWHEJYlTvBNTnXuE) | 2:49 | 2024-03-15 | 2024-09-07 |
+| [Ten Ten](https://open.spotify.com/track/6o2i6XRwvtcan3Harp04Jw) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [Ten Ten](https://open.spotify.com/album/2S3DHXubpBKKAdlpz6VfCz) | 2:21 | 2026-09-25 |  |
 | [TESLA](https://open.spotify.com/track/3r5RMIwKMHVLI9lm7YmDds) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [TESLA](https://open.spotify.com/album/527vCzOGMQd4AN3K5VpS6S) | 2:00 | 2024-10-04 | 2025-07-18 |
 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 | 2022-07-28 | 2023-11-24 |
 | [The Abyss](https://open.spotify.com/track/0CpRA17czK0iR7vxWh94st) | [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [The Abyss](https://open.spotify.com/album/2CIWY4iu9QvlCjGIKUDEVV) | 3:18 | 2025-08-26 | 2025-08-30 |

@@ -1,12 +1,12 @@
 {
   "description": "Nederpop en Volkspop meezingers.",
-  "num_followers": 173274,
+  "num_followers": 173377,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFgO1GJp3ddMxcix0kbAcbnATFw/",
+  "snapshot_id": "AAAAAI1g4TLq0Em3RgV6AQRHP4mvgGzK",
   "tracks": [
     {
       "added_at": "2026-09-24 22:08:52",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
+        "name": "Strijdlustig",
+        "url": "https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Bloed, Zweet En Tranen",
+      "url": "https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
         "name": "Hartslag Van De Stad",
         "url": "https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 179025,
       "name": "Hartslag Van De Stad",
       "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
-        "name": "Strijdlustig",
-        "url": "https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Bloed, Zweet En Tranen",
-      "url": "https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
+        "name": "Gewoon Andre",
+        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Een Beetje Verliefd",
+      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
         "name": "Duurt Te Lang (Beste Zangers Seizoen 2018)",
         "url": "https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 153527,
       "name": "Duurt Te Lang",
       "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
-        "name": "Gewoon Andre",
-        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Een Beetje Verliefd",
-      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Ken Je Dat Gevoel",
-        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Ken Je Dat Gevoel",
-      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Van Goes Tot Purmerend",
         "url": "https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 201363,
       "name": "Van Goes Tot Purmerend",
       "url": "https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Ken Je Dat Gevoel",
+        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Ken Je Dat Gevoel",
+      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -495,34 +495,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Vannacht Slaap Jij Bij Mij",
-        "url": "https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj"
-      },
-      "artists": [
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "John West",
-          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
-        },
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        },
-        {
-          "name": "Monq",
-          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
-        }
-      ],
-      "duration_ms": 148704,
-      "name": "Vannacht Slaap Jij Bij Mij",
-      "url": "https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "(Die Man Is) Verliefd",
         "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
       },
@@ -555,6 +527,34 @@
       "duration_ms": 225733,
       "name": "Het Regent Zonnestralen",
       "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Vannacht Slaap Jij Bij Mij",
+        "url": "https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+        }
+      ],
+      "duration_ms": 148704,
+      "name": "Vannacht Slaap Jij Bij Mij",
+      "url": "https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "De Jonge Jaren van Toontje Lager - 50 Jaar Nederpop",
-        "url": "https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr"
-      },
-      "artists": [
-        {
-          "name": "Toontje Lager",
-          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
-        }
-      ],
-      "duration_ms": 214975,
-      "name": "Stiekem Gedanst",
-      "url": "https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Gooi 'm Dicht",
         "url": "https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 152226,
       "name": "Gooi 'm Dicht",
       "url": "https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "De Jonge Jaren van Toontje Lager - 50 Jaar Nederpop",
+        "url": "https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr"
+      },
+      "artists": [
+        {
+          "name": "Toontje Lager",
+          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
+        }
+      ],
+      "duration_ms": 214975,
+      "name": "Stiekem Gedanst",
+      "url": "https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/5DZAYDrzrs63D6CigorZef"
-      },
-      "artists": [
-        {
-          "name": "Justen de Wildt",
-          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/04I59pMKCdNbLlSIJNAExH"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Gina",
         "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 218890,
       "name": "Gina",
       "url": "https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/5DZAYDrzrs63D6CigorZef"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/04I59pMKCdNbLlSIJNAExH"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "In Elk Stadje",
-        "url": "https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x"
+        "name": "Een Blik In Jouw Ogen",
+        "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
       },
       "artists": [
         {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
         }
       ],
-      "duration_ms": 210810,
-      "name": "In Elk Stadje",
-      "url": "https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg"
+      "duration_ms": 184671,
+      "name": "Een Blik In Jouw Ogen",
+      "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Een Blik In Jouw Ogen",
-        "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
+        "name": "In Elk Stadje",
+        "url": "https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x"
       },
       "artists": [
         {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
         }
       ],
-      "duration_ms": 184671,
-      "name": "Een Blik In Jouw Ogen",
-      "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
+      "duration_ms": 210810,
+      "name": "In Elk Stadje",
+      "url": "https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Want Jij",
-        "url": "https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7"
-      },
-      "artists": [
-        {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Want Jij",
-      "url": "https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Maak Me Nou Niet Gek",
         "url": "https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 174533,
       "name": "Pretty Belinda",
       "url": "https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Want Jij",
+        "url": "https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Want Jij",
+      "url": "https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Sugardaddy",
-        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 131796,
-      "name": "Sugardaddy",
-      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Vluchtstrook",
         "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Leef",
-        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Hazes Jr.",
-          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
         }
       ],
-      "duration_ms": 217902,
-      "name": "Leef",
-      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1631,6 +1615,22 @@
       "duration_ms": 164573,
       "name": "Spijt Is Voor Later",
       "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Leef",
+        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        }
+      ],
+      "duration_ms": 217902,
+      "name": "Leef",
+      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
+        "name": "Kleine Jongen",
+        "url": "https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Kleine Jongen",
+      "url": "https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
         "name": "De Laatste",
         "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 171285,
       "name": "De Laatste",
       "url": "https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
-        "name": "Kleine Jongen",
-        "url": "https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Kleine Jongen",
-      "url": "https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC"
     }
   ],
   "unique_name": "Hollandse Meezingers",

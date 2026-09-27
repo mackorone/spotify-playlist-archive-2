@@ -1,12 +1,12 @@
 {
   "description": "This is Macklemore. The essential tracks, all in one playlist.",
-  "num_followers": 208940,
+  "num_followers": 209061,
   "original_name": "This Is Macklemore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAABdIQQT7FGPlCuT59e9VJN2",
+  "snapshot_id": "arW5gAAAAADfLvVPhrl98eMsZQ/wH9z+",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-        "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
+        "name": "This Unruly Mess I've Made",
+        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
         },
         {
           "name": "Macklemore",
           "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
         },
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Grandmaster Melle Mel",
+          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
+        },
+        {
+          "name": "Grandmaster Caz",
+          "url": "https://open.spotify.com/artist/6QeZTS8BrU3r2TYJdA68j9"
+        },
+        {
+          "name": "Kool Moe Dee",
+          "url": "https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP"
+        },
+        {
+          "name": "Eric Nally",
+          "url": "https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn"
         }
       ],
-      "duration_ms": 163804,
-      "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-      "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
+      "duration_ms": 292593,
+      "name": "Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",
+      "url": "https://open.spotify.com/track/5pfJsMwoRYKampPay8amX0"
     },
     {
       "added_at": null,
@@ -179,42 +195,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Unruly Mess I've Made",
-        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
+        "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+        "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
       },
       "artists": [
         {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
           "name": "Macklemore",
           "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
         },
         {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
-        },
-        {
-          "name": "Grandmaster Melle Mel",
-          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
-        },
-        {
-          "name": "Grandmaster Caz",
-          "url": "https://open.spotify.com/artist/6QeZTS8BrU3r2TYJdA68j9"
-        },
-        {
-          "name": "Kool Moe Dee",
-          "url": "https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP"
-        },
-        {
-          "name": "Eric Nally",
-          "url": "https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 292593,
-      "name": "Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",
-      "url": "https://open.spotify.com/track/5pfJsMwoRYKampPay8amX0"
+      "duration_ms": 163804,
+      "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+      "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
     },
     {
       "added_at": null,
@@ -1031,46 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio (feat. Macklemore & Digital Farm Animals) [Remix]",
-        "url": "https://open.spotify.com/album/6hoaFK2OO9qH9qf4KM8h4Z"
-      },
-      "artists": [
-        {
-          "name": "Netsky",
-          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
-        },
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        }
-      ],
-      "duration_ms": 205317,
-      "name": "Rio (feat. Macklemore & Digital Farm Animals) - Remix",
-      "url": "https://open.spotify.com/track/1v2Ad22YIDj43KALniUMA7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Unplanned Mixtape",
-        "url": "https://open.spotify.com/album/0Oy5pcr8Ijx4TqNn9AbC2k"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/7nCYx2tac5Jl4GUhbleKNI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FDT (Pt. 2)",
         "url": "https://open.spotify.com/album/7It7smBGs7Ie1KS2iYtKP5"
       },
@@ -1091,6 +1051,46 @@
       "duration_ms": 222373,
       "name": "FDT - Pt. 2",
       "url": "https://open.spotify.com/track/6ZcCLhMqQEZEzsDhhS767O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Unplanned Mixtape",
+        "url": "https://open.spotify.com/album/0Oy5pcr8Ijx4TqNn9AbC2k"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/7nCYx2tac5Jl4GUhbleKNI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rio (feat. Macklemore & Digital Farm Animals) [Remix]",
+        "url": "https://open.spotify.com/album/6hoaFK2OO9qH9qf4KM8h4Z"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        }
+      ],
+      "duration_ms": 205317,
+      "name": "Rio (feat. Macklemore & Digital Farm Animals) - Remix",
+      "url": "https://open.spotify.com/track/1v2Ad22YIDj43KALniUMA7"
     },
     {
       "added_at": null,

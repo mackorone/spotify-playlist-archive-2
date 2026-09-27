@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves right now\.  Cover: Masterpiece YVK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,676 likes - 50 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,179 likes - 50 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Skang Sokodisa](https://open.spotify.com/track/2CHTUUr4ofFOBxUtnmlF5K) | [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Fake'Well](https://open.spotify.com/artist/3gBzDuP9GAtHXqgeBNMoZT) | [Sang Sokodisa](https://open.spotify.com/album/56So9obomaSiCPW7vTa2su) | 6:02 |
+| 1 | [Sang Sokodisa](https://open.spotify.com/track/2CHTUUr4ofFOBxUtnmlF5K) | [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Fake'Well](https://open.spotify.com/artist/3gBzDuP9GAtHXqgeBNMoZT) | [Sang Sokodisa](https://open.spotify.com/album/56So9obomaSiCPW7vTa2su) | 6:02 |
 | 2 | [TEZE](https://open.spotify.com/track/22lzLVsOQasHbhIByuuJvj) | [W4DE](https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS) | [TEZE](https://open.spotify.com/album/07Mrm3YPvCqZidPGhiUtpy) | 5:50 |
 | 3 | [Kanjalo kanjalo \(feat\. Scotts Maphuma & Uncool MC\)](https://open.spotify.com/track/64muIB9qGpiyPThWVNQb9v) | [N T S A K O XVI](https://open.spotify.com/artist/4nZhRvCMJPp7Y9t64bHAPb), [Nkulee501](https://open.spotify.com/artist/6NiMv0ab5p3HfDO7H92H75), [Shaun 101](https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1) | [XVI's Diary](https://open.spotify.com/album/1O4kWTWfRQA6GfMvpcX6UV) | 6:13 |
 | 4 | [6 Ekseni](https://open.spotify.com/track/2Y3pHnLsttIozTPYc4x80S) | [Seeyah](https://open.spotify.com/artist/1ScheniypyvqpRJLWWYX15), [W4DE](https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi), [Brodie.Bro](https://open.spotify.com/artist/6Bihlnnu6mcDgw7wEBjwB7) | [18teen](https://open.spotify.com/album/7K0c6S3Sh3qstQp49RnGZv) | 6:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Bhampa](https://open.spotify.com/track/1WNbXkIVNxBM8wEeZnHcun) | [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [Bhampa](https://open.spotify.com/album/66O7J1XvlMjXYgVQQJZJ23) | 6:47 |
 | 50 | [ZENZELE \(feat\. Royal MusiQ, Uncool MC, Xduppy, & CowBoii\)](https://open.spotify.com/track/4foPE26gCg9uNJKTV8Mi4C) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [4 Da Ho's](https://open.spotify.com/album/5Pk03zQ4TZY7s72qtMX0HR) | 4:33 |
 
-Snapshot ID: `AAAAAMv2xbCOBRhdT+sqx0R1A0wZtmwy`
+Snapshot ID: `AAAAAAyEh/iWGfvl8UTF8/3OaK0slu4h`

@@ -1,12 +1,12 @@
 {
   "description": "os mlk a milh\u00e3o do 013 ao 019",
-  "num_followers": 1431420,
+  "num_followers": 1431309,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJu0moiCcZX/Zkp/PSgezu8dCRww",
+  "snapshot_id": "AAAAAJeBpxgS0c7QD6rsXI/yCZ+es2b5",
   "tracks": [
     {
       "added_at": "2026-09-25 10:12:08",
@@ -407,6 +407,38 @@
     {
       "added_at": "2026-09-25 10:12:08",
       "album": {
+        "name": "Alvinegro Praiano 2",
+        "url": "https://open.spotify.com/album/3gVFmO1xGNx1rdeLK0DYV6"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Lil Gabi",
+          "url": "https://open.spotify.com/artist/5mBUw2lTWpPs3bMddcvoLh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Alvinegro Praiano 2",
+      "url": "https://open.spotify.com/track/5e12RtHXdLiyldJZZAh9ka"
+    },
+    {
+      "added_at": "2026-09-25 10:12:08",
+      "album": {
         "name": "Beck e Sexo",
         "url": "https://open.spotify.com/album/79ffKOg9PSwNHghrRMjSz3"
       },
@@ -447,38 +479,6 @@
       "duration_ms": 330491,
       "name": "Beck e Sexo",
       "url": "https://open.spotify.com/track/6qpeFSXG1J8xAVXUJVoNh5"
-    },
-    {
-      "added_at": "2026-09-25 10:12:08",
-      "album": {
-        "name": "Alvinegro Praiano 2",
-        "url": "https://open.spotify.com/album/3gVFmO1xGNx1rdeLK0DYV6"
-      },
-      "artists": [
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Lil Gabi",
-          "url": "https://open.spotify.com/artist/5mBUw2lTWpPs3bMddcvoLh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Alvinegro Praiano 2",
-      "url": "https://open.spotify.com/track/5e12RtHXdLiyldJZZAh9ka"
     },
     {
       "added_at": "2026-09-25 10:12:08",
@@ -535,34 +535,6 @@
     {
       "added_at": "2026-09-25 10:12:08",
       "album": {
-        "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
-        "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
-      },
-      "artists": [
-        {
-          "name": "Jarreau Vandal",
-          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
-        },
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 199351,
-      "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
-      "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
-    },
-    {
-      "added_at": "2026-09-25 10:12:08",
-      "album": {
         "name": "THE BOX MEDLEY FUNK 11",
         "url": "https://open.spotify.com/album/3YDJHfJBZEH0Cxj5eOqx11"
       },
@@ -603,6 +575,34 @@
       "duration_ms": 297692,
       "name": "THE BOX MEDLEY FUNK 11",
       "url": "https://open.spotify.com/track/0oulB5Nhs4Ur3zgvC6WqWz"
+    },
+    {
+      "added_at": "2026-09-25 10:12:08",
+      "album": {
+        "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
+        "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
+      },
+      "artists": [
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 199351,
+      "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
+      "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
     },
     {
       "added_at": "2026-09-25 10:12:08",
@@ -779,30 +779,6 @@
     {
       "added_at": "2026-09-25 10:12:08",
       "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Confiss\u00f5es",
-      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
-    },
-    {
-      "added_at": "2026-09-25 10:12:08",
-      "album": {
         "name": "Dentro Da SUV",
         "url": "https://open.spotify.com/album/5PNgf72QKLaytkj4Rucouh"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 177828,
       "name": "Dentro Da SUV",
       "url": "https://open.spotify.com/track/5URD5SYQH1QWxurojwaa8R"
+    },
+    {
+      "added_at": "2026-09-25 10:12:08",
+      "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Confiss\u00f5es",
+      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
     },
     {
       "added_at": "2026-09-25 10:12:08",
@@ -923,30 +923,26 @@
     {
       "added_at": "2026-09-25 10:12:08",
       "album": {
-        "name": "Advinha o CEP",
-        "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
+        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
+        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
       },
       "artists": [
         {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
         },
         {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
         },
         {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
         }
       ],
-      "duration_ms": 131368,
-      "name": "Advinha o CEP",
-      "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
+      "duration_ms": 136170,
+      "name": "COMO Q OFUSCA O BRILHO?",
+      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
     },
     {
       "added_at": "2026-09-25 10:12:08",
@@ -983,26 +979,62 @@
     {
       "added_at": "2026-09-25 10:12:08",
       "album": {
-        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
-        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
+        "name": "Advinha o CEP",
+        "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
       },
       "artists": [
         {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        }
+      ],
+      "duration_ms": 131368,
+      "name": "Advinha o CEP",
+      "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
+    },
+    {
+      "added_at": "2026-09-25 10:12:08",
+      "album": {
+        "name": "Marighella de Versace",
+        "url": "https://open.spotify.com/album/37DptBPnmGE9dJZCR6BVYU"
+      },
+      "artists": [
+        {
+          "name": "Vitinho RB",
+          "url": "https://open.spotify.com/artist/0C6ppWo7aVuSv0YJREtvkj"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
         },
         {
           "name": "Honaiser",
           "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
         }
       ],
-      "duration_ms": 136170,
-      "name": "COMO Q OFUSCA O BRILHO?",
-      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
+      "duration_ms": 165558,
+      "name": "Marighella de Versace",
+      "url": "https://open.spotify.com/track/3NkPgGHhy8r47x5EeOAvXt"
     },
     {
       "added_at": "2026-09-25 10:12:08",
@@ -1127,30 +1159,6 @@
     {
       "added_at": "2026-09-25 10:12:08",
       "album": {
-        "name": "Um Pouco Pensativo",
-        "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
-      },
-      "artists": [
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
-        },
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/0gq491BfYBBKfHDfjBQoDy"
-        }
-      ],
-      "duration_ms": 139033,
-      "name": "Um Pouco Pensativo",
-      "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
-    },
-    {
-      "added_at": "2026-09-25 10:12:08",
-      "album": {
         "name": "Sol Na Lata",
         "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
       },
@@ -1171,6 +1179,30 @@
       "duration_ms": 164000,
       "name": "Sol Na Lata",
       "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
+    },
+    {
+      "added_at": "2026-09-25 10:12:08",
+      "album": {
+        "name": "Um Pouco Pensativo",
+        "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+        },
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/0gq491BfYBBKfHDfjBQoDy"
+        }
+      ],
+      "duration_ms": 139033,
+      "name": "Um Pouco Pensativo",
+      "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
     },
     {
       "added_at": "2026-09-25 10:12:08",
@@ -1283,38 +1315,6 @@
       "duration_ms": 156631,
       "name": "Voc\u00eas V\u00e3o Ter Que Me Engolir (Zagallo)",
       "url": "https://open.spotify.com/track/4h4z8f6vGbbESfSiBJZ19b"
-    },
-    {
-      "added_at": "2026-09-25 10:12:08",
-      "album": {
-        "name": "Marighella de Versace",
-        "url": "https://open.spotify.com/album/37DptBPnmGE9dJZCR6BVYU"
-      },
-      "artists": [
-        {
-          "name": "Vitinho RB",
-          "url": "https://open.spotify.com/artist/0C6ppWo7aVuSv0YJREtvkj"
-        },
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        }
-      ],
-      "duration_ms": 165558,
-      "name": "Marighella de Versace",
-      "url": "https://open.spotify.com/track/3NkPgGHhy8r47x5EeOAvXt"
     },
     {
       "added_at": "2026-09-25 10:12:08",

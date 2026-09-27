@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 240181,
+  "num_followers": 240216,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH+tYjJ55YrNs6dynPKDcoA1VV/e",
+  "snapshot_id": "AAAAALydLzQonp/sJxfOaNqyRRjqjvyv",
   "tracks": [
     {
       "added_at": "2026-08-18 23:12:48",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Perfect Duet",
-        "url": "https://open.spotify.com/album/64AXj367n2UZH9EnM6UrFZ"
-      },
-      "artists": [
-        {
-          "name": "LZ7",
-          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
-        },
-        {
-          "name": "Gracie",
-          "url": "https://open.spotify.com/artist/0YZgJBUlSIb92q7X1APktN"
-        }
-      ],
-      "duration_ms": 219418,
-      "name": "Perfect Duet",
-      "url": "https://open.spotify.com/track/48nX2Gq9giUd0yVZZZSsga"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "ANOTHER WAY (26th Junction Remix)",
         "url": "https://open.spotify.com/album/3YN1YjzsFHqSHaaNnCy9rz"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 157888,
       "name": "ANOTHER WAY - 26th Junction Remix",
       "url": "https://open.spotify.com/track/02viqOQ3MaOKTyaHRcjHBA"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Perfect Duet",
+        "url": "https://open.spotify.com/album/64AXj367n2UZH9EnM6UrFZ"
+      },
+      "artists": [
+        {
+          "name": "LZ7",
+          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
+        },
+        {
+          "name": "Gracie",
+          "url": "https://open.spotify.com/artist/0YZgJBUlSIb92q7X1APktN"
+        }
+      ],
+      "duration_ms": 219418,
+      "name": "Perfect Duet",
+      "url": "https://open.spotify.com/track/48nX2Gq9giUd0yVZZZSsga"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -823,6 +823,30 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Move (Remixes)",
+        "url": "https://open.spotify.com/album/3Bl4P0Vz2KijX8BrGzOFcF"
+      },
+      "artists": [
+        {
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Bruninho Music",
+          "url": "https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Move - Gui Brazil & Bruninho Music Remix",
+      "url": "https://open.spotify.com/track/5irlMDKsADoAWrZM29bXYx"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/1JZc8NYUgV69snK0a2tur3"
       },
@@ -847,30 +871,6 @@
       "duration_ms": 130153,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/1NyHiKFrCnfjF4PLC67plt"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Move (Remixes)",
-        "url": "https://open.spotify.com/album/3Bl4P0Vz2KijX8BrGzOFcF"
-      },
-      "artists": [
-        {
-          "name": "LIN D",
-          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Bruninho Music",
-          "url": "https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Move - Gui Brazil & Bruninho Music Remix",
-      "url": "https://open.spotify.com/track/5irlMDKsADoAWrZM29bXYx"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "My Prayer (Micky More & Andy Tee Mixes)",
-        "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
-      },
-      "artists": [
-        {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
-        },
-        {
-          "name": "Micky More & Andy Tee",
-          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
-        }
-      ],
-      "duration_ms": 228694,
-      "name": "My Prayer - Micky More & Andy Tee Classic Edit",
-      "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 174240,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "My Prayer (Micky More & Andy Tee Mixes)",
+        "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
+      },
+      "artists": [
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        },
+        {
+          "name": "Micky More & Andy Tee",
+          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
+        }
+      ],
+      "duration_ms": 228694,
+      "name": "My Prayer - Micky More & Andy Tee Classic Edit",
+      "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Deliver (Higher)",
-        "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
-      },
-      "artists": [
-        {
-          "name": "ZARG",
-          "url": "https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z"
-        }
-      ],
-      "duration_ms": 200433,
-      "name": "Deliver (Higher)",
-      "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "HOLY",
         "url": "https://open.spotify.com/album/4f4tqDPM23OYNrYO0sUBuR"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 181671,
       "name": "HOLY",
       "url": "https://open.spotify.com/track/5h4hjkImb5c9ewpOiZIkU6"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Deliver (Higher)",
+        "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
+      },
+      "artists": [
+        {
+          "name": "ZARG",
+          "url": "https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z"
+        }
+      ],
+      "duration_ms": 200433,
+      "name": "Deliver (Higher)",
+      "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Praise His Holy Name (House Remix)",
-        "url": "https://open.spotify.com/album/0dDoWCItCHVkXts89g2QOf"
-      },
-      "artists": [
-        {
-          "name": "Maurice Joshua",
-          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
-        },
-        {
-          "name": "The Whispers",
-          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
-        }
-      ],
-      "duration_ms": 245118,
-      "name": "Praise His Holy Name - House Remix",
-      "url": "https://open.spotify.com/track/6jnlYWmuU2c3jvN0J0bIZV"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Floating (okay.benny Remix)",
         "url": "https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 155520,
       "name": "Floating - okay.benny Remix",
       "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Praise His Holy Name (House Remix)",
+        "url": "https://open.spotify.com/album/0dDoWCItCHVkXts89g2QOf"
+      },
+      "artists": [
+        {
+          "name": "Maurice Joshua",
+          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+        },
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+        }
+      ],
+      "duration_ms": 245118,
+      "name": "Praise His Holy Name - House Remix",
+      "url": "https://open.spotify.com/track/6jnlYWmuU2c3jvN0J0bIZV"
     },
     {
       "added_at": "2026-08-18 23:12:48",

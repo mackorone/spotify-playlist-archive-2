@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 645368,
+  "num_followers": 645390,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAACExMHNAdmxz/TFtb9ujEmp",
+  "snapshot_id": "arW5gAAAAAAvLgTFB7mEGRWSMnxbV4Nd",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
+        "name": "Selena LIVE (Remastered 2026)",
+        "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
       },
       "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 253733,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
+      "duration_ms": 584429,
+      "name": "Como La Flor/Baila Esta Cumbia - Live/Remastered 2026",
+      "url": "https://open.spotify.com/track/6SXXFYCKW2kjxWEuFyuEdR"
     },
     {
       "added_at": null,
@@ -679,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena LIVE (Remastered 2026)",
-        "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
       },
       "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 584429,
-      "name": "Como La Flor/Baila Esta Cumbia - Live/Remastered 2026",
-      "url": "https://open.spotify.com/track/6SXXFYCKW2kjxWEuFyuEdR"
+      "duration_ms": 253733,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Ricus Nel
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,184 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,257 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 99 | [Sonop\-Blom](https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Sonop\-Blom](https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p) | 3:07 |
 | 100 | [Ek Kom Jou Haal](https://open.spotify.com/track/2g6m72rfZ7XNIvmeyHBJos) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Ek Kom Jou Haal](https://open.spotify.com/album/2gpH0eRRT7eV3djITMrZAx) | 2:43 |
 
-Snapshot ID: `AAAAAOsoY1ygQugvN2R0I8CPHyVQ9R6v`
+Snapshot ID: `AAAAAM90Ki8jLpXTjAxdFJtmKbE+PaFL`

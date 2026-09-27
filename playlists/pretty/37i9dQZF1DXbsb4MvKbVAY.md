@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,663 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,661 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 82 | [Ämpäri](https://open.spotify.com/track/33NLtvVYYVtUNVwkytDzRh) | [Sebastian Visa](https://open.spotify.com/artist/5KGtBCbmfrpTqAq1ISbi1D), [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [Ämpäri](https://open.spotify.com/album/3f5aCCzFnZ3O83dZvblJIz) | 2:47 |
 | 83 | [Heaven](https://open.spotify.com/track/0TkPciIoXbq6Gh7XAxghDn) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Heaven](https://open.spotify.com/album/1XiXKL1F8ueDzYSGWG32tV) | 3:52 |
 | 84 | [Kevyt ja kohtuuton](https://open.spotify.com/track/3nC4RiESLtdOhxKgDs806R) | [Ismo Alanko](https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF) | [Kevyt ja kohtuuton](https://open.spotify.com/album/7A1jCxlw6K90rLonitQTXy) | 3:15 |
-| 85 | [Yli susta](https://open.spotify.com/track/5cPu5jFxEzDH8pfQAnPw3x) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [Yli susta](https://open.spotify.com/album/6PePqZbrd3VpqhxqJhBvzL) | 3:02 |
-| 86 | [Yhteysvikoja](https://open.spotify.com/track/2LjvFtrvepZG394zVmGTqJ) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z) | [Yhteysvikoja](https://open.spotify.com/album/5q6WD4dR25MUPLewM5SD0Z) | 2:19 |
+| 85 | [Yhteysvikoja](https://open.spotify.com/track/2LjvFtrvepZG394zVmGTqJ) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z) | [Yhteysvikoja](https://open.spotify.com/album/5q6WD4dR25MUPLewM5SD0Z) | 2:19 |
+| 86 | [Yli susta](https://open.spotify.com/track/5cPu5jFxEzDH8pfQAnPw3x) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [Yli susta](https://open.spotify.com/album/6PePqZbrd3VpqhxqJhBvzL) | 3:02 |
 | 87 | [MMG](https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [MMG](https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW) | 3:06 |
 | 88 | [Tuolta se nyt kävelee](https://open.spotify.com/track/18gjoFK9e8hbFIsFlMCvpx) | [Pekka Nisu](https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS) | [Tuolta se nyt kävelee](https://open.spotify.com/album/1h9rpGnIWQ7OZXGGWUazJu) | 3:23 |
 | 89 | [Hapentuhlaaja](https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Hapentuhlaaja](https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR) | 4:36 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 94 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
 | 95 | [Kamikaze](https://open.spotify.com/track/7yf2KZIKYUB9XABxpk3IcF) | [Molly Mae](https://open.spotify.com/artist/1id88vQlxSueQIddQeiKTl) | [Kamikaze](https://open.spotify.com/album/1cuRIt0mlB7vaUrYcBIpSj) | 2:02 |
 | 96 | [Kangastus](https://open.spotify.com/track/3MEeDEiuTUOIeY8euj6Mwf) | [Otto](https://open.spotify.com/artist/3A8s2MMhh7HmdromfKDCBp) | [Kangastus](https://open.spotify.com/album/4tqjrdVVDFkNy0nF2cL9Mg) | 2:29 |
-| 97 | [Come Back](https://open.spotify.com/track/0ELSvcZ3EKntkBHqARS0Vw) | [Killer](https://open.spotify.com/artist/2Ce4WjRfZtYR4Z8Z6fDkOQ) | [Come Back](https://open.spotify.com/album/7lol51cvjCqEr587nLcY6t) | 2:50 |
-| 98 | [I Wasn't Young, I Needed the Money](https://open.spotify.com/track/21CwcCRnNYHrSUNXvMwS9Y) | [Sin Cos Tan](https://open.spotify.com/artist/3maaZRO6VRwTf6oUik93ZJ) | [I Wasn't Young, I Needed the Money](https://open.spotify.com/album/5pS46ohbb8JBGY0FhqIkmi) | 3:27 |
+| 97 | [I Wasn't Young, I Needed the Money](https://open.spotify.com/track/21CwcCRnNYHrSUNXvMwS9Y) | [Sin Cos Tan](https://open.spotify.com/artist/3maaZRO6VRwTf6oUik93ZJ) | [I Wasn't Young, I Needed the Money](https://open.spotify.com/album/5pS46ohbb8JBGY0FhqIkmi) | 3:27 |
+| 98 | [Come Back](https://open.spotify.com/track/0ELSvcZ3EKntkBHqARS0Vw) | [Killer](https://open.spotify.com/artist/2Ce4WjRfZtYR4Z8Z6fDkOQ) | [Come Back](https://open.spotify.com/album/7lol51cvjCqEr587nLcY6t) | 2:50 |
 | 99 | [Voitonpäivä](https://open.spotify.com/track/3gnmP08f5NywnLks1Myb1A) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Voitonpäivä](https://open.spotify.com/album/5fT88RUsc4oSMtBSsecAaE) | 2:26 |
 | 100 | [Shinola](https://open.spotify.com/track/3tJ7DnD7488H5g1EzIqe4T) | [Michael Monroe](https://open.spotify.com/artist/5Ul6r5lUSOraWUidNnsILZ) | [Shinola](https://open.spotify.com/album/7FRxZI6MPRqy66KUjw3KOK) | 2:43 |
 
-Snapshot ID: `AAAAAER0m2EHgvufKW7O19o8uVPV2DAK`
+Snapshot ID: `AAAAAJH7SXn5NEM9fH7M1whGo29DUWwB`

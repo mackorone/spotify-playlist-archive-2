@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > Los Gemelos De Sinaloa poniendo la Música Mexicana en alto en la playlist sin fronteras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,137,707 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,136,877 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 59 | [ENCERRONES](https://open.spotify.com/track/5GlqjDLsp35lSbyn78WfFS) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ENCERRONES](https://open.spotify.com/album/2KWy5cA0q2x2xYI4FSlybO) | 2:23 |
 | 60 | [M&M](https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 2:46 |
 
-Snapshot ID: `AAAAANPbDRLEZYA65FGkCyb2u7NHqoFt`
+Snapshot ID: `AAAAAPhkE89DDFj72x9OhQ6geo4c8ED+`

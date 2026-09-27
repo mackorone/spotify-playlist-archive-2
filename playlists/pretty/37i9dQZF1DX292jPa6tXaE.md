@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Love Dhaliwal
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,244 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,321 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Stay](https://open.spotify.com/track/3UeeNQrMCfYeHMsourGRY1) | [Yara](https://open.spotify.com/artist/0Z0Qg3PkQFKQvP6u6qItC7) | [Stay](https://open.spotify.com/album/3tLXJDIsuvgaNricUDXFng) | 2:37 |
 | 50 | [Gaddi Te Goli](https://open.spotify.com/track/3d9WYDiNjM8EWItgYIuSLq) | [Parmveer](https://open.spotify.com/artist/0oWwmKSDELUs3M2glkw0H0), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Off the Charts](https://open.spotify.com/album/7wdlhI3JXSDdAX268lDEc5) | 2:49 |
 
-Snapshot ID: `AAAAAOjk512F+XExm/k4Lxv1VtiX1K/i`
+Snapshot ID: `AAAAAM9wVSQQWK8n0zin/q/dgHqm32tb`

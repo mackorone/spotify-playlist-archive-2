@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Tom Morello
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,986 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,975 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 99 | [Protégé](https://open.spotify.com/track/23uXxwZcuhuk4V8cx8YAoG) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Protégé](https://open.spotify.com/album/79Fvi89pb2gaC0DLSIKju9) | 3:06 |
 | 100 | [Snakes for Dinner](https://open.spotify.com/track/1QJTU1IJBWu8oTzKIt4n6r) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Snakes for Dinner](https://open.spotify.com/album/6hfWE4ne6vuflQER7tVs0E) | 4:57 |
 
-Snapshot ID: `AAAAAKj6FsqKdES0esijZoSXCDNNONIL`
+Snapshot ID: `AAAAAALQdB8fyKKwGFb1a+7ZJOxA7cP2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Mariana Pereira
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,360 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,387 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 44 | [Rapariga \(feat\. Amália Rodrigues\)](https://open.spotify.com/track/12FmYEHJy6B13Mg1THQoAG) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt) | [Lusa: ato II](https://open.spotify.com/album/7kDPFNG3yYCLjhIElwAWJh) | 2:50 |
 | 45 | [Aguarela](https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Teetwo](https://open.spotify.com/artist/5VJa8cNehs0vBfqAEd92ar), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Aguarela](https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL) | 3:16 |
 | 46 | [Que Se Lixe o Tempo](https://open.spotify.com/track/2cfJGrXGckYpvZOCgDEUDI) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm), [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7) | [Que Se Lixe o Tempo](https://open.spotify.com/album/2dpoEaw0iaKR4GU92FaiQe) | 2:40 |
-| 47 | [Olha Nós](https://open.spotify.com/track/4rwoaePPllbblEy0NkdJjN) | [April Ivy](https://open.spotify.com/artist/0cRXFRbq7wk9jeMO47rVVH), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Olha Nós](https://open.spotify.com/album/2O3dakOBMqzBaLt7GRFCBt) | 3:15 |
+| 47 | [Olha Nós \(feat\. Djodje\)](https://open.spotify.com/track/4rwoaePPllbblEy0NkdJjN) | [April Ivy](https://open.spotify.com/artist/0cRXFRbq7wk9jeMO47rVVH), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Olha Nós \(feat\. Djodje\)](https://open.spotify.com/album/2O3dakOBMqzBaLt7GRFCBt) | 3:15 |
 | 48 | [Não Tá Fácil](https://open.spotify.com/track/0YTmjC8mBzBfov0pZl2h3a) | [Virgul](https://open.spotify.com/artist/0qe3I1MOY8oFj3DuoWNwbq), [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Não Tá Fácil](https://open.spotify.com/album/6Aa8jI0ScpOiSd6O1ZoCad) | 2:58 |
 | 49 | [Yo te loviu](https://open.spotify.com/track/4VTAK1Jlwvge6wO5Y7cfrt) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Yo te loviu](https://open.spotify.com/album/5oUjDTrhhWfUCkB71wq8qH) | 2:29 |
 | 50 | [Pele e Sal](https://open.spotify.com/track/4tEnMO8dMoz3OoKKNQhxed) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Pele e Sal](https://open.spotify.com/album/4Ly62GHqpnnFK0mNOVPWrE) | 3:06 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 67 | [10MIN ∆](https://open.spotify.com/track/0ciIldffIACGFzaQ8PuQ6t) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [HORMONAL](https://open.spotify.com/album/5tnMRzUb5oNXUn9O7bEojK) | 2:48 |
 | 68 | [Pobre Ex\-Namorado](https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Pobre Ex\-Namorado](https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc) | 2:53 |
 | 69 | [o amor existe](https://open.spotify.com/track/4xFAjC2SSS0q5gwVqvI75f) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [o amor existe](https://open.spotify.com/album/3CC2NCL8OSeMT1iBJGBixH) | 3:13 |
-| 70 | [Alô](https://open.spotify.com/track/368RNXKnoAUO91Yu20mUQ1) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch) | [Alô](https://open.spotify.com/album/0PrHwWJ0hp45UJQcq3WHvh) | 2:16 |
+| 70 | [ALÔ](https://open.spotify.com/track/368RNXKnoAUO91Yu20mUQ1) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch) | [ALÔ](https://open.spotify.com/album/0PrHwWJ0hp45UJQcq3WHvh) | 2:16 |
 
-Snapshot ID: `AAAAANMloeus4A7c2CNLW3dODQbHSdvh`
+Snapshot ID: `AAAAAPvAEmL1LECvMhbKr7Oxd0ADD23b`

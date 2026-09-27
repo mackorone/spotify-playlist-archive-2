@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Haute & Freddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,567 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,548 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 22 | [LIGHT DESIGN: OKLOU VERSION](https://open.spotify.com/track/72Mduxm5q1vXtwYatvPGW2) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 2:46 |
 | 23 | [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 |
 | 24 | [She’s the Best](https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19) | 4:14 |
-| 25 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
-| 26 | [Level Up](https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Level Up](https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3) | 2:36 |
+| 25 | [Level Up](https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Level Up](https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3) | 2:36 |
+| 26 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 27 | [Comme des rats](https://open.spotify.com/track/30NnfTuqWG36upsxuT4QOG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Vitrine](https://open.spotify.com/album/7oBVdq9PC6arh2qpLuYleb) | 2:21 |
 | 28 | [Moni Hot](https://open.spotify.com/track/4e9nu6DvuWU7jdREGxmLlE) | [Darlingchouchou](https://open.spotify.com/artist/7yqZQGO6ZBlWdjPjjbJOgL) | [Moni Hot](https://open.spotify.com/album/1tACBgwmpKoAkyuSqy7o9L) | 1:46 |
 | 29 | [Two Roads](https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Two Roads](https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU) | 4:00 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 39 | [Par le vide](https://open.spotify.com/track/0YrKcqabMzNTl5IHkl2FPc) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [Par le vide](https://open.spotify.com/album/3xm3u3jVfJUwSPhxMhkexw) | 3:28 |
 | 40 | [like never before](https://open.spotify.com/track/3mPrY6npWtvBr5IaWCRyU9) | [Veridis Project](https://open.spotify.com/artist/1JcJ1nR9qZhx2GCX0MM8Up) | [like never before](https://open.spotify.com/album/3Sq2QOvCweTzhXp7rIy8py) | 2:11 |
 
-Snapshot ID: `AAAAAJglUDstnqw6+j7z0Xbiy1uP8vFv`
+Snapshot ID: `AAAAAKLMs6ehaFwf7WuUYLQ9Pyorlp/9`

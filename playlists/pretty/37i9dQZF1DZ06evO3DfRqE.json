@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8774,
+  "num_followers": 8775,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAACCO70NgZAuqxC8yiMxA5XE",
+  "snapshot_id": "arW5gAAAAADPo4cK01yRW4KVHksOrEbn",
   "tracks": [
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 141933,
-      "name": "Let's Go Home",
-      "url": "https://open.spotify.com/track/5A3Csnl1sqe3zlWD7Gs3gf"
+      "duration_ms": 116706,
+      "name": "The Stars Are Out",
+      "url": "https://open.spotify.com/track/4tXp7gM12sZMRd6ylWbceg"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 116706,
-      "name": "The Stars Are Out",
-      "url": "https://open.spotify.com/track/4tXp7gM12sZMRd6ylWbceg"
+      "duration_ms": 141933,
+      "name": "Let's Go Home",
+      "url": "https://open.spotify.com/track/5A3Csnl1sqe3zlWD7Gs3gf"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Boy Meets Girl",
+      "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hope in the Ashes",
         "url": "https://open.spotify.com/album/373OIvXeyphGoVfggcCdcr"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 154713,
       "name": "Hope in the Ashes",
       "url": "https://open.spotify.com/track/1RoNkSXNMMbBVLmApfVlMs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace Love Ukulele",
-        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Boy Meets Girl",
-      "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
     },
     {
       "added_at": null,
@@ -763,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+        "name": "Time For Three",
+        "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
       },
       "artists": [
+        {
+          "name": "Time For Three",
+          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
+        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 224960,
-      "name": "Train Ride",
-      "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
+      "duration_ms": 239906,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
     },
     {
       "added_at": null,
@@ -795,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time For Three",
-        "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
       "artists": [
-        {
-          "name": "Time For Three",
-          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
-        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 239906,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
+      "duration_ms": 224960,
+      "name": "Train Ride",
+      "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NASHVILLE SESSIONS",
-        "url": "https://open.spotify.com/album/6dClr5PTCr6ohbK74jipdD"
+        "name": "\u30ed\u30c3\u30af\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/6R5igDFoWprigYQpsOZR1m"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Arigato",
-      "url": "https://open.spotify.com/track/6ONh5KkYlsOY6dHjNocc66"
+      "duration_ms": 223573,
+      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/4wVNMIDZ4nK4Hy2FcSTvZL"
     },
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ed\u30c3\u30af\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/6R5igDFoWprigYQpsOZR1m"
+        "name": "NASHVILLE SESSIONS",
+        "url": "https://open.spotify.com/album/6dClr5PTCr6ohbK74jipdD"
       },
       "artists": [
         {
@@ -876,29 +876,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 223573,
-      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/4wVNMIDZ4nK4Hy2FcSTvZL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brickman Across America: Heart and Soul of American Music",
-        "url": "https://open.spotify.com/album/1gzWOkcpGe3ZR39b8sD6dw"
-      },
-      "artists": [
-        {
-          "name": "Jim Brickman",
-          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 246647,
-      "name": "Hawaii Rain",
-      "url": "https://open.spotify.com/track/3F2yqzrCqgFjbrCHQKZBe7"
+      "duration_ms": 182293,
+      "name": "Arigato",
+      "url": "https://open.spotify.com/track/6ONh5KkYlsOY6dHjNocc66"
     },
     {
       "added_at": null,
@@ -919,6 +899,26 @@
       "duration_ms": 148295,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brickman Across America: Heart and Soul of American Music",
+        "url": "https://open.spotify.com/album/1gzWOkcpGe3ZR39b8sD6dw"
+      },
+      "artists": [
+        {
+          "name": "Jim Brickman",
+          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 246647,
+      "name": "Hawaii Rain",
+      "url": "https://open.spotify.com/track/3F2yqzrCqgFjbrCHQKZBe7"
     }
   ],
   "unique_name": "This Is Jake Shimabukuro",

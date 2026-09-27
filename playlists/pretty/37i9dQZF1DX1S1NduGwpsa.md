@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Okvsho
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,077 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,159 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [We Here](https://open.spotify.com/track/485cnY6fKjkb1wCUgniOHc) | [MONFORT](https://open.spotify.com/artist/5XPTfBazpMvbj4Apn1hgHd), [Alexis Valet](https://open.spotify.com/artist/1VBaICEeEhOKIPra2zkbD4) | [We Here](https://open.spotify.com/album/1IYD9xucr5TBkiFQcTYdlM) | 2:46 |
 | 60 | [Soften](https://open.spotify.com/track/3X9yLXt2yAbeCwTUc6dyVU) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Soften](https://open.spotify.com/album/0bDHHs74NH4n7Ta8TwfzlP) | 4:11 |
 
-Snapshot ID: `AAAAAPu0MoJSRsc7Qdm6qbLwZ+xRBK0w`
+Snapshot ID: `AAAAAMACZHPfNQI0ANdYssWokEGZ4c5T`

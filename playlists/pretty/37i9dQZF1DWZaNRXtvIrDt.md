@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Lady Shaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,754 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,739 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 30 | [Around \- Solomun Vox](https://open.spotify.com/track/1FqCIlKJRNqpuQOAO7HCGd) | [Noir](https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9), [Haze](https://open.spotify.com/artist/0iUmwPbn9g14HaxZiYzfHJ), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Around](https://open.spotify.com/album/2HBNLX7RcLK8Bvte2kFGbJ) | 6:58 |
 | 31 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 32 | [Ethereal Connection](https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:42 |
-| 33 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
-| 34 | [Shoreditch](https://open.spotify.com/track/6DtWaLBRRPnHbDBVjnls9W) | [Vard.](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Shoreditch](https://open.spotify.com/album/2UI5HpK8lRfHoVFNYqnv3N) | 2:29 |
+| 33 | [Shoreditch](https://open.spotify.com/track/6DtWaLBRRPnHbDBVjnls9W) | [Vard.](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Shoreditch](https://open.spotify.com/album/2UI5HpK8lRfHoVFNYqnv3N) | 2:29 |
+| 34 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
 | 35 | [SPRINTER](https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha) | [KARMA](https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9) | [SPRINTER](https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj) | 3:07 |
 | 36 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
 | 37 | [RALLY FUNK](https://open.spotify.com/track/4NX1TmWyGuTCTPguqd4KAK) | [prod\. DTM](https://open.spotify.com/artist/661DKnfZy9RMb8FcbUZboE) | [RALLY FUNK](https://open.spotify.com/album/46zifhmnByKMPQaZSjw9oh) | 1:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 49 | [Back To Reality \- Original Mix \- Mixed](https://open.spotify.com/track/5LM5D4axlHlw25FSLB9yqN) | [RMS](https://open.spotify.com/artist/4pJ8HL3kT31Gc3fqXQBG9c) | [DJ Hybrid presents Welcome To The Jungle \(DJ MIX\)](https://open.spotify.com/album/0px7ovg0arQC3wZvRGo74C) | 1:24 |
 | 50 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like \(feat\. yunè pinku\)](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
 
-Snapshot ID: `AAAAAHdOrKa/1YsowDxMboGSP9XwPjH6`
+Snapshot ID: `AAAAAIxbRjJXFcVM6GaqMhYozF/ynDIP`

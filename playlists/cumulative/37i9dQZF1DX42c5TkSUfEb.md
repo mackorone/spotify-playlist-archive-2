@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-538 songs - 1 day 8 hr 33 min
+539 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2022-11-25 |  |
 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 | 2025-07-25 |  |
 | [Feeling Good Today](https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 1:26 | 2024-02-08 | 2024-03-28 |
+| [Feels Right](https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feels Right](https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj) | 3:09 | 2026-09-25 |  |
 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 | 2025-09-18 | 2026-03-15 |
 | [Floating On A Moment](https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Floating On A Moment](https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY) | 5:26 | 2024-02-15 | 2024-07-27 |
 | [flower](https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [flower](https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH) | 2:28 | 2025-08-01 | 2025-11-15 |
@@ -212,7 +213,7 @@
 | [Hotel California](https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:08 | 2026-02-06 | 2026-07-25 |
 | [How Can I Do](https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 4:55 | 2022-11-25 | 2023-02-22 |
 | [how did they know](https://open.spotify.com/track/3b8M7JYleRsiMlvwad6IQ1) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [how did they know](https://open.spotify.com/album/5XQnun6cfXG7S7KmXagM1K) | 4:03 | 2025-08-07 | 2025-09-13 |
-| [How Many Days](https://open.spotify.com/track/0T2VUiQ3D1rcuUOrttAr07) | [Ella Lewis](https://open.spotify.com/artist/6wvqJlwBM26DWBLPaTXQKZ) | [How Many Days](https://open.spotify.com/album/5Lm8ZOhp3ZjaHAeQ0tKxcN) | 3:00 | 2026-09-17 |  |
+| [How Many Days](https://open.spotify.com/track/0T2VUiQ3D1rcuUOrttAr07) | [Ella Lewis](https://open.spotify.com/artist/6wvqJlwBM26DWBLPaTXQKZ) | [How Many Days](https://open.spotify.com/album/5Lm8ZOhp3ZjaHAeQ0tKxcN) | 3:00 | 2026-09-17 | 2026-09-27 |
 | [Hurts so Good](https://open.spotify.com/track/24u02eXgpySwvPbC0Yac4T) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Hurts so Good](https://open.spotify.com/album/2vB7f35TC3FniOnMy3ohiQ) | 4:55 | 2023-05-25 | 2023-07-05 |
 | [HÂTE DE VIVRE](https://open.spotify.com/track/5WHBv4A7s71zPJEUBwh29v) | [Dajak](https://open.spotify.com/artist/4UzhGDGnyLajt5ZoeEciGh) | [SOLAR STEREO](https://open.spotify.com/album/63CNNQAFo5dLHPV70fU1ed) | 5:25 | 2026-07-23 |  |
 | [I Believe](https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 2:37 | 2024-04-15 |  |

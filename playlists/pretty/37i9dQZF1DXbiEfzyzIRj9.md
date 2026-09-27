@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック  Cover: Daphni \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,793 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,826 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Soraré \- Teaser](https://open.spotify.com/track/3VdifMHZ0n4ZBHSKISxaRB) | [Satoshi Tomiie](https://open.spotify.com/artist/3TrAOZvW0MzZeKZRFnU7Ul), [Stekke](https://open.spotify.com/artist/6rq8lYPKXsEkaYWY0YKXyI) | [Soraré \(Teaser\)](https://open.spotify.com/album/1y3cSWSxSCq6l7jJBTQOl5) | 3:07 |
 | 100 | [Devout](https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Devout](https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS) | 3:37 |
 
-Snapshot ID: `AAAAAFBNeGVZGNk/9Y3dTLqlibUtJmch`
+Snapshot ID: `AAAAAB1OOVj9UBlUSzqN1JBrgLkFd9Ef`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Bashir Billow
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,470 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,473 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [420](https://open.spotify.com/track/7KnDzDjrjeUgNF19I45zlP) | [Leandro Carrere](https://open.spotify.com/artist/33fPfSLLolVKvp8dR5y09r), [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [420](https://open.spotify.com/album/6YIhxv8aA10qUYGX7qfsQY) | 3:38 |
 | 50 | [Kelly](https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4) | [Kelly No Brakes](https://open.spotify.com/artist/0ZnVWrM636IZszLw8naK0V) | [Kelly](https://open.spotify.com/album/05y25pwHlCDzV03IBfJs7c) | 4:09 |
 
-Snapshot ID: `AAAAAHsbaFn8+yib/kZe1f1GRNNw+i2L`
+Snapshot ID: `AAAAAJW6FB8u7c8Xnt7zHP40JutGhoS+`

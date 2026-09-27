@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 96033,
+  "num_followers": 96052,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAB99jtTq0yEu9tGa9hKjIkk",
+  "snapshot_id": "arW5gAAAAAD09NOdPt4lu8P4JcMZv9YF",
   "tracks": [
     {
       "added_at": null,
@@ -35,6 +35,26 @@
       "duration_ms": 220941,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WET DREAMS",
+        "url": "https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 190875,
+      "name": "DOLCE VITA",
+      "url": "https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7"
     },
     {
       "added_at": null,
@@ -275,6 +295,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 204414,
+      "name": "La Ni\u00f1a de la Escuela",
+      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resistir\u00e9",
         "url": "https://open.spotify.com/album/5xl9aTPziZye5Jy5fGsyPh"
       },
@@ -363,30 +407,6 @@
       "duration_ms": 252443,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/0XFQb7pNfT90A7fRxjMWgz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 204414,
-      "name": "La Ni\u00f1a de la Escuela",
-      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
     },
     {
       "added_at": null,
@@ -595,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "En El Amor Hay Que Perdonar",
+      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Ella (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj"
       },
@@ -615,22 +651,6 @@
       "duration_ms": 181253,
       "name": "Por Ella",
       "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "En El Amor Hay Que Perdonar",
-      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
     },
     {
       "added_at": null,
@@ -1099,26 +1119,6 @@
       "duration_ms": 246506,
       "name": "Amigas Cheetahs",
       "url": "https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOLCE VITA",
-        "url": "https://open.spotify.com/album/5F5UJNfmsy94fLpG6i3xL2"
-      },
-      "artists": [
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 190875,
-      "name": "DOLCE VITA",
-      "url": "https://open.spotify.com/track/7lM4pBtnoHScsZaxTSWCvS"
     }
   ],
   "unique_name": "This Is Belinda",

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 103019,
+  "num_followers": 103038,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFSB+fJ+hUilhBiWM/ozqFdJnvwY",
+  "snapshot_id": "AAAAABshgCBVim/uaDTNYnhVq9Uxc5JP",
   "tracks": [
     {
       "added_at": "2026-02-20 05:00:30",
@@ -431,22 +431,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+        "name": "EXTRA EXTRA!",
+        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
         }
       ],
-      "duration_ms": 183766,
-      "name": "$payforhaiti (feat. Mach-Hommy)",
-      "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
+      "duration_ms": 145173,
+      "name": "MUST BE",
+      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -467,18 +463,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "EXTRA EXTRA!",
-        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
       "artists": [
         {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
         }
       ],
-      "duration_ms": 145173,
-      "name": "MUST BE",
-      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
+      "duration_ms": 183766,
+      "name": "$payforhaiti (feat. Mach-Hommy)",
+      "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "2 Gouden",
-        "url": "https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og"
-      },
-      "artists": [
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 229489,
-      "name": "2 Gouden",
-      "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Akouna",
         "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 230679,
       "name": "Akouna",
       "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "2 Gouden",
+        "url": "https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og"
+      },
+      "artists": [
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+        }
+      ],
+      "duration_ms": 229489,
+      "name": "2 Gouden",
+      "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Cashapp Cashapp Zelle",
-        "url": "https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo"
-      },
-      "artists": [
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 61368,
-      "name": "Cashapp Cashapp Zelle",
-      "url": "https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 286840,
       "name": "Flanm",
       "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Cashapp Cashapp Zelle",
+        "url": "https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo"
+      },
+      "artists": [
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+        }
+      ],
+      "duration_ms": 61368,
+      "name": "Cashapp Cashapp Zelle",
+      "url": "https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Lakou",
-        "url": "https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3"
-      },
-      "artists": [
-        {
-          "name": "Tafa Mi-Soleil",
-          "url": "https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Lakou",
-      "url": "https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 291120,
       "name": "A.k.i.ko.",
       "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Lakou",
+        "url": "https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3"
+      },
+      "artists": [
+        {
+          "name": "Tafa Mi-Soleil",
+          "url": "https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Lakou",
+      "url": "https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "PA KRIYE",
-        "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
-      },
-      "artists": [
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
-        },
-        {
-          "name": "Anie Alerte",
-          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "PA KRIYE",
-      "url": "https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "PA KRIYE",
+        "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
+      },
+      "artists": [
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "PA KRIYE",
+      "url": "https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Sol\u00e8y Midi",
-        "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
-      },
-      "artists": [
-        {
-          "name": "Talie",
-          "url": "https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6"
-        },
-        {
-          "name": "David Chavannes",
-          "url": "https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc"
-        }
-      ],
-      "duration_ms": 229205,
-      "name": "Sol\u00e8y Midi",
-      "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
       },
@@ -1839,6 +1819,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Sol\u00e8y Midi",
+        "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
+      },
+      "artists": [
+        {
+          "name": "Talie",
+          "url": "https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6"
+        },
+        {
+          "name": "David Chavannes",
+          "url": "https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc"
+        }
+      ],
+      "duration_ms": 229205,
+      "name": "Sol\u00e8y Midi",
+      "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Fete Nap Fete Ti Babas (Live)",
         "url": "https://open.spotify.com/album/4NxnJQPNAXRHl72HFIyNml"
       },
@@ -1875,22 +1875,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "DILEMMA",
-        "url": "https://open.spotify.com/album/7asSYtN8VUWMJiBK6tCw4H"
+        "name": "Stupid Love",
+        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
       },
       "artists": [
         {
-          "name": "Dave Casseus",
-          "url": "https://open.spotify.com/artist/6M0ExvsS8reHN5VKnqy1Eu"
+          "name": "J. Sevad",
+          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
         },
         {
-          "name": "Phanuel",
-          "url": "https://open.spotify.com/artist/25wDxLvG5zX7B00AR6mhA4"
+          "name": "BlecksFlex",
+          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
         }
       ],
-      "duration_ms": 148650,
-      "name": "DILEMMA",
-      "url": "https://open.spotify.com/track/66hJl21lRutbfOCcELoS1R"
+      "duration_ms": 164607,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
     }
   ],
   "unique_name": "Haitian Heat",

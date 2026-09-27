@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 
 > This is kwn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,096 likes - 28 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,107 likes - 28 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 | 22 | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI) | 2:57 |
 | 23 | [stand on it](https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 2:33 |
 | 24 | [wn way or another](https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [wn way or another](https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q) | 2:10 |
-| 25 | [venus pool \(interlude\)](https://open.spotify.com/track/56si04F0ZocY2zkwBl7LaA) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 1:51 |
+| 25 | [making love](https://open.spotify.com/track/5RWaq2ntMWdC2j4yM30j58) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:35 |
 | 26 | [nobody](https://open.spotify.com/track/070WkX6MLNbqqgH852HqLr) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [nobody](https://open.spotify.com/album/6XhybEBDYgmwltGrdsmCPo) | 3:04 |
-| 27 | [making love](https://open.spotify.com/track/5RWaq2ntMWdC2j4yM30j58) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:35 |
+| 27 | [venus pool \(interlude\)](https://open.spotify.com/track/56si04F0ZocY2zkwBl7LaA) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 1:51 |
 | 28 | [went wrong](https://open.spotify.com/track/51U1KMRcqBnpt4pUJyU22b) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:13 |
 
-Snapshot ID: `arRoAAAAAABDMNz0qgq6lucyhmprhcIH`
+Snapshot ID: `arW5gAAAAADi244o0AfVT1m/SSdI8LM4`

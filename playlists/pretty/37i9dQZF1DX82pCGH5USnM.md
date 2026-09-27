@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,525,479 likes - 230 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,525,766 likes - 230 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 229 | [WATER](https://open.spotify.com/track/2L7lQAOBGtelJgVg3cREJN) | [Deep Sea Society](https://open.spotify.com/artist/3zpqPg4vtWY6cauB9Zhf0t) | [WATER](https://open.spotify.com/album/50jFolmiMtcYDpvduHSGni) | 2:37 |
 | 230 | [Fast Phenomena](https://open.spotify.com/track/0e5TeLV9V1bDBIvgspIhse) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Fast Phenomena](https://open.spotify.com/album/6DX3zXZZZPBiCokCRMBXmr) | 2:59 |
 
-Snapshot ID: `AAAAALavZhBnBXL4HmKF+1LNKa7QS1sr`
+Snapshot ID: `AAAAADAaggzf6jVhKpvYX+KdUP6o+5gh`

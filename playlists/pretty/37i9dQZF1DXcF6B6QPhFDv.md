@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. it's alive with Blondshell.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,160,207 likes - 85 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,159,617 likes - 85 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 84 | [Joyce Kilmer Service Area](https://open.spotify.com/track/287HIlovgFFLZJjDkU05R6) | [wakelee](https://open.spotify.com/artist/3AWGvay19E8Q9CIqy7zii6) | [Joyce Kilmer Service Area](https://open.spotify.com/album/4rlyJnhWxi8qxlX3OXskcM) | 3:03 |
 | 85 | [MT](https://open.spotify.com/track/4cB1mAoihjW0pp330WKPjE) | [Empty Shell Casing](https://open.spotify.com/artist/2k180xyVia1kQlgNbmQuwK) | [MT](https://open.spotify.com/album/1lZ6YzpLsS7X5lr37HcJu3) | 3:02 |
 
-Snapshot ID: `AAAAAPEJb9ZBK3l9Hu77JBe3hBXkvV2H`
+Snapshot ID: `AAAAAMqpivdGi+YDOBbtYVm5PuM+ZqwX`

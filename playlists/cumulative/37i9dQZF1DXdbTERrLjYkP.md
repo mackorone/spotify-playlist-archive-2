@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Jessie Mazin
 
-1,151 songs - 2 day 14 hr 4 min
+1,152 songs - 2 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-01-14 | 2022-09-10 |
 | [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 | 2022-02-04 | 2022-07-23 |
 | [I Hate The Beatles](https://open.spotify.com/track/6fPC2bl2J0s2WG4adY2HaJ) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [I Hate The Beatles](https://open.spotify.com/album/7u506EjfG4xdfO9EdzrqDQ) | 3:05 | 2022-03-04 | 2022-03-12 |
+| [I HATE YOU DON'T LEAVE ME !](https://open.spotify.com/track/0sU6ZDMp8HZaW4StcO61pN) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [I HATE YOU DON'T LEAVE ME !](https://open.spotify.com/album/3269Ki6QvWgGIMotSx45ig) | 3:50 | 2026-09-27 |  |
 | [i heart the internet](https://open.spotify.com/track/5NzIkBzG0MFVjpzSsgUhY0) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [i heart the internet](https://open.spotify.com/album/3Bg7PLOLItNpz7OajqkVDk) | 3:15 | 2023-04-28 | 2023-06-17 |
 | [I just don't think I'll make it over you.](https://open.spotify.com/track/3GrePGRplvl9v5EFZs2xzj) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [I just don't think I'll make it over you.](https://open.spotify.com/album/0WujnDrd2N0FksTXRW0yDl) | 3:43 | 2024-11-15 | 2025-04-19 |
 | [I Just Killed a Spider](https://open.spotify.com/track/2v08UMPVyUwg5NmCNEQpMY) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I Just Killed a Spider](https://open.spotify.com/album/6lAXiMRbz2Qqa2gRax6y39) | 2:29 | 2024-04-12 | 2024-09-07 |
@@ -744,7 +745,7 @@
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-07-23 |
 | [Not Everything Ends](https://open.spotify.com/track/16X7jn4USwVk0dVobvFN5R) | [Lilly Bedard](https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn) | [Not Everything Ends](https://open.spotify.com/album/3RUxz2erYYect3c0ogPRxC) | 3:39 | 2025-02-07 | 2025-06-07 |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2022-01-14 | 2022-03-05 |
-| [Not Going Back](https://open.spotify.com/track/6Th9lSm2XopRstK6kNlfSa) | [Muireann Bradley](https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl) | [Not Going Back](https://open.spotify.com/album/4CbuucoAgrfGommZyADFtY) | 3:26 | 2026-07-06 |  |
+| [Not Going Back](https://open.spotify.com/track/6Th9lSm2XopRstK6kNlfSa) | [Muireann Bradley](https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl) | [Not Going Back](https://open.spotify.com/album/4CbuucoAgrfGommZyADFtY) | 3:26 | 2026-07-06 | 2026-09-27 |
 | [Not My Friends](https://open.spotify.com/track/6nsZO7sBNyWgREWxS3uOEy) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Not My Friends](https://open.spotify.com/album/6xYLt9hhDC5Kn4R4H4FPdK) | 3:28 | 2026-03-20 | 2026-07-25 |
 | [Nothing Lasts Forever](https://open.spotify.com/track/6YUZYGMzBw8VXmXmeOcxv2) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Nothing Lasts Forever](https://open.spotify.com/album/5ATBHthIlq9ouTm6NlPsMG) | 3:56 | 2026-05-22 |  |
 | [NOTHING!](https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [NOTHING!](https://open.spotify.com/album/1mqeIkHYdFh6N8CmCG9ijH) | 2:19 | 2023-08-18 | 2023-11-11 |

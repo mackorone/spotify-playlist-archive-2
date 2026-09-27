@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Klisman
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,438 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,387 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [QUEM É BANDIDO NÃO FALA!](https://open.spotify.com/track/1HR4dYh0FSrkkBOIkW8Twj) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [ProdbyFp](https://open.spotify.com/artist/3ZvLD1r68ljiKAmPP399fK) | [QUEM É BANDIDO NÃO FALA!](https://open.spotify.com/album/2Qwhae5mBLsaPJ63W6Jbha) | 2:21 |
 | 75 | [VILA MENCK, OSASCO](https://open.spotify.com/track/3IZxVLDlrt6Dj3VLxtKVtF) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [VILA MENCK, OSASCO](https://open.spotify.com/album/7xjTzzT6LBHYpdy4VmnAav) | 2:08 |
 
-Snapshot ID: `AAAAABNgn93aDphvpf1iazhRRevTlWvg`
+Snapshot ID: `AAAAAG98ud336mq/bfWyD1YkSLfACvfO`

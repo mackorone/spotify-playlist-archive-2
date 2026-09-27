@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Minimal Days\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,240 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,257 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 49 | [Gina G.](https://open.spotify.com/track/3zRX2m3wwGbaRGayqB5lcA) | [Uncle Bob's Funky Seven Club](https://open.spotify.com/artist/0UBLpatgPJe2v1theY0ftp) | [Gina G.](https://open.spotify.com/album/10xv43vh5q2BdnXFgWeHvi) | 3:01 |
 | 50 | [PWEDE PA BA?](https://open.spotify.com/track/6vwucCuEg3nAEh4Y842B9h) | [Jemay Santiago](https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq) | [PWEDE PA BA?](https://open.spotify.com/album/3vWoEer55gRSwALl3OP6vB) | 2:50 |
 
-Snapshot ID: `AAAAAE6xAR7XhGoxG+71gFBM4O5ZPT7X`
+Snapshot ID: `AAAAAKSWAycRvL/+6HYwdJOK07ThD0Sk`

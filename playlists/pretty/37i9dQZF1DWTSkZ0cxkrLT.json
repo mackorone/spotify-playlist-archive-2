@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 426617,
+  "num_followers": 426595,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFEAHnt61ccIKzv5qgyd1wzmXZbO",
+  "snapshot_id": "AAAAAJIv0yS6JAHjvKb1OaLi7/w40qF2",
   "tracks": [
     {
       "added_at": "2026-09-15 13:25:15",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-09-15 13:25:15",
       "album": {
-        "name": "Bailar Contigo",
-        "url": "https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "Bailar Contigo",
-      "url": "https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14"
-    },
-    {
-      "added_at": "2026-09-15 13:25:15",
-      "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 194026,
       "name": "Amanece en la Ruta",
       "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
+    },
+    {
+      "added_at": "2026-09-15 13:25:15",
+      "album": {
+        "name": "Bailar Contigo",
+        "url": "https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "Bailar Contigo",
+      "url": "https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14"
     },
     {
       "added_at": "2026-09-15 13:25:15",
@@ -859,22 +859,18 @@
     {
       "added_at": "2026-09-15 13:25:15",
       "album": {
-        "name": "Mar",
-        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
+        "name": "Besos en la Espalda",
+        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
         }
       ],
-      "duration_ms": 238253,
-      "name": "Mar",
-      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+      "duration_ms": 210266,
+      "name": "Tardes de Melancol\u00eda",
+      "url": "https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv"
     },
     {
       "added_at": "2026-09-15 13:25:15",
@@ -899,18 +895,22 @@
     {
       "added_at": "2026-09-15 13:25:15",
       "album": {
-        "name": "Besos en la Espalda",
-        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
+        "name": "Mar",
+        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Tardes de Melancol\u00eda",
-      "url": "https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv"
+      "duration_ms": 238253,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
     },
     {
       "added_at": "2026-09-15 13:25:15",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-09-15 13:25:15",
       "album": {
+        "name": "[PAULA] Compilaci\u00f3n VOL 1.",
+        "url": "https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 66666,
+      "name": "Lo que elegiste.",
+      "url": "https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf"
+    },
+    {
+      "added_at": "2026-09-15 13:25:15",
+      "album": {
         "name": "No me Arrepiento de este Amor",
         "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2026-09-15 13:25:15",
       "album": {
-        "name": "[PAULA] Compilaci\u00f3n VOL 1.",
-        "url": "https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 66666,
-      "name": "Lo que elegiste.",
-      "url": "https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf"
-    },
-    {
-      "added_at": "2026-09-15 13:25:15",
-      "album": {
         "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
         "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
       },
@@ -1251,22 +1251,6 @@
       "duration_ms": 178630,
       "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
       "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
-    },
-    {
-      "added_at": "2026-09-15 13:25:15",
-      "album": {
-        "name": "me hace bien amar(te)",
-        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 223142,
-      "name": "me hace bien amar(te)",
-      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
     },
     {
       "added_at": "2026-09-15 13:25:15",
@@ -1303,6 +1287,22 @@
       "duration_ms": 165625,
       "name": "Quiero - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f"
+    },
+    {
+      "added_at": "2026-09-15 13:25:15",
+      "album": {
+        "name": "me hace bien amar(te)",
+        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 223142,
+      "name": "me hace bien amar(te)",
+      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
     },
     {
       "added_at": "2026-09-15 13:25:15",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-09-15 13:25:15",
       "album": {
-        "name": "Encuentro",
-        "url": "https://open.spotify.com/album/11qtzZlNp000UEV7nzN4lI"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 177121,
-      "name": "Encuentro",
-      "url": "https://open.spotify.com/track/5z3PIZ6AK1CT8md0luxRaB"
-    },
-    {
-      "added_at": "2026-09-15 13:25:15",
-      "album": {
         "name": "Decir que s\u00ed",
         "url": "https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 138065,
       "name": "Dije que s\u00ed",
       "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
+    },
+    {
+      "added_at": "2026-09-15 13:25:15",
+      "album": {
+        "name": "Encuentro",
+        "url": "https://open.spotify.com/album/11qtzZlNp000UEV7nzN4lI"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 177121,
+      "name": "Encuentro",
+      "url": "https://open.spotify.com/track/5z3PIZ6AK1CT8md0luxRaB"
     },
     {
       "added_at": "2026-09-15 13:25:15",

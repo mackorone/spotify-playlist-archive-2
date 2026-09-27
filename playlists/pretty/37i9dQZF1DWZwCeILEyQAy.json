@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: PLUTO",
-  "num_followers": 452276,
+  "num_followers": 452240,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHC/jLD0ty0pXKEozszzZ80jhMP9",
+  "snapshot_id": "AAAAAHfqr5pQ9iRHv3hOmmfB2f+CSRNk",
   "tracks": [
     {
       "added_at": "2025-06-20 04:00:58",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "I AIN\u2019T GOING",
+      "url": "https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
         "name": "TAKE 25",
         "url": "https://open.spotify.com/album/0iOw2e2c1oygrCL2sKVCsp"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 161783,
       "name": "GOOCHIE MAYNE",
       "url": "https://open.spotify.com/track/0kF9DF1tV4Qcpdg7ysoY76"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "I AIN\u2019T GOING",
-      "url": "https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf"
     },
     {
       "added_at": "2025-06-20 04:00:58",

@@ -1,12 +1,12 @@
 {
   "description": "This is Grateful Dead. The essential tracks, all in one playlist.",
-  "num_followers": 182973,
+  "num_followers": 182988,
   "original_name": "This Is Grateful Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAAGiNeWfb1aqzRK8ouAMAi7",
+  "snapshot_id": "arW5gAAAAACkJtPVJvbdsiC3za+Q15wS",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cornell 5/8/77 (Live)",
-        "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 370306,
-      "name": "Deal - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
-      "url": "https://open.spotify.com/track/0pPvu1AGxIj7pvESvSg4wi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grateful Dead (Skull & Roses) [Live]",
         "url": "https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 340306,
       "name": "Bertha - Live at Fillmore East, New York, NY, April 27, 1971",
       "url": "https://open.spotify.com/track/3ZYSrBWQXYgTe4tyKKIZ0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Europe '72 (Live; 2001 Remaster)",
+        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 303440,
+      "name": "I Know You Rider - Live in Paris, 1972; 2001 Remaster",
+      "url": "https://open.spotify.com/track/2M7u9Anw0WbTLsCIHxRoV3"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Europe '72 (Live; 2001 Remaster)",
-        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
+        "name": "Cornell 5/8/77 (Live)",
+        "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 303440,
-      "name": "I Know You Rider - Live in Paris, 1972; 2001 Remaster",
-      "url": "https://open.spotify.com/track/2M7u9Anw0WbTLsCIHxRoV3"
+      "duration_ms": 370306,
+      "name": "Deal - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
+      "url": "https://open.spotify.com/track/0pPvu1AGxIj7pvESvSg4wi"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go to Heaven",
-        "url": "https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 216569,
-      "name": "Alabama Getaway - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5WVF1Ftv5oxspRac9km99R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In the Dark",
         "url": "https://open.spotify.com/album/1KytsXm6VQcyX5B5m8HBNa"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Go to Heaven",
+        "url": "https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 216569,
+      "name": "Alabama Getaway - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5WVF1Ftv5oxspRac9km99R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues for Allah (2013 Remaster)",
         "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 441035,
       "name": "Help on the Way / Slipknot! - 2013 Remaster",
       "url": "https://open.spotify.com/track/5mWhyozge9IIMdfIboHgGI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From the Mars Hotel",
-        "url": "https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 205022,
-      "name": "Loose Lucy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2zRiNcLBVh0K6A1VL3zeg6"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From the Mars Hotel",
+        "url": "https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 205022,
+      "name": "Loose Lucy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2zRiNcLBVh0K6A1VL3zeg6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues for Allah (2013 Remaster)",
         "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
       },
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake of the Flood (2013 Remaster)",
-        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
+        "name": "Merriweather 6/30/85 (Live)",
+        "url": "https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 344760,
-      "name": "Mississippi Half-Step Uptown Toodeloo - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC"
+      "duration_ms": 277933,
+      "name": "Keep On Growing - Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985",
+      "url": "https://open.spotify.com/track/6gVXbdpPlzU6VMcH3Wbi7a"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Grateful Dead",
-        "url": "https://open.spotify.com/album/2Qkp6ALKO8kcONs4zq1t2D"
+        "name": "Wake of the Flood (2013 Remaster)",
+        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 132649,
-      "name": "The Golden Road - 2013 Remaster",
-      "url": "https://open.spotify.com/track/22W574PUUECix1yNCWalgx"
+      "duration_ms": 344760,
+      "name": "Mississippi Half-Step Uptown Toodeloo - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC"
     }
   ],
   "unique_name": "This Is Grateful Dead",

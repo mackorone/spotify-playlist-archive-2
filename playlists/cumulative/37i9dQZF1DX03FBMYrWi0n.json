@@ -4158,7 +4158,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 148160,
       "name": "Fox",
       "url": "https://open.spotify.com/track/3ACdS3R5SaiZzRg5FWGMBh"
@@ -4248,7 +4248,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 124315,
       "name": "FYORE",
       "url": "https://open.spotify.com/track/1R4KhmCfFGtXY6BvnSL1W4"
@@ -4399,6 +4399,24 @@
     },
     {
       "album": {
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/1XjiogaRYttwHOaA0Y6QEd"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Cangiano",
+          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108136,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/6g637SZdJY7UM0kqFSu94k"
+    },
+    {
+      "album": {
         "name": "Gothique",
         "url": "https://open.spotify.com/album/1MAJGbd0rm82LCGydaPTiN"
       },
@@ -4468,6 +4486,24 @@
       "duration_ms": 288346,
       "name": "Habitat",
       "url": "https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX"
+    },
+    {
+      "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/1pBrdXujAE8sqU6R0JQnZ5"
+      },
+      "artists": [
+        {
+          "name": "Les Shirley",
+          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158986,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/3RY2ZZ9CYeWh7spVMEABtZ"
     },
     {
       "album": {

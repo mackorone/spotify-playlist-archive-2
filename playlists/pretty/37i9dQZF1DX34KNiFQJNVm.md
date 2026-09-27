@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Péricles, Emicida,  Madonna,  Adriana Calcanhotto,  Flora Matos e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,310,622 likes - 94 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,310,498 likes - 94 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 14 | [CORAÇÃO MALUCO](https://open.spotify.com/track/6dBDhzT5nrHVRQO7arhbUx) | [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [CORAÇÃO MALUCO](https://open.spotify.com/album/2NyHAm70HZj8zhzoGj2kSV) | 3:35 |
 | 15 | [Não Sei Porque Eu Acreditei \(feat\. MC Meno K, Gabb MC, Mc Fidelis, Mc Dena, Mc DR, BMC & DJ Guh Mix\)](https://open.spotify.com/track/63444MDSLvxQ312uXDvknP) | [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Alan JR](https://open.spotify.com/artist/4voeR0cGWvsKmL0CZyonAj), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Mc Fidelis](https://open.spotify.com/artist/35u49FPLiVvk4TmpPLbJGu), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615), [Mc DR](https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG), [BMC](https://open.spotify.com/artist/2iI9HpwnWIoCbisbAGFFil), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [Não Sei Porque Eu Acreditei \(feat\. MC Meno K, Gabb MC, Mc Fidelis, Mc Dena, Mc DR, BMC & DJ Guh Mix\)](https://open.spotify.com/album/0hl7R8oguWUiXf2ZvhFE5S) | 10:40 |
 | 16 | [EASY](https://open.spotify.com/track/4ctBiGiZn6HThSDWOyKKZn) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [EASY](https://open.spotify.com/album/38RVPZHlORwXXN1avF8gpP) | 2:17 |
-| 17 | [Pássaro de Fogo](https://open.spotify.com/track/0FhZog1xeezGrOOR1PbgfN) | [Coruja](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Pássaro de Fogo](https://open.spotify.com/album/4EtS83ycRsmuOLGK46mtUn) | 2:42 |
+| 17 | [Pássaro de Fogo](https://open.spotify.com/track/0FhZog1xeezGrOOR1PbgfN) | [Coruja](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Pássaro de Fogo](https://open.spotify.com/album/4EtS83ycRsmuOLGK46mtUn) | 2:42 |
 | 18 | [FIC\(ALI\)GADO](https://open.spotify.com/track/1RZM7EzxakdVNjC7RdC7TX) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN) | [FIC\(ALI\)GADO](https://open.spotify.com/album/1GSViJcM3AkwO3K5N7ghoC) | 4:44 |
 | 19 | [Sexto Sentido Quebrado \- Ao Vivo](https://open.spotify.com/track/3e0LTJ8i2jmMaJfg6zIHXQ) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Intensidade Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/1XeS2PkgmdTFxf0S2UBAvY) | 3:03 |
 | 20 | [Eu Não Sou De Ferro \- Ao Vivo](https://open.spotify.com/track/2PYqCGMYHkmLPVpr25H7Uf) | [Fabinho](https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN) | [Do Chão Ao Céu \(Ao Vivo\)](https://open.spotify.com/album/6pqI6IbMGw1849Sg2F6xaj) | 3:19 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 93 | [Melhor Que Ontem](https://open.spotify.com/track/0R4cRDAgSFs9EqMfFd5mnO) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [ETP](https://open.spotify.com/artist/6u99XKmpanFP6xFvmpycck) | [Melhor Que Ontem](https://open.spotify.com/album/3JwrL7t52sriEYivu1mmmF) | 2:08 |
 | 94 | [Sei Que Você Quer](https://open.spotify.com/track/3CWm3UkIrM8pnvBHR1juj3) | [Bruno Capinan](https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV), [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Beijo de Bicho \- Act 2](https://open.spotify.com/album/1q5LR2JFg6DHHJ8jglhYdw) | 3:23 |
 
-Snapshot ID: `AAAAANE2eyj3EbJQG3iZ5FrMTFCwTiuF`
+Snapshot ID: `AAAAAPnlhVkJMQqxAuKMZeVKe69c6AD9`

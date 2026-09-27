@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Manon Lisa au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,364,350 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,364,174 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 | 50 | [Mélo Décalé](https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo Décalé](https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc) | 2:36 |
 
-Snapshot ID: `AAAAAKwvtPVUKgJ1+VC+vquSInfe+xdg`
+Snapshot ID: `AAAAAOWG5ipaI5oMe5F7yK9517KuraIO`

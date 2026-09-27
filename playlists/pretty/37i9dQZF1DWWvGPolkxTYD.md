@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,071 likes - 40 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,067 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 29 | [Laytaka](https://open.spotify.com/track/2H4qZ7sfSWZBbEVzlyGTCL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [À l'ombre des mots \(Avec la voix de Mahmoud Darwich\)](https://open.spotify.com/album/4gyFm0eNM9D9vi6A1gFgZR) | 6:07 |
 | 30 | [Imminent Journey](https://open.spotify.com/track/6fgXqK3T2JWc4K9K43zOe4) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT) | [Yara](https://open.spotify.com/album/23j6IQwXCryKrnxwnctIr1) | 1:21 |
 | 31 | [Oriental Pearls](https://open.spotify.com/track/4rj7twM1JiFJAHmAUPVB2N) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Arabian Lounge Club, Volume 1](https://open.spotify.com/album/1BlKY7n0H4GODaNqcm6jJN) | 4:19 |
-| 32 | [The Road to Sahara](https://open.spotify.com/track/3374nqNtSOSDlM9nQUCMyI) | [Kader Fahem](https://open.spotify.com/artist/6lnsLih5OIO8EALCg5vqoS), [Adnan Joubran](https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih) | [The Road to Sahara](https://open.spotify.com/album/0zf0KF6c7igAW53uEuUT5n) | 4:29 |
-| 33 | [Saraab](https://open.spotify.com/track/3h8o05iiD3UPk1XnVZEGAw) | [Simon Shaheen & Qantara](https://open.spotify.com/artist/5icxoRHqg9mlYQcplv43zX) | [Blue Flame](https://open.spotify.com/album/01cMpGepKd4bWFzJse5mIb) | 4:37 |
+| 32 | [Saraab](https://open.spotify.com/track/3h8o05iiD3UPk1XnVZEGAw) | [Simon Shaheen & Qantara](https://open.spotify.com/artist/5icxoRHqg9mlYQcplv43zX) | [Blue Flame](https://open.spotify.com/album/01cMpGepKd4bWFzJse5mIb) | 4:37 |
+| 33 | [The Road to Sahara](https://open.spotify.com/track/3374nqNtSOSDlM9nQUCMyI) | [Kader Fahem](https://open.spotify.com/artist/6lnsLih5OIO8EALCg5vqoS), [Adnan Joubran](https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih) | [The Road to Sahara](https://open.spotify.com/album/0zf0KF6c7igAW53uEuUT5n) | 4:29 |
 | 34 | [Tents \(feat\. Rami Khalife, Peter Herbert & Bachar Khalife\)](https://open.spotify.com/track/0XUoW4Vbq6YXUVlP3jDHZr) | [Marcel Khalife](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ), [Rami Khalife](https://open.spotify.com/artist/6EnXmpJo9WetzndYpNAm9k), [Peter Herbert](https://open.spotify.com/artist/3HLr5HkSrGDJ2nyZF7wtHE), [Bachar Khalifé](https://open.spotify.com/artist/3lC4htJrE2CcNRIspeUwyp) | [Caress](https://open.spotify.com/album/5Xs9817ihv263FH34HgRtX) | 3:50 |
 | 35 | [First Meeting](https://open.spotify.com/track/1OUvyFR4u1CrHlqDBUBQ9O) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 2:15 |
 | 36 | [Lamentations bipolaires](https://open.spotify.com/track/3j0obpF6E4yxU6fUXoQ0xu) | [Abderraouf Ouertani](https://open.spotify.com/artist/7fLHLIzQkhIOqrotQlR1rA), [Patrick Villanueva](https://open.spotify.com/artist/3NluZeUS7m52HzFmA4uojj) | [Duo Deux Rives](https://open.spotify.com/album/2VIiaWaN6unj1ORZ630O7N) | 5:35 |
 | 37 | [Hijaz](https://open.spotify.com/track/3oINCsaTDaEaKVpgr344vM) | [Mohai Eddine](https://open.spotify.com/artist/7xAZRH3XRgD0S4ku0X9Ng3) | [Authentic Instrumental Music By the Most Famous Arab Artists](https://open.spotify.com/album/7jtHS5TeiUrjJ6NpOkuP3w) | 5:06 |
 | 38 | [Meçhul](https://open.spotify.com/track/4btMC5zessMUb1G9JUTT6q) | [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY) | [Dünya, Vol\. 1 \(Gün Doğumu\)](https://open.spotify.com/album/2Qocr6xEdeOsTOFGzTdTw9) | 7:39 |
 | 39 | [Helvetica](https://open.spotify.com/track/48ZnykZzekPgVoh5VgNMIP) | [Basel Rajoub](https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp) | [The Queen of Turquoise](https://open.spotify.com/album/0grbcgG8W8C8yqHvIzn0dB) | 5:40 |
-| 40 | [Improvisation / Oum El Rouba](https://open.spotify.com/track/1vvSYFSKMRUQTv9jaM6IyO) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [To My Father](https://open.spotify.com/album/1iLYA1Er67QwAYFjs5SPkL) | 12:03 |
+| 40 | [Qanoun Improvisation](https://open.spotify.com/track/50JMemVAIno0plc9HqbFOu) | [Mohammed Antar and Oriental Secrets Ensemble](https://open.spotify.com/artist/2jwkIGB8WGIbWPfj5IC69H) | [Oriental Breeze](https://open.spotify.com/album/26kvGzUIQrtJI2kREW1bmc) | 2:02 |
 
-Snapshot ID: `AAAAAEZFgvg4Cry83FOWn1te4umD7h4j`
+Snapshot ID: `AAAAANYuOHbkQONlI7bVSzDNfQwsfoTm`

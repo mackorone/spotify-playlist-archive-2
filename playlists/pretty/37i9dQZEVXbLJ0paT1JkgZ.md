@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,161 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,160 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Cinco Días](https://open.spotify.com/track/3CMpYMvqXf5KaDl9U75PCC) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Intimo](https://open.spotify.com/album/178m9Tl0fyqf2sw1afblUI) | 3:00 |
 | 50 | [La Consentida](https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd) | [Silvia Infantas Y Los Condores](https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD) | [Chile Tipico Vol.3 Camino De Luna](https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS) | 2:07 |
 
-Snapshot ID: `MknvWAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mks+gAAAAAAAAAAAAAAAAAAAAAAAAGVu`

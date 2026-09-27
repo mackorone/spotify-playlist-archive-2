@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Holy Drill & Dells TMX
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,827 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,843 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 74 | [Cynical and Jaded](https://open.spotify.com/track/7JaJ2fuj8ThMybzb1JMvgW) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Cynical and Jaded](https://open.spotify.com/album/7CpD9aiaLR1LorEERMQ84c) | 3:36 |
 | 75 | [Paradise](https://open.spotify.com/track/7C4vjMINogbg9sheE6l9yP) | [Yoni](https://open.spotify.com/artist/3aWA2r7FGNXy0ZIPMxZhtD), [Josh P](https://open.spotify.com/artist/3f03K9zrGM5kfeNwj57OYJ) | [Paradise](https://open.spotify.com/album/6YVXd4xzTlIImOVOmHhciY) | 2:09 |
 
-Snapshot ID: `AAAAANYEJ0KOulPe6fk/SGicTWNzLjrU`
+Snapshot ID: `AAAAAJYpJ6IUESgW1Qwe5qeC9ypV2hUj`

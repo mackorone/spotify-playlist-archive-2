@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: Karol G, Judeline, rusowsky
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,997 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,985 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 | 49 | [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 |
 | 50 | [ISSA](https://open.spotify.com/track/7medoAnENNaeVAHQbGcOMK) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [ISSA](https://open.spotify.com/album/5SLGlw14A9KHD5CK6ZNcKQ) | 2:24 |
 
-Snapshot ID: `AAAAAGOMwScS8nHRNGFQB5KBK2xukRrR`
+Snapshot ID: `AAAAAA90l7vgRd+tg16o2ZHUJszqqthZ`

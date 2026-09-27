@@ -4,7 +4,7 @@
 
 > A  blend of J\-pop to soundtrack your perfect matcha moment.
 
-145 songs - 9 hr 45 min
+146 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Love seeker](https://open.spotify.com/track/6TAYmiYRaz2rina7qaohdm) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC \(Special Edition\)](https://open.spotify.com/album/6UclrVcaKUfojZfowJggOK) | 2:54 | 2025-10-26 | 2026-01-30 |
 | [Lovers](https://open.spotify.com/track/6IEqiEgTQn4FwE0seKXFZO) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [アンサーパレード](https://open.spotify.com/album/4kNlMuuyicf74Vn0b74Jys) | 4:10 | 2025-10-26 |  |
 | [lulu.](https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [lulu.](https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI) | 4:30 | 2026-01-11 |  |
-| [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 | 2026-05-08 |  |
+| [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 | 2026-05-08 | 2026-09-27 |
 | [MIRROR](https://open.spotify.com/track/1gkF9A2OoQyhCIPYcWCfOt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 3:00 | 2025-10-26 |  |
 | [more than words \(Miso Extra Remix\)](https://open.spotify.com/track/2X7iZOpUjl2z6TTykxLZue) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f ‌ ‌ \(S l i g h t l y ‌ ‌D e l u x e\)](https://open.spotify.com/album/59BUdEh0vo7BJTm6fqjYQ7) | 4:44 | 2025-10-26 | 2026-01-30 |
 | [My summer](https://open.spotify.com/track/5roWFxDJLbmljd43129Rbi) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [uku](https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5) | 4:02 | 2026-02-18 | 2026-04-04 |
@@ -134,6 +134,7 @@
 | [真夏の果実](https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [真夏の果実](https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1) | 4:39 | 2025-10-26 |  |
 | [真実](https://open.spotify.com/track/2iRYzIJmIrANFCcJpGsu1V) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [I believe](https://open.spotify.com/album/7tZXe8kZRmMhG8G9FAlt1X) | 4:26 | 2025-10-29 | 2025-11-15 |
 | [睡る君](https://open.spotify.com/track/44IRqjfSa15d8E6URV3WO0) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [睡る君](https://open.spotify.com/album/2z9WuGKhNHOqhi1SH0dnZD) | 4:08 | 2026-05-08 |  |
+| [瞳をとじて](https://open.spotify.com/track/0JAQpusQK6R7w07s0UgcU3) | [Ken Hirai](https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc) | [SENTIMENTALovers](https://open.spotify.com/album/12H8S3cARLfYIQ3dSNKIUA) | 5:43 | 2026-08-24 |  |
 | [祝祭のうた](https://open.spotify.com/track/6fkPFcktjMGeGhQDKF8ABE) | [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4), [松田歩（離婚伝説）](https://open.spotify.com/artist/2MabopxipxElTyWLGbwQkG) | [Scarlet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33wEN4Nt3ANVVNFaVSrXpd) | 4:20 | 2025-11-20 | 2026-01-30 |
 | [秒針を噛む](https://open.spotify.com/track/4HgsPAX3MmMgIT60hJ4W4U) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 4:20 | 2025-10-26 |  |
 | [空](https://open.spotify.com/track/298ROhlpzNNOujR3q9XkP0) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/1ukg4OCTuWIJpBsbACk7Kp) | 3:39 | 2025-10-26 | 2025-12-04 |

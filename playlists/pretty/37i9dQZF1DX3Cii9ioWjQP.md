@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Cho Mingyu\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,306 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,314 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 49 | [WHITE \(Feat\. Chan, jeebanoff, sannie\)](https://open.spotify.com/track/5sOlHrTu1dI5EhKfRNki9a) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV), [sannie](https://open.spotify.com/artist/7DzAtAzBPwXAbnwVWoo6sb) | [WHITE](https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK) | 4:25 |
 | 50 | [Embrace Your Emotions](https://open.spotify.com/track/1mdXIvu4djVvYpH0PF9X7W) | [A.Rion](https://open.spotify.com/artist/0VHEXCiwvN64fSXIOhpdqS) | [Embrace Your Emotions](https://open.spotify.com/album/387AhSf2J6RFAz9lOPAnaG) | 3:06 |
 
-Snapshot ID: `AAAAADLySv8rrp10AWsgG7VT7QBMYjhM`
+Snapshot ID: `AAAAANeHEtlWN5091+zTXE1I+9QiewPE`

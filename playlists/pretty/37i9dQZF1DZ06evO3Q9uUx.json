@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16432,
+  "num_followers": 16433,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAACaFDc2EVKH7FVKhSrXVkRC",
+  "snapshot_id": "arW5gAAAAADjewpuJm24OLe6QtuQp113",
   "tracks": [
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 149497,
+      "name": "COVER GIRL",
+      "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIANCA (Deluxe)",
         "url": "https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 106153,
       "name": "FREE MASON",
       "url": "https://open.spotify.com/track/0S4KuaDBFTA4v1R9jyWK6W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 149497,
-      "name": "COVER GIRL",
-      "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
     },
     {
       "added_at": null,

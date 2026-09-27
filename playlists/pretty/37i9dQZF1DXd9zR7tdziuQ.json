@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 966848,
+  "num_followers": 966880,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANGVEsrrmaQTKZ9XC/RayiaYcHew",
+  "snapshot_id": "AAAAAD1Ld5t6H19d8jmtcdsZ7bMTYMc2",
   "tracks": [
     {
       "added_at": "2026-03-17 11:56:41",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "The Village Sessions",
-        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Slow Dancing in a Burning Room - Acoustic",
-      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Fix You (Live)",
         "url": "https://open.spotify.com/album/6VnppEx0PoQpbnfTOutyaQ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 257650,
       "name": "Fix You - Live",
       "url": "https://open.spotify.com/track/0Hbn9DrKJiXgoQdVSwBn7B"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "The Village Sessions",
+        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Slow Dancing in a Burning Room - Acoustic",
+      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
-      },
-      "artists": [
-        {
-          "name": "Reggii",
-          "url": "https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP"
-        }
-      ],
-      "duration_ms": 174837,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Perfect Strangers (Acoustic)",
         "url": "https://open.spotify.com/album/2rJ9hhlOmZZvQfXVGMrmUK"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 191206,
       "name": "Perfect Strangers - Acoustic",
       "url": "https://open.spotify.com/track/5AFMjlqAA0skXGqZHGZDxt"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
+      },
+      "artists": [
+        {
+          "name": "Reggii",
+          "url": "https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP"
+        }
+      ],
+      "duration_ms": 174837,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1971,38 +1971,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Lift Your Spirit",
-        "url": "https://open.spotify.com/album/1ImxhQBpfEQeM7bNh61Aqg"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Wake Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/3Jc0ABqhf9yMLn8bbAdmKX"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "Vault Playlist Vol. 1",
-        "url": "https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 259569,
-      "name": "No One - Acoustic",
-      "url": "https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj"
       },
@@ -2019,18 +1987,18 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "IDGAF (Remixes II)",
-        "url": "https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq"
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/1ImxhQBpfEQeM7bNh61Aqg"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 217785,
-      "name": "IDGAF - Acoustic",
-      "url": "https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc"
+      "duration_ms": 225333,
+      "name": "Wake Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/3Jc0ABqhf9yMLn8bbAdmKX"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2051,22 +2019,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Sweet Child o\u2019 Mine",
-        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
-      },
-      "artists": [
-        {
-          "name": "Taken By Trees",
-          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
-        }
-      ],
-      "duration_ms": 302880,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Blood & Rust",
         "url": "https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR"
       },
@@ -2079,6 +2031,54 @@
       "duration_ms": 239133,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/0aLBrgdmfl1DADg3ZO6y0N"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Vault Playlist Vol. 1",
+        "url": "https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 259569,
+      "name": "No One - Acoustic",
+      "url": "https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "IDGAF (Remixes II)",
+        "url": "https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217785,
+      "name": "IDGAF - Acoustic",
+      "url": "https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Sweet Child o\u2019 Mine",
+        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
+      },
+      "artists": [
+        {
+          "name": "Taken By Trees",
+          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+        }
+      ],
+      "duration_ms": 302880,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
+        "name": "All the Little Lights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 266626,
+      "name": "Let Her Go - Acoustic",
+      "url": "https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
         "name": "Send Me on My Way (Acoustic)",
         "url": "https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v"
       },
@@ -2127,6 +2143,22 @@
       "duration_ms": 187812,
       "name": "Send Me on My Way (Acoustic)",
       "url": "https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/2bW3haSRmwMkq1UBXArTuX"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/3P5PjBDgbYzumxnbuahZqn"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2183,22 +2215,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Dreams (Piano Version)",
-        "url": "https://open.spotify.com/album/1oBjEkE3FjyD74adBZsUTI"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 274992,
-      "name": "Dreams - Piano Version",
-      "url": "https://open.spotify.com/track/1HrVc40jQbDRWIB9KreDti"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
       },
@@ -2211,6 +2227,22 @@
       "duration_ms": 194129,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Dreams (Piano Version)",
+        "url": "https://open.spotify.com/album/1oBjEkE3FjyD74adBZsUTI"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 274992,
+      "name": "Dreams - Piano Version",
+      "url": "https://open.spotify.com/track/1HrVc40jQbDRWIB9KreDti"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2259,22 +2291,6 @@
       "duration_ms": 174360,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/5FwD0r8W7XSBtXc7Jb4HuC"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "All the Little Lights (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 266626,
-      "name": "Let Her Go - Acoustic",
-      "url": "https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2375,18 +2391,22 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/2bW3haSRmwMkq1UBXArTuX"
+        "name": "Save Tonight",
+        "url": "https://open.spotify.com/album/2SaLXyTTBlIZCLuAQ2c4ne"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        },
+        {
+          "name": "Lydia Clowes",
+          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
         }
       ],
-      "duration_ms": 154290,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/3P5PjBDgbYzumxnbuahZqn"
+      "duration_ms": 270698,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/4kG6Rt94q7eJaikOFrqsTn"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2423,26 +2443,6 @@
       "duration_ms": 206702,
       "name": "Attention - Acoustic",
       "url": "https://open.spotify.com/track/2bKS7HtZ9Cy4K7NGeRlePF"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "Save Tonight",
-        "url": "https://open.spotify.com/album/2SaLXyTTBlIZCLuAQ2c4ne"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        },
-        {
-          "name": "Lydia Clowes",
-          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
-        }
-      ],
-      "duration_ms": 270698,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/4kG6Rt94q7eJaikOFrqsTn"
     },
     {
       "added_at": "2026-03-17 11:56:41",

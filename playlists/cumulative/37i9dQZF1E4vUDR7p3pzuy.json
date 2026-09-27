@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Bestial Mouths, JUST LIZZY, Ursula and more",
+  "description": "With Bestial Mouths, Evil Level Live, Synthetik Blonde and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -966,7 +966,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 206865,
       "name": "And Breathe - Into the Knot Remix",
       "url": "https://open.spotify.com/track/0mjZBQhDxJAOqCH2RHLmkK"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 192269,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 214000,
       "name": "Built By Design",
       "url": "https://open.spotify.com/track/2w1Kk2xIzLrNdVJt3Pl7pT"
@@ -2844,7 +2844,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Cage",
       "url": "https://open.spotify.com/track/2tVKME4ZqhYYBAjDHPyK4t"
@@ -3394,7 +3394,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 270909,
       "name": "CHOKE",
       "url": "https://open.spotify.com/track/2N7Fcu0FPPN5Mf6g6fBOwY"
@@ -5373,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "Dinner Without Honor Or Humility",
+        "url": "https://open.spotify.com/album/2EhwUg214zyxsWq1ayXQ6K"
+      },
+      "artists": [
+        {
+          "name": "Slade Maines",
+          "url": "https://open.spotify.com/artist/16m5iOIceVBEyW7BqUHxW1"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249413,
+      "name": "Dinner Without Honor Or Humility",
+      "url": "https://open.spotify.com/track/6tzT1nISO7swHpyjU8LoMy"
+    },
+    {
+      "album": {
         "name": "The Shape Of Things",
         "url": "https://open.spotify.com/album/5PkvBxnqiDOpekVPbDnfNr"
       },
@@ -6066,7 +6084,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 198421,
       "name": "Embrace the Shadows",
       "url": "https://open.spotify.com/track/6nK4Qn8eimHolMMCwFv4Ra"
@@ -6084,7 +6102,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 172296,
       "name": "Employee Factory",
       "url": "https://open.spotify.com/track/4CUKpVkB4pfa9blzNiJIot"
@@ -7026,7 +7044,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 355163,
       "name": "Fire On Your Houses",
       "url": "https://open.spotify.com/track/6K8CdATrjKLRRsmPFlxM7Q"
@@ -7540,7 +7558,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 197520,
       "name": "GARRAS",
       "url": "https://open.spotify.com/track/7qWDVBP7lKD2bsU5TgSbRn"
@@ -9007,6 +9025,24 @@
     },
     {
       "album": {
+        "name": "I disappear",
+        "url": "https://open.spotify.com/album/6FT2ZpQkd2Qr1fDKno7pGZ"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186882,
+      "name": "I disappear",
+      "url": "https://open.spotify.com/track/54hmneLqgiUgLwni4yH9zK"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Bleed",
         "url": "https://open.spotify.com/album/56cbUV4i2RjQwpQx1ifXoq"
       },
@@ -9494,7 +9530,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 253384,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0cmDlTOXaIdvvNvFXRKaqf"
@@ -9772,10 +9808,32 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 302063,
       "name": "Incubus Succubus",
       "url": "https://open.spotify.com/track/0UtaYJ5IcAJKuJGwFi3L5e"
+    },
+    {
+      "album": {
+        "name": "Executing Nostalgia",
+        "url": "https://open.spotify.com/album/5XNhy5T4wwhSDIuMJ9oKrT"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Stone",
+          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
+        },
+        {
+          "name": "Thunder Bae",
+          "url": "https://open.spotify.com/artist/2urVnN3dqfvm7e5z1jADT6"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302063,
+      "name": "Incubus Succubus",
+      "url": "https://open.spotify.com/track/22aTxOrMJ2heqnqOKYY53q"
     },
     {
       "album": {
@@ -10086,10 +10144,28 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 261865,
       "name": "Is it real",
       "url": "https://open.spotify.com/track/02qzQv8WF5s0LWuQhxCZgW"
+    },
+    {
+      "album": {
+        "name": "Let\u2019s make it right",
+        "url": "https://open.spotify.com/album/6pssLYcHcv4EeXfAHsxpxG"
+      },
+      "artists": [
+        {
+          "name": "The background world",
+          "url": "https://open.spotify.com/artist/495WnPG2x8BiyIrARHrU04"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261865,
+      "name": "Is it real",
+      "url": "https://open.spotify.com/track/08QYeROa9T3EKTvjoWS5Ps"
     },
     {
       "album": {
@@ -11104,7 +11180,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 173792,
       "name": "LBS",
       "url": "https://open.spotify.com/track/4Ml081k9JSdOfSPfzcwyS1"
@@ -11508,7 +11584,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 159010,
       "name": "lighter - sped up",
       "url": "https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9"
@@ -11634,7 +11710,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 250263,
       "name": "Lips Unkissed",
       "url": "https://open.spotify.com/track/6FXW7sFDKnWl8BWX7c9onJ"
@@ -12512,7 +12588,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 202285,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2jMm0yCLxqcg2baWOgjroC"
@@ -12956,6 +13032,28 @@
       "duration_ms": 207353,
       "name": "Mother!",
       "url": "https://open.spotify.com/track/6rDyhPmNitHbJYb2PKQPGv"
+    },
+    {
+      "album": {
+        "name": "Audiodrome",
+        "url": "https://open.spotify.com/album/4XFupZ5qRE8zx7bvd8hwJ7"
+      },
+      "artists": [
+        {
+          "name": "Empires In Orbit",
+          "url": "https://open.spotify.com/artist/0T2xXSRZyHnvbdL3uO7ffR"
+        },
+        {
+          "name": "Fe Malefiz",
+          "url": "https://open.spotify.com/artist/2xkvTt1eyxzTNDWRao0Dcd"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207353,
+      "name": "Mother!",
+      "url": "https://open.spotify.com/track/7KvGtDkWfirXEpBPOG9QEv"
     },
     {
       "album": {
@@ -14197,6 +14295,24 @@
     },
     {
       "album": {
+        "name": "Executing Nostalgia",
+        "url": "https://open.spotify.com/album/5XNhy5T4wwhSDIuMJ9oKrT"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Stone",
+          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199821,
+      "name": "Pagan Love Song",
+      "url": "https://open.spotify.com/track/0wnIb6Wkgv0V6lCeHpyigr"
+    },
+    {
+      "album": {
         "name": "Pagan Love Song",
         "url": "https://open.spotify.com/album/3ljbtiXTeDe5Tm6RdpXB9O"
       },
@@ -14208,7 +14324,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 199821,
       "name": "Pagan Love Song",
       "url": "https://open.spotify.com/track/5opLFdi0B8RkOG7hJmYakK"
@@ -16180,7 +16296,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -18589,6 +18705,24 @@
     },
     {
       "album": {
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/22fvbJd3X4MfGQW7qEauLo"
+      },
+      "artists": [
+        {
+          "name": "Fading Signals",
+          "url": "https://open.spotify.com/artist/1IxJHnfOv3n8slV8r2Et5R"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265511,
+      "name": "Template",
+      "url": "https://open.spotify.com/track/2U3ZCVEM5t3V2kgfBgJAFa"
+    },
+    {
+      "album": {
         "name": "Template",
         "url": "https://open.spotify.com/album/46tByVCDQrc1n2fO6R5eh9"
       },
@@ -18600,7 +18734,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 265511,
       "name": "Template",
       "url": "https://open.spotify.com/track/44mANCSX8Pnwbg37WU6w9l"
@@ -21893,6 +22027,28 @@
     },
     {
       "album": {
+        "name": "We Were Young / The Deceiver",
+        "url": "https://open.spotify.com/album/5iTsLAKZlNxlKOR3M3ORuy"
+      },
+      "artists": [
+        {
+          "name": "Fields of Dawn",
+          "url": "https://open.spotify.com/artist/0PRsN9grNl7YXFuohUQlHM"
+        },
+        {
+          "name": "Kathleen Turner Overdrive",
+          "url": "https://open.spotify.com/artist/3AIRjVDNZeo7rxYwiWSzhd"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259813,
+      "name": "We Were Young",
+      "url": "https://open.spotify.com/track/5i2R6mynkMNZncrwishbGJ"
+    },
+    {
+      "album": {
         "name": "We're At War",
         "url": "https://open.spotify.com/album/1zHHT3lznyItRF8Ge8atgr"
       },
@@ -22240,7 +22396,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"

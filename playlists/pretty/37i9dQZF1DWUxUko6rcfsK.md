@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,379 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,387 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 | 69 | [Burn Me Like a Cigarette](https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Burn Me Like a Cigarette](https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW) | 3:21 |
 | 70 | [How Beautiful This Life Is](https://open.spotify.com/track/7z8k59NKAcnwK6OOHt3i3k) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [How Beautiful This Life Is](https://open.spotify.com/album/0KYAQzaK5SAmll1FYTDNDx) | 3:14 |
 
-Snapshot ID: `AAAAABroSyHB4NhO8iIhjpBvRyp1NmLx`
+Snapshot ID: `AAAAADj+yvEFU57Lm63Zh71pSOh4EwcE`

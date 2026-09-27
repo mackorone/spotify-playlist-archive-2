@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 338560,
+  "num_followers": 338573,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAACZY2Ptjs8RR6JAfSg1tskD",
+  "snapshot_id": "arW5gAAAAADIWXBmFSY5ouyynmkv5e3J",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "While We Wait 2",
-        "url": "https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa"
+        "name": "Good Thing (with Kehlani)",
+        "url": "https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         },
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 268401,
-      "name": "When He's Not There (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/7nBH9p1JeLmvkxW17JRprs"
+      "duration_ms": 210901,
+      "name": "Good Thing (with Kehlani)",
+      "url": "https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU"
     },
     {
       "added_at": null,
@@ -535,22 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Thing (with Kehlani)",
-        "url": "https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4"
+        "name": "While We Wait 2",
+        "url": "https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 210901,
-      "name": "Good Thing (with Kehlani)",
-      "url": "https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU"
+      "duration_ms": 268401,
+      "name": "When He's Not There (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/7nBH9p1JeLmvkxW17JRprs"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Safe (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SweetSexySavage (Deluxe)",
         "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
       },
@@ -831,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
       },
       "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 211375,
-      "name": "melt",
-      "url": "https://open.spotify.com/track/1pCbBNRglGwlMLeUTOnqrO"
+      "duration_ms": 177893,
+      "name": "Safe (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 240093,
       "name": "Faking It (feat. Kehlani & Lil Yachty)",
       "url": "https://open.spotify.com/track/0pJPdSVti6cTM1Q6xYGmcf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 211375,
+      "name": "melt",
+      "url": "https://open.spotify.com/track/1pCbBNRglGwlMLeUTOnqrO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,381 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,337 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 99 | [DOING THE MOST](https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Nemzzz](https://open.spotify.com/artist/5PZkaH7vx8TBiDHip9ptjG) | [TRAPO 2](https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S) | 2:40 |
 | 100 | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/124asPU2FC370O180KQPQi) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/0myqS8XRIGw3RYHfmuwF7Y) | 3:23 |
 
-Snapshot ID: `AAAAAE28VS5YvXx9ChODHJQM8vFpPWYw`
+Snapshot ID: `AAAAAEMTI7K7lMVDqW4JLHVG1WBkI5+D`

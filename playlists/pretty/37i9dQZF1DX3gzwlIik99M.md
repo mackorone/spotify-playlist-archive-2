@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,666 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,630 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 43 | [Esquizofrenia](https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9) | [Khafra](https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo) | [Khafra](https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO) | 3:02 |
 | 44 | [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 |
 | 45 | [La Caperuputa y el Lobo Culión](https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y) | [Cuentos de los Hermanos Grind](https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC) | [Los Cantipuercos](https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw) | 3:00 |
-| 46 | [Privación Ilegítima de la Libertad](https://open.spotify.com/track/1KpwCqOkdPfI3iXtqOHtHE) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Privación Ilegítima de la Libertad](https://open.spotify.com/album/3T1bucft30F8GeAa9mlECc) | 4:48 |
-| 47 | [Las Venas Abiertas...](https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy) | [Perpetual Warfare](https://open.spotify.com/artist/3nDZ96c0eP5xULoXG5VKwG) | [Earthliens](https://open.spotify.com/album/5tyMcEgeoKK0USWlBAjg3l) | 4:10 |
+| 46 | [Las Venas Abiertas...](https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy) | [Perpetual Warfare](https://open.spotify.com/artist/3nDZ96c0eP5xULoXG5VKwG) | [Earthliens](https://open.spotify.com/album/5tyMcEgeoKK0USWlBAjg3l) | 4:10 |
+| 47 | [Privación Ilegítima de la Libertad](https://open.spotify.com/track/1KpwCqOkdPfI3iXtqOHtHE) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Privación Ilegítima de la Libertad](https://open.spotify.com/album/3T1bucft30F8GeAa9mlECc) | 4:48 |
 | 48 | [No Olvido de Donde Soy](https://open.spotify.com/track/42f1zC2QXFIrnuIvrgZgnv) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Lanza en Mano](https://open.spotify.com/album/40tqGOnfjUC2oaZwiOjmmN) | 4:16 |
 | 49 | [Poseido Por Mezcal](https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp) | [Gore and Carnage](https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON) | [Carnage Drinking Party](https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR) | 2:50 |
 | 50 | [Outsider God Creation \(O.G.C\)](https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [The Beginning of the End](https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM) | 3:43 |
 
-Snapshot ID: `AAAAACXswHNtsa8cKlskUFwIezR7HvaX`
+Snapshot ID: `AAAAAF26szigoBBXF5ER10DJ7R/Ds1uo`

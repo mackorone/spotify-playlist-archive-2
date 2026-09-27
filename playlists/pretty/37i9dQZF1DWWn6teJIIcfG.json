@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 223717,
+  "num_followers": 223732,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANBEeNseF/VkgqHQyoHypNmwaAP+",
+  "snapshot_id": "AAAAAI0Fu5AFhXuKhvtI/GjQg0PmGxfo",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:33",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 162374,
+      "name": "Faded Leaves Fall",
+      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Gjeilo: Winter Light",
         "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 170080,
       "name": "Winter Light",
       "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "Faded Leaves Fall",
-      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -791,26 +791,18 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Baranowski: Reflections",
-        "url": "https://open.spotify.com/album/36OcZ35GfXQTEvmI91BPEV"
+        "name": "While The Flood Rages",
+        "url": "https://open.spotify.com/album/7GEzoYe1TL7iOQnX0yirSF"
       },
       "artists": [
         {
-          "name": "Alex Baranowski",
-          "url": "https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ"
-        },
-        {
-          "name": "Jess Gillam",
-          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
-        },
-        {
-          "name": "Jess Gillam Ensemble",
-          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
         }
       ],
-      "duration_ms": 233593,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/6SU67MSkLkHTvQJ9Auvx3w"
+      "duration_ms": 310916,
+      "name": "While The Flood Rages",
+      "url": "https://open.spotify.com/track/5Kspplr3lgKpMyZLm4beUn"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -831,6 +823,30 @@
       "duration_ms": 254653,
       "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
       "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Baranowski: Reflections",
+        "url": "https://open.spotify.com/album/36OcZ35GfXQTEvmI91BPEV"
+      },
+      "artists": [
+        {
+          "name": "Alex Baranowski",
+          "url": "https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Jess Gillam Ensemble",
+          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+        }
+      ],
+      "duration_ms": 233593,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6SU67MSkLkHTvQJ9Auvx3w"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1663,30 +1679,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Suk: Fantasy - Schubert: Rondo - Mendelssohn: Violin Concerto in D minor",
-        "url": "https://open.spotify.com/album/1TZim7ezJVGyJAlLN9TiY5"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Czech Philharmonic Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
-        },
-        {
-          "name": "Jan Mr\u00e1\u010dek",
-          "url": "https://open.spotify.com/artist/5Zg8xN1m1QhbC8y3HMQ5du"
-        }
-      ],
-      "duration_ms": 455266,
-      "name": "Violin Concerto in D Minor, MWV O 3: II. Andante",
-      "url": "https://open.spotify.com/track/2CSiPU14mBoP6TdyEWBKYH"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1703,6 +1695,22 @@
       "duration_ms": 114601,
       "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
       "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Dancing Michelangelo (Andante Piano Sessions)",
+        "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 110583,
+      "name": "Dancing Michelangelo - Andante Piano Sessions",
+      "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1727,18 +1735,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Dancing Michelangelo (Andante Piano Sessions)",
-        "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
+        "name": "Suk: Fantasy - Schubert: Rondo - Mendelssohn: Violin Concerto in D minor",
+        "url": "https://open.spotify.com/album/1TZim7ezJVGyJAlLN9TiY5"
       },
       "artists": [
         {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Czech Philharmonic Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
+        },
+        {
+          "name": "Jan Mr\u00e1\u010dek",
+          "url": "https://open.spotify.com/artist/5Zg8xN1m1QhbC8y3HMQ5du"
         }
       ],
-      "duration_ms": 110583,
-      "name": "Dancing Michelangelo - Andante Piano Sessions",
-      "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
+      "duration_ms": 455266,
+      "name": "Violin Concerto in D Minor, MWV O 3: II. Andante",
+      "url": "https://open.spotify.com/track/2CSiPU14mBoP6TdyEWBKYH"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1827,6 +1843,22 @@
       "duration_ms": 138239,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
       "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "mirador",
+        "url": "https://open.spotify.com/album/2hGVnVTI3vz2SL4KPUr4Lz"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 273029,
+      "name": "laulasmaa",
+      "url": "https://open.spotify.com/track/2wlTZsfL5eictmDVatgi6K"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2275,6 +2307,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Klassieke Muziek voor Zondagochtend",
+        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
+      },
+      "artists": [
+        {
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+        },
+        {
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+        }
+      ],
+      "duration_ms": 96786,
+      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
+      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Norway",
         "url": "https://open.spotify.com/album/5CO47sQ8DX7uMbJbQ8uM38"
       },
@@ -2295,26 +2347,6 @@
       "duration_ms": 294848,
       "name": "V\u00e5ren",
       "url": "https://open.spotify.com/track/3oBshZ7DMS9sAgja2M1JVV"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Klassieke Muziek voor Zondagochtend",
-        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
-      },
-      "artists": [
-        {
-          "name": "Enrique Granados",
-          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
-        },
-        {
-          "name": "Xavier De Maistre",
-          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
-        }
-      ],
-      "duration_ms": 96786,
-      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
-      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2427,22 +2459,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "While The Flood Rages",
-        "url": "https://open.spotify.com/album/7GEzoYe1TL7iOQnX0yirSF"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        }
-      ],
-      "duration_ms": 310916,
-      "name": "While The Flood Rages",
-      "url": "https://open.spotify.com/track/5Kspplr3lgKpMyZLm4beUn"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Strauss, R: Morgen!",
         "url": "https://open.spotify.com/album/60PWf5MrTGd9XFzx3TOrK7"
       },
@@ -2459,6 +2475,22 @@
       "duration_ms": 219896,
       "name": "Strauss, R.: 4 Lieder, Op. 27: No. 4, Morgen! (Arr. Lenaerts for Harp)",
       "url": "https://open.spotify.com/track/5xS4EmHOAEI723jO0JBl8b"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Fermata",
+        "url": "https://open.spotify.com/album/4JX6cTjreUto3SKGbrQvHy"
+      },
+      "artists": [
+        {
+          "name": "Suena",
+          "url": "https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd"
+        }
+      ],
+      "duration_ms": 183904,
+      "name": "Fermata",
+      "url": "https://open.spotify.com/track/3hCQEudNCNQs0u9zaBpSW8"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2507,58 +2539,6 @@
       "duration_ms": 256120,
       "name": "Souvenir d'un lieu cher, Op. 42: III. M\u00e9lodie (Arr. Heifetz for Violin & Piano)",
       "url": "https://open.spotify.com/track/3LRRy5Afbkhp56QQnDPrff"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Purcell: Fantazias",
-        "url": "https://open.spotify.com/album/7tyZKLPAyUJLd7vCswH1Qm"
-      },
-      "artists": [
-        {
-          "name": "Henry Purcell",
-          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
-        },
-        {
-          "name": "John Holloway",
-          "url": "https://open.spotify.com/artist/6pOkgFusj8zIOfRZemKGah"
-        },
-        {
-          "name": "Monika Baer",
-          "url": "https://open.spotify.com/artist/2BcfPW6J7UxgW6jiMUXCCO"
-        },
-        {
-          "name": "Renate Steinmann",
-          "url": "https://open.spotify.com/artist/2XXb5vA968PoWtGqDGMbBo"
-        },
-        {
-          "name": "Martin Zeller",
-          "url": "https://open.spotify.com/artist/2XSpcrdJ3Ls5rPfUrvbiUg"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Fantasia for 4 Viols in E Minor, Z. 741",
-      "url": "https://open.spotify.com/track/4sZLepVdgYfhwwD88BufWp"
     }
   ],
   "unique_name": "Creative Focus",

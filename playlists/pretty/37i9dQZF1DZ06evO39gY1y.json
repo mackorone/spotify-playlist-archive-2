@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 261731,
+  "num_followers": 261765,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAACP86WfNtPu2bHn6siVYsy1",
+  "snapshot_id": "arW5gAAAAABtOFnBEfexWFXNkhpG763H",
   "tracks": [
     {
       "added_at": null,
@@ -675,30 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1scaras",
-        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Vegetales Con Pescado",
-      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Compas",
         "url": "https://open.spotify.com/album/0Trve0GFSb3wp7VlQKFjSx"
       },
@@ -727,6 +703,30 @@
       "duration_ms": 308250,
       "name": "Lo Que Importa",
       "url": "https://open.spotify.com/track/6h0eq3OOaUtu6pt49uHCr7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1scaras",
+        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Vegetales Con Pescado",
+      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
     },
     {
       "added_at": null,
@@ -787,34 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Poderes",
-        "url": "https://open.spotify.com/album/4DWhSOhqBQq24IwNqPIuRG"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 258421,
-      "name": "Super Poderes",
-      "url": "https://open.spotify.com/track/3nvZhn4wNgWsb089sc2Wag"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Compas",
         "url": "https://open.spotify.com/album/0Trve0GFSb3wp7VlQKFjSx"
       },
@@ -843,6 +815,34 @@
       "duration_ms": 277714,
       "name": "D\u00eda de Suerte",
       "url": "https://open.spotify.com/track/5fKE6fY8iByvEyOHEnsYAl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Super Poderes",
+        "url": "https://open.spotify.com/album/4DWhSOhqBQq24IwNqPIuRG"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "duration_ms": 258421,
+      "name": "Super Poderes",
+      "url": "https://open.spotify.com/track/3nvZhn4wNgWsb089sc2Wag"
     },
     {
       "added_at": null,
@@ -899,30 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendita Vida",
-        "url": "https://open.spotify.com/album/0LKCTISwaQ1uwXfD1AIgkP"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samtwenty",
-          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
-        },
-        {
-          "name": "Samg",
-          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Bendita Vida",
-      "url": "https://open.spotify.com/track/7f9vfmovJ8L8zHgFkWGzt8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1scaras",
         "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 174230,
       "name": "Me Toca Perder",
       "url": "https://open.spotify.com/track/3Ggt6nM1vKeTM0sy2xnNm5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendita Vida",
+        "url": "https://open.spotify.com/album/0LKCTISwaQ1uwXfD1AIgkP"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        },
+        {
+          "name": "Samg",
+          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Bendita Vida",
+      "url": "https://open.spotify.com/track/7f9vfmovJ8L8zHgFkWGzt8"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Que la Muerte Nos Separe",
+        "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Hasta Que la Muerte Nos Separe",
+      "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Olvidemos el Reloj",
         "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
       },
@@ -1027,22 +1047,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Que la Muerte Nos Separe",
-        "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
+        "name": "Sin Maletas",
+        "url": "https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf"
       },
       "artists": [
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Hasta Que la Muerte Nos Separe",
-      "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
+      "duration_ms": 163226,
+      "name": "Lejos de Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM"
     },
     {
       "added_at": null,
@@ -1067,22 +1083,6 @@
       "duration_ms": 250000,
       "name": "Carita de \u00c1ngel",
       "url": "https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Maletas",
-        "url": "https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Lejos de Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM"
     },
     {
       "added_at": null,

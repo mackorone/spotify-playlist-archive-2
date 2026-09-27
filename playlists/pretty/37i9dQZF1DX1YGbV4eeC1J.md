@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: D Voice
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,385 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,443 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 59 | [Pole](https://open.spotify.com/track/5QcJEd09y1NUi2QxNw7MIz) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [After All](https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf) | 3:16 |
 | 60 | [Raha](https://open.spotify.com/track/3ElRHHyivDOcADDlZFBXF8) | [Kondela](https://open.spotify.com/artist/5QSt7WdkvDgt6YNZbKyWG7) | [Raha](https://open.spotify.com/album/08Nwvtgkvap3AGrtqg4kfr) | 4:08 |
 
-Snapshot ID: `AAAAAP2vkD++N9iiqUSKno4R64lrjlqB`
+Snapshot ID: `AAAAAISNSKo40/5j04hxtGI8VekT4cxl`

@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-155 songs - 7 hr 48 min
+156 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Light Weight](https://open.spotify.com/track/7FeLqPl1Ds0QR8UOxyKLhp) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Light Weight \- Single](https://open.spotify.com/album/3XwTloJnC6Feq5pdfmhiQ6) | 3:36 | 2023-06-22 | 2025-01-09 |
 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 | 2023-06-22 | 2026-04-24 |
 | [Machreya](https://open.spotify.com/track/7o5r7J6W8yZhqNotpggzRb) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Machreya](https://open.spotify.com/album/4DieobYkz2J12plnSIOOI9) | 2:21 | 2025-02-19 | 2025-05-01 |
-| [Marji Nal](https://open.spotify.com/track/4OOqDEp5ilJ7eq612SZ7Lk) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B), [Arsh Sidhu](https://open.spotify.com/artist/67DISm7g3qiY70KENtwL6G) | [Hostel](https://open.spotify.com/album/7KSbKQ1gsadsdqEJyzg4S0) | 2:15 | 2026-03-05 |  |
+| [Marji Nal](https://open.spotify.com/track/4OOqDEp5ilJ7eq612SZ7Lk) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B), [Arsh Sidhu](https://open.spotify.com/artist/67DISm7g3qiY70KENtwL6G) | [Hostel](https://open.spotify.com/album/7KSbKQ1gsadsdqEJyzg4S0) | 2:15 | 2026-03-05 | 2026-09-27 |
 | [Maut](https://open.spotify.com/track/6SILyQawBX8rgsjwjwQqrD) | [Maninder Saba](https://open.spotify.com/artist/5ZF39JENYCqvzXiRkr9bxI), [Beats By Sengh](https://open.spotify.com/artist/0c5ZXk3VSo7xRA2QjsCTkG), [King Darrous 29](https://open.spotify.com/artist/4cvyo6h3aR9yXG5tUsjOXT) | [Maut](https://open.spotify.com/album/4sH7Ak3nAbkPLgjnYt5QYO) | 2:43 | 2025-04-30 | 2025-05-16 |
 | [MEDAL](https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [MEDAL](https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf) | 2:13 | 2025-02-07 | 2026-09-13 |
 | [Moorni](https://open.spotify.com/track/0HMqknanFIn0efQ5U4nUHT) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [The Raj](https://open.spotify.com/album/3mrDe7cZuguaXCWDt0Gwtx) | 4:22 | 2023-06-22 | 2024-04-19 |
@@ -161,6 +161,7 @@
 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 | 2023-06-22 |  |
 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 | 2025-01-08 |  |
 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 | 2025-02-07 | 2025-02-12 |
+| [World Map](https://open.spotify.com/track/0drSSdtokHutZaXLVaKqDa) | [Saiz Bajwa](https://open.spotify.com/artist/0t58TpmQBjBwBmtraKK8Ed), [Sonu Bajwa](https://open.spotify.com/artist/7kNljul2l2bBw9jYBEMjrN) | [World Map](https://open.spotify.com/album/45N5EqUVQMzUPyb6FG9Tm3) | 3:37 | 2026-09-23 |  |
 | [Yaari Chandigarh Waliye](https://open.spotify.com/track/2xzuUPOffYMIdOkOG7D0BI) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mitti Da Bawa](https://open.spotify.com/album/0yrvrlpDvPM05MJQyVPKvW) | 3:04 | 2023-06-22 |  |
 | [Zindagi Jnaab Saddi](https://open.spotify.com/track/7EiAduObZZ8OrWzbNQAmDT) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [Zindagi Jnaab Saddi](https://open.spotify.com/album/4RkMUi4R95mJlHfNc7CkrW) | 3:33 | 2025-02-14 | 2025-02-18 |
 

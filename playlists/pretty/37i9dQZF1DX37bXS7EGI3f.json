@@ -1,12 +1,12 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Beast In Black \n",
-  "num_followers": 824798,
+  "num_followers": 824839,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAaOe31LeigNv8Tx7Cq4rBMPbIfS",
+  "snapshot_id": "AAAAALGvMV5DZTGCgdiatCGiwjtRIqK3",
   "tracks": [
     {
       "added_at": "2026-09-22 01:57:25",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
+        "name": "The Tower: Lean Into Fear",
+        "url": "https://open.spotify.com/album/2UAeb1Fo9EqKHbHxRRZ85v"
+      },
+      "artists": [
+        {
+          "name": "Temperance",
+          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
+        }
+      ],
+      "duration_ms": 201608,
+      "name": "The Tower: Lean Into Fear",
+      "url": "https://open.spotify.com/track/1P4Iv9OYmZ8BEhjFquGHML"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
         "name": "Avatar - The Final Incarnation -",
         "url": "https://open.spotify.com/album/2m2b32krMNh0QJDoHpbdU6"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "The Tower: Lean Into Fear",
-        "url": "https://open.spotify.com/album/2UAeb1Fo9EqKHbHxRRZ85v"
+        "name": "The Legend Of Achilles",
+        "url": "https://open.spotify.com/album/7mKISLZO6I96vXlTSL2Mnw"
       },
       "artists": [
         {
-          "name": "Temperance",
-          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
+          "name": "Firewind",
+          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
         }
       ],
-      "duration_ms": 201608,
-      "name": "The Tower: Lean Into Fear",
-      "url": "https://open.spotify.com/track/1P4Iv9OYmZ8BEhjFquGHML"
+      "duration_ms": 267813,
+      "name": "The Legend Of Achilles",
+      "url": "https://open.spotify.com/track/3EshPU6k9poWWUY38XKfEx"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -867,22 +883,6 @@
       "duration_ms": 239266,
       "name": "Cradle To The Grave",
       "url": "https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
-        "name": "The Legend Of Achilles",
-        "url": "https://open.spotify.com/album/7mKISLZO6I96vXlTSL2Mnw"
-      },
-      "artists": [
-        {
-          "name": "Firewind",
-          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
-        }
-      ],
-      "duration_ms": 267813,
-      "name": "The Legend Of Achilles",
-      "url": "https://open.spotify.com/track/3EshPU6k9poWWUY38XKfEx"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda"
-      },
-      "artists": [
-        {
-          "name": "Ignea",
-          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
-        }
-      ],
-      "duration_ms": 320546,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Our Long Cursed Sleep",
         "url": "https://open.spotify.com/album/6u41SbykBZcOT0YvyEKjxj"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 223798,
       "name": "Apollo Never Stopped Chasing Daphne",
       "url": "https://open.spotify.com/track/0jp5NEjtIbpMyrb2cIK6Kb"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda"
+      },
+      "artists": [
+        {
+          "name": "Ignea",
+          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
+        }
+      ],
+      "duration_ms": 320546,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Tyrants Serenade",
-        "url": "https://open.spotify.com/album/6d0gOnYNbE4rFNOrSVYnCD"
-      },
-      "artists": [
-        {
-          "name": "Paradise Lost",
-          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
-        }
-      ],
-      "duration_ms": 260972,
-      "name": "Tyrants Serenade",
-      "url": "https://open.spotify.com/track/6TdTD8R3iWculjW9k2HWJP"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Reincarnation",
         "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 249600,
       "name": "Reincarnation",
       "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Tyrants Serenade",
+        "url": "https://open.spotify.com/album/6d0gOnYNbE4rFNOrSVYnCD"
+      },
+      "artists": [
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "duration_ms": 260972,
+      "name": "Tyrants Serenade",
+      "url": "https://open.spotify.com/track/6TdTD8R3iWculjW9k2HWJP"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
+        "name": "Pro Xristou",
+        "url": "https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB"
+      },
+      "artists": [
+        {
+          "name": "Rotting Christ",
+          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "The Apostate",
+      "url": "https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
         "name": "One Of Us Will Be Next",
         "url": "https://open.spotify.com/album/3CZHmf17F6Q58OMiMaA2u9"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 287160,
       "name": "Silence Like The Grave",
       "url": "https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
-        "name": "Pro Xristou",
-        "url": "https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB"
-      },
-      "artists": [
-        {
-          "name": "Rotting Christ",
-          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "The Apostate",
-      "url": "https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Cold Heavens",
-        "url": "https://open.spotify.com/album/1Zg2EGTHiMKrL0A8weyNqz"
-      },
-      "artists": [
-        {
-          "name": "Draconian",
-          "url": "https://open.spotify.com/artist/1TX9g1uSl0B0DQIE9lBqmU"
-        }
-      ],
-      "duration_ms": 313546,
-      "name": "Cold Heavens",
-      "url": "https://open.spotify.com/track/0kQoTeOEL9Zy8SIORD8rB4"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 234280,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Cold Heavens",
+        "url": "https://open.spotify.com/album/1Zg2EGTHiMKrL0A8weyNqz"
+      },
+      "artists": [
+        {
+          "name": "Draconian",
+          "url": "https://open.spotify.com/artist/1TX9g1uSl0B0DQIE9lBqmU"
+        }
+      ],
+      "duration_ms": 313546,
+      "name": "Cold Heavens",
+      "url": "https://open.spotify.com/track/0kQoTeOEL9Zy8SIORD8rB4"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Ophelia (feat. SHAOLIN G)",
-        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
-      },
-      "artists": [
-        {
-          "name": "Tulip",
-          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
-        }
-      ],
-      "duration_ms": 288018,
-      "name": "Ophelia - feat. SHAOLIN G",
-      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 266000,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Ophelia (feat. SHAOLIN G)",
+        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "duration_ms": 288018,
+      "name": "Ophelia - feat. SHAOLIN G",
+      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Field of Swords",
-        "url": "https://open.spotify.com/album/7Emw3aKs6NFzesCtjH4qbr"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Field of Swords",
-      "url": "https://open.spotify.com/track/2ULATnbyvbvqH1IZey2xb3"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Krigsherren",
         "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 209440,
       "name": "Krigsherren",
       "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Field of Swords",
+        "url": "https://open.spotify.com/album/7Emw3aKs6NFzesCtjH4qbr"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Field of Swords",
+      "url": "https://open.spotify.com/track/2ULATnbyvbvqH1IZey2xb3"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "I Fear The Blood",
-        "url": "https://open.spotify.com/album/7d0DxaXZtjoVuPhSStW3TI"
+        "name": "Cicada",
+        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
       },
       "artists": [
         {
-          "name": "Ambush",
-          "url": "https://open.spotify.com/artist/5ZnuwxU3BQDmhQSdZO743a"
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
         }
       ],
-      "duration_ms": 284991,
-      "name": "I Fear The Blood",
-      "url": "https://open.spotify.com/track/6QLNjpnByY2pX87FLEwuD6"
+      "duration_ms": 271693,
+      "name": "Cicada",
+      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Cicada",
-        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "Cicada",
-      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Take My Hand (Bonus Track)",
         "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 259068,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "I Fear The Blood",
+        "url": "https://open.spotify.com/album/7d0DxaXZtjoVuPhSStW3TI"
+      },
+      "artists": [
+        {
+          "name": "Ambush",
+          "url": "https://open.spotify.com/artist/5ZnuwxU3BQDmhQSdZO743a"
+        }
+      ],
+      "duration_ms": 284991,
+      "name": "I Fear The Blood",
+      "url": "https://open.spotify.com/track/6QLNjpnByY2pX87FLEwuD6"
     },
     {
       "added_at": "2026-09-22 01:57:25",

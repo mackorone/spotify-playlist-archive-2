@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-197 songs - 9 hr 55 min
+198 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,13 +159,14 @@
 | [STAY](https://open.spotify.com/track/2cEt3vw0bEhhdeJsp6hk0u) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:19 | 2023-02-16 | 2024-11-03 |
 | [Stick Season](https://open.spotify.com/track/3rnzQyGibuUqEJgVKL7lew) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Stick Season](https://open.spotify.com/album/50bMFXY8AbOMdSXvfu9CAl) | 3:00 | 2024-03-30 | 2024-07-16 |
 | [Strangers](https://open.spotify.com/track/2cdV8rABAvNCoXtyDIUhCI) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Strangers](https://open.spotify.com/album/1LyxWPM9OifFw2Yi6UNSqK) | 2:52 | 2024-03-16 | 2024-09-06 |
+| [stupid song](https://open.spotify.com/track/49jQnWM28aTfNztub85q1y) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [stupid song](https://open.spotify.com/album/7LWygPODj4jav19XyL7EdB) | 3:23 | 2026-09-27 |  |
 | [Style](https://open.spotify.com/track/3lJImcZQoAsUJMeuqeybiX) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Non Stop Pop](https://open.spotify.com/album/5F79wN6kif0PJ7zkWaCyqW) | 3:09 | 2025-12-11 | 2026-01-06 |
 | [Summer Starts Now](https://open.spotify.com/track/6s7GMo261sZVIMp8n45OkP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Summer Starts Now](https://open.spotify.com/album/6rlXj0tFa7Kh7Ds4htrplK) | 2:17 | 2026-05-24 |  |
 | [Sunroof](https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:27 | 2023-02-16 |  |
 | [Sure Thing](https://open.spotify.com/track/6xK0Wl7bMml6WIVpf1T7Rp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Sure Thing](https://open.spotify.com/album/0yHOOLzYRp9n05wnXCF9Lw) | 3:17 | 2023-05-27 | 2023-10-05 |
 | [SÚPER ULTRA MEGA](https://open.spotify.com/track/7jhjNn4QQjIfzwltcUpGW5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [SÚPER ULTRA MEGA](https://open.spotify.com/album/66dVrkPQI572wGVDrysD4F) | 2:50 | 2023-11-10 | 2023-12-31 |
 | [Tattoo](https://open.spotify.com/track/7nUpoThXeOQLW04XVwi05N) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Tattoo](https://open.spotify.com/album/1OGkolLxFXi938hpo9zyBk) | 2:56 | 2023-12-13 | 2024-04-11 |
-| [Tears](https://open.spotify.com/track/2KQwdAlSxTC8QHEU94s76F) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Tears](https://open.spotify.com/album/276YxoQg03LTpIUBlvkC3A) | 2:31 | 2025-11-02 |  |
+| [Tears](https://open.spotify.com/track/2KQwdAlSxTC8QHEU94s76F) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Tears](https://open.spotify.com/album/276YxoQg03LTpIUBlvkC3A) | 2:31 | 2025-11-02 | 2026-09-27 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0KhNXkYL4RMRKzsr51Hcnc) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [TEXAS HOLD 'EM](https://open.spotify.com/album/7FsXesEv0qrJEcs7FWlrFF) | 3:35 | 2024-05-05 | 2024-10-31 |
 | [That's Not My Name](https://open.spotify.com/track/0K9xvFSBFD1vyvIBB50RnL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:18 | 2025-03-06 | 2026-03-01 |
 | [That's So True](https://open.spotify.com/track/23SVjMf8hnBkmHXTsM1fED) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 2:45 | 2025-09-02 | 2025-11-03 |

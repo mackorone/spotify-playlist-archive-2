@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Kenny Chesney, Jordan Davis, Max McNown and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,379 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,484 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 38 | [Mine](https://open.spotify.com/track/2sHlRHRW1UHGbithoIHKYa) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Mine](https://open.spotify.com/album/3JfthE5fNSPtMHVlBuO3p8) | 3:18 |
 | 39 | [Earnhardt](https://open.spotify.com/track/1qfOJ0p1GdQO6Vr7MwtbKR) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Earnhardt](https://open.spotify.com/album/6o0bAjqvpp721fEI1qUnwj) | 3:09 |
 | 40 | [September](https://open.spotify.com/track/7clxaHoG4MaN7nBXRSGGCk) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Learning to Unlove You](https://open.spotify.com/album/4yyDvDQqqVOV2KHvhUJFEy) | 3:19 |
-| 41 | [Strangers Again](https://open.spotify.com/track/3oml2hvebr10WAOEvtVp9W) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo), [Taylor Goyette](https://open.spotify.com/artist/26XC29XnoXBWWelFkKlMWf) | [Strangers Again](https://open.spotify.com/album/47SJb50MXbsHyzCIM2RHUL) | 3:14 |
+| 41 | [Strangers Again](https://open.spotify.com/track/3oml2hvebr10WAOEvtVp9W) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo), [Taylor Goyette](https://open.spotify.com/artist/5CSfpRPGc1XEGd5twIRQTb) | [Strangers Again](https://open.spotify.com/album/47SJb50MXbsHyzCIM2RHUL) | 3:14 |
 | 42 | [Last Night I Got Lonely](https://open.spotify.com/track/4e0oFyzSUDZQn5Qwbm1xN2) | [Jacob Hackworth](https://open.spotify.com/artist/4uXRM5wXBQkzYXPannKV66) | [Last Night I Got Lonely](https://open.spotify.com/album/0ahBymX5avFkCW4hsr7PUP) | 3:08 |
 | 43 | [Weight On The Levee](https://open.spotify.com/track/1srKzn9gY1g5NPhVT8v386) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [The Version of Me You Get](https://open.spotify.com/album/3DHMTJvmHhyqYmnrw4IUkO) | 4:21 |
 | 44 | [Wondering Why](https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui) | [CARV](https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A) | [Love You Again](https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1) | 3:18 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 84 | [Ain't Right, Right Now](https://open.spotify.com/track/2tuK2K3ndmBAComO9xopcC) | [Kesha Nevé](https://open.spotify.com/artist/7upKZp44FVnF197yJZSbNO) | [Ain't Right, Right Now](https://open.spotify.com/album/18Gc0CMi0VmzTTVVvglnhw) | 3:20 |
 | 85 | [Wild Wild Woman](https://open.spotify.com/track/4JabZ47TNNJKCTI3lXsuOt) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [Wild Wild Woman](https://open.spotify.com/album/52LvLBk8Ll7PU7CqrxnWL1) | 2:52 |
 
-Snapshot ID: `AAAAAN/WQVdI47lCiRKnq1ebGOMBtz6q`
+Snapshot ID: `AAAAAE3zpv90XW4LEsXW6sBFVMGAEyXK`

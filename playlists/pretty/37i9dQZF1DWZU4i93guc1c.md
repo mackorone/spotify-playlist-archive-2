@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > новинки українського андерґраунду\. обкладинка: Lyuda Bielousova \(LB\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,628 likes - 115 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,625 likes - 115 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 50 | [не в змозі](https://open.spotify.com/track/3KpgGtKrDUUXv7eBUt9vvx) | [Kuaskio](https://open.spotify.com/artist/3tqnuNx8iINNIrDx94I71a) | [не в змозі](https://open.spotify.com/album/7wvlPlx1RTCUMVINGebxQZ) | 2:18 |
 | 51 | [рибка немо](https://open.spotify.com/track/4aozMkS84DCYCfSJ0nlb6X) | [Judy Leuven](https://open.spotify.com/artist/66SYFyQ11uHCj6hqd67G78) | [рибка немо](https://open.spotify.com/album/4FWRhaHLzlbBxOud92IuhF) | 2:35 |
 | 52 | [Понад Хмарами](https://open.spotify.com/track/2I4yDLlZc4I0DZCuLscUxd) | [Олександр Положинський](https://open.spotify.com/artist/6NKa3iTFT9Yifg6vJnoIw1), [Sasha Chemerov](https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9), [Hidden Element](https://open.spotify.com/artist/07HMFXUTyJBf7XRsSCNIrk) | [Понад Хмарами](https://open.spotify.com/album/7xrqTp0Mfbz68IpmJ4KeX5) | 4:27 |
-| 53 | [навколо нас](https://open.spotify.com/track/13vEyHkvJydqiodokboN9T) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa), [vrochinskiy](https://open.spotify.com/artist/2eydKE9mnrtJ9yevtXpSQL), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy), [Lіsnyi](https://open.spotify.com/artist/1UBdJHMY0J54PBSl6Y7s4t), [Lesik Omodada](https://open.spotify.com/artist/2qVIjxlR8saj8fxHGgzvtC) | [цим літом](https://open.spotify.com/album/0uDOxTCBCiI3VsiPaE4k32) | 2:41 |
+| 53 | [навколо нас](https://open.spotify.com/track/13vEyHkvJydqiodokboN9T) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa), [vrochinskiy](https://open.spotify.com/artist/2eydKE9mnrtJ9yevtXpSQL), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy), [Lisnyi](https://open.spotify.com/artist/3487VQZ2b9geIhZqOaT9SQ), [Lesik Omodada](https://open.spotify.com/artist/2qVIjxlR8saj8fxHGgzvtC) | [цим літом](https://open.spotify.com/album/0uDOxTCBCiI3VsiPaE4k32) | 2:41 |
 | 54 | [Щемить](https://open.spotify.com/track/7EAHFOux9rECDecMJQa9aC) | [dari march](https://open.spotify.com/artist/5n4I8EuJLtIR6nxCiz8ZzN) | [Щемить](https://open.spotify.com/album/2lkV6M8XBjJbuyer9xbWJa) | 3:27 |
 | 55 | [Вірші](https://open.spotify.com/track/3Ix8akbVhvILItey0178GY) | [Овердоуз](https://open.spotify.com/artist/2ikR0q7mifA7Rvd961u6gL) | [Вірші](https://open.spotify.com/album/70afs4HIPWzWApDOhPQddZ) | 3:43 |
 | 56 | [FUMARI](https://open.spotify.com/track/21u68StzZhhMmCkJoW5fi4) | [ПОМАДА](https://open.spotify.com/artist/47ETHCjdTeekfjD80ug1fz), [rockceleba](https://open.spotify.com/artist/2zIJrrIF5e6bAFcgkLJkcW) | [FUMARI](https://open.spotify.com/album/0NJOaGIwB53kjJPmI3YJXs) | 2:23 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 114 | [мед](https://open.spotify.com/track/7kbNj9NHYnKYOhejYxMJlR) | [pollyséna](https://open.spotify.com/artist/701tkyvZL9Cf7BffrezT9F) | [мед](https://open.spotify.com/album/3eKkTEpIJGsZgmS5MxcQ1F) | 2:45 |
 | 115 | [бардак](https://open.spotify.com/track/0sd6k6SOW4v2Z6Y6xFkn09) | [сліпток](https://open.spotify.com/artist/56M3mfXvDAZ8eYzHfM6lu0) | [Бардак](https://open.spotify.com/album/4D2H1xAHsZFVoRlKMFrbHP) | 2:50 |
 
-Snapshot ID: `AAAAAJnmiJPYk32Yowfs7WfSdbumKTWQ`
+Snapshot ID: `AAAAABcwOHNZcrimqHYRxLA3jZEYqRzH`

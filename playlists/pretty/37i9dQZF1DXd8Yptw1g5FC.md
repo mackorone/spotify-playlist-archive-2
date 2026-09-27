@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > KÖFN ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,625 likes - 123 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,623 likes - 123 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 122 | [Dönme Dolap](https://open.spotify.com/track/0rbHlAlyhaoMHVDDQcF5li) | [Zeynep Aslan](https://open.spotify.com/artist/7hklQgYBqBrfd9ahBNHBWf) | [Dönme Dolap](https://open.spotify.com/album/7wUvYPvl1TO31BghHAIdRQ) | 3:02 |
 | 123 | [Restarted](https://open.spotify.com/track/7zF2mGxfSqa2Ibu6OK2kTm) | [BARTU](https://open.spotify.com/artist/3JdQhWwTZX5L1j9sFu41yn) | [Restarted](https://open.spotify.com/album/11EuGSvz1Z6bq1gGoF6s2Y) | 2:44 |
 
-Snapshot ID: `AAAAACntogRVLSg4OGgM5YwoW1mYV/ia`
+Snapshot ID: `AAAAAG1jVyfmBQbiR9Blu2cCZ3minHoh`

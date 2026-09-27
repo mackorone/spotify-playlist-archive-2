@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: wnsday\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,280 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,301 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [To Mars](https://open.spotify.com/track/40YQG7PQix3RMgzkKLzrVP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [To Mars](https://open.spotify.com/album/0hCPD44BiJeCwHWVSl3sWR) | 2:44 |
 | 50 | [Can't We](https://open.spotify.com/track/2UOu58pk79EF52wROoNPgx) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [The Most Beautiful Moment in Life pt.2](https://open.spotify.com/album/3Gi4pk43k4X9AJMT3oFhJq) | 4:34 |
 
-Snapshot ID: `AAAAAI1YSQJZOxMq5jAJoAXBaQBECvJt`
+Snapshot ID: `AAAAAIAk+fOsGSlrjMTU6S/ym449YIRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: Emma Nolde
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,696 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,697 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 98 | [GIORNATA DI MERDA](https://open.spotify.com/track/7MKhsszo9hqaPAPDbYHwEq) | [Seltsam](https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V) | [GIORNATA DI MERDA](https://open.spotify.com/album/5Rho41JX9XMVZdySXtuehm) | 2:21 |
 | 99 | [PRENDI LA MIRA E BASTA](https://open.spotify.com/track/70FQOnXMKq3ZDUNPVJmeYR) | [KLAUS NOIR](https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e) | [PRENDI LA MIRA E BASTA](https://open.spotify.com/album/0csK30chHho12GO4HfYrnm) | 2:26 |
 
-Snapshot ID: `AAAAAAz0cp2UZ6Kl8YXxNYw+OeAzXrIM`
+Snapshot ID: `AAAAADFd5ZZnu9nSIUR2GHGQvicv4tFe`

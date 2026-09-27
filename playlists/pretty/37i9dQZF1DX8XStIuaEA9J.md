@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 紫 今 & muque
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,767 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,757 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 69 | [How Many Girls \(feat\. HENTAI SHINSHI CLUB\)](https://open.spotify.com/track/3CmGHhqP3dbORDxhZNIqgR) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [How Many Girls \(feat\. HENTAI SHINSHI CLUB\)](https://open.spotify.com/album/4l6dux8zCO2yyhId7ReIo1) | 4:09 |
 | 70 | [新女神](https://open.spotify.com/track/5DUPMDswQK8U0eAEKmsOI9) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [新女神](https://open.spotify.com/album/3wDVBZTSQpIevDMFVoFWr0) | 3:03 |
 
-Snapshot ID: `AAAAAIqG+YjzMFPTUuNZwyMDb/UuWh/a`
+Snapshot ID: `AAAAAFoD90LwXx2kIkgOJ0rG6bufrgxo`

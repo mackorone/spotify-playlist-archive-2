@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,165,728 likes - 245 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,165,858 likes - 245 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 244 | [Millenia](https://open.spotify.com/track/0htFs1gMdUkSo6Z81CCaJ7) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Millenia](https://open.spotify.com/album/2s5booWpzYNSV7U2zm1BWD) | 2:38 |
 | 245 | [Elysian](https://open.spotify.com/track/6ZOOPD3TEYhXzclWtU4Vqi) | [Astralis Flow](https://open.spotify.com/artist/3eKqQudeGj5deVk7gdUZxK) | [Elysian](https://open.spotify.com/album/5euhn9Cqj26wcP0l3d6HK8) | 2:24 |
 
-Snapshot ID: `AAAAAKHq7FzRXVi8QswKnQ/NwXEQjFMg`
+Snapshot ID: `AAAAAEcXqI07T7GXlUelfDPCoT+K7LIO`

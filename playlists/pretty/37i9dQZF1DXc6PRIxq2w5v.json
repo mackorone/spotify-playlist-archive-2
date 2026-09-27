@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos",
-  "num_followers": 193359,
+  "num_followers": 193378,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMqhr9QaL44DrQDYWamcvNpkEx/J",
+  "snapshot_id": "AAAAAI1TC3YaLJWWylwtTNSdJHegZYgi",
   "tracks": [
     {
       "added_at": "2026-09-08 19:58:46",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
+        "name": "PRA N\u00c3O TE PERDER (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7eM6SkCF5Aqu26T8uUs5b9"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "PRA N\u00c3O TE PERDER - Ao Vivo",
+      "url": "https://open.spotify.com/track/6qp8kfSwKFgHtilt1lRidQ"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
         "name": "Trap Gospel Existe",
         "url": "https://open.spotify.com/album/45y3zKT3swOm8ZKdbftDvl"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 256285,
       "name": "Trap Gospel Existe",
       "url": "https://open.spotify.com/track/00nGa6T0InHfVSky5nDYrw"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
-        "name": "PRA N\u00c3O TE PERDER (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7eM6SkCF5Aqu26T8uUs5b9"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "PRA N\u00c3O TE PERDER - Ao Vivo",
-      "url": "https://open.spotify.com/track/6qp8kfSwKFgHtilt1lRidQ"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "Quero Voltar",
-        "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
-      },
-      "artists": [
-        {
-          "name": "Gui Hazel",
-          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Quero Voltar",
-      "url": "https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
         "name": "Crises",
         "url": "https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 144489,
       "name": "Crises",
       "url": "https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
+        "name": "Quero Voltar",
+        "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
+      },
+      "artists": [
+        {
+          "name": "Gui Hazel",
+          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Quero Voltar",
+      "url": "https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -811,6 +811,26 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
+        "name": "Firme",
+        "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
+      },
+      "artists": [
+        {
+          "name": "Fe Ribeiro",
+          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
+        },
+        {
+          "name": "Ty Fig",
+          "url": "https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Firme",
+      "url": "https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
         "name": "Encontrei em Voc\u00ea",
         "url": "https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo"
       },
@@ -839,22 +859,42 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "Firme",
-        "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
+        "name": "Mais Perto do C\u00e9u",
+        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
       },
       "artists": [
         {
-          "name": "Fe Ribeiro",
-          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
-          "name": "Ty Fig",
-          "url": "https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S"
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 156937,
-      "name": "Firme",
-      "url": "https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw"
+      "duration_ms": 157568,
+      "name": "Mais Perto do C\u00e9u",
+      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
+        "name": "Momentos Dif\u00edceis",
+        "url": "https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 158081,
+      "name": "Momentos Dif\u00edceis",
+      "url": "https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -883,62 +923,6 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "Momentos Dif\u00edceis",
-        "url": "https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 158081,
-      "name": "Momentos Dif\u00edceis",
-      "url": "https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
-        "name": "Mais Perto do C\u00e9u",
-        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 157568,
-      "name": "Mais Perto do C\u00e9u",
-      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
-        "name": "Imperativo Categ\u00f3rico",
-        "url": "https://open.spotify.com/album/0kIoZLAk1sAyDCoQl7mpM0"
-      },
-      "artists": [
-        {
-          "name": "Asaph",
-          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
-        }
-      ],
-      "duration_ms": 154593,
-      "name": "Imperativo Categ\u00f3rico",
-      "url": "https://open.spotify.com/track/31xZhLtxYgefEUXVYKnkj4"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
         "name": "Com Jesus Eu Ganho",
         "url": "https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "Refer\u00eancia",
-        "url": "https://open.spotify.com/album/0gon4eAbvCM2wRvKEskQR5"
+        "name": "Imperativo Categ\u00f3rico",
+        "url": "https://open.spotify.com/album/0kIoZLAk1sAyDCoQl7mpM0"
       },
       "artists": [
         {
-          "name": "Jovem Z",
-          "url": "https://open.spotify.com/artist/28ptPLU2p1iABFrK5tGe7v"
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Refer\u00eancia",
-      "url": "https://open.spotify.com/track/3X1HmQAthMhwGEFxB7SQwA"
+      "duration_ms": 154593,
+      "name": "Imperativo Categ\u00f3rico",
+      "url": "https://open.spotify.com/track/31xZhLtxYgefEUXVYKnkj4"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -991,6 +975,22 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
+        "name": "Refer\u00eancia",
+        "url": "https://open.spotify.com/album/0gon4eAbvCM2wRvKEskQR5"
+      },
+      "artists": [
+        {
+          "name": "Jovem Z",
+          "url": "https://open.spotify.com/artist/28ptPLU2p1iABFrK5tGe7v"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Refer\u00eancia",
+      "url": "https://open.spotify.com/track/3X1HmQAthMhwGEFxB7SQwA"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
         "name": "Deus Me Estendeu Sua M\u00e3o",
         "url": "https://open.spotify.com/album/11H96prjfGCKxIHVAuVLYH"
       },
@@ -1003,6 +1003,26 @@
       "duration_ms": 167947,
       "name": "Deus Me Estendeu Sua M\u00e3o",
       "url": "https://open.spotify.com/track/6pn8UkB7vFhHtAFhmWwnP9"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
+        "name": "Sem a Sua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Clerick",
+          "url": "https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5"
+        }
+      ],
+      "duration_ms": 185072,
+      "name": "Sem a Sua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -1027,26 +1047,6 @@
       "duration_ms": 159069,
       "name": "Melhores Dias",
       "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
-        "name": "Sem a Sua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Clerick",
-          "url": "https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5"
-        }
-      ],
-      "duration_ms": 185072,
-      "name": "Sem a Sua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
+        "name": "O Apocalipse \u00c9 Real",
+        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 155084,
+      "name": "O Apocalipse \u00c9 Real",
+      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
         "name": "Sangue",
         "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
       },
@@ -1143,50 +1159,6 @@
       "duration_ms": 173548,
       "name": "Sangue",
       "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
-        "name": "O Apocalipse \u00c9 Real",
-        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 155084,
-      "name": "O Apocalipse \u00c9 Real",
-      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
-        "name": "Ora\u00e7\u00e3o II",
-        "url": "https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o VR6",
-          "url": "https://open.spotify.com/artist/19VU06z6Qr5NIONW6K9CrT"
-        },
-        {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "Lp067",
-          "url": "https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M"
-        },
-        {
-          "name": "iagguprod",
-          "url": "https://open.spotify.com/artist/5cfItb47C9bpeRAiPB62qL"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Ora\u00e7\u00e3o II",
-      "url": "https://open.spotify.com/track/7z8XT0LLmLma82SSkwN4et"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -1219,6 +1191,34 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
+        "name": "Ora\u00e7\u00e3o II",
+        "url": "https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o VR6",
+          "url": "https://open.spotify.com/artist/19VU06z6Qr5NIONW6K9CrT"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "Lp067",
+          "url": "https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M"
+        },
+        {
+          "name": "iagguprod",
+          "url": "https://open.spotify.com/artist/5cfItb47C9bpeRAiPB62qL"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Ora\u00e7\u00e3o II",
+      "url": "https://open.spotify.com/track/7z8XT0LLmLma82SSkwN4et"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
         "name": "Gratid\u00e3o",
         "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
       },
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "Lesgo",
-        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "Lesgo",
-      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
         "name": "Eu Sou",
         "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
       },
@@ -1279,6 +1255,26 @@
       "duration_ms": 185373,
       "name": "Eu Sou",
       "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
+        "name": "Profeta",
+        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 131785,
+      "name": "Profeta",
+      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -1319,6 +1315,26 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
+        "name": "Vejo Tudo",
+        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
+      },
+      "artists": [
+        {
+          "name": "GBZIN",
+          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
+        },
+        {
+          "name": "Urban Music",
+          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "Vejo Tudo",
+      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/5Z5y5wPXvvlVIe7sSZAKiG"
       },
@@ -1347,8 +1363,8 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "Profeta",
-        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
+        "name": "Lesgo",
+        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
       },
       "artists": [
         {
@@ -1356,33 +1372,17 @@
           "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
           "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 131785,
-      "name": "Profeta",
-      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
-        "name": "Vejo Tudo",
-        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
-      },
-      "artists": [
-        {
-          "name": "GBZIN",
-          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
-        },
-        {
-          "name": "Urban Music",
-          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "Vejo Tudo",
-      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
+      "duration_ms": 204210,
+      "name": "Lesgo",
+      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
     },
     {
       "added_at": "2026-09-08 19:58:46",

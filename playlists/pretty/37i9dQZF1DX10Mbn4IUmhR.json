@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI29EldUmbo/9BCVsTPa62DcEE6Y",
+  "snapshot_id": "AAAAAGR61Rk6nrD9VN4RLLidRzBVdPVj",
   "tracks": [
     {
       "added_at": "2026-09-11 07:05:13",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-09-11 07:05:13",
       "album": {
-        "name": "I Hope You Don't Remember Me",
-        "url": "https://open.spotify.com/album/4ZLW7yBp3Hsoy5qLr81Yil"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 201508,
-      "name": "That's Fine",
-      "url": "https://open.spotify.com/track/3Gmd8YZFXbo7N1PfZw1o0E"
-    },
-    {
-      "added_at": "2026-09-11 07:05:13",
-      "album": {
         "name": "Only Like You Do",
         "url": "https://open.spotify.com/album/3pUou1oes1CEVrST0w4aMr"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2026-09-11 07:05:13",
       "album": {
+        "name": "I Hope You Don't Remember Me",
+        "url": "https://open.spotify.com/album/4ZLW7yBp3Hsoy5qLr81Yil"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 201508,
+      "name": "That's Fine",
+      "url": "https://open.spotify.com/track/3Gmd8YZFXbo7N1PfZw1o0E"
+    },
+    {
+      "added_at": "2026-09-11 07:05:13",
+      "album": {
         "name": "A Rush To Nowhere",
         "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
       },
@@ -991,26 +991,6 @@
       "duration_ms": 221826,
       "name": "You're My",
       "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"
-    },
-    {
-      "added_at": "2026-09-11 07:05:13",
-      "album": {
-        "name": "RnBling",
-        "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "LE:GEND",
-          "url": "https://open.spotify.com/artist/1i0EEVYkm3H4GF8LccSAB2"
-        }
-      ],
-      "duration_ms": 142439,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/5IOpGrjpxIinJr0KqB3zqV"
     },
     {
       "added_at": "2026-09-11 07:05:13",
@@ -1031,6 +1011,26 @@
       "duration_ms": 216266,
       "name": "Allegedly (with Teddy Swims)",
       "url": "https://open.spotify.com/track/5bugu0yAVStPJF7InoYUEG"
+    },
+    {
+      "added_at": "2026-09-11 07:05:13",
+      "album": {
+        "name": "RnBling",
+        "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "LE:GEND",
+          "url": "https://open.spotify.com/artist/1i0EEVYkm3H4GF8LccSAB2"
+        }
+      ],
+      "duration_ms": 142439,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/5IOpGrjpxIinJr0KqB3zqV"
     },
     {
       "added_at": "2026-09-11 07:05:13",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-09-11 07:05:13",
       "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "added_at": "2026-09-11 07:05:13",
-      "album": {
         "name": "Popstar Party",
         "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
       },
@@ -1235,22 +1219,18 @@
     {
       "added_at": "2026-09-11 07:05:13",
       "album": {
-        "name": "Juvie",
-        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 195589,
-      "name": "Dive In",
-      "url": "https://open.spotify.com/track/0bA6QKsb5NaUEPp408fX0S"
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
       "added_at": "2026-09-11 07:05:13",
@@ -1287,6 +1267,26 @@
       "duration_ms": 197739,
       "name": "Net Ek en Jy",
       "url": "https://open.spotify.com/track/21YKuvaq2BMxtcZkYjDUzP"
+    },
+    {
+      "added_at": "2026-09-11 07:05:13",
+      "album": {
+        "name": "Juvie",
+        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 195589,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/0bA6QKsb5NaUEPp408fX0S"
     },
     {
       "added_at": "2026-09-11 07:05:13",

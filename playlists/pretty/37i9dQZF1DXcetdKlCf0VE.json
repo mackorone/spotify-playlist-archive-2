@@ -1,12 +1,12 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 32876,
+  "num_followers": 32883,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEPuF/gKOGu2D3tHKACIj9x82HWS",
+  "snapshot_id": "AAAAANejLg37ZfJAVoaNVgiIiwI1t5Xx",
   "tracks": [
     {
       "added_at": "2025-12-15 12:16:59",
@@ -351,8 +351,8 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius Symphonies No 4 & 6",
-        "url": "https://open.spotify.com/album/1PTjXCHlzdVev7qZrsW1xK"
+        "name": "Sibelius/Grieg: String Quartets",
+        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
       },
       "artists": [
         {
@@ -360,17 +360,13 @@
           "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
-        },
-        {
-          "name": "Sir Mark Elder",
-          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
+          "name": "Guarneri Quartet",
+          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
         }
       ],
-      "duration_ms": 766933,
-      "name": "Symphony No.4 in A Minor, Op. 63: III. Il tempo largo",
-      "url": "https://open.spotify.com/track/0MlZNthCGTUf2tn5NzdJY4"
+      "duration_ms": 374000,
+      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 4. Allegretto (ma pesante)",
+      "url": "https://open.spotify.com/track/0CnnEtrX6RbMcnOqhtlpWQ"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -412,15 +408,15 @@
           "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
         }
       ],
-      "duration_ms": 374000,
-      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 4. Allegretto (ma pesante)",
-      "url": "https://open.spotify.com/track/0CnnEtrX6RbMcnOqhtlpWQ"
+      "duration_ms": 288000,
+      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
+      "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
     },
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius/Grieg: String Quartets",
-        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
+        "name": "Sibelius Symphonies No 4 & 6",
+        "url": "https://open.spotify.com/album/1PTjXCHlzdVev7qZrsW1xK"
       },
       "artists": [
         {
@@ -428,13 +424,17 @@
           "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Guarneri Quartet",
-          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
+        },
+        {
+          "name": "Sir Mark Elder",
+          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
         }
       ],
-      "duration_ms": 288000,
-      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
-      "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
+      "duration_ms": 766933,
+      "name": "Symphony No.4 in A Minor, Op. 63: III. Il tempo largo",
+      "url": "https://open.spotify.com/track/0MlZNthCGTUf2tn5NzdJY4"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -507,26 +507,6 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius Piano Works",
-        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Janne Mertanen",
-          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
-        }
-      ],
-      "duration_ms": 209880,
-      "name": "Ten Pieces, Op. 24: Idyll, Op. 24: No. 6",
-      "url": "https://open.spotify.com/track/2qvjgKcSEDndhfQyWRadRU"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
         "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
         "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 516200,
       "name": "String Quartet in D Minor, Op. 56 \"Voces intimae\": III. Adagio di molto",
       "url": "https://open.spotify.com/track/1qgDeM1iMOEP2yoRJ6tMqo"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Sibelius Piano Works",
+        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Janne Mertanen",
+          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "Ten Pieces, Op. 24: Idyll, Op. 24: No. 6",
+      "url": "https://open.spotify.com/track/2qvjgKcSEDndhfQyWRadRU"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -591,30 +591,6 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius: Essentials",
-        "url": "https://open.spotify.com/album/02VIadxooZpaFfKNDQomCM"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Gothenburg Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        }
-      ],
-      "duration_ms": 727409,
-      "name": "Pohjola's Daughter, Op. 49",
-      "url": "https://open.spotify.com/track/4sOlhYFDDSdsHiQQMqReZu"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
         "name": "Suite for Violin and String Orchestra, Js 185 (Live)",
         "url": "https://open.spotify.com/album/77smjWFvvpixNL5HSWzieK"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 267962,
       "name": "Suite for Violin and String Orchestra, JS 185: II. Evening in Spring - Live",
       "url": "https://open.spotify.com/track/2zUwZxKDexOexKkQPHDqs6"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Sibelius: Essentials",
+        "url": "https://open.spotify.com/album/02VIadxooZpaFfKNDQomCM"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "duration_ms": 727409,
+      "name": "Pohjola's Daughter, Op. 49",
+      "url": "https://open.spotify.com/track/4sOlhYFDDSdsHiQQMqReZu"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -703,6 +703,26 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
+        "name": "Colin Davis conducts Sibelius",
+        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 134093,
+      "name": "Rakastava, Op. 14: The Path of his Beloved",
+      "url": "https://open.spotify.com/track/4XjmOjgHta5EJ8gltegaav"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
         "name": "Grieg & Sibelius : Orchestral Songs",
         "url": "https://open.spotify.com/album/21FnafVuFwae4ciZcmf01t"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 314800,
       "name": "Sibelius: 5 Songs, Op. 38: No. 1, H\u00f6stkv\u00e4ll (Orchestral Version)",
       "url": "https://open.spotify.com/track/4yaGabbDEJ1f6i8qnyzoi0"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
-        "name": "Colin Davis conducts Sibelius",
-        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 134093,
-      "name": "Rakastava, Op. 14: The Path of his Beloved",
-      "url": "https://open.spotify.com/track/4XjmOjgHta5EJ8gltegaav"
     },
     {
       "added_at": "2025-12-15 12:16:59",

@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 188307,
       "name": "Alo, Scuze!",
       "url": "https://open.spotify.com/track/3SJ4jIR6QGX8QSth1NDwuw"
@@ -3880,7 +3880,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 154160,
       "name": "A\u0219a \u0219i a\u0219a",
       "url": "https://open.spotify.com/track/1MlChz5MNNWw0MZwFZu7ho"
@@ -9534,7 +9534,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
@@ -9866,6 +9866,24 @@
       "duration_ms": 188388,
       "name": "CLEOPATRA",
       "url": "https://open.spotify.com/track/5rAArOCAb4jxO9AMCuGmef"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206164,
+      "name": "Cleveland!",
+      "url": "https://open.spotify.com/track/7uxkx8HPBYkJKcimOyggUM"
     },
     {
       "album": {
@@ -15278,7 +15296,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 132000,
       "name": "emotional swaggage",
       "url": "https://open.spotify.com/track/6p5TDjOyftfWjBcFfJNpmM"
@@ -23611,6 +23629,24 @@
     },
     {
       "album": {
+        "name": "ISABEL MARANT",
+        "url": "https://open.spotify.com/album/6lFhPL3dSlcuqklYdYmr01"
+      },
+      "artists": [
+        {
+          "name": "AdelinMM",
+          "url": "https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "ISABEL MARANT",
+      "url": "https://open.spotify.com/track/3LVhWsxMk8WTCf4yaASm2G"
+    },
+    {
+      "album": {
         "name": "IDCASH",
         "url": "https://open.spotify.com/album/2zukLJzpwHRvFCYetUv5nc"
       },
@@ -30490,7 +30526,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 137500,
       "name": "Mor dup\u0103 tine",
       "url": "https://open.spotify.com/track/3ia9wVJVCCxpixci3dXlxB"
@@ -32775,6 +32811,24 @@
     },
     {
       "album": {
+        "name": "Nu r\u0103s\u0103ri\u021bi stele",
+        "url": "https://open.spotify.com/album/2ZdyAFBaYBs4EUsGp1oB7L"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165217,
+      "name": "Nu r\u0103s\u0103ri\u021bi stele",
+      "url": "https://open.spotify.com/track/3VJgRYPFOnDdhfqWGuUPib"
+    },
+    {
+      "album": {
         "name": "Kira",
         "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
       },
@@ -33150,6 +33204,28 @@
       "duration_ms": 177031,
       "name": "Oare",
       "url": "https://open.spotify.com/track/2dAmNhVPH2jaM6pnGCc1Kt"
+    },
+    {
+      "album": {
+        "name": "Oare m-ai iubi",
+        "url": "https://open.spotify.com/album/4kScXIGavj94pfal8ZuN8e"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        },
+        {
+          "name": "The Motans",
+          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172142,
+      "name": "Oare m-ai iubi",
+      "url": "https://open.spotify.com/track/5Iey9mQJs232fg3omEnaji"
     },
     {
       "album": {
@@ -35243,6 +35319,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "RMN",
         "url": "https://open.spotify.com/album/0kYZkGelkajt8OufvSU2qm"
       },
@@ -35736,7 +35830,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 198837,
       "name": "Peter Parker - Balkanic Version",
       "url": "https://open.spotify.com/track/2j6msyUIiJMUgbcoWdXMZB"
@@ -45378,7 +45472,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 161632,
       "name": "Taj Mahal",
       "url": "https://open.spotify.com/track/5JVGD7bFXKxWbSt1KItPz0"
@@ -45946,7 +46040,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 143565,
       "name": "Te pup",
       "url": "https://open.spotify.com/track/7yzdom9kCLqRIZHYlTKJof"
@@ -48750,7 +48844,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 216851,
       "name": "Tu vrei zi de zi de toate",
       "url": "https://open.spotify.com/track/1HNfcdh76Z3HFmO7xUz0TR"

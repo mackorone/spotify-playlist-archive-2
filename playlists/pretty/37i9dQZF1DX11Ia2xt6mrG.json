@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro y Jessica Audiffred en portada.",
-  "num_followers": 74677,
+  "num_followers": 74694,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM0OUzBQ1BvaFRj0hFMm+u3LlQ/n",
+  "snapshot_id": "AAAAALNWUEjMAVAQO/uHHbxRkUeWmJIe",
   "tracks": [
     {
       "added_at": "2026-09-11 06:00:33",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/4MWkaNUBfGp6LO8dQWbJqy"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 259660,
       "name": "Eco",
       "url": "https://open.spotify.com/track/6yQXgEmhBS5fc7OkPyCXSi"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "BLING BLING",
-        "url": "https://open.spotify.com/album/0KjScAnphBueUEa3md9szW"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 160258,
-      "name": "BLING BLING",
-      "url": "https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
         "name": "Midnight Replay",
         "url": "https://open.spotify.com/album/6rWXLBj7nllYP31NrzZwa7"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 189843,
       "name": "Midnight Replay",
       "url": "https://open.spotify.com/track/7rMiNWxXuxUIv93te7Mrnl"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
+        "name": "BLING BLING",
+        "url": "https://open.spotify.com/album/0KjScAnphBueUEa3md9szW"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 160258,
+      "name": "BLING BLING",
+      "url": "https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR"
     },
     {
       "added_at": "2026-09-11 06:00:33",

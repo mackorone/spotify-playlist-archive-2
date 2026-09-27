@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Jay Park)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221611,
+  "num_followers": 221610,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANP93k8Gdx1LnCnUoJGXyzvP3qZg",
+  "snapshot_id": "AAAAAN6YfihER0NlN7LCP7aZDa7K5Ltn",
   "tracks": [
     {
       "added_at": "2026-09-23 09:34:30",
@@ -63,6 +63,22 @@
     {
       "added_at": "2026-09-23 09:34:30",
       "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 201510,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
+    },
+    {
+      "added_at": "2026-09-23 09:34:30",
+      "album": {
         "name": "Show Me The Money 12 Episode 1",
         "url": "https://open.spotify.com/album/67ieVVFQxypYAvx3FirGoG"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 270304,
       "name": "SSAK (Feat. Loco) (Prod. By GRAY)",
       "url": "https://open.spotify.com/track/0FOReGSXypVBP1q3CLEbfN"
-    },
-    {
-      "added_at": "2026-09-23 09:34:30",
-      "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 201510,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
     },
     {
       "added_at": "2026-09-23 09:34:30",
@@ -1135,38 +1135,6 @@
     {
       "added_at": "2026-09-23 09:34:30",
       "album": {
-        "name": "chukchuk (demo)",
-        "url": "https://open.spotify.com/album/0CKAGyVSfkjqQ7cHDIZpO1"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "chukchuk - demo",
-      "url": "https://open.spotify.com/track/02T2UJuSftQ5JceWO5GhJd"
-    },
-    {
-      "added_at": "2026-09-23 09:34:30",
-      "album": {
-        "name": "MELODY",
-        "url": "https://open.spotify.com/album/3W1z3nwXcFrxdY8mSwktGl"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 181629,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/259wZqRoiqkrRMosDDnnOX"
-    },
-    {
-      "added_at": "2026-09-23 09:34:30",
-      "album": {
         "name": "BLEND",
         "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
       },
@@ -1187,6 +1155,38 @@
       "duration_ms": 137546,
       "name": "Bad Idea (Feat. BANG YEDAM, pH-1)",
       "url": "https://open.spotify.com/track/5YkYwKTub2bBqnoUsK89Su"
+    },
+    {
+      "added_at": "2026-09-23 09:34:30",
+      "album": {
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/3W1z3nwXcFrxdY8mSwktGl"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 181629,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/259wZqRoiqkrRMosDDnnOX"
+    },
+    {
+      "added_at": "2026-09-23 09:34:30",
+      "album": {
+        "name": "chukchuk (demo)",
+        "url": "https://open.spotify.com/album/0CKAGyVSfkjqQ7cHDIZpO1"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "chukchuk - demo",
+      "url": "https://open.spotify.com/track/02T2UJuSftQ5JceWO5GhJd"
     },
     {
       "added_at": "2026-09-23 09:34:30",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-09-23 09:34:30",
       "album": {
+        "name": "I Am Yours",
+        "url": "https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "duration_ms": 211640,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE"
+    },
+    {
+      "added_at": "2026-09-23 09:34:30",
+      "album": {
         "name": "Show Must Go On",
         "url": "https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2026-09-23 09:34:30",
       "album": {
-        "name": "I Am Yours",
-        "url": "https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 211640,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE"
-    },
-    {
-      "added_at": "2026-09-23 09:34:30",
-      "album": {
         "name": "Hit Me Up (feat. MINGI of ATEEZ)",
         "url": "https://open.spotify.com/album/7cUKFAqF0tiOU9Tu0RD460"
       },
@@ -1535,22 +1535,18 @@
     {
       "added_at": "2026-09-23 09:34:30",
       "album": {
-        "name": "Focused On Getting Rich",
-        "url": "https://open.spotify.com/album/19nQ5tfbjcexQxVXWToO1u"
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
       "artists": [
         {
-          "name": "KHAN",
-          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
-        },
-        {
-          "name": "OXYNOVA",
-          "url": "https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 138280,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/53Ck0tEqxMbgP9GpBSN1cl"
+      "duration_ms": 216293,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
     },
     {
       "added_at": "2026-09-23 09:34:30",
@@ -1579,18 +1575,22 @@
     {
       "added_at": "2026-09-23 09:34:30",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+        "name": "Focused On Getting Rich",
+        "url": "https://open.spotify.com/album/19nQ5tfbjcexQxVXWToO1u"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        },
+        {
+          "name": "OXYNOVA",
+          "url": "https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa"
         }
       ],
-      "duration_ms": 216293,
-      "name": "Vancouver",
-      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
+      "duration_ms": 138280,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/53Ck0tEqxMbgP9GpBSN1cl"
     },
     {
       "added_at": "2026-09-23 09:34:30",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2026-09-23 09:34:30",
       "album": {
-        "name": "Day & Night (feat. Jay Park)",
-        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Day & Night (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
-    },
-    {
-      "added_at": "2026-09-23 09:34:30",
-      "album": {
         "name": "VISTA",
         "url": "https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 202035,
       "name": "Who you?",
       "url": "https://open.spotify.com/track/3IVMl7rrOX8BbQ8LNyotb0"
+    },
+    {
+      "added_at": "2026-09-23 09:34:30",
+      "album": {
+        "name": "Day & Night (feat. Jay Park)",
+        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Day & Night (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
     },
     {
       "added_at": "2026-09-23 09:34:30",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2026-09-23 09:34:30",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": " jambino",
-          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "ADHD (feat. Jambino)",
-      "url": "https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0"
-    },
-    {
-      "added_at": "2026-09-23 09:34:30",
-      "album": {
         "name": "WET",
         "url": "https://open.spotify.com/album/4LmjnThcPXDd9Lcz3ctIY1"
       },
@@ -2007,6 +1987,26 @@
       "duration_ms": 200000,
       "name": "WET",
       "url": "https://open.spotify.com/track/6XVzxEg3OzlpdnJIzBZBL3"
+    },
+    {
+      "added_at": "2026-09-23 09:34:30",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": " jambino",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "ADHD (feat. Jambino)",
+      "url": "https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

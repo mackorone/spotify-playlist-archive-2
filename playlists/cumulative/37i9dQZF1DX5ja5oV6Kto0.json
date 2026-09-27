@@ -16850,7 +16850,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 188764,
       "name": "Popstar Party",
       "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
@@ -21552,6 +21552,24 @@
       "duration_ms": 169463,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/5u3DPeOB7igxEaZV6lntlh"
+    },
+    {
+      "album": {
+        "name": "Ten Ten",
+        "url": "https://open.spotify.com/album/2S3DHXubpBKKAdlpz6VfCz"
+      },
+      "artists": [
+        {
+          "name": "Tmaro",
+          "url": "https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141250,
+      "name": "Ten Ten",
+      "url": "https://open.spotify.com/track/6o2i6XRwvtcan3Harp04Jw"
     },
     {
       "album": {

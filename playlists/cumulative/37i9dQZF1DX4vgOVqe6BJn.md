@@ -4,7 +4,7 @@
 
 > The official soundtrack for EA SPORTS FC 27.
 
-355 songs - 19 hr 29 min
+356 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Back On You](https://open.spotify.com/track/50xPaSwYLoKZrLhPyuHwvC) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 5:23 | 2025-09-15 | 2026-09-11 |
 | [Bajo De La Piel](https://open.spotify.com/track/3sc0Wv64rOuIRVkQO7rrer) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 2:48 | 2026-09-10 |  |
 | [Bang Bang \(feat\. Stylo G, Riko Dan & Frisco\)](https://open.spotify.com/track/3jzfiKtkueyzmvWVelVwtk) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Bang Bang \(feat\. Stylo G, Riko Dan & Frisco\)](https://open.spotify.com/album/4US7XENYjIouFj9wniTQR5) | 2:49 | 2025-09-15 | 2026-09-11 |
-| [BCN Squad](https://open.spotify.com/track/4xWKzMax2D4VMvb080Ci6K) | [DJ Pone](https://open.spotify.com/artist/5d9It5vsYmHMcd1mABdXFm) | [1978](https://open.spotify.com/album/2eZNw02rDR9hJdYmj0wD45) | 3:31 | 2026-09-10 |  |
+| [BCN Squad](https://open.spotify.com/track/4xWKzMax2D4VMvb080Ci6K) | [DJ Pone](https://open.spotify.com/artist/5d9It5vsYmHMcd1mABdXFm) | [1978](https://open.spotify.com/album/2eZNw02rDR9hJdYmj0wD45) | 3:31 | 2026-09-10 | 2026-09-27 |
 | [Beat Keep Rockin'](https://open.spotify.com/track/11RXJgrGmyPJEtbOJ9ZFYQ) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Beat Keep Rockin'](https://open.spotify.com/album/6qIpC1zUZJ1DqFbyMcQT6q) | 3:03 | 2025-09-15 | 2026-09-11 |
 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 | 2022-09-30 | 2025-09-16 |
 | [Behind The Sun](https://open.spotify.com/track/0dhKGbQFIUnfjozzISQvuj) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 4:10 | 2022-09-22 | 2025-09-16 |
@@ -262,6 +262,7 @@
 | [Pájaro Cantor](https://open.spotify.com/track/6odGtiVKetw1IxyOYomG8Z) | [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW), [Cantora de Barro](https://open.spotify.com/artist/2O4CwpeQWQb4VjmpmAxzU2) | [Pájaro Cantor](https://open.spotify.com/album/5jmYb89g2MOH4tAJxt73At) | 4:38 | 2025-09-26 | 2026-09-11 |
 | [Quiero Mas](https://open.spotify.com/track/7JPMho2z4oTf3ESsVaHq82) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Quiero Mas](https://open.spotify.com/album/0RJBbeCQ0Zrve3k4SwkJZH) | 2:18 | 2026-09-10 |  |
 | [Quiet On Set](https://open.spotify.com/track/1MayFYhQQvVD4IzD7dqBBj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:15 | 2022-09-22 | 2025-09-16 |
+| [Ready To Go](https://open.spotify.com/track/6KEIaqDtnIXKcDILpNbo9K) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Ready To Go](https://open.spotify.com/album/5Nu0zhhhjLqMV9roSP6uhj) | 3:18 | 2026-09-25 |  |
 | [READY4DEM](https://open.spotify.com/track/6vFjgISjK4fwJYPnMt8zAX) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [READY4DEM](https://open.spotify.com/album/5vdRPZLNiSdQbZKAkmRiEE) | 4:22 | 2022-09-22 | 2025-09-16 |
 | [READY4DEM](https://open.spotify.com/track/7CHVm8NeCxvPuCXyAGAx3v) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [READY4DEM](https://open.spotify.com/album/6tCi26oMJXUAQHMGntdxvL) | 4:22 | 2023-01-25 | 2024-04-19 |
 | [Red Flag](https://open.spotify.com/track/5m8QBWMfWxq9F8e8uI53hp) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)+](https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ) | 3:11 | 2026-09-10 |  |

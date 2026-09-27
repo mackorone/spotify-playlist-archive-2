@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 367445,
+  "num_followers": 367461,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP23/dDsXYvu4DzKEyFGqhKoKMox",
+  "snapshot_id": "AAAAAFSrXyllTMXEIQS0fn2/14VuLsqx",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Cyber Love",
+        "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "The Way U Make Me Feel",
+      "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Onam Wave",
         "url": "https://open.spotify.com/album/3ZgBRUcnOB08vpsW93jB75"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 207243,
       "name": "Onam Wave",
       "url": "https://open.spotify.com/track/0z3T9iuOQBLMKGYmTHy7hn"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Cyber Love",
-        "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "The Way U Make Me Feel",
-      "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sidechain My Heart",
-        "url": "https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Love & Affection",
-      "url": "https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 232699,
       "name": "Mode",
       "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Sidechain My Heart",
+        "url": "https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Love & Affection",
+      "url": "https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 103059,
-      "name": "Lovely Road",
-      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "You Can't Run",
         "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 201142,
       "name": "You Can't Run",
       "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 103059,
+      "name": "Lovely Road",
+      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Delicate",
         "url": "https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 251151,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 173421,
-      "name": "Palm Road",
-      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Your Secrets",
         "url": "https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 240526,
       "name": "Your Secrets",
       "url": "https://open.spotify.com/track/6t3WRqrQW6PTLgYZLRIQvL"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 173421,
+      "name": "Palm Road",
+      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Pure Love",
-        "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
-      },
-      "artists": [
-        {
-          "name": "Pure Gem",
-          "url": "https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA"
-        }
-      ],
-      "duration_ms": 141145,
-      "name": "Shiny Shiny",
-      "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "SAILORSATURDAYS",
         "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 240000,
       "name": "SAILORSATURDAYS",
       "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
+      },
+      "artists": [
+        {
+          "name": "Pure Gem",
+          "url": "https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA"
+        }
+      ],
+      "duration_ms": 141145,
+      "name": "Shiny Shiny",
+      "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Notilde Tapes, Vol. 1",
-        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
-      },
-      "artists": [
-        {
-          "name": "Pop Up!",
-          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
-        }
-      ],
-      "duration_ms": 230655,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Take Me Back to Shinjuku",
         "url": "https://open.spotify.com/album/53Oabg4TRYA5oHPzWNrgHI"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 234666,
       "name": "Take Me Back to Shinjuku",
       "url": "https://open.spotify.com/track/0M7udppMcGyscI3NtVXvQJ"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Notilde Tapes, Vol. 1",
+        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
+      },
+      "artists": [
+        {
+          "name": "Pop Up!",
+          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
+        }
+      ],
+      "duration_ms": 230655,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Virtual Girls Band a.k.a. Sparkle",
-        "url": "https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 186664,
-      "name": "Break Your Heart",
-      "url": "https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Cheetahs in Barcelona",
         "url": "https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 169714,
       "name": "Cheetahs in Barcelona",
       "url": "https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Virtual Girls Band a.k.a. Sparkle",
+        "url": "https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 186664,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1651,38 +1651,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "I Must Be Dreamin'",
-        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
+        "name": "ICE CREAM",
+        "url": "https://open.spotify.com/album/2U297DcmJRXYW0eOrgiSsF"
       },
       "artists": [
         {
-          "name": "Luanmer",
-          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
-        },
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+          "name": "glue70",
+          "url": "https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J"
         }
       ],
-      "duration_ms": 223129,
-      "name": "I Must Be Dreamin'",
-      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Desolate",
-        "url": "https://open.spotify.com/album/0waobASW8LPI2ddSKVkKJF"
-      },
-      "artists": [
-        {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
-        }
-      ],
-      "duration_ms": 281697,
-      "name": "Desolate",
-      "url": "https://open.spotify.com/track/6ySdY0Ps0lKA6IfXpU0hy8"
+      "duration_ms": 161280,
+      "name": "Sometime's He's Pretty",
+      "url": "https://open.spotify.com/track/3nCA4kWJIZ5laYZHWIbzSU"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1703,18 +1683,38 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "ICE CREAM",
-        "url": "https://open.spotify.com/album/2U297DcmJRXYW0eOrgiSsF"
+        "name": "Desolate",
+        "url": "https://open.spotify.com/album/0waobASW8LPI2ddSKVkKJF"
       },
       "artists": [
         {
-          "name": "glue70",
-          "url": "https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J"
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
         }
       ],
-      "duration_ms": 161280,
-      "name": "Sometime's He's Pretty",
-      "url": "https://open.spotify.com/track/3nCA4kWJIZ5laYZHWIbzSU"
+      "duration_ms": 281697,
+      "name": "Desolate",
+      "url": "https://open.spotify.com/track/6ySdY0Ps0lKA6IfXpU0hy8"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "I Must Be Dreamin'",
+        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
+      },
+      "artists": [
+        {
+          "name": "Luanmer",
+          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
+        },
+        {
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+        }
+      ],
+      "duration_ms": 223129,
+      "name": "I Must Be Dreamin'",
+      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
     }
   ],
   "unique_name": "Future Funk",

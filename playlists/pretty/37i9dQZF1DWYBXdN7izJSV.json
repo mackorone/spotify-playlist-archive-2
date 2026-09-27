@@ -1,12 +1,12 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 117423,
+  "num_followers": 117427,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAh9YOQfMNdv0uMZwxkyL0dwv4g3",
+  "snapshot_id": "AAAAAChXGAdRam/F16I/vxsm1tfQaPvH",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:42",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Cruel Moon",
-        "url": "https://open.spotify.com/album/6BCNak8WCST4LLYSGborQk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Miller",
-          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "Does My Ring Burn Your Finger",
-      "url": "https://open.spotify.com/track/5gABUTybqevRxpFA9Bl2AT"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Anodyne",
         "url": "https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 222826,
       "name": "Chickamauga",
       "url": "https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Cruel Moon",
+        "url": "https://open.spotify.com/album/6BCNak8WCST4LLYSGborQk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Miller",
+          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+        }
+      ],
+      "duration_ms": 195293,
+      "name": "Does My Ring Burn Your Finger",
+      "url": "https://open.spotify.com/track/5gABUTybqevRxpFA9Bl2AT"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3"
-      },
-      "artists": [
-        {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "Keep the Home Fires Burnin'",
-      "url": "https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Uncle Tupelo 89/93: An Anthology",
         "url": "https://open.spotify.com/album/3QTZMpN4IHejzml5kxVGEG"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 263666,
       "name": "Moonshiner",
       "url": "https://open.spotify.com/track/7KJ2nuhkrBXudfs0fmyw04"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "Keep the Home Fires Burnin'",
+      "url": "https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz"
     },
     {
       "added_at": "2026-06-19 04:01:42",

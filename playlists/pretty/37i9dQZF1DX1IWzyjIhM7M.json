@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 10462,
+  "num_followers": 10470,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALyVvIriCL2+rNtRTTth7+BCj6PZ",
+  "snapshot_id": "AAAAAIzHVeteJlv6OdCA1KBOclZTi1Zh",
   "tracks": [
     {
       "added_at": "2024-01-10 16:06:35",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Best Case Girl",
-        "url": "https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu"
-      },
-      "artists": [
-        {
-          "name": "Beeson",
-          "url": "https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Best Case Girl",
-      "url": "https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Sophie",
         "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 194430,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Best Case Girl",
+        "url": "https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu"
+      },
+      "artists": [
+        {
+          "name": "Beeson",
+          "url": "https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Best Case Girl",
+      "url": "https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Cheapshot",
-        "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
-      },
-      "artists": [
-        {
-          "name": "Seago",
-          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
-        }
-      ],
-      "duration_ms": 100593,
-      "name": "Cheapshot",
-      "url": "https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "bo card (things i need)",
         "url": "https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 179717,
       "name": "bo card (things i need)",
       "url": "https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Cheapshot",
+        "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
+      },
+      "artists": [
+        {
+          "name": "Seago",
+          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
+        }
+      ],
+      "duration_ms": 100593,
+      "name": "Cheapshot",
+      "url": "https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od"
-      },
-      "artists": [
-        {
-          "name": "FiFi Zhang",
-          "url": "https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y"
-        }
-      ],
-      "duration_ms": 182828,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "rocketship",
         "url": "https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 159226,
       "name": "rocketship",
       "url": "https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od"
+      },
+      "artists": [
+        {
+          "name": "FiFi Zhang",
+          "url": "https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y"
+        }
+      ],
+      "duration_ms": 182828,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Funny Black Lines",
-        "url": "https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N"
-      },
-      "artists": [
-        {
-          "name": "Kieran Campbell",
-          "url": "https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "Funny Black Lines",
-      "url": "https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Lose You - A COLORS SHOW",
         "url": "https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 199454,
       "name": "Lose You - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Funny Black Lines",
+        "url": "https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N"
+      },
+      "artists": [
+        {
+          "name": "Kieran Campbell",
+          "url": "https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "Funny Black Lines",
+      "url": "https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
+      },
+      "artists": [
+        {
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
+        }
+      ],
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 228484,
       "name": "Raining Tomorrow",
       "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
-      },
-      "artists": [
-        {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
-        }
-      ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Infinite Spring",
         "url": "https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 234500,
       "name": "Big Songbirds Don't Cry",
       "url": "https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w"
-      },
-      "artists": [
-        {
-          "name": "Leah Mason",
-          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
-        }
-      ],
-      "duration_ms": 210315,
-      "name": "Black Sheep",
-      "url": "https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "nou",
         "url": "https://open.spotify.com/album/06jwpQC21cgnHAOeQ5EJ2k"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 157362,
       "name": "piano song",
       "url": "https://open.spotify.com/track/4qJz2spmxnPavbGx51W0hn"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w"
+      },
+      "artists": [
+        {
+          "name": "Leah Mason",
+          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+        }
+      ],
+      "duration_ms": 210315,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k"
     }
   ],
   "unique_name": "Fresh Finds: Class of 2023",

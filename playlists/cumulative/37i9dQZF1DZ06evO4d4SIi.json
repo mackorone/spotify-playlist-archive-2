@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "What Do I Do If You Don't",
+        "url": "https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174470,
+      "name": "What Do I Do If You Don't",
+      "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"
+    },
+    {
+      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },

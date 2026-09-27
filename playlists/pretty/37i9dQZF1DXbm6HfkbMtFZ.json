@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 844551,
+  "num_followers": 844608,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEfy2K+f1qUYzf9FaCMxEbejllfX",
+  "snapshot_id": "AAAAAHwyUTtpd6SHzdGlztQH8lRrNrf8",
   "tracks": [
     {
       "added_at": "2026-09-11 17:50:27",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Cool Cat - Remastered 2011",
-      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -355,22 +339,18 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Lou's Tune",
-        "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
       "artists": [
         {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "Moses Boyd",
-          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 102634,
-      "name": "Lou's Tune",
-      "url": "https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T"
+      "duration_ms": 209106,
+      "name": "Cool Cat - Remastered 2011",
+      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -403,6 +383,26 @@
       "duration_ms": 242440,
       "name": "Golden Cage",
       "url": "https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Lou's Tune",
+        "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        }
+      ],
+      "duration_ms": 102634,
+      "name": "Lou's Tune",
+      "url": "https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246120,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Sugar at the Gate",
         "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 174535,
       "name": "Petals",
       "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246120,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Apoptosis",
-        "url": "https://open.spotify.com/album/5Kl37pew4uRgdOjttuQHSN"
-      },
-      "artists": [
-        {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
-        }
-      ],
-      "duration_ms": 236599,
-      "name": "Take 3",
-      "url": "https://open.spotify.com/track/6PnOrZaQR29E7Y5KPuSYUn"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "New Me, Same Us",
         "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 207037,
       "name": "Where You Belong",
       "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Apoptosis",
+        "url": "https://open.spotify.com/album/5Kl37pew4uRgdOjttuQHSN"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "duration_ms": 236599,
+      "name": "Take 3",
+      "url": "https://open.spotify.com/track/6PnOrZaQR29E7Y5KPuSYUn"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
-      },
-      "artists": [
-        {
-          "name": "Moniker",
-          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
-        }
-      ],
-      "duration_ms": 145881,
-      "name": "Ocean Blue",
-      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "A Strange Arrangement",
         "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
+      },
+      "artists": [
+        {
+          "name": "Moniker",
+          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
+        }
+      ],
+      "duration_ms": 145881,
+      "name": "Ocean Blue",
+      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Sounds Good",
-        "url": "https://open.spotify.com/album/6Jxt4spHx2WCH5WfapgUWD"
-      },
-      "artists": [
-        {
-          "name": "Brainstory",
-          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
-        }
-      ],
-      "duration_ms": 134702,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "My Conversation",
         "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Wiggle Room",
-        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+        "name": "Sounds Good",
+        "url": "https://open.spotify.com/album/6Jxt4spHx2WCH5WfapgUWD"
       },
       "artists": [
         {
-          "name": "Drug Cabin",
-          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+          "name": "Brainstory",
+          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
         }
       ],
-      "duration_ms": 147893,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
+      "duration_ms": 134702,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1535,6 +1519,22 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Wiggle Room",
+        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+      },
+      "artists": [
+        {
+          "name": "Drug Cabin",
+          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+        }
+      ],
+      "duration_ms": 147893,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Lonesome No More",
-        "url": "https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi"
-      },
-      "artists": [
-        {
-          "name": "Laura Jean Anderson",
-          "url": "https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0"
-        }
-      ],
-      "duration_ms": 187542,
-      "name": "Love You Most",
-      "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 226162,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Lonesome No More",
+        "url": "https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi"
+      },
+      "artists": [
+        {
+          "name": "Laura Jean Anderson",
+          "url": "https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0"
+        }
+      ],
+      "duration_ms": 187542,
+      "name": "Love You Most",
+      "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Fossils",
-        "url": "https://open.spotify.com/album/0NMixNMU4F6CTrL04zFtAf"
-      },
-      "artists": [
-        {
-          "name": "THAO",
-          "url": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG"
-        }
-      ],
-      "duration_ms": 243365,
-      "name": "Fossils",
-      "url": "https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Quadron",
         "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
       },
@@ -1823,6 +1807,22 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
+        "name": "Fossils",
+        "url": "https://open.spotify.com/album/0NMixNMU4F6CTrL04zFtAf"
+      },
+      "artists": [
+        {
+          "name": "THAO",
+          "url": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG"
+        }
+      ],
+      "duration_ms": 243365,
+      "name": "Fossils",
+      "url": "https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
         "name": "Strange Satisfaction",
         "url": "https://open.spotify.com/album/7asSXczPSP1MDGaeFLkHmH"
       },
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/1DSAC5ZkIWBUDX6OrSPccT"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "You're A Song (That I Can't Sing)",
-      "url": "https://open.spotify.com/track/5ZXxJ5AWzZ6Td3MZKbwwdt"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Bye Bye 17",
         "url": "https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 125962,
       "name": "Late Night Morning Light",
       "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/1DSAC5ZkIWBUDX6OrSPccT"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "You're A Song (That I Can't Sing)",
+      "url": "https://open.spotify.com/track/5ZXxJ5AWzZ6Td3MZKbwwdt"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Off to the Side",
-      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "S.O.L. EP",
         "url": "https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 349026,
       "name": "S.O.L.",
       "url": "https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Off to the Side",
+      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
     },
     {
       "added_at": "2026-09-11 17:50:27",

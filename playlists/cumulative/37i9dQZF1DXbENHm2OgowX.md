@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-235 songs - 17 hr 14 min
+236 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [for us](https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN) | [findnothing](https://open.spotify.com/artist/0BksomtJ8esgOVfmXrpX1B), [hide waldo](https://open.spotify.com/artist/7G4Fsp2wsfpic7VX867NQH), [Hikari](https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P) | [if things were different](https://open.spotify.com/album/2cQI2arOtejZN6geQc6xXr) | 1:38 | 2026-05-15 | 2026-06-13 |
 | [Forever Held](https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Forever Held](https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58) | 2:38 | 2024-12-12 |  |
 | [forgiveness](https://open.spotify.com/track/14YgbSpR1vStKDuFeRlkzf) | [lønelyspirit](https://open.spotify.com/artist/6xs3ngC1nJiJxtWLh2ROih) | [forgiveness](https://open.spotify.com/album/79o2cFbdtagQBw4jq7Qayq) | 2:08 | 2026-05-15 | 2026-06-09 |
+| [forgotten dreams](https://open.spotify.com/track/0L1h80QPKKEOgYhTsOSv2S) | [Bluegaze](https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [forgotten dreams](https://open.spotify.com/album/2gkhloQAvOHRi5TMVFH4SU) | 2:08 | 2026-09-23 |  |
 | [From a Convenient Grass](https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [The Importance of Birds](https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9) | 3:39 | 2025-11-06 |  |
 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 | 2024-08-29 |  |
 | [Fur and Exhaust](https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 3:21 | 2025-06-05 |  |
@@ -114,7 +115,7 @@
 | [iel te guide \(lumineuse arp v\)](https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT) | [Passa Tempo](https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu) | [iel te guide \(lumineuse arp v\)](https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst) | 2:56 | 2026-02-27 | 2026-09-01 |
 | [If I Let Him In](https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 8:25 | 2022-02-11 | 2025-05-27 |
 | [if i weren't so broken](https://open.spotify.com/track/58C1KFbKcG21zs76iuLzCc) | [analog\_mannequin](https://open.spotify.com/artist/5BnokxEB4VXeS1359upGtH) | [if i weren't so broken](https://open.spotify.com/album/44XFwJ1M6YFdSrX8JevCcM) | 3:05 | 2026-08-18 |  |
-| [Inertia](https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Inertia](https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm) | 2:48 | 2025-06-05 |  |
+| [Inertia](https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Inertia](https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm) | 2:48 | 2025-06-05 | 2026-09-27 |
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2022-11-09 | 2023-01-10 |
 | [its never enough](https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l) | [les](https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi) | [its never enough](https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE) | 1:38 | 2025-06-20 |  |
 | [Kaiten](https://open.spotify.com/track/6JQoJ1mnw5nK9zR6UP8umm) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Kaiten](https://open.spotify.com/album/2witCrY38mr4JAfMSDKkty) | 2:48 | 2024-05-28 | 2026-08-19 |

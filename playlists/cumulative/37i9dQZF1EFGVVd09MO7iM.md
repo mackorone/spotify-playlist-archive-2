@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-1,040 songs - 2 day 17 hr 52 min
+1,041 songs - 2 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Do Not Disturb \(feat\. Kamaiyah, G\-Eazy\)](https://open.spotify.com/track/0nCjciaA68cHNBRA1C8GXN) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [4REAL 4REAL](https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm) | 3:05 | 2024-01-29 |  |
 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 | 2024-09-28 |  |
 | [Don't Don't Do It!](https://open.spotify.com/track/2svutFGaCycRmYc1mWbfQh) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 4:17 | 2024-01-29 |  |
-| [don't stop](https://open.spotify.com/track/4Zz7qwjSgxs9sRnOP2KjHb) | [blackbear](https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4) | [help](https://open.spotify.com/album/4PcOLASOD0VikPG4yB3bxg) | 2:50 | 2024-01-29 |  |
+| [don't stop](https://open.spotify.com/track/2X8Bn919hWniuJBnKDgeF0) | [blackbear](https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4) | [help](https://open.spotify.com/album/7Dx5yEjWuHnmn12uSunUGB) | 2:50 | 2026-09-26 |  |
+| [don't stop](https://open.spotify.com/track/4Zz7qwjSgxs9sRnOP2KjHb) | [blackbear](https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4) | [help](https://open.spotify.com/album/4PcOLASOD0VikPG4yB3bxg) | 2:50 | 2024-01-29 | 2026-09-27 |
 | [Don't Stop](https://open.spotify.com/track/0fYPxASwlLNKqEdxlp8FFV) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Don't Stop](https://open.spotify.com/album/5NtzjL7k5XEtnLjUeNn494) | 2:36 | 2024-01-29 |  |
 | [Don't Walk Away \(feat\. Carey Washington\)](https://open.spotify.com/track/1RTO0oJ6wgPPsOdHugwirj) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/6hxyNJlzGAHOQWda9nTmLW) | 3:22 | 2025-02-06 |  |
 | [Don't Worry About It](https://open.spotify.com/track/0kLMVg8o0bGgjVfALC54eH) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 3:41 | 2024-06-20 |  |
@@ -350,7 +351,7 @@
 | [Go](https://open.spotify.com/track/12ECFOyhoatqO5ypiYHzf0) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:47 | 2024-09-12 | 2026-02-08 |
 | [Go 'Head](https://open.spotify.com/track/69tnsMxZxWbnOieRji51wE) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5) | [Tarantula](https://open.spotify.com/album/0TqesWoOVMixszgdot3Jcs) | 4:08 | 2024-06-20 | 2026-02-08 |
 | [GO ALL THE WAY](https://open.spotify.com/track/5EOF6DK6p9KycvqZwGcQzh) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:16 | 2024-01-29 |  |
-| [Go Ape](https://open.spotify.com/track/0fudfsZijcNuGXkGdbFART) | [Cousin Fik](https://open.spotify.com/artist/10R4IEMALwGnHJVPEoumW5), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Sickest N\*gga Healthy \(Deluxe Edition\)](https://open.spotify.com/album/4FHtSVGkNyMoZM57YpqhVE) | 3:03 | 2024-06-20 |  |
+| [Go Ape](https://open.spotify.com/track/0fudfsZijcNuGXkGdbFART) | [Cousin Fik](https://open.spotify.com/artist/10R4IEMALwGnHJVPEoumW5), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Sickest N\*gga Healthy \(Deluxe Edition\)](https://open.spotify.com/album/4FHtSVGkNyMoZM57YpqhVE) | 3:03 | 2024-06-20 | 2026-09-27 |
 | [Go Head](https://open.spotify.com/track/4KQQhMU6gQaBGjLWNg0l3e) | [Awreeoh](https://open.spotify.com/artist/39Bg21BFWDcT8vHpTIGUl0) | [Dope: Music From The Motion Picture](https://open.spotify.com/album/10hGeHsDksNsVI5pj7pnnO) | 2:59 | 2024-09-12 |  |
 | [Go Head](https://open.spotify.com/track/3WDS4uYoR0rOsdtxFCWl1P) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Mac Bre\-Z](https://open.spotify.com/artist/2zcqkPjjD4HQOTf9Opz0k7) | [Trap House \(Explicit\)](https://open.spotify.com/album/409XrSXXeeZ3eMLCARmWx8) | 5:04 | 2024-01-29 | 2025-06-28 |
 | [Go Up](https://open.spotify.com/track/76e4nwnkyaFp4y0T2g01dg) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Ibifornia \(Deluxe\)](https://open.spotify.com/album/3pz8g0tnXoFdFldlItvxxD) | 5:32 | 2024-01-30 | 2026-04-20 |

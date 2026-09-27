@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Dolly Babe & Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,266,729 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,266,821 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Ran Out](https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Ran Out](https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq) | 2:22 |
 | 50 | [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 |
 
-Snapshot ID: `AAAAAIH4Ma3Up9tyWVbXJyo+2gQrDIt/`
+Snapshot ID: `AAAAAJpZir1otTgXwYDpk387xVCVnZNt`

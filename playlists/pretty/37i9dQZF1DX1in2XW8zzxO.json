@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 106168,
+  "num_followers": 106212,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGir0hUt/gLTOXQTCh3ZnVSoeQOl",
+  "snapshot_id": "AAAAAIxOd+s+14mKKh4jdqJtfEAw08qT",
   "tracks": [
     {
       "added_at": "2026-09-10 22:02:20",
@@ -431,30 +431,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Shayimpempe",
-        "url": "https://open.spotify.com/album/6EcnO6qmWJzUuPODOMK6TH"
-      },
-      "artists": [
-        {
-          "name": "Mavuthela",
-          "url": "https://open.spotify.com/artist/48do32hpl3t6HQhhXqqPPo"
-        },
-        {
-          "name": "Swizz Panache",
-          "url": "https://open.spotify.com/artist/6H633neNAKof6YOntia735"
-        },
-        {
-          "name": "Ribby",
-          "url": "https://open.spotify.com/artist/5mNfMjlfB7wGturL1tcWj9"
-        }
-      ],
-      "duration_ms": 255049,
-      "name": "Shayimpempe",
-      "url": "https://open.spotify.com/track/0Rl25OrMjAz4w54JfkjGBo"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Shokozela",
         "url": "https://open.spotify.com/album/0iKJW3OAXgHBwIf8F56zmW"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 492759,
       "name": "Shokozela",
       "url": "https://open.spotify.com/track/1SFAM86VESPzwZbZOY3ndb"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "Shayimpempe",
+        "url": "https://open.spotify.com/album/6EcnO6qmWJzUuPODOMK6TH"
+      },
+      "artists": [
+        {
+          "name": "Mavuthela",
+          "url": "https://open.spotify.com/artist/48do32hpl3t6HQhhXqqPPo"
+        },
+        {
+          "name": "Swizz Panache",
+          "url": "https://open.spotify.com/artist/6H633neNAKof6YOntia735"
+        },
+        {
+          "name": "Ribby",
+          "url": "https://open.spotify.com/artist/5mNfMjlfB7wGturL1tcWj9"
+        }
+      ],
+      "duration_ms": 255049,
+      "name": "Shayimpempe",
+      "url": "https://open.spotify.com/track/0Rl25OrMjAz4w54JfkjGBo"
     },
     {
       "added_at": "2026-09-10 22:02:20",
@@ -579,6 +579,34 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
+        "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
+        "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
+      },
+      "artists": [
+        {
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 350309,
+      "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
+      "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
         "name": "Tshela Fela (feat. MU MuziQal, Sbuda Maleather & Vic_to_ry)",
         "url": "https://open.spotify.com/album/5Pl4iSF9sYE91uM2bulp9K"
       },
@@ -615,34 +643,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
-        "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
-      },
-      "artists": [
-        {
-          "name": "Mas Musiq",
-          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 350309,
-      "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
-      "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Straata",
         "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
       },
@@ -675,34 +675,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Makhelwane",
-        "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
-      },
-      "artists": [
-        {
-          "name": "Wanitwa Mos",
-          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
-        },
-        {
-          "name": "Nkosazana Daughter",
-          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
-        },
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "Dalom Kids",
-          "url": "https://open.spotify.com/artist/6Xx0iUrLjmGwk8RWqgDwSg"
-        }
-      ],
-      "duration_ms": 328096,
-      "name": "Keneilwe (feat. Dalom Kids)",
-      "url": "https://open.spotify.com/track/0UBK6HcgmmWUQzFQTncmDz"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
         "url": "https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR"
       },
@@ -731,6 +703,34 @@
       "duration_ms": 480000,
       "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
       "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "Makhelwane",
+        "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
+      },
+      "artists": [
+        {
+          "name": "Wanitwa Mos",
+          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Dalom Kids",
+          "url": "https://open.spotify.com/artist/6Xx0iUrLjmGwk8RWqgDwSg"
+        }
+      ],
+      "duration_ms": 328096,
+      "name": "Keneilwe (feat. Dalom Kids)",
+      "url": "https://open.spotify.com/track/0UBK6HcgmmWUQzFQTncmDz"
     },
     {
       "added_at": "2026-09-10 22:02:20",

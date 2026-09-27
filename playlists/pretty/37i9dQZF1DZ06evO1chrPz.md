@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,582 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,585 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 10 | [Living Hope \(Live\)](https://open.spotify.com/track/54vnh4BHgSlzMkNnWhK2Sd) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Victory \(Live\)](https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz) | 5:04 |
 | 11 | [Stand In Your Love \(Radio Version\)](https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Stand In Your Love \(Radio Version\)](https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj) | 3:41 |
 | 12 | [Back To Life \(Live\)](https://open.spotify.com/track/44aTdoCcquVC4xvX0YgZLn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 6:35 |
-| 13 | [King of My Heart \(Live\)](https://open.spotify.com/track/4XMy9Gv7Q7SWwIU4RdzdSG) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Starlight \(Live\)](https://open.spotify.com/album/6FQt2yjB8m4548YBYLTqZZ) | 4:59 |
-| 14 | [God of Revival \(Live\)](https://open.spotify.com/track/6gkCpCwYkE60dNJULveMfZ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 8:34 |
+| 13 | [God of Revival \(Live\)](https://open.spotify.com/track/6gkCpCwYkE60dNJULveMfZ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 8:34 |
+| 14 | [King of My Heart \(Live\)](https://open.spotify.com/track/4XMy9Gv7Q7SWwIU4RdzdSG) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Starlight \(Live\)](https://open.spotify.com/album/6FQt2yjB8m4548YBYLTqZZ) | 4:59 |
 | 15 | [Only Jesus \(Instrumental\)](https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years](https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft) | 4:52 |
 | 16 | [Peace](https://open.spotify.com/track/6Jk2ueMBIuTZU3aNKjUTGR) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:57 |
 | 17 | [Jesus We Love You](https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [We Will Not Be Shaken](https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux) | 6:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Mi Esperanza Está en Jesús \(En Vivo\)](https://open.spotify.com/track/4yE8DVGo9zXET84d8uRp4V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn) | 4:51 |
 | 50 | [Reason To Praise \(Live\)](https://open.spotify.com/track/4Z9hkzTYQnKYljePcQsXUf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 8:30 |
 
-Snapshot ID: `arRoAAAAAABqQhs2ZgRTll7mLJTFYbO+`
+Snapshot ID: `arW5gAAAAADtkABgE+bSclhOQu/clFAn`

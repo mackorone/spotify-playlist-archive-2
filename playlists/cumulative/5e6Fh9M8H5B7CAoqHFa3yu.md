@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,591 songs - 6 day 7 hr 25 min
+2,592 songs - 6 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1846,6 +1846,7 @@
 | [Righteous](https://open.spotify.com/track/5AUnDwphuvS3Zs13moCL9P) | [Tramaine Long](https://open.spotify.com/artist/4aBzae3WDd2VRn1s0AeKIg) | [LEGENDARY](https://open.spotify.com/album/6D4pdKcl4AAdiyMA2HrPYm) | 3:07 | 2025-10-07 |  |
 | [Rise](https://open.spotify.com/track/5ux9eQyaSNIce8B84TyIWm) | [Ibel Campbell](https://open.spotify.com/artist/72RCv4B70FMnVlQtmfuwEC) | [Love Fi Life](https://open.spotify.com/album/610frbuTA9LoRbTSN8HCb5) | 4:04 | 2024-05-03 |  |
 | [Rise Above](https://open.spotify.com/track/3Qpn2NyDK3TkLb4tUVRFHC) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Rise Above](https://open.spotify.com/album/4Nm3fCI7iK5YCHWZ8IMiP3) | 3:46 | 2025-10-15 | 2026-08-17 |
+| [Rise And Fall](https://open.spotify.com/track/3exLIuw7dpaX8hGbmpU8Vn) | [Jumpscare](https://open.spotify.com/artist/6W6yM8NH6UPvCqvDdXjxr2) | [Rise And Fall](https://open.spotify.com/album/1fjCHBvoCdSqxgRjbCTXgh) | 5:24 | 2026-09-26 |  |
 | [Rise Up](https://open.spotify.com/track/5xHGQaOTHvTr1xEX5s6foL) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 4:11 | 2024-03-10 |  |
 | [Rise Up Dub](https://open.spotify.com/track/7obiR9dcFKgRvJ4tMER0XV) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [King Love Dub Sessions](https://open.spotify.com/album/6eOZY5jTwk9FQxUdWTBRRZ) | 6:17 | 2024-05-04 |  |
 | [Risk](https://open.spotify.com/track/0lqHgjNrXmtFroWDqwV1iQ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 3:38 | 2024-03-04 |  |

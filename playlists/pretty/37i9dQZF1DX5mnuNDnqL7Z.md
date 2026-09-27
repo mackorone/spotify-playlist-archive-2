@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 
 > Who run the world? Cover: no na
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,562 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,579 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 | 99 | [what now?](https://open.spotify.com/track/6UOX5jgJVxjKr1rj5AnQC5) | [KARLEE GIRL](https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX) | [what now?](https://open.spotify.com/album/4fg7hq5mF0hYoqQooQO87r) | 3:08 |
 | 100 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
 
-Snapshot ID: `AAAAANyuEigy3rKs2Mftb4gx664ij2ui`
+Snapshot ID: `AAAAAF61G7xEhr5AtiZlTKyD9snV4kkm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚 Grupo Feroz en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,596 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,651 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 74 | [Con Una, Dos o Tres](https://open.spotify.com/track/59VMTSGfODLpmLRjBZrXLi) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Con Una, Dos o Tres](https://open.spotify.com/album/4PNeDZTeOOAkWziN5hxHU9) | 2:59 |
 | 75 | [Gente de Rancho](https://open.spotify.com/track/275hTOOo0FTvaxNcaJ1ooj) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT), [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [Banda los Costeños](https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ), [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn), [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R), [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Gente de Rancho](https://open.spotify.com/album/6O6f5rlYHcfueiILwsfBVB) | 2:40 |
 
-Snapshot ID: `AAAAANaPAOY7qtIp9f41BHt9KIIW1Bx7`
+Snapshot ID: `AAAAAL/V9ApK7sPT8qgjjZVIOrq3tVVi`

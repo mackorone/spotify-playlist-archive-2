@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Benjamim",
-  "num_followers": 40662,
+  "num_followers": 40685,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANiOZJD/nsOI53zw1G1EWgE20akj",
+  "snapshot_id": "AAAAACRta13IpbB61r4G09RSr9tcQP/3",
   "tracks": [
     {
       "added_at": "2026-09-24 23:00:19",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-09-24 23:00:19",
       "album": {
-        "name": "Daughter from Hell",
-        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Daughter from Hell",
-      "url": "https://open.spotify.com/track/7yogqG9VriSe2gE9RKZKwG"
-    },
-    {
-      "added_at": "2026-09-24 23:00:19",
-      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
+      "added_at": "2026-09-24 23:00:19",
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Daughter from Hell",
+      "url": "https://open.spotify.com/track/7yogqG9VriSe2gE9RKZKwG"
     },
     {
       "added_at": "2026-09-24 23:00:19",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-09-24 23:00:19",
       "album": {
-        "name": "Porch Light",
-        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 262726,
-      "name": "Porch Light",
-      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
-    },
-    {
-      "added_at": "2026-09-24 23:00:19",
-      "album": {
         "name": "(((((ultraSOUND)))))",
         "url": "https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 244973,
       "name": "Hula Girl",
       "url": "https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk"
+    },
+    {
+      "added_at": "2026-09-24 23:00:19",
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 262726,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
     },
     {
       "added_at": "2026-09-24 23:00:19",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-09-24 23:00:19",
       "album": {
-        "name": "Good Boy",
-        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "Good Boy",
-      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
-    },
-    {
-      "added_at": "2026-09-24 23:00:19",
-      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2026-09-24 23:00:19",
       "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+    },
+    {
+      "added_at": "2026-09-24 23:00:19",
+      "album": {
         "name": "Whale Call",
         "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 259503,
       "name": "Whale Call",
       "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
+    },
+    {
+      "added_at": "2026-09-24 23:00:19",
+      "album": {
+        "name": "The Crux Deluxe",
+        "url": "https://open.spotify.com/album/3oaSSUc7HkXIpTb4NGLKDt"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 311083,
+      "name": "Mr. Mountebank",
+      "url": "https://open.spotify.com/track/5tN8OqwUxsVKUCE1cea23k"
     },
     {
       "added_at": "2026-09-24 23:00:19",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2026-09-24 23:00:19",
       "album": {
-        "name": "The Crux Deluxe",
-        "url": "https://open.spotify.com/album/3oaSSUc7HkXIpTb4NGLKDt"
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 311083,
-      "name": "Mr. Mountebank",
-      "url": "https://open.spotify.com/track/5tN8OqwUxsVKUCE1cea23k"
+      "duration_ms": 244500,
+      "name": "Everybody Scream",
+      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
       "added_at": "2026-09-24 23:00:19",
@@ -1207,22 +1223,6 @@
       "duration_ms": 381293,
       "name": "Falling out of Love",
       "url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0"
-    },
-    {
-      "added_at": "2026-09-24 23:00:19",
-      "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Everybody Scream",
-      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
       "added_at": "2026-09-24 23:00:19",

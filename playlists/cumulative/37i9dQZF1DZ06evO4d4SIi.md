@@ -4,7 +4,7 @@
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 14 min
+83 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Tucson Too Late \- Live Acoustic](https://open.spotify.com/track/27iEURX7ffTh0O6ULtqhRW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Tucson Too Late \(Live Acoustic\)](https://open.spotify.com/album/4fa2cd0EzHd4g92IY2fn5G) | 3:06 | 2024-01-13 | 2024-02-11 |
 | [Turn This Truck Around](https://open.spotify.com/track/26me6ABXv5sHTe6eriudll) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 3:24 | 2026-07-29 |  |
 | [Turn This Truck Around](https://open.spotify.com/track/6Yvrv046xNsQXX3MirnO8l) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Turn This Truck Around](https://open.spotify.com/album/1vvuNH6s9nkkUIZKf1itJg) | 3:24 | 2025-07-27 | 2026-07-29 |
+| [What Do I Do If You Don't](https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What Do I Do If You Don't](https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ) | 2:54 | 2026-09-27 |  |
 | [What I Wouldn't Do](https://open.spotify.com/track/1PiHmLh6YmyDT6vwpFI2jg) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 3:28 | 2023-03-03 | 2023-03-26 |
 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 | 2023-02-08 |  |
 | [Whiskey Weak](https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:45 | 2023-02-20 |  |

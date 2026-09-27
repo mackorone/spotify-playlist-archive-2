@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Jonathan \"Honas\" Mel\u00e9ndez por siempre ",
-  "num_followers": 578650,
+  "num_followers": 578681,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIXsSaW/zoMW/7Pl7xu4Zq4jGhj4",
+  "snapshot_id": "AAAAAOf/QEP5WaaN/3A6W9fDp2ZmlB8k",
   "tracks": [
     {
       "added_at": "2026-09-04 06:00:54",
@@ -1007,38 +1007,6 @@
     {
       "added_at": "2026-09-04 06:00:54",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
-      },
-      "artists": [
-        {
-          "name": "Genitallica",
-          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
-    },
-    {
-      "added_at": "2026-09-04 06:00:54",
-      "album": {
-        "name": "Viajero",
-        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 253608,
-      "name": "Viajero",
-      "url": "https://open.spotify.com/track/5AbNMFadsSbVhYd27XnkMZ"
-    },
-    {
-      "added_at": "2026-09-04 06:00:54",
-      "album": {
         "name": "El \u00daltimo Ska",
         "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
       },
@@ -1059,18 +1027,50 @@
     {
       "added_at": "2026-09-04 06:00:54",
       "album": {
-        "name": "Brujeria",
-        "url": "https://open.spotify.com/album/4ZqaEinw6S5AKHtHJDOjtm"
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
       },
       "artists": [
         {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 194426,
-      "name": "Ya Tus Amigos",
-      "url": "https://open.spotify.com/track/2VjHUrKQqaaK8SKGeGmpnx"
+      "duration_ms": 253608,
+      "name": "Viajero",
+      "url": "https://open.spotify.com/track/5AbNMFadsSbVhYd27XnkMZ"
+    },
+    {
+      "added_at": "2026-09-04 06:00:54",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
+      },
+      "artists": [
+        {
+          "name": "Genitallica",
+          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
+    },
+    {
+      "added_at": "2026-09-04 06:00:54",
+      "album": {
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Qui\u00e9reme Mucho",
+      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
     },
     {
       "added_at": "2026-09-04 06:00:54",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-09-04 06:00:54",
       "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+        "name": "Brujeria",
+        "url": "https://open.spotify.com/album/4ZqaEinw6S5AKHtHJDOjtm"
       },
       "artists": [
         {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
         }
       ],
-      "duration_ms": 218920,
-      "name": "Qui\u00e9reme Mucho",
-      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
+      "duration_ms": 194426,
+      "name": "Ya Tus Amigos",
+      "url": "https://open.spotify.com/track/2VjHUrKQqaaK8SKGeGmpnx"
     },
     {
       "added_at": "2026-09-04 06:00:54",

@@ -4,7 +4,7 @@
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-120 songs - 5 hr 27 min
+121 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All Dat \(with Megan Thee Stallion\)](https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:23 | 2022-10-28 | 2024-07-09 |
 | [Anxiety](https://open.spotify.com/track/6Ve9MNsl8OFg6rHd227bYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:15 | 2022-10-28 |  |
 | [B.A.S\. \(feat\. Kyle Richh\)](https://open.spotify.com/track/3pR7ZToCrzeNkfEf6n2rVR) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:26 | 2024-06-30 |  |
-| [B.B.B.](https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [B.B.B.](https://open.spotify.com/album/3aS5keGWpo2QNDIGnL2Spd) | 2:20 | 2026-03-01 |  |
+| [B.B.B.](https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [B.B.B.](https://open.spotify.com/album/3aS5keGWpo2QNDIGnL2Spd) | 2:20 | 2026-03-01 | 2026-09-27 |
 | [B.I.T.C.H.](https://open.spotify.com/track/06scTb0zbkxYNgpAB3J9fN) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [B.I.T.C.H.](https://open.spotify.com/album/34LUTyhy4RZkfjvnF0gWu4) | 3:03 | 2022-10-28 | 2024-06-30 |
 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2hcqLu8Hhu2yJd5h4T4WDf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/4M6gPtD9TwGXqZLpAcUSqJ) | 2:32 | 2022-10-28 | 2023-01-20 |
 | [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 | 2024-09-09 | 2025-02-23 |
@@ -90,6 +90,7 @@
 | [Otaku Hot Girl](https://open.spotify.com/track/6saYisCUAZXc505blie9kZ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:38 | 2024-06-30 |  |
 | [Out Alpha The Alpha](https://open.spotify.com/track/3GALk45nKwp5pg6zJp7nhm) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Out Alpha The Alpha](https://open.spotify.com/album/4vgXGnGzxojy5spBZranjW) | 3:46 | 2023-10-10 | 2023-12-14 |
 | [Outta Town Freestyle](https://open.spotify.com/track/3LOyQpKiM8MnE019hWB5uj) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:20 | 2023-02-01 | 2024-05-24 |
+| [Pink Blush \(Remix\) \[feat\. Megan Thee Stallion\]](https://open.spotify.com/track/2k1gcQWaB2FuVFqK46s4ob) | [Dolly Babe](https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Pink Blush \(Remix\) \[feat\. Megan Thee Stallion\]](https://open.spotify.com/album/3sqKpIBO5ST20iCc5kY5nA) | 2:41 | 2026-09-27 |  |
 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 | 2022-10-28 |  |
 | [Pop It \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6LcnvbHMT0qZDKZuUZaqt2) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Big Bank](https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9) | 2:28 | 2024-05-24 | 2024-06-28 |
 | [Pose \(feat\. Megan Thee Stallion & Lil Uzi Vert\)](https://open.spotify.com/track/57ciWTOKgrXVBxktMJyUB1) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pose \(feat\. Megan Thee Stallion & Lil Uzi Vert\)](https://open.spotify.com/album/3VEC69yVh8w9R4Rk8aMliW) | 3:46 | 2024-09-09 | 2024-10-28 |

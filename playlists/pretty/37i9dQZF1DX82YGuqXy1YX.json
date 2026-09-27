@@ -1,12 +1,12 @@
 {
   "description": "All the artists playing at FORM Arcosanti 2026.",
-  "num_followers": 574,
+  "num_followers": 590,
   "original_name": "FORM Arcosanti Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFZoAE/h1qWDYv8wtZfujcgPMB7Z",
+  "snapshot_id": "AAAAALePAcilllhPwTz+QLudgaBR2l6b",
   "tracks": [
     {
       "added_at": "2026-08-06 16:00:19",
@@ -341,6 +341,22 @@
       "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
     },
     {
+      "added_at": "2026-08-06 16:00:19",
+      "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Flames shards goo",
+      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
+    },
+    {
       "added_at": "2026-08-06 16:12:20",
       "album": {
         "name": "Summer love",
@@ -359,18 +375,26 @@
     {
       "added_at": "2026-08-06 16:00:19",
       "album": {
-        "name": "Suntub",
-        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+        "name": "The Pleasure Is Yours",
+        "url": "https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS"
       },
       "artists": [
         {
-          "name": "ML Buch",
-          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+          "name": "GENA",
+          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
         }
       ],
-      "duration_ms": 228600,
-      "name": "Flames shards goo",
-      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
+      "duration_ms": 141381,
+      "name": "Circlesz",
+      "url": "https://open.spotify.com/track/0TWqzeAGWe1utMzN7MIJPb"
     },
     {
       "added_at": "2026-08-06 16:00:19",
@@ -403,30 +427,6 @@
       "duration_ms": 243030,
       "name": "Hypersoft Lovejinx Junkdream",
       "url": "https://open.spotify.com/track/1C9fCrGgtkkqS8UsB8KwA4"
-    },
-    {
-      "added_at": "2026-08-06 16:00:19",
-      "album": {
-        "name": "The Pleasure Is Yours",
-        "url": "https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS"
-      },
-      "artists": [
-        {
-          "name": "GENA",
-          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
-        },
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        }
-      ],
-      "duration_ms": 141381,
-      "name": "Circlesz",
-      "url": "https://open.spotify.com/track/0TWqzeAGWe1utMzN7MIJPb"
     },
     {
       "added_at": "2026-08-06 16:00:19",

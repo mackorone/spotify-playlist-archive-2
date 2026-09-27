@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Sara James
 
-991 songs - 2 day 0 hr 21 min
+992 songs - 2 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,6 +652,7 @@
 | [pod kinem ars](https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [pod kinem ars/kraków](https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP) | 2:39 | 2025-05-08 | 2025-08-27 |
 | [Pojutrze](https://open.spotify.com/track/3lHIx9LQzdH9ujcP5ijKEm) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [Pojutrze](https://open.spotify.com/album/2wg5VZWYA848fPyVuhLAI0) | 3:03 | 2025-10-14 | 2026-02-28 |
 | [Pokaż Twarz \(tą naprawdę\)](https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Wachlarz Wad EP](https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe) | 2:04 | 2024-08-22 | 2025-01-24 |
+| [Pokochaj Mnie Ponownie](https://open.spotify.com/track/05s3rbRbHOk4gE3KOBixH5) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Pokochaj Mnie Ponownie](https://open.spotify.com/album/2PcBuWrQnZKaDKORHCnhb6) | 3:15 | 2026-09-24 |  |
 | [Pole namiotowe](https://open.spotify.com/track/4YQJAv6jwldSppTmbwdGYs) | [cosmos](https://open.spotify.com/artist/7q349p87C2eR92EJcRX3P1) | [Pole namiotowe](https://open.spotify.com/album/6DPS1tx26SJVb7VHOPc340) | 3:04 | 2024-06-28 | 2024-08-02 |
 | [Polecę do gwiazd](https://open.spotify.com/track/7Cy7tvCsU9TBa9tmXSIFT2) | [Michell Siwak](https://open.spotify.com/artist/2nKTrZd6c5xy8AgNyrSM0q) | [Polecę do gwiazd](https://open.spotify.com/album/40e57jAadRbNmcWXDHdM1D) | 2:24 | 2024-09-13 | 2025-01-24 |
 | [Polki Są Najpiękniejsze](https://open.spotify.com/track/547ag5NdLB7P6esSQGLzWM) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Polki Są Najpiękniejsze](https://open.spotify.com/album/6yzq8ve6chRV80U5KpYTdC) | 2:44 | 2025-05-08 | 2025-05-23 |
@@ -684,7 +685,7 @@
 | [Przyjaźń](https://open.spotify.com/track/6ys4heK7VjrWc6dhUJvjsW) | [GENZIE](https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t) | [Przyjaźń](https://open.spotify.com/album/4yrwH3d7zRE21a2MKGiyyy) | 2:49 | 2024-08-01 | 2024-09-07 |
 | [PRZYJEDŹ](https://open.spotify.com/track/0IXLaTUyJmNj10p6qKknaI) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [PRZYJEDŹ](https://open.spotify.com/album/1TN2HoEtch1vrO3EldGcQ0) | 2:29 | 2024-06-28 | 2024-09-07 |
 | [przypadkiem](https://open.spotify.com/track/4qnzc5iJp1NI23WG0iroCQ) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [przypadkiem](https://open.spotify.com/album/7cPkz7ex0tIwfxls5NaPK0) | 3:03 | 2024-09-06 | 2025-01-24 |
-| [psikus](https://open.spotify.com/track/0y8oU55YrlHEGEa8y3rYmR) | [oda nova](https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU) | [psikus](https://open.spotify.com/album/4Exm7BKeJN8FBxRACtbkcd) | 2:53 | 2026-09-10 |  |
+| [psikus](https://open.spotify.com/track/0y8oU55YrlHEGEa8y3rYmR) | [oda nova](https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU) | [psikus](https://open.spotify.com/album/4Exm7BKeJN8FBxRACtbkcd) | 2:53 | 2026-09-10 | 2026-09-27 |
 | [Psy](https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Psy](https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB) | 3:20 | 2025-02-20 | 2025-08-20 |
 | [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-10-11 | 2025-01-24 |
 | [psychokiller](https://open.spotify.com/track/09V4HW3dQhhYrKYOQE2JIb) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [psychokiller / myself](https://open.spotify.com/album/2IUOsRFVSNNxG5bbEfWMTB) | 1:53 | 2026-02-27 | 2026-03-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,887 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,889 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 99 | [Haahuillen](https://open.spotify.com/track/3sMpTiwA7AejQbMUFMczZn) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Haahuillen](https://open.spotify.com/album/26viVkBTKvNx37Yk5BeCjx) | 2:45 |
 | 100 | [Nocturno](https://open.spotify.com/track/1Oa2WZ00Ow6orLPYFwIdQl) | [Pambikallio](https://open.spotify.com/artist/0IDSJa4NZqzjo1kwUi7ey5) | [Hydrephos](https://open.spotify.com/album/4hvMrnU2DENif3FUk8puCr) | 3:30 |
 
-Snapshot ID: `AAAAAHJ48juz1i8C42pj02FZFGCQLCOU`
+Snapshot ID: `AAAAAOCRw775sGhpvIRUfsBJXghI3lTd`

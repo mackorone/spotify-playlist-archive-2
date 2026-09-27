@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Kes",
-  "num_followers": 138189,
+  "num_followers": 138204,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGc6KA77K9I59A7Wh7jE42UQbiaS",
+  "snapshot_id": "AAAAAIbRcvipp5b3ftd4buzvHdBS+NZU",
   "tracks": [
     {
       "added_at": "2026-08-20 14:00:40",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-08-20 14:00:40",
       "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
-      },
-      "artists": [
-        {
-          "name": "Mr. Dale",
-          "url": "https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Soka Junkie",
-      "url": "https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz"
-    },
-    {
-      "added_at": "2026-08-20 14:00:40",
-      "album": {
         "name": "Soca Gold 2",
         "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 372000,
       "name": "Doh Back Back",
       "url": "https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq"
+    },
+    {
+      "added_at": "2026-08-20 14:00:40",
+      "album": {
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+      },
+      "artists": [
+        {
+          "name": "Mr. Dale",
+          "url": "https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Soka Junkie",
+      "url": "https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz"
     },
     {
       "added_at": "2026-08-20 14:00:40",

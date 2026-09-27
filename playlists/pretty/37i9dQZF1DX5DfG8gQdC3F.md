@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Taylor Swift, Phoebe Bridgers, Madonna & Charli xcx, Tinashe, Karan Aujla, Josh Ross, Max McNown, Kardinal Offishall, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,443 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,441 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Somebody Else](https://open.spotify.com/track/3ErRzbj5olXrzWln9IlOlO) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Somebody Else](https://open.spotify.com/album/2LnBwPL91WG3pElZdENv6O) | 3:01 |
 | 100 | [Avenues](https://open.spotify.com/track/07HD8w7oCyLxpZTkwfhBTA) | [John Fellner](https://open.spotify.com/artist/6UG9kN30jWV7MjmNr9qsPv) | [Avenues](https://open.spotify.com/album/2luuQD3P7KCG2fWyhLYbtQ) | 3:43 |
 
-Snapshot ID: `AAAAAKoOMSUXuUC2vftm/obe+4ieZB4B`
+Snapshot ID: `AAAAANf/cNjr4k0B7YQcO6KnS4RC59op`

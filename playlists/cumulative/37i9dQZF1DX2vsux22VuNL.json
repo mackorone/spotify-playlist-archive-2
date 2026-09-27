@@ -6142,7 +6142,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 91826,
       "name": "Me Deixe S\u00f3",
       "url": "https://open.spotify.com/track/4gF3E79pvTSE4pLSxgb5ge"
@@ -10094,6 +10094,28 @@
       "duration_ms": 177272,
       "name": "Sambinha",
       "url": "https://open.spotify.com/track/1qHaYxFr6hPsKYCi29iNch"
+    },
+    {
+      "album": {
+        "name": "Super Cr\u00f4nico",
+        "url": "https://open.spotify.com/album/6yCySIzI3Y6VUILLmck07D"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Sangue no Meu Jeans",
+      "url": "https://open.spotify.com/track/3MB0m2jaeXa64pgWs6uW92"
     },
     {
       "album": {

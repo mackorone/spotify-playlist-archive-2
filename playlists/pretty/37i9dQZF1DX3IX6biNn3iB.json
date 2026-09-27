@@ -1,12 +1,12 @@
 {
   "description": "Voices that are elevating nuestra cultura. Becky G en portada. ",
-  "num_followers": 4050,
+  "num_followers": 4110,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHgRiAUvG67JyUrlDJS9kkPNJ+/r",
+  "snapshot_id": "AAAAAHN7BtLU00Z0+ANlVG651XCk4VxP",
   "tracks": [
     {
       "added_at": "2026-09-18 19:07:30",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-09-18 19:07:30",
       "album": {
-        "name": "Te Vas A Arrepentir (Don't Hurt Him)",
-        "url": "https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Te Vas A Arrepentir (Don't Hurt Him)",
-      "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
-    },
-    {
-      "added_at": "2026-09-18 19:07:30",
-      "album": {
         "name": "You Don't Know",
         "url": "https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 176212,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
+    },
+    {
+      "added_at": "2026-09-18 19:07:30",
+      "album": {
+        "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+        "url": "https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+      "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
     },
     {
       "added_at": "2026-09-18 19:07:30",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-09-18 19:07:30",
       "album": {
-        "name": "Xclusiva",
-        "url": "https://open.spotify.com/album/6NW4zfoKjaAFrvToVOo9zU"
-      },
-      "artists": [
-        {
-          "name": "MXKA",
-          "url": "https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO"
-        },
-        {
-          "name": "JM4C",
-          "url": "https://open.spotify.com/artist/7mzxtrqvFQDYM7t13CBJEr"
-        }
-      ],
-      "duration_ms": 141215,
-      "name": "Xclusiva",
-      "url": "https://open.spotify.com/track/1SSPi9BhhaIS1SlVkHXg1y"
-    },
-    {
-      "added_at": "2026-09-18 19:07:30",
-      "album": {
         "name": "cuida",
         "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
       },
@@ -691,18 +671,22 @@
     {
       "added_at": "2026-09-18 19:07:30",
       "album": {
-        "name": "Creo En Ti",
-        "url": "https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v"
+        "name": "Xclusiva",
+        "url": "https://open.spotify.com/album/6NW4zfoKjaAFrvToVOo9zU"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "MXKA",
+          "url": "https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO"
+        },
+        {
+          "name": "JM4C",
+          "url": "https://open.spotify.com/artist/7mzxtrqvFQDYM7t13CBJEr"
         }
       ],
-      "duration_ms": 202425,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ"
+      "duration_ms": 141215,
+      "name": "Xclusiva",
+      "url": "https://open.spotify.com/track/1SSPi9BhhaIS1SlVkHXg1y"
     },
     {
       "added_at": "2026-09-18 19:07:30",
@@ -719,6 +703,22 @@
       "duration_ms": 189721,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/3pI4sJdZP7tus0pltevj3W"
+    },
+    {
+      "added_at": "2026-09-18 19:07:30",
+      "album": {
+        "name": "Creo En Ti",
+        "url": "https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 202425,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ"
     },
     {
       "added_at": "2026-09-18 19:07:30",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-09-18 19:07:30",
       "album": {
-        "name": "Low Sun (Spotify OUTSIDE Version) - Live from Ghost Ranch",
-        "url": "https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Low Sun - (Spotify OUTSIDE Version) - Live from Ghost Ranch",
-      "url": "https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF"
-    },
-    {
-      "added_at": "2026-09-18 19:07:30",
-      "album": {
         "name": "Pienso En Ti",
         "url": "https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 155026,
       "name": "Pienso En Ti",
       "url": "https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89"
+    },
+    {
+      "added_at": "2026-09-18 19:07:30",
+      "album": {
+        "name": "Low Sun (Spotify OUTSIDE Version) - Live from Ghost Ranch",
+        "url": "https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Low Sun - (Spotify OUTSIDE Version) - Live from Ghost Ranch",
+      "url": "https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF"
     }
   ],
   "unique_name": "Our Voice",

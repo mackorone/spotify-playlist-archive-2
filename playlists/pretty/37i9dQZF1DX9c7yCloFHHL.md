@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: DjRUM
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,891 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,940 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [moving day](https://open.spotify.com/track/3ItUvW8nkFTjH2t9iXz2Dk) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [moving day](https://open.spotify.com/album/1CKw3wL1H4lif8V2z9Lwps) | 2:18 |
 | 100 | [cold air](https://open.spotify.com/track/4fOWEiEvDqDsE1sPLa1xbB) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [cold air](https://open.spotify.com/album/5NJwLRiOPaaEcic7JOmp37) | 3:14 |
 
-Snapshot ID: `AAAAAHCOybLfT5A+9/rxkEz+zhZGZKGA`
+Snapshot ID: `AAAAAI5jqjmwZD87bF5PRRktHx5zyw5b`

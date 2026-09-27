@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 196008,
       "name": "AM I?",
       "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 279614,
       "name": "Animals & Angels",
       "url": "https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 213053,
       "name": "brick by brick",
       "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
@@ -298,10 +298,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 196606,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
+    },
+    {
+      "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192093,
+      "name": "Dear Maria",
+      "url": "https://open.spotify.com/track/7sg33uya6t8yAh0WvMrZw5"
     },
     {
       "album": {
@@ -374,6 +392,24 @@
       "duration_ms": 223510,
       "name": "DUST/DIVINITY",
       "url": "https://open.spotify.com/track/52PFBc2sSdQOcDxfjLZPNi"
+    },
+    {
+      "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Easy Company",
+      "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
     },
     {
       "album": {
@@ -908,7 +944,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 133679,
       "name": "LETTER FROM A BLACKBIRD",
       "url": "https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF"
@@ -1809,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "The End Of The World",
+      "url": "https://open.spotify.com/track/7hVJSOZBIGN78RFyiq9ILw"
+    },
+    {
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -1849,6 +1903,42 @@
     },
     {
       "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148213,
+      "name": "Time Is A River",
+      "url": "https://open.spotify.com/track/6UsgsliuU5gTLxKkfCfPFN"
+    },
+    {
+      "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "TOGIAIM",
+      "url": "https://open.spotify.com/track/54hGhxFr67d2A4Sg5Ep602"
+    },
+    {
+      "album": {
         "name": "in defense of my own happiness (the beginnings)",
         "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
@@ -1864,6 +1954,24 @@
       "duration_ms": 196093,
       "name": "too high",
       "url": "https://open.spotify.com/track/6bk6LnJA5MsK9E5kWFxfSG"
+    },
+    {
+      "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "Toothache",
+      "url": "https://open.spotify.com/track/0mZUDdU5PMBv3AmlLDLOne"
     },
     {
       "album": {

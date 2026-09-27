@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420422,
+  "num_followers": 420432,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHCOW57S76leI9Rm9gKnD3iEpoL6",
+  "snapshot_id": "AAAAAOtdks0rGnCxWdQccwe4TTYjzCjX",
   "tracks": [
     {
       "added_at": "2026-09-11 12:59:28",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-09-11 12:59:28",
       "album": {
-        "name": "Caf\u00e9 da MaLu, Vol. 04",
-        "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
-      },
-      "artists": [
-        {
-          "name": "MaLu",
-          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
-        }
-      ],
-      "duration_ms": 163076,
-      "name": "P\u00e9 na Areia",
-      "url": "https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF"
-    },
-    {
-      "added_at": "2026-09-11 12:59:28",
-      "album": {
         "name": "Vit\u00f3ria",
         "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 209719,
       "name": "Vit\u00f3ria",
       "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
+    },
+    {
+      "added_at": "2026-09-11 12:59:28",
+      "album": {
+        "name": "Caf\u00e9 da MaLu, Vol. 04",
+        "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
+      },
+      "artists": [
+        {
+          "name": "MaLu",
+          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
+        }
+      ],
+      "duration_ms": 163076,
+      "name": "P\u00e9 na Areia",
+      "url": "https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF"
     },
     {
       "added_at": "2026-09-11 12:59:28",
@@ -491,22 +491,18 @@
     {
       "added_at": "2026-09-11 12:59:28",
       "album": {
-        "name": "Revolvendo as Raizes",
-        "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
+        "name": "Am\u00e9frica",
+        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
       },
       "artists": [
         {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
-        },
-        {
-          "name": "Jo\u00e3o Beydoun",
-          "url": "https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM"
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
         }
       ],
-      "duration_ms": 230896,
-      "name": "Bora Chamegar",
-      "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
+      "duration_ms": 207378,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
     },
     {
       "added_at": "2026-09-11 12:59:28",
@@ -531,18 +527,22 @@
     {
       "added_at": "2026-09-11 12:59:28",
       "album": {
-        "name": "Am\u00e9frica",
-        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
+        "name": "Revolvendo as Raizes",
+        "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
       },
       "artists": [
         {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        },
+        {
+          "name": "Jo\u00e3o Beydoun",
+          "url": "https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM"
         }
       ],
-      "duration_ms": 207378,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+      "duration_ms": 230896,
+      "name": "Bora Chamegar",
+      "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
     },
     {
       "added_at": "2026-09-11 12:59:28",

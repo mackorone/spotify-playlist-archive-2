@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 135914,
+  "num_followers": 135916,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADHyEKUDUBLb8sYhvckE+2m9+/h0",
+  "snapshot_id": "AAAAAIyvJZmzOPUxo87IeJKssUCEsAB+",
   "tracks": [
     {
       "added_at": "2026-09-14 04:17:29",
@@ -1045,6 +1045,22 @@
       "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"
     },
     {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
+        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
+      },
+      "artists": [
+        {
+          "name": "Takehara Pistol",
+          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
+        }
+      ],
+      "duration_ms": 331984,
+      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
+      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
+    },
+    {
       "added_at": "2026-07-02 15:00:05",
       "album": {
         "name": "Danjyu Kariyushi",
@@ -1067,22 +1083,6 @@
       "duration_ms": 157714,
       "name": "Danjyu Kariyushi",
       "url": "https://open.spotify.com/track/4umjscMrLTBsMKxW40cRcz"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
-        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
-      },
-      "artists": [
-        {
-          "name": "Takehara Pistol",
-          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
-        }
-      ],
-      "duration_ms": 331984,
-      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
-      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "NEW BORN GHOST",
-        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
+        "name": "early summer 2022",
+        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
         }
       ],
-      "duration_ms": 269301,
-      "name": "\u30af\u30ec\u30a4",
-      "url": "https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd"
+      "duration_ms": 274066,
+      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "early summer 2022",
-        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
+        "name": "NEW BORN GHOST",
+        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
       },
       "artists": [
         {
-          "name": "Kazumasa Oda",
-          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 274066,
-      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
+      "duration_ms": 269301,
+      "name": "\u30af\u30ec\u30a4",
+      "url": "https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u6708\u306e\u5e7b \uff5e Remix works \uff5e",
-        "url": "https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        },
-        {
-          "name": "Hiroshi Fujiwara",
-          "url": "https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "\u65b0\u5b9d\u5cf6 (hf remix)",
-      "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "Trio & Charm",
         "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 226585,
       "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
       "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u6708\u306e\u5e7b \uff5e Remix works \uff5e",
+        "url": "https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        },
+        {
+          "name": "Hiroshi Fujiwara",
+          "url": "https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "\u65b0\u5b9d\u5cf6 (hf remix)",
+      "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1583,8 +1583,8 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "Highlights from Simple is best",
-        "url": "https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj"
+        "name": "\u305f\u3060\u3044\u307e",
+        "url": "https://open.spotify.com/album/4YybvOoOrXps18hLkrsrEB"
       },
       "artists": [
         {
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
         }
       ],
-      "duration_ms": 257105,
-      "name": "The Rose (15th Anniversary Version\uff09",
-      "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
+      "duration_ms": 329666,
+      "name": "\u661f\u660e\u304b\u308a\u306e\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/1PGaIt3b8ABOLZDZN0WKZS"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1663,8 +1663,8 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u305f\u3060\u3044\u307e",
-        "url": "https://open.spotify.com/album/4YybvOoOrXps18hLkrsrEB"
+        "name": "Highlights from Simple is best",
+        "url": "https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj"
       },
       "artists": [
         {
@@ -1672,9 +1672,9 @@
           "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
         }
       ],
-      "duration_ms": 329666,
-      "name": "\u661f\u660e\u304b\u308a\u306e\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4",
-      "url": "https://open.spotify.com/track/1PGaIt3b8ABOLZDZN0WKZS"
+      "duration_ms": 257105,
+      "name": "The Rose (15th Anniversary Version\uff09",
+      "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

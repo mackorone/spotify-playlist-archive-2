@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 22296,
+  "num_followers": 22307,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKewbNRNt7rW/XO/a1Ik1c5nJjPs",
+  "snapshot_id": "AAAAAGVYSPgZr8/9B3svBe2g2UA55qeY",
   "tracks": [
     {
       "added_at": "2026-09-22 14:14:58",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "Try (Journey Epilogue)",
-        "url": "https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Try (Journey Epilogue)",
-      "url": "https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "The Dreamest",
         "url": "https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 270000,
       "name": "How have you been",
       "url": "https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "Try (Journey Epilogue)",
+        "url": "https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Try (Journey Epilogue)",
+      "url": "https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "Once again OST Part 1",
-        "url": "https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR"
-      },
-      "artists": [
-        {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
-        }
-      ],
-      "duration_ms": 216830,
-      "name": "Let`s never meet again",
-      "url": "https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "You Ruined Me",
         "url": "https://open.spotify.com/album/7twWecwz0kjiceI9rLbFzk"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 217040,
       "name": "Without U",
       "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "Once again OST Part 1",
+        "url": "https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR"
+      },
+      "artists": [
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "duration_ms": 216830,
+      "name": "Let`s never meet again",
+      "url": "https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT"
     },
     {
       "added_at": "2026-09-22 14:14:58",

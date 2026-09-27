@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MhNl4N25uD.md) - [plain]
 
 > Landmark works of queer literature that broke barriers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 94 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAD5gPGIVdDBrTqZLjrgCJxJKGD3e`
+Snapshot ID: `AAAAAIQHl77+YmKZ6WB6Srfo1ieS+zo1`

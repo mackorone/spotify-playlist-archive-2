@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,924 songs - 6 day 10 hr 16 min
+2,928 songs - 6 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [24 Hrs](https://open.spotify.com/track/0FudpbrW8YoxhDF7rNVySV) | [bullet 7](https://open.spotify.com/artist/6GCn8WZKbolndTfM4rxNJf) | [In My WRLD](https://open.spotify.com/album/7fQ5E0BEzl29vhH04h3YHB) | 2:59 | 2026-06-19 | 2026-07-20 |
 | [3Am](https://open.spotify.com/track/031WPypJkBuErqOYNmBCgw) | [H&H SoulSurvivors](https://open.spotify.com/artist/1PBYbrSMQkz42uJ2eNhftc) | [3Am](https://open.spotify.com/album/0Hvchx9FLBwmYYpwVxoXa6) | 2:43 | 2026-03-29 | 2026-04-30 |
 | [3d Printer \(Vagina Version\)](https://open.spotify.com/track/7knYaA196GplJ5GMviUAdp) | [The Dream Eaters](https://open.spotify.com/artist/58EGECKV4drTQ3m7SFJNYf) | [Year End Report](https://open.spotify.com/album/3wjEIHofWgy2IEv7iflfUc) | 2:43 | 2025-12-12 | 2026-01-15 |
+| [3h33](https://open.spotify.com/track/21pN6mwkdjC9mnxnm9OHhL) | [JXNAI](https://open.spotify.com/artist/3e74U07jLifk60Lilku0dc) | [3h33](https://open.spotify.com/album/4QrmOnyiLed5dT2Q1J3uTr) | 2:33 | 2026-09-26 |  |
 | [400 Miles](https://open.spotify.com/track/7ce5dm8b6OrITIcNpu0A4T) | [DAYDREAM](https://open.spotify.com/artist/09DB2npCb6JDJA3NmIhg6Q) | [400 Miles](https://open.spotify.com/album/462abGDtQ6egEM9ydSzk9P) | 2:48 | 2026-06-29 | 2026-07-31 |
 | [4u 4u](https://open.spotify.com/track/4XHzNzRoVOGxLyZXS3Mj4C) | [Bennett Mann](https://open.spotify.com/artist/1CMVUzDMxnhAg1tboAHzWG) | [4u 4u](https://open.spotify.com/album/0wTFLwszvLGH1sVmfyw5Xs) | 3:12 | 2025-12-30 | 2026-02-03 |
 | [A Beautiful Omen](https://open.spotify.com/track/677d5wAlHJZ7IVhKIle7S9) | [Hanne Serene](https://open.spotify.com/artist/3BG3VNPNKwFAgSB5DfhuLU) | [Winter Humming — A Beautiful Omen](https://open.spotify.com/album/0ycMSLBajl5Se0P4pXDvfe) | 2:48 | 2026-07-16 | 2026-08-17 |
@@ -1019,6 +1020,7 @@
 | [Half\-Healed](https://open.spotify.com/track/5Gj3TZkq4dXoyAsVvW4j5y) | [Amin Etesamian](https://open.spotify.com/artist/5GMO7X0263W47oe3j37Z5d) | [No Where Yet](https://open.spotify.com/album/5iv9QlnZsshuYi2CW6ZPV3) | 3:04 | 2025-11-28 | 2025-12-31 |
 | [Halfway to Nowhere](https://open.spotify.com/track/3EMR9qvOCpUdgaWWo1akpb) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Instrumental Instability](https://open.spotify.com/album/0danK5aUNPLntSEgiksvrt) | 1:26 | 2026-03-28 | 2026-04-30 |
 | [Halfway To The Highground](https://open.spotify.com/track/1RupA6Ij3qAnqHiHeWIpd4) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Halfway To The Highground](https://open.spotify.com/album/0KuGHd09XwG3xQcIjqV8As) | 3:07 | 2026-04-16 | 2026-05-20 |
+| [Halloween](https://open.spotify.com/track/1p6gPdesVFeJ0iUIW36szB) | [Missing Since Monday](https://open.spotify.com/artist/4oPbfmyQAkcukOgEUt3ZAb) | [Halloween](https://open.spotify.com/album/1ArECBsSpdUMD2bbInsYx9) | 3:16 | 2026-09-26 |  |
 | [hallway crush](https://open.spotify.com/track/4bLaRPPaJzRWq2CRdfU89s) | [INDIE](https://open.spotify.com/artist/04cK4MgfTwQfS1b9Kc3sSH) | [hallway crush](https://open.spotify.com/album/35AjtwHFbRwrd8HSkoK2MO) | 3:12 | 2025-12-03 | 2026-01-04 |
 | [Happy](https://open.spotify.com/track/29Zsq0HMkfCjC6o2P6Okwk) | [Joshua Gomez](https://open.spotify.com/artist/5BSlkKVdOIcl5G99EaLKOn) | [Happy](https://open.spotify.com/album/2hBImJSjAGKq27imiYYpvi) | 3:58 | 2026-03-14 | 2026-04-15 |
 | [Happy Ending](https://open.spotify.com/track/7EJijescqnXIHbTOJXPQsn) | [Megalithic Penguins](https://open.spotify.com/artist/1wYzZCJsvyDdwo3jsf8JVj), [Woody Collins](https://open.spotify.com/artist/5KTt5uJqnR1ZkCfJlA2unE) | [Happy Ending](https://open.spotify.com/album/7eJji55Qcz12oEtQjamCdI) | 2:56 | 2026-03-09 | 2026-04-10 |
@@ -1431,6 +1433,7 @@
 | [Like This](https://open.spotify.com/track/1OG7CqG33ORAV2y5RSUpGF) | [Stan A.](https://open.spotify.com/artist/5d1osNJZ1BSfXQIFkUsXEX) | [Like This](https://open.spotify.com/album/6z7qwmbRQmReKuJQ3zVj06) | 2:47 | 2026-03-09 | 2026-04-10 |
 | [Like You](https://open.spotify.com/track/2IJgHwZKstCiu20tmzXsDm) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [Like You](https://open.spotify.com/album/6XMzQGyyAafV3DEx4f5PWY) | 2:56 | 2026-04-27 | 2026-05-28 |
 | [Like You A Little More \- Dance Remix](https://open.spotify.com/track/6pBxAqAmysV0UapIGUXmsD) | [Keith McLoughlin](https://open.spotify.com/artist/2tjiG7yZ0iTo4F5wcT518A) | [Like You A Little More \(Dance Remix\)](https://open.spotify.com/album/1Yf2fB54tp6I0WyfsKKzIH) | 3:28 | 2026-07-12 | 2026-08-15 |
+| [Lilac](https://open.spotify.com/track/5mMIebW4Dc6hta7nWoIjbW) | [OXSOLATE](https://open.spotify.com/artist/05cFqIG5wdH4ixqazlLTlM) | [If We Can Make It To The Moon](https://open.spotify.com/album/7nr9V5xqkN2BcD3Dh3xQlh) | 2:08 | 2026-09-26 |  |
 | [Liminal](https://open.spotify.com/track/1vHbFf4vScIbvOqdlUTmIU) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Liminal](https://open.spotify.com/album/0eMFhVV9J64pfUouzj7wAs) | 2:40 | 2026-03-20 | 2026-04-25 |
 | [Limousine \(Na Na Na\)](https://open.spotify.com/track/4u4je3a1tY0lkD468O8scz) | [MTNT](https://open.spotify.com/artist/2Yx6gUBrYHfBqhaKOfEgTU), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Limousine \(Na Na Na\)](https://open.spotify.com/album/7eO3S5ev6plUTpZgVGiRc0) | 3:26 | 2026-01-21 | 2026-02-24 |
 | [Line by Line](https://open.spotify.com/track/3cyvoVIQZyIhYFseH0rv3A) | [LITO](https://open.spotify.com/artist/5ZGE3FaBSuK8rTgHzpkjIm) | [Line by Line](https://open.spotify.com/album/2S30pf0cUd9DKyyFk6f1jH) | 4:18 | 2025-11-10 | 2025-12-13 |
@@ -2716,6 +2719,7 @@
 | [Wasting My Time](https://open.spotify.com/track/09b5kXOEsKtC42qD5AJNcA) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Wasting My Time](https://open.spotify.com/album/0V4qWW8XqxvGrEFttE3Bus) | 2:52 | 2025-12-27 | 2026-01-28 |
 | [Watch me now](https://open.spotify.com/track/3IwGgRGKUZdUH27rcnYYrU) | [DEM7](https://open.spotify.com/artist/1cRsOMnhRg27AWRj6ksOOy) | [Watch me now](https://open.spotify.com/album/2rpeBbbNrlabhngYUHD2Ln) | 3:05 | 2026-03-13 | 2026-04-14 |
 | [Watch Me Win It](https://open.spotify.com/track/0f8HpeeOJ0AaTXCW0nv02t) | [Queen Anne](https://open.spotify.com/artist/2BpcZGwpd2C95Nn109Fj7x) | [Watch Me Win It](https://open.spotify.com/album/6Ztn2v2DKhIN0LsaXNV9yi) | 2:31 | 2026-09-21 |  |
+| [Waterfall Of Love](https://open.spotify.com/track/5OW5g5T1f4UnXsTjmKOaBR) | [MATURE](https://open.spotify.com/artist/1lwuXLBuOkjKd0rZ1fwV41) | [Waterfall Of Love](https://open.spotify.com/album/30uLVyrCkpCFEsFCkZ80fB) | 2:44 | 2026-09-26 |  |
 | [WAVE RAIDER](https://open.spotify.com/track/5xJcH5Z8tKd9FLPOE0sQGM) | [DJBigShot](https://open.spotify.com/artist/4W9avyG0YorkIUIadsZ1w8) | [UNFILTERED](https://open.spotify.com/album/0c1hFwlzsb83Wk1ky78686) | 2:39 | 2026-09-08 |  |
 | [Way more than dollars](https://open.spotify.com/track/2gaFfeDdwBd9Y37cur5QmG) | [AVNG](https://open.spotify.com/artist/6FSNhma3n201aAiYBH0Hoo) | [Way more than dollars](https://open.spotify.com/album/4tuQRbMufO3yw7szvqees1) | 3:21 | 2026-05-12 | 2026-06-15 |
 | [Way Up](https://open.spotify.com/track/4V1HRIgeqM3M1Y7hJpefeq) | [Pedro Scott](https://open.spotify.com/artist/6JvANZh6cdEh6TzeNfRM5d) | [Way Up](https://open.spotify.com/album/1CxLGQz44rDMJA1lg22fbP) | 2:30 | 2026-06-11 | 2026-07-13 |

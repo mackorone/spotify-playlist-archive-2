@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgrQDsmAXok.md) - [plain]
 
 > The all\-timers from a rising singer\-songwriter from Japan, Fujii Kaze\. 藤井 風の代表曲をひとつのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,391 likes - 43 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,449 likes - 43 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgrQDsmAXok.md) - [plain]
 | 42 | [真っ白 \- KOBY SHY Remix](https://open.spotify.com/track/2hBrwq58POZudqeqSEzT3B) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [KOBY SHY](https://open.spotify.com/artist/6olTC7C0IBxDuuBWoh0TTG) | [真っ白](https://open.spotify.com/album/6fQu05XtukNtn8JP09Cwj3) | 4:22 |
 | 43 | [Kirari \- Daul Remix](https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [DAUL](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 4:05 |
 
-Snapshot ID: `AAAAAPfhrFmxRSDpJVk9wt8oVluOZi8E`
+Snapshot ID: `AAAAAKhoCIR+0YrkWtvZ6UHUanthFdJc`

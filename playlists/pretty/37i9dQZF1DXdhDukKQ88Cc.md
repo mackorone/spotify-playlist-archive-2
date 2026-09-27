@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀  Wesmo på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,573 likes - 55 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,570 likes - 55 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 54 | [Hver Dag & Nat](https://open.spotify.com/track/5hU6PBSMW6inBahwpSq40X) | [1WAY](https://open.spotify.com/artist/1Sn41xUC669O7Boqyo2nPH) | [Hver Dag & Nat](https://open.spotify.com/album/0ZfsjIav220Ztr9KCAmgQY) | 2:45 |
 | 55 | [Stresser ik](https://open.spotify.com/track/2XgnIqokLVOTlBDXebYBTI) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Stresser ik](https://open.spotify.com/album/1Q3gS6HIUL9THhgfeNXa8i) | 1:56 |
 
-Snapshot ID: `AAAAAEpWeZHZFEkvgZ+28QGVhv+/+dM5`
+Snapshot ID: `AAAAAMYGW6+COp1RHs0w1tyxJyMCTlrQ`

@@ -10812,7 +10812,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 283582,
       "name": "Chocolate Gaga",
       "url": "https://open.spotify.com/track/0sz5lMk2ifLqcbqHTFVLeC"
@@ -26548,7 +26548,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 237662,
       "name": "Isibaya Sikababa",
       "url": "https://open.spotify.com/track/2rHahLGm4dlLrEGmEN3lOb"
@@ -27702,7 +27702,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 443394,
       "name": "Izospana",
       "url": "https://open.spotify.com/track/6tvBXtUeHKxDL1oZMas2mF"
@@ -38747,6 +38747,32 @@
     },
     {
       "album": {
+        "name": "Nayvee's Prayer",
+        "url": "https://open.spotify.com/album/346z7pvdI3XnhRnebDdz1w"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinhle",
+          "url": "https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW"
+        },
+        {
+          "name": "Nayvee Womculo",
+          "url": "https://open.spotify.com/artist/7dkktKLtIZD6f77dYdNYrG"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390508,
+      "name": "Nayvee's Prayer",
+      "url": "https://open.spotify.com/track/5egspxTv2n1RX7etEQqXul"
+    },
+    {
+      "album": {
         "name": "Ncebeleka",
         "url": "https://open.spotify.com/album/2xbGRjaYioSA0qrur8sHb0"
       },
@@ -40764,7 +40790,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 373755,
       "name": "Ngyazama (feat. Brodie.Bro & Mdeshkayro)",
       "url": "https://open.spotify.com/track/3FiRqTzG1RZN0A6m7QrzMk"
@@ -43759,6 +43785,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "Isibuko",
         "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
       },
@@ -46326,7 +46370,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -50550,7 +50594,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 357336,
       "name": "Sinukelwa yigazi",
       "url": "https://open.spotify.com/track/0Cx6vJyXraIMRoCN0Ah3pr"
@@ -54058,7 +54102,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 272796,
       "name": "Sulani Igama Lami",
       "url": "https://open.spotify.com/track/3UW749nyBzpq0nyQQn8W0Z"
@@ -55270,6 +55314,32 @@
       "duration_ms": 333633,
       "name": "Thando Lwakhe (feat. Nokwazi)",
       "url": "https://open.spotify.com/track/5Ld0cw16rmQ5XvgtPoGZD5"
+    },
+    {
+      "album": {
+        "name": "Zikhonkotha Ehambayo",
+        "url": "https://open.spotify.com/album/146an281Z0OSsEJm7P3mKC"
+      },
+      "artists": [
+        {
+          "name": "Skhanga",
+          "url": "https://open.spotify.com/artist/6lFcggGAwriultjU0Ziyny"
+        },
+        {
+          "name": "KaMaphanga",
+          "url": "https://open.spotify.com/artist/7oVlOtZDfQOK6P7SwL8yFD"
+        },
+        {
+          "name": "Yolokazi",
+          "url": "https://open.spotify.com/artist/5BYHmKHh5t2hoKjBPc1pTV"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220264,
+      "name": "Thando lwathola kabi (feat. KaMaphanga & Yolokazi)",
+      "url": "https://open.spotify.com/track/3YsFaC4312p9Zu3CoRg2Eo"
     },
     {
       "album": {
@@ -61158,7 +61228,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 198009,
       "name": "Uyajola lo",
       "url": "https://open.spotify.com/track/4oqN0vEjGjzwppSJFaFuuH"
@@ -66500,7 +66570,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 308241,
       "name": "ZEP (feat. Uncool MC)",
       "url": "https://open.spotify.com/track/532TYCPXAL8dY7C6KItN6F"

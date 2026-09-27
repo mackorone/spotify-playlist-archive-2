@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21233,
+  "num_followers": 21236,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAACQOCK9wf28ezJQ/cdKyl+m",
+  "snapshot_id": "arW5gAAAAABt7LVAkNLF0zLRcS6fmc+L",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO YO PURPOSE",
+        "url": "https://open.spotify.com/album/7i0ah7NXPBOJhh2gcl2PKx"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "NO YO PURPOSE",
+      "url": "https://open.spotify.com/track/5PNGGk15Ev22poMGNrWkXp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trap House 3",
         "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 227194,
       "name": "I F*ck Wit You Girl",
       "url": "https://open.spotify.com/track/2u2fseIt359oKZoq6TxM6C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO YO PURPOSE",
-        "url": "https://open.spotify.com/album/7i0ah7NXPBOJhh2gcl2PKx"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "NO YO PURPOSE",
-      "url": "https://open.spotify.com/track/5PNGGk15Ev22poMGNrWkXp"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Most - Single",
+        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 207405,
+      "name": "The Most",
+      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legacy of Hits",
         "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Most - Single",
-        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 207405,
-      "name": "The Most",
-      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To The Basics",
         "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 162246,
       "name": "Gamble",
       "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rich As In Spirit",
-        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 214947,
-      "name": "Perfect Flower",
-      "url": "https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a"
     },
     {
       "added_at": null,
@@ -879,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life After Fame",
-        "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
+        "name": "Rich As In Spirit",
+        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
       },
       "artists": [
-        {
-          "name": "Quando Rondo",
-          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
-        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 164622,
-      "name": "Rich Homie Quando (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
+      "duration_ms": 214947,
+      "name": "Perfect Flower",
+      "url": "https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a"
     },
     {
       "added_at": null,
@@ -911,6 +891,26 @@
       "duration_ms": 253452,
       "name": "RedBone",
       "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life After Fame",
+        "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
+      },
+      "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 164622,
+      "name": "Rich Homie Quando (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
     },
     {
       "added_at": null,

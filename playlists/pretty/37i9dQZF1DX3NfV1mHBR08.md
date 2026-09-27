@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,291 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,296 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 49 | [내가 니편이 되어 줄게 I Will Be on Your Side](https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [세 번째 음악 로스팅 3rd Music Roasting](https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle) | 5:57 |
 | 50 | [GO FOR IT](https://open.spotify.com/track/3yAQgYaPG6OjgV7Aej0C5G) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [GO FOR IT](https://open.spotify.com/album/4z3TLVNdST1A1awgGGxl07) | 3:16 |
 
-Snapshot ID: `AAAAACXkvvoo/MjcweeLrKDuQzkhXFbR`
+Snapshot ID: `AAAAABARnPSKN5WxdLYzDWd+MIvPlKfu`

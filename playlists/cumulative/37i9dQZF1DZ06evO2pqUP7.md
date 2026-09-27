@@ -4,7 +4,7 @@
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 35 min
+75 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [OMW \- Remix](https://open.spotify.com/track/1idR5YBsDGrAGrv4AXqgpz) | [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [OMW \(Remix\)](https://open.spotify.com/album/1SKNhaSlDjP48DV9n7zmnW) | 6:24 | 2025-10-12 |  |
 | [Only Fans \- Remix](https://open.spotify.com/track/1QaCsLoKEWVujL3owyyei4) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Only Fans \(Remix\)](https://open.spotify.com/album/7qoN2JtzwbSfasx3PjG0KR) | 7:02 | 2023-11-10 |  |
 | [OTRA NO](https://open.spotify.com/track/3f2K8tmTI3mHzojNYqae4h) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:32 | 2023-11-10 |  |
-| [PALOMINO](https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [PALOMINO](https://open.spotify.com/album/7LRLBrL0HfgkU2SqpzwePJ) | 2:14 | 2026-06-21 |  |
+| [PALOMINO](https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [PALOMINO](https://open.spotify.com/album/7LRLBrL0HfgkU2SqpzwePJ) | 2:14 | 2026-06-21 | 2026-09-27 |
+| [Palomino \- Remix](https://open.spotify.com/track/1IGc1w4X7LKjHbzU3svVXH) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Palomino \(Remix\)](https://open.spotify.com/album/5eK9c2t3ilEqEKR3F7mkQk) | 3:13 | 2026-09-27 |  |
 | [Prendemos](https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Prendemos](https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf) | 3:37 | 2023-11-10 |  |
 | [Quizás](https://open.spotify.com/track/7xiZayz1eFWnzLPztL80VQ) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Orgánico](https://open.spotify.com/album/4sAj704PbYTvBF2fFa88a1) | 3:40 | 2023-11-10 |  |
 | [Relaciones](https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Relaciones](https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu) | 3:26 | 2023-11-10 |  |

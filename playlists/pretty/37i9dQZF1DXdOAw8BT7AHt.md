@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: NOBRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,392 likes - 125 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,398 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 124 | [Sunblind](https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Still There’s a Glow](https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd) | 2:48 |
 | 125 | [Concrete](https://open.spotify.com/track/3krrOD1ChbVQ4gYnh4CsAe) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Who Will Look After The Dogs?](https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv) | 3:03 |
 
-Snapshot ID: `AAAAADWfjqAEBfIel5L6TbFXDQSy+xSO`
+Snapshot ID: `AAAAAAFgRqmMVAhJcVG7lsgQHTAOSDFg`

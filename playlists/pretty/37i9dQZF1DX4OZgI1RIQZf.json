@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140579,
+  "num_followers": 140583,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANw13upKRRUAj+ztmcPXyKaDY2Qu",
+  "snapshot_id": "AAAAALL807thHYvWk6J9QB3pjAJW2HbZ",
   "tracks": [
     {
       "added_at": "2026-08-28 07:24:22",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "head, shoulders, knees and ankles",
-        "url": "https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 192780,
-      "name": "head, shoulders, knees and ankles",
-      "url": "https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "One Thousand Pictures",
         "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 188813,
       "name": "Blood Gets Thin",
       "url": "https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "head, shoulders, knees and ankles",
+        "url": "https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 192780,
+      "name": "head, shoulders, knees and ankles",
+      "url": "https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Made of Bricks",
-        "url": "https://open.spotify.com/album/2gDCBa5P6SnAaY0cadefQS"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "Skeleton Song",
-      "url": "https://open.spotify.com/track/6r2PtKqXYf0MfAG74uLvsL"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "It's Halloween!",
         "url": "https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 242959,
       "name": "Vampire Again",
       "url": "https://open.spotify.com/track/5GX3fBrtiHlPBo93yRoECA"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/2gDCBa5P6SnAaY0cadefQS"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "Skeleton Song",
+      "url": "https://open.spotify.com/track/6r2PtKqXYf0MfAG74uLvsL"
     },
     {
       "added_at": "2026-08-28 07:24:22",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Los Encinos De Sinaloa",
-  "num_followers": 84538,
+  "num_followers": 84544,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADtUwvCXKoH+3cqfGIObGkWsWQEB",
+  "snapshot_id": "AAAAAMSDht+IF4368maHDR2FGfCuaUSp",
   "tracks": [
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "BACHATA ROSA (En Vivo)",
-        "url": "https://open.spotify.com/album/1lMzXTzdYlt8fpear8piwh"
+        "name": "Desde Houston (En Vivo)",
+        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
       },
       "artists": [
         {
-          "name": "Grupo Sexta Edicion",
-          "url": "https://open.spotify.com/artist/3q1xEM5znESUmnQmVtWo6D"
-        },
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 220048,
-      "name": "BACHATA ROSA - En Vivo",
-      "url": "https://open.spotify.com/track/60OryBOhbRUjprghNqIhMt"
+      "duration_ms": 265791,
+      "name": "Mi Pasado y Mi Presente - En Vivo",
+      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1111,34 +1107,22 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Desde Houston (En Vivo)",
-        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
+        "name": "BACHATA ROSA (En Vivo)",
+        "url": "https://open.spotify.com/album/1lMzXTzdYlt8fpear8piwh"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 265791,
-      "name": "Mi Pasado y Mi Presente - En Vivo",
-      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
-        "name": "Pisteando Con La Regida (Vol. 3)",
-        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
-      },
-      "artists": [
+          "name": "Grupo Sexta Edicion",
+          "url": "https://open.spotify.com/artist/3q1xEM5znESUmnQmVtWo6D"
+        },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Ando Bien Pedo",
-      "url": "https://open.spotify.com/track/6aGdRGfVl7t9fL6aWbaFGd"
+      "duration_ms": 220048,
+      "name": "BACHATA ROSA - En Vivo",
+      "url": "https://open.spotify.com/track/60OryBOhbRUjprghNqIhMt"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1159,18 +1143,34 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
-        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
+        "name": "Pisteando Con La Regida (Vol. 3)",
+        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Hoy la Vi Con \u00c9l - En Vivo",
-      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
+      "duration_ms": 176506,
+      "name": "Ando Bien Pedo",
+      "url": "https://open.spotify.com/track/6aGdRGfVl7t9fL6aWbaFGd"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "En Vivo Con Banda y Norte\u00f1o",
+        "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Aliados del tiempo - En Vivo",
+      "url": "https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "En Vivo Con Banda y Norte\u00f1o",
-        "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
+        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 254973,
-      "name": "Aliados del tiempo - En Vivo",
-      "url": "https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD"
+      "duration_ms": 223200,
+      "name": "Hoy la Vi Con \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
     },
     {
       "added_at": "2026-09-18 21:31:17",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-09-18 21:31:17",
       "album": {
-        "name": "Sones Y Caballos (En Vivo)",
-        "url": "https://open.spotify.com/album/4IaBBesdQqQlel5hGHGz8j"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 202199,
-      "name": "Los Amores De Julia - En Vivo",
-      "url": "https://open.spotify.com/track/1WfsEweuDGT4bp7H4LlC6n"
-    },
-    {
-      "added_at": "2026-09-18 21:31:17",
-      "album": {
         "name": "El Corrido Del Piyi (LDLG)",
         "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 242556,
       "name": "Mente en Blanco - En Vivo",
       "url": "https://open.spotify.com/track/4PD9At46wz3RECvgg3WtBF"
+    },
+    {
+      "added_at": "2026-09-18 21:31:17",
+      "album": {
+        "name": "Sones Y Caballos (En Vivo)",
+        "url": "https://open.spotify.com/album/4IaBBesdQqQlel5hGHGz8j"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 202199,
+      "name": "Los Amores De Julia - En Vivo",
+      "url": "https://open.spotify.com/track/1WfsEweuDGT4bp7H4LlC6n"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

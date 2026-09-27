@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 313649,
+  "num_followers": 313670,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAADU+nTbXIQlz+mFy5ysrvB5",
+  "snapshot_id": "arW5gAAAAAApwCJTpFsGfJx3n4sZTl4L",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,26 @@
       "duration_ms": 163764,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
+        "url": "https://open.spotify.com/album/3sqKpIBO5ST20iCc5kY5nA"
+      },
+      "artists": [
+        {
+          "name": "Dolly Babe",
+          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 161817,
+      "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
+      "url": "https://open.spotify.com/track/2k1gcQWaB2FuVFqK46s4ob"
     },
     {
       "added_at": null,
@@ -475,22 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
       "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 165395,
-      "name": "Rapunzel (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/03qZDQKRYZdjhKsQ5G5H0t"
+      "duration_ms": 158663,
+      "name": "Otaku Hot Girl",
+      "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
     },
     {
       "added_at": null,
@@ -511,18 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
       },
       "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 158663,
-      "name": "Otaku Hot Girl",
-      "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
+      "duration_ms": 165395,
+      "name": "Rapunzel (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/03qZDQKRYZdjhKsQ5G5H0t"
     },
     {
       "added_at": null,
@@ -547,6 +567,22 @@
       "duration_ms": 182437,
       "name": "34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",
       "url": "https://open.spotify.com/track/2sQH02O2HBCPJCztBrCWNa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/1a9dUxIQ2ehPH3992H9uPe"
     },
     {
       "added_at": null,
@@ -583,22 +619,6 @@
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/1a9dUxIQ2ehPH3992H9uPe"
     },
     {
       "added_at": null,
@@ -695,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 140883,
-      "name": "Number One Rule",
-      "url": "https://open.spotify.com/track/2BOS4WTxBpqCx7s3XsHn0D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -723,6 +727,22 @@
       "duration_ms": 154732,
       "name": "BOA",
       "url": "https://open.spotify.com/track/0FPCqTZoiZpEs324IJFFpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 140883,
+      "name": "Number One Rule",
+      "url": "https://open.spotify.com/track/2BOS4WTxBpqCx7s3XsHn0D"
     },
     {
       "added_at": null,
@@ -743,26 +763,6 @@
       "duration_ms": 156200,
       "name": "Motion Party (Remix)",
       "url": "https://open.spotify.com/track/6ZSDvXbaeuGeCwiPJCfOwG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B.B.B.",
-        "url": "https://open.spotify.com/album/3aS5keGWpo2QNDIGnL2Spd"
-      },
-      "artists": [
-        {
-          "name": "JUVENILE",
-          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 140613,
-      "name": "B.B.B.",
-      "url": "https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something for Thee Hotties",
-        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 123636,
-      "name": "Tuned In Freestyle",
-      "url": "https://open.spotify.com/track/5dfTPMTMjMAW1CwxSwzWb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 154433,
       "name": "Ungrateful (feat. Key Glock)",
       "url": "https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 123636,
+      "name": "Tuned In Freestyle",
+      "url": "https://open.spotify.com/track/5dfTPMTMjMAW1CwxSwzWb5"
     },
     {
       "added_at": null,

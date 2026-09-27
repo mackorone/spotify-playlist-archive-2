@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,195,072 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,194,653 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Empty](https://open.spotify.com/track/6DThx0fdmdZuhG4ZrUg8oM) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Empty](https://open.spotify.com/album/0i3wruZEDnREqgbnMQNVmd) | 2:41 |
 | 50 | [Out Of Time with Tomoko Aran](https://open.spotify.com/track/0nc2dv3B8W2FhBgwCkZxJa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [Out Of Time with Tomoko Aran](https://open.spotify.com/album/0Tc7ROEvsDP3iqzU8GRC5E) | 2:51 |
 
-Snapshot ID: `AAAAACrH1vAoaT9N+barfQekUf+4TXcL`
+Snapshot ID: `AAAAAArJPdJO5sxq3O25nyk6NyG4mGbn`

@@ -1,12 +1,12 @@
 {
   "description": "New indie from black artists driving the current. Cover: girlsweetvoiced",
-  "num_followers": 58420,
+  "num_followers": 58415,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM1USJNAIlr6xkk72VMUEdK2o/sR",
+  "snapshot_id": "AAAAAPkB7V+WGKk0GU0ayl1mLBMSXs0f",
   "tracks": [
     {
       "added_at": "2026-06-11 15:18:18",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-11 15:18:18",
       "album": {
-        "name": "point blank",
-        "url": "https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 266613,
-      "name": "point blank",
-      "url": "https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI"
-    },
-    {
-      "added_at": "2026-06-11 15:18:18",
-      "album": {
         "name": "Like A Ribbon",
         "url": "https://open.spotify.com/album/7C0m3PiCmlHtpCVG0cwzwC"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 226693,
       "name": "You're Bleeding Everywhere",
       "url": "https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC"
+    },
+    {
+      "added_at": "2026-06-11 15:18:18",
+      "album": {
+        "name": "Perfect Stranger",
+        "url": "https://open.spotify.com/album/5gSD2ws5CGoFVoPWtcF4qL"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Perfect Stranger",
+      "url": "https://open.spotify.com/track/5ZLfgxU8yDwwMQXA2OSFlb"
     }
   ],
   "unique_name": "Indie Frequency",

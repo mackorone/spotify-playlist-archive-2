@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 276465,
+  "num_followers": 276522,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAABKTyXlM1C8J086z0RzQ0dN",
+  "snapshot_id": "arW5gAAAAACUmGi/7TqlcLCUrvVc76pl",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "UK Rap",
-      "url": "https://open.spotify.com/track/5d01AUplB1QOZY3kPrAuot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Funky Friday",
         "url": "https://open.spotify.com/album/1rsazGoWjl4zj4xyASJhJi"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 182741,
       "name": "Funky Friday",
       "url": "https://open.spotify.com/track/7qVMGBe36nf1IpbsyQf1MR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "UK Rap",
+      "url": "https://open.spotify.com/track/5d01AUplB1QOZY3kPrAuot"
     },
     {
       "added_at": null,

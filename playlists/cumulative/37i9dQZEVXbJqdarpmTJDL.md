@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-3,001 songs - 6 day 11 hr 2 min
+3,002 songs - 6 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1967,7 +1967,7 @@
 | [OMG](https://open.spotify.com/track/2InisuUeQxBarfQ33xn8Md) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [OMG](https://open.spotify.com/album/5CPfihmme19iTL4VuZedQT) | 2:56 | 2025-09-13 | 2025-10-12 |
 | [Omixli](https://open.spotify.com/track/340jPtLGfdkEtvu2tPzdFZ) | [Novel 729](https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo), [Eversor](https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX) | [Vioma](https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv) | 3:28 | 2024-03-16 | 2024-03-18 |
 | [Omorfo Koritsi](https://open.spotify.com/track/7jKvq8HTmWAvRCu8qq1Dc5) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Omorfo Koritsi](https://open.spotify.com/album/3QLklLgb5H2UIGzAk5IhjJ) | 2:37 | 2022-08-27 | 2022-09-12 |
-| [omw](https://open.spotify.com/track/4uLodgH5AnP3mgXMyZHPDO) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Romeo II](https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e) | 4:04 | 2026-06-26 |  |
+| [omw](https://open.spotify.com/track/4uLodgH5AnP3mgXMyZHPDO) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Romeo II](https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e) | 4:04 | 2026-06-26 | 2026-09-27 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-05 | 2022-11-13 |
 | [ON THE REGULAR](https://open.spotify.com/track/0EJ7DeseHxKi6KkaPGFvHn) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [Saskepticism Vol\. 2](https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP) | 3:08 | 2022-04-23 | 2022-04-26 |
 | [Once In A Lifetime](https://open.spotify.com/track/1w2xhyNViLHhLzrgrOGPM0) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Once In A Lifetime](https://open.spotify.com/album/0UawBFSivyDAeiaEW4DPLJ) | 3:52 | 2024-11-23 | 2024-12-01 |
@@ -2248,6 +2248,7 @@
 | [Public Enemy](https://open.spotify.com/track/1IXQlkIvVUVCmaF6HoHMtW) | [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [prodmxrio](https://open.spotify.com/artist/5vQQ6ZbQM5RW7nOES1vkN6) | [Public Enemy](https://open.spotify.com/album/4JnDW1MkOhOSv7VhOsMszt) | 4:33 | 2024-12-14 | 2024-12-22 |
 | [PULL UP](https://open.spotify.com/track/1pVRN4ppqzn4sQ1jwX451z) | [Diablo](https://open.spotify.com/artist/6zlmpdTPJuoUoZzasQ4cGb), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Niku Bossi](https://open.spotify.com/artist/1sMZlq43h0wt6TBQZYQmXS) | [PULL UP](https://open.spotify.com/album/764wuci2T1E24TKz1zo0Lk) | 2:46 | 2022-03-20 | 2022-04-24 |
 | [PULL UP](https://open.spotify.com/track/3gZHFbrbtx94WThAqx1n5Y) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [SINALOA](https://open.spotify.com/album/6uEfN3eghmQN8owe3jJrO1) | 2:56 | 2025-01-04 | 2026-04-12 |
+| [Pulp Fiction](https://open.spotify.com/track/0ZKnuQTMBuxQRRf7IwLjpp) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [Pulp Fiction](https://open.spotify.com/album/7hexRRKeti0eNJ1WuW4XSq) | 2:27 | 2026-09-26 |  |
 | [PULVO](https://open.spotify.com/track/39zEhtL1tPzBUD8T1ZOWKR) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [EYE OF THE TIGER](https://open.spotify.com/album/61sB6y1OGLHk585htCrZET) | 2:30 | 2024-10-04 | 2024-11-24 |
 | [Pure](https://open.spotify.com/track/7makDOAs66DPSP8s9CZ5rd) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Jessy Blue](https://open.spotify.com/artist/7wjYnJv8GkjAU4qxkGoLwG) | [ATHENA](https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc) | 1:13 | 2022-12-17 | 2022-12-22 |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-21 | 2024-04-23 |

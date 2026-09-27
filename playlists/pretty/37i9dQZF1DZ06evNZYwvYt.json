@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 20771,
+  "num_followers": 20783,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAB75wJ/TMm4k0aWoCQojzPm",
+  "snapshot_id": "arW5gAAAAACsmoClNM112NDBJsDXIBdn",
   "tracks": [
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 350986,
-      "name": "Hazme Algo",
-      "url": "https://open.spotify.com/track/3BDlSvSJRJE2YtVP2RAu2P"
+      "duration_ms": 184571,
+      "name": "Cuando la vida se vuelve real",
+      "url": "https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sonido del Misterio",
-        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 184571,
-      "name": "Cuando la vida se vuelve real",
-      "url": "https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU"
+      "duration_ms": 350986,
+      "name": "Hazme Algo",
+      "url": "https://open.spotify.com/track/3BDlSvSJRJE2YtVP2RAu2P"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 286106,
-      "name": "Verdad",
-      "url": "https://open.spotify.com/track/07jQohp4cfhXkaKHAErPh4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sonido del Misterio",
         "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 233142,
       "name": "Sufriendo de m\u00e1s",
       "url": "https://open.spotify.com/track/0GJvW0BOrxlPcm7IbBzv4t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 286106,
+      "name": "Verdad",
+      "url": "https://open.spotify.com/track/07jQohp4cfhXkaKHAErPh4"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Esfumar",
-      "url": "https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morder",
         "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 232653,
       "name": "Extra\u00f1arte",
       "url": "https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Esfumar",
+      "url": "https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "Fui feliz",
-      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morder",
         "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 218786,
       "name": "Asfixiar",
       "url": "https://open.spotify.com/track/6BELut3GHFznGKbftZC8qu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Fui feliz",
+      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
     },
     {
       "added_at": null,

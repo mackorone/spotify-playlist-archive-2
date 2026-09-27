@@ -4,14 +4,14 @@
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-106 songs - 10 hr 16 min
+107 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Akamdinelu](https://open.spotify.com/track/0PwNUFbHDMafVlE3tgSdN2) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Akamdinelu](https://open.spotify.com/album/2riNVvmDcMaIM5bajN2UJl) | 6:02 | 2024-04-19 | 2024-04-21 |
 | [Akamdinelu](https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 6:02 | 2024-03-28 |  |
 | [Akamdinelu](https://open.spotify.com/track/6QBCA9NbqdPwTi2IqjGnuY) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/6ob1gwzBctp5HnzXhyBH3b) | 6:02 | 2023-04-02 | 2024-03-29 |
-| [All Powerful and Sovereign](https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 4:41 | 2025-09-19 |  |
+| [All Powerful and Sovereign](https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 4:41 | 2025-09-19 | 2026-09-27 |
 | [Amaram Onyewem \- Live](https://open.spotify.com/track/0YHLt8lYD1xY2JpQW2wdRp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 10:41 | 2025-09-28 |  |
 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 | 2024-01-13 | 2025-09-28 |
 | [Amazing God](https://open.spotify.com/track/0NtWw4mWMpScT8b9m6unIu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS) | 4:56 | 2023-04-02 | 2024-03-27 |
@@ -55,6 +55,7 @@
 | [More Than Gold \(feat\. Mercy Chinwo\)](https://open.spotify.com/track/7ImaABjt1NzhwO9KhABkG4) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:34 | 2024-06-09 |  |
 | [More Than Gold \(feat\. Mercy Chinwo\)](https://open.spotify.com/track/2IZCXvstPOgnhxAu57cl89) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [More Than Gold \(feat\. Mercy Chinwo\)](https://open.spotify.com/album/4QP90L3ERwtmYKHlAeGgya) | 5:38 | 2023-06-06 | 2024-06-09 |
 | [My Future and Hope](https://open.spotify.com/track/2yYmdb2fPecJFrS9erTpvb) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 4:41 | 2024-03-04 | 2024-03-31 |
+| [MY GOD, YOU ARE GOOD](https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [MY GOD, YOU ARE GOOD](https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B) | 8:08 | 2026-09-27 |  |
 | [My Lover \(Live\)](https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My Lover \(Live\)](https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq) | 7:15 | 2025-02-21 | 2026-02-03 |
 | [My Lover \- Live](https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 8:24 | 2024-03-05 |  |
 | [My Responsibility](https://open.spotify.com/track/2XagKXx33RL4fYAe8oQYdc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 4:26 | 2023-04-02 | 2025-06-12 |

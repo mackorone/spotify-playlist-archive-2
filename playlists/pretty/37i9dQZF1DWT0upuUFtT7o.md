@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Veronica Everheart
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,880 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,951 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 74 | [Concrete](https://open.spotify.com/track/3xlt2e52V9hbFjtpJhN4LQ) | [monde](https://open.spotify.com/artist/2u4NFW0AvG8Mj2SCAWt2lB) | [Concrete](https://open.spotify.com/album/5LZtFuMc1rvUvZFkEcv5CV) | 3:43 |
 | 75 | [Tears Always Burn](https://open.spotify.com/track/5eRigJE4gYutJ6YY0aZL10) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Solder](https://open.spotify.com/album/1AOP1mX5RvuMl8tLm2ZKcw) | 2:58 |
 
-Snapshot ID: `AAAAAJbrg+eNjt9k6PZA1pju4JAOha//`
+Snapshot ID: `AAAAADfgSxepjXjNlQeGNMqrFMDldx33`

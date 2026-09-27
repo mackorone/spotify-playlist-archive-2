@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Cuando Se Haga De Noche",
+        "url": "https://open.spotify.com/album/1JBjepMflPft1aLR3dwWFN"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "Cuando Se Haga De Noche",
+      "url": "https://open.spotify.com/track/2gBbXhcJKwji4r3aWTEksV"
+    },
+    {
+      "album": {
         "name": "En Peligro De Extinci\u00f3n",
         "url": "https://open.spotify.com/album/0nKSgzMBxxghnjJATsPm2Z"
       },
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 184946,
       "name": "Te Dejo Libre",
       "url": "https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx"

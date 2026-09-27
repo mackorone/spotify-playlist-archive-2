@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 286388,
+  "num_followers": 286439,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJWdd8zg882JH9lIjkUr1Ksd9JXE",
+  "snapshot_id": "AAAAAA83tlg4RFJE36k7DoPV0hTTLqAY",
   "tracks": [
     {
       "added_at": "2026-09-24 23:00:05",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
+        "name": "Bassline Girl",
+        "url": "https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF"
+      },
+      "artists": [
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Bassline Girl",
+      "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
+    },
+    {
+      "added_at": "2026-09-24 23:00:05",
+      "album": {
         "name": "If You Let Me (Denon Reed Remix)",
         "url": "https://open.spotify.com/album/1Ngm0SCK04iTjyHSRnKF00"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 160116,
       "name": "If You Let Me - Denon Reed Remix",
       "url": "https://open.spotify.com/track/5rkAi06XtpP0hCvWjhHiSU"
-    },
-    {
-      "added_at": "2026-09-24 23:00:05",
-      "album": {
-        "name": "Bassline Girl",
-        "url": "https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF"
-      },
-      "artists": [
-        {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Bassline Girl",
-      "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
+        "name": "the_1",
+        "url": "https://open.spotify.com/album/2dBiSTOvZ6Q0r3owadT63F"
+      },
+      "artists": [
+        {
+          "name": "Nori",
+          "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
+        },
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 141437,
+      "name": "the_1",
+      "url": "https://open.spotify.com/track/2kdUxRznNPG1G0PdyvA8aE"
+    },
+    {
+      "added_at": "2026-09-24 23:00:05",
+      "album": {
         "name": "Inside The Rider (DJ Q Edit)",
         "url": "https://open.spotify.com/album/179LwpIK6WQIOywG1ldVLu"
       },
@@ -1351,30 +1371,6 @@
       "duration_ms": 177352,
       "name": "Doin It",
       "url": "https://open.spotify.com/track/6EoyD1HY9dg9TnIjxI3vf6"
-    },
-    {
-      "added_at": "2026-09-24 23:00:05",
-      "album": {
-        "name": "Ur Number",
-        "url": "https://open.spotify.com/album/4uTybjyrLbp6zCrENn0bKN"
-      },
-      "artists": [
-        {
-          "name": "N3RD",
-          "url": "https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR"
-        },
-        {
-          "name": "S Dog",
-          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
-        },
-        {
-          "name": "Marky B",
-          "url": "https://open.spotify.com/artist/15k1qXazWMXAuvcYb59XFj"
-        }
-      ],
-      "duration_ms": 155772,
-      "name": "Ur Number",
-      "url": "https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn"
     }
   ],
   "unique_name": "Bassline Bangers",

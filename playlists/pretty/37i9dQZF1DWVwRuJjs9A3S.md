@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: 7ebra
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,602 likes - 200 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,604 likes - 200 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 199 | [Depreshmode](https://open.spotify.com/track/5AMv82UWh8QC7dA6dTNYn9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Depreshmode](https://open.spotify.com/album/1GSOOLlwoBDAStBgRuVIXd) | 4:14 |
 | 200 | [Händer](https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 4:25 |
 
-Snapshot ID: `AAAAAIeJw43Pidspfm4Tssn9SRquoCCA`
+Snapshot ID: `AAAAAMGSW6PqvbNsiKmCRwF7Whz+LhmR`

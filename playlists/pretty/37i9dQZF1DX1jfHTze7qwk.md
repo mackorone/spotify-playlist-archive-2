@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,464 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,466 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 46 | [ไม่มี \(Tomorrow With Nobody\)](https://open.spotify.com/track/0a9MtfsKXwJbejt3OcXd0U) | [P.O.P](https://open.spotify.com/artist/0xM940CrwiH7wrqx3hedal) | [Era](https://open.spotify.com/album/0x9zDqUqgOWtAFq643OWb1) | 6:33 |
 | 47 | [จักรวาล \- Radio Edit](https://open.spotify.com/track/3DM2s6zdNdauNJU4GYSuhr) | [60Miles](https://open.spotify.com/artist/30QomnySAioA1rWq4ul2bO) | [The First Mile](https://open.spotify.com/album/2pzyOcKvdFFRwPgV7QP7AJ) | 5:07 |
 | 48 | [How To Love \(feat\. GRAY\)](https://open.spotify.com/track/1miAQyBEMvHJ62JFuERLyr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [How To Love \(feat\. GRAY\)](https://open.spotify.com/album/2UrGn1oGOn91IGG2TdNbvn) | 3:21 |
-| 49 | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/track/2N3yIGC0Lpv5kPAchqBeSa) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad) | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/album/5CdkLPijMS29YG9gfHSIZm) | 4:15 |
-| 50 | [เรื่องเดียว \(One Thing\)](https://open.spotify.com/track/7kDQyYrw2b8xYbuWotdm1Z) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Flure](https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI) | 5:13 |
+| 49 | [เรื่องเดียว \(One Thing\)](https://open.spotify.com/track/7kDQyYrw2b8xYbuWotdm1Z) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Flure](https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI) | 5:13 |
+| 50 | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/track/2N3yIGC0Lpv5kPAchqBeSa) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad) | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/album/5CdkLPijMS29YG9gfHSIZm) | 4:15 |
 
-Snapshot ID: `AAAAAM916968xg82HAIPOYWOMygylMQV`
+Snapshot ID: `AAAAAKgGFvi0+Q6CPwFrwKM+965uqdkk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: Keo
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,513 likes - 157 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,549 likes - 157 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 156 | [My Rage](https://open.spotify.com/track/4eYMrUfD9DevQwdjFNm4YL) | [Classic Traffic](https://open.spotify.com/artist/7CdyFS6LzW6uzjsY6vjKWH) | [My Rage](https://open.spotify.com/album/0U1ArlLvgo1klv52NzF6Jk) | 2:58 |
 | 157 | [Texas](https://open.spotify.com/track/08fO9XfGQLqq4fySfgvena) | [Font](https://open.spotify.com/artist/1JvNkFtciI17H6uQrKIGbs) | [Texas](https://open.spotify.com/album/0o1bZIMfL6LCH42iV6GWUJ) | 4:04 |
 
-Snapshot ID: `AAAAAOs6h2Zfm/VudkXiLqV+45Aiqj0C`
+Snapshot ID: `AAAAAGEhGgOHGJlaT6xR1slyy0RB9s4x`

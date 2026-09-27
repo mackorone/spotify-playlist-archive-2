@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Loatinover Pounds, Internet Girl, Leon Bridges, Anele Zondo,  Will Linley, Blxckie and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,922 likes - 86 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,959 likes - 86 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Life](https://open.spotify.com/track/3JW84FD2sAum9B3hfzpq58) | [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Ground 2 Glory](https://open.spotify.com/album/10upZ9wALA9z8ByE3nZTHk) | 2:20 |
 | 2 | [DA BUSINESS](https://open.spotify.com/track/5XmIFwv3CFpNXL8taA0U3Z) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DA BUSINESS](https://open.spotify.com/album/5QND0sxPeCwR6HMCWxBPoS) | 3:10 |
-| 3 | [Skang Sokodisa](https://open.spotify.com/track/2CHTUUr4ofFOBxUtnmlF5K) | [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Fake'Well](https://open.spotify.com/artist/3gBzDuP9GAtHXqgeBNMoZT) | [Sang Sokodisa](https://open.spotify.com/album/56So9obomaSiCPW7vTa2su) | 6:02 |
+| 3 | [Sang Sokodisa](https://open.spotify.com/track/2CHTUUr4ofFOBxUtnmlF5K) | [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Fake'Well](https://open.spotify.com/artist/3gBzDuP9GAtHXqgeBNMoZT) | [Sang Sokodisa](https://open.spotify.com/album/56So9obomaSiCPW7vTa2su) | 6:02 |
 | 4 | [6 Ekseni](https://open.spotify.com/track/2Y3pHnLsttIozTPYc4x80S) | [Seeyah](https://open.spotify.com/artist/1ScheniypyvqpRJLWWYX15), [W4DE](https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi), [Brodie.Bro](https://open.spotify.com/artist/6Bihlnnu6mcDgw7wEBjwB7) | [18teen](https://open.spotify.com/album/7K0c6S3Sh3qstQp49RnGZv) | 6:02 |
 | 5 | [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 |
 | 6 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 85 | [Better Off Alone](https://open.spotify.com/track/6rUGMQpgFDO68dVj869ap3) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7), [Pedro Barbosa](https://open.spotify.com/artist/6JA0XPYGEIl11ozTTU0CAN) | [Better Off Alone](https://open.spotify.com/album/6UbcZQ1Rbifwr8W35MQPuT) | 3:05 |
 | 86 | [Persephone](https://open.spotify.com/track/1SgBb5Bd1E5YczrIlu5gcp) | [Tandy](https://open.spotify.com/artist/0ZevrNNIHi1mzl60LwuR4d) | [Persephone](https://open.spotify.com/album/2597LRYftxk0C5SyJocIYv) | 2:44 |
 
-Snapshot ID: `AAAAAOZPNscIz90aPDTTM/IK8GLQC4nl`
+Snapshot ID: `AAAAAB/ZHXTJiAfr0LK9N8grba8O+fR4`

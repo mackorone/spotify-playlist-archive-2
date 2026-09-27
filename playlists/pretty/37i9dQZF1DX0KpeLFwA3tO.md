@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Protomartyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,255 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,269 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Until It's Normal](https://open.spotify.com/track/1DgYRoyywe7OWB3tx3avAS) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Until It's Normal](https://open.spotify.com/album/3p0pest06jSlGn353z89uS) | 2:59 |
 | 100 | [I Could Say Less](https://open.spotify.com/track/3TiKKRMEHJUYQsNNU52BiA) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [I Could Say Less / Pavement](https://open.spotify.com/album/0jDh0MyBoJoflMb5klMVpR) | 4:03 |
 
-Snapshot ID: `AAAAAH2xng5lE3EMo1US0gzt5J6uJs10`
+Snapshot ID: `AAAAADh5SYfaZ4ksYVPDrB/t1hrt4f22`

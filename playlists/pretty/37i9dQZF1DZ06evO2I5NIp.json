@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 6033,
+  "num_followers": 6034,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAADydNMuZP3rZhIWdPMlTi1/",
+  "snapshot_id": "arW5gAAAAABDM5bcn5dozNviTbu4ViN7",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 272385,
+      "name": "Blame It On Eve",
+      "url": "https://open.spotify.com/track/2USRFCxphSjgdms4MPossK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When Love Comes To Town",
         "url": "https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 251346,
       "name": "When Love Comes To Town",
       "url": "https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 272385,
-      "name": "Blame It On Eve",
-      "url": "https://open.spotify.com/track/2USRFCxphSjgdms4MPossK"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 183857,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0ARGGCcODS5ztLAgBGUQoo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Soul Truth",
         "url": "https://open.spotify.com/album/7x1Z7VKEA37xVx7xQC4pqw"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 206053,
       "name": "Givin' Up You",
       "url": "https://open.spotify.com/track/3sfdysA1dqXE7BRd24YLLZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 183857,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0ARGGCcODS5ztLAgBGUQoo"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 225412,
-      "name": "Apple Pie And A .45",
-      "url": "https://open.spotify.com/track/54cGgNOgqmT1f8nthDR1gY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn The Heat Up!",
         "url": "https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 425733,
       "name": "It Don't Hurt No More",
       "url": "https://open.spotify.com/track/6sGK2wbCXNWFk9dOvfm2oD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 225412,
+      "name": "Apple Pie And A .45",
+      "url": "https://open.spotify.com/track/54cGgNOgqmT1f8nthDR1gY"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Neue Musik von Taylor Swift, Dardan, Madonna, Berq, Charli xcx, Nico Santos & vielen mehr!",
-  "num_followers": 934610,
+  "num_followers": 934586,
   "original_name": "New Music Friday Deutschland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADN/2PUP9PNwqJcChyi+/kX51x5Q",
+  "snapshot_id": "AAAAAJn1H/k+2KBDtvlkB4jI53ycxx2/",
   "tracks": [
     {
       "added_at": "2026-09-25 11:01:09",
@@ -422,6 +422,10 @@
         {
           "name": "VICKY",
           "url": "https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va"
+        },
+        {
+          "name": "GX488",
+          "url": "https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa"
         }
       ],
       "duration_ms": 157200,

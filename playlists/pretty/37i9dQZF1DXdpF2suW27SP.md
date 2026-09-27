@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Waze entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,135 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,146 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Nossa Hora](https://open.spotify.com/track/2SPviMJFbknUyaHjHb48Oq) | [TILHON](https://open.spotify.com/artist/6s6mY5Dhbh9Qrg118P3qcO), [Maktub](https://open.spotify.com/artist/3nKAYmceAIB4siDOyhXWt9), [Manaur](https://open.spotify.com/artist/3QUyyZXvzfKjUKt9N1zS0X) | [Nossa Hora](https://open.spotify.com/album/3P4qi8CBX5uEJOS2uYL3Px) | 3:35 |
 | 70 | [Tráfico n°2 / Dama da Noite](https://open.spotify.com/track/6srwAFrvqjV4tt0rkzzHRw) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Traficante D'Arte](https://open.spotify.com/artist/06MFQ7wtovNj0lEUJoIeyF), [Stevão NDM](https://open.spotify.com/artist/5JpEb19393qOrYgRniHY6h), [Missy Bity](https://open.spotify.com/artist/454cRoiGliscM95RXMHeMY), [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh), [Myriiam](https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7), [DSB 1224](https://open.spotify.com/artist/2stDBehct4FMgEapZ92nLg), [Valter Ls](https://open.spotify.com/artist/6tUbiFgsJZ1mTC4XU7EIAW) | [Tráfico n°2 / Dama da Noite](https://open.spotify.com/album/6wu0RQWFn5BH2SerKYNUO2) | 7:16 |
 
-Snapshot ID: `AAAAAMJCBdQwiuQyiMe4STQgfMXcOt9y`
+Snapshot ID: `AAAAAB5E5aL9OAggaNhbMTUu3+SNq2Sw`

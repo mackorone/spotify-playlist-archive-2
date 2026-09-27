@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,843 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,851 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 49 | [Bill Bailey, Won't You Please Come Home \- Remastered 2004](https://open.spotify.com/track/2gDWI2UjKkhLiC8KsJNO46) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj) | [The Five Pennies \(Original Motion Picture Soundtrack / Remastered 2004\)](https://open.spotify.com/album/2gJsk4Wci5no1VZBhgWyOW) | 1:58 |
 | 50 | [I've Got The World On A String](https://open.spotify.com/track/4MSfbddZH4qfzwbubH4GED) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [I've Got The World On A String](https://open.spotify.com/album/0RBcFzJZaV8N40scKLyIpU) | 2:52 |
 
-Snapshot ID: `arRoAAAAAABnZkDKRP8d7WQpjkt7iw66`
+Snapshot ID: `arW5gAAAAADAsbbtjRvc5R+z3O/TM4Xu`

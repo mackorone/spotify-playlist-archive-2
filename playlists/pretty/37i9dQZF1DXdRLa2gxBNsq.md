@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,191 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,204 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 9 | [La Última Patada](https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Siglo XXI](https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy) | 3:12 |
 | 10 | [Dispárame](https://open.spotify.com/track/3ttofroygpDF5hKxwfeeM6) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Lendakaris Muertos](https://open.spotify.com/artist/3QGuusX1fPhhSBFnx7yIgu), [BOXINBOX](https://open.spotify.com/artist/0gL1HXm74M1VChnjUO50Se) | [Dispárame](https://open.spotify.com/album/0wdBkfYTEmMQjqND8f1MUD) | 2:32 |
 | 11 | [Txus](https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Salve](https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP) | 1:43 |
-| 12 | [Piedra Contra Tijera](https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Tiempos Oscuros](https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9) | 3:15 |
-| 13 | [Enemigo Publico](https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:38 |
+| 12 | [Enemigo Publico](https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:38 |
+| 13 | [Piedra Contra Tijera](https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Tiempos Oscuros](https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9) | 3:15 |
 | 14 | [Otra noche \- XX5](https://open.spotify.com/track/4EneUyoQbFXysxjuK11Jve) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [XX5](https://open.spotify.com/album/50nfGrvQcaeQdqzFxlN6u3) | 3:10 |
 | 15 | [Loko Kuerdo](https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL) | [Txapelpunk](https://open.spotify.com/artist/1zOX25BGYZ4nt7XcACV3jG) | [¡Vaya Full!](https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw) | 2:14 |
 | 16 | [Cómo Convertirse en Nada](https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Cómo Convertirse en Nada](https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq) | 2:40 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 42 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
 | 43 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
 | 44 | [Molestar](https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Molestar](https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8) | 2:38 |
-| 45 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
-| 46 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
+| 45 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
+| 46 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
 | 47 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 48 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 |
 | 49 | [Al Monte \- En Directo Sala Nazca Madrid](https://open.spotify.com/track/0Ul61jBXFqInNFaQgtZJa0) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Al Monte \(En Directo Sala Nazca Madrid\)](https://open.spotify.com/album/4spYMKkgYXaeOPBCb5evIU) | 3:22 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 63 | [Ley Mordaza](https://open.spotify.com/track/1b3RZY4jJf5TNkTvnHP8d9) | [Kalerizo](https://open.spotify.com/artist/6QxQ8t4OrDpuGs9lfADhVH), [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Ley Mordaza](https://open.spotify.com/album/2uLKgreeEDiw4JuUOkIj76) | 4:16 |
 | 64 | [Todo Va a Arder](https://open.spotify.com/track/3VDCPhe5Iy1vOrDPYcEPIU) | [Alkayata](https://open.spotify.com/artist/4MXRiGG7FclTSSc9bsZdzQ), [Kata Kamikazes](https://open.spotify.com/artist/1FX6mA0d5LwHQcyPJiFPTK), [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Todo Va a Arder](https://open.spotify.com/album/3Y4uIciI2jvbhUJiElr4KC) | 3:01 |
 | 65 | [Síndrome de Trinchera](https://open.spotify.com/track/5LFfB9qbTLFQ6ni0Y287oo) | [Bardeo](https://open.spotify.com/artist/51oJznQAONP7CtL2s5hIHH) | [Síndrome de Trinchera](https://open.spotify.com/album/2VdR7bHFYYDmmr4Ch7KBbN) | 4:06 |
-| 66 | [O Mundo Toleou](https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA) | [Residuos Do Sistema](https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo), [Soak](https://open.spotify.com/artist/1sFx9AKYzR2OQYrUin52Pa) | [O Mundo Toleou](https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk) | 3:38 |
-| 67 | [Yo soy por ti](https://open.spotify.com/track/26jfRPNdiWuNJ6CFruoUB9) | [Ojos Pochos](https://open.spotify.com/artist/6CV8tsJ44anEaCwVm7pWk8) | [Yo soy por ti](https://open.spotify.com/album/6Q9qPwKUDUBB3IpMRFCnlc) | 2:03 |
+| 66 | [Yo soy por ti](https://open.spotify.com/track/26jfRPNdiWuNJ6CFruoUB9) | [Ojos Pochos](https://open.spotify.com/artist/6CV8tsJ44anEaCwVm7pWk8) | [Yo soy por ti](https://open.spotify.com/album/6Q9qPwKUDUBB3IpMRFCnlc) | 2:03 |
+| 67 | [O Mundo Toleou](https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA) | [Residuos Do Sistema](https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo), [Soak](https://open.spotify.com/artist/1sFx9AKYzR2OQYrUin52Pa) | [O Mundo Toleou](https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk) | 3:38 |
 | 68 | [Otra dosis más](https://open.spotify.com/track/1V14j597KbuBOWtiTJW58P) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Otra dosis más](https://open.spotify.com/album/19KlcHTIpr0ZdwwjWgGKfL) | 3:04 |
 | 69 | [Ayatolá del Rock](https://open.spotify.com/track/4LQ8ScRZWsOjtZXyP8C2Ns) | [Tokyo Blues](https://open.spotify.com/artist/4X9U15t9G0Cvasc2M6QFMV) | [Ayatolá del Rock](https://open.spotify.com/album/053o0eO2ikYG3S1bWMHiWu) | 2:38 |
 | 70 | [Mierda De Ciudad](https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 99 | [El Infierno Es Demasiado Dulce](https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [Yugular](https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM), [Odio a Muerte](https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS) | [El Infierno Es Demasiado Dulce](https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu) | 2:50 |
 | 100 | [Froilán de Todos los Antros](https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k) | [Fuckop Family](https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Froilán de Todos los Antros](https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE) | 3:40 |
 
-Snapshot ID: `AAAAAEnkDy+z2lgPJEei5K0z0HGlpot+`
+Snapshot ID: `AAAAAGKcItNkMWY2j/QH8LNHoSv+2LsR`

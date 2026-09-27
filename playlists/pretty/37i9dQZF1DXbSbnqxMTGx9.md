@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,227,327 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,227,339 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 57 | [Ballistic Affair](https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl) | [Leroy Smart](https://open.spotify.com/artist/6u7C6jxjkDAThmdcOnAwH0) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:13 |
 | 58 | [Engine 54](https://open.spotify.com/track/74jDDWXiT7pPEjL7mBYrs3) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:37 |
 | 59 | [Babylon](https://open.spotify.com/track/7EKP7Qa6F4GKtxxnlLLxnV) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:20 |
-| 60 | [Vision Of Redemption](https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu) | [Fred Locks](https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:58 |
+| 60 | [Hold Them](https://open.spotify.com/track/2JHyRO7aEJH0UXOjZQ7m0r) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
 | 61 | [Dr\. Dekker](https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:55 |
-| 62 | [Hold Them](https://open.spotify.com/track/2JHyRO7aEJH0UXOjZQ7m0r) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
+| 62 | [Vision Of Redemption](https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu) | [Fred Locks](https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:58 |
 | 63 | [Intensified](https://open.spotify.com/track/34mK7IhVyT10qBzRv5IYSY) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:43 |
 | 64 | [Fisher Man Dub](https://open.spotify.com/track/50QPOvKYebMWt8EBckwSyl) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Essential Dub Masters](https://open.spotify.com/album/2RzXympOFAsvIXDrqOxhyN) | 3:38 |
 | 65 | [Down By The Train Line](https://open.spotify.com/track/7hUrr2RkzJezvLFlq5YkZ8) | [Stranger & Patsy](https://open.spotify.com/artist/4ziAwbPCNR5388Xp7XnGyq) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:44 |
 | 66 | [Winey Winey](https://open.spotify.com/track/2UOdR8zPhwqpyMmMKMPzzN) | [The Kingstonians](https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:52 |
-| 67 | [Illya Kuryakin](https://open.spotify.com/track/55f5wRhUlYivT5RoFulIbl) | [Ike Bennett & The Crystalites](https://open.spotify.com/artist/1TA2u2QNYt7wxULMk9uPnZ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:21 |
-| 68 | [Graveyard Rock](https://open.spotify.com/track/11nF2K1iXn9Ettln1Nc29b) | [Garland Jeffreys](https://open.spotify.com/artist/6BLhUZMqXO8eXjhToNRteA) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:35 |
+| 67 | [Graveyard Rock](https://open.spotify.com/track/11nF2K1iXn9Ettln1Nc29b) | [Garland Jeffreys](https://open.spotify.com/artist/6BLhUZMqXO8eXjhToNRteA) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:35 |
+| 68 | [Illya Kuryakin](https://open.spotify.com/track/55f5wRhUlYivT5RoFulIbl) | [Ike Bennett & The Crystalites](https://open.spotify.com/artist/1TA2u2QNYt7wxULMk9uPnZ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:21 |
 | 69 | [Save A Bread](https://open.spotify.com/track/2oeYctBdUbqVJwI48kT7V3) | [Justin Hinds & The Dominoes](https://open.spotify.com/artist/0TxAbj3qE2NdYzg0SVG09Q) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:43 |
 | 70 | [On The Beach](https://open.spotify.com/track/3b2x5F6wXua5A2zXq4RuAA) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:33 |
 | 71 | [Ride Your Donkey](https://open.spotify.com/track/4UOuXbLjyM85rk8uszZxnx) | [The Tennors](https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:03 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 86 | [Could You Be Loved](https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 3:56 |
 | 87 | [You Are My Angel](https://open.spotify.com/track/6Gy2y9F3duNtDPZu4vFMfI) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Horace Andy](https://open.spotify.com/album/1BM0bccI4dyYdjhsrndxiv) | 2:52 |
 | 88 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad To The Bone](https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy) | 3:46 |
-| 89 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
-| 90 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
+| 89 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
+| 90 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
 | 91 | [Three Little Birds](https://open.spotify.com/track/26JRni5Lqiyd9GNnlaz6DI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 3:00 |
 | 92 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
 | 93 | [Murder She Wrote \(Original Mix\)](https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Murder She Wrote Single](https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 99 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
 | 100 | [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 |
 
-Snapshot ID: `AAAAAIf4iTM62cz4Z0NIcaRRug/48ZxM`
+Snapshot ID: `AAAAAJnMEhfXIyHGEzo7vAZ1aG9V+csB`

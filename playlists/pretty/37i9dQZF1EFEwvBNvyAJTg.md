@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 86 | [Take a Shot](https://open.spotify.com/track/1l3LtyjVDyavUhZJNZKTe4) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:28 |
 | 87 | [Oh Well](https://open.spotify.com/track/2Y54OMJFKcPIGO6tQLx91g) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:33 |
 | 88 | [Joyride](https://open.spotify.com/track/1nWLk91OyxUSJNYNNExTkK) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 |
-| 89 | [Curve](https://open.spotify.com/track/3lIizfjVFUTOnsmoBJEDjV) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:44 |
-| 90 | [Beg For Me \- JADE Remix](https://open.spotify.com/track/0JNVnPAXsNDG3Rayv0FQEZ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Beg For Me \(Remix\)](https://open.spotify.com/album/0HBQFvlAP6dpbqrh8hNjmA) | 2:50 |
+| 89 | [Beg For Me \- JADE Remix](https://open.spotify.com/track/0JNVnPAXsNDG3Rayv0FQEZ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Beg For Me \(Remix\)](https://open.spotify.com/album/0HBQFvlAP6dpbqrh8hNjmA) | 2:50 |
+| 90 | [Curve](https://open.spotify.com/track/3lIizfjVFUTOnsmoBJEDjV) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:44 |
 | 91 | [Loudmouth](https://open.spotify.com/track/6cCHKwvTMIrA0SyRjkoN6C) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 4:02 |
 | 92 | [Declaration](https://open.spotify.com/track/5h3sUmbwEdFkxejGryYhj6) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:38 |
 | 93 | [Lose My Love \(Acoustic\)](https://open.spotify.com/track/4Rzjt3rkPs5PfrBg5kPgxz) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Lose My Love \(Acoustic\)](https://open.spotify.com/album/4bcNl7WHYBTiy0BXGsdayM) | 3:00 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 188 | [Crush](https://open.spotify.com/track/5cjyHKXAV1OCX8MpjoAglp) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Super Deluxe Edition\)](https://open.spotify.com/album/1nB0GYarRd5bnenhk2FdA7) | 2:46 |
 | 189 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcdSMAAAAAAtfWrwuXYxRxOfx30AA0lF`
+Snapshot ID: `AcdXxgAAAABz+DBUj69zItLkvfCOF9rc`

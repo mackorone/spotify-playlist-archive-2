@@ -1,12 +1,12 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298292,
+  "num_followers": 298288,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABDqoQqXVsLj8ljKvTE5T86pADhS",
+  "snapshot_id": "AAAAAAUU/GJxUbnCDJClR3li/u1BM32R",
   "tracks": [
     {
       "added_at": "2026-09-25 14:30:26",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-09-25 14:30:26",
       "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "added_at": "2026-09-25 14:30:26",
+      "album": {
         "name": "I Love Life (feat. RANI)",
         "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 156190,
       "name": "I Love Life (feat. RANI)",
       "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
-    },
-    {
-      "added_at": "2026-09-25 14:30:26",
-      "album": {
-        "name": "Lucky Again",
-        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 181550,
-      "name": "Lucky Again",
-      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "added_at": "2026-09-25 14:30:26",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-09-25 14:30:26",
       "album": {
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
+    },
+    {
+      "added_at": "2026-09-25 14:30:26",
+      "album": {
         "name": "All the Space Between",
         "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
       },
@@ -615,18 +631,22 @@
     {
       "added_at": "2026-09-25 14:30:26",
       "album": {
-        "name": "the van",
-        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+        "name": "Some Kind Of High",
+        "url": "https://open.spotify.com/album/6prMnt4ighpUNRRqJU9Ofz"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 178001,
-      "name": "the van",
-      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
+      "duration_ms": 150323,
+      "name": "Some Kind Of High",
+      "url": "https://open.spotify.com/track/4tVACv3zcfxSC4M1P43X9y"
     },
     {
       "added_at": "2026-09-25 14:30:26",
@@ -751,6 +771,22 @@
     {
       "added_at": "2026-09-25 14:30:26",
       "album": {
+        "name": "The Avenue wave 1",
+        "url": "https://open.spotify.com/album/32evpf12hMTPw544bBrMsq"
+      },
+      "artists": [
+        {
+          "name": "GrooveBoom",
+          "url": "https://open.spotify.com/artist/5DBe9f0EnYtMcldlb9vH0R"
+        }
+      ],
+      "duration_ms": 254119,
+      "name": "Back Alley Rhythm",
+      "url": "https://open.spotify.com/track/3hJvsWP7gzv09iosdDmiAu"
+    },
+    {
+      "added_at": "2026-09-25 14:30:26",
+      "album": {
         "name": "All The Feels",
         "url": "https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH"
       },
@@ -771,22 +807,6 @@
       "duration_ms": 219506,
       "name": "All The Feels",
       "url": "https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT"
-    },
-    {
-      "added_at": "2026-09-25 14:30:26",
-      "album": {
-        "name": "The Avenue wave 1",
-        "url": "https://open.spotify.com/album/32evpf12hMTPw544bBrMsq"
-      },
-      "artists": [
-        {
-          "name": "GrooveBoom",
-          "url": "https://open.spotify.com/artist/5DBe9f0EnYtMcldlb9vH0R"
-        }
-      ],
-      "duration_ms": 254119,
-      "name": "Back Alley Rhythm",
-      "url": "https://open.spotify.com/track/3hJvsWP7gzv09iosdDmiAu"
     },
     {
       "added_at": "2026-09-25 14:30:26",
@@ -1087,26 +1107,6 @@
     {
       "added_at": "2026-09-25 14:30:26",
       "album": {
-        "name": "Some Kind Of High",
-        "url": "https://open.spotify.com/album/6prMnt4ighpUNRRqJU9Ofz"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 150323,
-      "name": "Some Kind Of High",
-      "url": "https://open.spotify.com/track/4tVACv3zcfxSC4M1P43X9y"
-    },
-    {
-      "added_at": "2026-09-25 14:30:26",
-      "album": {
         "name": "I Remember...",
         "url": "https://open.spotify.com/album/1KOZyRe3HszodUXU11FvQW"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 185920,
       "name": "I Remember...",
       "url": "https://open.spotify.com/track/7d1mlaQ0uYGbjtLHnfjxmU"
+    },
+    {
+      "added_at": "2026-09-25 14:30:26",
+      "album": {
+        "name": "A GoodStart",
+        "url": "https://open.spotify.com/album/5iAoVrgUfTM2HYo4kWFhNe"
+      },
+      "artists": [
+        {
+          "name": "MySummerRadio",
+          "url": "https://open.spotify.com/artist/0oINj5EcqEYXEYQ930vX7n"
+        }
+      ],
+      "duration_ms": 218788,
+      "name": "A GoodStart",
+      "url": "https://open.spotify.com/track/6jFk5NOvKpZSihrpr3Ph4Z"
     },
     {
       "added_at": "2026-09-25 14:30:26",
@@ -1155,22 +1171,6 @@
       "duration_ms": 200000,
       "name": "folding chairs on the moon",
       "url": "https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF"
-    },
-    {
-      "added_at": "2026-09-25 14:30:26",
-      "album": {
-        "name": "A GoodStart",
-        "url": "https://open.spotify.com/album/5iAoVrgUfTM2HYo4kWFhNe"
-      },
-      "artists": [
-        {
-          "name": "MySummerRadio",
-          "url": "https://open.spotify.com/artist/0oINj5EcqEYXEYQ930vX7n"
-        }
-      ],
-      "duration_ms": 218788,
-      "name": "A GoodStart",
-      "url": "https://open.spotify.com/track/6jFk5NOvKpZSihrpr3Ph4Z"
     },
     {
       "added_at": "2026-09-25 14:30:26",

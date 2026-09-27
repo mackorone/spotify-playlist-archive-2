@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Taylor Swift, Madonna, Charli xcx, Rizky Febian, Salma Salsabil, Jackson Wang, Rex Orange County dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,744 likes - 111 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,727 likes - 111 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 110 | [Chapter 4](https://open.spotify.com/track/7wsi6doEPUrUlFJYylmApv) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Chapter 4](https://open.spotify.com/album/7iVISoawYt4py8izsqOdq7) | 3:17 |
 | 111 | [Natural High](https://open.spotify.com/track/2ltTipWlzX9L8ofFKJioJi) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Natural High](https://open.spotify.com/album/7JLoQup5FmnWodYaoFfpBt) | 5:45 |
 
-Snapshot ID: `AAAAAMMJrqMaheCSDW+UF62bEZ8gpFiG`
+Snapshot ID: `AAAAAPof06N3PgFXvFPa4zbV+zHWvmy1`

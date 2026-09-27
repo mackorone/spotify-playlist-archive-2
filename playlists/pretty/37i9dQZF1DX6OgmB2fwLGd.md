@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > beautysleep\_hyper\_sleaze.electro\_glitch\_ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢\_\[FINAL\]\_\[REAL\]\_\_coverartist.janeremover
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369,128 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,518 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 69 | [Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/1HXwvX1Ph4yoGRZ51ssBH2) | 3:38 |
 | 70 | [Indiest Girl At School](https://open.spotify.com/track/1AchZDcnSaJIbjFPTUQOeI) | [The Femcels](https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK) | [I Have To Get Hotter](https://open.spotify.com/album/7EA0BJIxzjox8bBpMXSvqF) | 1:39 |
 
-Snapshot ID: `AAAAAAH6iEiaqQGXsfYgLPzHfcp2urOk`
+Snapshot ID: `AAAAABWK1prnA2qUpgeWzk03+OwLnfIs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Nicole Cherry, Grasu XXL
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,014 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,035 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Beluga](https://open.spotify.com/track/18dQBc9UPscYIqRqSepWF8) | [Florin Ristei](https://open.spotify.com/artist/75O3JSFrt909DtV34BTWfW) | [Beluga](https://open.spotify.com/album/3DTsjoUMCLAnBp4iGhVvSJ) | 2:47 |
 | 50 | [Mor după tine](https://open.spotify.com/track/3ia9wVJVCCxpixci3dXlxB) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Mor după tine](https://open.spotify.com/album/5j7cc5gjif5RQ46G0Cfp3K) | 2:17 |
 
-Snapshot ID: `AAAAAAISbQ0sIo7XIeG16Z05wckhkPRT`
+Snapshot ID: `AAAAAJKMFylBWfXmezOq3CF8Zm7nKlGy`

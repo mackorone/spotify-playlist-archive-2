@@ -4,7 +4,7 @@
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-128 songs - 6 hr 13 min
+129 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Get That Money \(feat\. Niki Pooh\)](https://open.spotify.com/track/0EC9HpKL4bS8O9ANKXLnE2) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Niki Pooh](https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:33 | 2022-11-12 | 2024-07-19 |
 | [Ghetto](https://open.spotify.com/track/1qq7kdzH7CCybWcbHHumyD) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq) | [Renegade](https://open.spotify.com/album/1oLihKPBT36E4csJUGlLP7) | 2:06 | 2023-12-13 | 2024-01-07 |
 | [GOMF \(feat\. GloRilla\)](https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GOMF \(feat\. GloRilla\)](https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO) | 2:29 | 2026-04-26 |  |
-| [Hell Woods 2](https://open.spotify.com/track/0vJyvI6FzFIOU08H99xFZR) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Watch This](https://open.spotify.com/album/5AXR7X4eT1HTI0P5NoAsnk) | 3:10 | 2026-08-26 |  |
+| [Hell Woods 2](https://open.spotify.com/track/0vJyvI6FzFIOU08H99xFZR) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Watch This](https://open.spotify.com/album/5AXR7X4eT1HTI0P5NoAsnk) | 3:10 | 2026-08-26 | 2026-09-27 |
 | [Hell Woods 2](https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hell Woods 2](https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic) | 3:10 | 2025-03-02 | 2026-08-25 |
 | [HOLLON](https://open.spotify.com/track/1Tt4m8l00BI85uOr5EqXUh) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:08 | 2024-10-25 |  |
 | [HOLLON](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 | 2024-09-22 | 2024-10-25 |
@@ -119,6 +119,7 @@
 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 | 2024-07-21 | 2024-12-02 |
 | [TGIF](https://open.spotify.com/track/31TVho4kOuAeRmLYGIEuWn) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:44 | 2024-12-02 |  |
 | [TGIF](https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF \(Alternate Versions\)](https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD) | 2:44 | 2024-06-23 | 2024-07-21 |
+| [This Time \(feat\. GloRilla\)](https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [This Time](https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS) | 2:46 | 2026-09-27 |  |
 | [To The Side \(with GloRilla\)](https://open.spotify.com/track/4B0nsYvTtZ0oAyr5MjkXU9) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 2:33 | 2026-01-25 |  |
 | [Tomorrow](https://open.spotify.com/track/7v6B1kRUvNbkVGfqSkrwuS) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Tomorrow](https://open.spotify.com/album/358jvrijvWrD1zDXk8uL3G) | 1:53 | 2022-10-28 | 2025-12-07 |
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 | 2023-03-11 |  |

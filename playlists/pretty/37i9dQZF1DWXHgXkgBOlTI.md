@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: SALVALAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,393 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,407 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 49 | [Frontiers](https://open.spotify.com/track/0pGMeaqavka50SO0yorIqV) | [DEZOLVE](https://open.spotify.com/artist/69bAmAy4oS266wXyJiColS) | [Frontiers](https://open.spotify.com/album/6OUrBuWxY1NtCu2VmUD1RK) | 5:08 |
 | 50 | [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 |
 
-Snapshot ID: `AAAAABIPi23hWb8AaJB1ZyA8M4ql0+o6`
+Snapshot ID: `AAAAAEvZymmT+xbS1lkbFOP9r6dqbHwu`

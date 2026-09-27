@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 4066765,
+  "num_followers": 4066520,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIErszvUuz3xxtC+f/eCsZG4Vf43",
+  "snapshot_id": "AAAAAGMmSir2k4bxMctKfzMwHdiCeGTq",
   "tracks": [
     {
       "added_at": "2026-09-11 04:42:20",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG"
     },
     {
-      "added_at": "2026-09-18 04:02:54",
-      "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 348853,
-      "name": "Acquainted",
-      "url": "https://open.spotify.com/track/7uJH0YdSZL6psjxI6Xy08b"
-    },
-    {
       "added_at": "2026-08-06 14:45:02",
       "album": {
         "name": "Loser",
@@ -89,20 +73,56 @@
       "url": "https://open.spotify.com/track/2XhmIDdUVi7f44eW5wZEO8"
     },
     {
-      "added_at": "2026-09-18 04:02:54",
+      "added_at": "2026-09-26 22:07:20",
       "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
         }
       ],
-      "duration_ms": 123870,
-      "name": "LOT OF ME",
-      "url": "https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB"
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "added_at": "2026-09-18 04:02:54",
+      "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 348853,
+      "name": "Acquainted",
+      "url": "https://open.spotify.com/track/7uJH0YdSZL6psjxI6Xy08b"
+    },
+    {
+      "added_at": "2026-09-26 22:07:20",
+      "album": {
+        "name": "whos whybie?",
+        "url": "https://open.spotify.com/album/2h6EUXGfXSFPa39Rp1Eqhl"
+      },
+      "artists": [
+        {
+          "name": "comehelpglo",
+          "url": "https://open.spotify.com/artist/5Z9nWuFMEQ97O7ixur2c8l"
+        }
+      ],
+      "duration_ms": 131186,
+      "name": "onsra",
+      "url": "https://open.spotify.com/track/3nUc6KLhePNoS66kBcSlDH"
     },
     {
       "added_at": "2026-09-11 04:42:20",
@@ -127,6 +147,54 @@
       "duration_ms": 225834,
       "name": "BbY WOW",
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
+    },
+    {
+      "added_at": "2026-09-18 04:02:54",
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "LOT OF ME",
+      "url": "https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB"
+    },
+    {
+      "added_at": "2026-09-26 22:07:20",
+      "album": {
+        "name": "I\u2019m your girl right?",
+        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 169059,
+      "name": "I\u2019m your girl right?",
+      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
+    },
+    {
+      "added_at": "2026-09-18 04:02:54",
+      "album": {
+        "name": "Vibin",
+        "url": "https://open.spotify.com/album/3Gm7PcJD5anUXqQt1K10Jx"
+      },
+      "artists": [
+        {
+          "name": "Wxoda",
+          "url": "https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG"
+        }
+      ],
+      "duration_ms": 94615,
+      "name": "Vibin",
+      "url": "https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs"
     },
     {
       "added_at": "2026-09-18 04:02:54",
@@ -193,6 +261,26 @@
       "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
     },
     {
+      "added_at": "2026-09-26 22:07:20",
+      "album": {
+        "name": "Can I Ride",
+        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "95 South",
+          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
+        }
+      ],
+      "duration_ms": 163888,
+      "name": "Can I Ride",
+      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
+    },
+    {
       "added_at": "2026-09-18 04:02:54",
       "album": {
         "name": "No One Noticed (Extended)",
@@ -209,20 +297,20 @@
       "url": "https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze"
     },
     {
-      "added_at": "2026-09-18 04:02:54",
+      "added_at": "2026-09-26 22:07:20",
       "album": {
-        "name": "Vibin",
-        "url": "https://open.spotify.com/album/3Gm7PcJD5anUXqQt1K10Jx"
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
       },
       "artists": [
         {
-          "name": "Wxoda",
-          "url": "https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG"
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
         }
       ],
-      "duration_ms": 94615,
-      "name": "Vibin",
-      "url": "https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs"
+      "duration_ms": 314320,
+      "name": "Duvet - Acoustic",
+      "url": "https://open.spotify.com/track/0wlsgzAk1LaO8MMoXxpz7W"
     },
     {
       "added_at": "2026-08-04 01:43:44",
@@ -255,6 +343,46 @@
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-09-26 22:07:20",
+      "album": {
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Nate Ruess",
+          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+        }
+      ],
+      "duration_ms": 242721,
+      "name": "Just Give Me a Reason (feat. Nate Ruess)",
+      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "added_at": "2026-09-26 22:07:20",
+      "album": {
+        "name": "The Barrel Of Her Gun",
+        "url": "https://open.spotify.com/album/1mWcaW8C3T1pIaxMvNBwpk"
+      },
+      "artists": [
+        {
+          "name": "Citycreed",
+          "url": "https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc"
+        },
+        {
+          "name": "Clo\u0113 Hubbard",
+          "url": "https://open.spotify.com/artist/0SS4X3G4qpXh0hyIcZFFWS"
+        }
+      ],
+      "duration_ms": 125831,
+      "name": "The Barrel Of Her Gun",
+      "url": "https://open.spotify.com/track/5lznPEpJrt4aS6Y816E8Na"
     },
     {
       "added_at": "2026-09-18 04:02:54",
@@ -737,22 +865,6 @@
       "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
     },
     {
-      "added_at": "2026-08-04 01:43:44",
-      "album": {
-        "name": "Dead Fresh",
-        "url": "https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 157020,
-      "name": "Dead Fresh",
-      "url": "https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib"
-    },
-    {
       "added_at": "2026-07-09 03:04:56",
       "album": {
         "name": "SLICK",
@@ -785,22 +897,6 @@
       "url": "https://open.spotify.com/track/6QKpHmO41jkd9pTp0FfmHs"
     },
     {
-      "added_at": "2026-08-04 01:43:44",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 173975,
-      "name": "Great Expectation",
-      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
-    },
-    {
       "added_at": "2026-07-08 04:50:48",
       "album": {
         "name": "Rise Against My Broken Odds",
@@ -815,46 +911,6 @@
       "duration_ms": 178285,
       "name": "Ghetto Love Story",
       "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
-    },
-    {
-      "added_at": "2026-08-06 14:51:57",
-      "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 166150,
-      "name": "B4 B4 (with Mayorkun & FOLA)",
-      "url": "https://open.spotify.com/track/37BTNKEaW6aUvsKH3O2UUt"
-    },
-    {
-      "added_at": "2026-08-04 01:43:44",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2026-08-06 14:45:02",
@@ -921,22 +977,6 @@
       "url": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a"
     },
     {
-      "added_at": "2026-06-22 22:36:49",
-      "album": {
-        "name": "(What's The Story) Morning Glory?",
-        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr"
-    },
-    {
       "added_at": "2026-04-29 01:21:02",
       "album": {
         "name": "NOBLE",
@@ -985,102 +1025,6 @@
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
     },
     {
-      "added_at": "2026-08-06 14:45:02",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "favorite crime",
-      "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
-    },
-    {
-      "added_at": "2026-06-22 22:36:49",
-      "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 161803,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
-    },
-    {
-      "added_at": "2026-06-30 17:20:38",
-      "album": {
-        "name": "Body Talk Pt. 1",
-        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 285973,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
-    },
-    {
-      "added_at": "2026-07-08 04:50:48",
-      "album": {
-        "name": "MORNING DEW (DONK)",
-        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 243896,
-      "name": "MORNING DEW (DONK)",
-      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
-    },
-    {
-      "added_at": "2026-03-09 15:45:52",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-06-09 20:14:42",
-      "album": {
-        "name": "GIRLS",
-        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 152979,
-      "name": "GIRLS",
-      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
-    },
-    {
       "added_at": "2026-07-22 04:13:02",
       "album": {
         "name": "do i clench my fists?",
@@ -1095,26 +1039,6 @@
       "duration_ms": 153275,
       "name": "do i clench my fists?",
       "url": "https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz"
-    },
-    {
-      "added_at": "2026-04-24 04:01:25",
-      "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 480186,
-      "name": "Cinderella (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
     }
   ],
   "unique_name": "big on the internet",

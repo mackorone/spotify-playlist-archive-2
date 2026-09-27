@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 11 hr 2 min
+212 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Better Without You \(feat\. Glowie\)](https://open.spotify.com/track/1tQNwQeYxq5FsSm0FALERe) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Better Without You \(feat\. Glowie\)](https://open.spotify.com/album/3WbGTK5SA0XEc7bbUVgHUt) | 2:27 | 2022-05-25 |  |
 | [Big Feelings](https://open.spotify.com/track/6DEf0oAPdhAA90LUy7tOd0) | [EYJAA](https://open.spotify.com/artist/3Izf45JtVxEjBMvq5vJOsg) | [Big Feelings](https://open.spotify.com/album/4hpkCPORoCgGW8iEvbb3D2) | 2:39 | 2022-07-26 |  |
 | [Body Language](https://open.spotify.com/track/2WeCFWSiGDlGHmksFpLyLs) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Cami Bear](https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:44 | 2022-05-25 |  |
-| [Body On \- Boys' Version](https://open.spotify.com/track/0dqMB39X4ef3h1TcuRk9fn) | [dearALICE](https://open.spotify.com/artist/1pMIULCflTFyzyv5vT1OzU) | [Body On \(Boys' Version\)](https://open.spotify.com/album/0OCtODbqho9EH8hBculKgN) | 3:16 | 2026-08-01 |  |
+| [Body On \(feat\. SWEET REVENGE x Enola Bedard\)](https://open.spotify.com/track/4wlrODsUPf1tY7Dpz5oCww) | [dearALICE](https://open.spotify.com/artist/1pMIULCflTFyzyv5vT1OzU), [SWEET REVENGE](https://open.spotify.com/artist/5Bey3ulvK5ExyT5SHZUUgh), [Enola Bedard](https://open.spotify.com/artist/4FhVSiLEO4NPE3gZiaMg7Y) | [Body On \(feat\. SWEET REVENGE x Enola Bedard\)](https://open.spotify.com/album/2Wk5w1qtEEn4weP5Ov2F7N) | 3:17 | 2026-09-26 |  |
+| [Body On \- Boys' Version](https://open.spotify.com/track/0dqMB39X4ef3h1TcuRk9fn) | [dearALICE](https://open.spotify.com/artist/1pMIULCflTFyzyv5vT1OzU) | [Body On \(Boys' Version\)](https://open.spotify.com/album/0OCtODbqho9EH8hBculKgN) | 3:16 | 2026-08-01 | 2026-09-27 |
 | [Bounce](https://open.spotify.com/track/6uipQY1DKk611P3uOOePUb) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) | 3:17 | 2022-05-25 |  |
 | [Boys Do Cry](https://open.spotify.com/track/1gK4smjjI1rJWH8KzStaRI) | [CC Clarke](https://open.spotify.com/artist/7cAejKwJexYrJ8JXfuux9l) | [Boys Do Cry](https://open.spotify.com/album/1Y9CHStZf17ywRzOYAhYhC) | 2:46 | 2022-05-25 | 2026-08-28 |
 | [Boys Do Cry](https://open.spotify.com/track/6J7XDtuyQeqcZ6uQxdSpe6) | [CC Clarke](https://open.spotify.com/artist/3XS9mpXg2gu96uOeogDn1y) | [Boys Do Cry](https://open.spotify.com/album/2SZcLSepwoJC1ypxMSMtAi) | 2:46 | 2025-10-17 |  |

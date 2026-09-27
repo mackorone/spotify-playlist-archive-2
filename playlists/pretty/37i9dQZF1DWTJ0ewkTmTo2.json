@@ -1,15 +1,31 @@
 {
   "description": "Get ready to sing your hearts out with these family friendly road trip classics.",
-  "num_followers": 754643,
+  "num_followers": 754713,
   "original_name": "Family Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKsIjUMSRgFlR9SNUu2b5BdXU4J1",
+  "snapshot_id": "AAAAAH28aqYV29/4W4SCBoG3YlUTydbN",
   "tracks": [
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
@@ -93,7 +125,7 @@
       "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
@@ -109,7 +141,23 @@
       "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
@@ -125,7 +173,7 @@
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
@@ -141,7 +189,7 @@
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
@@ -157,7 +205,7 @@
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
@@ -173,7 +221,7 @@
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Maybe You've Been Brainwashed Too",
         "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
@@ -189,7 +237,23 @@
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Oh, What A Life",
         "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
@@ -205,7 +269,7 @@
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
@@ -221,7 +285,7 @@
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
@@ -237,7 +301,7 @@
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "August And Everything After",
         "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
@@ -253,7 +317,7 @@
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
@@ -269,7 +333,7 @@
       "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
@@ -285,7 +349,7 @@
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
@@ -301,7 +365,7 @@
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
@@ -317,7 +381,7 @@
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Sweet Caroline",
         "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
@@ -333,7 +397,7 @@
       "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
@@ -349,7 +413,7 @@
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Sunshine on Leith",
         "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
@@ -365,7 +429,7 @@
       "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
@@ -381,7 +445,7 @@
       "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "The Time Of Our Lives",
         "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
@@ -397,7 +461,7 @@
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
@@ -413,7 +477,7 @@
       "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
         "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
@@ -429,7 +493,7 @@
       "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "The Essential Journey",
         "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
@@ -445,7 +509,7 @@
       "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
@@ -461,7 +525,7 @@
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
@@ -477,7 +541,7 @@
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Kiss (Deluxe)",
         "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
@@ -493,7 +557,7 @@
       "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Working Class Dog",
         "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
@@ -509,7 +573,7 @@
       "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
@@ -525,7 +589,7 @@
       "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
@@ -541,7 +605,7 @@
       "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Permission to Land",
         "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
@@ -557,7 +621,7 @@
       "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
@@ -573,7 +637,7 @@
       "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
@@ -589,7 +653,7 @@
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
@@ -605,7 +669,7 @@
       "url": "https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Some Gave All",
         "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
@@ -621,7 +685,7 @@
       "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Help! (Remastered)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
@@ -637,7 +701,7 @@
       "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Stunt (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
@@ -653,7 +717,7 @@
       "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
@@ -673,7 +737,7 @@
       "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
@@ -689,55 +753,7 @@
       "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 425653,
-      "name": "Hey Jude - Remastered 2015",
-      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
-        "name": "...Somewhere More Familiar",
-        "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
-      },
-      "artists": [
-        {
-          "name": "Sister Hazel",
-          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
@@ -753,7 +769,39 @@
       "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 425653,
+      "name": "Hey Jude - Remastered 2015",
+      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+    },
+    {
+      "added_at": "2026-09-26 02:58:58",
+      "album": {
+        "name": "...Somewhere More Familiar",
+        "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
+      },
+      "artists": [
+        {
+          "name": "Sister Hazel",
+          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
+    },
+    {
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "All The Pain Money Can Buy",
         "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
@@ -769,7 +817,23 @@
       "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
+    },
+    {
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Do you Believe In Magic",
         "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
@@ -785,7 +849,7 @@
       "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
@@ -801,7 +865,7 @@
       "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "The Hits--Chapter One",
         "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
@@ -817,23 +881,7 @@
       "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Calypso",
         "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
@@ -849,7 +897,23 @@
       "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
+    },
+    {
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "The Best Of Don McLean",
         "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
@@ -865,7 +929,7 @@
       "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Rubber Soul (Remastered 2009)",
         "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
@@ -881,7 +945,7 @@
       "url": "https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
@@ -897,7 +961,7 @@
       "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
@@ -949,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4sQmCQUZcnBPaVm4dEUKv7"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "The Exciting Wilson Pickett",
         "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
@@ -965,7 +1029,7 @@
       "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Golden Hits",
         "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
@@ -981,7 +1045,7 @@
       "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "At Worst...The Best Of Boy George And Culture Club",
         "url": "https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3"
@@ -997,7 +1061,7 @@
       "url": "https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Wimoweh!!! - The Best Of The Tokens",
         "url": "https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0"
@@ -1013,7 +1077,7 @@
       "url": "https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi"
     },
     {
-      "added_at": "2024-08-26 04:00:00",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "LOOM",
         "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
@@ -1029,7 +1093,7 @@
       "url": "https://open.spotify.com/track/2Wop6FEmIstWTMeQb0TXcw"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Bat Out Of Hell II: Back Into Hell",
         "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
@@ -1045,7 +1109,7 @@
       "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
@@ -1061,7 +1125,7 @@
       "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Rock Of The 80's",
         "url": "https://open.spotify.com/album/2avyCubWluhpGqAbYYbmph"
@@ -1077,7 +1141,7 @@
       "url": "https://open.spotify.com/track/4t5lrf5rFX6JWAUPKCDlKk"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Road Less Traveled",
         "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
@@ -1093,7 +1157,7 @@
       "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
     },
     {
-      "added_at": "2024-08-26 04:00:00",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "LOOM",
         "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
@@ -1109,7 +1173,7 @@
       "url": "https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Sheryl Crow",
         "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
@@ -1125,7 +1189,7 @@
       "url": "https://open.spotify.com/track/0t6DAi9KEiaWOtgTTXGhD2"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "The Best Of / 20th Century Masters The Millennium Collection",
         "url": "https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR"
@@ -1141,7 +1205,7 @@
       "url": "https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "The Breakfast Club",
         "url": "https://open.spotify.com/album/2yrEJ5xNvTdEEFuTtcku9M"
@@ -1157,7 +1221,7 @@
       "url": "https://open.spotify.com/track/6yEAAIEHu4GcUFptg5W9kI"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "The Beat Goes On: Best Of",
         "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
@@ -1173,7 +1237,7 @@
       "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Forrest Gump - The Soundtrack",
         "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
@@ -1189,23 +1253,7 @@
       "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
-        "name": "All-Star Sports Jams",
-        "url": "https://open.spotify.com/album/79sAKFjr7TWKw6A94kBKPL"
-      },
-      "artists": [
-        {
-          "name": "Chumbawamba",
-          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Tubthumping",
-      "url": "https://open.spotify.com/track/2JLRcAkPB8JZIIohZarVTr"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "The Beach Boys Love Songs",
         "url": "https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq"
@@ -1221,7 +1269,23 @@
       "url": "https://open.spotify.com/track/0cx32rX0uZvcJUP92Wkj2y"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
+      "album": {
+        "name": "All-Star Sports Jams",
+        "url": "https://open.spotify.com/album/79sAKFjr7TWKw6A94kBKPL"
+      },
+      "artists": [
+        {
+          "name": "Chumbawamba",
+          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Tubthumping",
+      "url": "https://open.spotify.com/track/2JLRcAkPB8JZIIohZarVTr"
+    },
+    {
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Chariot - Stripped",
         "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
@@ -1237,7 +1301,7 @@
       "url": "https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "The Muppets (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50"
@@ -1253,7 +1317,7 @@
       "url": "https://open.spotify.com/track/1SJ4ycWow4yz6z4oFz8NAG"
     },
     {
-      "added_at": "2024-05-29 18:39:32",
+      "added_at": "2026-09-26 02:58:58",
       "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
@@ -1267,70 +1331,6 @@
       "duration_ms": 208466,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
-        "name": "Disney/Pixar Greatest",
-        "url": "https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 276706,
-      "name": "Life is a Highway - From \"Cars\"",
-      "url": "https://open.spotify.com/track/5YbeJyTQkdSAWe1Ie4sLAl"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
-        "name": "Greatest Hits - We Will Rock You Edition",
-        "url": "https://open.spotify.com/album/4Qcy60knPmSHjWmOsVVwhL"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 354600,
-      "name": "Bohemian Rhapsody - Remastered",
-      "url": "https://open.spotify.com/track/6vLaKD0HUJ5UtIADG61Fa9"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
-        "name": "The Very Best of the Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3vhJw6V39Gh1PpEMHjiMFO"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
-        "name": "To Be Loved",
-        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "You've Got a Friend in Me",
-      "url": "https://open.spotify.com/track/5xEfTvJm1WvxaSEo4XSbEs"
     }
   ],
   "unique_name": "Family Road Trip",

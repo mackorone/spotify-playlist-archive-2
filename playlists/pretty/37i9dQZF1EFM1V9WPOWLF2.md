@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 76 | [Volverás](https://open.spotify.com/track/7e7jwhhF97ivaOrqXa7dju) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Volverás](https://open.spotify.com/album/5VhDef51qADRAeqqLZdIL4) | 2:44 |
 | 77 | [COMPLICADO](https://open.spotify.com/track/2FKIbvksdWBHXe0KjF2Jdx) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [COMPLICADO](https://open.spotify.com/album/34acwC6W2OjOMfEZXfUOFH) | 2:51 |
 | 78 | [Gira Gira](https://open.spotify.com/track/2qcKhavOikePIU3A1hirGe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [El Tracatra](https://open.spotify.com/album/5vKJMBf6AE1bnYE3Q1BWhw) | 3:00 |
-| 79 | [SER ELLA](https://open.spotify.com/track/7Aihd6Eq6qXoMSPmkR347Y) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [SER ELLA](https://open.spotify.com/album/4FFg8qcpC0xPcvt6VSq9Hj) | 2:41 |
-| 80 | [bellaka](https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Confesiones de las que me voy a arrepentir](https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE) | 2:40 |
+| 79 | [bellaka](https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Confesiones de las que me voy a arrepentir](https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE) | 2:40 |
+| 80 | [SER ELLA](https://open.spotify.com/track/7Aihd6Eq6qXoMSPmkR347Y) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [SER ELLA](https://open.spotify.com/album/4FFg8qcpC0xPcvt6VSq9Hj) | 2:41 |
 | 81 | [ICE $PICE](https://open.spotify.com/track/6pvPwEQFRzI80KSfkoHf1N) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [ICE $PICE](https://open.spotify.com/album/3tSfq0f6nFZSrxucpa9XJ8) | 2:43 |
 | 82 | [CERO](https://open.spotify.com/track/0ymJeUV9zr0f5qogiaxY4t) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [CERO](https://open.spotify.com/album/5yo3PAqHQxe8K5S5VndQsm) | 2:38 |
 | 83 | [Crisis](https://open.spotify.com/track/6qIqgXXofRhJkvRytIS1HR) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Nada Personal](https://open.spotify.com/album/4WgRPX4DY0lwubpMYKuTzN) | 3:21 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 115 | [Terrifying](https://open.spotify.com/track/2ANynrvIPu167ZHz2DJ3xk) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Terrifying](https://open.spotify.com/album/732sY0DgQ57NUeH5wNSDL4) | 3:24 |
 | 116 | [Its Weird](https://open.spotify.com/track/4S9pwJF1RwFY9rjuyVlTOB) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Its Weird](https://open.spotify.com/album/4XqWvGatggpkv5iGNmgp0T) | 2:59 |
 
-Snapshot ID: `AcdSHAAAAAD/5SApBx5FYBd8sRCO9SBi`
+Snapshot ID: `AcdXsgAAAAAIjshvDV6Srck80OsLadrT`

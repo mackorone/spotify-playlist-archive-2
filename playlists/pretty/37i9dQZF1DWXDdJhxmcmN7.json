@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAEn2FG1kL/6WSifX1oa/Z3mGvqd",
+  "snapshot_id": "AAAAAOvVCHN3Qb1gIv7L2cecT1oaB9qL",
   "tracks": [
     {
       "added_at": "2026-01-26 05:01:07",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 144000,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        },
-        {
-          "name": "Bryan Pelayo",
-          "url": "https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK"
-        }
-      ],
-      "duration_ms": 93000,
-      "name": "Ukelele At Night",
-      "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Jardines, Vol.1",
         "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 153162,
       "name": "jazmin",
       "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        },
+        {
+          "name": "Bryan Pelayo",
+          "url": "https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK"
+        }
+      ],
+      "duration_ms": 93000,
+      "name": "Ukelele At Night",
+      "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -899,8 +899,8 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "ajijic, jalisco",
-        "url": "https://open.spotify.com/album/08DPwkK3JbqHp4lLfW0zuV"
+        "name": "cholula, puebla",
+        "url": "https://open.spotify.com/album/2IVjHtScmP9CXP0kYiWpSp"
       },
       "artists": [
         {
@@ -910,15 +910,11 @@
         {
           "name": "Chill&Go",
           "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Sunsplash",
-          "url": "https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr"
         }
       ],
-      "duration_ms": 202590,
-      "name": "ajijic, jalisco",
-      "url": "https://open.spotify.com/track/2BzQRZ1KKQC9Zpe6LAU6ED"
+      "duration_ms": 124044,
+      "name": "cholula, puebla",
+      "url": "https://open.spotify.com/track/2uEOoG0dkRThbmHPz7pOXF"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -955,22 +951,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Sugar Leafs",
-        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "Sugar Leafs",
-      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Oda a la Infancia",
         "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
@@ -991,8 +971,24 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "cholula, puebla",
-        "url": "https://open.spotify.com/album/2IVjHtScmP9CXP0kYiWpSp"
+        "name": "Sugar Leafs",
+        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "Sugar Leafs",
+      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "ajijic, jalisco",
+        "url": "https://open.spotify.com/album/08DPwkK3JbqHp4lLfW0zuV"
       },
       "artists": [
         {
@@ -1002,11 +998,15 @@
         {
           "name": "Chill&Go",
           "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Sunsplash",
+          "url": "https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr"
         }
       ],
-      "duration_ms": 124044,
-      "name": "cholula, puebla",
-      "url": "https://open.spotify.com/track/2uEOoG0dkRThbmHPz7pOXF"
+      "duration_ms": 202590,
+      "name": "ajijic, jalisco",
+      "url": "https://open.spotify.com/track/2BzQRZ1KKQC9Zpe6LAU6ED"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Atacama",
-        "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Atacama",
-      "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Dale Dale",
         "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
       },
@@ -1091,38 +1075,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
+        "name": "Atacama",
+        "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
       },
       "artists": [
         {
-          "name": "Aguachill",
-          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
-        },
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
         }
       ],
-      "duration_ms": 140411,
-      "name": "El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7q8CNO6bRExzHx197q0oS1"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "wandering through soft colors",
-        "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
-      },
-      "artists": [
-        {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "wandering through soft colors",
-      "url": "https://open.spotify.com/track/69nXRmLR97LqM5PZo3ODFi"
+      "duration_ms": 128571,
+      "name": "Atacama",
+      "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1143,6 +1107,42 @@
       "duration_ms": 107294,
       "name": "All Good in the Hood",
       "url": "https://open.spotify.com/track/6glzOKKrShPuFB8aPWgafO"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "wandering through soft colors",
+        "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
+      },
+      "artists": [
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "wandering through soft colors",
+      "url": "https://open.spotify.com/track/69nXRmLR97LqM5PZo3ODFi"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
+      },
+      "artists": [
+        {
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
+        },
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 140411,
+      "name": "El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7q8CNO6bRExzHx197q0oS1"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1199,42 +1199,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Summer Purr",
-        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
-      },
-      "artists": [
-        {
-          "name": "Kissa Kat",
-          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Summer Purr",
-      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "El Chavito Triste",
-      "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Retreat",
         "url": "https://open.spotify.com/album/5DSFC0n76z9CoGVwVmuPkD"
       },
@@ -1259,6 +1223,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "El Chavito Triste",
+      "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "98 pasos",
         "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 133600,
       "name": "98 pasos",
       "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Summer Purr",
+        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
+      },
+      "artists": [
+        {
+          "name": "Kissa Kat",
+          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Summer Purr",
+      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Trompo de Pastor",
-        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
-      },
-      "artists": [
-        {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Trompo de Pastor",
-      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "todas las ma\u00f1anas",
         "url": "https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 147621,
       "name": "todas las ma\u00f1anas",
       "url": "https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Trompo de Pastor",
+        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
+      },
+      "artists": [
+        {
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Trompo de Pastor",
+      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Dusty Beats 2",
-        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 65893,
-      "name": "Sonora (Interludio 2)",
-      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 111219,
       "name": "Extra\u00f1os (Strangers)",
       "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Dusty Beats 2",
+        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 65893,
+      "name": "Sonora (Interludio 2)",
+      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "2024??",
-        "url": "https://open.spotify.com/album/3TCvK7mG4jS3Gj27rvZTBf"
-      },
-      "artists": [
-        {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
-        }
-      ],
-      "duration_ms": 145391,
-      "name": "cartas en el rio",
-      "url": "https://open.spotify.com/track/0lAV12IZAElPLOQ36nuJW9"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Taco de barbacoa",
         "url": "https://open.spotify.com/album/4tHJKkqpiJ5ccLFA7LdYrY"
       },
@@ -1823,22 +1807,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "she is",
-        "url": "https://open.spotify.com/album/0ot94PEG5wF4dv8gzVgmWg"
-      },
-      "artists": [
-        {
-          "name": "AGM",
-          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
-        }
-      ],
-      "duration_ms": 232514,
-      "name": "she is",
-      "url": "https://open.spotify.com/track/7iRk3rXKp9wusvvGmzlSAR"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "forastero.",
         "url": "https://open.spotify.com/album/05AmU9DNnf8nNsJMQH0izW"
       },
@@ -1851,6 +1819,38 @@
       "duration_ms": 98306,
       "name": "semilla de merey",
       "url": "https://open.spotify.com/track/08cs2nZs4ueoYSdyKQQZAY"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "2024??",
+        "url": "https://open.spotify.com/album/3TCvK7mG4jS3Gj27rvZTBf"
+      },
+      "artists": [
+        {
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+        }
+      ],
+      "duration_ms": 145391,
+      "name": "cartas en el rio",
+      "url": "https://open.spotify.com/track/0lAV12IZAElPLOQ36nuJW9"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "she is",
+        "url": "https://open.spotify.com/album/0ot94PEG5wF4dv8gzVgmWg"
+      },
+      "artists": [
+        {
+          "name": "AGM",
+          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
+        }
+      ],
+      "duration_ms": 232514,
+      "name": "she is",
+      "url": "https://open.spotify.com/track/7iRk3rXKp9wusvvGmzlSAR"
     }
   ],
   "unique_name": "LoFi mexa",

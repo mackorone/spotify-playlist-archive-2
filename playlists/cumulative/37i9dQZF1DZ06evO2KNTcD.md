@@ -4,7 +4,7 @@
 
 > This is Jae Stephens\. The essential tracks, all in one playlist.
 
-36 songs - 1 hr 52 min
+43 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,14 @@
 | [All Our Time \(feat\. Jae Stephens\)](https://open.spotify.com/track/1cYVwtYE0OD7gn8GnD4H6X) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [if You Feel](https://open.spotify.com/album/3MbutmdmYVZkJet5KXtALG) | 2:46 | 2026-06-25 |  |
 | [Already On It \(feat\. VanJess\)](https://open.spotify.com/track/4jqnSOR7LY14CFjscQN5eO) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [And Friends](https://open.spotify.com/album/7FArNYvyeMXYTECCmHoqUe) | 3:20 | 2026-06-25 |  |
 | [Attaboy!](https://open.spotify.com/track/1GhKaP6CoT6VvgXCxQlbih) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Attaboy!](https://open.spotify.com/album/0tYqtIOu6rABziVPENQYUR) | 2:44 | 2026-06-25 |  |
+| [B4U](https://open.spotify.com/track/6H1V8A3LEtogBwoCI2QIoO) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:56 | 2026-09-27 |  |
 | [Body Favors](https://open.spotify.com/track/2obj6HfJslPQdfTUpM8ywG) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 2:56 | 2026-06-25 |  |
 | [Boyfriend Forever](https://open.spotify.com/track/6o4tdluxrx4gDOyuweL866) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 2:58 | 2026-06-25 |  |
+| [Crush](https://open.spotify.com/track/7pRrlsZm66TRUJi5OaPTNX) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 3:04 | 2026-09-27 |  |
+| [Downhill](https://open.spotify.com/track/75LOalaw37fgTkL3mSe3XF) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 3:23 | 2026-09-27 |  |
 | [emergency](https://open.spotify.com/track/2kt4lHZMN1BTHl3rSKltRw) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 2:48 | 2026-06-25 |  |
 | [Every Time](https://open.spotify.com/track/6NbQqHnfEcAHBPur9IckVL) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Every Time](https://open.spotify.com/album/0kqpfZCDG8NhePJQMhbiFd) | 3:36 | 2026-06-25 |  |
+| [Expensive & Difficult](https://open.spotify.com/track/5M2AlK2QmQEgWbtGjj0epX) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:49 | 2026-09-27 |  |
 | [Freakie](https://open.spotify.com/track/7utXDVIK25xRRT6FeXO4b3) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 2:46 | 2026-07-12 | 2026-07-19 |
 | [girl no more](https://open.spotify.com/track/0TcFc4AVY00ZkVpZJhPTYb) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 3:41 | 2026-06-25 |  |
 | [Give It To](https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:50 | 2026-06-25 |  |
@@ -33,12 +37,15 @@
 | [Investment](https://open.spotify.com/track/3yi5g2aJUuIMMFFAvelHE6) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:41 | 2026-06-25 |  |
 | [Kiss It](https://open.spotify.com/track/2naxpChNrs2xYbo3J2SnG1) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:11 | 2026-06-25 |  |
 | [Long Way to Go](https://open.spotify.com/track/5QamNCps8nwxRYVM7WMFXz) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Long Way to Go](https://open.spotify.com/album/51X4XGeOfWa4B2oC84tXxw) | 3:18 | 2026-06-25 |  |
+| [No One Knows My Name](https://open.spotify.com/track/2ZE9yg4LKGXSh6NjbLQlCj) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:44 | 2026-09-27 |  |
 | [Please Don't Talk to Me](https://open.spotify.com/track/5VMM25GeSk123NAhOFdcpu) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:47 | 2026-06-25 |  |
 | [Precious](https://open.spotify.com/track/4PpurS5c7TgFOSAbw0Z6X2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:20 | 2026-06-25 | 2026-08-07 |
 | [SMH](https://open.spotify.com/track/05Rq7pPwPE70zkI5HU0Ugu) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 2:47 | 2026-07-19 | 2026-07-20 |
+| [Soft Side](https://open.spotify.com/track/2VwBpYBX9Fi3dPe8qDYCiu) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:55 | 2026-09-27 |  |
 | [Someone Else](https://open.spotify.com/track/6eXwjspkJrSnddEOlSOZj1) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Someone Else](https://open.spotify.com/album/5l2DbtOZqazxbx3w2p8sBw) | 3:34 | 2026-06-25 |  |
 | [Sugar Trap](https://open.spotify.com/track/03VYBi1WtoSXgH4vYV5ppT) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Sugar Trap](https://open.spotify.com/album/4kpCgnv0TUG1hthUu3T81K) | 3:09 | 2026-08-01 | 2026-08-28 |
 | [Sugar Trap](https://open.spotify.com/track/0j38sAqoc1QL4MoccmWxD2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Sugar Trap](https://open.spotify.com/album/5R7ggWmHJEuPapIoiqfKR3) | 3:09 | 2026-08-28 |  |
+| [The Distance](https://open.spotify.com/track/6yQ6pAJ5CCgJ2vWNQqdGMq) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 3:52 | 2026-09-27 |  |
 | [WET](https://open.spotify.com/track/1Wb8kMQTcZmoMo9faO7oyA) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:09 | 2026-07-06 |  |
 | [what are you doing tonight?](https://open.spotify.com/track/0QmSIJ8eUs7vry56VHiiTc) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 2:56 | 2026-06-25 |  |
 | [What You Need \(feat THEY.\)](https://open.spotify.com/track/0fHbxdDnol6ZeRtKrGCBrU) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT), [The They](https://open.spotify.com/artist/1sPdKjeLQGW8g9kY4GAM9G) | [What You Need \(feat THEY.\)](https://open.spotify.com/album/6PNzYWPwECYWRzxCQb5snv) | 3:14 | 2026-06-25 |  |

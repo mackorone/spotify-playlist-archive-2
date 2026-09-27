@@ -1,12 +1,12 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 33199,
+  "num_followers": 33236,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACDGEWswLGmlidhfygw3Vwwf0MOi",
+  "snapshot_id": "AAAAAGB9ooxJgz1WWuCOPEPNt2F8QEjm",
   "tracks": [
     {
       "added_at": "2026-09-22 16:44:58",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
+        "name": "Always in a Hurry",
+        "url": "https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf"
       },
       "artists": [
         {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
         }
       ],
-      "duration_ms": 184372,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
+      "duration_ms": 151932,
+      "name": "Up and Down",
+      "url": "https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -779,18 +779,18 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
-        "name": "Always in a Hurry",
-        "url": "https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf"
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
       },
       "artists": [
         {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
         }
       ],
-      "duration_ms": 151932,
-      "name": "Up and Down",
-      "url": "https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh"
+      "duration_ms": 184372,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
         "name": "Light Breeze EP",
         "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 125142,
       "name": "ribbon",
       "url": "https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 200061,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
     },
     {
       "added_at": "2026-09-22 16:44:58",

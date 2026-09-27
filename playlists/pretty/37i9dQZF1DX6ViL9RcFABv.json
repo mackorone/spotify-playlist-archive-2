@@ -1,12 +1,12 @@
 {
   "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira",
-  "num_followers": 124360,
+  "num_followers": 124387,
   "original_name": "Pop PT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANMloeus4A7c2CNLW3dODQbHSdvh",
+  "snapshot_id": "AAAAAPvAEmL1LECvMhbKr7Oxd0ADD23b",
   "tracks": [
     {
       "added_at": "2026-09-24 23:00:20",
@@ -823,7 +823,7 @@
     {
       "added_at": "2026-09-24 23:00:20",
       "album": {
-        "name": "Olha N\u00f3s",
+        "name": "Olha N\u00f3s (feat. Djodje)",
         "url": "https://open.spotify.com/album/2O3dakOBMqzBaLt7GRFCBt"
       },
       "artists": [
@@ -837,7 +837,7 @@
         }
       ],
       "duration_ms": 195157,
-      "name": "Olha N\u00f3s",
+      "name": "Olha N\u00f3s (feat. Djodje)",
       "url": "https://open.spotify.com/track/4rwoaePPllbblEy0NkdJjN"
     },
     {
@@ -1235,7 +1235,7 @@
     {
       "added_at": "2026-09-24 23:00:20",
       "album": {
-        "name": "Al\u00f4",
+        "name": "AL\u00d4",
         "url": "https://open.spotify.com/album/0PrHwWJ0hp45UJQcq3WHvh"
       },
       "artists": [
@@ -1245,7 +1245,7 @@
         }
       ],
       "duration_ms": 136447,
-      "name": "Al\u00f4",
+      "name": "AL\u00d4",
       "url": "https://open.spotify.com/track/368RNXKnoAUO91Yu20mUQ1"
     }
   ],

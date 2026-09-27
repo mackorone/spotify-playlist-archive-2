@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-430 songs - 1 day 3 hr 3 min
+432 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Faceplant](https://open.spotify.com/track/2VeHykq7LnldFv0ugSUN57) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 3:41 | 2021-10-22 | 2024-04-20 |
 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 | 2021-10-22 |  |
 | [Fall in Love With Her](https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Fall In Love With Her](https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9) | 4:05 | 2025-06-11 |  |
-| [Fallout](https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Fallout](https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64) | 3:51 | 2024-03-15 |  |
+| [Fallout](https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Fallout](https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64) | 3:51 | 2024-03-15 | 2026-09-27 |
 | [Feel Better](https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 4:23 | 2025-01-07 | 2026-09-16 |
 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 | 2021-10-22 |  |
 | [First Defeat](https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y) | 4:03 | 2022-09-16 | 2024-04-19 |
@@ -196,6 +196,7 @@
 | [Leap Year](https://open.spotify.com/track/1JMyndqIXDM7cKmRu3nFws) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 5:45 | 2025-11-21 |  |
 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/0Pr7l3Zvr9F4upwYZFpkS7) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/2ZxlcZ2NMgupfqGcyjnmkE) | 6:19 | 2021-10-22 | 2022-07-27 |
 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN) | 6:19 | 2022-05-27 | 2022-11-13 |
+| [Lemon Tree](https://open.spotify.com/track/0X8eGhubqm8t6376TCZB61) | [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Lemon Tree](https://open.spotify.com/album/0r5vhczT2ZrLvcexgHm6FZ) | 4:42 | 2026-09-25 |  |
 | [Let No Grief](https://open.spotify.com/track/3R2sknZVO963iQknjhDwru) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Blind and Brave](https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90) | 4:34 | 2021-10-22 |  |
 | [Life Is](https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b) | 3:08 | 2024-03-15 | 2024-08-27 |
 | [Life Is](https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:08 | 2024-08-26 | 2025-05-31 |
@@ -287,7 +288,7 @@
 | [Rare to Wake](https://open.spotify.com/track/77xwqK3T1aPiuyhUUYubVs) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Rare to Wake](https://open.spotify.com/album/3WG1IzGLsFRejWfefknJtu) | 4:38 | 2021-10-22 | 2022-05-17 |
 | [Reliance](https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM) | [Amy Jay](https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3) | [Reliance](https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS) | 3:39 | 2021-10-22 | 2026-09-16 |
 | [Right on Time](https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Right on Time](https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd) | 3:05 | 2021-10-22 |  |
-| [River](https://open.spotify.com/track/62h7AycdIWjq6uYWC0LBht) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 5:23 | 2021-10-22 |  |
+| [River](https://open.spotify.com/track/62h7AycdIWjq6uYWC0LBht) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 5:23 | 2021-10-22 | 2026-09-27 |
 | [Rolling Stone](https://open.spotify.com/track/5NdJBQ5wjng2UTE3NYLzsv) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Wild Rivers](https://open.spotify.com/album/0li4YknMFpiev6lC3qwT5i) | 1:57 | 2021-10-22 | 2022-07-29 |
 | [Rolling Stone](https://open.spotify.com/track/5o9h7ySWPqcPrNWhS0EDHu) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Wild Rivers](https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK) | 1:57 | 2022-05-27 | 2024-04-19 |
 | [Roof of the World](https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Roof of the World](https://open.spotify.com/album/4VDDyQSZ7fT8YgQqjufWoP) | 4:16 | 2021-10-22 | 2026-09-26 |
@@ -437,6 +438,7 @@
 | [You Say](https://open.spotify.com/track/2Rd6MWkSlWiZdmdBYAOQgP) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Dori Freeman](https://open.spotify.com/album/1fNeNleD7ljfyW9IDnymut) | 2:54 | 2021-10-22 | 2022-05-02 |
 | [You Sigh](https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 2:58 | 2022-05-27 | 2023-06-16 |
 | [You Sigh](https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 2:58 | 2023-05-19 | 2024-04-19 |
+| [You're Already There](https://open.spotify.com/track/6FBysoHxNcpqiYz8nOcIbJ) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [You're Already There](https://open.spotify.com/album/6ouIo2cSY03JmfowzMYNxS) | 2:33 | 2026-09-25 |  |
 | [Your Garden \- Reimagined](https://open.spotify.com/track/03rQ7EPH4B8FDj873S4uVO) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH), [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Your Garden \(Reimagined\)](https://open.spotify.com/album/5SrLUP0ppsI5NaoiZ9rB6c) | 3:26 | 2024-07-05 | 2024-12-17 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

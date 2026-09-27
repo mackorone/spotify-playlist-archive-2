@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 183197,
+  "num_followers": 183205,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLJ29CWreASoXwscivhkpCgMZU2",
+  "snapshot_id": "AAAAAJAj9D50GQTk0Hk7hzMNCuA5VdiZ",
   "tracks": [
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "cherish",
-        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0\uff1f\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
-      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
-    },
-    {
-      "added_at": "2026-09-22 15:00:38",
-      "album": {
         "name": "My Plan",
         "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "Fools in the Rain",
-        "url": "https://open.spotify.com/album/6XTxcPDF68xATWKxvxGkVE"
+        "name": "cherish",
+        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
       },
       "artists": [
         {
-          "name": "XinU",
-          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
         }
       ],
-      "duration_ms": 176990,
-      "name": "Fools in the Rain",
-      "url": "https://open.spotify.com/track/2Yv4p5nBE2FCOI8s7qggct"
+      "duration_ms": 279120,
+      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0\uff1f\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
+      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
-        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
+        "name": "Fools in the Rain",
+        "url": "https://open.spotify.com/album/6XTxcPDF68xATWKxvxGkVE"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "XinU",
+          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
         }
       ],
-      "duration_ms": 207707,
-      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
-      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
+      "duration_ms": 176990,
+      "name": "Fools in the Rain",
+      "url": "https://open.spotify.com/track/2Yv4p5nBE2FCOI8s7qggct"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1315,6 +1299,22 @@
       "duration_ms": 183862,
       "name": "We won't last forever",
       "url": "https://open.spotify.com/track/7fpiNWwolSZNS4VT2ZsacF"
+    },
+    {
+      "added_at": "2026-09-22 15:00:38",
+      "album": {
+        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 207707,
+      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1559,18 +1559,22 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "MUSIC WARDROBE",
-        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
+        "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
+        "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "Emi Okamoto",
+          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
         }
       ],
-      "duration_ms": 225680,
-      "name": "Don't Be Someone Else",
-      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
+      "duration_ms": 248842,
+      "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
+      "url": "https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1591,22 +1595,38 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
-        "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
+        "name": "MUSIC WARDROBE",
+        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
       },
       "artists": [
         {
-          "name": "TOSHIKI HAYASHI(%C)",
-          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
-        },
-        {
-          "name": "Emi Okamoto",
-          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 248842,
-      "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
-      "url": "https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm"
+      "duration_ms": 225680,
+      "name": "Don't Be Someone Else",
+      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
+    },
+    {
+      "added_at": "2026-09-22 15:00:38",
+      "album": {
+        "name": "IMAGINE",
+        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "ENDLESS",
+      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1643,22 +1663,18 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "IMAGINE",
-        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
+        "name": "\u3061\u304c\u3046",
+        "url": "https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO"
       },
       "artists": [
         {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+          "name": "MHRJ",
+          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
         }
       ],
-      "duration_ms": 231440,
-      "name": "ENDLESS",
-      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
+      "duration_ms": 230786,
+      "name": "eden",
+      "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1707,22 +1723,6 @@
       "duration_ms": 339226,
       "name": "SPARKLE",
       "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
-    },
-    {
-      "added_at": "2026-09-22 15:00:38",
-      "album": {
-        "name": "\u3061\u304c\u3046",
-        "url": "https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO"
-      },
-      "artists": [
-        {
-          "name": "MHRJ",
-          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "eden",
-      "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

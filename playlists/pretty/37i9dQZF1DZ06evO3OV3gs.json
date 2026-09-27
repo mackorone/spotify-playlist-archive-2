@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 715440,
+  "num_followers": 715497,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAC4tUL64VhvcAoHUdkKuUFX",
+  "snapshot_id": "arW5gAAAAADyRue7nTSsnWC+wLF2RqR2",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,26 @@
       "duration_ms": 342680,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danceteria Afterhours",
+        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 230503,
+      "name": "Danceteria Afterhours",
+      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
     },
     {
       "added_at": null,
@@ -364,9 +384,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 188359,
-      "name": "Good For The Soul",
-      "url": "https://open.spotify.com/track/03D2TnaZuwlddRTh7P6Mq5"
+      "duration_ms": 299479,
+      "name": "I Feel So Free",
+      "url": "https://open.spotify.com/track/5GNDe5JmNKP3OThhyXgx5S"
     },
     {
       "added_at": null,
@@ -403,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 188359,
+      "name": "Good For The Soul",
+      "url": "https://open.spotify.com/track/03D2TnaZuwlddRTh7P6Mq5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -415,22 +451,6 @@
       "duration_ms": 351920,
       "name": "Live to Tell",
       "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 299479,
-      "name": "I Feel So Free",
-      "url": "https://open.spotify.com/track/5GNDe5JmNKP3OThhyXgx5S"
     },
     {
       "added_at": null,
@@ -663,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Give It 2 Me",
+      "url": "https://open.spotify.com/track/59qPP8coY8EWIQ9nQDThui"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -679,22 +715,6 @@
       "duration_ms": 325720,
       "name": "La Isla Bonita - Extended Remix",
       "url": "https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "Give It 2 Me",
-      "url": "https://open.spotify.com/track/59qPP8coY8EWIQ9nQDThui"
     },
     {
       "added_at": null,
@@ -831,42 +851,6 @@
       "duration_ms": 250280,
       "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celebration (Deluxe Version)",
-        "url": "https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/4AJflRLCvU0qtZQnVUq5l1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
-        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Rob Simonsen",
-          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
-        }
-      ],
-      "duration_ms": 168586,
-      "name": "Like a Prayer - Battle Royale Mix from \u201cDeadpool & Wolverine\u201d",
-      "url": "https://open.spotify.com/track/1xSDXrcZ16nKUZGsOckUTW"
     }
   ],
   "unique_name": "This Is Madonna",

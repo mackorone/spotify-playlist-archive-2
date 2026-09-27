@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,501 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,499 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 17 | [Fair Weather](https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Fair Weather](https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd) | 4:44 |
 | 18 | [Ithaka](https://open.spotify.com/track/3QOH6LSk7A9roxTF39fG1M) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Everything I Love](https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p) | 3:29 |
 | 19 | [Strange Meadow Lark](https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 7:22 |
-| 20 | [Forenet](https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Ordet](https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq) | 1:58 |
-| 21 | [Sous Le Ciel De Paris](https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh) | 4:04 |
-| 22 | [I Hear A Rhapsody](https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 4:40 |
+| 20 | [Sous Le Ciel De Paris](https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh) | 4:04 |
+| 21 | [I Hear A Rhapsody](https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 4:40 |
+| 22 | [Forenet](https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Ordet](https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq) | 1:58 |
 | 23 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 |
 | 24 | [You've Changed](https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:15 |
 | 25 | [The Nearness Of You](https://open.spotify.com/track/4vuoL9ldmpmZcXm7RkhQvx) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Stardust: The Music Of Hoagy Carmichael](https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT) | 7:27 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 62 | [Surprises](https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 6:27 |
 | 63 | [No Regrets](https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [No Regrets](https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ) | 3:09 |
 | 64 | [And Suddenly There Was Love](https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH) | [Jonah Aardekker](https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns) | [And Suddenly There Was Love](https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4) | 4:27 |
-| 65 | [Stardust](https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 6:25 |
-| 66 | [Joy Is Sorrow Unmasked](https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 4:46 |
+| 65 | [Joy Is Sorrow Unmasked](https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 4:46 |
+| 66 | [Stardust](https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 6:25 |
 | 67 | [Everytime around](https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Everytime around](https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ) | 5:25 |
-| 68 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 |
-| 69 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
+| 68 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
+| 69 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 |
 | 70 | [Endless Mind](https://open.spotify.com/track/5MTg1t0AdyxaIvSKv2Zchn) | [Richard Freeman](https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ) | [Night in the City](https://open.spotify.com/album/7I9Av7XYxponwKOHUJqmd4) | 3:00 |
-| 71 | [Sunday Kind Of Love](https://open.spotify.com/track/0IKnidRgUVph8HaApRVWD6) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503) | [Java Jazz: A Bold Instrumental Jazz Roast](https://open.spotify.com/album/6QDhV4WQwbKz6Yxc0fDDet) | 5:13 |
+| 71 | [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 |
 | 72 | [Gloomy Sunday](https://open.spotify.com/track/1E8CLofdHL6FVq4PXIIw9x) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Eternal](https://open.spotify.com/album/75PATxS9geJNjgSfdGzwGf) | 12:43 |
-| 73 | [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 |
+| 73 | [Sunday Kind Of Love](https://open.spotify.com/track/0IKnidRgUVph8HaApRVWD6) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503) | [Java Jazz: A Bold Instrumental Jazz Roast](https://open.spotify.com/album/6QDhV4WQwbKz6Yxc0fDDet) | 5:13 |
 | 74 | [Interlude No\. 3](https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Mourning of a Star](https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP) | 1:17 |
 | 75 | [Young One for Debra](https://open.spotify.com/track/4DE2IwQUZMrEqCZ95D1iIk) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Jimmy Woode](https://open.spotify.com/artist/7cyVfL1LEXWiLfl25J0bBb), [Daniel Humair](https://open.spotify.com/artist/5khCKDGtTIZreUFp0gayVL) | [It's Nice to Be with You: Jim Hall in Berlin](https://open.spotify.com/album/7nSroQAyDwJ6qpTYdXYZuD) | 4:25 |
 
-Snapshot ID: `AAAAAEFZVnNzOg/bweulFxFDIP8K2y3A`
+Snapshot ID: `AAAAALa1v2Gu/Qt1/PJeywlp3OTQz6sQ`

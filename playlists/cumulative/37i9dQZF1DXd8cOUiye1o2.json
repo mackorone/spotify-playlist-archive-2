@@ -3301,6 +3301,32 @@
     },
     {
       "album": {
+        "name": "Bhabhi Tabaahi (From \"Nayyi Navelli\")",
+        "url": "https://open.spotify.com/album/1dRe5mOE1TR8bqf0MNyuzr"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242117,
+      "name": "Bhabhi Tabaahi - From \"Nayyi Navelli\"",
+      "url": "https://open.spotify.com/track/5eRyoNvRAjHWQM3vcgvgWY"
+    },
+    {
+      "album": {
         "name": "Bhai Tera Star Hai - Title Track",
         "url": "https://open.spotify.com/album/2dJ9pxbsmeaqaFzovxiYGH"
       },
@@ -7614,7 +7640,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 182161,
       "name": "Ghar",
       "url": "https://open.spotify.com/track/14ED7vlhejBpPwvIwPIIaD"

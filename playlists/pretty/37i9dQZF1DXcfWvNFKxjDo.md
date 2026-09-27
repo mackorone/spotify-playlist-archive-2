@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: KUKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,327 likes - 53 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,342 likes - 53 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 3 | [Staub](https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [CATHARSIS](https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd) | 3:25 |
 | 4 | [Confession](https://open.spotify.com/track/2nJa6C2eIDDcxESn7sS0cl) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Confession](https://open.spotify.com/album/0h0JpuuqCP71DuI9RBu777) | 2:28 |
 | 5 | [Take Me Home](https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Take Me Home](https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL) | 2:53 |
-| 6 | [How Far \(Chalé\)](https://open.spotify.com/track/37HPZFrrfZQypCa639cMO5) | [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt), [Bellil Brothers](https://open.spotify.com/artist/1AZ8Bec1bBwMdPGwU2ZuiN) | [How Far \(Chalé\)](https://open.spotify.com/album/4kFpGXCVkxWf6ZSMZEzNtF) | 2:47 |
+| 6 | [How Far \(Chalé\)](https://open.spotify.com/track/37HPZFrrfZQypCa639cMO5) | [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt), [BELLIL BROTHERS](https://open.spotify.com/artist/1AZ8Bec1bBwMdPGwU2ZuiN) | [How Far \(Chalé\)](https://open.spotify.com/album/4kFpGXCVkxWf6ZSMZEzNtF) | 2:47 |
 | 7 | [Woops](https://open.spotify.com/track/2q1i9lcsBPBtQRSWTu8gDp) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Dj Bountyhunter](https://open.spotify.com/artist/5yqxD8W7WnMJQZeoBU0Q66), [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY) | [Woops](https://open.spotify.com/album/7oFd9k7TkRXJh3zCPljihC) | 2:07 |
 | 8 | [Oldschool](https://open.spotify.com/track/1JopyNdeuw8C1bimbS9p9f) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Oldschool](https://open.spotify.com/album/0Pgtru7WpY9wBBl5ey2E9x) | 2:32 |
 | 9 | [Collide](https://open.spotify.com/track/59lrjocxqKQiPbTyHiD9Oo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Collide](https://open.spotify.com/album/3c8ps31q7g5MBu8RsWQ7FJ) | 3:28 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 52 | [ozean](https://open.spotify.com/track/4sB0FMdRNSrAhZyyacObyZ) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [wir waren hier](https://open.spotify.com/album/6LCDwbKdvjnJsLvEbo6ggy) | 2:43 |
 | 53 | [Scotland Rave](https://open.spotify.com/track/0bm5vyRc0aoVkAbkmigT2j) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Dirty Thirty](https://open.spotify.com/artist/44qOsM3BWyhWJzyqfNUwn6) | [Scotland Rave](https://open.spotify.com/album/0FbVA6Oq1ipZ6MSE36WzzQ) | 2:24 |
 
-Snapshot ID: `AAAAAOA5a37CCnnmZY6LMoITrco6dgQz`
+Snapshot ID: `AAAAABCMv2ZsLfeK1otTTQdlGv7zYU8i`

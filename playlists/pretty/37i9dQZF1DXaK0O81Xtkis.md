@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring Henry Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,442 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,431 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 59 | [CATASTROPHIC CHEMICALS](https://open.spotify.com/track/15FVfCwYvobj3c3bNRYgqm) | [KERSTY](https://open.spotify.com/artist/2SpJaFiBk5ClSSZatZ573z) | [CATASTROPHIC CHEMICALS](https://open.spotify.com/album/082BYg4znOn5llmViPa3HE) | 2:43 |
 | 60 | [Lighter](https://open.spotify.com/track/5f9JpyT70rksel4mcQg0a7) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Lighter](https://open.spotify.com/album/7noeJvJA9P86ZUThp2bTRh) | 4:52 |
 
-Snapshot ID: `AAAAAMX0u+OQECrI5fU19Xp714GKnvT7`
+Snapshot ID: `AAAAAOcoQYn5TDNBGeOH2MBPQFg0ccs8`

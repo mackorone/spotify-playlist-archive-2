@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Mwita Mataro, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,972 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,975 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Reload](https://open.spotify.com/track/2iQVewPoo2i2P18NhU49li) | [Wollion](https://open.spotify.com/artist/1ZbdUjXP1z1Mce5u22INMh), [82J6](https://open.spotify.com/artist/0F3htQiOShH9wagg6odGCv) | [Reload](https://open.spotify.com/album/4LDUHXKAXDiXQwHV9ElM1m) | 7:08 |
 | 50 | [caroline](https://open.spotify.com/track/7iUrV9iLQ0mmwRam5Lk2jr) | [SYDOW](https://open.spotify.com/artist/5mbkFxQCZwbv7p5h2S5GVl) | [caroline](https://open.spotify.com/album/2bq2cjJoqqzHw5HQEbwcTL) | 3:21 |
 
-Snapshot ID: `AAAAAKC3Z9+3VNDZzA9XkSQLu4KXeT+W`
+Snapshot ID: `AAAAAMzqFPiGykvTkxV91wHNyKQD11+V`

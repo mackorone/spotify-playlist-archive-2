@@ -4,11 +4,12 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-273 songs - 15 hr 56 min
+275 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Can See\) The Future](https://open.spotify.com/track/6UtFvxMcluX6vG4q35JwmV) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [\(I Can See\) The Future](https://open.spotify.com/album/6pm23ya5S4kHne6hnaWI8q) | 2:49 | 2025-07-18 | 2025-10-21 |
+| [100S](https://open.spotify.com/track/6boMeUCYx9v8UG1cVfxlyb) | [Milhan](https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2) | [100S](https://open.spotify.com/album/0ECvPUBuvkS1I4U8X3LAjC) | 3:21 | 2026-09-25 |  |
 | [3 Days](https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 4:15 | 2025-07-18 | 2026-05-15 |
 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 | 2025-07-18 |  |
 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College](https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6), [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 | 2025-07-18 |  |
@@ -44,7 +45,7 @@
 | [Carry On](https://open.spotify.com/track/3keQNqUZlDH9pT7GNFHJl4) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Carry On](https://open.spotify.com/album/2lQTVys9eE0m20jZ2ac6wK) | 2:40 | 2025-10-16 | 2025-11-29 |
 | [Caviar](https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Beat Tape III](https://open.spotify.com/album/1N3C7yGiRBLJRQ8Pfnxiot) | 2:33 | 2025-10-02 | 2026-01-31 |
 | [Chaud](https://open.spotify.com/track/21zXhlkN1izYqUlIeYY5Rm) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Chaud](https://open.spotify.com/album/3pw7GqZgsQ0Eajd8aTEFjG) | 3:02 | 2026-07-16 | 2026-07-25 |
-| [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 | 2026-07-23 |  |
+| [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 | 2026-07-23 | 2026-09-27 |
 | [CHROME HEARTS](https://open.spotify.com/track/6zaygXBpwRVwRkHcCB1AKY) | [SHADESOFBLUE](https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6) | [CHROME HEARTS](https://open.spotify.com/album/4eQ5NtSJ6luic1PuXBDDFq) | 2:24 | 2025-12-18 | 2026-02-20 |
 | [Clueless \(feat\. Aly & AJ\)](https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Tunnel Vision](https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL) | 3:28 | 2026-04-30 | 2026-06-17 |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2025-07-18 |  |
@@ -114,6 +115,7 @@
 | [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [is it cool? \(feat\. SZA\)](https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW) | 2:54 | 2026-06-26 |  |
 | [Is It Love?](https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Is It Love?](https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR) | 4:12 | 2026-03-20 | 2026-09-11 |
 | [It Didn't Matter](https://open.spotify.com/track/10kxTiNUTo4nlEbH1EzoX1) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [It Didn't Matter](https://open.spotify.com/album/3nHipi4hMVyH4Z3VUB6bW5) | 3:37 | 2026-07-31 | 2026-09-18 |
+| [jamais danser!](https://open.spotify.com/track/3DpKI6j6d8IDt1fERqHGk6) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [jamais danser!](https://open.spotify.com/album/4y3itidUZSRAufNXvCohWv) | 3:15 | 2026-09-25 |  |
 | [Jardin d'hiver](https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Jardin d'hiver](https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE) | 3:27 | 2025-07-18 |  |
 | [Jazz et thé vert](https://open.spotify.com/track/2WqcyORimSvaAniUP81WNf) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD) | [La Boulangerie, Vol\. 3 \(La Fine Équipe & Friends\)](https://open.spotify.com/album/31oCgGwCgtJZIvS4ERobSJ) | 3:32 | 2025-08-28 | 2026-06-27 |
 | [JET LAGGED](https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [JET LAGGED](https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV) | 3:15 | 2025-11-14 | 2026-06-06 |
@@ -278,7 +280,7 @@
 | [Yes I'm Changing](https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:30 | 2025-07-18 |  |
 | [You Don't Need A Reason To Call \(feat\. Valley\)](https://open.spotify.com/track/37hZrsZ7Ab3xDppA4qAb3S) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T), [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [You Don't Need A Reason To Call \(feat\. Valley\)](https://open.spotify.com/album/5E6P1NTqT2NgoqzkroOk9H) | 3:40 | 2026-07-10 | 2026-07-25 |
 | [You You You](https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 2:46 | 2025-10-10 | 2025-10-17 |
-| [young rich & beautiful](https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [young rich & beautiful](https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp) | 1:58 | 2025-12-04 |  |
+| [young rich & beautiful](https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [young rich & beautiful](https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp) | 1:58 | 2025-12-04 | 2026-09-27 |
 | [Yours & Mine](https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:33 | 2026-02-06 |  |
 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 | 2025-07-18 | 2025-11-09 |
 

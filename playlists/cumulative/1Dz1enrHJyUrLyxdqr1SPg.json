@@ -1315,6 +1315,24 @@
     },
     {
       "album": {
+        "name": "In the Zone",
+        "url": "https://open.spotify.com/album/4dZJvmT95nDQ6tT0emGUEm"
+      },
+      "artists": [
+        {
+          "name": "MaXimum Boost",
+          "url": "https://open.spotify.com/artist/0turMaNvhFbQANB1QKyvmN"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319081,
+      "name": "In the Zone",
+      "url": "https://open.spotify.com/track/0il4gfhVGuKu1oMG6PcRhr"
+    },
+    {
+      "album": {
         "name": "Inspiration",
         "url": "https://open.spotify.com/album/31sfUoh8zXgKOb509lxj3y"
       },

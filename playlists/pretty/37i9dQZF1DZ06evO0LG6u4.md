@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LG6u4.md) - [plain]
 
 > This is Éliane Radigue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427 likes - 16 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 428 likes - 16 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,6 +23,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LG6u4.md) - [plain]
 | 13 | [La note](https://open.spotify.com/track/2ZpGWu0myOzQevbBpjcA8P) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:36 |
 | 14 | [Symbols for Yogic Experience](https://open.spotify.com/track/5h5c78cN5uw5dOauQGOqtf) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Songs of Milarepa](https://open.spotify.com/album/0pGs09jkdBCp7wYUpTDeHO) | 19:27 |
 | 15 | [Sur Adnos](https://open.spotify.com/track/48E7jZljAcsGWf2UDKmTp3) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:26 |
-| 16 | [Le synthétiseur](https://open.spotify.com/track/0EzWzEVxEGekSR3E3T5cTh) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:41 |
+| 16 | [L'écoute](https://open.spotify.com/track/6MPGNBZtUTyFJ0wFHvRBnO) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 3:50 |
 
-Snapshot ID: `arRoAAAAAAClGAWl3Pa29erXPL/lLEBI`
+Snapshot ID: `arW5gAAAAADxIVqj7n7H73ug5DA1+Xbz`

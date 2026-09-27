@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > thoom Thoom THOOM <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,934 likes - 144 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,918 likes - 144 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 143 | [I got god](https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It](https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu) | 3:55 |
 | 144 | [Imitation \(how to become you\)](https://open.spotify.com/track/5c9mIk9tWe0QVM3HtoXlvk) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Imitation \(how to become you\)](https://open.spotify.com/album/76Gp2fuUkbbWT2UWTnyaYz) | 4:16 |
 
-Snapshot ID: `AAAAAN/3ONxud0kOfkjFRobz5sNAhb1i`
+Snapshot ID: `AAAAAKVwVILs3B6CzhDGsxRdw60UfNh4`

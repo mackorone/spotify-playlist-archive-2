@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Madonna & Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,646 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,638 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 99 | [ROOTS \- Spotify Singles](https://open.spotify.com/track/00XLDzc8k0TQ8ge8m1PWrX) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [ROOTS \(Respect is the New Cool\)](https://open.spotify.com/album/2psy94g7etmQKnAL1jnHuw) | 4:59 |
 | 100 | [Little Little Voice](https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Tyber](https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT) | 4:08 |
 
-Snapshot ID: `AAAAAI28tDKm8uSju5O12jWAySHilQs+`
+Snapshot ID: `AAAAAEGMA+btOaPzvLMQ6lUR6jBBbmS7`

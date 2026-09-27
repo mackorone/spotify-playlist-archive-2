@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: Zora Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,050 likes - 76 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,069 likes - 76 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 75 | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/track/4S0TvmAnhdoEXmCTmiFNp6) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/album/6V2s6MGb8X7C9eZfDhF7Jy) | 7:10 |
 | 76 | [MUSIC SAVED MY LIFE](https://open.spotify.com/track/11s4KWKnusrlkZspPoQNyA) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [BEFORE GRANDE](https://open.spotify.com/album/3V2tbjvK7Yl9gquooDh08f) | 3:27 |
 
-Snapshot ID: `AAAAADIVS/MtRvj+MszkdTzhnuRzb+uG`
+Snapshot ID: `AAAAAMEARfRSNlrx6fB3TVFEX+9aJkUp`

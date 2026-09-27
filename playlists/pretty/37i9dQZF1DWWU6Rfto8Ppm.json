@@ -1,12 +1,12 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 4052154,
+  "num_followers": 4053046,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFhQpzixU+1UUHHTpxLzsF5hxEY/",
+  "snapshot_id": "AAAAABz37qEZ9bg+wm1d5xWIUIGWxxXs",
   "tracks": [
     {
       "added_at": "2026-09-23 16:07:56",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+        "name": "Pura Playa",
+        "url": "https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk"
       },
       "artists": [
         {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
         }
       ],
-      "duration_ms": 246080,
-      "name": "Shorty",
-      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
+      "duration_ms": 218130,
+      "name": "Solitaria",
+      "url": "https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Pura Playa",
-        "url": "https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk"
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
       "artists": [
         {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
         }
       ],
-      "duration_ms": 218130,
-      "name": "Solitaria",
-      "url": "https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP"
+      "duration_ms": 246080,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Bien Loco",
-        "url": "https://open.spotify.com/album/6IgRN2hP7uOTeZmL7np7Kd"
-      },
-      "artists": [
-        {
-          "name": "Nova y Jory",
-          "url": "https://open.spotify.com/artist/6ZK8loFAzWKSFe3b7Lrq4V"
-        }
-      ],
-      "duration_ms": 218044,
-      "name": "Bien Loco",
-      "url": "https://open.spotify.com/track/4ObjArCiona7v0xbZ83rUZ"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 182186,
       "name": "Eras Una Ni\u00f1a (feat. Japanese)",
       "url": "https://open.spotify.com/track/7kCCtz3tsrJDXHROROt5bw"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Bien Loco",
+        "url": "https://open.spotify.com/album/6IgRN2hP7uOTeZmL7np7Kd"
+      },
+      "artists": [
+        {
+          "name": "Nova y Jory",
+          "url": "https://open.spotify.com/artist/6ZK8loFAzWKSFe3b7Lrq4V"
+        }
+      ],
+      "duration_ms": 218044,
+      "name": "Bien Loco",
+      "url": "https://open.spotify.com/track/4ObjArCiona7v0xbZ83rUZ"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "Al Natural",
+      "url": "https://open.spotify.com/track/3tCdDVn9yseorLuljdFugA"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "Al Natural",
-      "url": "https://open.spotify.com/track/3tCdDVn9yseorLuljdFugA"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "It's My Time",
         "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
       },
@@ -1571,6 +1571,30 @@
       "duration_ms": 188320,
       "name": "Sol, Playa Y Arena",
       "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "The Bad Boy (The Most Wanted Edition)",
+        "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        },
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 227853,
+      "name": "Hola Beb\u00e9",
+      "url": "https://open.spotify.com/track/33y08bwbpU8Fn8KzBm5lAy"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1623,30 +1647,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "The Bad Boy (The Most Wanted Edition)",
-        "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Jowell",
-          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
-        },
-        {
-          "name": "Randy Nota Loca",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 227853,
-      "name": "Hola Beb\u00e9",
-      "url": "https://open.spotify.com/track/33y08bwbpU8Fn8KzBm5lAy"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Plan Calle",
         "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
       },
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "Conspiracion 2",
         "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 175333,
       "name": "Menea Tu Chapa",
       "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Mas Flow - Los Benjamins",
-        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Alocate",
-      "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Casa De Leones",
         "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 214360,
       "name": "Eh Oh Eh Oh",
       "url": "https://open.spotify.com/track/6cMmRhuplhTj33YhLtfiQt"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Alocate",
+      "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "Masacre Musical",
+        "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 280680,
+      "name": "Es Dificil",
+      "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "The Pitbulls",
         "url": "https://open.spotify.com/album/3OGa8iAHFfNXNT6wngG1eH"
       },
@@ -2463,22 +2479,6 @@
       "duration_ms": 189480,
       "name": "Ag\u00e1rrale el Pantal\u00f3n (feat. Zion & Lennox)",
       "url": "https://open.spotify.com/track/3Wd4Yl2TjjTxkvlJCHWvB9"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "Masacre Musical",
-        "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 280680,
-      "name": "Es Dificil",
-      "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3147,22 +3147,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/4UqPX2oHkth4WTqboVkGj1"
-      },
-      "artists": [
-        {
-          "name": "Aldo Ranks",
-          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
-        }
-      ],
-      "duration_ms": 287268,
-      "name": "El Baile del Pescao",
-      "url": "https://open.spotify.com/track/1EehCkOBGNYSilp0HXUXCE"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Sangre Nueva",
         "url": "https://open.spotify.com/album/37FWTNHuhgyX2cduoJgOPs"
       },
@@ -3175,6 +3159,22 @@
       "duration_ms": 213226,
       "name": "Bailando Sola",
       "url": "https://open.spotify.com/track/6kAfAYGGj0xcsA2sHuY9jE"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/4UqPX2oHkth4WTqboVkGj1"
+      },
+      "artists": [
+        {
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
+        }
+      ],
+      "duration_ms": 287268,
+      "name": "El Baile del Pescao",
+      "url": "https://open.spotify.com/track/1EehCkOBGNYSilp0HXUXCE"
     },
     {
       "added_at": "2026-09-23 16:07:56",

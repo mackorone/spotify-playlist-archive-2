@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 99 | [Glitter](https://open.spotify.com/track/5Flt4vizfIq7D73YfDZuXu) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Glitter](https://open.spotify.com/album/5VPhIbXfPKlW8qlFXDlj5n) | 2:59 |
 | 100 | [Twiggy](https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Twiggy](https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb) | 3:29 |
 
-Snapshot ID: `AAAAAD9uO8pNwNHGFPhzhV/5nqLYZw21`
+Snapshot ID: `AAAAAFdkRGx2ASZXkBd/mhuUVkqTuiln`

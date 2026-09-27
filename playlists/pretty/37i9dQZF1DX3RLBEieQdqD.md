@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Joaquin Guiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,762 likes - 85 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,807 likes - 85 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 4 | [Sabor a Tequila](https://open.spotify.com/track/2Yf4vYhuvTeoV2AaisltKc) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sabor a Tequila](https://open.spotify.com/album/1GVyTNO2C4Xd4qwBNe0iaX) | 3:22 |
 | 5 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 |
 | 6 | [Bandido Retirado](https://open.spotify.com/track/561vviXjNbKS5gXTI8QzW2) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Bandido Retirado](https://open.spotify.com/album/23NV0BcdonkkabcGsnSQbV) | 2:52 |
-| 7 | [Ayer Y Hoy](https://open.spotify.com/track/5HCk7iruzhQ1FbxyS3igmM) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB) | [La Combinación Vallenata Vol.7](https://open.spotify.com/album/6JZGVYfdNiHZhVXI5BNbil) | 5:05 |
+| 7 | [Ayer Y Hoy](https://open.spotify.com/track/5HCk7iruzhQ1FbxyS3igmM) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Iván Calderón](https://open.spotify.com/artist/7nQZUpVqCQNmNKmqkzP0Li) | [La Combinación Vallenata Vol.7](https://open.spotify.com/album/6JZGVYfdNiHZhVXI5BNbil) | 5:05 |
 | 8 | [Sin Medir Distancias](https://open.spotify.com/track/1p3kQIzyl2NKeJ45uDQw4G) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Grandes Exitos](https://open.spotify.com/album/4xjVnNwDXWCPv9dsH6oITz) | 4:58 |
 | 9 | [Pa' Que No Me Anden Contando \- Remix](https://open.spotify.com/track/5FjpV47OZnzaU85s0KToQS) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Juan Pablo Marquez](https://open.spotify.com/artist/6vQ0XC3lBnVgYUzUzDv990), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Pa' Que No Me Anden Contando \(Remix\)](https://open.spotify.com/album/08kLAE1CtYDg0EklM8LhwW) | 2:44 |
 | 10 | [En Manos Ajenas](https://open.spotify.com/track/2dI7d5VHT2xkHZMfHpX8e2) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [En Manos Ajenas](https://open.spotify.com/album/1grKmKBL3YQrsruRAWs02m) | 3:07 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 84 | [El Último No](https://open.spotify.com/track/72iaGfH2eadMiQqseAJ8G4) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Último No](https://open.spotify.com/album/1r6z23zwQ719W2vxbnvawD) | 3:13 |
 | 85 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
 
-Snapshot ID: `AAAAADygM+APxKVfR58eC1pWO7CRb69D`
+Snapshot ID: `AAAAAJuWSZuIr+vRkaJEaVAWuQAuYYhB`

@@ -8823,6 +8823,24 @@
     },
     {
       "album": {
+        "name": "Every Little Thing",
+        "url": "https://open.spotify.com/album/43MDW6y9dKvRhPMcctZRx6"
+      },
+      "artists": [
+        {
+          "name": "hrehaan",
+          "url": "https://open.spotify.com/artist/1QoCvyLHnCVl3d7Pe9athQ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215054,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/7F7watrHszNmjnPYL7VOcD"
+    },
+    {
+      "album": {
         "name": "Everybody Dances To Techno (Bulli Bainbridge Remix)",
         "url": "https://open.spotify.com/album/7htat6llhvTRAQqauWv0bt"
       },
@@ -16935,6 +16953,28 @@
     },
     {
       "album": {
+        "name": "Koi Aisi Yaar Bane",
+        "url": "https://open.spotify.com/album/0vqZF2q8L54XF2HgPIGxUm"
+      },
+      "artists": [
+        {
+          "name": "Thomson Andrews",
+          "url": "https://open.spotify.com/artist/2m9a8Cd9J0l2ReAQ6kg8LB"
+        },
+        {
+          "name": "ADROIT",
+          "url": "https://open.spotify.com/artist/63h0Phc0O0xZIPDSKOnofI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Koi Aisi Yaar Bane",
+      "url": "https://open.spotify.com/track/5Fub3qOsA0HYq5kP8SwzSb"
+    },
+    {
+      "album": {
         "name": "Koi Aur",
         "url": "https://open.spotify.com/album/57uBg5wffmgGl9ltQcjoRk"
       },
@@ -24438,7 +24478,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 195769,
       "name": "Rain Story",
       "url": "https://open.spotify.com/track/5e0zPk8qvHcWtSJbyxsxi3"
@@ -28200,7 +28240,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 185624,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0WtFI4IjQcWHNIo5EZ2Pyd"

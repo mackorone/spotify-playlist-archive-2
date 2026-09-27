@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Sugababes
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,926 likes - 97 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,919 likes - 97 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 96 | [When I'm Drunk](https://open.spotify.com/track/1kQ4XawYNdsqvsbyHzN2AB) | [Denzel Chain](https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0) | [When I'm Drunk](https://open.spotify.com/album/2IBxp6ppSB3cdWGmbkVP3l) | 3:04 |
 | 97 | [Dream Crusher](https://open.spotify.com/track/6WOoArvGAUJlYWR4qg9oos) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dream Crusher](https://open.spotify.com/album/4j46N6lkPvW9secveo1y6u) | 3:55 |
 
-Snapshot ID: `AAAAAGoV3ZUXujcENq/3y2rF1GWRRk68`
+Snapshot ID: `AAAAAO/RlimUFnSoERN+Gzgelg1CoYz6`

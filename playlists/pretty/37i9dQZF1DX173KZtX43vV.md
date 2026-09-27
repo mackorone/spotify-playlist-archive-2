@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,488 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,493 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 49 | [Motion](https://open.spotify.com/track/1gboL1yZBq5PjgKqBI6AEJ) | [Suggz](https://open.spotify.com/artist/02ZY7mXbBycRP7fW3PszQT) | [Motion](https://open.spotify.com/album/6S2YC5nImLQir2aM45X2Gy) | 2:43 |
 | 50 | [MORETIME](https://open.spotify.com/track/49QTDvXbIOmwDviTF3a6lw) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85), [arenia](https://open.spotify.com/artist/0huv0OGtZO5eChFM0aorEl) | [MORETIME](https://open.spotify.com/album/2HqW1cIvvbiB694ZVfdc3p) | 4:20 |
 
-Snapshot ID: `AAAAABu1q68uleNgEOH9UJzIdx7MCzYp`
+Snapshot ID: `AAAAAATfRHUHYTmxUv1k44QLMDSKB7pY`

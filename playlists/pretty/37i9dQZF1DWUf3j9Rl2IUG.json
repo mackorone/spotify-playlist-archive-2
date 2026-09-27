@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Shoday",
-  "num_followers": 236132,
+  "num_followers": 236250,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG5XYedX2FJO4kh4fj9AmYxDmGUh",
+  "snapshot_id": "AAAAAHHFkAOlRyEf2sH2jg67htU2IJ/z",
   "tracks": [
     {
       "added_at": "2026-09-25 00:01:37",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-09-25 00:01:37",
       "album": {
+        "name": "BIG PERFORMER",
+        "url": "https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "BIG PERFORMER",
+      "url": "https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0"
+    },
+    {
+      "added_at": "2026-09-25 00:01:37",
+      "album": {
         "name": "Big Bum Bum",
         "url": "https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 159183,
       "name": "Big Bum Bum",
       "url": "https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX"
-    },
-    {
-      "added_at": "2026-09-25 00:01:37",
-      "album": {
-        "name": "BIG PERFORMER",
-        "url": "https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "BIG PERFORMER",
-      "url": "https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0"
     },
     {
       "added_at": "2026-09-25 00:01:37",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-09-25 00:01:37",
       "album": {
-        "name": "M$NEY Live in London (Spotify Live)",
-        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Ego - Live in London",
-      "url": "https://open.spotify.com/track/6eS51q8SE2bdSVyecHtAWZ"
-    },
-    {
-      "added_at": "2026-09-25 00:01:37",
-      "album": {
         "name": "Straata",
         "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 333451,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/6hq5k40Xy1HtlVh3rxubL4"
+    },
+    {
+      "added_at": "2026-09-25 00:01:37",
+      "album": {
+        "name": "M$NEY Live in London (Spotify Live)",
+        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Ego - Live in London",
+      "url": "https://open.spotify.com/track/6eS51q8SE2bdSVyecHtAWZ"
     },
     {
       "added_at": "2026-09-25 00:01:37",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-09-25 00:01:37",
       "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 116410,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
+    },
+    {
+      "added_at": "2026-09-25 00:01:37",
+      "album": {
         "name": "M$NEY",
         "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2026-09-25 00:01:37",
       "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 116410,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
-    },
-    {
-      "added_at": "2026-09-25 00:01:37",
-      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 139424,
       "name": "Lakute",
       "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
-    },
-    {
-      "added_at": "2026-09-25 00:01:37",
-      "album": {
-        "name": "BODY (danz)",
-        "url": "https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 147696,
-      "name": "BODY (danz)",
-      "url": "https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh"
     },
     {
       "added_at": "2026-09-25 00:01:37",
@@ -851,6 +831,26 @@
       "duration_ms": 139199,
       "name": "Venus",
       "url": "https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB"
+    },
+    {
+      "added_at": "2026-09-25 00:01:37",
+      "album": {
+        "name": "BODY (danz)",
+        "url": "https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 147696,
+      "name": "BODY (danz)",
+      "url": "https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh"
     },
     {
       "added_at": "2026-09-25 00:01:37",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2026-09-25 00:01:37",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 174159,
-      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
-    },
-    {
-      "added_at": "2026-09-25 00:01:37",
-      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 206968,
       "name": "BIG TIME (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
+    },
+    {
+      "added_at": "2026-09-25 00:01:37",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 174159,
+      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
     },
     {
       "added_at": "2026-09-25 00:01:37",
@@ -1163,6 +1163,30 @@
     {
       "added_at": "2026-09-25 00:01:37",
       "album": {
+        "name": "IMALI",
+        "url": "https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        }
+      ],
+      "duration_ms": 283127,
+      "name": "IMALI",
+      "url": "https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO"
+    },
+    {
+      "added_at": "2026-09-25 00:01:37",
+      "album": {
         "name": "Na Scra",
         "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
       },
@@ -1195,30 +1219,6 @@
       "duration_ms": 122711,
       "name": "Allonsy",
       "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
-    },
-    {
-      "added_at": "2026-09-25 00:01:37",
-      "album": {
-        "name": "IMALI",
-        "url": "https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "JAZZWRLD",
-          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
-        },
-        {
-          "name": "Thukuthela",
-          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
-        }
-      ],
-      "duration_ms": 283127,
-      "name": "IMALI",
-      "url": "https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO"
     },
     {
       "added_at": "2026-09-25 00:01:37",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-09-25 00:01:37",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2026-09-25 00:01:37",
+      "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 154268,
       "name": "Osusu",
       "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
-    },
-    {
-      "added_at": "2026-09-25 00:01:37",
-      "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2026-09-25 00:01:37",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-09-25 00:01:37",
       "album": {
-        "name": "ITALAWA",
-        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "ITALAWA",
-      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
-    },
-    {
-      "added_at": "2026-09-25 00:01:37",
-      "album": {
         "name": "Barrystar Vol. 1",
         "url": "https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA"
       },
@@ -1551,6 +1535,26 @@
       "duration_ms": 192857,
       "name": "See Me See God (SMSG)",
       "url": "https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H"
+    },
+    {
+      "added_at": "2026-09-25 00:01:37",
+      "album": {
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
     }
   ],
   "unique_name": "Gbedu",

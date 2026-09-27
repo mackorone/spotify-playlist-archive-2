@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,796 likes - 90 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,894 likes - 90 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 16 | [Betlomouny Leih](https://open.spotify.com/track/2VwqTz304YseLtNW8RjoyG) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Aghany Film Hekayet Hob](https://open.spotify.com/album/1dAYSuj4f2djYrKHSlLpSS) | 8:29 |
 | 17 | [Akdeb Aleik Live](https://open.spotify.com/track/5n47Gu3lJ2zcrQtsstaiJF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Akdeb Aleik Live](https://open.spotify.com/album/66I8kjtmZekcPC82EDzBNE) | 55:12 |
 | 18 | [Set El Habayib](https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Set El Habayeb](https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP) | 6:23 |
-| 19 | [Zourouni Kouli Sanah Marah](https://open.spotify.com/track/5ZULv6JBpj8eS4T2Pa4UVE) | [Sayed Darwish](https://open.spotify.com/artist/71JpZH64gTrr2Wec59WvNr) | [Best of Sayed Darwish](https://open.spotify.com/album/3g8S82iCa6UjsiYDe8rDxw) | 2:21 |
+| 19 | [Ya Mesafer Wahdak](https://open.spotify.com/track/5iZMoYx762iNo2aczQhVze) | [Mohammed Abdel Wahab](https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG) | [Aghany Film Mamnoa El Hob Pt.1](https://open.spotify.com/album/2yPvwAEw0qkp0NF0HqRxRp) | 7:28 |
 | 20 | [Baeed Annak](https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Best Of Umm Kulthum 1](https://open.spotify.com/album/5Y0Gq6g4awj8woRvOiJZ3I) | 38:22 |
-| 21 | [Ya Mesafer Wahdak](https://open.spotify.com/track/5iZMoYx762iNo2aczQhVze) | [Mohammed Abdel Wahab](https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG) | [Aghany Film Mamnoa El Hob Pt.1](https://open.spotify.com/album/2yPvwAEw0qkp0NF0HqRxRp) | 7:28 |
+| 21 | [Zourouni Kouli Sanah Marah](https://open.spotify.com/track/5ZULv6JBpj8eS4T2Pa4UVE) | [Sayed Darwish](https://open.spotify.com/artist/71JpZH64gTrr2Wec59WvNr) | [Best of Sayed Darwish](https://open.spotify.com/album/3g8S82iCa6UjsiYDe8rDxw) | 2:21 |
 | 22 | [Al Yadi El Yadi](https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Rege'et Wahdi](https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx) | 3:13 |
 | 23 | [Gana El Hawa Live](https://open.spotify.com/track/4vN8c5cbkX3Zg9NyWGf661) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [El Toba](https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu) | 12:22 |
 | 24 | [Sallimleh Alayh](https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 5:49 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 89 | [Bezkor Min Zaman](https://open.spotify.com/track/2J8Hv5n1bhChym2jRmkh2D) | [Joseph Nassif](https://open.spotify.com/artist/35VaEMzsyBIfcJl8MsWR6F) | [Rahbaniyat, Vol\. 3](https://open.spotify.com/album/2F0BJE1hHzG41WH6ExveJm) | 3:01 |
 | 90 | [Aam Yes'alouni Aalayk](https://open.spotify.com/track/3M8GG5xKAM602ArbAQtSRB) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Best Of Magida El Roumi Vol.1](https://open.spotify.com/album/7helIvwqlQOERqtOidRIvi) | 5:57 |
 
-Snapshot ID: `AAAAAH4gDHE4h8rdkj7111HW0rWw/2kB`
+Snapshot ID: `AAAAAANXvaIaLU0YUz8V6AK7OKyLTsDD`

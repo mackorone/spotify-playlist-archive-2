@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Bora Duran
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,649,407 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,649,408 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 49 | [Aşkın Ertesi](https://open.spotify.com/track/4AjczPNcEFPIcib5c9H4TA) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Münezzeh](https://open.spotify.com/album/4WWXv2TPxWU93AIuRIGWC1) | 2:59 |
 | 50 | [Saygımdan](https://open.spotify.com/track/4E10qEzOmTIVmrg6Wz2RHj) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [İkinci Hal](https://open.spotify.com/album/7kbrSSi5xv57YkwkyiijFe) | 4:31 |
 
-Snapshot ID: `AAAAAHCHj/0OWXI2GTxdEkHQHfIrpPVM`
+Snapshot ID: `AAAAAI9XD7/cxBRHHdpUYWBBmN5tAd9x`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the timeless bond of Siya Ram. 'Jai Jai Ram' from Ramayana is out. Listen now.",
-  "num_followers": 1020677,
+  "num_followers": 1020715,
   "original_name": "New Music Hindi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACuHD1/VzI4oBrdhtNNSUhAuEjAJ",
+  "snapshot_id": "AAAAAOgvCxPPYBUrxL8GdQNF/Qes8QZC",
   "tracks": [
     {
       "added_at": "2026-09-25 05:29:43",
@@ -109,32 +109,28 @@
       "url": "https://open.spotify.com/track/7J3gWwFF84eXhB6Ek4ry4N"
     },
     {
-      "added_at": "2026-09-25 05:29:43",
+      "added_at": "2026-09-26 04:31:37",
       "album": {
-        "name": "Thummak Thummak (From \"The Vvaan\")",
-        "url": "https://open.spotify.com/album/3X6cs2EHQ5FspVUZKGKvxu"
+        "name": "Bhabhi Tabaahi (From \"Nayyi Navelli\")",
+        "url": "https://open.spotify.com/album/1dRe5mOE1TR8bqf0MNyuzr"
       },
       "artists": [
         {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
-          "name": "Dev Negi",
-          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
         },
         {
-          "name": "AKASA",
-          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
-        },
-        {
-          "name": "Shabbir Ahmed",
-          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
         }
       ],
-      "duration_ms": 165360,
-      "name": "Thummak Thummak - From \"The Vvaan\"",
-      "url": "https://open.spotify.com/track/7FAPKBbQcBDyYZQXF3Kqf1"
+      "duration_ms": 242117,
+      "name": "Bhabhi Tabaahi - From \"Nayyi Navelli\"",
+      "url": "https://open.spotify.com/track/5eRyoNvRAjHWQM3vcgvgWY"
     },
     {
       "added_at": "2026-09-25 05:29:43",
@@ -207,22 +203,30 @@
     {
       "added_at": "2026-09-25 05:29:43",
       "album": {
-        "name": "Sapna (From \"Om Ka Hari\")",
-        "url": "https://open.spotify.com/album/55AqxE3q9ij74sGLKolDlo"
+        "name": "Thummak Thummak (From \"The Vvaan\")",
+        "url": "https://open.spotify.com/album/3X6cs2EHQ5FspVUZKGKvxu"
       },
       "artists": [
         {
-          "name": "Paresh Pahuja",
-          "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN"
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         },
         {
-          "name": "Siddhant Kaushal",
-          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
         }
       ],
-      "duration_ms": 278162,
-      "name": "Sapna - From \"Om Ka Hari\"",
-      "url": "https://open.spotify.com/track/3bI2RrogzKOxGe1V1DyI7l"
+      "duration_ms": 165360,
+      "name": "Thummak Thummak - From \"The Vvaan\"",
+      "url": "https://open.spotify.com/track/7FAPKBbQcBDyYZQXF3Kqf1"
     },
     {
       "added_at": "2026-09-25 05:29:43",
@@ -243,6 +247,50 @@
       "duration_ms": 183652,
       "name": "Casa Tupka Anthemo",
       "url": "https://open.spotify.com/track/0cbmbkbCIg97a0CTt2c0Y0"
+    },
+    {
+      "added_at": "2026-09-25 05:29:43",
+      "album": {
+        "name": "Sapna (From \"Om Ka Hari\")",
+        "url": "https://open.spotify.com/album/55AqxE3q9ij74sGLKolDlo"
+      },
+      "artists": [
+        {
+          "name": "Paresh Pahuja",
+          "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+        }
+      ],
+      "duration_ms": 278162,
+      "name": "Sapna - From \"Om Ka Hari\"",
+      "url": "https://open.spotify.com/track/3bI2RrogzKOxGe1V1DyI7l"
+    },
+    {
+      "added_at": "2026-09-25 05:29:43",
+      "album": {
+        "name": "Pehla Pyaar Doosri Baar",
+        "url": "https://open.spotify.com/album/1uw9VCYG9jUnYmf3CnhxNj"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "duration_ms": 173122,
+      "name": "Chaand",
+      "url": "https://open.spotify.com/track/4zPwGaLCexivXGV2XpjXo8"
     },
     {
       "added_at": "2026-09-25 05:29:43",
@@ -319,30 +367,6 @@
       "duration_ms": 253833,
       "name": "Samjho Na - From \"The Vvaan\"",
       "url": "https://open.spotify.com/track/1yQZfjUeKWs31AYV2IxN0V"
-    },
-    {
-      "added_at": "2026-09-25 05:29:43",
-      "album": {
-        "name": "Pehla Pyaar Doosri Baar",
-        "url": "https://open.spotify.com/album/1uw9VCYG9jUnYmf3CnhxNj"
-      },
-      "artists": [
-        {
-          "name": "Rochak Kohli",
-          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
-        },
-        {
-          "name": "Faheem Abdullah",
-          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
-        },
-        {
-          "name": "Gurpreet Saini",
-          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
-        }
-      ],
-      "duration_ms": 173122,
-      "name": "Chaand",
-      "url": "https://open.spotify.com/track/4zPwGaLCexivXGV2XpjXo8"
     },
     {
       "added_at": "2026-09-25 05:29:43",
@@ -1711,22 +1735,6 @@
       "duration_ms": 163103,
       "name": "Saawariya",
       "url": "https://open.spotify.com/track/0OiueeGi8QW0OyujRRenl8"
-    },
-    {
-      "added_at": "2026-09-25 05:29:43",
-      "album": {
-        "name": "Ghar",
-        "url": "https://open.spotify.com/album/3oh78sSYIUUeRvMMZAbgPe"
-      },
-      "artists": [
-        {
-          "name": "Dushyant Bhatt",
-          "url": "https://open.spotify.com/artist/5Lh55pfwm77zTtZTeCtjyK"
-        }
-      ],
-      "duration_ms": 182161,
-      "name": "Ghar",
-      "url": "https://open.spotify.com/track/14ED7vlhejBpPwvIwPIIaD"
     },
     {
       "added_at": "2026-09-25 05:29:43",

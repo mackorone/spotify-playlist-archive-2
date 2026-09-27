@@ -1,12 +1,12 @@
 {
   "description": "Rock with a drop. Cover: HVDES \\m/",
-  "num_followers": 358060,
+  "num_followers": 358115,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHmnF93ecW0tNSojotDFm7sFqidW",
+  "snapshot_id": "AAAAAKeL/4vGnCIK7eFXhnH3UZQe4rXo",
   "tracks": [
     {
       "added_at": "2026-09-18 15:22:42",
@@ -963,22 +963,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "ODYSSEY",
-        "url": "https://open.spotify.com/album/4nPyFynQj3tGWz1xNUiL5t"
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 269220,
-      "name": "Slave to the Rithm",
-      "url": "https://open.spotify.com/track/0goDqcyuBPHdknwxaCkjcG"
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1019,22 +1019,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "REBELS NEVER DIE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/4nPyFynQj3tGWz1xNUiL5t"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 189374,
-      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
-      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
+      "duration_ms": 269220,
+      "name": "Slave to the Rithm",
+      "url": "https://open.spotify.com/track/0goDqcyuBPHdknwxaCkjcG"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "ILLENIUM",
-        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
       },
@@ -1135,18 +1115,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Poison Apple Baby",
-        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
+        "name": "ILLENIUM",
+        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
       "artists": [
         {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 197977,
-      "name": "Poison Apple Baby",
-      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
+      "duration_ms": 187317,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "Poison Apple Baby",
+        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Poison Apple Baby",
+      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Crash & Burn",
         "url": "https://open.spotify.com/album/76vLQIeMvpqzqDRwpvuUqO"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 246400,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/5UrZ1UfrJhyB7RMmWaRjXO"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Good F**King Music",
+        "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 206433,
+      "name": "Good F**King Music",
+      "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1215,42 +1231,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Good F**King Music",
-        "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
-      },
-      "artists": [
-        {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
-        }
-      ],
-      "duration_ms": 206433,
-      "name": "Good F**King Music",
-      "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        },
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 169243,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Kneel Before Me",
         "url": "https://open.spotify.com/album/6LebF31h6hxienjBsnFEMf"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 201600,
       "name": "Kneel Before Me",
       "url": "https://open.spotify.com/track/0qwMoAstkTXlWE8lQJBRzY"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        },
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 169243,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "AFTER MIDNIGHT",
+        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
+      },
+      "artists": [
+        {
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+        }
+      ],
+      "duration_ms": 121458,
+      "name": "AFTER MIDNIGHT",
+      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Napalm",
         "url": "https://open.spotify.com/album/2vwB6SbE20uH2iaDpFb4Rc"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 204214,
       "name": "Napalm",
       "url": "https://open.spotify.com/track/5aYrqHtWy7UJljAVq3LFwv"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "AFTER MIDNIGHT",
-        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
-      },
-      "artists": [
-        {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
-        }
-      ],
-      "duration_ms": 121458,
-      "name": "AFTER MIDNIGHT",
-      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1451,22 +1451,30 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
+        "name": "You Call Me Reckless",
+        "url": "https://open.spotify.com/album/77GBZv45BvxMeDEPaJgGX0"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
         },
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Essenger",
+          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
+        },
+        {
+          "name": "Life Awaits",
+          "url": "https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
         }
       ],
-      "duration_ms": 237203,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
+      "duration_ms": 195929,
+      "name": "You Call Me Reckless",
+      "url": "https://open.spotify.com/track/0GRhBpD36Iu7ur3fUUJgzN"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1515,30 +1523,38 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "You Call Me Reckless",
-        "url": "https://open.spotify.com/album/77GBZv45BvxMeDEPaJgGX0"
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
       },
       "artists": [
         {
-          "name": "F.O.O.L",
-          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Essenger",
-          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
-        },
-        {
-          "name": "Life Awaits",
-          "url": "https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm"
-        },
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 195929,
-      "name": "You Call Me Reckless",
-      "url": "https://open.spotify.com/track/0GRhBpD36Iu7ur3fUUJgzN"
+      "duration_ms": 237203,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "The Death of Peace of Mind",
+        "url": "https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "The Death of Peace of Mind",
+      "url": "https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1563,22 +1579,6 @@
       "duration_ms": 142615,
       "name": "BUSTED",
       "url": "https://open.spotify.com/track/49mT4saNKf5BskrD7Bwrw9"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "The Death of Peace of Mind",
-        "url": "https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "The Death of Peace of Mind",
-      "url": "https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Not My Night",
-        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 202421,
-      "name": "Not My Night",
-      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "HEADLOCK",
         "url": "https://open.spotify.com/album/2BbKEEnpv0xKn7tGkQYD5u"
       },
@@ -1683,26 +1663,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
+        "name": "Not My Night",
+        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
       },
       "artists": [
         {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
         },
         {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
-        },
-        {
-          "name": "KC",
-          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
+      "duration_ms": 202421,
+      "name": "Not My Night",
+      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1751,42 +1727,26 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Sugar, We're Goin Down",
-        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
       },
       "artists": [
         {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
         },
         {
-          "name": "Social Repose",
-          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
-        }
-      ],
-      "duration_ms": 209210,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Badland Bandits",
-        "url": "https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh"
-      },
-      "artists": [
-        {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
         },
         {
-          "name": "Stehreo",
-          "url": "https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9"
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
         }
       ],
-      "duration_ms": 261818,
-      "name": "Badland Bandits",
-      "url": "https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl"
+      "duration_ms": 252800,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1815,6 +1775,26 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "Sugar, We're Goin Down",
+        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Social Repose",
+          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
+        }
+      ],
+      "duration_ms": 209210,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Steps On You (Peep My Style)",
         "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 176200,
       "name": "Steps On You (Peep My Style)",
       "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Badland Bandits",
+        "url": "https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        },
+        {
+          "name": "Stehreo",
+          "url": "https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Badland Bandits",
+      "url": "https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1871,26 +1871,6 @@
       "duration_ms": 185039,
       "name": "Obsolete - Sullivan King Remix",
       "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Core (That's Who We Are)",
-        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Core (That's Who We Are)",
-      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1943,6 +1923,26 @@
       "duration_ms": 276480,
       "name": "Won't Make A Sound",
       "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Core (That's Who We Are)",
+        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Core (That's Who We Are)",
+      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2087,22 +2087,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
-        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
+        "name": "Till I Met You",
+        "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
       },
       "artists": [
         {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
         },
         {
-          "name": "Code: Pandorum",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+          "name": "good problem",
+          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
         }
       ],
-      "duration_ms": 188730,
-      "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
-      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
+      "duration_ms": 195211,
+      "name": "Till I Met You",
+      "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2127,38 +2127,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Till I Met You",
-        "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
+        "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
+        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
       },
       "artists": [
         {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
         },
         {
-          "name": "good problem",
-          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
+          "name": "Code: Pandorum",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
         }
       ],
-      "duration_ms": 195211,
-      "name": "Till I Met You",
-      "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+      "duration_ms": 188730,
+      "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
+      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2175,6 +2159,22 @@
       "duration_ms": 200000,
       "name": "Being One",
       "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2203,26 +2203,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Take It Back",
-        "url": "https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Take It Back",
-      "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -2243,6 +2223,26 @@
       "duration_ms": 255448,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2479,6 +2479,26 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "Going Down",
+        "url": "https://open.spotify.com/album/5NeIIC2AIQOFJNawPbLCAb"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        },
+        {
+          "name": "SOUNDR",
+          "url": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X"
+        }
+      ],
+      "duration_ms": 178846,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/5q0X54hfXAnEo457iHjOLD"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
       },
@@ -2495,26 +2515,6 @@
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Werewolf: Synthwave Edition",
-        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Saxl Rose",
-          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
-        }
-      ],
-      "duration_ms": 211387,
-      "name": "Werewolf: Synthwave Edition",
-      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
     }
   ],
   "unique_name": "Rocktronic",

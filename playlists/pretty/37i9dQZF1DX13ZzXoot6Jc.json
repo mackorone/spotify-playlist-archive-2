@@ -1,12 +1,12 @@
 {
   "description": "Luke Combs and Country hits that will have you singing every word.",
-  "num_followers": 449818,
+  "num_followers": 449820,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMIP9gYG+8ljO4fBFdKn/Njs19+z",
+  "snapshot_id": "AAAAAO+xxbNbRkUeV4MPLScfq5mTjOOl",
   "tracks": [
     {
       "added_at": "2025-12-12 19:32:52",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 172853,
-      "name": "Tucson Too Late",
-      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "4\u00d74\u00d7U",
         "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 239453,
       "name": "4\u00d74\u00d7U",
       "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 172853,
+      "name": "Tucson Too Late",
+      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Love You Again",
         "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 173636,
       "name": "Love You Again",
       "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2025-12-12 19:32:52",
@@ -787,26 +787,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 207794,
-      "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Killed The Cowboy",
         "url": "https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 184173,
       "name": "Chevrolet (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 207794,
+      "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/733zbDkHarKvnvoJkouK34"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 173269,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "You Had To Be There (feat. Kenny Chesney)",
         "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 220157,
       "name": "You Had To Be There (feat. Kenny Chesney)",
       "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/733zbDkHarKvnvoJkouK34"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 173269,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Carolyn's Boy",
-        "url": "https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf"
+        "name": "Take Her Home",
+        "url": "https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 226546,
-      "name": "Fires Don't Start Themselves",
-      "url": "https://open.spotify.com/track/07NRJ7TdZHv6x6oN5ag3HV"
+      "duration_ms": 182466,
+      "name": "Take Her Home",
+      "url": "https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ"
     }
   ],
   "unique_name": "Country Favourites",

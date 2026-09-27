@@ -4,7 +4,7 @@
 
 > We Outsideeeee!
 
-152 songs - 7 hr 18 min
+153 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 | 2025-10-24 |  |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2025-10-24 |  |
 | [STARLIFE](https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [STARLIFE](https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM) | 2:22 | 2026-05-08 | 2026-05-22 |
+| [Steeze](https://open.spotify.com/track/3m9lU6rU5orvK504eviiIU) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Steeze](https://open.spotify.com/album/39sKfVQm4sKLL9mAflMvKR) | 2:06 | 2026-09-25 |  |
 | [Stop Dey Worry Me](https://open.spotify.com/track/29BZWfMU9LfD50wJ5jxkre) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Stop Dey Worry Me](https://open.spotify.com/album/369QLSNsmpKNI6x4Hj1RsV) | 2:58 | 2025-11-07 | 2025-12-19 |
 | [Stopit](https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Stopit](https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o) | 2:30 | 2026-07-17 |  |
 | [Stranger](https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sweet Boy](https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs) | 2:55 | 2026-05-01 | 2026-05-22 |
@@ -159,6 +160,6 @@
 | [Yahooboy](https://open.spotify.com/track/3gxE784U3RHs338iapWwos) | [ACE TEE](https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm), [Ngb Muni](https://open.spotify.com/artist/7CMDKouH1YHU3pJacnDrzm) | [Yahooboy](https://open.spotify.com/album/0dQp68Zmy4Sis0nGVh5mPG) | 2:09 | 2026-05-22 | 2026-07-18 |
 | [Yawa \(Hosanna\)](https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Redemption Valley](https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw) | 2:45 | 2026-04-29 |  |
 | [Ye Dede \(feat\. DarkoVibes\)](https://open.spotify.com/track/3n0PQFnAzLsPbIQdu8ns7q) | [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Ye Dede \(feat\. DarkoVibes\)](https://open.spotify.com/album/0B4VXn4Ur7AOmpkQLdRySW) | 2:40 | 2026-04-17 | 2026-05-15 |
-| [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 | 2026-05-22 |  |
+| [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 | 2026-05-22 | 2026-09-27 |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

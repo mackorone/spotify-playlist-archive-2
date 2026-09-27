@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJEG+ednKb3RPoerwrtjpfbV94z",
+  "snapshot_id": "AAAAAOY07cN2Fo1YNrlZrBNqYBO9djtJ",
   "tracks": [
     {
       "added_at": "2026-09-25 04:04:07",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "La fin",
-        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
-      },
-      "artists": [
-        {
-          "name": "Grace of Arc",
-          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "La fin",
-      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
         "name": "t.o.m. ou la trajectoire des pers\u00e9ides",
         "url": "https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 219800,
       "name": "l'avenir et moi",
       "url": "https://open.spotify.com/track/1QOlHb6o44ke1EYGTmGn1s"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
+        "name": "La fin",
+        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
+      },
+      "artists": [
+        {
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "La fin",
+      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "sex & cigarettes",
-        "url": "https://open.spotify.com/album/22xLfdzlheaZWVMhS64Jzu"
+        "name": "Good Sport",
+        "url": "https://open.spotify.com/album/0UZd74pAgp2NFl8b2nBpYm"
       },
       "artists": [
         {
-          "name": "F\u00e9lix Collin",
-          "url": "https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s"
+          "name": "Aidan Rex",
+          "url": "https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9"
         }
       ],
-      "duration_ms": 147640,
-      "name": "sex & cigarettes",
-      "url": "https://open.spotify.com/track/2c0wJGVHOWxnWtsapZ7c27"
+      "duration_ms": 184000,
+      "name": "Good Sport",
+      "url": "https://open.spotify.com/track/3kORBU2wOUUbuyQ1WoN3iE"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
+        "name": "Tastes like Filth",
+        "url": "https://open.spotify.com/album/2T7AmwXtrQaIssOzS50HsC"
+      },
+      "artists": [
+        {
+          "name": "Beautiful Hotnes",
+          "url": "https://open.spotify.com/artist/3O7qHWRBG6Z6jlYMgYDXWD"
+        }
+      ],
+      "duration_ms": 139570,
+      "name": "Dah Bahs",
+      "url": "https://open.spotify.com/track/2LD4nLt5XuNcuvuEX3bmKz"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
         "name": "Smash Combat",
         "url": "https://open.spotify.com/album/3gRHlB9fJy1hnnMyXDBh5s"
       },
@@ -1019,34 +1035,18 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "Good Sport",
-        "url": "https://open.spotify.com/album/0UZd74pAgp2NFl8b2nBpYm"
+        "name": "sex & cigarettes",
+        "url": "https://open.spotify.com/album/22xLfdzlheaZWVMhS64Jzu"
       },
       "artists": [
         {
-          "name": "Aidan Rex",
-          "url": "https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9"
+          "name": "F\u00e9lix Collin",
+          "url": "https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Good Sport",
-      "url": "https://open.spotify.com/track/3kORBU2wOUUbuyQ1WoN3iE"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
-        "name": "Tastes like Filth",
-        "url": "https://open.spotify.com/album/2T7AmwXtrQaIssOzS50HsC"
-      },
-      "artists": [
-        {
-          "name": "Beautiful Hotnes",
-          "url": "https://open.spotify.com/artist/3O7qHWRBG6Z6jlYMgYDXWD"
-        }
-      ],
-      "duration_ms": 139570,
-      "name": "Dah Bahs",
-      "url": "https://open.spotify.com/track/2LD4nLt5XuNcuvuEX3bmKz"
+      "duration_ms": 147640,
+      "name": "sex & cigarettes",
+      "url": "https://open.spotify.com/track/2c0wJGVHOWxnWtsapZ7c27"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "\u00c9ther",
-        "url": "https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Lisbonne",
-      "url": "https://open.spotify.com/track/4xo1V1DvrBvgrgizr5b2m0"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
         "name": "Dans la seconde",
         "url": "https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 168853,
       "name": "Parfaite \u00e0 l'\u00e9cran",
       "url": "https://open.spotify.com/track/5pq3ofihmnROe8gCPrtCEA"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
+        "name": "\u00c9ther",
+        "url": "https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "Lisbonne",
+      "url": "https://open.spotify.com/track/4xo1V1DvrBvgrgizr5b2m0"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
+        "name": "Bingo!",
+        "url": "https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "duration_ms": 127493,
+      "name": "Nah Nah",
+      "url": "https://open.spotify.com/track/0oIwCUL8r2XDNYcYZ2PuuD"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
         "name": "Nouveaux Langages",
         "url": "https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3"
       },
@@ -1151,34 +1167,22 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "Bingo!",
-        "url": "https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
       },
       "artists": [
         {
-          "name": "La S\u00e9curit\u00e9",
-          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
-        }
-      ],
-      "duration_ms": 127493,
-      "name": "Nah Nah",
-      "url": "https://open.spotify.com/track/0oIwCUL8r2XDNYcYZ2PuuD"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
-        "name": "So Smart",
-        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
-      },
-      "artists": [
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        },
         {
-          "name": "Magi Merlin",
-          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
         }
       ],
-      "duration_ms": 169431,
-      "name": "So Smart",
-      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
+      "duration_ms": 238983,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1199,22 +1203,18 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
+        "name": "So Smart",
+        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
       },
       "artists": [
         {
-          "name": "La Force",
-          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
-        },
-        {
-          "name": "Unessential Oils",
-          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
         }
       ],
-      "duration_ms": 238983,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
+      "duration_ms": 169431,
+      "name": "So Smart",
+      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "I Still Do",
-        "url": "https://open.spotify.com/album/6EDLE1CFwG8OlJPV9QIip4"
+        "name": "Sofort, Si Fort",
+        "url": "https://open.spotify.com/album/33GOfl5Ketn68EijWcLkFe"
       },
       "artists": [
         {
-          "name": "Yves Jarvis",
-          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+          "name": "Yoo Doo Right",
+          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
         }
       ],
-      "duration_ms": 156035,
-      "name": "I Still Do",
-      "url": "https://open.spotify.com/track/0OzZrhbl9lMvCbHfN1fqRq"
+      "duration_ms": 293613,
+      "name": "Sofort, Si Fort",
+      "url": "https://open.spotify.com/track/20P2z18pce5v5wPLtSYEfb"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1339,6 +1339,38 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
+        "name": "I Still Do",
+        "url": "https://open.spotify.com/album/6EDLE1CFwG8OlJPV9QIip4"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "I Still Do",
+      "url": "https://open.spotify.com/track/0OzZrhbl9lMvCbHfN1fqRq"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/1XjiogaRYttwHOaA0Y6QEd"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Cangiano",
+          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
+        }
+      ],
+      "duration_ms": 108136,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/6g637SZdJY7UM0kqFSu94k"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
         "name": "Le Li\u00e8vre",
         "url": "https://open.spotify.com/album/2RsZWt9W1PV0KOEfxiYFID"
       },
@@ -1351,6 +1383,22 @@
       "duration_ms": 224212,
       "name": "Le Li\u00e8vre",
       "url": "https://open.spotify.com/track/4XR6yH3yB0HZmcN3c3XA3B"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
+        "name": "AVALANCHE",
+        "url": "https://open.spotify.com/album/1i3FlcMGOBhQN9jkgUdJ1t"
+      },
+      "artists": [
+        {
+          "name": "Oli F\u00e9ra",
+          "url": "https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw"
+        }
+      ],
+      "duration_ms": 229355,
+      "name": "AVALANCHE",
+      "url": "https://open.spotify.com/track/29XWfrcAx8kuaQ8EiTOkad"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1403,18 +1451,18 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "AVALANCHE",
-        "url": "https://open.spotify.com/album/1i3FlcMGOBhQN9jkgUdJ1t"
+        "name": "Amaro",
+        "url": "https://open.spotify.com/album/2bq7mOidVQrgdhNq5ZveNq"
       },
       "artists": [
         {
-          "name": "Oli F\u00e9ra",
-          "url": "https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw"
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
         }
       ],
-      "duration_ms": 229355,
-      "name": "AVALANCHE",
-      "url": "https://open.spotify.com/track/29XWfrcAx8kuaQ8EiTOkad"
+      "duration_ms": 178200,
+      "name": "Washing Machine",
+      "url": "https://open.spotify.com/track/061FmEAYZyUEY0hONIJ3OZ"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1435,18 +1483,18 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "Amaro",
-        "url": "https://open.spotify.com/album/2bq7mOidVQrgdhNq5ZveNq"
+        "name": "merci la vie",
+        "url": "https://open.spotify.com/album/0nNlOWs8MzEJT5bPa0JZjX"
       },
       "artists": [
         {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+          "name": "Al\u00e9atoire",
+          "url": "https://open.spotify.com/artist/2JRumJlhEUldbSC3uUSnZI"
         }
       ],
-      "duration_ms": 178200,
-      "name": "Washing Machine",
-      "url": "https://open.spotify.com/track/061FmEAYZyUEY0hONIJ3OZ"
+      "duration_ms": 175793,
+      "name": "merci la vie",
+      "url": "https://open.spotify.com/track/10cdEg6FXk3Ncj1YRCLjAS"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1471,38 +1519,6 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "JENNY",
-        "url": "https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf"
-      },
-      "artists": [
-        {
-          "name": "Fyore",
-          "url": "https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk"
-        }
-      ],
-      "duration_ms": 185384,
-      "name": "JENNY",
-      "url": "https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
-        "name": "merci la vie",
-        "url": "https://open.spotify.com/album/0nNlOWs8MzEJT5bPa0JZjX"
-      },
-      "artists": [
-        {
-          "name": "Al\u00e9atoire",
-          "url": "https://open.spotify.com/artist/2JRumJlhEUldbSC3uUSnZI"
-        }
-      ],
-      "duration_ms": 175793,
-      "name": "merci la vie",
-      "url": "https://open.spotify.com/track/10cdEg6FXk3Ncj1YRCLjAS"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
         "name": "The Cost of Freedom",
         "url": "https://open.spotify.com/album/0US04UDQbG8QYL3QmkhGTy"
       },
@@ -1515,6 +1531,22 @@
       "duration_ms": 210681,
       "name": "The Cost of Freedom",
       "url": "https://open.spotify.com/track/4iOXkjBf9fhbyCjQRlTHnE"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
+        "name": "JENNY",
+        "url": "https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf"
+      },
+      "artists": [
+        {
+          "name": "Fyore",
+          "url": "https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk"
+        }
+      ],
+      "duration_ms": 185384,
+      "name": "JENNY",
+      "url": "https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1587,22 +1619,6 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "Sofort, Si Fort",
-        "url": "https://open.spotify.com/album/33GOfl5Ketn68EijWcLkFe"
-      },
-      "artists": [
-        {
-          "name": "Yoo Doo Right",
-          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Sofort, Si Fort",
-      "url": "https://open.spotify.com/track/20P2z18pce5v5wPLtSYEfb"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
         "name": "Gimmicks",
         "url": "https://open.spotify.com/album/52wMgE8YgsyAQDUD79H89s"
       },
@@ -1619,34 +1635,18 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "Fox",
-        "url": "https://open.spotify.com/album/783Q6POJsKFqpTclYXWNy4"
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/1pBrdXujAE8sqU6R0JQnZ5"
       },
       "artists": [
         {
-          "name": "Joseph Lorange",
-          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
+          "name": "Les Shirley",
+          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
         }
       ],
-      "duration_ms": 148160,
-      "name": "Fox",
-      "url": "https://open.spotify.com/track/3ACdS3R5SaiZzRg5FWGMBh"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
-        "name": "FYORE",
-        "url": "https://open.spotify.com/album/4XFFIR3gmzFqROrZak8ndg"
-      },
-      "artists": [
-        {
-          "name": "Fyore",
-          "url": "https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk"
-        }
-      ],
-      "duration_ms": 124315,
-      "name": "FYORE",
-      "url": "https://open.spotify.com/track/1R4KhmCfFGtXY6BvnSL1W4"
+      "duration_ms": 158986,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/3RY2ZZ9CYeWh7spVMEABtZ"
     }
   ],
   "unique_name": "ALT_QC",

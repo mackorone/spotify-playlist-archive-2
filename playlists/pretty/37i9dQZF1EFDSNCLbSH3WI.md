@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421 likes - 164 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 164 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 91 | [Body Shop](https://open.spotify.com/track/4NaFV0Cq1PRJdN47anQ8ik) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/7gAghL70APCDziSZrCzpCX) | 3:39 |
 | 92 | [Bi Fren](https://open.spotify.com/track/26SZ1qJihhDqvzjVjOKiQ0) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:51 |
 | 93 | [Bad Idea](https://open.spotify.com/track/4hTFbz1G3He7e3MKqXjcGx) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:14 |
-| 94 | [Earth Girls](https://open.spotify.com/track/4fFW2R6sfxi83VumhTuKDa) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Bartholomew](https://open.spotify.com/album/4DCQ1KDwnkPgh5Yj1eMQGz) | 4:09 |
-| 95 | [Handle](https://open.spotify.com/track/4MEYu03CxywIaxNuL3wRnt) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:06 |
+| 94 | [Handle](https://open.spotify.com/track/4MEYu03CxywIaxNuL3wRnt) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:06 |
+| 95 | [Earth Girls](https://open.spotify.com/track/4fFW2R6sfxi83VumhTuKDa) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Bartholomew](https://open.spotify.com/album/4DCQ1KDwnkPgh5Yj1eMQGz) | 4:09 |
 | 96 | [Like It Is](https://open.spotify.com/track/6yHZ09mUcQRZtWBYW73OoQ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 4:36 |
 | 97 | [Tree of Life](https://open.spotify.com/track/0XCneIf2nzxEPnWHWwszKn) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [These Days...](https://open.spotify.com/album/36V9Nypcss9ybEKKmPBhin) | 5:37 |
 | 98 | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/track/36PAI4ORIT1jHLjYwgGpXw) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/album/6uFVKyP21XhtoPGySqGjBZ) | 3:22 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 109 | [Sexual Love \(feat\. James Fauntleroy\)](https://open.spotify.com/track/1EtUvPu9sKXHrp2baF8L44) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:25 |
 | 110 | [1 of 1](https://open.spotify.com/track/4G67MRybTVTYariSY5WBXB) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:45 |
 | 111 | [Peace](https://open.spotify.com/track/1DOagLRXZ5KtZ1GLuTceSq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:27 |
-| 112 | [Hell of a Night](https://open.spotify.com/track/0cP8TS5HxnFACbXacWJFst) | [Jessi Levinson](https://open.spotify.com/artist/0LfYS5XL6wwazQX69KQan1) | [Hell of a Night](https://open.spotify.com/album/576mGit8oxH9g3TCJYoiXK) | 3:11 |
-| 113 | [In & Out](https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:20 |
+| 112 | [In & Out](https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:20 |
+| 113 | [Hell of a Night](https://open.spotify.com/track/0cP8TS5HxnFACbXacWJFst) | [Jessi Levinson](https://open.spotify.com/artist/0LfYS5XL6wwazQX69KQan1) | [Hell of a Night](https://open.spotify.com/album/576mGit8oxH9g3TCJYoiXK) | 3:11 |
 | 114 | [Miles \(feat\. Bone Thugs\-N\-Harmony\)](https://open.spotify.com/track/3o86Gn0A25WmiY1p7Zpj5L) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 6:01 |
 | 115 | [Old Life](https://open.spotify.com/track/5ndnH4mpFAFOTjDiBIMwmP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq) | 3:00 |
 | 116 | [Rawks](https://open.spotify.com/track/6PVdjT8BYxFFGiAFDhjNVM) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [What If It Is](https://open.spotify.com/album/0xGl3nw6WV1k2Ysqbn2j01) | 3:52 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 163 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
 | 164 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `AcdSOgAAAADm5N+gC3PaIGnzyDxzm0q2`
+Snapshot ID: `AcdX0AAAAADURfkGWviL7r4Y5DRDj0gM`

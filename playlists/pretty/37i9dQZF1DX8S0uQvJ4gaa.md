@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Max McNown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,341,754 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,342,004 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [LIL SOMETHIN LIKE](https://open.spotify.com/track/3kuCjj6J9R8SB5Ogdivjzj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [LIL SOMETHIN LIKE](https://open.spotify.com/album/54pkbBc7GdYwAGIk2Zerqe) | 2:58 |
 | 100 | [LEAVIN' \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0jWlbaZZaTItZFVVI1lRTT) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [LEAVIN' \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/0QNGJSTLL22bYMWM9wXfSb) | 3:20 |
 
-Snapshot ID: `AAAAAHrp23ujQNqdro/CYkKUWVArkSsT`
+Snapshot ID: `AAAAAP9e1Oxo+Y4sBtp6AQcTpEqm7YJe`

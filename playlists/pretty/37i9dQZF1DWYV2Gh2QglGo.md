@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Nate Haller
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,524 likes - 202 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,531 likes - 202 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 3 | [Wondering Why](https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui) | [CARV](https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A) | [Love You Again](https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1) | 3:18 |
 | 4 | [Wilson Silverstar 402 Blues](https://open.spotify.com/track/73ZTpFDEMU8wRmj4KXv0J2) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Wilson Silverstar 402 Blues](https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP) | 4:43 |
 | 5 | [Leftover Whiskey](https://open.spotify.com/track/6hTCJDWZEaFZ2U0jHiikDz) | [Josh Stumpf](https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj) | [Leftover Whiskey](https://open.spotify.com/album/71qVK7koDmA1pBfaBwrxzX) | 3:30 |
-| 6 | [HOLD YA TO IT](https://open.spotify.com/track/2GPqJ7sK3AJjJjMGmpQSq9) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [PRETTY ROUGH: VOL\. 1](https://open.spotify.com/album/1EjgiEc20E5cJc1F4cFaP1) | 3:15 |
+| 6 | [HOLD YA TO IT](https://open.spotify.com/track/2GPqJ7sK3AJjJjMGmpQSq9) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [PRETTY ROUGH: VOL\. 1](https://open.spotify.com/album/1EjgiEc20E5cJc1F4cFaP1) | 3:14 |
 | 7 | [Coming Soon To A Honky Tonk Near You](https://open.spotify.com/track/1xOK8ho6DIUq6nZyCTAoe9) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Coming Soon To A Honky Tonk Near You](https://open.spotify.com/album/69UGWayVw5TmfSf0fid4xo) | 2:48 |
 | 8 | [Me Without My Hometown](https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Me Without My Hometown](https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd) | 3:35 |
 | 9 | [Daylight](https://open.spotify.com/track/7jhuBXcf2cnAMsRAPn4MPZ) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Daylight](https://open.spotify.com/album/6wkjeE52fnxmVjxj9Sr8Sp) | 3:29 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 201 | [Fools](https://open.spotify.com/track/58T9niWI2sJJVnwbv57Zfn) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Paradise & Hurricanes](https://open.spotify.com/album/2r9AsTcJn97CcARYFM8pMx) | 3:24 |
 | 202 | [the acrobat \(feat\. Lori McKenna\)](https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [the acrobat \(feat\. Lori McKenna\)](https://open.spotify.com/album/3n4Sz8AuTYmtgbPA58X9MK) | 3:54 |
 
-Snapshot ID: `AAAAAKumv/Szcg91ys0isfwWqxmFD7nR`
+Snapshot ID: `AAAAAOJA3gXi4E8RYdt1tUuugIwrZOng`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Rap & Hip Hop today\.  Cover: Zauntee
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,725 likes - 69 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,726 likes - 69 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 68 | [New Things \- Remix](https://open.spotify.com/track/0G5qElyXLQl0Oqme5BUGMW) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [New Things \(Remix\)](https://open.spotify.com/album/4lEaMDUBwPS3wSHwFPrDS7) | 2:43 |
 | 69 | [REVIVAL!](https://open.spotify.com/track/2Cy8awXmK3RJvwZrDHIqOj) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [REVIVAL!](https://open.spotify.com/album/0JSsdXUSWuoMbmA8yPisMR) | 3:04 |
 
-Snapshot ID: `AAAAAANCapraIDYAuzsu3+0s5X8ERv+9`
+Snapshot ID: `AAAAAPuoUBUKLI6i4MuOBMbyxNNjoGQn`

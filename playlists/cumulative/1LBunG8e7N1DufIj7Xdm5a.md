@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,805 songs - 10 day 20 hr 20 min
+4,806 songs - 10 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3407,6 +3407,7 @@
 | [Rise Above](https://open.spotify.com/track/5FkWrayklJFcmbq4MdZ2C6) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Powerful Energy Pop Electricity](https://open.spotify.com/album/5dMZ4odMNv3qx6UVBoDZ2e) | 2:14 | 2025-09-19 |  |
 | [Rise Above](https://open.spotify.com/track/3Qpn2NyDK3TkLb4tUVRFHC) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Rise Above](https://open.spotify.com/album/4Nm3fCI7iK5YCHWZ8IMiP3) | 3:46 | 2025-10-21 | 2026-08-17 |
 | [Rise Above \(another\)](https://open.spotify.com/track/5lEtO5wgAJH7djs0oCVRqj) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Powerful Energy Pop Electricity](https://open.spotify.com/album/5dMZ4odMNv3qx6UVBoDZ2e) | 2:30 | 2025-09-19 |  |
+| [Rise And Fall](https://open.spotify.com/track/3exLIuw7dpaX8hGbmpU8Vn) | [Jumpscare](https://open.spotify.com/artist/6W6yM8NH6UPvCqvDdXjxr2) | [Rise And Fall](https://open.spotify.com/album/1fjCHBvoCdSqxgRjbCTXgh) | 5:24 | 2026-09-26 |  |
 | [Rise and Shatter](https://open.spotify.com/track/2yJCOGORsMYbn1ZYHH5Y2C) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Epic rock music](https://open.spotify.com/album/79c248en6LDJwweGZK1sn5) | 4:24 | 2025-09-10 |  |
 | [Rise and Shine](https://open.spotify.com/track/61sh2yjQjwThfT3m30JDYY) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 2:44 | 2025-09-19 |  |
 | [Rise and Shine \(another\)](https://open.spotify.com/track/2q4eR0tPKIGhtdoqyux351) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 2:42 | 2025-09-19 |  |

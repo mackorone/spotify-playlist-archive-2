@@ -4,7 +4,7 @@
 
 > 
 
-8,865 songs - 22 day 13 hr 28 min
+8,866 songs - 22 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6466,6 +6466,7 @@
 | [Teaplucker's Joy](https://open.spotify.com/track/1SXvYWVlRtZnwVH1Moaavp) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Jadeite Redolence \(Original Game Soundtrack\)](https://open.spotify.com/album/4jt8sLOJrMDMM8XLuDfCGz) | 1:35 | 2025-11-29 |  |
 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 | 2025-01-15 |  |
 | [Tears](https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ) | [소찬휘](https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv) | [First Bridge](https://open.spotify.com/album/69x6z028cL1a0boFB82dqK) | 3:56 | 2025-04-20 |  |
+| [Tears in Heaven](https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Rush \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2) | 4:31 | 2026-09-27 |  |
 | [Tech N Tech](https://open.spotify.com/track/3RjeLeiPt75DDuQMqWQna1) | [KARUT](https://open.spotify.com/artist/2RVXnU56kIClg1UbAW9ehz) | [Blue Archive 1st Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/1SSgN0kVcWjFGkqMq8zdvz) | 2:03 | 2025-03-08 | 2025-07-20 |
 | [Technologic](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) | 4:44 | 2024-12-14 |  |
 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2025-03-07 |  |

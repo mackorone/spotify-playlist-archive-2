@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,149 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,147 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 42 | [sol na pele](https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq) | [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj) | [big buraco](https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN) | 3:00 |
 | 43 | [Lara](https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 3:18 |
 | 44 | [Salto](https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Reações Adversas / Ao Persistirem os Sintomas](https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98) | 3:09 |
-| 45 | [Deixa Molhar](https://open.spotify.com/track/3yFfbKYMUUGgCcwqZ7s2tL) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 3:01 |
-| 46 | [Minta Meu Sonho \- Ao Vivo](https://open.spotify.com/track/5GSuFlMLylIOR9vGn13a7c) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Zeca Pagodinho \- 40 Anos \(Ao Vivo\)](https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r) | 3:14 |
+| 45 | [Minta Meu Sonho \- Ao Vivo](https://open.spotify.com/track/5GSuFlMLylIOR9vGn13a7c) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Zeca Pagodinho \- 40 Anos \(Ao Vivo\)](https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r) | 3:14 |
+| 46 | [Deixa Molhar](https://open.spotify.com/track/3yFfbKYMUUGgCcwqZ7s2tL) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 3:01 |
 | 47 | [Perfume](https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Razão da Esperança](https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X) | 5:46 |
 | 48 | [Cheia de Manias](https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Pagode da Mart'nália](https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z) | 3:00 |
 | 49 | [te quiero](https://open.spotify.com/track/3G00ACFE1MAfxyfbXOR8Ji) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [te quiero](https://open.spotify.com/album/23hLGSkYcppnyp3QKW8Z7B) | 3:35 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 56 | [Todo Dia É Um Recomeço](https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Hamilton de Holanda Trio \- Live in NYC](https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr) | 5:15 |
 | 57 | [Longe De Mim](https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [IRADOH](https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS) | 2:49 |
 | 58 | [Marra de Feroz](https://open.spotify.com/track/5rlt8sbM3GUGYegd66j96E) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione](https://open.spotify.com/album/6QCBlpGOO4UD9SgmCciYMK) | 3:21 |
-| 59 | [Bolinha Azul](https://open.spotify.com/track/5w1vjzU1xvgEIp1gwGT9rA) | [Antonio Caramelo](https://open.spotify.com/artist/2iCmceKgCskEfeiw0lWhfF), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Malibu Kids](https://open.spotify.com/artist/2VQHINk1AordxUvaQplYM7) | [Aventuras de Caramelo](https://open.spotify.com/album/1iZLM6uFvP1OP1D4SwMm9Q) | 2:34 |
-| 60 | [Queixa das almas jovens censuradas \- Ao Vivo](https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo) | [Camané](https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK) | [Camané Ao Vivo No CCB \- Homenagem a José Mário Branco](https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074) | 5:14 |
+| 59 | [Queixa das almas jovens censuradas \- Ao Vivo](https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo) | [Camané](https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK) | [Camané Ao Vivo No CCB \- Homenagem a José Mário Branco](https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074) | 5:14 |
+| 60 | [Bolinha Azul](https://open.spotify.com/track/5w1vjzU1xvgEIp1gwGT9rA) | [Antonio Caramelo](https://open.spotify.com/artist/2iCmceKgCskEfeiw0lWhfF), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Malibu Kids](https://open.spotify.com/artist/2VQHINk1AordxUvaQplYM7) | [Aventuras de Caramelo](https://open.spotify.com/album/1iZLM6uFvP1OP1D4SwMm9Q) | 2:34 |
 | 61 | [Transeunte](https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt) | [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [JAZZWOMAN](https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG) | 4:12 |
 | 62 | [Suíte Ameríndia](https://open.spotify.com/track/2mhaDGmKW0SAd23QLs1emM) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Martín Sued & Orquestra Assintomática](https://open.spotify.com/artist/67x6qUvregPsZZQcXvAPbx), [Orquestra Assintomática](https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm), [Martin Sued](https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI) | [Saga](https://open.spotify.com/album/1n2sWBGetGhjVOIC8cO1kv) | 14:01 |
 | 63 | [Sapato Velho](https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3) | [Rafael Beck](https://open.spotify.com/artist/02SrHZQcFFDx6SOLBE32pd), [Felipe Montanaro](https://open.spotify.com/artist/5IanW65y5AvKBjUgOue9Bn) | [Fantasia Brasil 2](https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 74 | [LEGO](https://open.spotify.com/track/7q2LnH7uqOYJQk4m4LBSAV) | [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0), [André ViaMonte](https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct) | [FUGACIDADE](https://open.spotify.com/album/0QVDHqBLRd5AjHuU4bJmJ3) | 2:42 |
 | 75 | [Matagal](https://open.spotify.com/track/4dw8ZkzEQa5PY7gLL3D0C9) | [Maria Beraldo](https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Colinho](https://open.spotify.com/album/2DphG5HgqpHRRsx1Ec1Wgy) | 4:08 |
 
-Snapshot ID: `AAAAABYMPr//7TMdPQvLA7MD74vJSBJh`
+Snapshot ID: `AAAAAJnMPfLjVZFtNvJuvOJHuDYSmvVM`

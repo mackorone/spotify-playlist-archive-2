@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Jay Kalyl
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,674 likes - 75 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,779 likes - 75 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 7 | [Dios De Milagros \- En Vivo Desde México](https://open.spotify.com/track/1v2lsV9SYQc0KbRkOLEJzk) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Dios De Milagros \(En Vivo Desde México\)](https://open.spotify.com/album/6Mags1nOOjDgrLzhba75MM) | 6:06 |
 | 8 | [Yo Me Rindo a Él \(Si Te Tengo a Ti\)](https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Yo Me Rindo a Él \(Si Te Tengo a Ti\)](https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c) | 9:24 |
 | 9 | [Alabaré](https://open.spotify.com/track/5gQPOUhf5yRBEutGWAfkFc) | [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l), [Joel Rocco](https://open.spotify.com/artist/7sjNSERyTcSvuDsLk9xwpe) | [ECCLESIA](https://open.spotify.com/album/3jbCOlJqFGHCkijruOGLL8) | 3:55 |
-| 10 | [Bondadoso Dios](https://open.spotify.com/track/7dmFy8OlfW2Gb2ekz6attk) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Bondadoso Dios](https://open.spotify.com/album/0ERXT6Aa8rSeO5N4BZOLXL) | 7:36 |
+| 10 | [Bondadoso Dios \- \(Live at Church\)](https://open.spotify.com/track/7dmFy8OlfW2Gb2ekz6attk) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Bondadoso Dios \(Live at Church\)](https://open.spotify.com/album/0ERXT6Aa8rSeO5N4BZOLXL) | 7:36 |
 | 11 | [Si Mi Padre / Salmo 27:10](https://open.spotify.com/track/4v4KrXdiO1kD99FCaMoDeB) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE), [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk) | [Delante Del Trono](https://open.spotify.com/album/69RkCPLA8ZK3cCHsZf1A6K) | 5:14 |
 | 12 | [La Oveja](https://open.spotify.com/track/04lt1XqYHhSsXBSfmCQ4ak) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [La Oveja](https://open.spotify.com/album/1uulJMNR5KP9ih9JbrJwO1) | 4:21 |
 | 13 | [Mira Lo Que Ha Hecho Dios](https://open.spotify.com/track/4rYBj8PbdNVRZ9BxvC9YVo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Emely Williams](https://open.spotify.com/artist/0LC1yPnOQaj6VIz5gtZ82H) | [Mira Lo Que Ha Hecho Dios](https://open.spotify.com/album/3qLl1pAfqfJPfcOq3tC9vn) | 5:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 74 | [Los coros del universo](https://open.spotify.com/track/4xfJoHvsg4BLP00Ek11NLi) | [Hakuna Group Music](https://open.spotify.com/artist/7Lemn0MD6Cb2QfmeZJ5BwS) | [Los coros del universo](https://open.spotify.com/album/2ArinG84ld5Jrw7PTg4ElN) | 4:51 |
 | 75 | [Presencia Del Señor](https://open.spotify.com/track/5o4NrZ8lqWR7rIbA5DxO7E) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Marie Welch](https://open.spotify.com/artist/57hkwgTr1hoISQpKpXfThE) | [Presencia Del Señor](https://open.spotify.com/album/5RthGzTiCNn9ZH0bKjOJ1N) | 4:08 |
 
-Snapshot ID: `AAAAAGlgmHWt6zj4riy1T69vlvbtdrYl`
+Snapshot ID: `AAAAAL3rHaGr1lCX0pUlshJ76chENTAi`

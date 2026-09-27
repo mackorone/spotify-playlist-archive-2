@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 327165,
+  "num_followers": 327183,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAABVXERIbYakh48LPRawE23h",
+  "snapshot_id": "arW5gAAAAAB09HKqEBjCLfILvLsmGDuD",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "falling or flying (Deluxe)",
-        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/2AlCe2DDxELeESF5IP3t9K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 250454,
       "name": "Blue Lights",
       "url": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/2AlCe2DDxELeESF5IP3t9K"
     },
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 197574,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/1Ahp4PZ1vzdbzBCedUrsqI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Not Waving, But Drowning",
         "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 256198,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 197574,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/1Ahp4PZ1vzdbzBCedUrsqI"
     },
     {
       "added_at": null,
@@ -323,22 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peng Black Girls Remix - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/472cjeBcWY3uAAJtxnpM4z"
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
       },
       "artists": [
         {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 206075,
-      "name": "Peng Black Girls Remix - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7L15RIYFpoiHKJQNHsYhWM"
+      "duration_ms": 181000,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/5CYfZNnRoSRzMwaLyl4ey1"
     },
     {
       "added_at": null,
@@ -355,6 +355,26 @@
       "duration_ms": 157767,
       "name": "What Are The Odds",
       "url": "https://open.spotify.com/track/7pXOVush7EakPluHkka7hr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peng Black Girls Remix - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/472cjeBcWY3uAAJtxnpM4z"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 206075,
+      "name": "Peng Black Girls Remix - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7L15RIYFpoiHKJQNHsYhWM"
     },
     {
       "added_at": null,
@@ -395,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What Are The Odds",
+        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "For Life",
+      "url": "https://open.spotify.com/track/616ATvSjdoSWGvfMM76Bq6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
       },
@@ -411,22 +447,6 @@
       "duration_ms": 195073,
       "name": "Gum Body (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Are The Odds",
-        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "For Life",
-      "url": "https://open.spotify.com/track/616ATvSjdoSWGvfMM76Bq6"
     },
     {
       "added_at": null,
@@ -463,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What Are The Odds",
+        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/5W2jUN0gWrwy74w38Vi6wa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj"
       },
@@ -475,22 +511,6 @@
       "duration_ms": 203813,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Are The Odds",
-        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 224099,
-      "name": "The Way It Was",
-      "url": "https://open.spotify.com/track/4U2CDe6ldkhHArb060Dvwf"
     },
     {
       "added_at": null,
@@ -527,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What Are The Odds",
+        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 224099,
+      "name": "The Way It Was",
+      "url": "https://open.spotify.com/track/4U2CDe6ldkhHArb060Dvwf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crush (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5"
       },
@@ -543,22 +579,6 @@
       "duration_ms": 198082,
       "name": "Crush (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Are The Odds",
-        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/5W2jUN0gWrwy74w38Vi6wa"
     },
     {
       "added_at": null,
@@ -799,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By Any Means",
         "url": "https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ"
       },
@@ -827,6 +831,22 @@
       "duration_ms": 225631,
       "name": "By Any Means",
       "url": "https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
     },
     {
       "added_at": null,
@@ -899,30 +919,6 @@
       "duration_ms": 130909,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infinite",
-        "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Down For You",
-      "url": "https://open.spotify.com/track/5hKjvZFDOkBcJgeT7bF61A"
     }
   ],
   "unique_name": "This Is Jorja Smith",

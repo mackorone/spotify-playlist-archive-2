@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Tiakola, Taylor Swift, Pomme, U2, M83 et La Mano 1.9 x Gazo au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,556 likes - 105 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,546 likes - 105 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 26 | [On Video](https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Primetime \(Original Soundtrack\)](https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX) | 3:31 |
 | 27 | [Caribbean Love](https://open.spotify.com/track/2HcGkyRBSIgfD7K2eciidI) | [DJ SKYCEE](https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv), [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Caribbean Love](https://open.spotify.com/album/2kNWksd7l10GMYdq3vSRzX) | 2:54 |
 | 28 | [Le G](https://open.spotify.com/track/61Rdre8hZFyLvcYQu3a1Dw) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU) | [Rescapé \(L'épilogue\)](https://open.spotify.com/album/1JxbpEur0yuSrr7mRTb7kN) | 2:40 |
-| 29 | [How Far \(Chalé\)](https://open.spotify.com/track/37HPZFrrfZQypCa639cMO5) | [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt), [Bellil Brothers](https://open.spotify.com/artist/1AZ8Bec1bBwMdPGwU2ZuiN) | [How Far \(Chalé\)](https://open.spotify.com/album/4kFpGXCVkxWf6ZSMZEzNtF) | 2:47 |
+| 29 | [How Far \(Chalé\)](https://open.spotify.com/track/37HPZFrrfZQypCa639cMO5) | [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt), [BELLIL BROTHERS](https://open.spotify.com/artist/1AZ8Bec1bBwMdPGwU2ZuiN) | [How Far \(Chalé\)](https://open.spotify.com/album/4kFpGXCVkxWf6ZSMZEzNtF) | 2:47 |
 | 30 | [Les cicatrices d'or](https://open.spotify.com/track/4kpFuJZkjJjUYhbeQKV0SN) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Les cicatrices d'or](https://open.spotify.com/album/7GVuwGYWlGgu9dRnbE3WoQ) | 2:59 |
 | 31 | [Chapter 4](https://open.spotify.com/track/7wsi6doEPUrUlFJYylmApv) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Chapter 4](https://open.spotify.com/album/7iVISoawYt4py8izsqOdq7) | 3:17 |
 | 32 | [\#5](https://open.spotify.com/track/4RPgsLbTlrpoLwXqEpkhQD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Stray Dogs](https://open.spotify.com/album/4N31AIbwVZbbfDe48xbGnY) | 4:06 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 104 | [Elle est de gauche](https://open.spotify.com/track/6RhW3h1nxT39q1WIvkXWKq) | [Soli](https://open.spotify.com/artist/1ylSyLgSFjcBgiGx6tQBJ3) | [Elle est de gauche](https://open.spotify.com/album/49xIK5vsRFK8KwLJv1o6yq) | 2:53 |
 | 105 | [305](https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj) | [1nine08](https://open.spotify.com/artist/6i84sqAjyq8cxizf6MaI4H), [LUMI](https://open.spotify.com/artist/2OCu6MqAaZZDHCefmYnBxP) | [305](https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi) | 3:05 |
 
-Snapshot ID: `AAAAABZHx6fbJTlXgXL7zb5qFaGPxoyi`
+Snapshot ID: `AAAAAHWOvnT1Jhqivq6Z1LApFzQmnvKQ`

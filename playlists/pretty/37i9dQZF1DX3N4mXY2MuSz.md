@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,446 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,443 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 24 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 1:32 |
 | 25 | [This Time of Year](https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Medium Rare](https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO) | 2:17 |
 | 26 | [All I Want For Christmas Is You](https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [All I Want For Christmas Is You](https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT) | 3:20 |
-| 27 | [Decemberism](https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [The Human Highlight Reel](https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3) | 3:04 |
-| 28 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
+| 27 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
+| 28 | [Decemberism](https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [The Human Highlight Reel](https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3) | 3:04 |
 | 29 | [It's Christmas And I Fucking Miss You](https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh), [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [It's Christmas And I Fucking Miss You](https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn) | 2:41 |
 | 30 | [Santa Tell Me](https://open.spotify.com/track/6Tp2Zx60aXtyyZ2ahqQ1oO) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [Santa Tell Me](https://open.spotify.com/album/4A0aVh4MltzbdSFVCSj0K8) | 3:23 |
 | 31 | [Groovy Xmas](https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Groovy Xmas](https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW) | 2:13 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 45 | [Silent Night](https://open.spotify.com/track/6gnNYcp6JfcOmX7itB8Mqy) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:33 |
 | 46 | [Holiday Records](https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Holiday Records](https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx) | 3:03 |
 | 47 | [Santa Claus Is Coming to Town \- Single Version](https://open.spotify.com/track/76FkKWaIxsOMzP15ACZLvt) | [A Rocket To The Moon](https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t) | [Santa Claus Is Coming to Town](https://open.spotify.com/album/3KsEuysKMu3uTRac1Y1x41) | 1:54 |
-| 48 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
-| 49 | [Xmas Exile](https://open.spotify.com/track/6el5Au3KpVNLGItG2gFCMA) | [Settle Your Scores](https://open.spotify.com/artist/4QXKSmZgWNMDbQBidvuh4O) | [Xmas Exile](https://open.spotify.com/album/6t9k8xQhwUGtGXxiPjbqKG) | 2:56 |
+| 48 | [Xmas Exile](https://open.spotify.com/track/6el5Au3KpVNLGItG2gFCMA) | [Settle Your Scores](https://open.spotify.com/artist/4QXKSmZgWNMDbQBidvuh4O) | [Xmas Exile](https://open.spotify.com/album/6t9k8xQhwUGtGXxiPjbqKG) | 2:56 |
+| 49 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
 | 50 | [Under the Mistletoe](https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:58 |
 | 51 | [Merry Flippin' Christmas \(Happy Freakin' New Year\)](https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol\. 1 and 2](https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj) | 2:44 |
 | 52 | [Please Come Home for Christmas](https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Punk Rock Christmas](https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X) | 2:02 |
-| 53 | [Sleigh Ride](https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 3:12 |
-| 54 | [This Is a Christmas Match](https://open.spotify.com/track/2m4EHtbC543ItZjqiM7Tgg) | [Wimbledon Alley](https://open.spotify.com/artist/493q9CX6Jfqz84BMKeE1pT) | [This Is a Christmas Match](https://open.spotify.com/album/6I1AEdIeubzxeUrf06Uz8H) | 2:08 |
+| 53 | [This Is a Christmas Match](https://open.spotify.com/track/2m4EHtbC543ItZjqiM7Tgg) | [Wimbledon Alley](https://open.spotify.com/artist/493q9CX6Jfqz84BMKeE1pT) | [This Is a Christmas Match](https://open.spotify.com/album/6I1AEdIeubzxeUrf06Uz8H) | 2:08 |
+| 54 | [Sleigh Ride](https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 3:12 |
 | 55 | [Fairytale of New York](https://open.spotify.com/track/2V87ilIfikyiHJ4bU46YNg) | [The Clan](https://open.spotify.com/artist/7oludeeTSpiIclzw9iPjHX), [Francesca Tedeschi](https://open.spotify.com/artist/0PMd2C4sNGiF9AsCQBsZS9) | [Fairytale of New York](https://open.spotify.com/album/4dkhlhqXYfg5jFDHUT1nVK) | 4:34 |
 | 56 | [All I Want for Christmas Is You](https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08) | [The Dollyrots](https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy) | [All I Want for Christmas Is You](https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0) | 2:44 |
 | 57 | [What Do the Lonely Do at Christmas?](https://open.spotify.com/track/3DRLW9bDml1uWxxD51xWHy) | [Skatune Network](https://open.spotify.com/artist/7Gas5IrI1Y8PSrJPyRkwtC), [GET TUFF](https://open.spotify.com/artist/3uA4mUI9kQS9b7muYR48Sy) | [A Very Skatune Christmas](https://open.spotify.com/album/4VuImTk4cMf4ldCxsAnOI0) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 99 | [Christmas Lullaby](https://open.spotify.com/track/6csB7qcfwypYTXeItvHcEq) | [CJ Ramone](https://open.spotify.com/artist/3jVd6Z5yEh5SSdvzkzUbUp) | [Christmas Lullaby](https://open.spotify.com/album/4QCofUG55C0lck6URon2Pn) | 3:04 |
 | 100 | [Christmas by the Phone](https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl) | 3:01 |
 
-Snapshot ID: `AAAAAATxOPZcGo+/WHI+dujD4YyuT1eZ`
+Snapshot ID: `AAAAAFKbuLfBCqVlEdX5cn3wEnubMYZ6`

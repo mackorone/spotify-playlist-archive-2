@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 186087,
       "name": "Beach Happy",
       "url": "https://open.spotify.com/track/3vgs3abtstVPfIEHG2cyUd"
@@ -1234,6 +1234,24 @@
       "duration_ms": 185333,
       "name": "Stick to My Guns (feat. Riley Green)",
       "url": "https://open.spotify.com/track/4yk8IhXPDwUqGdQQ7s30sW"
+    },
+    {
+      "album": {
+        "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "Ten Pairs Of Boots",
+      "url": "https://open.spotify.com/track/072iLfHsfsEeGAgJY72Y8S"
     },
     {
       "album": {

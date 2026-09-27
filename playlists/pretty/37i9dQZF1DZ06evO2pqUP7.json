@@ -1,13 +1,33 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 70324,
+  "num_followers": 70329,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAABplPEQULneBbdG4+PH/vlb",
+  "snapshot_id": "arW5gAAAAADB+UfErhkWJLoyhdGxrH3T",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palomino (Remix)",
+        "url": "https://open.spotify.com/album/5eK9c2t3ilEqEKR3F7mkQk"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Palomino - Remix",
+      "url": "https://open.spotify.com/track/1IGc1w4X7LKjHbzU3svVXH"
+    },
     {
       "added_at": null,
       "album": {
@@ -435,6 +455,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 315862,
+      "name": "Mi Error - Remix",
+      "url": "https://open.spotify.com/track/5IjOqh4XLyjHINuOGolmAt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only Fans (Remix)",
         "url": "https://open.spotify.com/album/7qoN2JtzwbSfasx3PjG0KR"
       },
@@ -483,34 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "Mi Error - Remix",
-      "url": "https://open.spotify.com/track/5IjOqh4XLyjHINuOGolmAt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ll\u00e9gale",
         "url": "https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB"
       },
@@ -555,22 +575,6 @@
       "duration_ms": 246290,
       "name": "DUCATI (feat. Hades66)",
       "url": "https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PALOMINO",
-        "url": "https://open.spotify.com/album/7LRLBrL0HfgkU2SqpzwePJ"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 134586,
-      "name": "PALOMINO",
-      "url": "https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT"
     },
     {
       "added_at": null,
@@ -1015,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 190951,
-      "name": "Amigos Na' Mas",
-      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -1055,6 +1039,26 @@
       "duration_ms": 212657,
       "name": "OTRA NO",
       "url": "https://open.spotify.com/track/3f2K8tmTI3mHzojNYqae4h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 190951,
+      "name": "Amigos Na' Mas",
+      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
     },
     {
       "added_at": null,

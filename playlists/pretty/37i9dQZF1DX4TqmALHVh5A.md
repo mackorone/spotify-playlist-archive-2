@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Danyl & A6el.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,852 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,842 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Tempête](https://open.spotify.com/track/1w4adoqWBcsxBxMFIoNVZ1) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Tempête](https://open.spotify.com/album/7fcB91H0LuS8zzg4kymcww) | 4:18 |
 | 50 | [Cookie](https://open.spotify.com/track/7EA9t5HOT9JlftSqvF3TRv) | [Elle en été](https://open.spotify.com/artist/3clftljp65DnlVlGRRneEW) | [Cookie](https://open.spotify.com/album/0UqC6W0iqv0F0mKYGSm6Gh) | 2:00 |
 
-Snapshot ID: `AAAAAK6bsA+/9i9MUbjmrBF/fQqY0G1a`
+Snapshot ID: `AAAAANELFjUzLwPD31uKocAEugj/Np4d`

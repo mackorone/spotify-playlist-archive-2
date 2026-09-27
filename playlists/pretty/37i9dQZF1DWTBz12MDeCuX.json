@@ -1,12 +1,12 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: t-low, Miksu / Macloud",
-  "num_followers": 475589,
+  "num_followers": 475557,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIBRPekbYGf+ZaqjZBDsoX0Z7RwX",
+  "snapshot_id": "AAAAAJFHLuVVMDveIIhQH8wMUM6F5VMM",
   "tracks": [
     {
       "added_at": "2026-09-24 22:01:08",
@@ -298,6 +298,10 @@
         {
           "name": "VICKY",
           "url": "https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va"
+        },
+        {
+          "name": "GX488",
+          "url": "https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa"
         }
       ],
       "duration_ms": 157200,

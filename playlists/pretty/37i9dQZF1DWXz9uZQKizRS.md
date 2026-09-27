@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Krzysztof Zalewski
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,320 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,346 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [Niebezpiecznie blisko](https://open.spotify.com/track/1CsQGQAf37ajcJf3Qf3BnK) | [EWA KOC](https://open.spotify.com/artist/1ORJEbjXzkBVFzUmxFEa7E), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Niebezpiecznie blisko](https://open.spotify.com/album/7ueSHvLnXngeVemG0w90CU) | 3:15 |
 | 100 | [Życie jest piękne](https://open.spotify.com/track/3V14xeDKtDWgOF8MGotykj) | [SKUBAS](https://open.spotify.com/artist/5BoG8WljgEsbLOtoK5IAok) | [Życie jest piękne](https://open.spotify.com/album/28cYFkpknLQZICYJ0YpVfb) | 3:39 |
 
-Snapshot ID: `AAAAAGlnMG7IXBgLHBRGkaGAt+H2jmkA`
+Snapshot ID: `AAAAAAL4BhPkMRDFXEoSfCzSJcsGYpef`

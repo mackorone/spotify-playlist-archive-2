@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Taylor Swift, Tinashe, Julia Jacklin, Madonna, Charli xcx, Leon Bridges + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,086 likes - 103 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,077 likes - 103 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 78 | [Josefine](https://open.spotify.com/track/605aCrKqtIRcpsW04ULHiZ) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Even Flowers Can Bruise](https://open.spotify.com/album/3Cs3qMsNAhXCjrc7laYKqs) | 3:52 |
 | 79 | [sentinel](https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [sentinel](https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf) | 3:26 |
 | 80 | [roundabout](https://open.spotify.com/track/0gVExdNFLCTSE20nrGQrk5) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X), [Mog.Y](https://open.spotify.com/artist/7le126PM7X4XFWqSKg6mOO), [el jako](https://open.spotify.com/artist/74Z0oXMzSvUXI4wRZuy8dh), [FUNK FACE](https://open.spotify.com/artist/4XU0TahPKtYcotF5o03T60) | [roundabout](https://open.spotify.com/album/5Gmc33ACiFeLM0SIWecsjZ) | 3:06 |
-| 81 | [Love For My Hater \(feat\. Samuel\)](https://open.spotify.com/track/32dPbLkx3BN8ih7QmDuXw4) | [SorchaLula](https://open.spotify.com/artist/7IAfo1paQsT9b8xDiKvtEq), [Samuel](https://open.spotify.com/artist/6rDSji8Q7EEWY8s2EoSy2d) | [Love For My Hater \(feat\. Samuel\)](https://open.spotify.com/album/3CEEQIzQWcduhrPllhdj8E) | 3:20 |
+| 81 | [Love For My Hater \(feat\. Samuel\)](https://open.spotify.com/track/32dPbLkx3BN8ih7QmDuXw4) | [SorchaLula](https://open.spotify.com/artist/7IAfo1paQsT9b8xDiKvtEq), [Samuel](https://open.spotify.com/artist/08vwmG1EyRo7bljbiqtDg3) | [Love For My Hater \(feat\. Samuel\)](https://open.spotify.com/album/3CEEQIzQWcduhrPllhdj8E) | 3:20 |
 | 82 | [Hold Me](https://open.spotify.com/track/4CapVWxcmNcApqON90yNvL) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR) | [Hold Me](https://open.spotify.com/album/10dHgTJZoTf2lmKinPbgbN) | 3:00 |
 | 83 | [Sitting Around](https://open.spotify.com/track/3xF3akBcgGqcLIjsNnVRnG) | [Sons Of Atticus](https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g) | [On The Way](https://open.spotify.com/album/36TTGxdyqzNcre4OWQsmfD) | 3:52 |
 | 84 | [IDD](https://open.spotify.com/track/3A1cbkG9AIkzrsbzvqSkwZ) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [IDD](https://open.spotify.com/album/4NgMJb7ACVRoN6X7yow3vP) | 3:18 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 102 | [Never Know You Again](https://open.spotify.com/track/24o7pX77mu9MffqdePkzM3) | [Piper Butcher](https://open.spotify.com/artist/43AU8Hi9juJbA4UDNnmBps) | [Never Know You Again](https://open.spotify.com/album/0ZptqgHYdjdGfsq0QiVRDh) | 3:27 |
 | 103 | [Older](https://open.spotify.com/track/6W95YxMYIHwzlZkcVfg21j) | [Shannon Noll](https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG) | [The Road In Front Of Me](https://open.spotify.com/album/2bxrOUquJKuUWkqVuEvxwf) | 3:02 |
 
-Snapshot ID: `AAAAAPinNoIsk/AkjGvfEaDVcG+WBTMc`
+Snapshot ID: `AAAAAMRIF9176GKaa6nfGrhSDWMUBRC0`

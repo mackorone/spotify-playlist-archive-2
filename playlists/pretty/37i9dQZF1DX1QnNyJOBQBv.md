@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring ARIA VEGA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,866,047 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,865,785 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 50 | [Discúlpeme Señor](https://open.spotify.com/track/6c1ZfnHFuzU5Wh8PS48IWI) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Discúlpeme Señor](https://open.spotify.com/album/3rXPB8pYN0z9kw6nz5k8Z2) | 2:53 |
 | 51 | [Inglés En Miami](https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 3:22 |
 
-Snapshot ID: `AAAAAIT/OGVHLUf65yJjRjluP4lmS6/I`
+Snapshot ID: `AAAAAOX5WT/nMkN8YMqfdbpn2Eoqb/kr`

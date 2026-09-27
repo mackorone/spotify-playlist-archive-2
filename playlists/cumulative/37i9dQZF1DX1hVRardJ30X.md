@@ -4,7 +4,7 @@
 
 > New music by Fanta Rosario, Conep & Young Miko, Ozuna, Natanael Cano and more.
 
-12,962 songs - 28 day 1 hr 42 min
+12,963 songs - 28 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7728,6 +7728,7 @@
 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 | 2024-05-03 | 2024-05-11 |
 | [Máscara](https://open.spotify.com/track/2VynDHS7g8ORiBiZVg8JdT) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Máscara](https://open.spotify.com/album/67GGFS0144qbtoUo0qNnyE) | 2:49 | 2022-11-12 | 2022-11-19 |
 | [Mátame](https://open.spotify.com/track/6VA26TYfNOZmzXxoxoe1Qr) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Mátame](https://open.spotify.com/album/7M8QOj2t3BIVeODclyoPRq) | 2:35 | 2023-05-26 | 2023-06-03 |
+| [Mátame \(feat\. El Del Barrio\)](https://open.spotify.com/track/39eA3zbgqU7z4s8BvJpDWL) | [Dale Pututi & Nesty](https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Harryson](https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm), [El Del Barrio](https://open.spotify.com/artist/525ot3lGdJcYnctfiJ0hhx) | [Mátame \(feat\. El Del Barrio\)](https://open.spotify.com/album/5GuZocmZl3k124CB0Uuu6L) | 3:04 | 2026-09-26 |  |
 | [México Sigue De Pie](https://open.spotify.com/track/2QyKexTBME3MrkkWgL84Sf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [México Sigue De Pie](https://open.spotify.com/album/1otDX0piwEcz0FtVfKhFcV) | 3:07 | 2026-07-31 | 2026-08-08 |
 | [Méxxico Es Todo](https://open.spotify.com/track/4ZAHtzkitK8SanEc7XZoVX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Méxxico Es Todo](https://open.spotify.com/album/11m7pZleAOAkhrm60ihmov) | 3:34 | 2023-09-08 | 2023-09-16 |
 | [Mía](https://open.spotify.com/track/1s30S1LWNUfrZM6tUntDB6) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [Mía](https://open.spotify.com/album/1MYX005RfZStIOvkSNElu4) | 3:52 | 2025-02-21 | 2025-03-01 |

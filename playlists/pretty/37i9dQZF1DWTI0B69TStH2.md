@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:1383ErJnn3u9Iwr70nySEI">barekprzestań</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,628 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,634 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 49 | [Lek na lęk](https://open.spotify.com/track/4L6VoJdbfpJM0YtHXAuPu4) | [Dwaena](https://open.spotify.com/artist/61m9bC0OVqX5f451lWvu54) | [Lek na lęk](https://open.spotify.com/album/4p4Zh3jqKmsqBG5lH04ot4) | 3:56 |
 | 50 | [To jeszcze nie czas](https://open.spotify.com/track/1SoE0Ekq95nZnhhNWK3uwz) | [Maria Jurczyńska](https://open.spotify.com/artist/1ebpgRJJq592rclmEispHz) | [To jeszcze nie czas](https://open.spotify.com/album/36cv1dktMPCjmUP2kwAE4r) | 2:39 |
 
-Snapshot ID: `AAAAAGDh++VE70sogiTHoKz+fLwtPHvU`
+Snapshot ID: `AAAAAOT5FWlKabN8zqyRBoMHXtEEMPz1`

@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,382 songs - 5 day 12 hr 55 min
+2,383 songs - 5 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [CHEMICAL DEFAULT](https://open.spotify.com/track/4U5bfXx3RmZ2YEDJLcIokK) | [FATECRIMES](https://open.spotify.com/artist/7eDt0Al79jubHyYCXU3en7) | [CHEMICAL DEFAULT](https://open.spotify.com/album/1Ulgt4WsPQtwbmpQdIvyD6) | 2:21 | 2025-12-23 | 2026-01-24 |
 | [CHEMICAL MAKEUP](https://open.spotify.com/track/5CpfYv3iXDU0zVC8JormFb) | [HOWRU?](https://open.spotify.com/artist/3lWKH0Kv5zQXrjVp4svPY6) | [CHEMICAL MAKEUP](https://open.spotify.com/album/1sk1D3eFtx4q45Zc7M06NZ) | 3:10 | 2026-04-02 | 2026-05-04 |
 | [Chemtrails](https://open.spotify.com/track/4RnJHlFySudDfGEokB4ro4) | [The Picnic](https://open.spotify.com/artist/6x2UCfTPMvxBUEM8seebng) | [Chemtrails](https://open.spotify.com/album/4VI1Dfm1kYSrRn8ZYJcrtw) | 3:51 | 2025-12-13 | 2026-01-06 |
-| [Cherries & Berries](https://open.spotify.com/track/2R8aoLs2BysGqvfLvY0dQ7) | [The Racket](https://open.spotify.com/artist/0eLVAhOqNn3upQXCmgjAKL) | [The Racket \- EP](https://open.spotify.com/album/7sQkM7icBDAjgCUqGQb8ME) | 2:02 | 2026-08-27 |  |
+| [Cherries & Berries](https://open.spotify.com/track/2R8aoLs2BysGqvfLvY0dQ7) | [The Racket](https://open.spotify.com/artist/0eLVAhOqNn3upQXCmgjAKL) | [The Racket \- EP](https://open.spotify.com/album/7sQkM7icBDAjgCUqGQb8ME) | 2:02 | 2026-08-27 | 2026-09-27 |
 | [Chicago](https://open.spotify.com/track/0uhM1mDQ9tsxPdV4oorvUv) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Chicago](https://open.spotify.com/album/5V7ZgYI3RoHeLYNtiJoTLB) | 3:09 | 2026-06-03 | 2026-07-04 |
 | [Child](https://open.spotify.com/track/7HLOVG23v1u8AxncUGVYRC) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana](https://open.spotify.com/album/40O2KEfwrwod1JhxxYbeyC) | 3:02 | 2026-08-06 |  |
 | [Child \(remaster\)](https://open.spotify.com/track/1vg4jv511QQxTbYydeyKo7) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:02 | 2025-09-18 | 2026-08-07 |
@@ -946,7 +946,7 @@
 | [Horsedance](https://open.spotify.com/track/5Kyxld3QBUpL5RzO9ahlBm) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Lumen Del Mundo](https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H) | 3:18 | 2026-03-21 | 2026-04-17 |
 | [Hostility](https://open.spotify.com/track/6yqfAyRYcyA5vnK90TODRw) | [Shortest Straw](https://open.spotify.com/artist/2P2i4h91G4iqXbcSRv3Ukk) | [Hostility](https://open.spotify.com/album/2wkr2XSt5SeMfTFZGnBkcT) | 4:36 | 2026-04-09 | 2026-05-11 |
 | [Hotel](https://open.spotify.com/track/3pXKQhZErohG9N1fFVMZcz) | [Parched](https://open.spotify.com/artist/6bruCOXoELcqPEXSll0bBN) | [Hotel](https://open.spotify.com/album/23kUkSGjqtrFhTfTj2reSv) | 3:05 | 2026-02-02 | 2026-03-05 |
-| [Housewives in Suburban Ghettos](https://open.spotify.com/track/4PakNwwkXoZ6vuvIdzlyEL) | [FarFarAway](https://open.spotify.com/artist/490rVPFm6pcN8iWh3Fj7Dp) | [Constellations Strange](https://open.spotify.com/album/0a2UBHFYjEhuto8u1FwyHI) | 3:09 | 2026-08-27 |  |
+| [Housewives in Suburban Ghettos](https://open.spotify.com/track/4PakNwwkXoZ6vuvIdzlyEL) | [FarFarAway](https://open.spotify.com/artist/490rVPFm6pcN8iWh3Fj7Dp) | [Constellations Strange](https://open.spotify.com/album/0a2UBHFYjEhuto8u1FwyHI) | 3:09 | 2026-08-27 | 2026-09-27 |
 | [How 'Bout That](https://open.spotify.com/track/4ztat06aJ5UIE1TbEfpaiT) | [ViperSnatch](https://open.spotify.com/artist/5lChenI5TQ9lPyA7hNs6Uo) | [BITCH BITE](https://open.spotify.com/album/3MHga6gKy2cjvESdqnTF1j) | 3:20 | 2026-08-21 | 2026-09-21 |
 | [How Do You Sleep?](https://open.spotify.com/track/4jPV9n9d4ofuJEeurNh7WE) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [How Do You Sleep?](https://open.spotify.com/album/21I90xcafuUMscBPvpalvt) | 2:55 | 2026-06-26 | 2026-08-13 |
 | [Humble!](https://open.spotify.com/track/7aVlQCPVHYemLiRXOrNryR) | [Kiaatti](https://open.spotify.com/artist/377cfCgISHAg4XpqT07ei8) | [Humble!](https://open.spotify.com/album/24NWZqe7DCTEVDh5hkXCvU) | 3:03 | 2026-09-04 |  |
@@ -1432,7 +1432,7 @@
 | [Nowhere Fast](https://open.spotify.com/track/1XARNwO9M0axvQg4HDKzJQ) | [Worseforwear](https://open.spotify.com/artist/3xhHX8IAu1JFlGaOrRllxc) | [Nowhere Fast](https://open.spotify.com/album/7zs8i1TX81LGOAFYYZxTh0) | 3:19 | 2026-03-07 | 2026-04-08 |
 | [Nowhere Man](https://open.spotify.com/track/0117Rkgi04BTIF85Bvcwwz) | [Gramercy](https://open.spotify.com/artist/2MWPvXtgq5s0u21YbGhQAx) | [Nowhere Man](https://open.spotify.com/album/57DfkIrFp0fcH9wJGTgjUS) | 2:45 | 2026-03-16 | 2026-04-17 |
 | [NOWHERE TO RUN](https://open.spotify.com/track/21SgFtuBrTLntV4y5rJzo8) | [MADiSON ViOLETT](https://open.spotify.com/artist/0ODjHIp6tDWsXEG89ykLgZ) | [NOWHERE TO RUN](https://open.spotify.com/album/26zkpA8JQnGL9lCc0E0AF7) | 3:26 | 2026-09-25 |  |
-| [Nqm](https://open.spotify.com/track/0iXxjU5zGkI2E5zFox2JT4) | [Dos Fetos](https://open.spotify.com/artist/54ZZckCEsDIKeimbGxqFuL) | [Mortinato](https://open.spotify.com/album/0AHUl5j1AvDzVyuCaPDPJy) | 3:06 | 2026-08-27 |  |
+| [Nqm](https://open.spotify.com/track/0iXxjU5zGkI2E5zFox2JT4) | [Dos Fetos](https://open.spotify.com/artist/54ZZckCEsDIKeimbGxqFuL) | [Mortinato](https://open.spotify.com/album/0AHUl5j1AvDzVyuCaPDPJy) | 3:06 | 2026-08-27 | 2026-09-27 |
 | [Nuclear Bounty Hunter](https://open.spotify.com/track/4uhYbC13QEPPPyPGz894Jh) | [Bug Facer](https://open.spotify.com/artist/7hmVjur3eaS0Rj3HdOUAxB) | [Nuclear Bounty Hunter](https://open.spotify.com/album/59dbDdU5bAWSYFa7OIPTei) | 4:37 | 2026-08-25 | 2026-09-25 |
 | [Nurse Depression](https://open.spotify.com/track/5xnFYRez4P0r3xvnnleejq) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nurse Depression](https://open.spotify.com/album/6kYfN2e5eh0SHLB6mRAaF5) | 2:05 | 2026-02-03 | 2026-03-07 |
 | [O pai do Grunge](https://open.spotify.com/track/26K7JzETd3WzfhHCBrOs7S) | [Signista](https://open.spotify.com/artist/0z9toQm8sBemSqbhMU2xJk) | [O pai do Grunge](https://open.spotify.com/album/3SLdc6fLquanROOrBrnAjP) | 3:17 | 2026-07-17 | 2026-08-13 |
@@ -1464,7 +1464,7 @@
 | [Only Punk](https://open.spotify.com/track/3K9oYUOz0mM2ql90paasTO) | [Transazione Negata](https://open.spotify.com/artist/5Qpt3qMs1IQunN4aR7qCXw) | [Only Punk](https://open.spotify.com/album/15ndZAnxijfCRa6ha9vK80) | 3:13 | 2026-02-10 | 2026-03-03 |
 | [Onomanosphere](https://open.spotify.com/track/2g7b9tUYkVZSnYQne2QPke) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Onomanosphere](https://open.spotify.com/album/4jH7YaIdnH4Mowmd1sFWlR) | 2:50 | 2026-07-09 |  |
 | [Onomanosphere](https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Onomanosphere](https://open.spotify.com/album/2dohHJ6ZCqeKfve1MqbiSA) | 2:50 | 2026-06-06 | 2026-07-04 |
-| [Onírico](https://open.spotify.com/track/6YgOzOT0KmJWsrJRMcu7Wx) | [Dos Fetos](https://open.spotify.com/artist/54ZZckCEsDIKeimbGxqFuL) | [Mortinato](https://open.spotify.com/album/0AHUl5j1AvDzVyuCaPDPJy) | 3:04 | 2026-08-27 |  |
+| [Onírico](https://open.spotify.com/track/6YgOzOT0KmJWsrJRMcu7Wx) | [Dos Fetos](https://open.spotify.com/artist/54ZZckCEsDIKeimbGxqFuL) | [Mortinato](https://open.spotify.com/album/0AHUl5j1AvDzVyuCaPDPJy) | 3:04 | 2026-08-27 | 2026-09-27 |
 | [Orange Slice Memory](https://open.spotify.com/track/71IgFgauHKNpetUKU3uDN3) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Enter! Plastic City / Orange Slice Memory](https://open.spotify.com/album/6xLpoRjVBhQVDX4Hm3Mn4k) | 2:58 | 2026-09-11 |  |
 | [Orbit Uber Woonsocket](https://open.spotify.com/track/3HRru9gWruIUX7bswLjRC8) | [Favourite Armchair](https://open.spotify.com/artist/3rFDLW3Dnf7tjB8U3v78ic) | [Orbit Uber Woonsocket](https://open.spotify.com/album/3YhU491nfhGUb4caLKmXJK) | 3:14 | 2026-06-17 | 2026-07-19 |
 | [Organ Grinder](https://open.spotify.com/track/08MTVi02wXaFBol1ShnQaL) | [DOOMSDAY! Punchline](https://open.spotify.com/artist/1e7Xe4KslUZdsoYoOCOcb0) | [Organ Grinder](https://open.spotify.com/album/5c2AWUY5b4gLLVP087ddKS) | 1:48 | 2026-02-20 | 2026-03-24 |
@@ -1719,7 +1719,7 @@
 | [Self\-worth](https://open.spotify.com/track/6UpPFSsHuyDIq4FeYaAFv1) | [Tree Piece](https://open.spotify.com/artist/0HImetQunHbvV7ykQju5BM) | [Self\-worth](https://open.spotify.com/album/5clhJ6XM6nkqcq7cHoQXuV) | 4:15 | 2025-12-17 | 2026-01-06 |
 | [Sell Out](https://open.spotify.com/track/7ll40f0DHVr7F8zMrc4BhI) | [Combo Move](https://open.spotify.com/artist/5a9aWFyTmxpiukE20E4ptW) | [Sell Out](https://open.spotify.com/album/7IvqayJNyI6H8UgSkIiHaM) | 2:19 | 2026-07-17 | 2026-08-13 |
 | [Sensiz kaldım bu şehirde](https://open.spotify.com/track/24zGYsfbvpFJEP9CtI8shr) | [Sefa Gümüştakım](https://open.spotify.com/artist/68pWu4Vj6PfXu7B2qYCavq) | [Sensiz kaldım bu şehirde](https://open.spotify.com/album/4ap8ZnW7p2Z149NrTvypMX) | 2:54 | 2025-11-17 | 2025-12-10 |
-| [Sertraline](https://open.spotify.com/track/0DaIILfjS8Y2bU0VxNvNym) | [Paynes Prairie](https://open.spotify.com/artist/4X8yBx8TRoH12UwRmOL4Q0) | [Sertraline](https://open.spotify.com/album/5635N1MlZFwhbCLSSGMuQh) | 3:52 | 2026-08-27 |  |
+| [Sertraline](https://open.spotify.com/track/0DaIILfjS8Y2bU0VxNvNym) | [Paynes Prairie](https://open.spotify.com/artist/4X8yBx8TRoH12UwRmOL4Q0) | [Sertraline](https://open.spotify.com/album/5635N1MlZFwhbCLSSGMuQh) | 3:52 | 2026-08-27 | 2026-09-27 |
 | [Sertralineless Summers](https://open.spotify.com/track/61szQwMRcdzfI85Y6Kw3iH) | [Lilith Left The Garden](https://open.spotify.com/artist/0S8tp7VPxIpsU94O4Qdsxz) | [Sertralineless Summers](https://open.spotify.com/album/6NaRD9PtRtwo0nwXl5iJb9) | 3:12 | 2026-01-06 | 2026-01-29 |
 | [Set Me Free](https://open.spotify.com/track/5HSrz3cGMEcTRQMgl3hQpu) | [Banner Of The Sun](https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq) | [Set Me Free](https://open.spotify.com/album/6TIFaHPRLDXgT77OSLMvCs) | 4:38 | 2026-05-22 | 2026-08-01 |
 | [Set Me Free](https://open.spotify.com/track/5fxw1RLijozvFDMCFnLRg5) | [VALORÉ](https://open.spotify.com/artist/2CLXmx11PQ9aUkXfjaSyYo) | [Set Me Free](https://open.spotify.com/album/2Mnqf0vzlkUTdCg1maqgJH) | 3:31 | 2025-12-28 | 2026-01-22 |
@@ -1885,6 +1885,7 @@
 | [Steal My Heart](https://open.spotify.com/track/14l79xVgYsRxa6pL3Q9NTh) | [Em Armstrong](https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh) | [Steal My Heart](https://open.spotify.com/album/5iyj2jtSGqE1Z4t0DtyWyX) | 3:10 | 2026-09-16 |  |
 | [Stealin'](https://open.spotify.com/track/3NSk6BSHNRUqkBHvXFvBDW) | [Simple Maschines](https://open.spotify.com/artist/1lii7viphugNgIVDRPBO4A) | [Simple Maschines 1](https://open.spotify.com/album/20Sr1qkXKpGgL0n0Jpf3M8) | 1:44 | 2026-06-23 | 2026-07-18 |
 | [Stealing Mine](https://open.spotify.com/track/3ktlqCE7rYHVME0EqhEJm1) | [Iamhalfhuman](https://open.spotify.com/artist/4BCuZz4ChxkwBLuJtyGOzJ) | [Stealing Mine](https://open.spotify.com/album/61lIh41BrZKwM6ZLFl5vg4) | 3:06 | 2026-09-24 |  |
+| [Steroids](https://open.spotify.com/track/56UQaCpUbdgbcghAbrVpyA) | [Chronic Fatigue](https://open.spotify.com/artist/6L5nh6JnemjTKRxLDbYNTg) | [Steroids](https://open.spotify.com/album/6KXTcSZk0X3EOTQHJIMq1z) | 4:07 | 2026-09-26 |  |
 | [Stigmata](https://open.spotify.com/track/47y7xlj4JMN8yquWaTpnQJ) | [Fact Pattern](https://open.spotify.com/artist/0dXIlj26frKRmrePtP2Aaf), [Inva//id](https://open.spotify.com/artist/6OcRZGzOmYnBfx5G6L4KNP) | [Stigmata](https://open.spotify.com/album/0NRVcAITV8Fz56QYEMrohr) | 4:01 | 2026-06-25 | 2026-07-18 |
 | [Still Breathing](https://open.spotify.com/track/6fFkH5gfwg57znzRCZST7w) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Still Breathing](https://open.spotify.com/album/34pHY28Okn87mA2Z4vGOJX) | 3:08 | 2026-03-05 |  |
 | [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 | 2025-12-22 | 2026-01-15 |

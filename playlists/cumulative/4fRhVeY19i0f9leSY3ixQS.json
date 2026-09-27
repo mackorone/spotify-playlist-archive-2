@@ -6664,7 +6664,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 122000,
       "name": "Cherries & Berries",
       "url": "https://open.spotify.com/track/2R8aoLs2BysGqvfLvY0dQ7"
@@ -17156,7 +17156,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 189781,
       "name": "Housewives in Suburban Ghettos",
       "url": "https://open.spotify.com/track/4PakNwwkXoZ6vuvIdzlyEL"
@@ -26032,7 +26032,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 186666,
       "name": "Nqm",
       "url": "https://open.spotify.com/track/0iXxjU5zGkI2E5zFox2JT4"
@@ -26616,7 +26616,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 184783,
       "name": "On\u00edrico",
       "url": "https://open.spotify.com/track/6YgOzOT0KmJWsrJRMcu7Wx"
@@ -31282,7 +31282,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 232615,
       "name": "Sertraline",
       "url": "https://open.spotify.com/track/0DaIILfjS8Y2bU0VxNvNym"
@@ -34300,6 +34300,24 @@
       "duration_ms": 186560,
       "name": "Stealing Mine",
       "url": "https://open.spotify.com/track/3ktlqCE7rYHVME0EqhEJm1"
+    },
+    {
+      "album": {
+        "name": "Steroids",
+        "url": "https://open.spotify.com/album/6KXTcSZk0X3EOTQHJIMq1z"
+      },
+      "artists": [
+        {
+          "name": "Chronic Fatigue",
+          "url": "https://open.spotify.com/artist/6L5nh6JnemjTKRxLDbYNTg"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247108,
+      "name": "Steroids",
+      "url": "https://open.spotify.com/track/56UQaCpUbdgbcghAbrVpyA"
     },
     {
       "album": {

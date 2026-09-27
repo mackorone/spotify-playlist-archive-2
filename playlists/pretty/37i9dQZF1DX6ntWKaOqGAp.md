@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: ゲスの極み乙女 Lowest Lowest Girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,338 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,347 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [君と指](https://open.spotify.com/track/1sYucVpMuUrNDNUVLY0l60) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J) | [君と指](https://open.spotify.com/album/2hhf7qDCYmg7ywCrHNQSSd) | 2:49 |
 | 100 | [世界遺産と夜](https://open.spotify.com/track/3LpvbSKowQAlK6wYi538X9) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [世界遺産と夜](https://open.spotify.com/album/2KfEX2PU6iVKsi5gNRKeS3) | 2:58 |
 
-Snapshot ID: `AAAAAMT9afSSSG+jkYOIEv2LNIh59CHB`
+Snapshot ID: `AAAAAP3J9iFb95Q3no0Z8r0ou1WCFQJn`

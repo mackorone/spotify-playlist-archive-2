@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,423 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,427 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 55 | [You Can't Fail Me Now](https://open.spotify.com/track/1HrU3nSY7CNMr43DMHnhYw) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Strange Weirdos: Music From And Inspired By The Film Knocked Up](https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9) | 3:45 |
 | 56 | [Quiet Corners & Empty Spaces](https://open.spotify.com/track/7crEMhx5kDsaV7hHmL0gkE) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Paging Mr\. Proust](https://open.spotify.com/album/68Gfrh064D2bJfIAw2jdkn) | 3:06 |
 | 57 | [California Zephyr](https://open.spotify.com/track/4eBvIlQ3EhaP2b8At53Woo) | [Jay Farrar](https://open.spotify.com/artist/4tPRMBm25eaPJaceUBPqTK), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [One Fast Move Or I'm Gone Music From Kerouac's Big Sur](https://open.spotify.com/album/3Lki97wGb11VOTrjCEAgCj) | 2:23 |
-| 58 | [Does My Ring Burn Your Finger](https://open.spotify.com/track/5gABUTybqevRxpFA9Bl2AT) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp) | [Cruel Moon](https://open.spotify.com/album/6BCNak8WCST4LLYSGborQk) | 3:15 |
-| 59 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 |
+| 58 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 |
+| 59 | [Does My Ring Burn Your Finger](https://open.spotify.com/track/5gABUTybqevRxpFA9Bl2AT) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp) | [Cruel Moon](https://open.spotify.com/album/6BCNak8WCST4LLYSGborQk) | 3:15 |
 | 60 | [Sweet Old World](https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 5:05 |
 | 61 | [Back Against the Wall](https://open.spotify.com/track/1JWqYAwi12yzh2UmoS4BcM) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Notes of Blue](https://open.spotify.com/album/1KH2KuYqXDkFfUhfCLrEbs) | 3:27 |
 | 62 | [Tecumseh Valley](https://open.spotify.com/track/7eby7k1AaLr3YT8z9wE996) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [Elizabeth Cook](https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s) | [Tecumseh Valley / Pancho & Lefty](https://open.spotify.com/album/79qPXm841M359NMu11XLEH) | 4:40 |
-| 63 | [Keep the Home Fires Burnin'](https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3) | 3:03 |
-| 64 | [Moonshiner](https://open.spotify.com/track/7KJ2nuhkrBXudfs0fmyw04) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Uncle Tupelo 89/93: An Anthology](https://open.spotify.com/album/3QTZMpN4IHejzml5kxVGEG) | 4:23 |
+| 63 | [Moonshiner](https://open.spotify.com/track/7KJ2nuhkrBXudfs0fmyw04) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Uncle Tupelo 89/93: An Anthology](https://open.spotify.com/album/3QTZMpN4IHejzml5kxVGEG) | 4:23 |
+| 64 | [Keep the Home Fires Burnin'](https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3) | 3:03 |
 | 65 | [Brimstone Rock](https://open.spotify.com/track/1nzQhAyJBeWmR75nGcrbKG) | [16 Horsepower](https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3) | [Low Estate](https://open.spotify.com/album/5uoiYvMMws1vvpUUXXF2RM) | 4:28 |
 | 66 | [Drown](https://open.spotify.com/track/0pudWyp5g98c7jAYYp7MUL) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace](https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6) | 3:21 |
 | 67 | [Tennessee Song](https://open.spotify.com/track/3g9j6JMBhbrEiY65PEmkv5) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL) | 4:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 74 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
 | 75 | [Walk Through The Fire](https://open.spotify.com/track/4waV8mpuoXeZqvWch7Cl95) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Filth & Fire](https://open.spotify.com/album/1TXlWspn7oQGH0FDMOE2M0) | 4:38 |
 
-Snapshot ID: `AAAAAAh9YOQfMNdv0uMZwxkyL0dwv4g3`
+Snapshot ID: `AAAAAChXGAdRam/F16I/vxsm1tfQaPvH`

@@ -4,7 +4,7 @@
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-63 songs - 5 hr 43 min
+64 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [High Time \- 2013 Remaster](https://open.spotify.com/track/5vmGZ4645Pyx1vHNBgFGDI) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 5:15 | 2026-08-26 | 2026-08-27 |
 | [I Know You Rider \- Live in Paris, 1972; 2001 Remaster](https://open.spotify.com/track/2M7u9Anw0WbTLsCIHxRoV3) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 5:03 | 2026-01-15 |  |
 | [Jack Straw \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/0TtuYAtUBFlF3ylF57Qwyg) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 6:29 | 2026-01-15 |  |
+| [Keep On Growing \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/6gVXbdpPlzU6VMcH3Wbi7a) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Merriweather 6/30/85 \(Live\)](https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn) | 4:37 | 2026-09-27 |  |
 | [Loose Lucy \- 2013 Remaster](https://open.spotify.com/track/2zRiNcLBVh0K6A1VL3zeg6) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel](https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ) | 3:25 | 2026-01-15 |  |
 | [Mama Tried \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/6h7RCPkZvG7T4Rp02Xa0sE) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 3:11 | 2026-01-15 |  |
 | [Mississippi Half\-Step Uptown Toodeloo \- 2013 Remaster](https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood \(2013 Remaster\)](https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0) | 5:44 | 2026-01-15 |  |
@@ -58,7 +59,7 @@
 | [Sugar Magnolia \- 2013 Remaster](https://open.spotify.com/track/2EB1aFLWC4uIfld5Z3Yj1z) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 3:19 | 2026-01-15 |  |
 | [Sugar Magnolia \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/2i8fNw5X1HZUw3CYNRnnyq) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Sugar Magnolia \(Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985\)](https://open.spotify.com/album/6rqvBym5cFLjVEmKlT3Px8) | 9:11 | 2026-07-17 | 2026-08-13 |
 | [Tennessee Jed \(Live at L'Olympia, Paris, 5/3/72\) \- 2001 Remaster](https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 7:10 | 2026-01-15 |  |
-| [The Golden Road \- 2013 Remaster](https://open.spotify.com/track/22W574PUUECix1yNCWalgx) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [The Grateful Dead](https://open.spotify.com/album/2Qkp6ALKO8kcONs4zq1t2D) | 2:12 | 2026-01-15 |  |
+| [The Golden Road \- 2013 Remaster](https://open.spotify.com/track/22W574PUUECix1yNCWalgx) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [The Grateful Dead](https://open.spotify.com/album/2Qkp6ALKO8kcONs4zq1t2D) | 2:12 | 2026-01-15 | 2026-09-27 |
 | [The Monster \(Cardboard Cowboy\) \- Live at Fillmore Auditorium, San Francisco, CA 7/3/66](https://open.spotify.com/track/0n0Tc7BCZCOBtoEiTe8uD2) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Fillmore Auditorium, San Francisco, CA \(7/3/66\) \[Live\]](https://open.spotify.com/album/6HsC9UFmgs11lG96aBDISF) | 2:31 | 2026-08-26 | 2026-08-27 |
 | [The Music Never Stopped \- 2013 Remaster](https://open.spotify.com/track/5te7uKM0hYcPjf3ScBA9fS) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Blues for Allah \(2013 Remaster\)](https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv) | 4:36 | 2026-01-15 |  |
 | [The Other One > \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/0hTk8f4j19gBafoEXXOHzb) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [The Other One > \(Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985\)](https://open.spotify.com/album/7uzSGwaQjtf3sLPaVpUCcB) | 6:57 | 2026-08-01 | 2026-08-29 |

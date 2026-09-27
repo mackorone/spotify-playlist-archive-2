@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Taylor Swift, Ozuna, Ovy On The Drums & Manuel Turizo, Madonna & Charli xcx y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,913 likes - 79 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,925 likes - 79 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 78 | [Puddle](https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Puddle](https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X) | 1:57 |
 | 79 | [Esa voz](https://open.spotify.com/track/3rZUteDcVsldw8w2Mwvtyn) | [Yo y mis demonios](https://open.spotify.com/artist/3rzaDHPZdEW1mxSHSjrlTS) | [Esa voz](https://open.spotify.com/album/4oh2q5BJPFzTHxWAcMbJt9) | 2:42 |
 
-Snapshot ID: `AAAAAN4MRZe+7j8nBCpIjuCWIjCjsSRo`
+Snapshot ID: `AAAAAPtxORAwLYBl6hfxeP/Z1cl33HnK`

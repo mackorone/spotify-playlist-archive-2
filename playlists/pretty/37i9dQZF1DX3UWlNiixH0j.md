@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 松木美定 Bitei Matsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,645 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,657 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [21 Gram](https://open.spotify.com/track/56CtUCPRr5DLISddaHa8ho) | [中川茉瑚](https://open.spotify.com/artist/6UMg49E0OGk4A7bQlp5tyI) | [21 Gram](https://open.spotify.com/album/7fKCcY23vHeUC85ymkAm8I) | 4:05 |
 | 100 | [おせんべい](https://open.spotify.com/track/5he5auKtuUQjInfTP4OSNa) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq), [&mkz](https://open.spotify.com/artist/1n4aHNYirNcTqD074Ml8It) | [おせんべい](https://open.spotify.com/album/6oLG2HbdiC4XGJEQJ2RDqb) | 2:37 |
 
-Snapshot ID: `AAAAAOdDVteD02EsWYaHjTGDohxhlNxq`
+Snapshot ID: `AAAAAN2OliY9E3/nzn9p5HEbqhdUZQ0x`

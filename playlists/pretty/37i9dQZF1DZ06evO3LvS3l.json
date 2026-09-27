@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 29109,
+  "num_followers": 29112,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAACY+yudm3pfDpU3FHjPjz+Z",
+  "snapshot_id": "arW5gAAAAAChvZevHSYQL0gq25rqNXwi",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Divorced",
-        "url": "https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ"
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 166960,
-      "name": "Cocaine Carolina",
-      "url": "https://open.spotify.com/track/35kvOewUqIxHMf8Djyk4IC"
+      "duration_ms": 214093,
+      "name": "Ride 'Em Cowboy",
+      "url": "https://open.spotify.com/track/3WYx2qPwxhtSP1vKTEpRyg"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unchained",
-        "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
+        "name": "Just Divorced",
+        "url": "https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 214093,
-      "name": "Ride 'Em Cowboy",
-      "url": "https://open.spotify.com/track/3WYx2qPwxhtSP1vKTEpRyg"
+      "duration_ms": 166960,
+      "name": "Cocaine Carolina",
+      "url": "https://open.spotify.com/track/35kvOewUqIxHMf8Djyk4IC"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longhaired Redneck",
-        "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 237213,
-      "name": "Dakota the Dancing Bear, Pt. II",
-      "url": "https://open.spotify.com/track/6YMUxXTDmU5ROJVGdZVxt0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Human Emotions",
         "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 154360,
       "name": "Whiskey & Women",
       "url": "https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Longhaired Redneck",
+        "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 237213,
+      "name": "Dakota the Dancing Bear, Pt. II",
+      "url": "https://open.spotify.com/track/6YMUxXTDmU5ROJVGdZVxt0"
     },
     {
       "added_at": null,

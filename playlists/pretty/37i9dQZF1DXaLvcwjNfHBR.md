@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Newport
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,106 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,130 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 74 | [I Just Got Mad](https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Just Got Mad](https://open.spotify.com/album/3QnV8Wq1tjUuor9guUzEXA) | 2:29 |
 | 75 | [Movies](https://open.spotify.com/track/7vr7D1ISmDeTh4Zc1sZXDJ) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [soft pop](https://open.spotify.com/album/6sWOHghBqLrokOitAiYpcW) | 2:58 |
 
-Snapshot ID: `AAAAAAUOP4tpC6jdIcIsdvfJwol2aqK4`
+Snapshot ID: `AAAAABnhRMSsXEuU1AwUKa6azYOJzDBX`

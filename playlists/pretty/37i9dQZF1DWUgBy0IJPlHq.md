@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Abbie Callahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,959 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,996 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Ouachita Woods](https://open.spotify.com/track/2nfWM85aomohgkF0FNCB9K) | [Dasher The Band](https://open.spotify.com/artist/5IEGhfMgzofovjCJq9jalr) | [Ouachita Woods](https://open.spotify.com/album/1Z5hNOQBUwlVCPUikDTRdO) | 4:03 |
 | 100 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 |
 
-Snapshot ID: `AAAAAKbLyMYOsTB73/0s0vIvtPiBMydm`
+Snapshot ID: `AAAAABXbMa8kF0L/QQJDI8DbCn+6LuLh`

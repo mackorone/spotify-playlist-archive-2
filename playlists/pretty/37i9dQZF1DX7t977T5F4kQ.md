@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   Wendy Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,529 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,605 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [SEXY & BAD](https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [SEXY & BAD](https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3) | 3:37 |
 | 80 | [Forever \(feat\. AratheJay\)](https://open.spotify.com/track/3tc3pVVcG9S3B30Jte0EJd) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [SUN SHERIF](https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY) | 3:16 |
 
-Snapshot ID: `AAAAAMnQsfGvyUvc/5yZA0buRVQo+8i5`
+Snapshot ID: `AAAAAJtGUOkFQ7Ew5EjPqDp3VhTNg7yz`

@@ -4,12 +4,13 @@
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 52 min
+73 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/4DTA8AivgTv94WJ518CGAu) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5AUjW6mZQI7XgV61CBGMJl) | 0:00 | 2026-02-27 | 2026-04-10 |
 | [\#COWOBARU](https://open.spotify.com/track/45uoZjOMDsAcA7N6Hajd4W) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [\#COWOBARU](https://open.spotify.com/album/0OYTApMUBSfz2er15MzMR8) | 2:19 | 2026-09-13 |  |
+| [\#DUAPINTU](https://open.spotify.com/track/15WRC4iyDsHiilNNVc2PKC) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [\#DUAPINTU](https://open.spotify.com/album/3mzvjSnLG3DlHDNyCjlYl6) | 2:38 | 2026-09-27 |  |
 | [Ain't Gonna Give Up](https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Ain't Gonna Give Up](https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3) | 3:53 | 2023-05-02 |  |
 | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm) | 2:29 | 2023-05-02 |  |
 | [Alpha Girl \- Array Remix](https://open.spotify.com/track/0ONxHOgJt0q2UIw37WbW0q) | [JRSCK](https://open.spotify.com/artist/5gvWjdRl83QGWMxpbjq1uI), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Xpressionizm](https://open.spotify.com/album/0Gu6vQSTNQAEz8CCvqyMpj) | 6:19 | 2023-08-30 | 2024-09-06 |
@@ -58,7 +59,7 @@
 | [lollipop thug](https://open.spotify.com/track/13vS5OU07nQ7xlaqFy4Nnc) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [Chasu](https://open.spotify.com/artist/1qIVbNaFEyJ73CX72RM9Ts), [Rafkyboy](https://open.spotify.com/artist/0716HWuFnwWNErpKxn649R), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [SUGARTOWN](https://open.spotify.com/album/7McuiynMZiR1R3Ex8f0gqi) | 2:44 | 2024-06-09 | 2026-09-12 |
 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 | 2023-05-02 |  |
 | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj) | 2:43 | 2023-05-02 |  |
-| [mmm bye \(feat\. Ramengvrl\)](https://open.spotify.com/track/6oCft85iziwvcP4P1O0EcY) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [mmm bye \(feat\. Ramengvrl\)](https://open.spotify.com/album/0xQlcCXpwBMZdJ77YnOXi8) | 2:18 | 2024-08-03 |  |
+| [mmm bye \(feat\. Ramengvrl\)](https://open.spotify.com/track/6oCft85iziwvcP4P1O0EcY) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [mmm bye \(feat\. Ramengvrl\)](https://open.spotify.com/album/0xQlcCXpwBMZdJ77YnOXi8) | 2:18 | 2024-08-03 | 2026-09-27 |
 | [No Tinder](https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [No Tinder](https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove) | 4:14 | 2023-05-02 |  |
 | [Onto The Next](https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Onto The Next](https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe) | 3:34 | 2023-05-02 |  |
 | [out of control \(feat\. Rayi Putra\)](https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:01 | 2023-05-02 |  |

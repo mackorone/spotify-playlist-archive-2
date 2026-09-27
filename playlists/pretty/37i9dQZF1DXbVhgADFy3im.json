@@ -1,12 +1,12 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1355485,
+  "num_followers": 1355921,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEuBa1PBVrd+cLBS2TjSw912PW97",
+  "snapshot_id": "AAAAAPnbQmYK4sk3oH95RVsvFdCNoajD",
   "tracks": [
     {
       "added_at": "2026-09-24 07:20:25",
@@ -651,50 +651,6 @@
     {
       "added_at": "2026-09-24 07:20:25",
       "album": {
-        "name": "Dooron Dooron",
-        "url": "https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6"
-      },
-      "artists": [
-        {
-          "name": "Paresh Pahuja",
-          "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN"
-        },
-        {
-          "name": "Shiv Tandan",
-          "url": "https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP"
-        },
-        {
-          "name": "Meghdeep Bose",
-          "url": "https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "Dooron Dooron",
-      "url": "https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd"
-    },
-    {
-      "added_at": "2026-09-24 07:20:25",
-      "album": {
-        "name": "P-POP CULTURE",
-        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "For A Reason",
-      "url": "https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl"
-    },
-    {
-      "added_at": "2026-09-24 07:20:25",
-      "album": {
         "name": "Yeshanagula (From \"The Paradise\") (Telugu)",
         "url": "https://open.spotify.com/album/4lrQs1uVuyf79sjjuLmU4p"
       },
@@ -719,6 +675,50 @@
       "duration_ms": 188731,
       "name": "Yeshanagula (From \"The Paradise\") (Telugu)",
       "url": "https://open.spotify.com/track/0HE9a9ndSFMCELuobaW5yK"
+    },
+    {
+      "added_at": "2026-09-24 07:20:25",
+      "album": {
+        "name": "P-POP CULTURE",
+        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl"
+    },
+    {
+      "added_at": "2026-09-24 07:20:25",
+      "album": {
+        "name": "Dooron Dooron",
+        "url": "https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6"
+      },
+      "artists": [
+        {
+          "name": "Paresh Pahuja",
+          "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN"
+        },
+        {
+          "name": "Shiv Tandan",
+          "url": "https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP"
+        },
+        {
+          "name": "Meghdeep Bose",
+          "url": "https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "Dooron Dooron",
+      "url": "https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd"
     },
     {
       "added_at": "2026-09-24 07:20:25",
@@ -783,6 +783,26 @@
     {
       "added_at": "2026-09-24 07:20:25",
       "album": {
+        "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
+        "url": "https://open.spotify.com/album/1QxshnBv2N7xiC2OmGpldW"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Rokesh",
+          "url": "https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL"
+        }
+      ],
+      "duration_ms": 210197,
+      "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
+      "url": "https://open.spotify.com/track/0JiGoqPHbvK65rBHadXYoB"
+    },
+    {
+      "added_at": "2026-09-24 07:20:25",
+      "album": {
         "name": "Saiyaara (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 370875,
       "name": "Saiyaara (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF"
-    },
-    {
-      "added_at": "2026-09-24 07:20:25",
-      "album": {
-        "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
-        "url": "https://open.spotify.com/album/1QxshnBv2N7xiC2OmGpldW"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Rokesh",
-          "url": "https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL"
-        }
-      ],
-      "duration_ms": 210197,
-      "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
-      "url": "https://open.spotify.com/track/0JiGoqPHbvK65rBHadXYoB"
     },
     {
       "added_at": "2026-09-24 07:20:25",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-09-24 07:20:25",
       "album": {
-        "name": "Dhun (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
-      },
-      "artists": [
-        {
-          "name": "Mithoon",
-          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 276643,
-      "name": "Dhun (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
-    },
-    {
-      "added_at": "2026-09-24 07:20:25",
-      "album": {
         "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
         "url": "https://open.spotify.com/album/47i89HeDSUWHJGFT1wzAWP"
       },
@@ -1239,26 +1219,22 @@
     {
       "added_at": "2026-09-24 07:20:25",
       "album": {
-        "name": "Kashish",
-        "url": "https://open.spotify.com/album/2uv0DOLXkB2LeFhfk8bIcL"
+        "name": "Dhun (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
       },
       "artists": [
         {
-          "name": "Ashish Bhatia",
-          "url": "https://open.spotify.com/artist/2msR4dHmBiBa99uLmuqFFk"
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
         },
         {
-          "name": "Omkar Singh",
-          "url": "https://open.spotify.com/artist/6dk4snfeN31dQDbb03Wmmr"
-        },
-        {
-          "name": "Kashish Ratnani",
-          "url": "https://open.spotify.com/artist/5maYabmLqXL3Y5fhFaD3zk"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         }
       ],
-      "duration_ms": 193124,
-      "name": "Kashish",
-      "url": "https://open.spotify.com/track/3anHs4ijBd3Iw0E0fBPwtH"
+      "duration_ms": 276643,
+      "name": "Dhun (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
     },
     {
       "added_at": "2026-09-24 07:20:25",
@@ -1283,6 +1259,30 @@
       "duration_ms": 155820,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/3Hp5UfErvtHw0SlkRPHkf9"
+    },
+    {
+      "added_at": "2026-09-24 07:20:25",
+      "album": {
+        "name": "Kashish",
+        "url": "https://open.spotify.com/album/2uv0DOLXkB2LeFhfk8bIcL"
+      },
+      "artists": [
+        {
+          "name": "Ashish Bhatia",
+          "url": "https://open.spotify.com/artist/2msR4dHmBiBa99uLmuqFFk"
+        },
+        {
+          "name": "Omkar Singh",
+          "url": "https://open.spotify.com/artist/6dk4snfeN31dQDbb03Wmmr"
+        },
+        {
+          "name": "Kashish Ratnani",
+          "url": "https://open.spotify.com/artist/5maYabmLqXL3Y5fhFaD3zk"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Kashish",
+      "url": "https://open.spotify.com/track/3anHs4ijBd3Iw0E0fBPwtH"
     },
     {
       "added_at": "2026-09-24 07:20:25",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-09-24 07:20:25",
       "album": {
+        "name": "Raga of Revenge (From \"DC\")",
+        "url": "https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Raga of Revenge (From \"DC\")",
+      "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
+    },
+    {
+      "added_at": "2026-09-24 07:20:25",
+      "album": {
         "name": "Paro",
         "url": "https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl"
       },
@@ -1343,38 +1359,26 @@
     {
       "added_at": "2026-09-24 07:20:25",
       "album": {
-        "name": "Raga of Revenge (From \"DC\")",
-        "url": "https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8"
+        "name": "Mirzapur",
+        "url": "https://open.spotify.com/album/1m7HJi4LyJDQAUhFCoRRiC"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Raga of Revenge (From \"DC\")",
-      "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
-    },
-    {
-      "added_at": "2026-09-24 07:20:25",
-      "album": {
-        "name": "LAAVAN",
-        "url": "https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+          "name": "Anand Bhaskar",
+          "url": "https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO"
         },
         {
-          "name": "Mofusion",
-          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Ginny Diwan",
+          "url": "https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2"
         }
       ],
-      "duration_ms": 185046,
-      "name": "LAAVAN",
-      "url": "https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf"
+      "duration_ms": 350739,
+      "name": "Vaaroon",
+      "url": "https://open.spotify.com/track/4sgYmcu4FKb1ZC6qBlxMiw"
     },
     {
       "added_at": "2026-09-24 07:20:25",
@@ -1427,30 +1431,6 @@
     {
       "added_at": "2026-09-24 07:20:25",
       "album": {
-        "name": "Mirzapur",
-        "url": "https://open.spotify.com/album/1m7HJi4LyJDQAUhFCoRRiC"
-      },
-      "artists": [
-        {
-          "name": "Anand Bhaskar",
-          "url": "https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
-        },
-        {
-          "name": "Ginny Diwan",
-          "url": "https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2"
-        }
-      ],
-      "duration_ms": 350739,
-      "name": "Vaaroon",
-      "url": "https://open.spotify.com/track/4sgYmcu4FKb1ZC6qBlxMiw"
-    },
-    {
-      "added_at": "2026-09-24 07:20:25",
-      "album": {
         "name": "Ranjheya Ve",
         "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 197142,
       "name": "Russian Bandana",
       "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
+    },
+    {
+      "added_at": "2026-09-24 07:20:25",
+      "album": {
+        "name": "LAAVAN",
+        "url": "https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Mofusion",
+          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
+        }
+      ],
+      "duration_ms": 185046,
+      "name": "LAAVAN",
+      "url": "https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf"
     },
     {
       "added_at": "2026-09-24 07:20:25",
@@ -1623,42 +1623,18 @@
     {
       "added_at": "2026-09-24 07:20:25",
       "album": {
-        "name": "Mismatched: Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/75SlrAXlLbJN9LYJwlTJh6"
+        "name": "Tere Bina Na Guzara E",
+        "url": "https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV"
       },
       "artists": [
         {
-          "name": "Anurag Saikia",
-          "url": "https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G"
-        },
-        {
-          "name": "Raj Shekhar",
-          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
-        },
-        {
-          "name": "Amarabha Banerjee",
-          "url": "https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw"
-        },
-        {
-          "name": "Varun Jain",
-          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "Mismatched - Cast",
-          "url": "https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm"
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
         }
       ],
-      "duration_ms": 312857,
-      "name": "Ishq Hai",
-      "url": "https://open.spotify.com/track/3vCzLB6kS2lGcIpm1OOUsy"
+      "duration_ms": 220800,
+      "name": "Tere Bina Na Guzara E",
+      "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
     }
   ],
   "unique_name": "Trending Now India",

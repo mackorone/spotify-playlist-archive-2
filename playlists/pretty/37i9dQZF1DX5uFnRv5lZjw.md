@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 
 > doom scrolling is out, off\-grid is in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,685 likes - 111 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,866 likes - 111 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 | 110 | [Fleeting Dreams](https://open.spotify.com/track/5gHcTERPThy3uSkgj8Cegt) | [Ash Forrest](https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV) | [Fleeting Dreams](https://open.spotify.com/album/2Yqf95s4VCPO21d5URnAR1) | 2:21 |
 | 111 | [Amenable](https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Amenable](https://open.spotify.com/album/7lTPmvctkCtwVtMyJZtPaw) | 2:54 |
 
-Snapshot ID: `AAAAAKoafeUcGOZSvanjKpYBnn3icMo9`
+Snapshot ID: `AAAAAO7qnQDIlVgLmv+8o5u9G8M4be58`

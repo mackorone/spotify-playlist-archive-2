@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Belgium.",
-  "num_followers": 21903,
+  "num_followers": 21905,
   "original_name": "Top Songs - Belgium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MknvWAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mks+gAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-09-25 14:05:10",
@@ -679,8 +679,8 @@
     {
       "added_at": "2026-09-25 14:05:10",
       "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+        "name": "Long Way Down (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b"
       },
       "artists": [
         {
@@ -690,7 +690,7 @@
       ],
       "duration_ms": 244360,
       "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+      "url": "https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw"
     },
     {
       "added_at": "2026-09-25 14:05:10",
@@ -868,7 +868,7 @@
       "added_at": "2026-09-25 14:05:10",
       "album": {
         "name": "I Love You.",
-        "url": "https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr"
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 240426,
+      "duration_ms": 240400,
       "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     }
   ],
   "unique_name": "Top Songs - Belgium",

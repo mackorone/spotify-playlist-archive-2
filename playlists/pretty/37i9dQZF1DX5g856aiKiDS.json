@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 519197,
+  "num_followers": 519219,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAXfZ1bLhEPA6Twna0ZSVhG7d+g4",
+  "snapshot_id": "AAAAAFDhylrjR80FQpiG5B2fqzAHdqD3",
   "tracks": [
     {
       "added_at": "2026-09-18 06:00:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-09-18 06:00:53",
       "album": {
-        "name": "SLATE",
-        "url": "https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
-        }
-      ],
-      "duration_ms": 232227,
-      "name": "Paint On Spring - Remastering",
-      "url": "https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI"
-    },
-    {
-      "added_at": "2026-09-18 06:00:53",
-      "album": {
         "name": "Your Dog Loves You",
         "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
       },
@@ -363,22 +347,6 @@
       "duration_ms": 273000,
       "name": "Your Dog Loves You (Feat. Crush)",
       "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
-    },
-    {
-      "added_at": "2026-09-18 06:00:53",
-      "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
     },
     {
       "added_at": "2026-09-18 06:00:53",
@@ -403,6 +371,38 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/0Z8IT9sJWaGQb942lphBzY"
+    },
+    {
+      "added_at": "2026-09-18 06:00:53",
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
+    },
+    {
+      "added_at": "2026-09-18 06:00:53",
+      "album": {
+        "name": "SLATE",
+        "url": "https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+        }
+      ],
+      "duration_ms": 232227,
+      "name": "Paint On Spring - Remastering",
+      "url": "https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI"
     },
     {
       "added_at": "2026-09-18 06:00:53",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-09-18 06:00:53",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
-    },
-    {
-      "added_at": "2026-09-18 06:00:53",
-      "album": {
         "name": "Bye Bye My Blue",
         "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 203409,
       "name": "Bye Bye My Blue",
       "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+    },
+    {
+      "added_at": "2026-09-18 06:00:53",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
     },
     {
       "added_at": "2026-09-18 06:00:53",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-09-18 06:00:53",
       "album": {
-        "name": "I`m In Love",
-        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "I`m In Love",
-      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
-    },
-    {
-      "added_at": "2026-09-18 06:00:53",
-      "album": {
         "name": "Every letter I sent you.",
         "url": "https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 271215,
       "name": "Popo (How deep is our love?)",
       "url": "https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn"
+    },
+    {
+      "added_at": "2026-09-18 06:00:53",
+      "album": {
+        "name": "I`m In Love",
+        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I`m In Love",
+      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
     },
     {
       "added_at": "2026-09-18 06:00:53",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-09-18 06:00:53",
       "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
-      },
-      "artists": [
-        {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
-        }
-      ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
-    },
-    {
-      "added_at": "2026-09-18 06:00:53",
-      "album": {
         "name": "A-TEEN Part. 2",
         "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 204942,
       "name": "I'II be your star",
       "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
+    },
+    {
+      "added_at": "2026-09-18 06:00:53",
+      "album": {
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
+      },
+      "artists": [
+        {
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+        }
+      ],
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
       "added_at": "2026-09-18 06:00:53",

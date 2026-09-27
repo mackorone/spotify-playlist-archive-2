@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-876 songs - 2 day 22 hr 47 min
+877 songs - 2 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Autumn Leaves](https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 10:59 | 2022-10-27 |  |
 | [Autumn Leaves](https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 2:31 | 2023-02-23 | 2024-10-06 |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2022-10-27 |  |
+| [Azalea](https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 5:03 | 2025-12-04 |  |
 | [B Minor Waltz \- Remastered 2003](https://open.spotify.com/track/1G8ZiodFtDX5tNHwvxcllW) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 3:16 | 2022-10-27 | 2026-09-26 |
 | [Baby I'm A Fool](https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 3:30 | 2022-10-27 |  |
 | [Back At The Chicken Shack](https://open.spotify.com/track/0bv5vUJCvXM9G0cbjeikyY) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Back At The Chicken Shack](https://open.spotify.com/album/6YhvR14clg0yibdTKB5aBv) | 8:03 | 2024-07-17 |  |
@@ -413,7 +414,7 @@
 | [It Ain't Necessarily So \- Remastered](https://open.spotify.com/track/3tUmRQBJARzfP9NINW0rl3) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Early Jazz \(Remastered\)](https://open.spotify.com/album/3tkyKRA9FbWaBBfccFQE0Z) | 4:42 | 2024-03-20 | 2025-06-01 |
 | [It Ain’t Necessarily So](https://open.spotify.com/track/0vwTHK0RI01avuLIrAHp8C) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Mary Lou Williams Presents Black Christ of the Andes](https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy) | 4:45 | 2023-01-03 |  |
 | [It Could Happen To You](https://open.spotify.com/track/34xixFi5y3I5FIOH1ZWisx) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Relaxin' With The Miles Davis Quintet](https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt) | 6:36 | 2022-10-27 |  |
-| [It Don't Mean a Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 4:00 | 2024-03-20 |  |
+| [It Don't Mean a Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 4:00 | 2024-03-20 | 2026-09-27 |
 | [It Never Entered My Mind](https://open.spotify.com/track/6PKCEB5JzjCizpz9hUQcpX) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:46 | 2022-10-27 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/6QlkHjQmo2YncQN5MQXgPZ) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin' With The Miles Davis Quintet](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 5:23 | 2022-10-27 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/1vP5Ceh1SrfOalU8Yc3XE9) | [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Wingspan](https://open.spotify.com/artist/1WBleZIOFSKVCm1OSON1qd) | [The Sequel](https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum) | 6:32 | 2022-10-27 | 2026-04-21 |

@@ -4,7 +4,7 @@
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 57 min
+47 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bite The Bait](https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:06 | 2026-06-16 |  |
 | [Count It](https://open.spotify.com/track/0Xam5oGLrRlec9MJDQnZVz) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:28 | 2026-06-24 | 2026-08-24 |
 | [CRANK](https://open.spotify.com/track/3i3q5ICTnKeT1BTbFh5Xaw) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [CHEETAH BEND](https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb) | 4:25 | 2026-08-12 | 2026-08-14 |
-| [Crave](https://open.spotify.com/track/7oYiep2CEMcE5NvkwjAzuP) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:27 | 2026-08-30 |  |
+| [Crave](https://open.spotify.com/track/7oYiep2CEMcE5NvkwjAzuP) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:27 | 2026-08-30 | 2026-09-27 |
 | [Dancing Elephants](https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 5:18 | 2026-06-16 |  |
 | [Didn't Mean To Turn You On \- with Rochelle Jordan](https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Didn't Mean To Turn You On \(with Rochelle Jordan\)](https://open.spotify.com/album/33Mfzj0B0jfExUap38bJYE) | 4:00 | 2026-08-22 |  |
 | [Doing It Too](https://open.spotify.com/track/0EjSsH1ndy3t5JYiq4vI4K) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:26 | 2026-06-16 |  |
@@ -34,8 +34,8 @@
 | [Love You Good](https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:53 | 2026-06-16 |  |
 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 | 2026-06-16 |  |
 | [Lowkey](https://open.spotify.com/track/4M10NvfwzXoBjGTT7DXyK6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:43 | 2026-06-16 |  |
-| [Never Enough](https://open.spotify.com/track/2lmBzqE0LWxlzfazwJxggj) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:00 | 2026-06-16 | 2026-08-30 |
-| [Never Enough \- Chad Hugo Remix](https://open.spotify.com/track/3Mg7BwwtjTwS5ScqZ98Tcb) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Chad Hugo](https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp) | [Never Enough \(Chad Hugo Remix\)](https://open.spotify.com/album/2hMJtwvV3pu6ciDuzLUgPz) | 2:59 | 2026-08-30 |  |
+| [Never Enough](https://open.spotify.com/track/2lmBzqE0LWxlzfazwJxggj) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:00 | 2026-06-16 |  |
+| [Never Enough \- Chad Hugo Remix](https://open.spotify.com/track/3Mg7BwwtjTwS5ScqZ98Tcb) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Chad Hugo](https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp) | [Never Enough \(Chad Hugo Remix\)](https://open.spotify.com/album/2hMJtwvV3pu6ciDuzLUgPz) | 2:59 | 2026-08-30 | 2026-09-27 |
 | [New Wave Groove](https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:32 | 2026-06-16 | 2026-08-28 |
 | [Next 2 You](https://open.spotify.com/track/7tNkPC6JSJFY9Jwr3fooEA) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:00 | 2026-06-16 |  |
 | [No Love](https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 2:36 | 2026-06-16 |  |
@@ -53,6 +53,7 @@
 | [The Relic](https://open.spotify.com/track/415z4JEuCKRr5T8djU13Wl) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [A View of U](https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481) | 4:22 | 2026-06-16 | 2026-06-20 |
 | [There You Go](https://open.spotify.com/track/17ppGQtgavljJG2BmX3KDZ) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:19 | 2026-06-16 |  |
 | [Tour Bus](https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Project Sidiooo, Vol\. 1](https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA) | 1:59 | 2026-07-08 |  |
+| [TTW \- Kaytranada Remix](https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TTW \(Kaytranada Remix\)](https://open.spotify.com/album/1xAna72t1R4SFlsztBiGvr) | 4:27 | 2026-09-27 |  |
 | [What You Done](https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What You Done](https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF) | 2:54 | 2026-06-16 |  |
 
 \*This playlist was first scraped on 2026-06-16. Prior content cannot be recovered.

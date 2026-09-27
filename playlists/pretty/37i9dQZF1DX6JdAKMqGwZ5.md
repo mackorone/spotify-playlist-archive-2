@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Alba Morena.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,386 likes - 120 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,377 likes - 120 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [picapica](https://open.spotify.com/track/36pZ2472MnadsMnOXDhVh8) | [julia de arco](https://open.spotify.com/artist/1xcWruysQvgQWZw3VIgYgI) | [picapica](https://open.spotify.com/album/1AH8Id3umjlv9ghvNXNP7Q) | 1:58 |
 | 120 | [Lo Que Me Pasa](https://open.spotify.com/track/3GBWdd8w6zqMM6mUsmfcRR) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [Albert Cases](https://open.spotify.com/artist/61llloTcQIbaT4ojaBOJbS) | [Lo Que Me Pasa](https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm) | 2:52 |
 
-Snapshot ID: `AAAAAPr6zCga2QFLc3Lcih1cjQfGYzVv`
+Snapshot ID: `AAAAAB2eF4+0gMNVAFnMp0AGjWpBa01a`

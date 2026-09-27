@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 9340,
+  "num_followers": 9349,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAADIvbi6ybysJRds8xRNhBaz",
+  "snapshot_id": "arW5gAAAAABwZkk7H4JlUtdb57Mfn+np",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Acaba Aqu\u00ed",
+        "url": "https://open.spotify.com/album/5ehg9gtQkJ7c2XWbbLbADj"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 198987,
+      "name": "No Acaba Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7flYEgZTehOZSxqW10Cq0K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blockbuster",
         "url": "https://open.spotify.com/album/0t2VEsrGPdJxAzPU4A6dB2"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 189310,
       "name": "Quiero Quedarme para Siempre",
       "url": "https://open.spotify.com/track/2XEDYl5q9pfbNBxkI0p85L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Acaba Aqu\u00ed",
-        "url": "https://open.spotify.com/album/5ehg9gtQkJ7c2XWbbLbADj"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 198987,
-      "name": "No Acaba Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7flYEgZTehOZSxqW10Cq0K"
     },
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
+      "duration_ms": 134026,
+      "name": "Mientras La Ciudad Descansa",
+      "url": "https://open.spotify.com/track/5Vj0xk5PiVmBOPVzubzPjn"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 134026,
-      "name": "Mientras La Ciudad Descansa",
-      "url": "https://open.spotify.com/track/5Vj0xk5PiVmBOPVzubzPjn"
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 168426,
-      "name": "El Disfraz",
-      "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
+      "duration_ms": 184200,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/4UoxQ5jKrS7aOsSsKGa9x4"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 184200,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/4UoxQ5jKrS7aOsSsKGa9x4"
+      "duration_ms": 168426,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
     },
     {
       "added_at": null,
@@ -543,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+        "name": "Bichota \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
       },
       "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 190053,
-      "name": "Casual (YTQDV)",
-      "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
+      "duration_ms": 157666,
+      "name": "Bichota - Spotify Singles",
+      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
     },
     {
       "added_at": null,
@@ -575,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bichota \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
       },
       "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 157666,
-      "name": "Bichota - Spotify Singles",
-      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
+      "duration_ms": 190053,
+      "name": "Casual (YTQDV)",
+      "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 234253,
-      "name": "Vivir En Silencio",
-      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
+      "duration_ms": 290040,
+      "name": "La Buena Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
       "duration_ms": 198306,
       "name": "2D",
       "url": "https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiki Tai",
-        "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
-      },
-      "artists": [
-        {
-          "name": "Amuna",
-          "url": "https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152316,
-      "name": "Tiki Tai",
-      "url": "https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5"
     },
     {
       "added_at": null,
@@ -775,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tiki Tai",
+        "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
+      },
+      "artists": [
+        {
+          "name": "Amuna",
+          "url": "https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152316,
+      "name": "Tiki Tai",
+      "url": "https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
       },
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 290040,
-      "name": "La Buena Lecci\u00f3n",
-      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
+      "duration_ms": 234253,
+      "name": "Vivir En Silencio",
+      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
     },
     {
       "added_at": null,

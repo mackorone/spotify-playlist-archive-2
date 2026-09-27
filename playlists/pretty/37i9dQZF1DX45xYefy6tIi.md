@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > From waking up with ESPN College GameDay to Saturday night under the lights, College Football on ESPN starts here\. Crank it up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,212 likes - 41 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,223 likes - 41 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 40 | [BUSHWICK](https://open.spotify.com/track/6R05JVE3gN370icGwaAOUT) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [Detour](https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP) | 2:18 |
 | 41 | [better late than never](https://open.spotify.com/track/1gVqwsGrIoiElBJN2Vhadv) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [better late than never](https://open.spotify.com/album/7xkKOh4QqpFNUZRE5u7tsu) | 3:45 |
 
-Snapshot ID: `AAAAACL7U3hk0LHg7cZPDoc2jKmrV1IZ`
+Snapshot ID: `AAAAAFTJ0uoGOjDz9PZHi0AqnqMyjKDg`

@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170402,
+  "num_followers": 170397,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADuUGcp1eqEmQwpVh1DOj7B7hfsx",
+  "snapshot_id": "AAAAAIaYeaJ4ybNy4QM9pyOQFX/0Bkea",
   "tracks": [
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 264106,
-      "name": "The Bird & The Rifle",
-      "url": "https://open.spotify.com/track/0CKWuLBs7x02MUc3F7FwtW"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 257920,
       "name": "You Led Me To The Wrong",
       "url": "https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "The Bird & The Rifle",
+      "url": "https://open.spotify.com/track/0CKWuLBs7x02MUc3F7FwtW"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 286139,
       "name": "Bullet Holes in the Sky",
       "url": "https://open.spotify.com/track/2MsSf6Ls0y4H54pJLlvVkg"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2025-09-02 20:08:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Fanta Rosario, Conep & Young Miko, Ozuna, Natanael Cano and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,609 likes - 39 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,618 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 29 | [DR\. STRANGE](https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [DR\. STRANGE](https://open.spotify.com/album/67WRjyo3MxIFQ1iAd2tPrz) | 2:43 |
 | 30 | [CODE ONE](https://open.spotify.com/track/7yvTTsgJFVBu4FFcoWX1Qz) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [CODE ONE](https://open.spotify.com/album/7fLr6E5DIOvy3r9niQjarA) | 3:17 |
 | 31 | [POPOPO](https://open.spotify.com/track/1CIZmcUTdKaxgRj3kJGo57) | [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1), [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp) | [POPOPO](https://open.spotify.com/album/4TehF27kYUnRtwzq2thzdH) | 2:13 |
-| 32 | [dream](https://open.spotify.com/track/7F8W8CzG7Q61v09z90rIAF) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [dream](https://open.spotify.com/album/1gs1dGyvmXwfahdtjGqvJK) | 3:13 |
-| 33 | [V2](https://open.spotify.com/track/5aR2nStSG3vJ80cnrDi5m3) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [V2](https://open.spotify.com/album/1UeuWR9jjyTpiM7Gv70rI6) | 2:37 |
-| 34 | [Know You Better](https://open.spotify.com/track/51JaJpP72oGQr9GQa2Fzlz) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Know You Better](https://open.spotify.com/album/6kz6RAWaxajFTj4NmV8jop) | 3:02 |
-| 35 | [Pick Me](https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Pick Me](https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0) | 2:50 |
-| 36 | [IBUPROFENO](https://open.spotify.com/track/7tNgv10I5jhh1QpYfc4IYJ) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [INTELIGENCIA ARTESANAL](https://open.spotify.com/album/0kYfU6SPBlJez4GwVvPWuP) | 2:16 |
-| 37 | [Siete Minutos](https://open.spotify.com/track/6diE3lVdhREGHJWJMBk5nj) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [BALANCE \(B\-002\)](https://open.spotify.com/album/0NNqdkEH3zqagF3hrAgZZo) | 3:24 |
-| 38 | [Todo Es Por Ti](https://open.spotify.com/track/3JUAvF2Gpql8HPHvwEa4Uu) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Todo Es Por Ti](https://open.spotify.com/album/3cQkmyDfjdiP71TIiUHyUk) | 2:29 |
-| 39 | [@INCONDICIONAL](https://open.spotify.com/track/5p4tICGqsPT20mXiKgt534) | [DOME](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [LA DEL ARROBA](https://open.spotify.com/album/5tZ42w63Q1toMoxeqIBbiJ) | 2:41 |
+| 32 | [Mátame \(feat\. El Del Barrio\)](https://open.spotify.com/track/39eA3zbgqU7z4s8BvJpDWL) | [Dale Pututi & Nesty](https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Harryson](https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm), [El Del Barrio](https://open.spotify.com/artist/525ot3lGdJcYnctfiJ0hhx) | [Mátame \(feat\. El Del Barrio\)](https://open.spotify.com/album/5GuZocmZl3k124CB0Uuu6L) | 3:04 |
+| 33 | [dream](https://open.spotify.com/track/7F8W8CzG7Q61v09z90rIAF) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [dream](https://open.spotify.com/album/1gs1dGyvmXwfahdtjGqvJK) | 3:13 |
+| 34 | [V2](https://open.spotify.com/track/5aR2nStSG3vJ80cnrDi5m3) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [V2](https://open.spotify.com/album/1UeuWR9jjyTpiM7Gv70rI6) | 2:37 |
+| 35 | [Know You Better](https://open.spotify.com/track/51JaJpP72oGQr9GQa2Fzlz) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Know You Better](https://open.spotify.com/album/6kz6RAWaxajFTj4NmV8jop) | 3:02 |
+| 36 | [Pick Me](https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Pick Me](https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0) | 2:50 |
+| 37 | [IBUPROFENO](https://open.spotify.com/track/7tNgv10I5jhh1QpYfc4IYJ) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [INTELIGENCIA ARTESANAL](https://open.spotify.com/album/0kYfU6SPBlJez4GwVvPWuP) | 2:16 |
+| 38 | [Siete Minutos](https://open.spotify.com/track/6diE3lVdhREGHJWJMBk5nj) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [BALANCE \(B\-002\)](https://open.spotify.com/album/0NNqdkEH3zqagF3hrAgZZo) | 3:24 |
+| 39 | [Todo Es Por Ti](https://open.spotify.com/track/3JUAvF2Gpql8HPHvwEa4Uu) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Todo Es Por Ti](https://open.spotify.com/album/3cQkmyDfjdiP71TIiUHyUk) | 2:29 |
+| 40 | [@INCONDICIONAL](https://open.spotify.com/track/5p4tICGqsPT20mXiKgt534) | [DOME](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [LA DEL ARROBA](https://open.spotify.com/album/5tZ42w63Q1toMoxeqIBbiJ) | 2:41 |
 
-Snapshot ID: `AAAAALO1q4MNSh3Qp3xu9iY4tdvi4cSM`
+Snapshot ID: `AAAAAL652Ks0/DnrCwrZLiWePXcTpuRT`

@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 115353,
+  "num_followers": 115369,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK1/FUoo/VuMiaPl3l5nh7pHVGJd",
+  "snapshot_id": "AAAAAIY5LqwoXLHAHYRJ2bzcKNCbbYjr",
   "tracks": [
     {
       "added_at": "2026-09-08 19:57:09",
@@ -147,18 +147,18 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Viola e Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
       },
       "artists": [
         {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
         }
       ],
-      "duration_ms": 158250,
-      "name": "O Crente e a Palmeira",
-      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
+      "duration_ms": 284505,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -179,18 +179,18 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
+        "name": "Viola e Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
       },
       "artists": [
         {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 284505,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
+      "duration_ms": 158250,
+      "name": "O Crente e a Palmeira",
+      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -395,26 +395,6 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Somente Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4r0G88MyU4XHrpBch3Rb7F"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Can\u00e7\u00e3o e Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 249824,
-      "name": "Somente Filho (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
         "name": "Melhor Heran\u00e7a",
         "url": "https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 232000,
       "name": "Melhor Heran\u00e7a",
       "url": "https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
+        "name": "Somente Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4r0G88MyU4XHrpBch3Rb7F"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Can\u00e7\u00e3o e Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 249824,
+      "name": "Somente Filho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Quem \u00c9 Como Tu, Senhor?",
-        "url": "https://open.spotify.com/album/6EDEC4aFYSkngJJHfbFVAj"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "\u00c9 Gospel Music",
-          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
-        }
-      ],
-      "duration_ms": 331061,
-      "name": "Quem \u00c9 Como Tu, Senhor?",
-      "url": "https://open.spotify.com/track/1nNS0y2jhHcCBFMHWTUS5p"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
         "name": "O Segredo da Felicidade",
         "url": "https://open.spotify.com/album/558l8xXJGcfrhNjn6WIBFv"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 200294,
       "name": "O Segredo da Felicidade",
       "url": "https://open.spotify.com/track/1cqL5ETI4Ik9nnYQfUuuwP"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
+        "name": "Quem \u00c9 Como Tu, Senhor?",
+        "url": "https://open.spotify.com/album/6EDEC4aFYSkngJJHfbFVAj"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "\u00c9 Gospel Music",
+          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
+        }
+      ],
+      "duration_ms": 331061,
+      "name": "Quem \u00c9 Como Tu, Senhor?",
+      "url": "https://open.spotify.com/track/1nNS0y2jhHcCBFMHWTUS5p"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Encontrar Meu Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4YYey6sjR3pzeW1JfWqGne"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Saas",
-          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
-        },
-        {
-          "name": "Talita Dias",
-          "url": "https://open.spotify.com/artist/2ii8I9jF45XSJ5kVV0oFee"
-        }
-      ],
-      "duration_ms": 172487,
-      "name": "Encontrar Meu Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/3qLEegaEjCOxB18q1gb6J4"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
         "name": "N\u00e3o Saia do Meu Lado",
         "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 216127,
       "name": "N\u00e3o Saia do Meu Lado",
       "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
+        "name": "Encontrar Meu Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4YYey6sjR3pzeW1JfWqGne"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Saas",
+          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
+        },
+        {
+          "name": "Talita Dias",
+          "url": "https://open.spotify.com/artist/2ii8I9jF45XSJ5kVV0oFee"
+        }
+      ],
+      "duration_ms": 172487,
+      "name": "Encontrar Meu Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/3qLEegaEjCOxB18q1gb6J4"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "A Terra e o Lavrador",
-        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
-      },
-      "artists": [
-        {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
-        }
-      ],
-      "duration_ms": 200562,
-      "name": "A Terra e o Lavrador",
-      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
         "name": "Ref\u00e9m do Caminh\u00e3o",
         "url": "https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 276088,
       "name": "Ref\u00e9m do Caminh\u00e3o",
       "url": "https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
+        "name": "A Terra e o Lavrador",
+        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
+      },
+      "artists": [
+        {
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+        }
+      ],
+      "duration_ms": 200562,
+      "name": "A Terra e o Lavrador",
+      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
     },
     {
       "added_at": "2026-09-08 19:57:09",

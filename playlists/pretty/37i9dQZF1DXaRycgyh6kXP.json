@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 295975,
+  "num_followers": 296026,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACWLXuD5nUGfmoiJQfihh2g+2v1K",
+  "snapshot_id": "AAAAAMXVcCX6reTdwG/5qfa2wwj2YE9j",
   "tracks": [
     {
       "added_at": "2026-06-12 04:01:06",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
+        "name": "Gone To Earth (Remastered 2003)",
+        "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
+      },
+      "artists": [
+        {
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+        }
+      ],
+      "duration_ms": 141120,
+      "name": "Silver Moon Over Sleeping Steeples",
+      "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
         "name": "two more days",
         "url": "https://open.spotify.com/album/0tMLTrwCaJcqioPLMwxZBc"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 178500,
       "name": "little mystery",
       "url": "https://open.spotify.com/track/0BVIfVKh1wkQjNK32GMHM2"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Gone To Earth (Remastered 2003)",
-        "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
-      },
-      "artists": [
-        {
-          "name": "David Sylvian",
-          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Silver Moon Over Sleeping Steeples",
-      "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "X-Dream",
         "url": "https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 261335,
       "name": "X-Dream",
       "url": "https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Grafts",
-        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 1351601,
-      "name": "Grafts",
-      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "So Far South",
         "url": "https://open.spotify.com/album/351KmID7SmIWJOw8YmlSZj"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 221848,
       "name": "So Far South",
       "url": "https://open.spotify.com/track/5WV7YLYSsle4BYQwz613L2"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Grafts",
+        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 1351601,
+      "name": "Grafts",
+      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp"
+      },
+      "artists": [
+        {
+          "name": "Kllo",
+          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
+        }
+      ],
+      "duration_ms": 220355,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
         "name": "Flowerdrum",
         "url": "https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 248015,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/4XE1zWdwAyTxmzOom1wM3h"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp"
-      },
-      "artists": [
-        {
-          "name": "Kllo",
-          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
-        }
-      ],
-      "duration_ms": 220355,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
+        "name": "Saw You for the First Time",
+        "url": "https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 404630,
+      "name": "Saw You for the First Time",
+      "url": "https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 270918,
       "name": "Sugar for the Pill",
       "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Saw You for the First Time",
-        "url": "https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 404630,
-      "name": "Saw You for the First Time",
-      "url": "https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j"
     },
     {
       "added_at": "2026-06-12 04:01:06",

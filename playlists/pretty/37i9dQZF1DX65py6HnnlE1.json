@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 771088,
+  "num_followers": 771156,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKIj2woW0RQvsU+SvluYN7jw/ZXM",
+  "snapshot_id": "AAAAADsanqKHtTAd4iadI11SIbERSWS4",
   "tracks": [
     {
       "added_at": "2024-06-04 19:13:44",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Carta De Verano",
-        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
-      },
-      "artists": [
-        {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "Intentalo Tu",
-      "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 174573,
       "name": "Shorty, Shorty",
       "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Carta De Verano",
+        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
+      },
+      "artists": [
+        {
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "Intentalo Tu",
+      "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Con Mas Amor",
-        "url": "https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB"
-      },
-      "artists": [
-        {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
-        }
-      ],
-      "duration_ms": 238453,
-      "name": "Se Te Nota",
-      "url": "https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Dosis De Amor",
         "url": "https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 205480,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Con Mas Amor",
+        "url": "https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB"
+      },
+      "artists": [
+        {
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+        }
+      ],
+      "duration_ms": 238453,
+      "name": "Se Te Nota",
+      "url": "https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Y Los Claveles Mios",
-        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "El Verde de Tus Ojos",
-      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Loco De Amor",
         "url": "https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 252173,
       "name": "Ceniza fria",
       "url": "https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Y Los Claveles Mios",
+        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "El Verde de Tus Ojos",
+      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Bachata A Su Tiempo",
-        "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/3CWgv82JBVeL9KX48BNLmb"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "En Persona",
         "url": "https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 253893,
       "name": "Si Tu Me Dejas",
       "url": "https://open.spotify.com/track/2eMCoeD8MWC7sCTnMQTSkP"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Bachata A Su Tiempo",
+        "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/3CWgv82JBVeL9KX48BNLmb"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Bacha - Rengue: Lo Mejor De Los Toros Band",
-        "url": "https://open.spotify.com/album/4r5C6cEDcSziyc2K48izZe"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Quizas Si, Quizas No - Bachata Remix",
-      "url": "https://open.spotify.com/track/1ehvUn5ei1Ef4XiK7Q32rs"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Volvio el Dolor",
         "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 246333,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/4RzETuKgwfpRnUoi0TBZOL"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Bacha - Rengue: Lo Mejor De Los Toros Band",
+        "url": "https://open.spotify.com/album/4r5C6cEDcSziyc2K48izZe"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Quizas Si, Quizas No - Bachata Remix",
+      "url": "https://open.spotify.com/track/1ehvUn5ei1Ef4XiK7Q32rs"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "MerenHits '99",
-        "url": "https://open.spotify.com/album/1D26pHdjepPM7MGQln6in3"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "Me Dejaste Abandonado",
-      "url": "https://open.spotify.com/track/4wYgiYARSciofNZnAG3LLS"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "En Persona",
         "url": "https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 193480,
       "name": "Yo Mismo La Vi",
       "url": "https://open.spotify.com/track/5X1hQWcfE05YwwyDpyTtjk"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "MerenHits '99",
+        "url": "https://open.spotify.com/album/1D26pHdjepPM7MGQln6in3"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "Me Dejaste Abandonado",
+      "url": "https://open.spotify.com/track/4wYgiYARSciofNZnAG3LLS"
     },
     {
       "added_at": "2024-06-04 19:13:44",

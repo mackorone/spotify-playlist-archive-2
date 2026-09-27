@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,241 likes - 196 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,273 likes - 196 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 17 | [room enough \- solo piano](https://open.spotify.com/track/6cnk6JzRl70Mmo2NUzERFI) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [room enough](https://open.spotify.com/album/2fMH2sy4zccBBLhNJwcDiB) | 5:04 |
 | 18 | [MEM](https://open.spotify.com/track/0coFg5hgu9YBlSyEgFt1cC) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [Kluft](https://open.spotify.com/album/19Kk94KsyYLDwaPmPcJENH) | 4:25 |
 | 19 | [White Flowers Take Their Bath \- Version for Piano](https://open.spotify.com/track/62RdrnQoCnhdMfKgNCe42z) | [Meredi](https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H) | [Meredi: White Flowers Take Their Bath \(Version for Piano\)](https://open.spotify.com/album/1YOOl1LRKhoZ33cDnihiRZ) | 3:22 |
-| 20 | [Metamorphosis Two](https://open.spotify.com/track/70bIGumCDM0MT1gATtpO00) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Metamorphosis Two](https://open.spotify.com/album/4sMimTNCh4SkFhVzWL50Zj) | 6:56 |
+| 20 | [Metamorphosis Two](https://open.spotify.com/track/70bIGumCDM0MT1gATtpO00) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Metamorphosis Two](https://open.spotify.com/album/4sMimTNCh4SkFhVzWL50Zj) | 6:56 |
 | 21 | [4am feeling](https://open.spotify.com/track/0hYaiWcaYmFx6Blaa6tGwn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [4am feeling](https://open.spotify.com/album/6URUq1pOo7FVUTCIO2xkSk) | 3:00 |
 | 22 | [Portrait in Blue](https://open.spotify.com/track/23ShBU4Oyiknb2TqNSdwca) | [Gabriel Albuquerqüe](https://open.spotify.com/artist/2oA6iL2R3RUkHcmnC091P0), [Olexandr Ignatov](https://open.spotify.com/artist/5N4JPCILHmKjyrhr97DOpG) | [Portrait in Blue](https://open.spotify.com/album/016PuBM5FcC5JSSxL2LgHs) | 2:08 |
 | 23 | [Violet Dusk](https://open.spotify.com/track/7HHwJCUE6xSkSUCZymJ5mA) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Violet Dusk](https://open.spotify.com/album/6Uylgq6Iejh4Q20dKfTlEQ) | 2:14 |
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 195 | [Summer 1987.](https://open.spotify.com/track/2k7pE7D98DMSXaLc57tsG1) | [Christian.](https://open.spotify.com/artist/0pwpSckn3W7W3TSeAYZevV) | [Summer 1987.](https://open.spotify.com/album/4DXELJ6zegvkSUFDmYKKRv) | 2:59 |
 | 196 | [Dono Per un Addio](https://open.spotify.com/track/0u3w1DZDNaVkCIQCD5b4Mq) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#001 Coordinate](https://open.spotify.com/album/32zxMMLPHaqd6R5kEs1ayQ) | 4:21 |
 
-Snapshot ID: `AAAAADJwg5nRQao7WjFquBLBlOFnbS4R`
+Snapshot ID: `AAAAAALeZYL6RwzGwEqMtosX+YpiTHoh`

@@ -4,7 +4,7 @@
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-100 songs - 5 hr 27 min
+101 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [De Qué Te Vale Fingir \(feat\. Regina Blandón\)](https://open.spotify.com/track/3FxBOibeL5odJlHznvyLQ2) | [Mentiras: La Serie](https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Mariana Treviño](https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM), [Diana Bovio](https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp), [Regina Blandón](https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ) | [Mentiras: La Serie \(Music from the Original TV Series\)](https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg) | 2:47 | 2025-06-20 | 2025-06-22 |
 | [Desesperada \(feat\. Belinda\)](https://open.spotify.com/track/26ywANcomUjNBQWTuAHBGt) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 3:23 | 2024-06-27 | 2025-05-10 |
 | [Detrás De Mi Ventana](https://open.spotify.com/track/1CQ5fSPQCQe54kkh4lPIRE) | [Mentiras: La Serie](https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Mentiras: La Serie \(Music from the Original TV Series\)](https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg) | 2:40 | 2025-06-16 | 2025-07-07 |
-| [DOLCE VITA](https://open.spotify.com/track/7lM4pBtnoHScsZaxTSWCvS) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [DOLCE VITA](https://open.spotify.com/album/5F5UJNfmsy94fLpG6i3xL2) | 3:10 | 2026-08-30 |  |
+| [DOLCE VITA](https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [WET DREAMS](https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr) | 3:10 | 2026-09-27 |  |
+| [DOLCE VITA](https://open.spotify.com/track/7lM4pBtnoHScsZaxTSWCvS) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [DOLCE VITA](https://open.spotify.com/album/5F5UJNfmsy94fLpG6i3xL2) | 3:10 | 2026-08-30 | 2026-09-27 |
 | [Donde Está el Amor](https://open.spotify.com/track/2zgqg6VP23XElZosH6f87V) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Silvana \- Cómplices Al Rescate](https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc) | 3:13 | 2025-01-07 | 2025-01-25 |
 | [Dopamina](https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:15 | 2023-11-10 |  |
 | [Déjate Llevar](https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Snova](https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj), [B\-Case](https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj) | [4.0](https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq) | 3:53 | 2023-11-10 |  |

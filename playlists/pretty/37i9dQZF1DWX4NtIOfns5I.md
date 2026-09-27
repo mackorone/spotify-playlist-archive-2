@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > it's finally folk weather 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,887 likes - 130 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,157 likes - 130 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 129 | [Finish Line](https://open.spotify.com/track/4tGVYB2GmhidTUN7hv6Rwt) | [Sean Solomon](https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3) | [Finish Line](https://open.spotify.com/album/69yBujeTPGK2rC2qFcdS9X) | 3:20 |
 | 130 | [All Them Horses](https://open.spotify.com/track/4y3VBhJPEztyRmNxfK3tZ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:13 |
 
-Snapshot ID: `AAAAAGeJxNskUkG/4l+3bD3MjDMF4N0c`
+Snapshot ID: `AAAAAFnXxg6toMEr+EXxw+mH4yhAWQct`

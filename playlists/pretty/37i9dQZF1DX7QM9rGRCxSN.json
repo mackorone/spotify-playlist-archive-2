@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJYJ2/4t5avTDZTsD47fEhu5Rp9n",
+  "snapshot_id": "AAAAAIsRqbavYYnfoHdpMuECHYlUPkIF",
   "tracks": [
     {
       "added_at": "2026-09-25 06:00:16",
@@ -447,18 +447,18 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Efecto Placebo",
-        "url": "https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J"
+        "name": "El Mejor Regalo De Nuestras Vidas",
+        "url": "https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q"
       },
       "artists": [
         {
-          "name": "DOSMILDOS",
-          "url": "https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh"
+          "name": "Procrastinaci\u00f3n 1 Yo 0",
+          "url": "https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT"
         }
       ],
-      "duration_ms": 136250,
-      "name": "Efecto Placebo",
-      "url": "https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM"
+      "duration_ms": 176896,
+      "name": "Santa Rosa",
+      "url": "https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -479,34 +479,18 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "El Mejor Regalo De Nuestras Vidas",
-        "url": "https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q"
+        "name": "Efecto Placebo",
+        "url": "https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J"
       },
       "artists": [
         {
-          "name": "Procrastinaci\u00f3n 1 Yo 0",
-          "url": "https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT"
+          "name": "DOSMILDOS",
+          "url": "https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh"
         }
       ],
-      "duration_ms": 176896,
-      "name": "Santa Rosa",
-      "url": "https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
-        "name": "Muchas Formas de Decir Casa",
-        "url": "https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u"
-      },
-      "artists": [
-        {
-          "name": "recuerdo acariciar con miedo las alas de un ave herida",
-          "url": "https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Jard\u00edn de Plastilina",
-      "url": "https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9"
+      "duration_ms": 136250,
+      "name": "Efecto Placebo",
+      "url": "https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -523,6 +507,22 @@
       "duration_ms": 174954,
       "name": "Apareces despu\u00e9s de tres veranos",
       "url": "https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
+        "name": "Muchas Formas de Decir Casa",
+        "url": "https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u"
+      },
+      "artists": [
+        {
+          "name": "recuerdo acariciar con miedo las alas de un ave herida",
+          "url": "https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Jard\u00edn de Plastilina",
+      "url": "https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Bronson EP",
-        "url": "https://open.spotify.com/album/4OdLFfpAjb9mUJ3yDRx7T4"
-      },
-      "artists": [
-        {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
-        }
-      ],
-      "duration_ms": 246150,
-      "name": "Un Sue\u00f1o de Verano",
-      "url": "https://open.spotify.com/track/55L5TeONXEkfsMIovkKg7h"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
         "name": "Principios Y Fundamentos De La Fauna Moderna",
         "url": "https://open.spotify.com/album/2QEPAzajwc62HOtrtEghxK"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 325853,
       "name": "Mera Telos & Letpig Adventure",
       "url": "https://open.spotify.com/track/3eUYUFu7PhhxWSIV8c3uX6"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
+        "name": "Bronson EP",
+        "url": "https://open.spotify.com/album/4OdLFfpAjb9mUJ3yDRx7T4"
+      },
+      "artists": [
+        {
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+        }
+      ],
+      "duration_ms": 246150,
+      "name": "Un Sue\u00f1o de Verano",
+      "url": "https://open.spotify.com/track/55L5TeONXEkfsMIovkKg7h"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
+        "name": "Y Si un D\u00eda Explota el Planeta Quiero Tenerte Cerca",
+        "url": "https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy"
+      },
+      "artists": [
+        {
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "El Club Internacional de Astronautas Fracasados",
+      "url": "https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
         "name": "respirar en cuadro",
         "url": "https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 373184,
       "name": "respirar en cuadro",
       "url": "https://open.spotify.com/track/5FH5wUNZEMJQRyYL4Fc6fg"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
-        "name": "Y Si un D\u00eda Explota el Planeta Quiero Tenerte Cerca",
-        "url": "https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy"
-      },
-      "artists": [
-        {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "El Club Internacional de Astronautas Fracasados",
-      "url": "https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT"
     },
     {
       "added_at": "2026-09-25 06:00:16",

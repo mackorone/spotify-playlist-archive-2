@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1618801,
+  "num_followers": 1618864,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMBCyfWHx/13NMa1KUqQLMWy/z8+",
+  "snapshot_id": "AAAAABTs+2LvTrsZU0zbeubjPJrHUN+N",
   "tracks": [
     {
       "added_at": "2026-09-25 04:00:40",
@@ -1087,70 +1087,6 @@
     {
       "added_at": "2026-09-25 04:00:40",
       "album": {
-        "name": "Lily At The Valley",
-        "url": "https://open.spotify.com/album/4Y9EfYbI1Ipndpa8dW5k9S"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Lily At The Valley",
-      "url": "https://open.spotify.com/track/3avOclxFrt13MiZlRJT7Lj"
-    },
-    {
-      "added_at": "2026-09-25 04:00:40",
-      "album": {
-        "name": "Too High",
-        "url": "https://open.spotify.com/album/6YM7T0RhXNIUaZoF2ebETy"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 367973,
-      "name": "Too High",
-      "url": "https://open.spotify.com/track/7GsgjLyOXrcGHELD2Zt5dl"
-    },
-    {
-      "added_at": "2026-09-25 04:00:40",
-      "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 305235,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
-    },
-    {
-      "added_at": "2026-09-25 04:00:40",
-      "album": {
-        "name": "undux",
-        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "obvious",
-      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
-    },
-    {
-      "added_at": "2026-09-25 04:00:40",
-      "album": {
         "name": "Love Me Again",
         "url": "https://open.spotify.com/album/3pmq8saXKW47PbcAGvBQNA"
       },
@@ -1175,6 +1111,70 @@
       "duration_ms": 195000,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/537GgjNn5YFi3OmjSKjBcq"
+    },
+    {
+      "added_at": "2026-09-25 04:00:40",
+      "album": {
+        "name": "Lily At The Valley",
+        "url": "https://open.spotify.com/album/4Y9EfYbI1Ipndpa8dW5k9S"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Lily At The Valley",
+      "url": "https://open.spotify.com/track/3avOclxFrt13MiZlRJT7Lj"
+    },
+    {
+      "added_at": "2026-09-25 04:00:40",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 305235,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
+    },
+    {
+      "added_at": "2026-09-25 04:00:40",
+      "album": {
+        "name": "Too High",
+        "url": "https://open.spotify.com/album/6YM7T0RhXNIUaZoF2ebETy"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 367973,
+      "name": "Too High",
+      "url": "https://open.spotify.com/track/7GsgjLyOXrcGHELD2Zt5dl"
+    },
+    {
+      "added_at": "2026-09-25 04:00:40",
+      "album": {
+        "name": "undux",
+        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "obvious",
+      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
     },
     {
       "added_at": "2026-09-25 04:00:40",
@@ -1491,30 +1491,6 @@
     {
       "added_at": "2026-09-25 04:00:40",
       "album": {
-        "name": "High On A Feeling",
-        "url": "https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR"
-      },
-      "artists": [
-        {
-          "name": "Layla Benitez",
-          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
-        },
-        {
-          "name": "FR3ADY",
-          "url": "https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya"
-        },
-        {
-          "name": "JULIANNA",
-          "url": "https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q"
-        }
-      ],
-      "duration_ms": 211535,
-      "name": "High On A Feeling",
-      "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
-    },
-    {
-      "added_at": "2026-09-25 04:00:40",
-      "album": {
         "name": "Sirius",
         "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
       },
@@ -1551,6 +1527,30 @@
       "duration_ms": 211875,
       "name": "Beg You",
       "url": "https://open.spotify.com/track/2qUH8eikN8whXYSG9Pyu2l"
+    },
+    {
+      "added_at": "2026-09-25 04:00:40",
+      "album": {
+        "name": "High On A Feeling",
+        "url": "https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR"
+      },
+      "artists": [
+        {
+          "name": "Layla Benitez",
+          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
+        },
+        {
+          "name": "FR3ADY",
+          "url": "https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya"
+        },
+        {
+          "name": "JULIANNA",
+          "url": "https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q"
+        }
+      ],
+      "duration_ms": 211535,
+      "name": "High On A Feeling",
+      "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
     },
     {
       "added_at": "2026-09-25 04:00:40",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-09-25 04:00:40",
       "album": {
-        "name": "More than enough...",
-        "url": "https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "More than enough...",
-      "url": "https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW"
-    },
-    {
-      "added_at": "2026-09-25 04:00:40",
-      "album": {
         "name": "London To Buenos Aires",
         "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 185943,
       "name": "London To Buenos Aires",
       "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
+    },
+    {
+      "added_at": "2026-09-25 04:00:40",
+      "album": {
+        "name": "More than enough...",
+        "url": "https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "More than enough...",
+      "url": "https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW"
     },
     {
       "added_at": "2026-09-25 04:00:40",
@@ -1747,22 +1747,22 @@
     {
       "added_at": "2026-09-25 04:00:40",
       "album": {
-        "name": "before you go",
-        "url": "https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS"
+        "name": "I'm On My Way",
+        "url": "https://open.spotify.com/album/1PmoRrq9lPAVg7uDGOWyX7"
       },
       "artists": [
         {
-          "name": "Gareth Emery",
-          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
         },
         {
-          "name": "LSR/CITY",
-          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
+          "name": "Elmar",
+          "url": "https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom"
         }
       ],
-      "duration_ms": 258750,
-      "name": "before you go",
-      "url": "https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd"
+      "duration_ms": 207619,
+      "name": "I'm On My Way",
+      "url": "https://open.spotify.com/track/41mux6XUTiOdDnlk0UFo9Y"
     },
     {
       "added_at": "2026-09-25 04:00:40",
@@ -1783,22 +1783,22 @@
     {
       "added_at": "2026-09-25 04:00:40",
       "album": {
-        "name": "I'm On My Way",
-        "url": "https://open.spotify.com/album/1PmoRrq9lPAVg7uDGOWyX7"
+        "name": "before you go",
+        "url": "https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS"
       },
       "artists": [
         {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
         },
         {
-          "name": "Elmar",
-          "url": "https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom"
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
         }
       ],
-      "duration_ms": 207619,
-      "name": "I'm On My Way",
-      "url": "https://open.spotify.com/track/41mux6XUTiOdDnlk0UFo9Y"
+      "duration_ms": 258750,
+      "name": "before you go",
+      "url": "https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd"
     },
     {
       "added_at": "2026-09-25 04:00:40",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2026-09-25 04:00:40",
       "album": {
-        "name": "SYNCHRONICITY",
-        "url": "https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX"
-      },
-      "artists": [
-        {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
-        }
-      ],
-      "duration_ms": 257641,
-      "name": "million angels",
-      "url": "https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x"
-    },
-    {
-      "added_at": "2026-09-25 04:00:40",
-      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/0AlqNZFSsJlDIoMBvrrZtF"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 227520,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/4pNicFII86qbS5BgFkx6Wa"
+    },
+    {
+      "added_at": "2026-09-25 04:00:40",
+      "album": {
+        "name": "SYNCHRONICITY",
+        "url": "https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        }
+      ],
+      "duration_ms": 257641,
+      "name": "million angels",
+      "url": "https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x"
     }
   ],
   "unique_name": "Night Rider",

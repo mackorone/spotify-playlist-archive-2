@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 179080,
       "name": "Allo +33",
       "url": "https://open.spotify.com/track/6FihzjoDS2dCUtoqsYdCTa"
@@ -5766,7 +5766,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 175346,
       "name": "Baraque au Bled",
       "url": "https://open.spotify.com/track/4DOmaofCT3iUb6dMllhWBc"
@@ -6366,7 +6366,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 123870,
       "name": "Belvedere",
       "url": "https://open.spotify.com/track/5HjHYoZgZCeNvxG0IgmSNE"
@@ -6480,6 +6480,28 @@
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq"
     },
     {
       "album": {
@@ -7622,6 +7644,36 @@
       "duration_ms": 178373,
       "name": "Bottega",
       "url": "https://open.spotify.com/track/5oc1MmKFXsjoGrhfa6WHsx"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Kuluna",
+          "url": "https://open.spotify.com/artist/18jBytaaeJvpjQvzUHUkt8"
+        },
+        {
+          "name": "TVLM",
+          "url": "https://open.spotify.com/artist/6LNDkL0VeHXi0fMuefWS1w"
+        },
+        {
+          "name": "Nooche",
+          "url": "https://open.spotify.com/artist/6Ew5Gh5glSE5dyzXJ1APWO"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250040,
+      "name": "Bottega",
+      "url": "https://open.spotify.com/track/5yKBO56nUhj1lDFBFqF9SK"
     },
     {
       "album": {
@@ -9097,6 +9149,24 @@
     },
     {
       "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200786,
+      "name": "Cam\u00e9l\u00e9on",
+      "url": "https://open.spotify.com/track/2zi3rXvURh2kGUBKC3TBN0"
+    },
+    {
+      "album": {
         "name": "Ar\u00e8s",
         "url": "https://open.spotify.com/album/7lN0D0jbfIEyvkk9cw0wKL"
       },
@@ -10464,7 +10534,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 212093,
       "name": "Chemin d'or",
       "url": "https://open.spotify.com/track/5kfAx6phDHPpz5g8IAPyc2"
@@ -11116,7 +11186,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 157440,
       "name": "Cleopatre",
       "url": "https://open.spotify.com/track/1qdDVd1EMBHirJUs6RuD1r"
@@ -13152,6 +13222,24 @@
       "duration_ms": 365320,
       "name": "C\u0153ur de pirate",
       "url": "https://open.spotify.com/track/2InKuNaoyiBDf4dmr780BZ"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180186,
+      "name": "C\u0153ur De Pirate",
+      "url": "https://open.spotify.com/track/3KfdpLKJxBGrUnCw8KBOCR"
     },
     {
       "album": {
@@ -24088,7 +24176,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 210929,
       "name": "Jamais rentr\u00e9 - Nouvelle \u00c9cole x CUPRA",
       "url": "https://open.spotify.com/track/3kjGHqIdeOckXaOiLW0nCu"
@@ -24526,6 +24614,28 @@
       "duration_ms": 172600,
       "name": "Jerrican (feat. La Mano 1.9)",
       "url": "https://open.spotify.com/track/1Rn5zyHq4ocm7L5LSplVAB"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/5CYfZNnRoSRzMwaLyl4ey1"
     },
     {
       "album": {
@@ -25024,6 +25134,24 @@
       "duration_ms": 143764,
       "name": "Journ\u00e9e",
       "url": "https://open.spotify.com/track/1R0mCgczlcTI3K3FsKoXum"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139386,
+      "name": "Juda",
+      "url": "https://open.spotify.com/track/0yc4MkFEnCftIlB5Pp3B2H"
     },
     {
       "album": {
@@ -26853,6 +26981,28 @@
     },
     {
       "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221053,
+      "name": "La Nocturne",
+      "url": "https://open.spotify.com/track/2fsZNGcGb7KVfcp3PlXgcD"
+    },
+    {
+      "album": {
         "name": "Chambre 140 (Part.1)",
         "url": "https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s"
       },
@@ -27334,7 +27484,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -28653,6 +28803,24 @@
     },
     {
       "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191533,
+      "name": "Les mis\u00e9rables",
+      "url": "https://open.spotify.com/track/1nDPTW0GvMR2K0ImXtZlrI"
+    },
+    {
+      "album": {
         "name": "La fuite en avant",
         "url": "https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS"
       },
@@ -29682,7 +29850,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -33791,6 +33959,24 @@
     },
     {
       "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190640,
+      "name": "Mode de vie",
+      "url": "https://open.spotify.com/track/7j6Gf8nRaGFP9AITp30nHn"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -34668,17 +34854,13 @@
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
-        },
-        {
           "name": "Ultra Nat\u00e9",
           "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
         }
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -35200,10 +35382,28 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 156066,
       "name": "M\u00e9lo D\u00e9cal\u00e9",
       "url": "https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156066,
+      "name": "M\u00e9lo D\u00e9cal\u00e9",
+      "url": "https://open.spotify.com/track/7u9rlQE3TbZPjNCQFdoLvO"
     },
     {
       "album": {
@@ -38706,7 +38906,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 141266,
       "name": "PARLU",
       "url": "https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA"
@@ -38996,6 +39196,24 @@
       "duration_ms": 169256,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
       "album": {
@@ -40946,7 +41164,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 168990,
       "name": "POUSSETTE - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/6uwsbNdXdKmxqTbXj5mbwo"
@@ -44419,6 +44637,24 @@
     },
     {
       "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211413,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/5UXIK2EHtxq0dGBYuIFzQJ"
+    },
+    {
+      "album": {
         "name": "The Christmas Present (Deluxe)",
         "url": "https://open.spotify.com/album/1OlowpqFwtb6NiZVJ1Wmk4"
       },
@@ -44696,6 +44932,24 @@
       "duration_ms": 205000,
       "name": "Savage",
       "url": "https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/48clu1D6gw4RXtPDBXYPGj"
     },
     {
       "album": {
@@ -45170,7 +45424,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 138591,
       "name": "Serrure #5",
       "url": "https://open.spotify.com/track/74bFjTmlTbZVH9lG3EH7C2"
@@ -45272,7 +45526,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 151040,
       "name": "Seul ennemi",
       "url": "https://open.spotify.com/track/07tEl0vwA8LzXLqWPYApjF"
@@ -52958,7 +53212,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 120013,
       "name": "Upa Solide",
       "url": "https://open.spotify.com/track/16OTtjOAQJZ2gaPde7ieDS"
@@ -53750,6 +54004,28 @@
       "duration_ms": 175400,
       "name": "Vrai / Faux",
       "url": "https://open.spotify.com/track/7c8hPeNvH3bWnQPqaVBIst"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Bn\u00e9",
+          "url": "https://open.spotify.com/artist/3hQ27Y8FYXpQBG1zGBU889"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217813,
+      "name": "Vrai OG",
+      "url": "https://open.spotify.com/track/3R03Nd1OdKAWCnJesWYWoi"
     },
     {
       "album": {
@@ -54718,7 +54994,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 168000,
       "name": "Winter Melo Music",
       "url": "https://open.spotify.com/track/5INg8NHksaJ4yDDFMrVlQO"
@@ -54891,6 +55167,24 @@
     },
     {
       "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269546,
+      "name": "WpointM",
+      "url": "https://open.spotify.com/track/7hs6wa2R4fJeVVLiAknu8q"
+    },
+    {
+      "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y"
       },
@@ -54920,7 +55214,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 132426,
       "name": "Wu Tang Clan",
       "url": "https://open.spotify.com/track/7q6DggdaJKYc2tr2XgrKP7"

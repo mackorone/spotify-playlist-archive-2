@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > party time 🙂‍↔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,859 likes - 92 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,843 likes - 92 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 91 | [Moon](https://open.spotify.com/track/5XNlfqa1h8R8n5WneARCZJ) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Moon](https://open.spotify.com/album/28nsJk3KI30yHBehakxirS) | 2:33 |
 | 92 | [CONSTANTLY](https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [CONSTANTLY](https://open.spotify.com/album/213P10SLkkkRltYI9bbh2V) | 3:02 |
 
-Snapshot ID: `AAAAAPLNJ3WkYvg3+Ac1Xv3YVexJbKHZ`
+Snapshot ID: `AAAAALu3Bo84C1MSxchkTnIJSvlVwhhf`

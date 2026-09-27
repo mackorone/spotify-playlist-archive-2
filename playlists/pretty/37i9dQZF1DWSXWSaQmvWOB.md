@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Aaron Frazer
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,425 likes - 110 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,448 likes - 110 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 109 | [Stuck In My Head](https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP) | 3:39 |
 | 110 | [What You Waiting For](https://open.spotify.com/track/7M2DbRhTl0wHZzeHGVZvn6) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [What You Waiting For](https://open.spotify.com/album/2iKLXxZIGM4af8GBn2RC7K) | 3:53 |
 
-Snapshot ID: `AAAAAOjUEVNgM4Rtr/8RRi4GQvMnySFL`
+Snapshot ID: `AAAAAOZzJYCIP94RUuCGYON6BbGgxEQo`

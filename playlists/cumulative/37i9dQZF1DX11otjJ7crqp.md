@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: Madonna & Charli xcx
 
-12,241 songs - 25 day 16 hr 9 min
+12,242 songs - 25 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3481,6 +3481,7 @@
 | [Family Out Of Friends](https://open.spotify.com/track/7tfHEAIiDswTzXPHuAG8Qb) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Let The Light In](https://open.spotify.com/album/7bM1GKA0zREafTz0rmbtBk) | 3:05 | 2025-06-06 | 2025-06-21 |
 | [Family, Man](https://open.spotify.com/track/1ybiXCaXIx3XwFRadx08cs) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [two](https://open.spotify.com/album/3yEJgyvpFHo7FhnxZyyFz3) | 3:10 | 2022-11-11 | 2022-11-19 |
 | [Famous](https://open.spotify.com/track/0cz6qSzkir8nTisZHqcZ32) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Famous](https://open.spotify.com/album/2t9SayRbAQdMAEsBTbqsf3) | 2:43 | 2025-02-28 | 2025-03-15 |
+| [Famous](https://open.spotify.com/track/5wrkrATL6jGw3eUYBTbicS) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [Famous](https://open.spotify.com/album/7hVMnvyn0hdkAGSrO6U0du) | 3:10 | 2026-09-26 |  |
 | [Famous](https://open.spotify.com/track/5x1TPsoSvyrZkJM9JXRiWj) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Famous](https://open.spotify.com/album/1qhzuAx20QoG9IIcl2X4Me) | 3:00 | 2024-07-12 | 2024-07-27 |
 | [Fan](https://open.spotify.com/track/3KpVGPgkDtOWneQhRsMJVp) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Fan](https://open.spotify.com/album/3yly0hxBli17v8ZfXcbCvD) | 3:31 | 2025-01-31 | 2025-02-15 |
 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-20 | 2025-01-18 |
@@ -5591,7 +5592,7 @@
 | [If You Wanted To You Would](https://open.spotify.com/track/01jl3FtqB1oxkYH9Bhg3ez) | [Madison Watkins](https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT) | [If You Wanted To You Would](https://open.spotify.com/album/5jfYqPDDr1DXGXu0aysRYW) | 3:37 | 2022-05-27 | 2022-06-11 |
 | [If You Were A Person \(Ruby's Song\)](https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Ruby](https://open.spotify.com/album/034C9JToBoiKfx0ftERpiy) | 2:46 | 2024-09-20 | 2024-10-05 |
 | [If You Were My Girl](https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [If You Were My Girl](https://open.spotify.com/album/43wlF18ahRAesAEW0SIslv) | 3:07 | 2024-08-02 | 2024-08-17 |
-| [If You're Gonna Love Me](https://open.spotify.com/track/54JEWnSMLNAM5i89ikjC6N) | [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [If You're Gonna Love Me](https://open.spotify.com/album/2o9thAWLcPailj7dJZ4MoO) | 2:52 | 2026-09-11 |  |
+| [If You're Gonna Love Me](https://open.spotify.com/track/54JEWnSMLNAM5i89ikjC6N) | [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [If You're Gonna Love Me](https://open.spotify.com/album/2o9thAWLcPailj7dJZ4MoO) | 2:52 | 2026-09-11 | 2026-09-27 |
 | [If You're Serious](https://open.spotify.com/track/6pRI86HJJg7bsCDWn2dt1N) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:44 | 2022-05-13 | 2022-06-04 |
 | [If You’re Into That](https://open.spotify.com/track/4BkQq2ZQ5ziixtXfMS8Oab) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Roses](https://open.spotify.com/album/6SELPx1TMG3G328lQ9euY7) | 2:41 | 2025-10-17 | 2025-11-01 |
 | [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-23 | 2024-09-07 |

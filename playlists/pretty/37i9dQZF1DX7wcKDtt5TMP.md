@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wcKDtt5TMP.md) - [plain]
 
 > Lo mejor del rock en español en la década de los 80\. Foto: Los Prisioneros
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,823 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,897 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wcKDtt5TMP.md) - [plain]
 | 49 | [We Are Sudamerican Rockers \- 2002 Digital Remaster](https://open.spotify.com/track/2Q2zvWmsnfSFBMfqWXeVkD) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [We Are Sudamerican Rockers](https://open.spotify.com/album/2D8p4bqQ0YzEdqDfHTAxwe) | 3:37 |
 | 50 | [Veneno en la Piel](https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Veneno En La Piel](https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O) | 3:45 |
 
-Snapshot ID: `AAAAAGHj0KgTYC1wdlQHKt7p2D2ihJPR`
+Snapshot ID: `AAAAALPtMXPRAyNBhTYu+J44LpV7cwnb`

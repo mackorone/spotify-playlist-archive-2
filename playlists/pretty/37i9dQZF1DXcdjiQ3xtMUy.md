@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Akylas
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,538 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,535 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mazi Ki Antitheta](https://open.spotify.com/track/2khh4LozGAaZ6fUyqp8Ofc) | [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL) | [Mazi Ki Antitheta](https://open.spotify.com/album/6woQnb2da81Dfui9LRSemo) | 2:37 |
+| 1 | [Mazi Ki Antitheta](https://open.spotify.com/track/2khh4LozGAaZ6fUyqp8Ofc) | [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL), [Christos Stylianou](https://open.spotify.com/artist/1cEq675wyqjilDH9DR4N8t), [Lina Dimopoulou](https://open.spotify.com/artist/1gRihTpVCK8jdSpAw46W3R) | [Mazi Ki Antitheta](https://open.spotify.com/album/6woQnb2da81Dfui9LRSemo) | 2:37 |
 | 2 | [Oxi Giati](https://open.spotify.com/track/7uQ9eH88v18BAlugjw5TtK) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Oxi Giati](https://open.spotify.com/album/1DSDUTin82K7g5KXjxITpn) | 3:53 |
 | 3 | [Pulp Fiction](https://open.spotify.com/track/0ZKnuQTMBuxQRRf7IwLjpp) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [Pulp Fiction](https://open.spotify.com/album/7hexRRKeti0eNJ1WuW4XSq) | 2:27 |
 | 4 | [Ainte](https://open.spotify.com/track/0edeAiiIQUy1L8jDrJD0hK) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Ainte](https://open.spotify.com/album/5sbfSHKgCv3y2mP4ouU396) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Fotia Sti Nihta](https://open.spotify.com/track/6JsLcU3XFElXEhC7tPbeIl) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A) | [Fotia Sti Nihta](https://open.spotify.com/album/1lPjjBHjkvjugsBGIlO8hW) | 3:18 |
 | 50 | [Rebetiko](https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Rebetiko](https://open.spotify.com/album/5vbHVcCQ2492sXESGmjdWd) | 2:23 |
 
-Snapshot ID: `AAAAADFeXAVc1FIt3uPUoaf6nz4yNKvr`
+Snapshot ID: `AAAAAHL/MkSpV/b5+brS7bbISRH209aP`

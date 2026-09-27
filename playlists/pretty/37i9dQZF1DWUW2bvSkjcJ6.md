@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Taylor Swift, Dardan, Madonna, Berq, Charli xcx, Nico Santos & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,610 likes - 99 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,586 likes - 99 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 20 | [Powerade](https://open.spotify.com/track/1LbhmgRTckgra2d1bpm8H5) | [Yuyu19](https://open.spotify.com/artist/3wuA3QZh6k6Vz9XQmVes4B), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [H\*\*\*\*\*](https://open.spotify.com/album/62cOQGK43njV8YdsjzUrKt) | 2:12 |
 | 21 | [WhatsApp Chat](https://open.spotify.com/track/6b017cWxlo5DTLl6nRoZjC) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [Whatsapp Chat](https://open.spotify.com/album/5eXdBnvdp4q9NKpX4WCuYi) | 2:06 |
 | 22 | [tgif](https://open.spotify.com/track/0Ii8PZ7po2f8cZ8AhbkWyn) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Big Pat](https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl) | [tgif](https://open.spotify.com/album/6wcSyUtOyOkMBXQnOtAYEs) | 2:29 |
-| 23 | [fliegen](https://open.spotify.com/track/2NYJv15WMhGbFN7L6CQQWi) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [fliegen](https://open.spotify.com/album/1GdGfvTaKumEUV2rXemugH) | 2:37 |
+| 23 | [fliegen](https://open.spotify.com/track/2NYJv15WMhGbFN7L6CQQWi) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [GX488](https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa) | [fliegen](https://open.spotify.com/album/1GdGfvTaKumEUV2rXemugH) | 2:37 |
 | 24 | [Down](https://open.spotify.com/track/5kgirqD4Vp21Svujvqp4BO) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Ich muss dir noch was sagen](https://open.spotify.com/album/09MetCSISjGGdKhi7RTlt0) | 2:17 |
 | 25 | [Stadt aus Gold](https://open.spotify.com/track/475jwu5RBpD1F0EcJXB07s) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [Stadt aus Gold](https://open.spotify.com/album/6XqupHB3SCyej5CT2ngDGb) | 2:38 |
 | 26 | [Nobody Wanna Dance Anymore](https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:20 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 98 | [Make Me Love You](https://open.spotify.com/track/5V2IZZoO8p054tU9tQd44V) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Make Me Love You](https://open.spotify.com/album/02D1TfylQ6y4nrGBX6FR2c) | 3:34 |
 | 99 | [Weiter immer weiter \(feat\. Achim Petry & Giorgio Petry\)](https://open.spotify.com/track/0boNUDgB60tn8TbtqZrvlu) | [Wolfgang Petry](https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7), [Achim Petry](https://open.spotify.com/artist/7yLO4Ygbcf4YvYkcPupU9h), [Giorgio Petry](https://open.spotify.com/artist/4UwA4f4zLDR3GzmvtCJcF1) | [Ein Leben lang](https://open.spotify.com/album/7CF7QhrboSMiaEBzDN0Bf1) | 3:11 |
 
-Snapshot ID: `AAAAADN/2PUP9PNwqJcChyi+/kX51x5Q`
+Snapshot ID: `AAAAAJn1H/k+2KBDtvlkB4jI53ycxx2/`

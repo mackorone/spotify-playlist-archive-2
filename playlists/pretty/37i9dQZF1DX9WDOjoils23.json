@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 45571,
+  "num_followers": 45618,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADKkIHZU5DIaf+xvKWv18TOIg0qB",
+  "snapshot_id": "AAAAAKnZAjvdafQ1Lq4rlhcenCm+iEvK",
   "tracks": [
     {
       "added_at": "2026-09-03 17:28:17",
@@ -115,26 +115,6 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
-        "name": "Ranjha Ranjha",
-        "url": "https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq"
-      },
-      "artists": [
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        },
-        {
-          "name": "Noor Mohammad",
-          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
-        }
-      ],
-      "duration_ms": 184295,
-      "name": "Ranjha Ranjha",
-      "url": "https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
         "name": "Dil Udeya (From \"Singh Vs Kaur 2\")",
         "url": "https://open.spotify.com/album/38z25IqJscmjWtolWYlhlG"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 209516,
       "name": "Dil Udeya (From \"Singh Vs Kaur 2\")",
       "url": "https://open.spotify.com/track/6fCkK7jPK7le0ijFcAGWW6"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
+        "name": "Ranjha Ranjha",
+        "url": "https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Noor Mohammad",
+          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
+        }
+      ],
+      "duration_ms": 184295,
+      "name": "Ranjha Ranjha",
+      "url": "https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf"
     },
     {
       "added_at": "2026-09-03 17:28:17",
@@ -315,6 +315,26 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
+        "name": "Pinjar",
+        "url": "https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa"
+      },
+      "artists": [
+        {
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
+        },
+        {
+          "name": "Preeti Uttam",
+          "url": "https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU"
+        }
+      ],
+      "duration_ms": 543346,
+      "name": "Waris Shah Nu",
+      "url": "https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
         "name": "Mere Naal Tu (From \"Saunkan Saunkanay 2\")",
         "url": "https://open.spotify.com/album/0BgJP0vKH3SSo9HEioobNL"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 209117,
       "name": "Mere Naal Tu (From \"Saunkan Saunkanay 2\")",
       "url": "https://open.spotify.com/track/5P7xp0OHMszQYHbRlCj6Lu"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
-        "name": "Pinjar",
-        "url": "https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa"
-      },
-      "artists": [
-        {
-          "name": "Wadali Brothers",
-          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
-        },
-        {
-          "name": "Preeti Uttam",
-          "url": "https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU"
-        }
-      ],
-      "duration_ms": 543346,
-      "name": "Waris Shah Nu",
-      "url": "https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG"
     },
     {
       "added_at": "2026-09-03 17:28:17",

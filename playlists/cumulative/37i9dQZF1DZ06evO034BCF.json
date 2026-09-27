@@ -741,6 +741,36 @@
     },
     {
       "album": {
+        "name": "Lalo: Symphonie espagnole, Op. 21: I. Allegro non troppo",
+        "url": "https://open.spotify.com/album/5EQgHlE2nSD2GCNH7PDwIv"
+      },
+      "artists": [
+        {
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504733,
+      "name": "Symphonie espagnole, Op. 21: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/1iCkBg993KuHJXRBStcF28"
+    },
+    {
+      "album": {
         "name": "Homage to Heifetz",
         "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
       },

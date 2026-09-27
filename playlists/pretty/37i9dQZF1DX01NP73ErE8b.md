@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani di cui siamo ossessionati 🎧 Annalisa e Madame in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,492 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,495 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 74 | [Menta](https://open.spotify.com/track/19wKMAAoVgsRDNUDlzsYKD) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Menta](https://open.spotify.com/album/7D0f3jKkX6xxEKQziwCWv5) | 3:11 |
 | 75 | [VITA MORTE MIRACOLI](https://open.spotify.com/track/5kTTmHImyUi7JirBBC9iOq) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [VITA MORTE MIRACOLI](https://open.spotify.com/album/40r7qBVfienPoRHOuJhluR) | 2:55 |
 
-Snapshot ID: `AAAAAK7ysse9bT3QpAYYsBYqP3KuNlgR`
+Snapshot ID: `AAAAALAJA1VdIbsWdNVZvu4B+VIakCHd`

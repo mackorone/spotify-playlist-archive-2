@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits avec Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,454 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,475 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
 | 50 | [Bella Vita](https://open.spotify.com/track/6bDXDC1meVMo6NyzH7VoxB) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Bella Vita](https://open.spotify.com/album/7E5q2YUeY5NXoo14PuI4Pn) | 2:59 |
 
-Snapshot ID: `AAAAACZ4kREVed6RdnHTLen0tFPCSk3L`
+Snapshot ID: `AAAAALPM9frd7mpaAGCx7O+1DEgc2LaQ`

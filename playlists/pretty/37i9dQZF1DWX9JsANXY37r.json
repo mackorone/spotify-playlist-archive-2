@@ -1,12 +1,12 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123611,
+  "num_followers": 123614,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALd/2PJLYfwKQh0ClG5CoQYDq2o7",
+  "snapshot_id": "AAAAALAngnQaNMcoOZ2ZrJHGmZhpjt3m",
   "tracks": [
     {
       "added_at": "2026-09-10 03:01:32",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-09-10 03:01:32",
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 162353,
-      "name": "FIND YOUR WAY BACK",
-      "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
-    },
-    {
-      "added_at": "2026-09-10 03:01:32",
-      "album": {
         "name": "Sweet Time",
         "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 251433,
       "name": "Sweet Time",
       "url": "https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL"
+    },
+    {
+      "added_at": "2026-09-10 03:01:32",
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 162353,
+      "name": "FIND YOUR WAY BACK",
+      "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
     },
     {
       "added_at": "2026-09-10 03:01:32",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-09-10 03:01:32",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 201450,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg"
-    },
-    {
-      "added_at": "2026-09-10 03:01:32",
-      "album": {
         "name": "Tons de Marrom",
         "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 193562,
       "name": "Corpo Suado",
       "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
+    },
+    {
+      "added_at": "2026-09-10 03:01:32",
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 201450,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg"
     },
     {
       "added_at": "2026-09-10 03:01:32",

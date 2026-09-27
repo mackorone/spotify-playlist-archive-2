@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628 likes - 356 songs - 21 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 629 likes - 356 songs - 21 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,9 +181,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 171 | [Mansion](https://open.spotify.com/track/4anMp1snWhpCRzxWObDzRZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:12 |
 | 172 | [You're My Texas](https://open.spotify.com/track/4RbS3BlzjK9JMqF6VyaAB5) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 3:19 |
 | 173 | [Do It Like This \(Bonus Track\)](https://open.spotify.com/track/33LpnkcKKvgIAxEgYEYbbS) | [Johnny T](https://open.spotify.com/artist/7m0hBssYWrmf3CFVwY1xjg) | [That's What's Up](https://open.spotify.com/album/2Xk6cTdL78FvtXoXt5wQQs) | 3:11 |
-| 174 | [Heavyweight](https://open.spotify.com/track/4VjFgo853p4of6maSkmjfB) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Heavyweight](https://open.spotify.com/album/1llat1Rc2C5UKq6G6bSU51) | 3:37 |
-| 175 | [23 Degrees And South](https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:00 |
-| 176 | [Closing Time](https://open.spotify.com/track/1LQecNTh73w8tEbp0EEYKN) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [It's A Dying Art \(Commentary\)](https://open.spotify.com/album/192tOQqmoCMQZ9J3pwqodg) | 2:38 |
+| 174 | [Closing Time](https://open.spotify.com/track/1LQecNTh73w8tEbp0EEYKN) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [It's A Dying Art \(Commentary\)](https://open.spotify.com/album/192tOQqmoCMQZ9J3pwqodg) | 2:38 |
+| 175 | [Heavyweight](https://open.spotify.com/track/4VjFgo853p4of6maSkmjfB) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Heavyweight](https://open.spotify.com/album/1llat1Rc2C5UKq6G6bSU51) | 3:37 |
+| 176 | [23 Degrees And South](https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:00 |
 | 177 | [Good Fight](https://open.spotify.com/track/0zWEXxAbRfBFkHe0aY1ny2) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:18 |
 | 178 | [Keep On Movin' On](https://open.spotify.com/track/3NGqAMhYpoqF1tg0Bm8Ozm) | [Maddie Poppe](https://open.spotify.com/artist/2Wda8QEZK7twazWzqDvOdk) | [Keep On Movin' On](https://open.spotify.com/album/3IhRVPjXGfaJfmjSLVmfDN) | 2:38 |
 | 179 | [Wait For The Rain To Die Down](https://open.spotify.com/track/7bFIvCLeqahWr0G4wyyMwp) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Luke Grimes](https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2) | 3:24 |
@@ -233,8 +233,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 223 | [Wounded](https://open.spotify.com/track/56SFMatA6nKIg2pROl35Fz) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 3:39 |
 | 224 | [Dein Blick](https://open.spotify.com/track/5UuXVnVkHtezDwP8UZRwaV) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Helene Fischer \(Deluxe Version\)](https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR) | 3:17 |
 | 225 | [Time on My Hands](https://open.spotify.com/track/4rFP0zt2o5K3W6Aq6rbOk8) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 2:56 |
-| 226 | [Monsters](https://open.spotify.com/track/3kLChd6atCWKPz1WzufHQo) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 |
-| 227 | [Hey There Sunshine](https://open.spotify.com/track/0fs3qZovJ5xh4RbCE9j5ga) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [It's A Dying Art \(Commentary\)](https://open.spotify.com/album/192tOQqmoCMQZ9J3pwqodg) | 3:56 |
+| 226 | [Hey There Sunshine](https://open.spotify.com/track/0fs3qZovJ5xh4RbCE9j5ga) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [It's A Dying Art \(Commentary\)](https://open.spotify.com/album/192tOQqmoCMQZ9J3pwqodg) | 3:56 |
+| 227 | [Monsters](https://open.spotify.com/track/3kLChd6atCWKPz1WzufHQo) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 |
 | 228 | [I'm Not Sad Anymore](https://open.spotify.com/track/0Jb6tCbyYQl3WF4wBcfafj) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 |
 | 229 | [The Verse: Doxology \(Amen\) \(feat\. Phil Wickham\)](https://open.spotify.com/track/5ovXFH8H5EwJlKrFVcudKs) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 1:24 |
 | 230 | [Baby Don't](https://open.spotify.com/track/6KoQOHQDZrpYUb0l8yMTP6) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Rope the Wind](https://open.spotify.com/album/7p7wXeb04T2GreanVqeoQo) | 3:03 |
@@ -256,8 +256,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 246 | [Good as Gone](https://open.spotify.com/track/6t8NnIURMSsmCd7rfxLCS9) | [Liv Charette](https://open.spotify.com/artist/1auuEPeyKavtg7hXiNxe1H) | [Good as Gone](https://open.spotify.com/album/3vwOzIiCR9Z9eJDu0kQFS8) | 3:21 |
 | 247 | [Ask Her to Dance](https://open.spotify.com/track/6drZ0DQ2xr6WHkwrttWLq3) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Been a Minute](https://open.spotify.com/album/57IrCr3qgsxOfFK3THy57J) | 3:40 |
 | 248 | [That Girl](https://open.spotify.com/track/3BD4KMwRYV4g2TEMxKYM67) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [That Girl](https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ) | 3:06 |
-| 249 | [Never Found You](https://open.spotify.com/track/0ejYonr6iCOveRWn2vBFJ0) | [Leaving Austin](https://open.spotify.com/artist/67igAZjBrO42dnYYbTT6WI) | [Never Found You](https://open.spotify.com/album/1bgekG3dViYKaPeiTyErnX) | 2:52 |
-| 250 | [I Would](https://open.spotify.com/track/2yvJR5cdjFes69jGQiKqhv) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3Fesk0ynWRBHEj7qk22r3B) | 3:28 |
+| 249 | [I Would](https://open.spotify.com/track/2yvJR5cdjFes69jGQiKqhv) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3Fesk0ynWRBHEj7qk22r3B) | 3:28 |
+| 250 | [Never Found You](https://open.spotify.com/track/0ejYonr6iCOveRWn2vBFJ0) | [Leaving Austin](https://open.spotify.com/artist/67igAZjBrO42dnYYbTT6WI) | [Never Found You](https://open.spotify.com/album/1bgekG3dViYKaPeiTyErnX) | 2:52 |
 | 251 | [Starlight](https://open.spotify.com/track/2SXIud8vEZJ8vmRha7WDuZ) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:24 |
 | 252 | [Beat Up Bronco](https://open.spotify.com/track/2zlaIBgJYVIcis4Fkb80X7) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Leah Turner \- EP](https://open.spotify.com/album/2o7RvcJctIBoe16Tz4JwcC) | 3:47 |
 | 253 | [That's Why God Made Guitars](https://open.spotify.com/track/0PLDRD7EXSVkFcR2Xy3eAo) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Pick Me Up](https://open.spotify.com/album/2AIjGgi7S3zWimTIekSxYj) | 3:19 |
@@ -365,4 +365,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 355 | [Relapse](https://open.spotify.com/track/2QSx7YmaQeEF1Orrymng9h) | [Romantic](https://open.spotify.com/artist/6kopcZ58fkBTfUzDAQcb4n) | [Dying of The Light](https://open.spotify.com/album/7dYlb4zkngh3DRGGfcj0vC) | 3:30 |
 | 356 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcdSOgAAAADYzXYIl/HUULO1nrARS2lo`
+Snapshot ID: `AcdX0AAAAAA5T0aW6L5dbgdgXY3ml+8E`

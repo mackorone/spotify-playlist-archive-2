@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-1,559 songs - 3 day 18 hr 14 min
+1,560 songs - 3 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-12 | 2026-05-23 |
 | [Dalam Diam](https://open.spotify.com/track/2eGp0zNLHCMaCltJ7fKdZ8) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi), [Zamir Harith](https://open.spotify.com/artist/053dJUug3KoJGNH4q2B1Vu), [Mojack Hafiz](https://open.spotify.com/artist/6b7Sx8k12iNt7JGHURdR3E), [Bel Janni](https://open.spotify.com/artist/5l7c6Bfkb3sHeDOOojVqvB) | [Dalam Diam](https://open.spotify.com/album/6cJwxVhJ789g6G0YrLVSVk) | 3:43 | 2025-11-01 | 2025-11-24 |
 | [Damn Right \(feat\. Childish Gambino & Kali Uchis\)](https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:50 | 2025-03-08 | 2025-03-10 |
-| [Dan Bila Esok](https://open.spotify.com/track/1xMeSSPoaUivQJqOdH5r12) | [Sofaz](https://open.spotify.com/artist/4EWTiE61XKSdCi3DwW8fee) | [Dan Bila Esok](https://open.spotify.com/album/22hbc84onwiT7JoWAuBACs) | 4:32 | 2026-09-03 |  |
+| [Dan Bila Esok](https://open.spotify.com/track/1xMeSSPoaUivQJqOdH5r12) | [Sofaz](https://open.spotify.com/artist/4EWTiE61XKSdCi3DwW8fee) | [Dan Bila Esok](https://open.spotify.com/album/22hbc84onwiT7JoWAuBACs) | 4:32 | 2026-09-03 | 2026-09-27 |
 | [Dan...](https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:48 | 2025-07-27 | 2026-03-03 |
 | [dance all night](https://open.spotify.com/track/50aQbgfdydBXABx2gATQHn) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 3:34 | 2024-12-07 | 2024-12-09 |
 | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-07-26 | 2023-08-26 |
@@ -788,7 +788,7 @@
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-02-23 | 2023-10-10 |
 | [LMLY](https://open.spotify.com/track/3Jbpo2slhW2bbVneiJnC9G) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [LMLY](https://open.spotify.com/album/09UJf8ZqCuv5NHRZIqTZgh) | 3:29 | 2021-04-28 | 2021-05-22 |
 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-08-19 | 2021-10-03 |
-| [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2024-09-18 |  |
+| [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2024-09-18 | 2026-09-27 |
 | [Locked out of Heaven](https://open.spotify.com/track/5g7sDjBhZ4I3gcFIpkrLuI) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/4xWulj18AGahlyuZPulaGe) | 3:53 | 2024-06-22 | 2026-09-21 |
 | [LOCO](https://open.spotify.com/track/59c0HrzmHfyQs6LgDw5cHe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/3Pr7XlWzWnX9enSVZXuPKh) | 3:11 | 2021-09-27 | 2022-02-06 |
 | [LOCO \- English Ver.](https://open.spotify.com/track/01QhKtUc12FGw2wX7dMYvv) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Crazy in Love](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-26 | 2021-09-27 |
@@ -1000,6 +1000,7 @@
 | [Paradise](https://open.spotify.com/track/0KDCkxCsEBoSWj5fsyuvWq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:37 | 2021-06-09 | 2021-06-12 |
 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-05-15 | 2025-07-08 |
 | [Past Won't Leave My Bed](https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/3WVLl7wbF8oNra7oMZ62Ta) | 2:46 | 2025-11-08 | 2025-11-22 |
+| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-09-26 |  |
 | [Payphone](https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:51 | 2025-11-26 | 2026-09-23 |
 | [Payphone](https://open.spotify.com/track/4P0osvTXoSYZZC2n8IFH3c) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Overexposed \(Deluxe\)](https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP) | 3:51 | 2026-05-03 | 2026-09-25 |
 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 | 2021-12-03 | 2021-12-04 |
@@ -1199,7 +1200,7 @@
 | [Si Fueras Mía](https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 | 2021-07-28 | 2021-07-30 |
 | [Sial](https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:03 | 2023-09-30 | 2024-08-02 |
 | [Sial](https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:03 | 2023-02-02 | 2023-10-01 |
-| [Siapa Di Hatimu](https://open.spotify.com/track/1nPkL63Uxaw84801K23KNr) | [Rahmat](https://open.spotify.com/artist/1yhQJRu5vlBqwwTrvYSg1L) | [The Collection: Rahmat](https://open.spotify.com/album/4L56poXFZEaF8yKscs4ZYD) | 5:42 | 2026-08-02 | 2026-09-11 |
+| [Siapa Di Hatimu](https://open.spotify.com/track/1nPkL63Uxaw84801K23KNr) | [Rahmat](https://open.spotify.com/artist/1yhQJRu5vlBqwwTrvYSg1L) | [The Collection: Rahmat](https://open.spotify.com/album/4L56poXFZEaF8yKscs4ZYD) | 5:42 | 2026-08-02 |  |
 | [Siapa Di Hatimu](https://open.spotify.com/track/7qYyRmqHPwfsNsCyW2WBdY) | [Rahmat](https://open.spotify.com/artist/1yhQJRu5vlBqwwTrvYSg1L) | [Lagu Hit Sepanjang Zaman](https://open.spotify.com/album/5SRWRnhyJcuIyBSRdT9nxv) | 5:42 | 2026-05-03 | 2026-09-08 |
 | [Siapa Di Hatimu](https://open.spotify.com/track/2NOWGQefu42AyhxIavqCZJ) | [Rahmat](https://open.spotify.com/artist/1yhQJRu5vlBqwwTrvYSg1L) | [Siapa Di Hatimu](https://open.spotify.com/album/2YNADCFkDanlGBi1EkulMB) | 5:44 | 2026-04-07 | 2026-06-30 |
 | [Sinar Pelangi](https://open.spotify.com/track/6UMKWjSsXb7GiUyxWKAiKp) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sinar Pelangi](https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb) | 3:51 | 2023-12-23 | 2024-10-01 |

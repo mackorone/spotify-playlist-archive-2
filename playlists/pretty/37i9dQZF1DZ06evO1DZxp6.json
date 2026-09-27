@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 245020,
+  "num_followers": 245024,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAABX3rsH0uYqG+e92pfeoeSh",
+  "snapshot_id": "arW5gAAAAAB7RtJ0llXc+L6gMl4gh+yx",
   "tracks": [
     {
       "added_at": null,
@@ -907,22 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Certa Manha Acordei De Sonhos Intranquilos",
-        "url": "https://open.spotify.com/album/7wn5gtrPC8pOSoqBgc7EZK"
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
       "artists": [
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        },
-        {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
         }
       ],
-      "duration_ms": 203533,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/23DnvfI41PNvTHEkGJXVBC"
+      "duration_ms": 208493,
+      "name": "De Mis Pasos (Unplugged) (En Vivo) (with Juan Son)",
+      "url": "https://open.spotify.com/track/6SjCCvEeJvxWfTsSkoL1DR"
     }
   ],
   "unique_name": "This Is Julieta Venegas",

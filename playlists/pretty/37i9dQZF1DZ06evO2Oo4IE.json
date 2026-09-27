@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 190595,
+  "num_followers": 190605,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAACLto9Wrgx6wBdevJP7zUTU",
+  "snapshot_id": "arW5gAAAAADiQK7E/A16EdEEzDFw6rsp",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Brother & The Holding Company",
-        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
-      },
-      "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 145964,
-      "name": "Easy Rider",
-      "url": "https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 173230,
       "name": "Trouble in Mind",
       "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 145964,
+      "name": "Easy Rider",
+      "url": "https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1"
     },
     {
       "added_at": null,

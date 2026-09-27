@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 241500,
       "name": "America 2",
       "url": "https://open.spotify.com/track/65mbkbFtHDa1yYgHb7lidO"
@@ -3216,7 +3216,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 214736,
       "name": "Blink Of An Eye",
       "url": "https://open.spotify.com/track/3u0e0Q1QuAV8BLSXU6QyJR"
@@ -3936,7 +3936,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 290153,
       "name": "California Winter",
       "url": "https://open.spotify.com/track/10pk49gpQEkG9jjkAnbfzY"
@@ -4066,7 +4066,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 252000,
       "name": "Can't Go Back",
       "url": "https://open.spotify.com/track/1Qa7UpG3l3RyYIUhgcopQW"
@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 362410,
       "name": "Crystalline",
       "url": "https://open.spotify.com/track/2dXpyz3Vlc0PRlaCJG0ZPr"
@@ -6012,7 +6012,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 251203,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/4ymsxpFvqFeYdNTxE0kHb4"
@@ -6290,7 +6290,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 237680,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/5gQ13Ix8QCTagOPUKPfDPn"
@@ -7178,7 +7178,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 222051,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/477qFNpf0lrYfIrxvGYdI6"
@@ -8040,7 +8040,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 405907,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/1EMPhniZKycZabKUTf74q6"
@@ -9910,6 +9910,24 @@
     {
       "album": {
         "name": "In the Deepest of Dreams",
+        "url": "https://open.spotify.com/album/6Ez6yiNJ1MeoyXc3IAfVzk"
+      },
+      "artists": [
+        {
+          "name": "New Arcades",
+          "url": "https://open.spotify.com/artist/47L5KPLfDahuPp5llMO2wF"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105400,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/1pOAzAxIa4ZGVvdd7hL9um"
+    },
+    {
+      "album": {
+        "name": "In the Deepest of Dreams",
         "url": "https://open.spotify.com/album/7bgWuJW03DHooDuLXypBeC"
       },
       "artists": [
@@ -10220,7 +10238,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 227272,
       "name": "Georgetown",
       "url": "https://open.spotify.com/track/1LJXg27KpKvIWQCo1xGlia"
@@ -15386,7 +15404,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 225406,
       "name": "Lost And Found - The Midnight Remix",
       "url": "https://open.spotify.com/track/6GcKSwOmfSoDJl5xXRGN83"
@@ -17016,7 +17034,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 132991,
       "name": "Moon Kiss",
       "url": "https://open.spotify.com/track/0cTAWy8cAzSDFM4BueQfht"
@@ -17776,7 +17794,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 268653,
       "name": "Neons",
       "url": "https://open.spotify.com/track/0b37q3gES2jYdXcJhsqWf9"
@@ -18834,7 +18852,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 262500,
       "name": "Nothing Beats Like A Heart",
       "url": "https://open.spotify.com/track/3luyxUZhvDs0qLwcIyzj4Y"
@@ -22582,7 +22600,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 210461,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/6vO3OjJsKxVPbn0kcaUgE3"
@@ -23150,7 +23168,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 387857,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/1aXYM5lT1PfKE8gCu90oIe"
@@ -24846,7 +24864,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 293509,
       "name": "Static",
       "url": "https://open.spotify.com/track/0TiZDNPU2t4STNJW4Qdj22"
@@ -25392,7 +25410,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 186870,
       "name": "Summer",
       "url": "https://open.spotify.com/track/4PqmwtVKncqMsVRm0I3ku4"
@@ -26536,7 +26554,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 297432,
       "name": "Tech Noir",
       "url": "https://open.spotify.com/track/5VKEsChbUowEF2BT0gJSGX"
@@ -27840,7 +27858,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 255180,
       "name": "The Video Game Champion",
       "url": "https://open.spotify.com/track/4iADclNEcQMVtPMOpBqwIg"
@@ -29014,7 +29032,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 317228,
       "name": "Vampires",
       "url": "https://open.spotify.com/track/5lVsAfvY2ij8A2T6oYdAyt"

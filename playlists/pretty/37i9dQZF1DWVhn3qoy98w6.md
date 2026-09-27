@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: julia de arco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,287 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,308 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [AMOR X ORO](https://open.spotify.com/track/3J1tfAgjuQ4GQOiTRAWt6S) | [West Srk](https://open.spotify.com/artist/0M0cPEB7uDiRRc22XtyRBZ) | [AMOR X ORO](https://open.spotify.com/album/6RzykIgHr2tBvux8P3FPmb) | 3:36 |
 | 50 | [MIENTE](https://open.spotify.com/track/5JT5DRdBlt5f2yBpis5JLC) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm) | [MIENTE](https://open.spotify.com/album/6cbDmQjt67F2rJaxfPsLxs) | 2:51 |
 
-Snapshot ID: `AAAAAAhRcW3eGXXdRk3h0fB66t6tD7p6`
+Snapshot ID: `AAAAAJvLx/7BO34PChwdETZIEXqX/dCD`

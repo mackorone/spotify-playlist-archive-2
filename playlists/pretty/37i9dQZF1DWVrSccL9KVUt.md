@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Terrian
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,791 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,798 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 79 | [Broomfield Park](https://open.spotify.com/track/6sweNdnOLDtmKHnn94sXKa) | [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye), [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL), [Grace Coleman](https://open.spotify.com/artist/3R2G7IcUc0fmusW118P3cK), [Tiff Willmott](https://open.spotify.com/artist/5wIQoZsxW6jA9LXiyIz23h) | [Broomfield Park](https://open.spotify.com/album/1zQA8NWimEw2rjWSgRIxa6) | 3:47 |
 | 80 | [Meet Me In The Valley \(I Surrender All\)](https://open.spotify.com/track/5WhDzkgyQJN1eaJxXFQ6Ho) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Meet Me In The Valley \(I Surrender All\)](https://open.spotify.com/album/4k2R4uwafkVx72GVjTBcDQ) | 4:24 |
 
-Snapshot ID: `AAAAAPU6NNJduQcmP8p4BA8mrVc09D95`
+Snapshot ID: `AAAAAM70rrM13EbPPTCN265Oa2hk+lkS`

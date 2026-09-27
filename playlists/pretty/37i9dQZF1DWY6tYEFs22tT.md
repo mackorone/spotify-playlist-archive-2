@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Kardinal Offishall, Travis Scott, Yeat, and Drake.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,910 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,766 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 49 | [Making Promises](https://open.spotify.com/track/4kVLd059k0S5WGNo8ULoZh) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Making Promises](https://open.spotify.com/album/7EFfR2LfIfXxSoIPQZ8b8T) | 2:24 |
 | 50 | [SAME SH!T](https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [SAME SH!T](https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d) | 3:13 |
 
-Snapshot ID: `AAAAAPy8TCN1veGcfmY8/fBqIJyDXg5X`
+Snapshot ID: `AAAAAKLx4tRcB428x0ii88ER1n1r328w`

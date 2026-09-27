@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Get served with the best Nigerian worship songs\. Cover: Nathaniel Bassey
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,876 likes - 110 songs - 15 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,995 likes - 110 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 109 | [Jesu \- Live](https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Generation Intimacy \(Live\)](https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ) | 13:37 |
 | 110 | [Ifunanya](https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Ifunanya](https://open.spotify.com/album/57pEiJAqAL6uQ57jujKiFs) | 5:14 |
 
-Snapshot ID: `AAAAAMPWG61DgPkfw1T+ZuCcCh2rGn5j`
+Snapshot ID: `AAAAAJ3gVh1HMeMK1TiQIUVB3QULci36`

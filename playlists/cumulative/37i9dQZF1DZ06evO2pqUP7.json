@@ -1522,10 +1522,32 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 134586,
       "name": "PALOMINO",
       "url": "https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT"
+    },
+    {
+      "album": {
+        "name": "Palomino (Remix)",
+        "url": "https://open.spotify.com/album/5eK9c2t3ilEqEKR3F7mkQk"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193386,
+      "name": "Palomino - Remix",
+      "url": "https://open.spotify.com/track/1IGc1w4X7LKjHbzU3svVXH"
     },
     {
       "album": {

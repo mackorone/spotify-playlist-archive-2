@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,308 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,320 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 9 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 |
 | 10 | [Threads](https://open.spotify.com/track/4c3iegw9CfKT3ZjeyzevQW) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Chasing Shadows](https://open.spotify.com/album/3ehJxu0Y4xuXMJyaYCpv0a) | 4:06 |
 | 11 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
-| 12 | [Give Me Time](https://open.spotify.com/track/3p1bQx6kqm8p9PCFELKkNG) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Give Me Time](https://open.spotify.com/album/6yIT2IQGECZ0BWl3krrL3J) | 3:39 |
+| 12 | [Some Rain Must Fall](https://open.spotify.com/track/7bXGshtzy2q4qfndkageDQ) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/12zXswD56NoDPTM8zlR9Co) | 5:50 |
 | 13 | [Sweetest Season](https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Sweetest Season](https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U) | 2:50 |
-| 14 | [Some Rain Must Fall](https://open.spotify.com/track/7bXGshtzy2q4qfndkageDQ) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/12zXswD56NoDPTM8zlR9Co) | 5:50 |
+| 14 | [Give Me Time](https://open.spotify.com/track/3p1bQx6kqm8p9PCFELKkNG) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Give Me Time](https://open.spotify.com/album/6yIT2IQGECZ0BWl3krrL3J) | 3:39 |
 | 15 | [Save Me](https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Weirdo](https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8) | 4:51 |
 | 16 | [Why Can’t You Love Me](https://open.spotify.com/track/5ZXihqMrOo8fM2OPA9enFj) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [My Man & Me](https://open.spotify.com/album/6Hf2bBJLBKaTF8yF0Jzy8z) | 4:00 |
-| 17 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 |
+| 17 | [Where Light Settles](https://open.spotify.com/track/5NI5Bo9sXXdjTpAnlAXIrD) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/6O228iUsnLa31DAVjxqAXi) | 6:29 |
 | 18 | [Chi Ave/A Love Letter To Salvador](https://open.spotify.com/track/1LWMeSQAQwxQMU5iliTVWc) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [Chi Ave/A Love Letter To Salvador](https://open.spotify.com/album/2i4B2yQ4EOv0xjjNAwNUww) | 4:41 |
-| 19 | [Where Light Settles](https://open.spotify.com/track/5NI5Bo9sXXdjTpAnlAXIrD) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/6O228iUsnLa31DAVjxqAXi) | 6:29 |
+| 19 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 |
 | 20 | [Under Attack](https://open.spotify.com/track/15Mv73RoYdnrmdVQaCb59e) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [As the Crows](https://open.spotify.com/album/18IODQIxo4nKpOQs5I0EkB) | 3:35 |
 | 21 | [THIEF](https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [THIEF](https://open.spotify.com/album/6xQzdxhFSXzY43USc4EmJJ) | 3:02 |
 | 22 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE) | 3:45 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 42 | [Set Me Free](https://open.spotify.com/track/1DQsGVDlFvJHcUyeCfc2DZ) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Set Me Free](https://open.spotify.com/album/64xz5R9yEJV1yziSyN4OH5) | 4:16 |
 | 43 | [Step Lightly](https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Of The Earth](https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ) | 4:24 |
 | 44 | [Lifetones](https://open.spotify.com/track/0gouDswj0R5jne7YUUrlIO) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [All The Quiet \(Part I\)](https://open.spotify.com/album/0efFrXZr98tY3O5qkAGQB7) | 8:07 |
-| 45 | [Dawning Dusk](https://open.spotify.com/track/56BHtvEwxMoyqm1FVzm5kE) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS), [Dudù Kouate](https://open.spotify.com/artist/0Xo3oN2nAmlPHaMBePP96w) | [Terra Incognita](https://open.spotify.com/album/0uNaDvqUwpRcuE0kEyUrAx) | 6:32 |
-| 46 | [It Could Be](https://open.spotify.com/track/65k36tJQgts8gqSMnWx47m) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5) | [Can You See Me Now?](https://open.spotify.com/album/4NuVAezhA18lt3V9wG75qs) | 3:17 |
+| 45 | [It Could Be](https://open.spotify.com/track/65k36tJQgts8gqSMnWx47m) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5) | [Can You See Me Now?](https://open.spotify.com/album/4NuVAezhA18lt3V9wG75qs) | 3:17 |
+| 46 | [Dawning Dusk](https://open.spotify.com/track/56BHtvEwxMoyqm1FVzm5kE) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS), [Dudù Kouate](https://open.spotify.com/artist/0Xo3oN2nAmlPHaMBePP96w) | [Terra Incognita](https://open.spotify.com/album/0uNaDvqUwpRcuE0kEyUrAx) | 6:32 |
 | 47 | [No Others](https://open.spotify.com/track/3xuYB0Utwmn2KFxAWrKDe7) | [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF) | [No Others / When Palestine Is Free](https://open.spotify.com/album/3YREK1AXnlQLgmgt9kmRwW) | 4:26 |
 | 48 | [Blame](https://open.spotify.com/track/0O343Jy6qgeeZUmxIriCCF) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Blame](https://open.spotify.com/album/47Ej3YAV40mRK7LFS76iFH) | 3:37 |
 | 49 | [Good Intentions](https://open.spotify.com/track/6QtcGEyLF3SPMoR8i5bsKI) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Good Intentions](https://open.spotify.com/album/7KZbPMVX1MIgaamombQinf) | 3:14 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 65 | [A Future Untold](https://open.spotify.com/track/6gthXQDyhf3OaWw3QvuYtA) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [A Future Untold / Marwa The Mountain](https://open.spotify.com/album/7shmmsOvUVpzmxPiipmxAv) | 3:22 |
 | 66 | [The Leopard](https://open.spotify.com/track/13ZlexU7MfJDpOe9MsaEOR) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [The Leopard](https://open.spotify.com/album/4wDM8A678qr8cwtmT8Y357) | 5:10 |
 | 67 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
-| 68 | [Ron Song](https://open.spotify.com/track/4MqRMWWM518FViRvEbo0Gl) | [Don Glori](https://open.spotify.com/artist/1CAzM4msiLBgUGxFkIroYo) | [Ron Song](https://open.spotify.com/album/41ECcT8MhzFKxFX0Q18LAu) | 5:36 |
-| 69 | [Moonlight](https://open.spotify.com/track/5NLxA4kDzcKlKgYLpQ3DSZ) | [Orchard](https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd) | [Where We're Calling From](https://open.spotify.com/album/1qoedtHskQaRmtVLswk7N7) | 4:08 |
+| 68 | [Moonlight](https://open.spotify.com/track/5NLxA4kDzcKlKgYLpQ3DSZ) | [Orchard](https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd) | [Where We're Calling From](https://open.spotify.com/album/1qoedtHskQaRmtVLswk7N7) | 4:08 |
+| 69 | [Ron Song](https://open.spotify.com/track/4MqRMWWM518FViRvEbo0Gl) | [Don Glori](https://open.spotify.com/artist/1CAzM4msiLBgUGxFkIroYo) | [Ron Song](https://open.spotify.com/album/41ECcT8MhzFKxFX0Q18LAu) | 5:36 |
 | 70 | [Never Gonna Be A Boxer](https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7) | [Never Gonna Be A Boxer](https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs) | 6:12 |
 | 71 | [balance](https://open.spotify.com/track/1UbFmeNiUpZUvVuLq2j8nu) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [balance](https://open.spotify.com/album/5JXZK9UfkbChAMN0zyKmtk) | 2:54 |
 | 72 | [Pinch](https://open.spotify.com/track/2oBc2lx30NnvvNmRsm8J2f) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v), [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Pinch](https://open.spotify.com/album/4dcQ7NEJlOUFp5mkYnP8QD) | 4:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 74 | [Circa 2019](https://open.spotify.com/track/33VHDPVMX4zjiv0zYFl3cT) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Circa 2019](https://open.spotify.com/album/1GiNqVTjpSb5WrQiiRszHU) | 3:21 |
 | 75 | [We're Not Free](https://open.spotify.com/track/715GdTHoLH2FOLfZ3GCvi9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [We're Not Free](https://open.spotify.com/album/7nsFzOZtsC433KokTp75Hm) | 4:51 |
 
-Snapshot ID: `AAAAALQwLHMoyb2/VIwQr+5c9TYHEtKD`
+Snapshot ID: `AAAAAF+4PLOipOqxqGJNo/9kLqFLZwDd`

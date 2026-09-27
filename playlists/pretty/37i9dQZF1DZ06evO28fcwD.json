@@ -1,12 +1,12 @@
 {
   "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 28407,
+  "num_followers": 28408,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAAqOOhUSvtlAXPixwev/VAQ",
+  "snapshot_id": "arW5gAAAAAC2QZG9RSwF0xHuKkXOo0dg",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ladysmith Black Mambazo and Friends",
+        "url": "https://open.spotify.com/album/6cpHdWDHybVXLm2bTmGVPh"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "China Black",
+          "url": "https://open.spotify.com/artist/0FUK4HMK3TUViRcmrXKxlp"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Swing Low Sweet Chariot",
+      "url": "https://open.spotify.com/track/4MYV1v55kw2RuUFveQNk60"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Honeyeater\u2019s Song",
         "url": "https://open.spotify.com/album/5X3ksxWPGMs450naH43i2P"
       },
@@ -459,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladysmith Black Mambazo and Friends",
-        "url": "https://open.spotify.com/album/6cpHdWDHybVXLm2bTmGVPh"
+        "name": "Umthombo Wamanzi",
+        "url": "https://open.spotify.com/album/3k6szoYKddJg1GI0iU5xzB"
       },
       "artists": [
         {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        },
-        {
-          "name": "China Black",
-          "url": "https://open.spotify.com/artist/0FUK4HMK3TUViRcmrXKxlp"
         }
       ],
-      "duration_ms": 232093,
-      "name": "Swing Low Sweet Chariot",
-      "url": "https://open.spotify.com/track/4MYV1v55kw2RuUFveQNk60"
+      "duration_ms": 221080,
+      "name": "Siligugu Isiphambano",
+      "url": "https://open.spotify.com/track/6oV5kJfLpoR1cIAnFPROtk"
     },
     {
       "added_at": null,
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umthombo Wamanzi",
-        "url": "https://open.spotify.com/album/3k6szoYKddJg1GI0iU5xzB"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Siligugu Isiphambano",
-      "url": "https://open.spotify.com/track/6oV5kJfLpoR1cIAnFPROtk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mind The Moon",
         "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 231893,
       "name": "Eden's House",
       "url": "https://open.spotify.com/track/74nPMKhOnrBnFhYNfq3gDI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ulwandle Olungcwele",
+        "url": "https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "Nkosi Yami Ngabusiswa",
+      "url": "https://open.spotify.com/track/4yomu9eL2rK8s9QBcjr6kd"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ulwandle Olungcwele",
-        "url": "https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "Nkosi Yami Ngabusiswa",
-      "url": "https://open.spotify.com/track/4yomu9eL2rK8s9QBcjr6kd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wenyukela",
         "url": "https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 297213,
       "name": "Wangibambezela (Message from His Heart)",
       "url": "https://open.spotify.com/track/7a6Q3u1E8piVrofp9Z5gHp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ulwandle Olungcwele",
+        "url": "https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Sishumayel' Ivangeli",
+      "url": "https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
       "duration_ms": 291920,
       "name": "Bamnqobile",
       "url": "https://open.spotify.com/track/3FTyDZ9W072Lqq31ZM8zys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ulwandle Olungcwele",
-        "url": "https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Sishumayel' Ivangeli",
-      "url": "https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inala",
-        "url": "https://open.spotify.com/album/0lkb2v75YhtDpCtufDW2Ec"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Ngothandaza Njalo (I'll Keep on Looking)",
-      "url": "https://open.spotify.com/track/5cSr5dZoikDnkGX35l7rlj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC"
       },
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
-        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
+        "name": "Inala",
+        "url": "https://open.spotify.com/album/0lkb2v75YhtDpCtufDW2Ec"
       },
       "artists": [
         {
@@ -804,9 +788,9 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 221760,
-      "name": "This Little Light of Mine (Bonus Track)",
-      "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
+      "duration_ms": 209600,
+      "name": "Ngothandaza Njalo (I'll Keep on Looking)",
+      "url": "https://open.spotify.com/track/5cSr5dZoikDnkGX35l7rlj"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 201640,
       "name": "Yimani",
       "url": "https://open.spotify.com/track/34gPE6nPQITt7ShIbS9FhO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "This Little Light of Mine (Bonus Track)",
+      "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
     },
     {
       "added_at": null,

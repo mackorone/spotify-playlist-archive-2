@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 233237,
+  "num_followers": 233287,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMBpKmu+/oZlCzQMj9D4tUqrmD7S",
+  "snapshot_id": "AAAAAMGSpwLGEVHLw6Gi33CwlAo3f3ej",
   "tracks": [
     {
       "added_at": "2024-07-12 18:08:37",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Bah\u00eda Santiago",
-        "url": "https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 260508,
-      "name": "Globos",
-      "url": "https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Cari\u00f1o",
         "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 258713,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Bah\u00eda Santiago",
+        "url": "https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 260508,
+      "name": "Globos",
+      "url": "https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Go Away",
         "url": "https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 207346,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2024-07-12 18:08:37",

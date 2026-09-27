@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,975 likes - 49 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,028 likes - 49 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 48 | [Meu Alvo \(Ao Vivo\)](https://open.spotify.com/track/5QDesvAfEEjnBO2py9h2sN) | [Jonata Cabral](https://open.spotify.com/artist/0RwWKoLV3ZRPZP5ZuDV1Rp) | [Meu Alvo \(Ao Vivo\)](https://open.spotify.com/album/7DsbMjFst6ZLsV6OJ1MBmD) | 3:49 |
 | 49 | [O Céu é o Meu Lar \- Acústico](https://open.spotify.com/track/7kvQI0lykVp0nvKOAK9Mws) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Gustavo Silva](https://open.spotify.com/artist/3GGrQcaaAEx6OC4hDef0mt), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [O Céu é o Meu Lar \(Acústico\)](https://open.spotify.com/album/3EaWU9ssMe3xhq82HGx0dx) | 4:34 |
 
-Snapshot ID: `AAAAAGAkTHWYp8eJ3RqKhl5Za5ujJE+E`
+Snapshot ID: `AAAAAMBJ0PZ5ypmDpAnmUlB+SdSGX8Pz`

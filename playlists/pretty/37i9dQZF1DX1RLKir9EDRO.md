@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Mesafeler  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,436 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,468 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 48 | [Words Come To Me](https://open.spotify.com/track/3bOC4X1qXKmBanvBPE0YzH) | [Ege Yağız](https://open.spotify.com/artist/28EvTbSYQRI1k1PkTf1QKZ) | [Words Come To Me](https://open.spotify.com/album/44WtxeZK2y1BWuDe87vRJe) | 3:07 |
 | 49 | [Deli Gönlüm](https://open.spotify.com/track/6HHHI9970DOa8D17Jn1yL3) | [EVREN](https://open.spotify.com/artist/73VTFL1i460qkiRlJ6gOfA) | [Deli Gönlüm](https://open.spotify.com/album/6sYG3wW6RBlkQGpYFuAxFd) | 2:10 |
 
-Snapshot ID: `AAAAAAx4f1SX1Y0U9I33Nmtettf6tZ+P`
+Snapshot ID: `AAAAADxLjJZSVZ9z6dJhPXRlW5cF82E9`

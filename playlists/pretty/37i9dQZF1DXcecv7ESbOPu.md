@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Taylor Swift, Olga Myko och Anis Don Demina med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,283 likes - 101 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,276 likes - 101 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 100 | [Phony](https://open.spotify.com/track/1M423Vm3k2Bqk3pA2cx4u7) | [Blondage](https://open.spotify.com/artist/44XhQBXnAIhby5VC4GRo81) | [Phony](https://open.spotify.com/album/3gqPpkIM272ivOD3PI3wXT) | 3:46 |
 | 101 | [Mina vänner](https://open.spotify.com/track/07D0NgqZr1r9Doj4VQp5pK) | [Tomas Andersson Wij](https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL) | [Mina vänner](https://open.spotify.com/album/4IQQuut1NZdLxj1Zbf23yV) | 3:14 |
 
-Snapshot ID: `AAAAADa38sAvQn7FZhiD4VNikgFsWqHb`
+Snapshot ID: `AAAAADTaBafqlGH7FDeJkAzkAu2k84sE`

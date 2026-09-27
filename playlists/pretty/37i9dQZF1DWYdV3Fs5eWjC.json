@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the Black queer community. Cover: Durand Bernarr",
-  "num_followers": 81903,
+  "num_followers": 81907,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO72JdhFfV4PhaOeBJvRu63zMCAW",
+  "snapshot_id": "AAAAAA+Pbc4sqM30XMi5UU8L5zE1zr0t",
   "tracks": [
     {
       "added_at": "2026-06-12 08:24:33",
@@ -1037,26 +1037,6 @@
       "url": "https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS"
     },
     {
-      "added_at": "2023-05-25 04:09:32",
-      "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
       "added_at": "2020-06-01 21:07:43",
       "album": {
         "name": "Dirty Computer",
@@ -1075,6 +1055,26 @@
       "duration_ms": 240426,
       "name": "Pynk (feat. Grimes)",
       "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
+    },
+    {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2026-06-12 08:24:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: ROLE MODEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,672 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,675 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 49 | [Treat You Better \- Live](https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:16 |
 | 50 | [Make You Feel My Love \(Live at Hotel Cafe\)](https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:52 |
 
-Snapshot ID: `AAAAAFxts7iTi63ZxbohHGfxDTUSGi/P`
+Snapshot ID: `AAAAAAz9NLE864UOuQ79BmvDBmsQmMcZ`

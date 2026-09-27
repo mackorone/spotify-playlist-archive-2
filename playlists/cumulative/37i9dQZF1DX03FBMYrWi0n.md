@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: NOBRO
 
-685 songs - 1 day 14 hr 44 min
+687 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,12 +233,12 @@
 | [Forget](https://open.spotify.com/track/5TrPCoC21uGhKauc1nxonO) | [goldenstar](https://open.spotify.com/artist/7EeB9iiM7ESsG4VJZwVgtM) | [Forget](https://open.spotify.com/album/4PiHyY8xIDy2hvcIgpVL9r) | 2:53 | 2026-03-13 | 2026-05-23 |
 | [Fou fou fou mon minou](https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Jazz engagé](https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L) | 3:17 | 2023-02-10 | 2025-10-11 |
 | [Fous\-moi la paix!](https://open.spotify.com/track/69qa3Ur4XfCeuKAzWy2urA) | [Kamakazi](https://open.spotify.com/artist/1W2uHVFphPSyLk7zuL5Y8J) | [Fous\-moi la paix!](https://open.spotify.com/album/7bHExBw0vQtHGJABmqYIjh) | 2:36 | 2025-10-10 | 2025-11-29 |
-| [Fox](https://open.spotify.com/track/3ACdS3R5SaiZzRg5FWGMBh) | [Joseph Lorange](https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np) | [Fox](https://open.spotify.com/album/783Q6POJsKFqpTclYXWNy4) | 2:28 | 2026-07-31 |  |
+| [Fox](https://open.spotify.com/track/3ACdS3R5SaiZzRg5FWGMBh) | [Joseph Lorange](https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np) | [Fox](https://open.spotify.com/album/783Q6POJsKFqpTclYXWNy4) | 2:28 | 2026-07-31 | 2026-09-27 |
 | [Fuck that shit](https://open.spotify.com/track/5TYHTMqKSiPG03EvWaHXJD) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Traitement Choc](https://open.spotify.com/album/08a6ND8gt6KMUn3aGOn52M) | 4:33 | 2026-03-27 | 2026-05-09 |
 | [funny easy time](https://open.spotify.com/track/06vdhBImZ4PLQg2x7ml8k0) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Carousel](https://open.spotify.com/album/48sI9IyvLd7D0fhd9GfGpy) | 2:05 | 2026-08-21 |  |
 | [Funny People](https://open.spotify.com/track/4rB1P6Rfdf3QEhMxDk0Tfx) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Knuckle Breaker Maxxx](https://open.spotify.com/album/5KrARfNHWfiWx6QQu11XFD) | 3:01 | 2026-01-16 | 2026-04-04 |
 | [Future Ways](https://open.spotify.com/track/0rDPVczrCtnKqHsCVCusyv) | [Atsuko Chiba](https://open.spotify.com/artist/5sztlFD2VHbf7vg13bt5eb) | [Atsuko Chiba](https://open.spotify.com/album/1PhGQkeAGdTozUJDxqOeoZ) | 4:54 | 2026-04-24 | 2026-06-06 |
-| [FYORE](https://open.spotify.com/track/1R4KhmCfFGtXY6BvnSL1W4) | [Fyore](https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk) | [FYORE](https://open.spotify.com/album/4XFFIR3gmzFqROrZak8ndg) | 2:04 | 2026-05-01 |  |
+| [FYORE](https://open.spotify.com/track/1R4KhmCfFGtXY6BvnSL1W4) | [Fyore](https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk) | [FYORE](https://open.spotify.com/album/4XFFIR3gmzFqROrZak8ndg) | 2:04 | 2026-05-01 | 2026-09-27 |
 | [G4ME0VER](https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [G4ME0VER](https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc) | 2:54 | 2024-05-17 | 2025-10-11 |
 | [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 | 2023-02-10 | 2025-10-04 |
 | [Girls Like Us](https://open.spotify.com/track/0rm5ZOsXMSULEYSc97Mb8h) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Girls Like Us](https://open.spotify.com/album/6QTOMTau9o8DUwu1EtnLt3) | 3:06 | 2026-09-18 |  |
@@ -247,10 +247,12 @@
 | [GODDAMN!](https://open.spotify.com/track/4LlIM1MXl0o0waT1ky2c11) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [GODDAMN!](https://open.spotify.com/album/49saxIwgOAHKizgWK5E8TD) | 4:07 | 2025-09-19 | 2025-12-13 |
 | [Going on the patch](https://open.spotify.com/track/2mpJjohnbHOi89Dv3OjKSW) | [Fruit Snack](https://open.spotify.com/artist/5VwvZoetf1hXSP6sAUVWY6) | [Going on the patch](https://open.spotify.com/album/4uDZ0p3j4hihHS5zpl10Pv) | 3:37 | 2026-07-10 | 2026-09-02 |
 | [Good Sport](https://open.spotify.com/track/3kORBU2wOUUbuyQ1WoN3iE) | [Aidan Rex](https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9) | [Good Sport](https://open.spotify.com/album/0UZd74pAgp2NFl8b2nBpYm) | 3:04 | 2026-09-18 |  |
+| [Got It Bad](https://open.spotify.com/track/6g637SZdJY7UM0kqFSu94k) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Got It Bad](https://open.spotify.com/album/1XjiogaRYttwHOaA0Y6QEd) | 1:48 | 2026-09-25 |  |
 | [Gothique](https://open.spotify.com/track/6As4yZPXn7pg038yAP6lGe) | [Les Incendiaires](https://open.spotify.com/artist/64hnSX04Ots0QZ9c9s1KKR) | [Gothique](https://open.spotify.com/album/1MAJGbd0rm82LCGydaPTiN) | 4:17 | 2026-05-15 | 2026-05-30 |
 | [graduation](https://open.spotify.com/track/3xsEofcAiQgpYqDOoAMJpK) | [hooper](https://open.spotify.com/artist/6xEOM5GlVNZpX1Db8f4jVp) | [graduation](https://open.spotify.com/album/29nnIgIqOY8pb1jYu9pH7V) | 2:27 | 2026-04-10 | 2026-05-30 |
 | [Gros truck](https://open.spotify.com/track/1FJkK7vNFpLvZjCKKROECx) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [P'tit Belliveau](https://open.spotify.com/album/5SZCCO2cJiLbQ5vUopQxh2) | 3:19 | 2025-10-31 | 2025-11-29 |
 | [Habitat](https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Habitat](https://open.spotify.com/album/04Tv2pBqM5gHrJQXOyLJNq) | 4:48 | 2025-10-31 | 2026-02-15 |
+| [Hail Mary](https://open.spotify.com/track/3RY2ZZ9CYeWh7spVMEABtZ) | [Les Shirley](https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer) | [Hail Mary](https://open.spotify.com/album/1pBrdXujAE8sqU6R0JQnZ5) | 2:38 | 2026-09-25 |  |
 | [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 | 2026-08-07 |  |
 | [HALO](https://open.spotify.com/track/2qMV1xOeaYQnwAJZc6hYFG) | [Hugo Bolduc](https://open.spotify.com/artist/2vFxfMTdn9VsM2GjC8mbIk) | [HALO](https://open.spotify.com/album/5kH18xOvJmqwfkGcK9J5so) | 4:15 | 2026-03-06 | 2026-05-02 |
 | [hana](https://open.spotify.com/track/13Ue2YJXcvl8Wm5iv0TlMo) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Astral 2000](https://open.spotify.com/album/2qsyEK8oIuQEIUryUqL3jp) | 2:35 | 2025-02-06 | 2025-11-15 |

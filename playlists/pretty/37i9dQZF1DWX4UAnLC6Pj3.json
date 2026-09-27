@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Clave de Oro de Christian Rojas  \ud83d\udcf8",
-  "num_followers": 1296500,
+  "num_followers": 1296518,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIfSVfi3+4Sdi5sZZl2zyVAi2BWj",
+  "snapshot_id": "AAAAABy6dHmwI5zylDQL0aDWcoGgbe8c",
   "tracks": [
     {
       "added_at": "2026-09-25 06:00:22",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
-        "name": "Machin Love (En Vivo Desde La Arena Jalisco)",
-        "url": "https://open.spotify.com/album/0C9j9wOlaoX0aubYwnRNiY"
-      },
-      "artists": [
-        {
-          "name": "La Inolvidable Banda Agua De La Llave",
-          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
-        }
-      ],
-      "duration_ms": 145562,
-      "name": "All\u00e1 Usted - En Vivo Desde la Arena Jalisco",
-      "url": "https://open.spotify.com/track/45z1vE8tR0Jl1CmKkG0Osz"
-    },
-    {
-      "added_at": "2026-09-25 06:00:22",
-      "album": {
         "name": "La M\u00e1quina del Tiempo",
         "url": "https://open.spotify.com/album/0aLytLEELAi75gqvjsynmA"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 186021,
       "name": "Ya Es Muy Tarde",
       "url": "https://open.spotify.com/track/6sGbcuvaz15btt3RupkRCO"
+    },
+    {
+      "added_at": "2026-09-25 06:00:22",
+      "album": {
+        "name": "Machin Love (En Vivo Desde La Arena Jalisco)",
+        "url": "https://open.spotify.com/album/0C9j9wOlaoX0aubYwnRNiY"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        }
+      ],
+      "duration_ms": 145562,
+      "name": "All\u00e1 Usted - En Vivo Desde la Arena Jalisco",
+      "url": "https://open.spotify.com/track/45z1vE8tR0Jl1CmKkG0Osz"
     },
     {
       "added_at": "2026-09-25 06:00:22",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
-        "name": "Mayo 2026 (En Vivo)",
-        "url": "https://open.spotify.com/album/6jsKO7bJmjTcChdM8S8bwt"
-      },
-      "artists": [
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
-        }
-      ],
-      "duration_ms": 136086,
-      "name": "La Mas Bonita De Todas - En Vivo",
-      "url": "https://open.spotify.com/track/6IGSZKQpHRkpXsIHsvhY6Z"
-    },
-    {
-      "added_at": "2026-09-25 06:00:22",
-      "album": {
         "name": "Coraz\u00f3n De Piedra",
         "url": "https://open.spotify.com/album/5ZjZuZ3vysQ0Poax9NZzeC"
       },
@@ -423,18 +407,34 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
-        "name": "La Tendr\u00e9 Que Olvidar",
-        "url": "https://open.spotify.com/album/2gSjwvm8bv3dtuSjndOYec"
+        "name": "Mayo 2026 (En Vivo)",
+        "url": "https://open.spotify.com/album/6jsKO7bJmjTcChdM8S8bwt"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
         }
       ],
-      "duration_ms": 241584,
-      "name": "La Tendr\u00e9 Que Olvidar",
-      "url": "https://open.spotify.com/track/3lvWyePXS1f6gCaWWr2S8m"
+      "duration_ms": 136086,
+      "name": "La Mas Bonita De Todas - En Vivo",
+      "url": "https://open.spotify.com/track/6IGSZKQpHRkpXsIHsvhY6Z"
+    },
+    {
+      "added_at": "2026-09-25 06:00:22",
+      "album": {
+        "name": "Por Salud Mental (Deluxe)",
+        "url": "https://open.spotify.com/album/2fwxl4SdfkEKQ2vqog4CLM"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 156973,
+      "name": "Por Qu\u00e9 Me Cre\u00edste",
+      "url": "https://open.spotify.com/track/0NDGniyOhZzTzGTvLFf6WU"
     },
     {
       "added_at": "2026-09-25 06:00:22",
@@ -459,18 +459,18 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
-        "name": "Por Salud Mental (Deluxe)",
-        "url": "https://open.spotify.com/album/2fwxl4SdfkEKQ2vqog4CLM"
+        "name": "La Tendr\u00e9 Que Olvidar",
+        "url": "https://open.spotify.com/album/2gSjwvm8bv3dtuSjndOYec"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Por Qu\u00e9 Me Cre\u00edste",
-      "url": "https://open.spotify.com/track/0NDGniyOhZzTzGTvLFf6WU"
+      "duration_ms": 241584,
+      "name": "La Tendr\u00e9 Que Olvidar",
+      "url": "https://open.spotify.com/track/3lvWyePXS1f6gCaWWr2S8m"
     },
     {
       "added_at": "2026-09-25 06:00:22",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
-        "name": "Lo Reconozco",
-        "url": "https://open.spotify.com/album/4Dl3bJg6rgReO32iwBXYLt"
-      },
-      "artists": [
-        {
-          "name": "Banda Estrellas De Sinaloa De German Lizarraga",
-          "url": "https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX"
-        }
-      ],
-      "duration_ms": 190482,
-      "name": "Lo Reconozco",
-      "url": "https://open.spotify.com/track/4AbhpA9whsYU3Z9uaUSw62"
-    },
-    {
-      "added_at": "2026-09-25 06:00:22",
-      "album": {
         "name": "Mis Canciones de Amor",
         "url": "https://open.spotify.com/album/6EsSzv7EqP0UEATuuotQ9t"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 175834,
       "name": "Mis Canciones de Amor",
       "url": "https://open.spotify.com/track/3yqiCLBbNKVZxqUWqMDxkr"
+    },
+    {
+      "added_at": "2026-09-25 06:00:22",
+      "album": {
+        "name": "Puras Pa Pistear Con La Clave De Oro",
+        "url": "https://open.spotify.com/album/59kZC16MCEVPCmF4SGBcgi"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "El Cholo",
+      "url": "https://open.spotify.com/track/4htxL7Hm8JhzHf2ZFXijRR"
     },
     {
       "added_at": "2026-09-25 06:00:22",
@@ -551,18 +551,34 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
-        "name": "Puras Pa Pistear Con La Clave De Oro",
-        "url": "https://open.spotify.com/album/59kZC16MCEVPCmF4SGBcgi"
+        "name": "Lo Reconozco",
+        "url": "https://open.spotify.com/album/4Dl3bJg6rgReO32iwBXYLt"
       },
       "artists": [
         {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+          "name": "Banda Estrellas De Sinaloa De German Lizarraga",
+          "url": "https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX"
         }
       ],
-      "duration_ms": 202666,
-      "name": "El Cholo",
-      "url": "https://open.spotify.com/track/4htxL7Hm8JhzHf2ZFXijRR"
+      "duration_ms": 190482,
+      "name": "Lo Reconozco",
+      "url": "https://open.spotify.com/track/4AbhpA9whsYU3Z9uaUSw62"
+    },
+    {
+      "added_at": "2026-09-25 06:00:22",
+      "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/6xeDrNGwSZzs0A2b6phaDf"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        }
+      ],
+      "duration_ms": 215714,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/0BEuxUQzzgusv2G7R9PCfG"
     },
     {
       "added_at": "2026-09-25 06:00:22",
@@ -607,22 +623,6 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/6xeDrNGwSZzs0A2b6phaDf"
-      },
-      "artists": [
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        }
-      ],
-      "duration_ms": 215714,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/0BEuxUQzzgusv2G7R9PCfG"
-    },
-    {
-      "added_at": "2026-09-25 06:00:22",
-      "album": {
         "name": "Que Nadie Sepa Mi Sufrir",
         "url": "https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 254973,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
+    },
+    {
+      "added_at": "2026-09-25 06:00:22",
+      "album": {
+        "name": "Eres Pasado",
+        "url": "https://open.spotify.com/album/4ITOsDeTwaLv6PNPKInVfZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Eres Pasado",
+      "url": "https://open.spotify.com/track/7Hz6BDxLKCxmwJfTkGEpKf"
     },
     {
       "added_at": "2026-09-25 06:00:22",
@@ -691,22 +707,6 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
-        "name": "Eres Pasado",
-        "url": "https://open.spotify.com/album/4ITOsDeTwaLv6PNPKInVfZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Eres Pasado",
-      "url": "https://open.spotify.com/track/7Hz6BDxLKCxmwJfTkGEpKf"
-    },
-    {
-      "added_at": "2026-09-25 06:00:22",
-      "album": {
         "name": "Aunque me duela",
         "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
-        "name": "Vete, Vete",
-        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Vete, Vete",
-      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
-    },
-    {
-      "added_at": "2026-09-25 06:00:22",
-      "album": {
         "name": "Primero Ens\u00e9\u00f1ate A Querer",
         "url": "https://open.spotify.com/album/5meDxtJWeTI00FtUmwmJDi"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
+        "name": "Vete, Vete",
+        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Vete, Vete",
+      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
+    },
+    {
+      "added_at": "2026-09-25 06:00:22",
+      "album": {
         "name": "Para Morir Iguales",
         "url": "https://open.spotify.com/album/5s2tw7VtMErMhiH7alRDBl"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 161666,
       "name": "Para Morir Iguales",
       "url": "https://open.spotify.com/track/2ITg39ACpx9PBgzEAEjznQ"
+    },
+    {
+      "added_at": "2026-09-25 06:00:22",
+      "album": {
+        "name": "Mi Segunda Vida",
+        "url": "https://open.spotify.com/album/4FvnPvfjao9mzHm9T0euBP"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 161384,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/2w6fPJcnlh5eT2QQuhPVL9"
     },
     {
       "added_at": "2026-09-25 06:00:22",
@@ -839,22 +855,6 @@
       "duration_ms": 156990,
       "name": "Si Por Casualidad",
       "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
-    },
-    {
-      "added_at": "2026-09-25 06:00:22",
-      "album": {
-        "name": "Mi Segunda Vida",
-        "url": "https://open.spotify.com/album/4FvnPvfjao9mzHm9T0euBP"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 161384,
-      "name": "Mi Segunda Vida",
-      "url": "https://open.spotify.com/track/2w6fPJcnlh5eT2QQuhPVL9"
     },
     {
       "added_at": "2026-09-25 06:00:22",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
-        "name": "No Me Conoces A\u00fan",
-        "url": "https://open.spotify.com/album/7zEcwf1KZ1PgNreQi3Lmgd"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 195319,
-      "name": "No Me Conoces A\u00fan",
-      "url": "https://open.spotify.com/track/126zmqC9Bu58MV8JVbQlSs"
-    },
-    {
-      "added_at": "2026-09-25 06:00:22",
-      "album": {
         "name": "Legado Coleccion 1 Regrabado",
         "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 230965,
       "name": "Mil Heridas",
       "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
+    },
+    {
+      "added_at": "2026-09-25 06:00:22",
+      "album": {
+        "name": "No Me Conoces A\u00fan",
+        "url": "https://open.spotify.com/album/7zEcwf1KZ1PgNreQi3Lmgd"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 195319,
+      "name": "No Me Conoces A\u00fan",
+      "url": "https://open.spotify.com/track/126zmqC9Bu58MV8JVbQlSs"
     },
     {
       "added_at": "2026-09-25 06:00:22",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
-        "name": "Y Sigues Siendo T\u00fa",
-        "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 162911,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
-    },
-    {
-      "added_at": "2026-09-25 06:00:22",
-      "album": {
         "name": "El Recuerdo Que Dej\u00f3",
         "url": "https://open.spotify.com/album/4Up6tMrKw9p929MnHKVSdT"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 192535,
       "name": "El Recuerdo Que Dej\u00f3",
       "url": "https://open.spotify.com/track/3C48UbZIHMs5cItujTxxqD"
+    },
+    {
+      "added_at": "2026-09-25 06:00:22",
+      "album": {
+        "name": "Y Sigues Siendo T\u00fa",
+        "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 162911,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
     },
     {
       "added_at": "2026-09-25 06:00:22",
@@ -1227,54 +1227,6 @@
     {
       "added_at": "2026-09-25 06:00:22",
       "album": {
-        "name": "Lo Pasado Pisado",
-        "url": "https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Lo Pasado Pisado",
-      "url": "https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77"
-    },
-    {
-      "added_at": "2026-09-25 06:00:22",
-      "album": {
-        "name": "Mi Gallo",
-        "url": "https://open.spotify.com/album/6EqlKXCCjePHSPgCnZnF1z"
-      },
-      "artists": [
-        {
-          "name": "Joel Elizalde",
-          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
-        }
-      ],
-      "duration_ms": 208833,
-      "name": "Mi Gallo",
-      "url": "https://open.spotify.com/track/2QI9b2TU9qCRBTSYkGyCEi"
-    },
-    {
-      "added_at": "2026-09-25 06:00:22",
-      "album": {
-        "name": "El Mejor Pretexto",
-        "url": "https://open.spotify.com/album/6wYzaVj8foAacMu9E59Qnz"
-      },
-      "artists": [
-        {
-          "name": "Cristian Maga\u00f1a",
-          "url": "https://open.spotify.com/artist/5R4mG4Hu2dY3f2NmJ0fNUQ"
-        }
-      ],
-      "duration_ms": 155997,
-      "name": "El Mejor Pretexto",
-      "url": "https://open.spotify.com/track/42AcHdRWYpWqzOAgqu5Amb"
-    },
-    {
-      "added_at": "2026-09-25 06:00:22",
-      "album": {
         "name": "Ya Se Acab\u00f3",
         "url": "https://open.spotify.com/album/6WcUmiYRpqhlP0l3Nq83sw"
       },
@@ -1303,6 +1255,54 @@
       "duration_ms": 145021,
       "name": "Ya Se Acab\u00f3",
       "url": "https://open.spotify.com/track/3D9AhW1jx7ZMxhk1wq7MyM"
+    },
+    {
+      "added_at": "2026-09-25 06:00:22",
+      "album": {
+        "name": "Lo Pasado Pisado",
+        "url": "https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "Lo Pasado Pisado",
+      "url": "https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77"
+    },
+    {
+      "added_at": "2026-09-25 06:00:22",
+      "album": {
+        "name": "El Mejor Pretexto",
+        "url": "https://open.spotify.com/album/6wYzaVj8foAacMu9E59Qnz"
+      },
+      "artists": [
+        {
+          "name": "Cristian Maga\u00f1a",
+          "url": "https://open.spotify.com/artist/5R4mG4Hu2dY3f2NmJ0fNUQ"
+        }
+      ],
+      "duration_ms": 155997,
+      "name": "El Mejor Pretexto",
+      "url": "https://open.spotify.com/track/42AcHdRWYpWqzOAgqu5Amb"
+    },
+    {
+      "added_at": "2026-09-25 06:00:22",
+      "album": {
+        "name": "Mi Gallo",
+        "url": "https://open.spotify.com/album/6EqlKXCCjePHSPgCnZnF1z"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        }
+      ],
+      "duration_ms": 208833,
+      "name": "Mi Gallo",
+      "url": "https://open.spotify.com/track/2QI9b2TU9qCRBTSYkGyCEi"
     },
     {
       "added_at": "2026-09-25 06:00:22",

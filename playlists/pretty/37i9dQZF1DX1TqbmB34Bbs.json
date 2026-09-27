@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABu8qOlJaR/KhcbwI8QUD47H8ls4",
+  "snapshot_id": "AAAAAFDVXvhePasKvspYSwv+Ds8RLGq/",
   "tracks": [
     {
       "added_at": "2026-09-23 02:09:38",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
-      },
-      "artists": [
-        {
-          "name": "NOWIMYOUNG",
-          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
-        },
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 283298,
-      "name": "Animal (Feat. E SENS) (Prod. by Hukky Shibaseki)",
-      "url": "https://open.spotify.com/track/7IbvjT2EMzYFDUiu0VpkuN"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
         "name": "BACK DOWN",
         "url": "https://open.spotify.com/album/5rjo3sCjv3c7dY2FLkLOW2"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 150000,
       "name": "BACK DOWN",
       "url": "https://open.spotify.com/track/4E1egheawgJiXzX8AsIK7W"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        },
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 283298,
+      "name": "Animal (Feat. E SENS) (Prod. by Hukky Shibaseki)",
+      "url": "https://open.spotify.com/track/7IbvjT2EMzYFDUiu0VpkuN"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
+        "name": "Dogma",
+        "url": "https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC"
+      },
+      "artists": [
+        {
+          "name": "Kim Ximya",
+          "url": "https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q"
+        }
+      ],
+      "duration_ms": 138228,
+      "name": "It\u2019s That",
+      "url": "https://open.spotify.com/track/5odBcnzDz02fXc9qBYckOU"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
         "name": "Show Me The Money 12 Episode 2",
         "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 202000,
       "name": "DIRT! (Feat. ZICO) (Prod. by ZICO)",
       "url": "https://open.spotify.com/track/6IsblvUWlwFjo5nA9TWpB9"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
-        "name": "Dogma",
-        "url": "https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC"
-      },
-      "artists": [
-        {
-          "name": "Kim Ximya",
-          "url": "https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q"
-        }
-      ],
-      "duration_ms": 138228,
-      "name": "It\u2019s That",
-      "url": "https://open.spotify.com/track/5odBcnzDz02fXc9qBYckOU"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -1155,6 +1155,30 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "Tray B",
+          "url": "https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5"
+        },
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "BAOW (Feat. Jay Park) (Prod. by Lil Moshpit)",
+      "url": "https://open.spotify.com/track/7uZ2OWKKrWTyqycyVmxJQQ"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
         "name": "mp3",
         "url": "https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF"
       },
@@ -1180,30 +1204,6 @@
       },
       "artists": [
         {
-          "name": "Tray B",
-          "url": "https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5"
-        },
-        {
-          "name": "Lil Moshpit",
-          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "BAOW (Feat. Jay Park) (Prod. by Lil Moshpit)",
-      "url": "https://open.spotify.com/track/7uZ2OWKKrWTyqycyVmxJQQ"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
-      },
-      "artists": [
-        {
           "name": "ZENE THE ZILLA",
           "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
         },
@@ -1219,6 +1219,22 @@
       "duration_ms": 208361,
       "name": "2 Chainz & Rollies 2026 (Feat. The Quiett) (Prod. by Lil Moshpit)",
       "url": "https://open.spotify.com/track/4fLEhL7E1SJhvZNL4ZSCpW"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/4VZOjrA3eg9sbndnGy9CSz"
+      },
+      "artists": [
+        {
+          "name": "Fleeky Bang",
+          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
+        }
+      ],
+      "duration_ms": 197476,
+      "name": "Fashion Nova (with NOWIMYOUNG)",
+      "url": "https://open.spotify.com/track/214866e5oZIZTIv7Da6YVS"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/1BYJ0RHbpmJQWUxTtXDvhF"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey White",
-          "url": "https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "\uac1c\uc0c8\ub07c",
-      "url": "https://open.spotify.com/track/1njduJBd5hXOAoqgHiGk1f"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
         "name": "Show Me the Money 6 Episode 3",
         "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/1BYJ0RHbpmJQWUxTtXDvhF"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey White",
+          "url": "https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "\uac1c\uc0c8\ub07c",
+      "url": "https://open.spotify.com/track/1njduJBd5hXOAoqgHiGk1f"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
         "name": "Show Me The Money 12 Episode 2",
         "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 228000,
       "name": "BOUNCE BACK (Feat. Jay Park) (Prod. by Lil Moshpit)",
       "url": "https://open.spotify.com/track/7LAehmIkKXv2ag7WoKQjcl"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
-        "name": "ANTI",
-        "url": "https://open.spotify.com/album/4VZOjrA3eg9sbndnGy9CSz"
-      },
-      "artists": [
-        {
-          "name": "Fleeky Bang",
-          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
-        }
-      ],
-      "duration_ms": 197476,
-      "name": "Fashion Nova (with NOWIMYOUNG)",
-      "url": "https://open.spotify.com/track/214866e5oZIZTIv7Da6YVS"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
+        "name": "Acrobat2",
+        "url": "https://open.spotify.com/album/304DvtYxxinY180ueQrB6d"
+      },
+      "artists": [
+        {
+          "name": "Gwangil Jo",
+          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Acrobat2",
+      "url": "https://open.spotify.com/track/1lr3eme5yOQOAplN5IeDyn"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 141093,
       "name": "Moshpit Only (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/14J3fFtcGjaGqReC9bnQAz"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
-        "name": "Acrobat2",
-        "url": "https://open.spotify.com/album/304DvtYxxinY180ueQrB6d"
-      },
-      "artists": [
-        {
-          "name": "Gwangil Jo",
-          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "Acrobat2",
-      "url": "https://open.spotify.com/track/1lr3eme5yOQOAplN5IeDyn"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
-        "name": "ESCAPE",
-        "url": "https://open.spotify.com/album/2i6JiVgJUwNU7Zh5PEa4FU"
-      },
-      "artists": [
-        {
-          "name": "EK",
-          "url": "https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "What's up",
-      "url": "https://open.spotify.com/track/73sAeLL6L0hduuhv0Eozq7"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
         "name": "No Lowkey",
         "url": "https://open.spotify.com/album/7wiYzDeFQ3HMY1iTxKkw4E"
       },
@@ -2123,6 +2107,42 @@
       "duration_ms": 139200,
       "name": "No Lowkey",
       "url": "https://open.spotify.com/track/6AcT7whSpUEaCncx24QFml"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
+        "name": "ESCAPE",
+        "url": "https://open.spotify.com/album/2i6JiVgJUwNU7Zh5PEa4FU"
+      },
+      "artists": [
+        {
+          "name": "EK",
+          "url": "https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "What's up",
+      "url": "https://open.spotify.com/track/73sAeLL6L0hduuhv0Eozq7"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
+        "name": "YAYO (Feat. Slim 9lock)",
+        "url": "https://open.spotify.com/album/1bi4xVDtw9MMOW30seM4is"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Paige",
+          "url": "https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK"
+        },
+        {
+          "name": "Slim 9lock",
+          "url": "https://open.spotify.com/artist/0th6fLI9VttKJ9gIjoNPAM"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "YAYO (Feat. Slim9lock)",
+      "url": "https://open.spotify.com/track/31pv3Qj2wNfFIZ9ymhSL6L"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -2191,22 +2211,26 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
-        "name": "YAYO (Feat. Slim 9lock)",
-        "url": "https://open.spotify.com/album/1bi4xVDtw9MMOW30seM4is"
+        "name": "Show Me The Money 9 Semi Final",
+        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
       "artists": [
         {
-          "name": "Jimmy Paige",
-          "url": "https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         },
         {
-          "name": "Slim 9lock",
-          "url": "https://open.spotify.com/artist/0th6fLI9VttKJ9gIjoNPAM"
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 204800,
-      "name": "YAYO (Feat. Slim9lock)",
-      "url": "https://open.spotify.com/track/31pv3Qj2wNfFIZ9ymhSL6L"
+      "duration_ms": 225665,
+      "name": "No Bad Dogs (feat. YDG, Zion.T) (Prod. Slom)",
+      "url": "https://open.spotify.com/track/1BVXVMH9da5wS4fe6vCVqS"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -2231,30 +2255,6 @@
       "duration_ms": 270500,
       "name": "Red Light (Feat. BIG Naughty) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/0dLsjLIoEpiBWVvYO0jfB3"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
-        "name": "Show Me The Money 9 Semi Final",
-        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        },
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 225665,
-      "name": "No Bad Dogs (feat. YDG, Zion.T) (Prod. Slom)",
-      "url": "https://open.spotify.com/track/1BVXVMH9da5wS4fe6vCVqS"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
+        "name": "Saecheonnyeon",
+        "url": "https://open.spotify.com/album/56gIlt2l9TEQJHyQVGagCt"
+      },
+      "artists": [
+        {
+          "name": "unofficialboyy",
+          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
+        }
+      ],
+      "duration_ms": 141720,
+      "name": "Saecheonnyeon",
+      "url": "https://open.spotify.com/track/1zrHuulBlN9icULhey6WBt"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
         "name": "GENERATION",
         "url": "https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b"
       },
@@ -2543,22 +2559,6 @@
       "duration_ms": 145986,
       "name": "Bounce Dat A$$ (feat. 365LIT)",
       "url": "https://open.spotify.com/track/4n9y5hEcL9cxz4gA1N5pb5"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
-        "name": "Saecheonnyeon",
-        "url": "https://open.spotify.com/album/56gIlt2l9TEQJHyQVGagCt"
-      },
-      "artists": [
-        {
-          "name": "unofficialboyy",
-          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
-        }
-      ],
-      "duration_ms": 141720,
-      "name": "Saecheonnyeon",
-      "url": "https://open.spotify.com/track/1zrHuulBlN9icULhey6WBt"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -2727,26 +2727,6 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
-        "name": "Street Woman Fighter2 (SWF2) Crew Songs",
-        "url": "https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "YUNHWAY",
-          "url": "https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Walk (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/7x63NRJmiUmckjwkKapaNy"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
       },
@@ -2763,6 +2743,26 @@
       "duration_ms": 187102,
       "name": "LANGUAGE (feat. BOBBY)",
       "url": "https://open.spotify.com/track/05Wr1iNSvrliYhjxux5fzS"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
+        "name": "Street Woman Fighter2 (SWF2) Crew Songs",
+        "url": "https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "YUNHWAY",
+          "url": "https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Walk (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/7x63NRJmiUmckjwkKapaNy"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -2799,34 +2799,6 @@
       "duration_ms": 107407,
       "name": "Cap",
       "url": "https://open.spotify.com/track/2w2uQsuzr8Hj5i9Ct83IIf"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK"
-      },
-      "artists": [
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        },
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        },
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        },
-        {
-          "name": "sAewoo",
-          "url": "https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Seoul City - Spotify Singles",
-      "url": "https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -2871,6 +2843,34 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "sAewoo",
+          "url": "https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Seoul City - Spotify Singles",
+      "url": "https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
         "name": "The Movie Star",
         "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
       },
@@ -2903,42 +2903,6 @@
       "duration_ms": 123120,
       "name": "Dillis",
       "url": "https://open.spotify.com/track/1sEO3COhUlmYx3e4W6wnND"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
-        "name": "RUN! (KAEOH626, J-Tong, Huckleberry P, SOIR\u00c9E & Dok2 REMIX)",
-        "url": "https://open.spotify.com/album/6qkou5djxo7ghbltrYNCna"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        },
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Huckleberry P",
-          "url": "https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS"
-        },
-        {
-          "name": "J-Tong",
-          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
-        },
-        {
-          "name": "KAEOH626",
-          "url": "https://open.spotify.com/artist/7bVDfaIjMuTAJCD4EcY9RT"
-        },
-        {
-          "name": "SOIR\u00c9E",
-          "url": "https://open.spotify.com/artist/2cKJbcjUaZHXOqtT9v22jk"
-        }
-      ],
-      "duration_ms": 338371,
-      "name": "RUN! (KAEOH626, J-Tong, Huckleberry P, SOIR\u00c9E & Dok2 REMIX)",
-      "url": "https://open.spotify.com/track/0VrR6fmBMGCIL36Kzrezjz"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -3011,6 +2975,42 @@
       "duration_ms": 316000,
       "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
       "url": "https://open.spotify.com/track/1Jaf1PUUwzXZ3bCJ6mBjPh"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
+        "name": "RUN! (KAEOH626, J-Tong, Huckleberry P, SOIR\u00c9E & Dok2 REMIX)",
+        "url": "https://open.spotify.com/album/6qkou5djxo7ghbltrYNCna"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        },
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Huckleberry P",
+          "url": "https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS"
+        },
+        {
+          "name": "J-Tong",
+          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
+        },
+        {
+          "name": "KAEOH626",
+          "url": "https://open.spotify.com/artist/7bVDfaIjMuTAJCD4EcY9RT"
+        },
+        {
+          "name": "SOIR\u00c9E",
+          "url": "https://open.spotify.com/artist/2cKJbcjUaZHXOqtT9v22jk"
+        }
+      ],
+      "duration_ms": 338371,
+      "name": "RUN! (KAEOH626, J-Tong, Huckleberry P, SOIR\u00c9E & Dok2 REMIX)",
+      "url": "https://open.spotify.com/track/0VrR6fmBMGCIL36Kzrezjz"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -3175,26 +3175,6 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
-        "name": "WYA?",
-        "url": "https://open.spotify.com/album/63CcTzpw4kZMJiRhXCCqtE"
-      },
-      "artists": [
-        {
-          "name": "KOALA",
-          "url": "https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ"
-        },
-        {
-          "name": "Double Down",
-          "url": "https://open.spotify.com/artist/4pbV1Vv8u69lPLXvUo7dcU"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "WYA?",
-      "url": "https://open.spotify.com/track/4YVt9Ra3eoOEigViiwZec4"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
         "name": "BLAS\u00c9 2",
         "url": "https://open.spotify.com/album/5kM60Roh5piPeQJ5gABXJG"
       },
@@ -3215,6 +3195,26 @@
       "duration_ms": 153684,
       "name": "Domain Expansion (Feat. BILL STAX, TRADE L)",
       "url": "https://open.spotify.com/track/7iJhKyMTC7JNoq1KAhbZpa"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
+        "name": "WYA?",
+        "url": "https://open.spotify.com/album/63CcTzpw4kZMJiRhXCCqtE"
+      },
+      "artists": [
+        {
+          "name": "KOALA",
+          "url": "https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ"
+        },
+        {
+          "name": "Double Down",
+          "url": "https://open.spotify.com/artist/4pbV1Vv8u69lPLXvUo7dcU"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "WYA?",
+      "url": "https://open.spotify.com/track/4YVt9Ra3eoOEigViiwZec4"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -3303,34 +3303,22 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
-        "name": "RIDERS",
-        "url": "https://open.spotify.com/album/5KH38MvGoRjseF0zEAH8aV"
+        "name": "School Rapper4 Semi Final 2",
+        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
       "artists": [
         {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
         },
         {
-          "name": "Chin",
-          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
-        },
-        {
-          "name": "UNEDUCATED KID",
-          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Tiger JK",
-          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
         }
       ],
-      "duration_ms": 254800,
-      "name": "RIDERS (Feat. Chin, UNEDUCATED KID, Jay Park & Tiger JK)",
-      "url": "https://open.spotify.com/track/0VVB1l4jFUpXwBCUDIBTvo"
+      "duration_ms": 158060,
+      "name": "I\u2019M FINE (Feat. Yumdda)",
+      "url": "https://open.spotify.com/track/5w2WQ24nkuhuPArfvBLCvX"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -3359,22 +3347,34 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
-        "name": "School Rapper4 Semi Final 2",
-        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+        "name": "RIDERS",
+        "url": "https://open.spotify.com/album/5KH38MvGoRjseF0zEAH8aV"
       },
       "artists": [
         {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
         },
         {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
+        },
+        {
+          "name": "UNEDUCATED KID",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
         }
       ],
-      "duration_ms": 158060,
-      "name": "I\u2019M FINE (Feat. Yumdda)",
-      "url": "https://open.spotify.com/track/5w2WQ24nkuhuPArfvBLCvX"
+      "duration_ms": 254800,
+      "name": "RIDERS (Feat. Chin, UNEDUCATED KID, Jay Park & Tiger JK)",
+      "url": "https://open.spotify.com/track/0VVB1l4jFUpXwBCUDIBTvo"
     },
     {
       "added_at": "2026-09-23 02:09:38",
@@ -3695,6 +3695,22 @@
     {
       "added_at": "2026-09-23 02:09:38",
       "album": {
+        "name": "500000",
+        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
+      },
+      "artists": [
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "I Was a Boom Bap Kid",
+      "url": "https://open.spotify.com/track/6u4OldGALxukkYeVCf82Wf"
+    },
+    {
+      "added_at": "2026-09-23 02:09:38",
+      "album": {
         "name": "Play (feat. Sion) [Original Television Soundtrack From \"Duty After School\"]",
         "url": "https://open.spotify.com/album/5r2gn0St4o9aaO1ruCKdM6"
       },
@@ -3711,22 +3727,6 @@
       "duration_ms": 187482,
       "name": "Play (feat. Sion) [Original Television Soundtrack From \"Duty After School\"]",
       "url": "https://open.spotify.com/track/4k3wtHeshonyd9RWJOHcm6"
-    },
-    {
-      "added_at": "2026-09-23 02:09:38",
-      "album": {
-        "name": "500000",
-        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
-      },
-      "artists": [
-        {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "I Was a Boom Bap Kid",
-      "url": "https://open.spotify.com/track/6u4OldGALxukkYeVCf82Wf"
     },
     {
       "added_at": "2026-09-23 02:09:38",

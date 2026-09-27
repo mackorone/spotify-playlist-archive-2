@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Estoy Bien
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,705 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,687 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Madrid](https://open.spotify.com/track/3fkRI6sdkQUy6ss8Qw2H4b) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Madrid](https://open.spotify.com/album/2UslDEdj1lVeETc4aD6c6e) | 3:32 |
 | 50 | [Néctar](https://open.spotify.com/track/3S8HOEksXCLioo9zAZ9E7p) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe) | [Néctar](https://open.spotify.com/album/5EidcfvB4IjK72FjDDnGE6) | 2:41 |
 
-Snapshot ID: `AAAAAJuCPuVI2VyTAuvv9BHBCFKa/bom`
+Snapshot ID: `AAAAAD1nAJxrND5oKMU9TGs4v6EX+aKI`

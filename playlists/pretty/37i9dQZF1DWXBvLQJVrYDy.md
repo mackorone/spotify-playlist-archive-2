@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,498 likes - 78 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,673 likes - 78 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 77 | [When You're Not Around Me](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 |
 | 78 | [Break the lines](https://open.spotify.com/track/6bKxkGEyWDa9dYFLW1rCoS) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [Break the lines](https://open.spotify.com/album/5Yozs3uJhsT54sRtK0BTqV) | 3:05 |
 
-Snapshot ID: `AAAAAIzo+I8ieg4C3GdgGC4ZXIkd8ows`
+Snapshot ID: `AAAAAPs6xILDZwLjV22KN/aCEh0IgLu2`

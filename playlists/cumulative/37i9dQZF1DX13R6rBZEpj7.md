@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-419 songs - 23 hr 56 min
+420 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [The Truth](https://open.spotify.com/track/7jzBBm22dDJ2C5LfNRw4M8) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY), [Dynascope](https://open.spotify.com/artist/65a4hTtln4GW1NNkJe72eb) | [The Truth](https://open.spotify.com/album/6KKQ3ys4B4FShi6tuqqMGs) | 3:52 | 2022-06-10 | 2022-09-15 |
 | [The Wave](https://open.spotify.com/track/6ECB01l2JrXC9zSMjbu3Qb) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [Griz\-O](https://open.spotify.com/artist/11FUGhExWgQVPjgTvblbHQ) | [The Wave](https://open.spotify.com/album/2mwDSMgWkuP8zX8CByskud) | 4:28 | 2022-04-15 | 2023-05-23 |
 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 | 2025-05-01 |  |
+| [the\_1](https://open.spotify.com/track/2kdUxRznNPG1G0PdyvA8aE) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [the\_1](https://open.spotify.com/album/2dBiSTOvZ6Q0r3owadT63F) | 2:21 | 2026-09-24 |  |
 | [Things You Do](https://open.spotify.com/track/6PLBibkZhlekUzOHpC9fA2) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy) | [Things You Do](https://open.spotify.com/album/5ch62hy1cnDbYpQMUKNCWT) | 3:56 | 2022-04-15 | 2022-07-27 |
 | [Thinking Bout You More](https://open.spotify.com/track/5bIzuYtgBrEGqhY9aG0mOc) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Thinking Bout You More](https://open.spotify.com/album/4vz3k9z9zTWGgemOVPukfe) | 2:25 | 2025-11-27 | 2026-05-30 |
 | [This Sound](https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Kaya](https://open.spotify.com/artist/2ZQgZayNg80uKN5pjwv30k) | [This Sound](https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws) | 4:17 | 2022-06-20 | 2024-11-21 |
@@ -398,7 +399,7 @@
 | [U Get Me](https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL) | [U Get Me](https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko) | 5:22 | 2022-04-15 | 2022-11-12 |
 | [UK Flavour](https://open.spotify.com/track/0nMbPNQEbZEIvZj8EbkFKn) | [IYRE](https://open.spotify.com/artist/4lOMuHPiA5TrLjPk1aseIc), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Foreign Beggars](https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G) | [UK Flavour](https://open.spotify.com/album/3ikZPi3R6t82sQd7qbUVvt) | 3:05 | 2025-04-17 | 2025-05-30 |
 | [Understand Your Greatness](https://open.spotify.com/track/0OINkv2srrpGe2SZvcaNOg) | [Bailey P](https://open.spotify.com/artist/7MJpKixo6xeRETtQC1KFHd) | [Understand Your Greatness](https://open.spotify.com/album/1Ff2JMxJnkdAxIXcQEywke) | 3:22 | 2025-04-03 | 2025-04-28 |
-| [Ur Number](https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn) | [N3RD](https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR), [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Marky B](https://open.spotify.com/artist/15k1qXazWMXAuvcYb59XFj) | [Ur Number](https://open.spotify.com/album/4uTybjyrLbp6zCrENn0bKN) | 2:35 | 2025-10-02 |  |
+| [Ur Number](https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn) | [N3RD](https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR), [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Marky B](https://open.spotify.com/artist/15k1qXazWMXAuvcYb59XFj) | [Ur Number](https://open.spotify.com/album/4uTybjyrLbp6zCrENn0bKN) | 2:35 | 2025-10-02 | 2026-09-27 |
 | [Verdansk VIP \- VIP](https://open.spotify.com/track/0VMcpOqA0TF5es9miEFje3) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Verdansk VIP](https://open.spotify.com/album/2wPo6DxCOZME6CwIyegjsx) | 5:02 | 2022-06-10 | 2022-07-29 |
 | [Von dutch remix with skream & benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream & Benga](https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38) | [Von dutch remix with skream & benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 | 2024-05-17 | 2026-01-16 |
 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 | 2022-04-15 | 2024-11-07 |

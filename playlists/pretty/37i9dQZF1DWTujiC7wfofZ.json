@@ -1,12 +1,12 @@
 {
   "description": "100% indie floorfillers.",
-  "num_followers": 458037,
+  "num_followers": 458051,
   "original_name": "Indie Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAANkKrt7vI9j40OVOfDVwQrh+EmG",
+  "snapshot_id": "AAAAAPwpWx8LB2WwoekKNXqt00PJrH0j",
   "tracks": [
     {
       "added_at": "2024-12-20 01:31:11",
@@ -229,20 +229,20 @@
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
-      "added_at": "2024-12-20 01:31:11",
+      "added_at": "2024-12-30 11:00:05",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         }
       ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+      "duration_ms": 285853,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -261,20 +261,20 @@
       "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
+      "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 285853,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Good News For People Who Love Bad News",
         "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 208466,
       "name": "Float On",
       "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193506,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 238786,
       "name": "Call It What You Want",
       "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "Panic Prevention",
-        "url": "https://open.spotify.com/album/15P0EFs78iLbc5rOLSkYYG"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 259813,
-      "name": "Sheila",
-      "url": "https://open.spotify.com/track/0FGtGmz8SVEywhUqNFYWsQ"
-    },
-    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "Tourist History",
@@ -1567,6 +1551,22 @@
       "duration_ms": 177426,
       "name": "I Can Talk",
       "url": "https://open.spotify.com/track/6W7rf0mCRfcvz5RpRdwLfm"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "Panic Prevention",
+        "url": "https://open.spotify.com/album/15P0EFs78iLbc5rOLSkYYG"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 259813,
+      "name": "Sheila",
+      "url": "https://open.spotify.com/track/0FGtGmz8SVEywhUqNFYWsQ"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1729,22 +1729,6 @@
       "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "Standing in the Way of Control",
-        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 256400,
-      "name": "Standing in the Way of Control",
-      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
-    },
-    {
       "added_at": "2024-12-30 11:00:05",
       "album": {
         "name": "Volcano",
@@ -1763,6 +1747,22 @@
       "duration_ms": 226280,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Standing in the Way of Control",
+        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 256400,
+      "name": "Standing in the Way of Control",
+      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-12-30 11:00:05",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 250692,
-      "name": "Around Town",
-      "url": "https://open.spotify.com/track/36pHJ5lqNQTLLzGTy8G7xV"
-    },
-    {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
         "name": "Paradise State of Mind",
         "url": "https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 259252,
       "name": "Lost In Space",
       "url": "https://open.spotify.com/track/6r9GzPEdq4bGp507oxt2iZ"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 250692,
+      "name": "Around Town",
+      "url": "https://open.spotify.com/track/36pHJ5lqNQTLLzGTy8G7xV"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -2057,6 +2057,22 @@
       "url": "https://open.spotify.com/track/57PuRFQ41OhhWAFxLh7zXz"
     },
     {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "The world within our bedrooms",
+        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 153746,
+      "name": "Frame Of Reference",
+      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
+    },
+    {
       "added_at": "2024-12-30 11:00:05",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
@@ -2075,22 +2091,6 @@
       "duration_ms": 205938,
       "name": "Girl, so confusing featuring lorde",
       "url": "https://open.spotify.com/track/597W049n13m86dgV0dbLae"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "The world within our bedrooms",
-        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        }
-      ],
-      "duration_ms": 153746,
-      "name": "Frame Of Reference",
-      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
     },
     {
       "added_at": "2024-12-20 01:31:11",

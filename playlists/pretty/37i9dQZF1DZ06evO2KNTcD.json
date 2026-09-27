@@ -1,12 +1,12 @@
 {
   "description": "This is Jae Stephens. The essential tracks, all in one playlist.",
-  "num_followers": 715,
+  "num_followers": 718,
   "original_name": "This Is Jae Stephens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAABuel4SxggUR2L+gPocFOpz",
+  "snapshot_id": "arW5gAAAAACcl7qvV1QmK+nWurTs7/jW",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 180986,
       "name": "I Miss The City",
       "url": "https://open.spotify.com/track/3huxbU1AE3HrAkcU1X5zVc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 169093,
+      "name": "Expensive & Difficult",
+      "url": "https://open.spotify.com/track/5M2AlK2QmQEgWbtGjj0epX"
     },
     {
       "added_at": null,
@@ -91,6 +107,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 164373,
+      "name": "No One Knows My Name",
+      "url": "https://open.spotify.com/track/2ZE9yg4LKGXSh6NjbLQlCj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Miss The City / Gymnastics",
+        "url": "https://open.spotify.com/album/4GLLLTFMT9fUD04hGiac6Q"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "Gymnastics",
+      "url": "https://open.spotify.com/track/0L6EbFzeKITZ82rlvavtIa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/6uBWH6Z1VqURYQGJIyhPBn"
       },
@@ -115,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Miss The City / Gymnastics",
-        "url": "https://open.spotify.com/album/4GLLLTFMT9fUD04hGiac6Q"
+        "name": "TOTAL SELLOUT",
+        "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
       },
       "artists": [
         {
@@ -124,9 +172,25 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 162880,
-      "name": "Gymnastics",
-      "url": "https://open.spotify.com/track/0L6EbFzeKITZ82rlvavtIa"
+      "duration_ms": 185626,
+      "name": "Him&Him&Him",
+      "url": "https://open.spotify.com/track/3XUitxCgL4dCljBdhoDJO7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "B4U",
+      "url": "https://open.spotify.com/track/6H1V8A3LEtogBwoCI2QIoO"
     },
     {
       "added_at": null,
@@ -147,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOTAL SELLOUT",
-        "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "Him&Him&Him",
-      "url": "https://open.spotify.com/track/3XUitxCgL4dCljBdhoDJO7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And Friends",
         "url": "https://open.spotify.com/album/7FArNYvyeMXYTECCmHoqUe"
       },
@@ -179,6 +227,38 @@
       "duration_ms": 163661,
       "name": "Gold (feat. Parisalexa)",
       "url": "https://open.spotify.com/track/5K7UdrgyWZPjmiAXLen783"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOTAL SELLOUT",
+        "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 176300,
+      "name": "Body Favors",
+      "url": "https://open.spotify.com/track/2obj6HfJslPQdfTUpM8ywG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 232386,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/6yQ6pAJ5CCgJ2vWNQqdGMq"
     },
     {
       "added_at": null,
@@ -224,9 +304,41 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 176300,
-      "name": "Body Favors",
-      "url": "https://open.spotify.com/track/2obj6HfJslPQdfTUpM8ywG"
+      "duration_ms": 178573,
+      "name": "Boyfriend Forever",
+      "url": "https://open.spotify.com/track/6o4tdluxrx4gDOyuweL866"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/7pRrlsZm66TRUJi5OaPTNX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High My Name Is",
+        "url": "https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 175923,
+      "name": "High My Name Is",
+      "url": "https://open.spotify.com/track/7CtGIu3D2Xid9UgnHzE8pO"
     },
     {
       "added_at": null,
@@ -251,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "High My Name Is",
-        "url": "https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV"
+        "name": "TOTAL SELLOUT",
+        "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
       },
       "artists": [
         {
@@ -260,9 +372,25 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 175923,
-      "name": "High My Name Is",
-      "url": "https://open.spotify.com/track/7CtGIu3D2Xid9UgnHzE8pO"
+      "duration_ms": 189395,
+      "name": "WET",
+      "url": "https://open.spotify.com/track/1Wb8kMQTcZmoMo9faO7oyA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Soft Side",
+      "url": "https://open.spotify.com/track/2VwBpYBX9Fi3dPe8qDYCiu"
     },
     {
       "added_at": null,
@@ -287,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOTAL SELLOUT",
-        "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
+        "name": "High My Name Is",
+        "url": "https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV"
       },
       "artists": [
         {
@@ -296,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 178573,
-      "name": "Boyfriend Forever",
-      "url": "https://open.spotify.com/track/6o4tdluxrx4gDOyuweL866"
+      "duration_ms": 161059,
+      "name": "Investment",
+      "url": "https://open.spotify.com/track/3yi5g2aJUuIMMFFAvelHE6"
     },
     {
       "added_at": null,
@@ -319,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "High My Name Is",
-        "url": "https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV"
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
       },
       "artists": [
         {
@@ -328,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 161059,
-      "name": "Investment",
-      "url": "https://open.spotify.com/track/3yi5g2aJUuIMMFFAvelHE6"
+      "duration_ms": 203986,
+      "name": "Downhill",
+      "url": "https://open.spotify.com/track/75LOalaw37fgTkL3mSe3XF"
     },
     {
       "added_at": null,
@@ -351,38 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOTAL SELLOUT",
-        "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 189395,
-      "name": "WET",
-      "url": "https://open.spotify.com/track/1Wb8kMQTcZmoMo9faO7oyA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "f**k it i'll do it myself",
-        "url": "https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "girl no more",
-      "url": "https://open.spotify.com/track/0TcFc4AVY00ZkVpZJhPTYb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And Friends",
         "url": "https://open.spotify.com/album/7FArNYvyeMXYTECCmHoqUe"
       },
@@ -399,6 +495,22 @@
       "duration_ms": 200222,
       "name": "Already On It (feat. VanJess)",
       "url": "https://open.spotify.com/track/4jqnSOR7LY14CFjscQN5eO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "f**k it i'll do it myself",
+        "url": "https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "girl no more",
+      "url": "https://open.spotify.com/track/0TcFc4AVY00ZkVpZJhPTYb"
     },
     {
       "added_at": null,
@@ -435,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "f**k it i'll do it myself",
-        "url": "https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 184204,
-      "name": "hate LA",
-      "url": "https://open.spotify.com/track/68VZYVbqmDzqaBvH9Lpeq4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/5l2DbtOZqazxbx3w2p8sBw"
       },
@@ -463,6 +559,22 @@
       "duration_ms": 214182,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/6eXwjspkJrSnddEOlSOZj1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "f**k it i'll do it myself",
+        "url": "https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 184204,
+      "name": "hate LA",
+      "url": "https://open.spotify.com/track/68VZYVbqmDzqaBvH9Lpeq4"
     },
     {
       "added_at": null,
@@ -499,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "f**k it i'll do it myself",
-        "url": "https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 204708,
-      "name": "2019",
-      "url": "https://open.spotify.com/track/16b6aJMurd3OxBo92UDtyw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Every Time",
         "url": "https://open.spotify.com/album/0kqpfZCDG8NhePJQMhbiFd"
       },
@@ -527,6 +623,22 @@
       "duration_ms": 216750,
       "name": "Every Time",
       "url": "https://open.spotify.com/track/6NbQqHnfEcAHBPur9IckVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "f**k it i'll do it myself",
+        "url": "https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 204708,
+      "name": "2019",
+      "url": "https://open.spotify.com/track/16b6aJMurd3OxBo92UDtyw"
     },
     {
       "added_at": null,

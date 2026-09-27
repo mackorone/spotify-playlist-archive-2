@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Taylor Swift, Dardan, Madonna, Charli xcx, EAZ, XEN, Tiakola & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,632 likes - 104 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,634 likes - 104 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 29 | [Vergessen](https://open.spotify.com/track/5bABCHSlFAsetJuWHAa8Tt) | [Seulfa](https://open.spotify.com/artist/7bbqldmfBkBtAyjjBVs4xA) | [Vergessen](https://open.spotify.com/album/6dn2tNWfhTNLhql28OKTLZ) | 2:18 |
 | 30 | [Powerade](https://open.spotify.com/track/1LbhmgRTckgra2d1bpm8H5) | [Yuyu19](https://open.spotify.com/artist/3wuA3QZh6k6Vz9XQmVes4B), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [H\*\*\*\*\*](https://open.spotify.com/album/62cOQGK43njV8YdsjzUrKt) | 2:12 |
 | 31 | [WhatsApp Chat](https://open.spotify.com/track/6b017cWxlo5DTLl6nRoZjC) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [Whatsapp Chat](https://open.spotify.com/album/5eXdBnvdp4q9NKpX4WCuYi) | 2:06 |
-| 32 | [fliegen](https://open.spotify.com/track/2NYJv15WMhGbFN7L6CQQWi) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [fliegen](https://open.spotify.com/album/1GdGfvTaKumEUV2rXemugH) | 2:37 |
+| 32 | [fliegen](https://open.spotify.com/track/2NYJv15WMhGbFN7L6CQQWi) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [GX488](https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa) | [fliegen](https://open.spotify.com/album/1GdGfvTaKumEUV2rXemugH) | 2:37 |
 | 33 | [SENZA IMPEGNO \(feat\. Guè\)](https://open.spotify.com/track/4I49zIYbsUEjINYlPX6E7s) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [SENZA IMPEGNO \(feat\. Guè\)](https://open.spotify.com/album/4vYsJJ7wmoqcqEx8oPtr8j) | 2:37 |
 | 34 | [tgif](https://open.spotify.com/track/0Ii8PZ7po2f8cZ8AhbkWyn) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Big Pat](https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl) | [tgif](https://open.spotify.com/album/6wcSyUtOyOkMBXQnOtAYEs) | 2:29 |
 | 35 | [Walti](https://open.spotify.com/track/3aORlDo39RwfHxxoqIvdZh) | [LCone](https://open.spotify.com/artist/10fua9lLREs5JISPcCyyJn) | [Walti](https://open.spotify.com/album/1y1VhBOwQciJPBJJB6Jzaa) | 2:12 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 103 | [A Different World \(from the Netflix Series\)](https://open.spotify.com/track/1WyAfSf0oMZuxB31HBlnoB) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [A Different World \(from the Netflix Series\)](https://open.spotify.com/album/6eXLezqrd8vyh3pLYD1Wzo) | 1:37 |
 | 104 | [f.m.k.](https://open.spotify.com/track/5Z5NjgTfv0vYCJhcy3wwzc) | [duna](https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz) | [f.m.k\. / jura](https://open.spotify.com/album/1yNxdbAPxGyR93gkGNZ3oJ) | 1:35 |
 
-Snapshot ID: `AAAAAIfnnzjzbScxUM4+tH0ENJISpQuy`
+Snapshot ID: `AAAAAKPahZBzss3s7xumL6L4T9uJebjr`

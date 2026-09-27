@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,108 likes - 400 songs - 17 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,181 likes - 400 songs - 17 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 399 | [Evenfall](https://open.spotify.com/track/386KJq3D6hXX3BWiPbTnKl) | [Aurora Aeterna](https://open.spotify.com/artist/4PRv41OfpEkorKofIv7DV8) | [Evenfall](https://open.spotify.com/album/6U7bC6k2lRuvJlDyK24TpP) | 2:32 |
 | 400 | [Margin](https://open.spotify.com/track/5iACyfuT5cnOotN8kn3zVp) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Margin](https://open.spotify.com/album/3u7wffCg17gYqD5kp8mEDc) | 2:51 |
 
-Snapshot ID: `AAAAACEwrFqRT3+z4oLPtKJlkJ43N02q`
+Snapshot ID: `AAAAAEloEJ/b9zZxiYDdlzw6DPP3fAym`

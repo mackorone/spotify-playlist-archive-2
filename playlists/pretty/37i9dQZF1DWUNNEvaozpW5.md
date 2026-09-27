@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Estopa con Kiko Veneno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,254 likes - 120 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,294 likes - 120 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,10 +123,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 113 | [Abrázame](https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Metamorfosis\. En Directo Desde El Teatro Arriaga](https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr) | 5:29 |
 | 114 | [Agradecido](https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Un Palo Al Agua \(20 Grandes Canciones\)](https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq) | 4:33 |
 | 115 | [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 |
-| 116 | [Quiero tener tu presencia](https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:40 |
-| 117 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 |
+| 116 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 |
+| 117 | [Quiero tener tu presencia](https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:40 |
 | 118 | [Pienso en Aquella Tarde](https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 2:53 |
-| 119 | [Mundo imperfecto](https://open.spotify.com/track/7hlytak131AgmPYe8JsYws) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Mundo imperfecto](https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud) | 3:08 |
-| 120 | [Hey chaval](https://open.spotify.com/track/0egCH56ZdxPxAwSdIkPk8s) | [Chiquita Movida](https://open.spotify.com/artist/7chkUZGYVGXjl19G8Di1Rr), [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa), [Mediyama](https://open.spotify.com/artist/4AvBrqytoNTLyrxvmmTR6o), [Skiz7](https://open.spotify.com/artist/2v7G5QXX2BqCnHRil1IVKZ) | [Hey chaval](https://open.spotify.com/album/561d8Vu5jtwni9WH0Tn58h) | 4:23 |
+| 119 | [Hey chaval](https://open.spotify.com/track/0egCH56ZdxPxAwSdIkPk8s) | [Chiquita Movida](https://open.spotify.com/artist/7chkUZGYVGXjl19G8Di1Rr), [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa), [Mediyama](https://open.spotify.com/artist/4AvBrqytoNTLyrxvmmTR6o), [Skiz7](https://open.spotify.com/artist/2v7G5QXX2BqCnHRil1IVKZ) | [Hey chaval](https://open.spotify.com/album/561d8Vu5jtwni9WH0Tn58h) | 4:23 |
+| 120 | [Mundo imperfecto](https://open.spotify.com/track/7hlytak131AgmPYe8JsYws) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Mundo imperfecto](https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud) | 3:08 |
 
-Snapshot ID: `AAAAAG8WTqmoZSIY9f4Swhz0NcStb1XN`
+Snapshot ID: `AAAAAPY0ZhR1f+EP6Xkm9d05TUI54gLV`

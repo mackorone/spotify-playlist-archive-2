@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-167 songs - 9 hr 18 min
+168 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [La Ramera](https://open.spotify.com/track/1NskSd8D0NgYAqV9eEaWn0) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Una Explicación](https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a) | 2:42 | 2025-11-27 | 2026-08-07 |
 | [Las ciudades](https://open.spotify.com/track/2Io0LtuRg1m2AjHLTsaIJ5) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Duetos Del Rancho Para El Mundo](https://open.spotify.com/album/4uSjeugGREYKbTB5Z5Elg0) | 2:51 | 2024-03-18 | 2025-02-19 |
 | [Las Cosas Claras \- En Vivo](https://open.spotify.com/track/1SifK6XZXviazGWP2w1uGH) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:36 | 2022-06-03 | 2024-04-07 |
+| [Le Hace Falta Un Beso \(En Vivo\)](https://open.spotify.com/track/7Bh6jBLUmjpCe28AihLf5L) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Grupo La Kaña](https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s) | [Perdidos Con Kaña](https://open.spotify.com/album/6S17Mdk7DhKgwqsTIuWXhg) | 2:42 | 2026-09-27 |  |
 | [Lo Que Yo Sentia](https://open.spotify.com/track/5BIpx4Z3ubZDJU2vRJIRR4) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:37 | 2022-06-01 | 2026-09-16 |
 | [Lo Sé](https://open.spotify.com/track/6FOdDUjwDhXKj7SO2wONlo) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:05 | 2022-06-01 | 2022-12-06 |
 | [Loco \- En Vivo](https://open.spotify.com/track/63tTq2d0OfQEK1qG6ezsa1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Loco](https://open.spotify.com/album/37YX0ULmEe4GnAwL0z9Ose) | 2:47 | 2025-09-04 | 2025-09-10 |
@@ -109,7 +110,7 @@
 | [No Te Vayas \(En Vivo\)](https://open.spotify.com/track/0jsofQtfJhAcaOJ8lvLThX) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Grupo La Kaña](https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s) | [Perdidos Con Kaña](https://open.spotify.com/album/6S17Mdk7DhKgwqsTIuWXhg) | 3:07 | 2026-09-13 |  |
 | [No Vuelvo A Extranarte](https://open.spotify.com/track/40TKsH6bIiGJ58vU2G8HhQ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:37 | 2022-06-01 | 2026-09-16 |
 | [Nomas Este Rey](https://open.spotify.com/track/5EHxtBNN4nRHncJTJIhJzn) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 4:19 | 2025-02-07 | 2025-11-28 |
-| [Nomas Este Rey](https://open.spotify.com/track/0Oj5ltXaALCMB6ZaST0hDa) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Nomas Este Rey \(En Vivo\)](https://open.spotify.com/album/1Djt6IunRbTe7EUbQbQA9T) | 4:36 | 2023-03-22 |  |
+| [Nomas Este Rey](https://open.spotify.com/track/0Oj5ltXaALCMB6ZaST0hDa) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Nomas Este Rey \(En Vivo\)](https://open.spotify.com/album/1Djt6IunRbTe7EUbQbQA9T) | 4:36 | 2023-03-22 | 2026-09-27 |
 | [Nuestro Adios](https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:17 | 2022-06-01 | 2026-09-16 |
 | [Nunca Existió](https://open.spotify.com/track/41Xea12Hh4dXhJZzk1iGU6) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Perdona \(Estudio\)](https://open.spotify.com/album/1VqXJXP3g6etYfTeBHWWW0) | 2:30 | 2023-12-16 | 2024-03-19 |
 | [O Me Voy O Te Vas \(En Vivo\)](https://open.spotify.com/track/2Jz2lb2VQe3wsGE7Q5jGrP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [O Me Voy O Te Vas \(En Vivo\)](https://open.spotify.com/album/0nuXdDMOIDHxiddTlmBXGF) | 3:57 | 2022-10-05 | 2025-06-01 |

@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 158098,
+  "num_followers": 158092,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJTCuqlSXR7q9QfbPlG8Cn6iP6Cz",
+  "snapshot_id": "AAAAAAjMxpu3ILhd1GlycSWlJR6UMWR+",
   "tracks": [
     {
       "added_at": "2026-05-22 07:11:08",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "10 kniver i hjertet",
-        "url": "https://open.spotify.com/album/1wMpMqsuPkVm4xfwM7y8JJ"
-      },
-      "artists": [
-        {
-          "name": "Madel\u00e9ne",
-          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
-        }
-      ],
-      "duration_ms": 172302,
-      "name": "10 kniver i hjertet",
-      "url": "https://open.spotify.com/track/5aFGctSPjWXPiFX5HupQuS"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "\u00c6lsk n\u00e5nn",
         "url": "https://open.spotify.com/album/3SxRO68yT4mmagISCMzjJP"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 185206,
       "name": "\u00c6lsk n\u00e5nn",
       "url": "https://open.spotify.com/track/3m4V5TOoJCX2zriMAQNIk4"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "10 kniver i hjertet",
+        "url": "https://open.spotify.com/album/1wMpMqsuPkVm4xfwM7y8JJ"
+      },
+      "artists": [
+        {
+          "name": "Madel\u00e9ne",
+          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
+        }
+      ],
+      "duration_ms": 172302,
+      "name": "10 kniver i hjertet",
+      "url": "https://open.spotify.com/track/5aFGctSPjWXPiFX5HupQuS"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Fargepalett",
-        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
-      },
-      "artists": [
-        {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "Fargepalett",
-      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Oppe p\u00e5 m\u00e5nen",
         "url": "https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 215991,
       "name": "Oppe p\u00e5 m\u00e5nen",
       "url": "https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Fargepalett",
+        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "duration_ms": 141335,
+      "name": "Fargepalett",
+      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Hvalfangerbyen - Akustisk",
-        "url": "https://open.spotify.com/album/2uDdNLF7xmAg2KIf5m97k2"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 237186,
-      "name": "Hvalfangerbyen - Akustisk",
-      "url": "https://open.spotify.com/track/5JeBqlHUVh7nNjSQVdTyP3"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Movie Star",
         "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 236210,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Hvalfangerbyen - Akustisk",
+        "url": "https://open.spotify.com/album/2uDdNLF7xmAg2KIf5m97k2"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 237186,
+      "name": "Hvalfangerbyen - Akustisk",
+      "url": "https://open.spotify.com/track/5JeBqlHUVh7nNjSQVdTyP3"
     }
   ],
   "unique_name": "v\u00e5r i lufta",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino, con Maluma y Shakira en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,602,302 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,602,478 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 49 | [UNA NA MAS](https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [UNA NA MAS](https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ) | 3:16 |
 | 50 | [DesOrden](https://open.spotify.com/track/2Fd7PA5quhm73Aw7H3FwwN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [DesOrden](https://open.spotify.com/album/2P4DYITUx7faiFzAzXaofU) | 2:36 |
 
-Snapshot ID: `AAAAAKNSzoxs6L2tNfw8iV1o6iiDKe0Z`
+Snapshot ID: `AAAAADa/rAYIv9Nk71dJllpIs7OBGSh1`

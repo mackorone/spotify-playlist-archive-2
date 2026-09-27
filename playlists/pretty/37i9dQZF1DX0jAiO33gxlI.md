@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Emicida, Puro Suco
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,044 likes - 87 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,041 likes - 87 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 86 | [Coisas Que Não Foram Ditas](https://open.spotify.com/track/1PgOJJqxzaZBptfsZt2zgn) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0) | [Coisas Que Não Foram Ditas](https://open.spotify.com/album/43gtNiB0zkFCmBpGQuurNT) | 1:59 |
 | 87 | [Porre do Cipó](https://open.spotify.com/track/48nD0RRkyiNFFyQagsRE4U) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5), [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Porre do Cipó](https://open.spotify.com/album/4RmCZw065sdJWZbxx2x7ss) | 3:29 |
 
-Snapshot ID: `AAAAABO14eA7O9QiQPPV1Gt5/ZbbPEck`
+Snapshot ID: `AAAAAOOahM5Mfo7ZsF9NRKYOHiPKsX3S`

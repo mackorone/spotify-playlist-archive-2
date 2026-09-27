@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: BEASTIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,694 likes - 70 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,691 likes - 70 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [Docs](https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [Docs](https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6) | 3:28 |
 | 70 | [Shoes Up](https://open.spotify.com/track/0C9iEXm7FXYN6wta1XjRy6) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [Shoes Up](https://open.spotify.com/album/4kyRqympwe9wDsLOGhxjnT) | 2:42 |
 
-Snapshot ID: `AAAAAOhOwAreRNy7mqjYJm3gYw7HP7pF`
+Snapshot ID: `AAAAAAfJz2/PF0Hj0wQQP3GGhqVrLDIx`

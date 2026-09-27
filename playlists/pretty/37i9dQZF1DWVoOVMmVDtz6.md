@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoOVMmVDtz6.md) - [plain]
 
 > crisp air & fall foliage 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,715 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,126 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoOVMmVDtz6.md) - [plain]
 | 99 | [I'm Getting Ready](https://open.spotify.com/track/54QckpslekyZCIEanFk787) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 2:24 |
 | 100 | [Peace of Mind](https://open.spotify.com/track/5R5W17mKIjtLw5ubZwjFuA) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 4:04 |
 
-Snapshot ID: `AAAAAMCUyKDL9xHzWwTCKMDIT+6t5i6B`
+Snapshot ID: `AAAAAK+G/LN/lx74b70sTMmUuim/yELD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Mula & Lijpe, Rits, Yade Lauren, Jiggy Djé en meer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,118 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,088 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Life Is Meer Dan Leven \(feat\. Emms\)](https://open.spotify.com/track/4lNeh5AamBLLDjDNuMB85A) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Flashbacks & Jetlags](https://open.spotify.com/album/3QgLObJAyutJr87RuMwHzV) | 2:54 |
 | 60 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
 
-Snapshot ID: `AAAAABzvA79xVE8jwTJQi7sqZMr5nRwj`
+Snapshot ID: `AAAAAB3lb7PtnaRaor0oPm0a5mSiPtWy`

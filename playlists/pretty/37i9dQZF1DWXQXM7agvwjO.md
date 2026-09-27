@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: 溫蒂漫步 Wendy Wander \(Taiwan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,895 likes - 110 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,891 likes - 110 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 109 | [Pustaka Suara \- Original Soundtrack](https://open.spotify.com/track/1xSae9XvkGf7tW5tzRdLGE) | [Dvy](https://open.spotify.com/artist/27mZIRyex2VVr6mmELKI1i) | [Pustaka Suara \(Original Soundtrack\)](https://open.spotify.com/album/0GPiEAoOhNWrQB9FRa8s79) | 3:37 |
 | 110 | [Too Good](https://open.spotify.com/track/0gJeSKLwRezMIswuZph5Ms) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Too Good/Great Day](https://open.spotify.com/album/1bbq9MgeyGWd4LXO0P23KH) | 3:28 |
 
-Snapshot ID: `AAAAAO+PduRPKX/+5fxlCl4M0ceHvClv`
+Snapshot ID: `AAAAALK+sQcf76HLcPDBGaMo4R0s5V/v`

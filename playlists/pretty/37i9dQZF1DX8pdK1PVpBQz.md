@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Half/Angel
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,289 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,293 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Spiders](https://open.spotify.com/track/5EoIK57x7sJBb88exsyc6R) | [Trophy Wyfe](https://open.spotify.com/artist/6wIZ4daFx49ebqoHMkYlfm) | [Spiders](https://open.spotify.com/album/1yCvyXDSSfx8l11wvfJDPn) | 4:16 |
 | 100 | [Sweet Boy](https://open.spotify.com/track/24UKgQDbtPkNseU4T0oejv) | [d.b\. longing](https://open.spotify.com/artist/3Q6vER5P17ZxRJqLZJSK8X) | [Sweet Boy](https://open.spotify.com/album/7GGo7ibPtVoc31llggZIgU) | 5:03 |
 
-Snapshot ID: `AAAAAHoTzQDI8KZlc9/tWKy4Il63FIvS`
+Snapshot ID: `AAAAAMJ/df00LO8cIU6m1c/iYp+DqFkW`

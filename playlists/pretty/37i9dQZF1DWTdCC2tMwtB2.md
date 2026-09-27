@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Jubin Nautiyal & Elnaaz Norouzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,326 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,360 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 27 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 |
 | 28 | [The Last Letter](https://open.spotify.com/track/0TsyaaM73GAKIxv38yzHV4) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Mazaak](https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz) | [The Last Letter](https://open.spotify.com/album/713AvxcNnVOUQnp4LRcc5G) | 2:49 |
 | 29 | [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jugnu](https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP) | 3:50 |
-| 30 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 |
-| 31 | [Yeh Raaten Yeh Mausam](https://open.spotify.com/track/1ApfHqjOoBmJZ0SjdjzVyA) | [Sanam](https://open.spotify.com/artist/7o7doCwqft91WC690aglWC), [Simran Sehgal](https://open.spotify.com/artist/22aMB7ZvN33U8hTkPn9J5D) | [Yeh Raaten Yeh Mausam \- Sanam And Simran Shgal](https://open.spotify.com/album/5eREKQz2rtf9lBwvsTdFjk) | 3:28 |
+| 30 | [Yeh Raaten Yeh Mausam](https://open.spotify.com/track/1ApfHqjOoBmJZ0SjdjzVyA) | [Sanam](https://open.spotify.com/artist/7o7doCwqft91WC690aglWC), [Simran Sehgal](https://open.spotify.com/artist/22aMB7ZvN33U8hTkPn9J5D) | [Yeh Raaten Yeh Mausam \- Sanam And Simran Shgal](https://open.spotify.com/album/5eREKQz2rtf9lBwvsTdFjk) | 3:28 |
+| 31 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 |
 | 32 | [Rehbara](https://open.spotify.com/track/1q82k8tuu1t6t8H8zHMqWs) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Rehbara](https://open.spotify.com/album/0WNynwU2UJGix7oCG7FKfR) | 2:53 |
 | 33 | [Ishq Tera](https://open.spotify.com/track/1aUfggX5E0nKDikNuiDQ3D) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Ishq Tera](https://open.spotify.com/album/6T8oJ9DnuJZAT3gDe507cO) | 3:31 |
 | 34 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 49 | [Cold Showers](https://open.spotify.com/track/6qDLLBWTYcsluamV9L3HO1) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7) | [Cold Showers](https://open.spotify.com/album/2vcu1JmTKHFZKL1CoHzaSH) | 4:17 |
 | 50 | [Badeela](https://open.spotify.com/track/0K9W9Ss7vTSe45NtMFtlmt) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA), [Dipakshi Kalita](https://open.spotify.com/artist/5H2VH9Htkxxn4hKxzt0juD) | [Badeela](https://open.spotify.com/album/6KS7y7QIFlh0JflHRb8tU7) | 3:41 |
 
-Snapshot ID: `AAAAAJHHuPsioLxokZIQJGhyJFZgGUUW`
+Snapshot ID: `AAAAANDenJgqaHjR99dfWR7Pz3tnyUJ5`

@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31956,
+  "num_followers": 31957,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAATQUqB9ObOaEc4q3u1xqM7",
+  "snapshot_id": "arW5gAAAAABe1DSlPA7ExvclS2+U8k8n",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Medio De Este Ruido (Deluxe)",
-        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "16",
-      "url": "https://open.spotify.com/track/55ftDFrREvV7yzdsoe55Hl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Las Ganas",
         "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 241306,
       "name": "Con Las Ganas",
       "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "16",
+      "url": "https://open.spotify.com/track/55ftDFrREvV7yzdsoe55Hl"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Escap\u00e9monos",
+      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Mujer Perfecta",
         "url": "https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 218573,
       "name": "La Mujer Perfecta",
       "url": "https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Medio De Este Ruido (Deluxe)",
-        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Escap\u00e9monos",
-      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
     },
     {
       "added_at": null,

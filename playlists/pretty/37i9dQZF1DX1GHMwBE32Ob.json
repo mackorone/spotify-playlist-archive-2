@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Danpapa GTA",
-  "num_followers": 160026,
+  "num_followers": 160125,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK8p/93U/cK/MMrTTS6+DF4ZR1TA",
+  "snapshot_id": "AAAAAP6CP3GMVsEix4l5QFj7jnbXzOjo",
   "tracks": [
     {
       "added_at": "2026-09-25 09:35:43",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-09-25 09:35:43",
       "album": {
-        "name": "CLAAT!",
-        "url": "https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 174150,
-      "name": "CLAAT!",
-      "url": "https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6"
-    },
-    {
-      "added_at": "2026-09-25 09:35:43",
-      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 159131,
       "name": "Group Chat",
       "url": "https://open.spotify.com/track/4SdgMlhtSTiMnd8XuqCjn5"
+    },
+    {
+      "added_at": "2026-09-25 09:35:43",
+      "album": {
+        "name": "CLAAT!",
+        "url": "https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 174150,
+      "name": "CLAAT!",
+      "url": "https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6"
     },
     {
       "added_at": "2026-09-25 09:35:43",
@@ -1063,6 +1063,30 @@
     {
       "added_at": "2026-09-25 09:35:43",
       "album": {
+        "name": "Kowope",
+        "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
+        }
+      ],
+      "duration_ms": 211525,
+      "name": "Kowope",
+      "url": "https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt"
+    },
+    {
+      "added_at": "2026-09-25 09:35:43",
+      "album": {
         "name": "Mortal Kombat",
         "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
       },
@@ -1075,22 +1099,6 @@
       "duration_ms": 121061,
       "name": "Mortal Kombat",
       "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
-    },
-    {
-      "added_at": "2026-09-25 09:35:43",
-      "album": {
-        "name": "Excellent",
-        "url": "https://open.spotify.com/album/4QSZZ7iKC0mYdxN7GxU6OQ"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Excellent",
-      "url": "https://open.spotify.com/track/7iB4d1Hv4etq3g12IK8RHQ"
     }
   ],
   "unique_name": "Street Energy ",

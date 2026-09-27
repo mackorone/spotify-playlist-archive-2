@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: 中島 寂
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,991 likes - 62 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,000 likes - 62 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 61 | [otukare](https://open.spotify.com/track/0idKcK4Kn2ufuScidLGBPL) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [otukare](https://open.spotify.com/album/43PYBVng0F5Njhxpubgilf) | 2:37 |
 | 62 | [Lunch Blake](https://open.spotify.com/track/1YH9cBtGVOUtRWK882G05l) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x) | [Lunch Blake](https://open.spotify.com/album/0Tzl7PMSqTrQKKQJxtSgFB) | 3:01 |
 
-Snapshot ID: `AAAAAAcal7azvqT8p5SDxvVeWOhDER59`
+Snapshot ID: `AAAAALhB+IBUGC87LLCdXeRB3vumTe+9`

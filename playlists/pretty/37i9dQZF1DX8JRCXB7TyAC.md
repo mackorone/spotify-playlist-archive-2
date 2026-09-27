@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,189 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,211 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 34 | [Whatcha Need?](https://open.spotify.com/track/0Kc6WPFogvELIRDXl43Kx1) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Whatcha Need?](https://open.spotify.com/album/5eFcTIchiD7Ehi3ir2MQZs) | 2:19 |
 | 35 | [Near By Me](https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:04 |
 | 36 | [Khappar Bharni](https://open.spotify.com/track/5ASiFCsFP4CxvaCeowGmqC) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [kanhoriaalashayar](https://open.spotify.com/artist/3bCwWvSKe3KxvKu32niGQP) | [Khappar Bharni](https://open.spotify.com/album/3nIA8Ef9lif6eBHiNA5ZWl) | 3:13 |
-| 37 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 |
-| 38 | [Kah Diye](https://open.spotify.com/track/1DX4Pj3IGtk7LvcVPC6Eoo) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Kah Diye](https://open.spotify.com/album/0kJS7CuXrnhACry2ULRFhu) | 2:39 |
-| 39 | [Lath](https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Lath](https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf) | 3:12 |
+| 37 | [Old Money](https://open.spotify.com/track/3PHOMMcNp29NtsLJzorVpD) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Manya Yadav](https://open.spotify.com/artist/3TugQ9wtCPiJaip0NFyobh) | [Old Money](https://open.spotify.com/album/50vJjo0y9W57YUcdv2PX3K) | 3:06 |
+| 38 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 |
+| 39 | [Kah Diye](https://open.spotify.com/track/1DX4Pj3IGtk7LvcVPC6Eoo) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Kah Diye](https://open.spotify.com/album/0kJS7CuXrnhACry2ULRFhu) | 2:39 |
 | 40 | [Robbery](https://open.spotify.com/track/1jDArshlg2jQyg5vfIh8Zq) | [Mohit Ladhotiya](https://open.spotify.com/artist/43XOucS8TK3tdDDqd2JJSh) | [Robbery](https://open.spotify.com/album/5pw4skILORYhb7LsMuhgOj) | 3:20 |
 | 41 | [Pistal Te Mehnga Lehnga](https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Kay D](https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm), [Anjali Raghav](https://open.spotify.com/artist/4tnyxnjCVBlkqaefQ6fgbv) | [Pistal Te Mehnga Lehnga](https://open.spotify.com/album/4KGnfHLFoZ7ZlIT7P5Aa29) | 2:42 |
 | 42 | [Gurjar Gang](https://open.spotify.com/track/0Suya0KkIIaqvnXtXyGMpJ) | [Jassi Kirarkot](https://open.spotify.com/artist/2MrTNaowqRRDiTj0FKHvZP), [Dc](https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Gurjar Gang](https://open.spotify.com/album/0LcekT7wnn60wsizvduMhe) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 |
 | 50 | [Petrol](https://open.spotify.com/track/5B60tnqylP3wRYjJvtcj5y) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Petrol](https://open.spotify.com/album/5a24ONxmGIedTYLgg5smpR) | 2:55 |
 
-Snapshot ID: `AAAAAC3FO6EECkQxs7lKYssGlTUrOzob`
+Snapshot ID: `AAAAACsXmA+fW4pwK8moRYzSKCOr/trq`

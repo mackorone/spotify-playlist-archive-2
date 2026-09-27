@@ -34937,6 +34937,24 @@
     },
     {
       "album": {
+        "name": "Rise And Fall",
+        "url": "https://open.spotify.com/album/1fjCHBvoCdSqxgRjbCTXgh"
+      },
+      "artists": [
+        {
+          "name": "Jumpscare",
+          "url": "https://open.spotify.com/artist/6W6yM8NH6UPvCqvDdXjxr2"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324571,
+      "name": "Rise And Fall",
+      "url": "https://open.spotify.com/track/3exLIuw7dpaX8hGbmpU8Vn"
+    },
+    {
+      "album": {
         "name": "Wake Up Your Lion",
         "url": "https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162102,
+  "num_followers": 162103,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAACR638cxK42PunngYqTRXE1",
+  "snapshot_id": "arW5gAAAAABbjyeQ3L5MK8Amac24pnDq",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline Barros 20 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 303173,
+      "name": "Digno \u00e9 o Senhor (Worthy Is The Lamb) - Ao Vivo",
+      "url": "https://open.spotify.com/track/66WaKTCLP5nUwOrwn7Oet0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mil Gracias",
         "url": "https://open.spotify.com/album/5CgRDcS03qWsuab2zn0mSl"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 470581,
       "name": "Mil Gracias",
       "url": "https://open.spotify.com/track/5iUPObkgjmeO7ve4fDmJ8K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros 20 Anos Ao Vivo",
-        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 303173,
-      "name": "Digno \u00e9 o Senhor (Worthy Is The Lamb) - Ao Vivo",
-      "url": "https://open.spotify.com/track/66WaKTCLP5nUwOrwn7Oet0"
     },
     {
       "added_at": null,

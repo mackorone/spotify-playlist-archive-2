@@ -1,12 +1,12 @@
 {
   "description": "Al mil para entrenar sin parar.",
-  "num_followers": 225324,
+  "num_followers": 225360,
   "original_name": "Modo: Al Mil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG+VGAVzoh5QUTYj8YqrgC0g5ReD",
+  "snapshot_id": "AAAAAFMLGunobFLvV3BL8xf0uZc64UKp",
   "tracks": [
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "added_at": "2026-07-24 08:50:23",
+      "album": {
         "name": "Hablando Claro (En Vivo)",
         "url": "https://open.spotify.com/album/1EoAsDmaX09sqmujjiLSGD"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 190671,
       "name": "Hablando Claro - En Vivo",
       "url": "https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv"
-    },
-    {
-      "added_at": "2026-07-24 08:50:23",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
+        "name": "Todo Es Diferente",
+        "url": "https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 128893,
+      "name": "El de La Codeina",
+      "url": "https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf"
+    },
+    {
+      "added_at": "2026-07-24 08:50:23",
+      "album": {
         "name": "La Morrita",
         "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 154951,
       "name": "La Morrita",
       "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
-    },
-    {
-      "added_at": "2026-07-24 08:50:23",
-      "album": {
-        "name": "Todo Es Diferente",
-        "url": "https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 128893,
-      "name": "El de La Codeina",
-      "url": "https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2026-07-24 08:50:23",
+      "album": {
         "name": "MI PROPIO JEFE",
         "url": "https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh"
       },
@@ -1207,18 +1223,22 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+        "name": "Yo Vengo De La Nada",
+        "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+      "duration_ms": 156807,
+      "name": "Yo Vengo De La Nada",
+      "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1243,26 +1263,6 @@
       "duration_ms": 193849,
       "name": "Hay Con Que",
       "url": "https://open.spotify.com/track/5LWQAJftnMD7SZAZhwH9CQ"
-    },
-    {
-      "added_at": "2026-07-24 08:50:23",
-      "album": {
-        "name": "Yo Vengo De La Nada",
-        "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        }
-      ],
-      "duration_ms": 156807,
-      "name": "Yo Vengo De La Nada",
-      "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
-        "name": "Chiclona",
-        "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
-      },
-      "artists": [
-        {
-          "name": "LENCHO",
-          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
-        }
-      ],
-      "duration_ms": 160165,
-      "name": "Chiclona",
-      "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
-    },
-    {
-      "added_at": "2026-07-24 08:50:23",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2026-07-24 08:50:23",
+      "album": {
+        "name": "Chiclona",
+        "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
+      },
+      "artists": [
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "duration_ms": 160165,
+      "name": "Chiclona",
+      "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 174863,
-      "name": "Me Met\u00ed En El Ruedo",
-      "url": "https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t"
+      "duration_ms": 136747,
+      "name": "Cosas De La Clika",
+      "url": "https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
       },
       "artists": [
         {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 136747,
-      "name": "Cosas De La Clika",
-      "url": "https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z"
+      "duration_ms": 174863,
+      "name": "Me Met\u00ed En El Ruedo",
+      "url": "https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
-        "name": "LA CUMBIA DEL CASTOR",
-        "url": "https://open.spotify.com/album/4B1Zcqug3F80KdJKp2PvRt"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 250900,
-      "name": "LA CUMBIA DEL CASTOR",
-      "url": "https://open.spotify.com/track/0A0lNzbQOBESKUSog1vHXS"
-    },
-    {
-      "added_at": "2026-07-24 08:50:23",
-      "album": {
         "name": "El Capo",
         "url": "https://open.spotify.com/album/6iapJcyMNDXQeapRUz7knk"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 142435,
       "name": "El Capo",
       "url": "https://open.spotify.com/track/1G6UuYgVNFi54L0wXQfMhO"
+    },
+    {
+      "added_at": "2026-07-24 08:50:23",
+      "album": {
+        "name": "LA CUMBIA DEL CASTOR",
+        "url": "https://open.spotify.com/album/4B1Zcqug3F80KdJKp2PvRt"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 250900,
+      "name": "LA CUMBIA DEL CASTOR",
+      "url": "https://open.spotify.com/track/0A0lNzbQOBESKUSog1vHXS"
     }
   ],
   "unique_name": "Modo: Al Mil",

@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Julia Jacklin
 
-524 songs - 1 day 9 hr 46 min
+525 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,9 +96,10 @@
 | [Carry Me Away](https://open.spotify.com/track/2ua2zMl11JGJuLyzkhLTxP) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [24 Hr Sports](https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC) | 2:23 | 2025-09-04 | 2026-02-21 |
 | [Champagne Taste](https://open.spotify.com/track/7gR5CpDbUBfOs75WDcGZof) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Champagne Taste](https://open.spotify.com/album/1vhvjKCn21JSqJnh03lFf2) | 3:12 | 2025-01-31 | 2025-04-06 |
 | [Chapel of Salt](https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ginkgo](https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW) | 3:08 | 2025-04-04 | 2026-06-19 |
+| [Chapter 4](https://open.spotify.com/track/7wsi6doEPUrUlFJYylmApv) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Chapter 4](https://open.spotify.com/album/7iVISoawYt4py8izsqOdq7) | 3:17 | 2026-09-25 |  |
 | [Cheers](https://open.spotify.com/track/2bPm2KgdHwttB2ZRdL0jdZ) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Cheers](https://open.spotify.com/album/34r9RSSfxVG5pDXbfcuE8u) | 3:26 | 2025-02-28 | 2026-01-15 |
 | [Chicken](https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Chicken](https://open.spotify.com/album/2MKGBJYKuJFWgEg3IWGYqD) | 4:22 | 2024-08-14 | 2025-01-31 |
-| [Cigarette Curls](https://open.spotify.com/track/5J1urfVniTBLYi8NuoTJE0) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [The Ground Above](https://open.spotify.com/album/2xsnBz8QqjNPUDVFp0PKZS) | 6:41 | 2026-06-25 |  |
+| [Cigarette Curls](https://open.spotify.com/track/5J1urfVniTBLYi8NuoTJE0) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [The Ground Above](https://open.spotify.com/album/2xsnBz8QqjNPUDVFp0PKZS) | 6:41 | 2026-06-25 | 2026-09-27 |
 | [Cinderella](https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Cinderella](https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh) | 4:34 | 2025-02-28 | 2025-05-13 |
 | [Cinnamon Temple](https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0) | 3:20 | 2024-07-18 | 2025-05-09 |
 | [Circle of Trust](https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV) | 6:05 | 2025-05-08 | 2026-06-19 |
@@ -122,8 +123,8 @@
 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2024-06-14 | 2025-03-02 |
 | [Dandelions](https://open.spotify.com/track/4trAC02hAH0E6u55iHok0u) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Dandelions](https://open.spotify.com/album/7yszWjQIIM4WrHH3MhgicV) | 3:16 | 2025-07-18 | 2025-08-15 |
 | [Dashboard Mary](https://open.spotify.com/track/7pozVrkNzYLcymGuGDtbIQ) | [Modern Woman](https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9) | [Dashboard Mary](https://open.spotify.com/album/3T3exfwPGiO7bb06AsHBqM) | 4:53 | 2026-02-20 | 2026-03-15 |
-| [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 | 2026-04-30 | 2026-06-13 |
-| [Days We Left Behind](https://open.spotify.com/track/4RXpKIi7xLqX8BPanSwXCE) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 3:18 | 2026-06-12 |  |
+| [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 | 2026-04-30 |  |
+| [Days We Left Behind](https://open.spotify.com/track/4RXpKIi7xLqX8BPanSwXCE) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 3:18 | 2026-06-12 | 2026-09-27 |
 | [Death Valley High](https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Death Valley High](https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb) | 2:40 | 2024-07-11 | 2025-01-31 |
 | [Devil in Your Shoes \- Liquid Gold Version](https://open.spotify.com/track/6rmJSvNyxwoOCZO18WoOge) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Devil in Your Shoes \(Liquid Gold version\)](https://open.spotify.com/album/5bTwfCnOVHtDSUjosfkZyD) | 4:20 | 2024-06-14 | 2024-08-15 |
 | [Dialing In](https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Dialing In](https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK) | 4:40 | 2025-05-30 | 2026-07-31 |

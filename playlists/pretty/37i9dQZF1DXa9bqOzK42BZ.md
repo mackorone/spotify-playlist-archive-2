@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,841 likes - 100 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,941 likes - 100 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [Wastahili](https://open.spotify.com/track/1TsBf8uY2P1LR4Ld6F17aq) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR), [Njoki Munyi](https://open.spotify.com/artist/6d1foF760EmQXdLaS3JMbN), [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wastahili](https://open.spotify.com/album/3kos8YakkfSc9sEtDj7sWE) | 14:37 |
 | 100 | [Mkono Wako](https://open.spotify.com/track/6iO00GNlCsbtD0VCt1heKS) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [Mkono Wako](https://open.spotify.com/album/3AtilNVQ7fKiI2PPFOhQGp) | 2:56 |
 
-Snapshot ID: `AAAAANXwQVT9CKyB+v7n0qfFjgtYM3VO`
+Snapshot ID: `AAAAAJMpYIn6px0/eRB73dNZ5xc+EqXA`

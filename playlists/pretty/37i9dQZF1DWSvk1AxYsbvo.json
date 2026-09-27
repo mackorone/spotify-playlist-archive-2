@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFjSjbUisxyIzhBWOshUscVtrVF0",
+  "snapshot_id": "AAAAAOP5Bt6ZrFxIFZadUCBBPe/1gGae",
   "tracks": [
     {
       "added_at": "2026-07-24 08:45:19",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-07-24 08:45:19",
       "album": {
+        "name": "Beautiful Days (Positively Yours X soye) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl"
+      },
+      "artists": [
+        {
+          "name": "soye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Beautiful Days",
+      "url": "https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck"
+    },
+    {
+      "added_at": "2026-07-24 08:45:19",
+      "album": {
         "name": "Ordinary Ever After",
         "url": "https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 262866,
       "name": "Albedo",
       "url": "https://open.spotify.com/track/4GOykxUL9b9hyHgvRDgz8H"
-    },
-    {
-      "added_at": "2026-07-24 08:45:19",
-      "album": {
-        "name": "Beautiful Days (Positively Yours X soye) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl"
-      },
-      "artists": [
-        {
-          "name": "soye",
-          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Beautiful Days",
-      "url": "https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck"
     },
     {
       "added_at": "2026-07-24 08:45:19",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-07-24 08:45:19",
       "album": {
+        "name": "\u96e8\u5f8c uuhu",
+        "url": "https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo"
+      },
+      "artists": [
+        {
+          "name": "Jeon Jin Hee",
+          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "light",
+      "url": "https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7"
+    },
+    {
+      "added_at": "2026-07-24 08:45:19",
+      "album": {
         "name": "Stay (Feat. Youlakk)",
         "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 208771,
       "name": "Stay (Feat. Youlakk)",
       "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
-    },
-    {
-      "added_at": "2026-07-24 08:45:19",
-      "album": {
-        "name": "\u96e8\u5f8c uuhu",
-        "url": "https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo"
-      },
-      "artists": [
-        {
-          "name": "Jeon Jin Hee",
-          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "light",
-      "url": "https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7"
     },
     {
       "added_at": "2026-07-24 08:45:19",

@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 741403,
+  "num_followers": 741395,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJHPqKQCKmWUh95651k1Qm2d2isk",
+  "snapshot_id": "AAAAABSZyRfsJfV/W/32dJzy1G1qisf+",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:47",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-09-25 04:01:47",
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 228990,
-      "name": "Why Don't You",
-      "url": "https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
+    },
+    {
+      "added_at": "2026-09-25 04:01:47",
+      "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 228990,
+      "name": "Why Don't You",
+      "url": "https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF"
     },
     {
       "added_at": "2026-09-25 04:01:47",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-09-25 04:01:47",
       "album": {
-        "name": "Son Little (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Lay Down",
-      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
         "name": "Small Changes",
         "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 271930,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
+    },
+    {
+      "added_at": "2026-09-25 04:01:47",
+      "album": {
+        "name": "Son Little (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
     },
     {
       "added_at": "2026-09-25 04:01:47",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-09-25 04:01:47",
       "album": {
-        "name": "Tamale",
-        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 170013,
-      "name": "Ayayai",
-      "url": "https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
         "name": "Rina",
         "url": "https://open.spotify.com/album/1WL3GoeS3sad2UrkUTAPXd"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 279066,
       "name": "Rina",
       "url": "https://open.spotify.com/track/6FCJOwTvlHzpFDWx82L6WF"
+    },
+    {
+      "added_at": "2026-09-25 04:01:47",
+      "album": {
+        "name": "Tamale",
+        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 170013,
+      "name": "Ayayai",
+      "url": "https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl"
     },
     {
       "added_at": "2026-09-25 04:01:47",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-09-25 04:01:47",
       "album": {
-        "name": "Live It Down",
-        "url": "https://open.spotify.com/album/5qyYwVLbn1hWMzLPNObBV0"
-      },
-      "artists": [
-        {
-          "name": "Tyler Ballgame",
-          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
-        }
-      ],
-      "duration_ms": 223715,
-      "name": "Live It Down",
-      "url": "https://open.spotify.com/track/46LMLiMIgmpftDNsEirs02"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
         "name": "Addicted To You",
         "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 250933,
       "name": "Two Trees",
       "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
+    },
+    {
+      "added_at": "2026-09-25 04:01:47",
+      "album": {
+        "name": "Live It Down",
+        "url": "https://open.spotify.com/album/5qyYwVLbn1hWMzLPNObBV0"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "duration_ms": 223715,
+      "name": "Live It Down",
+      "url": "https://open.spotify.com/track/46LMLiMIgmpftDNsEirs02"
     },
     {
       "added_at": "2026-09-25 04:01:47",

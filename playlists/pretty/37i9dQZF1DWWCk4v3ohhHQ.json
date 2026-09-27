@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 227738,
+  "num_followers": 227752,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOB6eZZDa4G36jqJvPNxWFm6wTnf",
+  "snapshot_id": "AAAAABELpSpTh3jmDgmid41Gl7bh5ro/",
   "tracks": [
     {
       "added_at": "2024-07-05 23:46:34",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Habits (Spotify)",
-        "url": "https://open.spotify.com/album/6oZ5iDw1LT25svEK0g5OqT"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0l4DTppOxy7NUaEcwXuOb6"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Wake Up Call",
         "url": "https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 233173,
       "name": "Rx (Medicate)",
       "url": "https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Habits (Spotify)",
+        "url": "https://open.spotify.com/album/6oZ5iDw1LT25svEK0g5OqT"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0l4DTppOxy7NUaEcwXuOb6"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "ATLAS",
-        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 231986,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/7Fv8Qp3tTSbSS2VjryUF7L"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Savages",
         "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 202213,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 231986,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/7Fv8Qp3tTSbSS2VjryUF7L"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Oh My My",
-        "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "For Your Entertainment",
         "url": "https://open.spotify.com/album/2OkC5JujOSTWWSx4F5IbLO"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 227320,
       "name": "Whataya Want from Me",
       "url": "https://open.spotify.com/track/0zv9bOC2NSMd3Fw2HgM5Xn"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Oh My My",
+        "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 257386,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/1QzFhzIOW7CyRJLpmq5CM0"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Strangeland",
         "url": "https://open.spotify.com/album/6JWc4iAiJ9FjyK0B59ABb4"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 218840,
       "name": "Sovereign Light Caf\u00e9",
       "url": "https://open.spotify.com/track/4QRkCwqwHFaZ7xeoR9CHL6"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 257386,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/1QzFhzIOW7CyRJLpmq5CM0"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Everything This Way",
-        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
-      },
-      "artists": [
-        {
-          "name": "Walking On Cars",
-          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
-        }
-      ],
-      "duration_ms": 242092,
-      "name": "Speeding Cars",
-      "url": "https://open.spotify.com/track/4wLvmlgcHW5ZkNERDIDv5H"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Strangeland",
         "url": "https://open.spotify.com/album/6JWc4iAiJ9FjyK0B59ABb4"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 196466,
       "name": "Silenced By The Night",
       "url": "https://open.spotify.com/track/0BhGZmaQ1SET53qGkGvwxD"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Everything This Way",
+        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
+      },
+      "artists": [
+        {
+          "name": "Walking On Cars",
+          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
+        }
+      ],
+      "duration_ms": 242092,
+      "name": "Speeding Cars",
+      "url": "https://open.spotify.com/track/4wLvmlgcHW5ZkNERDIDv5H"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Summer Girl - Bonus Track",
-      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "We Won't Be Shaken",
         "url": "https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 236546,
       "name": "We Won't Be Shaken",
       "url": "https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Summer Girl - Bonus Track",
+      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
     },
     {
       "added_at": "2024-07-05 23:46:34",

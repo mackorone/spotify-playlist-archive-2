@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 1004113,
+  "num_followers": 1004075,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPpGD0nk8o++/OmjhJpiOiAhwomI",
+  "snapshot_id": "AAAAAPofBiIVdJ+S8qaQRZh/Y/aCO45t",
   "tracks": [
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 137293,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
         "name": "Scared To Start (feat. Joy Oladokun)",
         "url": "https://open.spotify.com/album/0q98KV3tR3VAgP0W1wsO64"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 159636,
       "name": "Scared To Start (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/3ruJjAt0eybFoPw0g0h7ZT"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
-        "name": "True North",
-        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 137293,
-      "name": "True North",
-      "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "The Wire",
         "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 180440,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
         }
       ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+      "duration_ms": 234288,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1xn1htwSeRr3HhOlYToFEx"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF"
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
       "artists": [
         {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 234288,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/1xn1htwSeRr3HhOlYToFEx"
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "The Only Ones",
         "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 144946,
       "name": "I'll Be Gone",
       "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
     },
     {
       "added_at": "2025-01-10 05:00:40",

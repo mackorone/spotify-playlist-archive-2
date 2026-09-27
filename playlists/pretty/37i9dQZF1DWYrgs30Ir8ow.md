@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Yade Lauren
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,074 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,078 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 49 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
 | 50 | [Take Me Back](https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Take Me Back](https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju) | 3:21 |
 
-Snapshot ID: `AAAAAH6fljVD/XDcpm65GAikvHGsIVT8`
+Snapshot ID: `AAAAAFb34Wu2/PHW+8p5NLC4SFWshx6d`

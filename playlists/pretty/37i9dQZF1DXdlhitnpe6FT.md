@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,388 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,476 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 45 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 |
 | 46 | [Never On Sunday](https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu) | [Don Costa And His Orchestra](https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or) | [Lost Hits Of The 60's](https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp) | 2:55 |
 | 47 | [Wenn wir auseinandergeh'n \(Please Release Me\)](https://open.spotify.com/track/57QRlAasOg3CFH7sLmNqVD) | [Captain Cook Und Seine Singenden Saxophone](https://open.spotify.com/artist/4UtSK2tnFD8onyFS34QusX) | [Heimat Deine Sterne, Folge 4](https://open.spotify.com/album/6fdvYtn7d6Atb998x2iCvs) | 2:13 |
-| 48 | [Billy Jack's Theme \- from the motion picture Born Losers](https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7) | [Mike Curb](https://open.spotify.com/artist/3K03NMtKNyd0jemLuLYcLf), [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 2:01 |
-| 49 | [Blue Tango](https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L) | [Leroy Anderson](https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX) | [The Leroy Anderson Collection](https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3) | 2:49 |
+| 48 | [Blue Tango](https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L) | [Leroy Anderson](https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX) | [The Leroy Anderson Collection](https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3) | 2:49 |
+| 49 | [Billy Jack's Theme \- from the motion picture Born Losers](https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7) | [Mike Curb](https://open.spotify.com/artist/3K03NMtKNyd0jemLuLYcLf), [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 2:01 |
 | 50 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
 | 51 | [Frenesí](https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Boleros Bonitos](https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg) | 2:49 |
 | 52 | [Pídele Al Tiempo Que Vuelva](https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T) | [Sounds Unlimited](https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts) | [101% Cine](https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa) | 2:11 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 69 | [Andalucia](https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY) | [Mr\. Ho's Orchestrotica](https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd) | [The Unforgettable Sounds of Esquivel](https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp) | 2:41 |
 | 70 | [Saute\-Mouton](https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The Very Best Of](https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI) | 3:00 |
 | 71 | [Look For A Star](https://open.spotify.com/track/0e1rlLP4kTqs4f2JQqUAZ7) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:10 |
-| 72 | [Too Young](https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst) | [Ricardo Juarez](https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70) | [Happy Time Cha Chas](https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb) | 2:55 |
-| 73 | [East Bound And Down](https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [East Bound And Down](https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT) | 2:42 |
+| 72 | [East Bound And Down](https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [East Bound And Down](https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT) | 2:42 |
+| 73 | [Too Young](https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst) | [Ricardo Juarez](https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70) | [Happy Time Cha Chas](https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb) | 2:55 |
 | 74 | [Boum](https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:15 |
 | 75 | [The Entertainer \- The Sting/Soundtrack Version/Orchestra Version](https://open.spotify.com/track/1wOCbnIsFcps5HALzAwRF5) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:00 |
 | 76 | [Sail Along Silv'ry Moon](https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:06 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 114 | [Always in my heart](https://open.spotify.com/track/40rN59RjmCSBlXUNxKifae) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [45 Greatest Hits](https://open.spotify.com/album/2SsXx2EEIhWDk6O1l3WoPh) | 2:29 |
 | 115 | [Frenesi](https://open.spotify.com/track/4NlfRihvAjaPWFjygOWZNx) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [A Regar La Polilla](https://open.spotify.com/album/6qywWZ1ChDMHt0KBEf7Fq6) | 3:20 |
 
-Snapshot ID: `AAAAAE/h+kOPG73a7/6Q2eoH+lQ67aw/`
+Snapshot ID: `AAAAACPv6sm0qe4KKrXXprd/S9MjQ96W`

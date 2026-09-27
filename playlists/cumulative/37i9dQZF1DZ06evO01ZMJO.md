@@ -4,7 +4,7 @@
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 50 min
+73 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Leven Voor De Rave](https://open.spotify.com/track/1Othclu13izG3c1oFKbbMJ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Leven Voor De Rave](https://open.spotify.com/album/1fJLR7t5nuGiDi8xDSoEbl) | 2:58 | 2025-07-20 | 2025-12-07 |
 | [Leven Voor De Rave \(feat\. Donnie\)](https://open.spotify.com/track/3dEQw8e93bI1ywaNCnRTxR) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Leven Voor De Rave \(feat\. Donnie\)](https://open.spotify.com/album/0b5c2xaV3Faf3QRwXV2qNT) | 2:58 | 2025-12-07 |  |
 | [Lotje \- Outsiders' Oldschool Remix](https://open.spotify.com/track/3KCRqj9rrJzer7FdU6BieU) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje \(Outsiders' Oldschool Remix\)](https://open.spotify.com/album/2qirHPOcr53Tkq3qbZ29Dd) | 2:43 | 2025-07-20 |  |
+| [Magic Key](https://open.spotify.com/track/3qNzpMWBWbm3MGAL92ffNm) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Magic Key](https://open.spotify.com/album/1fRDbBtJoR11bq9UTGEML2) | 2:37 | 2026-09-27 |  |
 | [Magnifico \- Jump Remix](https://open.spotify.com/track/3sFZe3Y4rvMmIdxpektQfV) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Magnifico \(Jump Remix\)](https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh) | 2:39 | 2025-07-20 |  |
-| [Me Emborrachare \- Hardstyle Original Remix](https://open.spotify.com/track/5mO5l8aCXDEw7qFNcPUtf4) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Me Emborrachare \(Hardstyle Original Remix\)](https://open.spotify.com/album/0iSyYIPSg9ov8R5bgxFu0t) | 4:11 | 2025-07-20 |  |
+| [Me Emborrachare \- Hardstyle Original Remix](https://open.spotify.com/track/5mO5l8aCXDEw7qFNcPUtf4) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Me Emborrachare \(Hardstyle Original Remix\)](https://open.spotify.com/album/0iSyYIPSg9ov8R5bgxFu0t) | 4:11 | 2025-07-20 | 2026-09-27 |
 | [Million Dreams](https://open.spotify.com/track/5TfhOWqTOEGgXSurbbZHGu) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Million Dreams](https://open.spotify.com/album/2c6rJHcR8KDnDTI4jV6D4z) | 3:07 | 2025-07-20 |  |
 | [Never Die](https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Never Die](https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu) | 3:20 | 2025-07-20 |  |
 | [One More Night](https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [One More Night](https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID) | 3:17 | 2025-07-20 |  |

@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-149 songs - 9 hr 10 min
+150 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,9 +80,9 @@
 | [Jailbait \- Alternate Version](https://open.spotify.com/track/115fUjg8giH0dg58hNGvbO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Remorse? No!](https://open.spotify.com/album/0F4ob5tWXCsooq9qO2w2M3) | 3:31 | 2024-05-14 | 2024-06-06 |
 | [Jumpin' Jack Flash](https://open.spotify.com/track/723GhiDQytwyF7NYX6MyuH) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:19 | 2022-12-30 | 2024-10-29 |
 | [Keep Us On The Road \(Live\) \[The Brains Mix\]](https://open.spotify.com/track/2WItOigPNcXeMExEKgW9OY) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M), [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [The Boys Of Ladbroke Grove](https://open.spotify.com/album/4odEMh1B3bNvNAwIvsjsmU) | 3:14 | 2023-09-09 | 2023-10-05 |
-| [Killed by Death](https://open.spotify.com/track/2XvVueul226rT8g4DQuKSK) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [All the Aces](https://open.spotify.com/album/13NfYO9kPsulhr0QpklkHF) | 4:38 | 2023-12-13 | 2026-09-20 |
+| [Killed by Death](https://open.spotify.com/track/2XvVueul226rT8g4DQuKSK) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [All the Aces](https://open.spotify.com/album/13NfYO9kPsulhr0QpklkHF) | 4:38 | 2023-12-13 |  |
 | [Killed by Death](https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [No Remorse](https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba) | 4:39 | 2022-12-30 | 2023-12-14 |
-| [Killed By Death \- Demo](https://open.spotify.com/track/44alqIie0HSc9LCxnm4UEf) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Remorse? No!](https://open.spotify.com/album/0F4ob5tWXCsooq9qO2w2M3) | 4:29 | 2026-09-20 |  |
+| [Killed By Death \- Demo](https://open.spotify.com/track/44alqIie0HSc9LCxnm4UEf) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Remorse? No!](https://open.spotify.com/album/0F4ob5tWXCsooq9qO2w2M3) | 4:29 | 2026-09-20 | 2026-09-27 |
 | [Killers](https://open.spotify.com/track/0gYX80G1UvhaGcpkuWwIuY) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 4:14 | 2025-12-21 |  |
 | [Leavin' Here \- The Manticore Tapes](https://open.spotify.com/track/79rlrnFpFrXZQTvDCsgcdg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Leavin' Here \(The Manticore Tapes\)](https://open.spotify.com/album/1aMdAEM4FntrFDbrOdpKph) | 3:23 | 2025-06-14 | 2025-08-08 |
 | [Life's a Bitch](https://open.spotify.com/track/08qd7KzrvVKwEU5mfBnU8j) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD) | 4:13 | 2023-01-24 | 2023-04-04 |
@@ -105,7 +105,8 @@
 | [One More Fucking Time](https://open.spotify.com/track/6SUarxODjZG2Ke0Fwm1Br8) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn) | 6:46 | 2025-03-15 |  |
 | [One Track Mind \- Live at Hull City Hall, 22/6/1983](https://open.spotify.com/track/4vRcgWjmYHGToSJyJvEEIu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [One Track Mind \(Live at Hull City Hall, 22/6/1983\)](https://open.spotify.com/album/4aQFtLSp3Uux25rRtFrejZ) | 4:05 | 2023-11-10 | 2023-12-14 |
 | [Orgasmatron](https://open.spotify.com/track/3RqNRquosVuv2C6AT6HLGT) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/6jHRYw1JsUNParuSI9BtFX) | 5:23 | 2022-12-30 | 2023-12-14 |
-| [Orgasmatron](https://open.spotify.com/track/3FXkhPqETD7nkZsr1Vr7qX) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 5:24 | 2023-12-13 |  |
+| [Orgasmatron](https://open.spotify.com/track/3FXkhPqETD7nkZsr1Vr7qX) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 5:24 | 2023-12-13 | 2026-09-27 |
+| [Orgasmatron \- Cameron Webb 40th Anniversary Remix](https://open.spotify.com/track/0hcDgU3NaIxx5ls9rDVa2k) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron \(Cameron Webb 40th Anniversary Remix\)](https://open.spotify.com/album/63EtYRYkIyqd3WZcRVEQ4A) | 5:19 | 2026-09-27 |  |
 | [Over the Top \(Live at Download Festival, Donington, England, June 13, 2008\)](https://open.spotify.com/track/1n1mXoqx7fzapLVRKq7ZBp) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 5](https://open.spotify.com/album/1TGHTdiR7QolfRrIzjzY6Z) | 2:29 | 2023-12-31 | 2024-02-10 |
 | [Over Your Shoulder \(Live\)](https://open.spotify.com/track/7GxFfjJNE3P1ZGJssYZozc) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Take No Prisoners \(The Singles 1995 \- 2006\)](https://open.spotify.com/album/6ZOKfW7b5wK3gXviW1s6l6) | 3:41 | 2024-10-29 | 2025-01-05 |
 | [Overkill](https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 5:11 | 2022-12-30 | 2023-12-14 |

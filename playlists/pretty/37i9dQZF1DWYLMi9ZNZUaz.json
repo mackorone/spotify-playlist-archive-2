@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 124265,
+  "num_followers": 124283,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACLwZm+bMfde+UAwhzVNlEfNrEGX",
+  "snapshot_id": "AAAAALS3oXp9t+R/Yee0ttYdQ9VmaQPQ",
   "tracks": [
     {
       "added_at": "2026-09-24 17:00:39",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-09-24 17:00:39",
       "album": {
+        "name": "Y\u00eau 5",
+        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
+      },
+      "artists": [
+        {
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Y\u00eau 5",
+      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
+    },
+    {
+      "added_at": "2026-09-24 17:00:39",
+      "album": {
         "name": "THE WXRDIES",
         "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 194000,
       "name": "Tr\u1edf V\u1ec1",
       "url": "https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu"
-    },
-    {
-      "added_at": "2026-09-24 17:00:39",
-      "album": {
-        "name": "Y\u00eau 5",
-        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
-      },
-      "artists": [
-        {
-          "name": "Rhymastic",
-          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Y\u00eau 5",
-      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
     },
     {
       "added_at": "2026-09-24 17:00:39",
@@ -255,26 +255,6 @@
     {
       "added_at": "2026-09-24 17:00:39",
       "album": {
-        "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
-        "url": "https://open.spotify.com/album/5yZBkOqFJ5hzK3alfJbENs"
-      },
-      "artists": [
-        {
-          "name": "Luxuyen",
-          "url": "https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4"
-        },
-        {
-          "name": "New$oulz",
-          "url": "https://open.spotify.com/artist/7GKDb02uOcMnDS5fUixNEc"
-        }
-      ],
-      "duration_ms": 113519,
-      "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
-      "url": "https://open.spotify.com/track/2qU7v0idyT8aTp8FVxl23c"
-    },
-    {
-      "added_at": "2026-09-24 17:00:39",
-      "album": {
         "name": "Don't C\u00f4i",
         "url": "https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC"
       },
@@ -295,6 +275,26 @@
     {
       "added_at": "2026-09-24 17:00:39",
       "album": {
+        "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
+        "url": "https://open.spotify.com/album/5yZBkOqFJ5hzK3alfJbENs"
+      },
+      "artists": [
+        {
+          "name": "Luxuyen",
+          "url": "https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4"
+        },
+        {
+          "name": "New$oulz",
+          "url": "https://open.spotify.com/artist/7GKDb02uOcMnDS5fUixNEc"
+        }
+      ],
+      "duration_ms": 113519,
+      "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
+      "url": "https://open.spotify.com/track/2qU7v0idyT8aTp8FVxl23c"
+    },
+    {
+      "added_at": "2026-09-24 17:00:39",
+      "album": {
         "name": "Cho B\u1ea3o",
         "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
       },
@@ -307,26 +307,6 @@
       "duration_ms": 163754,
       "name": "Feel At Home",
       "url": "https://open.spotify.com/track/7uulTURh3qtUEUnMNtgcA6"
-    },
-    {
-      "added_at": "2026-09-24 17:00:39",
-      "album": {
-        "name": "B\u1ea1n \u0110\u1eddi",
-        "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
-      },
-      "artists": [
-        {
-          "name": "Karik",
-          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
-        },
-        {
-          "name": "GDucky",
-          "url": "https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW"
-        }
-      ],
-      "duration_ms": 300718,
-      "name": "B\u1ea1n \u0110\u1eddi",
-      "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
     },
     {
       "added_at": "2026-09-24 17:00:39",
@@ -355,8 +335,28 @@
     {
       "added_at": "2026-09-24 17:00:39",
       "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+        "name": "B\u1ea1n \u0110\u1eddi",
+        "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
+      },
+      "artists": [
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        },
+        {
+          "name": "GDucky",
+          "url": "https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW"
+        }
+      ],
+      "duration_ms": 300718,
+      "name": "B\u1ea1n \u0110\u1eddi",
+      "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
+    },
+    {
+      "added_at": "2026-09-24 17:00:39",
+      "album": {
+        "name": "B\u01b0\u1edbc Za \u0110i Xa",
+        "url": "https://open.spotify.com/album/7l24MYtFsidM09pDOlLrSf"
       },
       "artists": [
         {
@@ -364,13 +364,17 @@
           "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
         },
         {
-          "name": "Mcee Blue",
-          "url": "https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk"
+          "name": "Marlykid",
+          "url": "https://open.spotify.com/artist/1iVDAS7uGjPmHGNxhNmJdI"
+        },
+        {
+          "name": "Lucin3x",
+          "url": "https://open.spotify.com/artist/2LhBOKigSJoFuqyoy4GlW2"
         }
       ],
-      "duration_ms": 203687,
-      "name": "M\u1eddi Em",
-      "url": "https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6"
+      "duration_ms": 168774,
+      "name": "B\u01b0\u1edbc Za \u0110i Xa",
+      "url": "https://open.spotify.com/track/3ER1r0HipeSSu7YNImC6vd"
     },
     {
       "added_at": "2026-09-24 17:00:39",
@@ -463,8 +467,8 @@
     {
       "added_at": "2026-09-24 17:00:39",
       "album": {
-        "name": "B\u01b0\u1edbc Za \u0110i Xa",
-        "url": "https://open.spotify.com/album/7l24MYtFsidM09pDOlLrSf"
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
       "artists": [
         {
@@ -472,17 +476,13 @@
           "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
         },
         {
-          "name": "Marlykid",
-          "url": "https://open.spotify.com/artist/1iVDAS7uGjPmHGNxhNmJdI"
-        },
-        {
-          "name": "Lucin3x",
-          "url": "https://open.spotify.com/artist/2LhBOKigSJoFuqyoy4GlW2"
+          "name": "Mcee Blue",
+          "url": "https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk"
         }
       ],
-      "duration_ms": 168774,
-      "name": "B\u01b0\u1edbc Za \u0110i Xa",
-      "url": "https://open.spotify.com/track/3ER1r0HipeSSu7YNImC6vd"
+      "duration_ms": 203687,
+      "name": "M\u1eddi Em",
+      "url": "https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6"
     },
     {
       "added_at": "2026-09-24 17:00:39",

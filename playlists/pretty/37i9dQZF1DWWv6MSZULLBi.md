@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Michaela Slinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,151 likes - 150 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,144 likes - 150 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 149 | [Build It Up](https://open.spotify.com/track/4yezCs6aM4dTqIzP8C9Co9) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Build It Up](https://open.spotify.com/album/3Eje8AWv7Y4hXVWVFg1I62) | 3:06 |
 | 150 | [I Wish](https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [The Maes](https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa) | [I Wish](https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW) | 3:00 |
 
-Snapshot ID: `AAAAAHRWdf1J10uE/lmEEdQMOctyhh8S`
+Snapshot ID: `AAAAANsNh4buCckVbPYy0X6nHGq8eE34`

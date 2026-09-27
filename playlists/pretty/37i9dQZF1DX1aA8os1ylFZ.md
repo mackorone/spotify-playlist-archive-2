@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > De beste nieuwe R&B releases \| Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,065 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 68 | [Physical \(feat.Tink\)](https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Physical](https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd) | 3:52 |
 | 69 | [Miss That](https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Miss That](https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9) | 2:56 |
 | 70 | [Why](https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Why](https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes) | 2:32 |
-| 71 | [So Bad \- bonus track](https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [So Bad \(bonus track\)](https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92) | 2:00 |
-| 72 | [10AM](https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [10AM](https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD) | 3:36 |
+| 71 | [10AM](https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [10AM](https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD) | 3:36 |
+| 72 | [So Bad \- bonus track](https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [So Bad \(bonus track\)](https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92) | 2:00 |
 | 73 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 |
 | 74 | [Just Like You](https://open.spotify.com/track/3vUbxLf8vr3KmI5Dqpfzqz) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like You](https://open.spotify.com/album/7Aqv6M8ONnqRIjBx99XLoQ) | 3:06 |
 | 75 | [What I Used To Get Into](https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Dark Nights](https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE) | 3:12 |
@@ -90,17 +90,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 80 | [Tricks Are For Kids](https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Tricks Are For Kids](https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO) | 2:20 |
 | 81 | [back 'n forth](https://open.spotify.com/track/57c824155MOILKW4B9i26h) | [Chuka, The Destroyer](https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys) | [back 'n forth](https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED) | 3:17 |
 | 82 | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt) | 3:18 |
-| 83 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
-| 84 | [Desire \- Spotify Singles](https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Desire \- Spotify Singles](https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i) | 3:45 |
-| 85 | [Overrated](https://open.spotify.com/track/2NN4IYo4XsCPn0jcl8n12K) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Overrated](https://open.spotify.com/album/5ehxxi3VjaQ825YmJrFHxL) | 3:11 |
+| 83 | [Desire \- Spotify Singles](https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Desire \- Spotify Singles](https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i) | 3:45 |
+| 84 | [Overrated](https://open.spotify.com/track/2NN4IYo4XsCPn0jcl8n12K) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Overrated](https://open.spotify.com/album/5ehxxi3VjaQ825YmJrFHxL) | 3:11 |
+| 85 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
 | 86 | [No Secrets](https://open.spotify.com/track/0yR6C6fVO9EecfDKL7e9mY) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [No Secrets](https://open.spotify.com/album/1dJdsWWuEbTDh43PpZfcbT) | 3:09 |
 | 87 | [Tomorrow](https://open.spotify.com/track/4umymn6Qc9NZkoloGbEDgr) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Tomorrow](https://open.spotify.com/album/3YT79msB3OrgU1qvd7vyot) | 1:58 |
 | 88 | [Sold Myself For Love](https://open.spotify.com/track/1NFTCC13S7o7n2Yy6ctEdZ) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Sold Myself For Love](https://open.spotify.com/album/06O9egxd0mX7XEtuqmuX0D) | 3:26 |
 | 89 | [10%](https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [This One Is Personal](https://open.spotify.com/album/55VroRmh4MCv27zw275clO) | 2:49 |
 | 90 | [Take Our Time](https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Take Our Time](https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg) | 2:25 |
-| 91 | [If The Walls Could Talk](https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi) | [ZYHH](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [If The Walls Could Talk](https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx) | 3:10 |
+| 91 | [Empath](https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 3:17 |
 | 92 | [Saving All My Love](https://open.spotify.com/track/2aeBRy4Rb55mZEngtFeEIz) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Saving All My Love](https://open.spotify.com/album/7qPS8oM3jIPWvY1ea7BEL0) | 2:18 |
-| 93 | [Empath](https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 3:17 |
+| 93 | [If The Walls Could Talk](https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi) | [ZYHH](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [If The Walls Could Talk](https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx) | 3:10 |
 | 94 | [Club](https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Club](https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll) | 2:39 |
 | 95 | [Watch You Leave](https://open.spotify.com/track/71H62uTyeyqMwIvtCispPT) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Watch You Leave](https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y) | 4:23 |
 | 96 | [LOVE ME \(feat\. Stevie Wonder\)](https://open.spotify.com/track/5HPvBWjFHAO01Zt22uDU27) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [CAMPILATION](https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [125 Degrees](https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [125 Degrees](https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp) | 2:43 |
 | 100 | [N.M.N](https://open.spotify.com/track/1c9AwaAGcb4e7IPTRuPdHN) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Why Do Feelings Matter Anyway](https://open.spotify.com/album/74KBgkPg55lmPeu8Lt2r4M) | 3:00 |
 
-Snapshot ID: `AAAAAIW5KCnR8m151Mg7a211UaaycSVT`
+Snapshot ID: `AAAAACk3aJ0lMs9rzUSEcWE6dIm7IzNt`

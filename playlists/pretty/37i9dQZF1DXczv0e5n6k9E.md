@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Dirty Harry, Hoodie No
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,619 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,624 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [BADMAN](https://open.spotify.com/track/0B015hZa7aYSZCpPAa4iPy) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [VEGANZE](https://open.spotify.com/album/3gCixeUQEUORowiAA5zVqp) | 2:41 |
 | 60 | [HAHAHA 2](https://open.spotify.com/track/5EAy0J6wLVOb0qR9eR9Rsa) | [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO), [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH) | [HAHAHA 2](https://open.spotify.com/album/0ArcAZ824nDh744VaKOB1r) | 2:56 |
 
-Snapshot ID: `AAAAAEdbI+UDFe9a9pUNi/i5f6HY0RPk`
+Snapshot ID: `AAAAAJiKmF46xpy3qFmrDVNMtdu6eiiU`

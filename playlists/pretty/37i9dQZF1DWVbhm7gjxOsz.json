@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 141359,
+  "num_followers": 141419,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM81alEUu3LbUJiDJdntLz72yp0c",
+  "snapshot_id": "AAAAAMRVIARX6UzNfs/aJXHliev2yHEy",
   "tracks": [
     {
       "added_at": "2025-05-23 07:54:59",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Workin' On A Groovy Thing....The Best Of",
-        "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
-      },
-      "artists": [
-        {
-          "name": "Patti Drew",
-          "url": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
-        }
-      ],
-      "duration_ms": 151453,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Thin Line Between Love & Hate: Golden Classics",
         "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 207653,
       "name": "Thin Line Between Love and Hate",
       "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Workin' On A Groovy Thing....The Best Of",
+        "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
+      },
+      "artists": [
+        {
+          "name": "Patti Drew",
+          "url": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
+        }
+      ],
+      "duration_ms": 151453,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Why Can't We Be Friends?",
         "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 240866,
       "name": "Don't Let No One Get You Down",
       "url": "https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus"
-      },
-      "artists": [
-        {
-          "name": "El Chicano",
-          "url": "https://open.spotify.com/artist/3vkhZMoCdp5lBgrk9l2nCL"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "Sabor A Mi",
-      "url": "https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Two Lovers",
         "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 166732,
       "name": "Two Lovers",
       "url": "https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus"
+      },
+      "artists": [
+        {
+          "name": "El Chicano",
+          "url": "https://open.spotify.com/artist/3vkhZMoCdp5lBgrk9l2nCL"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2148,6 +2148,22 @@
       "added_at": "2025-05-23 07:54:59",
       "album": {
         "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/339IjdizH8YIpwOUbUWGjl"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 298626,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/55xs0ctzl8u3OY9KLmnyu2"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
       },
       "artists": [
@@ -2259,22 +2275,6 @@
       "duration_ms": 184634,
       "name": "I Love You for All Seasons",
       "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/339IjdizH8YIpwOUbUWGjl"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 298626,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/55xs0ctzl8u3OY9KLmnyu2"
     },
     {
       "added_at": "2025-05-23 07:54:59",

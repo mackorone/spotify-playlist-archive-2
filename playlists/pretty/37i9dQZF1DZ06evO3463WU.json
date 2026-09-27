@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 161109,
+  "num_followers": 161127,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAB+RROTeceoWLmX065zYGuN",
+  "snapshot_id": "arW5gAAAAACmn4xVT9TUZBNGnJCX2XRc",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Consentidas De Pancho Barraza",
+        "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Y Las Mariposas",
+      "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuenta Conmigo",
         "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
       },
@@ -271,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Consentidas De Pancho Barraza",
-        "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
+        "name": "Mi Amor Y Mi Agon\u00eda",
+        "url": "https://open.spotify.com/album/2JHN0HfZIzbrJfIWqp4TqJ"
       },
       "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 229160,
-      "name": "Y Las Mariposas",
-      "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
+      "duration_ms": 173928,
+      "name": "Mi Amor Y Mi Agon\u00eda",
+      "url": "https://open.spotify.com/track/4cCHoIZovhZO9u6kzTPrE1"
     },
     {
       "added_at": null,
@@ -335,26 +355,6 @@
       "duration_ms": 222000,
       "name": "El Terco",
       "url": "https://open.spotify.com/track/5lSFtOj0QXN9OFrOhssiAl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Amor Y Mi Agon\u00eda",
-        "url": "https://open.spotify.com/album/2JHN0HfZIzbrJfIWqp4TqJ"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 173928,
-      "name": "Mi Amor Y Mi Agon\u00eda",
-      "url": "https://open.spotify.com/track/4cCHoIZovhZO9u6kzTPrE1"
     },
     {
       "added_at": null,
@@ -727,42 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 185736,
-      "name": "De Frente Al Mar",
-      "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde La Playa Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1APPJC5KbjeamY8oscMlt9"
       },
@@ -795,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pap\u00e1 Soltero",
-        "url": "https://open.spotify.com/album/23EvXog4CEAVbWcSOWhKSW"
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
       "artists": [
         {
@@ -804,9 +768,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Amor Que Mata",
-      "url": "https://open.spotify.com/track/55708pC6YpRlAt9YYnls5H"
+      "duration_ms": 185736,
+      "name": "De Frente Al Mar",
+      "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
     },
     {
       "added_at": null,
@@ -820,13 +784,29 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 187050,
-      "name": "Cien Por Ciento Sincero",
-      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
+      "duration_ms": 167986,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pap\u00e1 Soltero",
+        "url": "https://open.spotify.com/album/23EvXog4CEAVbWcSOWhKSW"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Amor Que Mata",
+      "url": "https://open.spotify.com/track/55708pC6YpRlAt9YYnls5H"
     },
     {
       "added_at": null,
@@ -875,6 +855,26 @@
       "duration_ms": 215224,
       "name": "La Reyna de Mi Hogar - Remastered 2025",
       "url": "https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 30 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "Cien Por Ciento Sincero",
+      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
     },
     {
       "added_at": null,

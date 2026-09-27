@@ -4,7 +4,7 @@
 
 > lass mal den herbst romantisieren
 
-382 songs - 21 hr 26 min
+383 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 | 2024-02-23 | 2024-07-14 |
 | [maybe](https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [maybe](https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6) | 3:07 | 2024-05-01 | 2026-02-28 |
 | [Meant To Be](https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN) | 2:43 | 2023-07-26 | 2024-04-19 |
+| [mein nächstes leben](https://open.spotify.com/track/6atEiNS1RXIIEfWYntlE7T) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [mein nächstes leben](https://open.spotify.com/album/038Xy3LCSMYbCQcITgjSaa) | 3:02 | 2026-09-24 |  |
 | [MI SUEÑO](https://open.spotify.com/track/520zZB2d3iCE04y7YIOaQF) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [MI SUEÑO](https://open.spotify.com/album/69XK7T7UIWLq7h4cNOKKl3) | 2:24 | 2026-06-18 | 2026-07-31 |
 | [Mira](https://open.spotify.com/track/3xbSexiVMsTaqlWW2tyt8s) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Mira](https://open.spotify.com/album/2OBxw92JrtGREndgAnWkCz) | 3:43 | 2025-10-16 | 2025-10-27 |
 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 | 2025-09-25 | 2025-11-15 |
@@ -367,7 +368,7 @@
 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 | 2024-04-19 | 2026-03-28 |
 | [was bleibt](https://open.spotify.com/track/0IImqP5NaL0ZN5jPCIlOad) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [was bleibt](https://open.spotify.com/album/6mWRN4XBYWFVJlnmnE9UFJ) | 3:13 | 2026-09-03 |  |
 | [Washed Up](https://open.spotify.com/track/5DC8a9K1q6xTIDlTOVVJt9) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Get It Done](https://open.spotify.com/album/3OLKZxkcuaBD1WKiRf9RtM) | 3:24 | 2023-07-26 | 2024-04-19 |
-| [Water The Flowers](https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Water The Flowers](https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2) | 2:30 | 2026-06-25 |  |
+| [Water The Flowers](https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Water The Flowers](https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2) | 2:30 | 2026-06-25 | 2026-09-27 |
 | [Weit weg](https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Weit weg](https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv) | 2:41 | 2023-07-26 |  |
 | [Welcome to the Mood](https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 2:15 | 2025-04-25 | 2026-04-03 |
 | [well, well, well](https://open.spotify.com/track/6HKWq6r4OedN1Ey33G07qi) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [well, well, well](https://open.spotify.com/album/57SCkw6m1ClHrYpHoXvJ5y) | 4:10 | 2026-04-30 | 2026-05-08 |

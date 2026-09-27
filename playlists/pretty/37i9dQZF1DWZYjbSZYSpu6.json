@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Moon Sujin, GANGGA)",
-  "num_followers": 392448,
+  "num_followers": 392431,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAENS4D4LKzWWNMNKm8hKRtE45AVK",
+  "snapshot_id": "AAAAANXJkrDjt1t6BhJuDCVSukB5wA5l",
   "tracks": [
     {
       "added_at": "2026-09-18 06:27:21",
@@ -291,26 +291,6 @@
     {
       "added_at": "2026-09-18 06:27:21",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Small girl (feat. D.O.)",
-      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
-    },
-    {
-      "added_at": "2026-09-18 06:27:21",
-      "album": {
         "name": "if i\u2019m with you",
         "url": "https://open.spotify.com/album/3AzI8LdP4LZ9wHRMqV3V2B"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 224902,
       "name": "if i\u2019m with you",
       "url": "https://open.spotify.com/track/0r8x5ercAQKwRE4U85EZbE"
+    },
+    {
+      "added_at": "2026-09-18 06:27:21",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
       "added_at": "2026-09-18 06:27:21",
@@ -351,22 +351,22 @@
     {
       "added_at": "2026-09-18 06:27:21",
       "album": {
-        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
+        "name": "Walk In The Night (Feat. Zion.T)",
+        "url": "https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
         },
         {
-          "name": "SUNG HAN BIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Luv Luv Luv",
-      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
+      "duration_ms": 185601,
+      "name": "Walk In The Night (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK"
     },
     {
       "added_at": "2026-09-18 06:27:21",
@@ -391,22 +391,22 @@
     {
       "added_at": "2026-09-18 06:27:21",
       "album": {
-        "name": "Walk In The Night (Feat. Zion.T)",
-        "url": "https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g"
+        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
       "artists": [
         {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
         },
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
         }
       ],
-      "duration_ms": 185601,
-      "name": "Walk In The Night (Feat. Zion.T)",
-      "url": "https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK"
+      "duration_ms": 202173,
+      "name": "Luv Luv Luv",
+      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
     },
     {
       "added_at": "2026-09-18 06:27:21",
@@ -999,26 +999,26 @@
     {
       "added_at": "2026-09-18 06:27:21",
       "album": {
-        "name": "HAAN Chan Store",
-        "url": "https://open.spotify.com/album/51wCFjR3dWWVJLEvrcYwRJ"
+        "name": "Waves (feat. Simon Dominic & Jamie)",
+        "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
       },
       "artists": [
         {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
         },
         {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         },
         {
-          "name": "Boramiyu",
-          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 178928,
-      "name": "\ub124 \uc606\uc5d0 \uc788\uc744 \ub54c",
-      "url": "https://open.spotify.com/track/6XQo75TRRqpQGhQmHwa8AQ"
+      "duration_ms": 164920,
+      "name": "Waves (feat. Simon Dominic & Jamie)",
+      "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

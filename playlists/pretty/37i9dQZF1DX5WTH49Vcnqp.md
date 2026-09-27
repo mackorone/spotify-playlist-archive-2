@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define, but easy to love\. Cover: Julia Jacklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,786 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,734 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Joe Drives Again](https://open.spotify.com/track/6ePnlprG50uQkYp5GTzVdY) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Teen of Denial: Joe’s Story](https://open.spotify.com/album/4lIrDPBBYbYiYWM4qExb1T) | 4:06 |
 | 75 | [LIFE](https://open.spotify.com/track/2piZnAQmdM4kwdKTdeKevR) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [LIFE](https://open.spotify.com/album/11UH2nnKfxCzdhWXkffIOE) | 3:16 |
 
-Snapshot ID: `AAAAAAAEISPnC6zEckUMIpH/TEb+r7a4`
+Snapshot ID: `AAAAAMFsmZkzWd7vwsjnRjx+Os9jPvQK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,124 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,126 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 13 | [Berlin Ghost Opera](https://open.spotify.com/track/707014S3juTp8VeyuI5t2C) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:07 |
 | 14 | [Mon Coeur S'ouvre a Ta Voix](https://open.spotify.com/track/5igknsjYOjHAqdVQbnJH1C) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Classique](https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY) | 3:59 |
 | 15 | [O Cease Thy Singing, Maiden Fair, Op\. 4: No\. 4](https://open.spotify.com/track/5rnadrQ6ud2mfwonOcC2s6) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Erick Friedman](https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 4:57 |
-| 16 | [Cantilena No\. 3 \(Arr\. for Theremin, Cello Quartet and Double Bass\)](https://open.spotify.com/track/1jirBkHYGkmiZVjGJvHYl4) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Rebekka Markowski](https://open.spotify.com/artist/5OITVrp8FwR7RqPZ4mTMgc), [Roman Eyck](https://open.spotify.com/artist/7rZPR5skCsBsl5FaKqdX5s) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 3:10 |
+| 16 | [Remembrance](https://open.spotify.com/track/4orEgXNanMh8G0UQHxpmLh) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI) | [Elegies for Theremin & Voice](https://open.spotify.com/album/2hvh70v7UAkTDB6ERVabQH) | 4:10 |
 | 17 | [Suite No\. 3 in D, BWV 1068: Air on the G String](https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [The Listening Room Ensemble](https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 4:28 |
 | 18 | [Luna Hiena](https://open.spotify.com/track/4h652ABDkLBsAzOolrJ6ke) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 2:44 |
 | 19 | [O Mio Babbino Caro](https://open.spotify.com/track/2yIjx5dyMvHv7l4VpxpAcI) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Discmorphia](https://open.spotify.com/album/1ba187ocIN64czJt2OD5li) | 4:04 |
 | 20 | [Precious Weeks](https://open.spotify.com/track/3CXOQPeLHu4teBqbV6dLnx) | [Arthur Sharpe](https://open.spotify.com/artist/00vWlRywZkruZCVSSLhz6H) | [The Electrical Life of Louis Wain \(Original Motional Picture Soundtrack\)](https://open.spotify.com/album/20lEPXGZE0D2vzoHM5psYH) | 3:26 |
-| 21 | [Remembrance](https://open.spotify.com/track/4orEgXNanMh8G0UQHxpmLh) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI) | [Elegies for Theremin & Voice](https://open.spotify.com/album/2hvh70v7UAkTDB6ERVabQH) | 4:10 |
+| 21 | [Cantilena No\. 3 \(Arr\. for Theremin, Cello Quartet and Double Bass\)](https://open.spotify.com/track/1jirBkHYGkmiZVjGJvHYl4) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Rebekka Markowski](https://open.spotify.com/artist/5OITVrp8FwR7RqPZ4mTMgc), [Roman Eyck](https://open.spotify.com/artist/7rZPR5skCsBsl5FaKqdX5s) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 3:10 |
 | 22 | [Bachianas Brasileiras: No\. 5, Aria](https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B) | [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [The Listening Room Ensemble](https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 7:56 |
 | 23 | [Waikiki Spleen](https://open.spotify.com/track/79UG5zCh9xcADra04a1Oy0) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:19 |
 | 24 | [Summertime](https://open.spotify.com/track/4UyTsJd4FAAbrsA8qQ6apq) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Ameriqué: The American Songbook](https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 49 | [Je Crois Entendre Encore](https://open.spotify.com/track/1ybXUJcVT5W32Kaii6sJJo) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Classique](https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY) | 4:02 |
 | 50 | [Thaïs: Méditation \(Arr\. for Theremin and Piano\)](https://open.spotify.com/track/5XhWzhaWzjzgPIYnGmGIcP) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Giulietta Koch](https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 4:40 |
 
-Snapshot ID: `AAAAAMop1Hg4fULzSEIw4iHYMSyaQx+U`
+Snapshot ID: `AAAAAHXr65tUKNruz5VXUSrhUIv0/ldj`

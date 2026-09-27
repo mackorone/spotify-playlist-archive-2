@@ -661,6 +661,28 @@
     },
     {
       "album": {
+        "name": "Chann Kitthan",
+        "url": "https://open.spotify.com/album/0YThqPwboJDu2orXmeE9xN"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        },
+        {
+          "name": "REHAT",
+          "url": "https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282666,
+      "name": "Chann Kitthan",
+      "url": "https://open.spotify.com/track/4SLA4bxtd0c98H3t2ZY7UU"
+    },
+    {
+      "album": {
         "name": "Charkha Chanan Da - Single",
         "url": "https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db"
       },
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 253846,
       "name": "Jaago Aaiya",
       "url": "https://open.spotify.com/track/1hZxlzNO0gl0rl300qF7ta"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: The Paradise
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,471 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,232 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Athiloka Sundari](https://open.spotify.com/track/7agbQBEJYIaKJ8lGVdq1bv) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:14 |
 | 50 | [Lagare Sound Saala](https://open.spotify.com/track/5gcNhrUCd1f4GYtUVtYnjf) | [Mamatha Ramesh](https://open.spotify.com/artist/6mAwVufM5NvlkXnGEg8kJv) | [Lagare Sound Saala](https://open.spotify.com/album/2podM2DUHLoYNXz0mXnnxC) | 4:50 |
 
-Snapshot ID: `AAAAAF2ma1dPdDARy+JwFnkck3piyuy+`
+Snapshot ID: `AAAAAP/WuBYF184UYd2BQXH8QXpTAwjT`

@@ -580,7 +580,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 211773,
       "name": "BCN Squad",
       "url": "https://open.spotify.com/track/4xWKzMax2D4VMvb080Ci6K"
@@ -5110,6 +5110,24 @@
       "duration_ms": 195038,
       "name": "Quiet On Set",
       "url": "https://open.spotify.com/track/1MayFYhQQvVD4IzD7dqBBj"
+    },
+    {
+      "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5Nu0zhhhjLqMV9roSP6uhj"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/6KEIaqDtnIXKcDILpNbo9K"
     },
     {
       "album": {

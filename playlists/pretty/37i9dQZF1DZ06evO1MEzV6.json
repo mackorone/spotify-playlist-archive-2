@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 128608,
+  "num_followers": 128627,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAABAZAAKuvKngICNApe/N2f8",
+  "snapshot_id": "arW5gAAAAADq1hSo8rB6R2UiSfmk/dwg",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pylon",
-        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 89678,
-      "name": "Despite That",
-      "url": "https://open.spotify.com/track/2nyCiGvIqREI3u8Tf95iCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Extended Play",
         "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
       },
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loveworm",
-        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+        "name": "She Plays Bass",
+        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 191129,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/0oS6978exXanyIZJD4cdgV"
+      "duration_ms": 207106,
+      "name": "She Plays Bass",
+      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
     },
     {
       "added_at": null,
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "She Plays Bass",
-        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 207106,
-      "name": "She Plays Bass",
-      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
+      "duration_ms": 191129,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/0oS6978exXanyIZJD4cdgV"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
       "duration_ms": 152649,
       "name": "Charlie Brown",
       "url": "https://open.spotify.com/track/1NBQUtKSQdu7Nlw2isLxAV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 89678,
+      "name": "Despite That",
+      "url": "https://open.spotify.com/track/2nyCiGvIqREI3u8Tf95iCr"
     },
     {
       "added_at": null,

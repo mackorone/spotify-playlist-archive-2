@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Julia Jacklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,217 likes - 223 songs - 12 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,174 likes - 223 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 222 | [Friend or Foe](https://open.spotify.com/track/0WLvAxN0Wwd907cdULZ78w) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [Friend or Foe](https://open.spotify.com/album/0Cb4PRCetIOMPxyHyqe8qC) | 2:41 |
 | 223 | [TETHERED](https://open.spotify.com/track/3T7dA8ChJjB3MO9BXAvWI7) | [bunii](https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W) | [TETHERED](https://open.spotify.com/album/3esZSIjwOc0gkaveIwToKd) | 3:22 |
 
-Snapshot ID: `AAAAAIuhSMyY/5lPUpdodcSZdjCgJ2pz`
+Snapshot ID: `AAAAAJlFVsJFqp/zzE3iwWwwvGs2XhiA`

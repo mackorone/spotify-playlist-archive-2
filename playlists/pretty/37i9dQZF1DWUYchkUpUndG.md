@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Theresa Phondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,442 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,495 likes - 100 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Already Loved](https://open.spotify.com/track/1eQcRsCGoDTiRmTLPzPbae) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Already Loved](https://open.spotify.com/album/0s3raoXRQiFVnnUDZ7H9oP) | 3:46 |
-| 2 | [My God](https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My God](https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B) | 8:08 |
+| 2 | [MY GOD, YOU ARE GOOD](https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [MY GOD, YOU ARE GOOD](https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B) | 8:08 |
 | 3 | [Nikumbuke](https://open.spotify.com/track/1KfQkotQJ73JT93plHOxTh) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nikumbuke](https://open.spotify.com/album/0yOxz1GgBgXb71mIbyTTsF) | 4:05 |
 | 4 | [Nothing Spoils in my Hand](https://open.spotify.com/track/2XqCY3rGj9lQtfghvaucTT) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Nothing Spoils in my Hand](https://open.spotify.com/album/56Dzq59j8Af14cve3psPXv) | 4:27 |
 | 5 | [Good God](https://open.spotify.com/track/2dBSHcsj2hLjUXs7XC0L3b) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Good God](https://open.spotify.com/album/5eZaaV8aS4B1whJNQGxrCi) | 9:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Our God](https://open.spotify.com/track/1VlFb7QidjG953ojaRyaGP) | [Big Circle Worship](https://open.spotify.com/artist/0atNZQQ1GBucFqhVeqdB8a), [Reuben Ebiloma](https://open.spotify.com/artist/28rPCy3pibdCHLEVmQUsOF) | [Our God](https://open.spotify.com/album/7DkSH7GJC5WqOTD5omViJc) | 12:13 |
 | 100 | [River](https://open.spotify.com/track/1clWlqByouKR1qVcr9L1lr) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3) | [River](https://open.spotify.com/album/4zlxbyaLqgdO0l8f73d3UJ) | 2:53 |
 
-Snapshot ID: `AAAAAHz5NdK0VppvUC102Xqf5WhRkP7F`
+Snapshot ID: `AAAAAANBBfm+SwSon4aosuRVSX2+G0ZV`

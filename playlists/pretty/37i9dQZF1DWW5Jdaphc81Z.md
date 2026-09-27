@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 
 > mykonos season is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,977 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,040 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 | 90 | [Sunset In Pretoria](https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [Sunset In Pretoria](https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD) | 3:58 |
 | 91 | [Khetha](https://open.spotify.com/track/55Ksyvd4sNgRarIlq1u9r6) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf) | [Khetha](https://open.spotify.com/album/20qljRtdrfq1pY4UL7xI8Z) | 7:39 |
 | 92 | [Alive](https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Alive](https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO) | 3:12 |
-| 93 | [Hot Sauce](https://open.spotify.com/track/4NQfTDDQ6NshgWnGz3YZeF) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Kapuchon](https://open.spotify.com/artist/1x8zJjYRYiDgXA8J4uopMt), [GLZ](https://open.spotify.com/artist/3xpY5gjKMCT54sR2NoXJsr) | [Hot Sauce](https://open.spotify.com/album/00neYxTPTssvxMgKtWVofX) | 2:17 |
-| 94 | [Break The Loop](https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [Break The Loop](https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7) | 3:46 |
+| 93 | [Break The Loop](https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [Break The Loop](https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7) | 3:46 |
+| 94 | [Hot Sauce](https://open.spotify.com/track/4NQfTDDQ6NshgWnGz3YZeF) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Kapuchon](https://open.spotify.com/artist/1x8zJjYRYiDgXA8J4uopMt), [GLZ](https://open.spotify.com/artist/3xpY5gjKMCT54sR2NoXJsr) | [Hot Sauce](https://open.spotify.com/album/00neYxTPTssvxMgKtWVofX) | 2:17 |
 | 95 | [Late at Night](https://open.spotify.com/track/0I5kavrL6aUxqMVYdtrReQ) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [HUMAN404](https://open.spotify.com/artist/1I0I7n9gKqj3W7lQCka883), [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ) | [Late at Night](https://open.spotify.com/album/1h2GZPLWCaqfvwSYQz6QoE) | 3:25 |
 | 96 | [Feel](https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Dotr](https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx) | 3:39 |
 | 97 | [Elegibo](https://open.spotify.com/track/3IugKG1BvQJTnK9KviDdpV) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD), [Relight Orchestra](https://open.spotify.com/artist/7mDeWybDDFBOAshsWdDc2j), [DJ Andrea](https://open.spotify.com/artist/2Yx5JNsfQi39z09nCW4Y4O) | [Elegibo](https://open.spotify.com/album/4YypLcBdTBCc7xpyc0MGd4) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 | 99 | [Lemme Dance](https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lemme Dance](https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF) | 3:43 |
 | 100 | [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 |
 
-Snapshot ID: `AAAAAJcIoOaYOS7RXM5QiE4tO+3pE8td`
+Snapshot ID: `AAAAAEsosRpdTnlm2RyIxurCqRclZHxE`

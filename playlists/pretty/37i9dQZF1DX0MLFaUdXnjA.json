@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: Ashe",
-  "num_followers": 1766791,
+  "num_followers": 1766517,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACANubzSDy8PzeoDN1Wgbj1K4F7V",
+  "snapshot_id": "AAAAAG7/QjwDOKmbFi1IdTZ9ZRb2OkmT",
   "tracks": [
     {
       "added_at": "2026-09-04 04:02:38",
@@ -41,6 +41,46 @@
       "url": "https://open.spotify.com/track/5lkAV2SAqgSXN0L2VrNiSi"
     },
     {
+      "added_at": "2026-09-04 04:02:38",
+      "album": {
+        "name": "Kismet",
+        "url": "https://open.spotify.com/album/1GeE95CLSgFa5r3I5a7Q50"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/02kiA7m6xx7F7KC1ukLpTq"
+    },
+    {
+      "added_at": "2026-09-27 02:59:07",
+      "album": {
+        "name": "Small Town",
+        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "duration_ms": 169981,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
+    },
+    {
       "added_at": "2026-09-11 14:18:25",
       "album": {
         "name": "Kissing you away",
@@ -71,22 +111,6 @@
       "duration_ms": 210683,
       "name": "summer of \u201916",
       "url": "https://open.spotify.com/track/48xY7Jn018AjLntqEaQCJB"
-    },
-    {
-      "added_at": "2026-09-04 04:02:38",
-      "album": {
-        "name": "Kismet",
-        "url": "https://open.spotify.com/album/1GeE95CLSgFa5r3I5a7Q50"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Chain Reaction",
-      "url": "https://open.spotify.com/track/02kiA7m6xx7F7KC1ukLpTq"
     },
     {
       "added_at": "2026-09-25 04:03:19",
@@ -647,22 +671,6 @@
       "duration_ms": 180768,
       "name": "Love, At The End Of The World",
       "url": "https://open.spotify.com/track/5TDzozeZNIzs6oSTDngBbd"
-    },
-    {
-      "added_at": "2026-08-28 04:02:54",
-      "album": {
-        "name": "i remember everything",
-        "url": "https://open.spotify.com/album/1Z5DbLdPaRXKrgiWcIX09q"
-      },
-      "artists": [
-        {
-          "name": "Rin",
-          "url": "https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA"
-        }
-      ],
-      "duration_ms": 155136,
-      "name": "i remember everything",
-      "url": "https://open.spotify.com/track/0UPkt0Wqk1Po0FnEi0tAb5"
     },
     {
       "added_at": "2026-08-14 04:00:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Shane\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,586 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,609 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [what is love?](https://open.spotify.com/track/6KhsWBgYEJuqvtXRTwJYdw) | [LIUNICORN](https://open.spotify.com/artist/3ZCrB15ZZykjX1SESZWx6L) | [what is love?](https://open.spotify.com/album/5NYJFYhPcQMjX5jlqIGrCE) | 2:54 |
 | 50 | [Deep Blue Dive](https://open.spotify.com/track/3L7KQebMPA3JFIdqy8QxEc) | [SØHJ](https://open.spotify.com/artist/0eOFe05GKhx3NzYZdFkGuS) | [Ø:Between](https://open.spotify.com/album/7k60zVtBxyM4xKyCulDJrW) | 3:20 |
 
-Snapshot ID: `AAAAABFpfdIsxQ1H9WLaLWjMZf4mSPsq`
+Snapshot ID: `AAAAABYBxQ6rV5bx8/syiv0NDe/QEXFw`

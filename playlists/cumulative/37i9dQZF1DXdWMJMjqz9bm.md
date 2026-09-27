@@ -4,7 +4,7 @@
 
 > a little rap, a little pop, a little country..\. sometimes\. BabyChiefDoIt on the cover.
 
-872 songs - 1 day 15 hr 47 min
+874 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 | 2022-04-04 | 2022-07-07 |
 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 | 2026-01-05 |  |
 | [500lbs](https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:24 | 2024-05-31 | 2025-05-17 |
-| [700 CLUB](https://open.spotify.com/track/3Jphy67bYJzDwmag3PKDAK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [700 CLUB](https://open.spotify.com/album/4nw9TlcaIoNpw2nE53nXJz) | 3:00 | 2025-12-09 |  |
+| [700 CLUB](https://open.spotify.com/track/3Jphy67bYJzDwmag3PKDAK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [700 CLUB](https://open.spotify.com/album/4nw9TlcaIoNpw2nE53nXJz) | 3:00 | 2025-12-09 | 2026-09-27 |
 | [95 DEGREES](https://open.spotify.com/track/55BJoJzQuogFLeqihumlm9) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [95 DEGREES](https://open.spotify.com/album/3RyBiLA0PeYZvz8IGU5ffO) | 3:02 | 2022-09-09 | 2022-10-15 |
 | [a letter from Anxiety](https://open.spotify.com/track/53pDouQQTGlSr4xYXoly6b) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [a letter from Anxiety](https://open.spotify.com/album/2aERHl2AJm4ODYswrJ9KR1) | 2:41 | 2022-10-21 | 2022-12-24 |
 | [Accusations](https://open.spotify.com/track/1f2lZUBaJBb0zlOCoqXfoB) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [831: The Series](https://open.spotify.com/album/46pKds8x2maGzkFGlcZncY) | 2:59 | 2025-05-30 | 2025-08-09 |
@@ -469,6 +469,7 @@
 | [Loved You Since I Was Young](https://open.spotify.com/track/0JTEcPbg192uSL2j7UJasI) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Loved You Since I Was Young](https://open.spotify.com/album/6MyeUwv1VQJgxiIJBdWJoH) | 3:03 | 2022-07-11 | 2022-10-13 |
 | [Loved You Since I Was Young](https://open.spotify.com/track/4ayHZpebCShYtJuSL8701H) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Loved You Since I Was Young](https://open.spotify.com/album/7u4FHNJdVRLDLuum8iJnkd) | 3:03 | 2022-09-09 | 2022-11-30 |
 | [lovers only singalong](https://open.spotify.com/track/59YDPNC3aWgN4shZQ07R4n) | [Astrus\*](https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR) | [lovers only singalong](https://open.spotify.com/album/2DzAPIprJTwtxRIYefQsU0) | 2:52 | 2022-02-18 | 2022-06-04 |
+| [Lovesick](https://open.spotify.com/track/1jNdxjAwmJ3V058XP8Zt3d) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [Lovesick](https://open.spotify.com/album/39DDWclU5aXUrePy4XEUC2) | 3:03 | 2026-09-26 |  |
 | [Low AF](https://open.spotify.com/track/444aQGmahNP5O87IGAEAYi) | [Olen](https://open.spotify.com/artist/0m34JtkojthW5WYugFm0e3) | [Low AF](https://open.spotify.com/album/6GqrcES0T5SRFUMQIFlW6R) | 2:44 | 2023-03-17 | 2023-04-09 |
 | [Lucid Dreams \(feat\. Lil Uzi Vert\) \- Remix](https://open.spotify.com/track/1jKlRcH7X78ps1yKBTWyUV) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Goodbye & Good Riddance \(Anniversary\)](https://open.spotify.com/album/7aObAFaIOcczMSDnfXz5z6) | 4:00 | 2025-04-29 | 2026-01-06 |
 | [Lucy](https://open.spotify.com/track/4qlzRdIjBA3rcokgMb0yZR) | [Matt Easton](https://open.spotify.com/artist/6A7BMVAmKqMDXcFb9T7wB7) | [Foreign Energy](https://open.spotify.com/album/4T7OXAnmwfJQpmh6a9JP86) | 3:37 | 2021-11-16 | 2022-02-26 |
@@ -563,7 +564,7 @@
 | [NOTHING IS REAL](https://open.spotify.com/track/6bzQq9ucC73NrFeycJGkkQ) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [NOTHING IS REAL](https://open.spotify.com/album/2iWRrUK85hwDRSaBT35BFX) | 2:23 | 2022-10-28 | 2022-11-30 |
 | [Nothing Last Forever](https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Nothing Last Forever](https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C) | 2:58 | 2023-04-28 | 2024-06-01 |
 | [nothing to lose](https://open.spotify.com/track/1FjHCIhGZNXkuYQGziT3p4) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [nothing to lose](https://open.spotify.com/album/70ZI0zWLDEQP4MTB0ONVCA) | 1:14 | 2022-05-06 | 2022-07-23 |
-| [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 | 2025-10-20 |  |
+| [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 | 2025-10-20 | 2026-09-27 |
 | [NSFW](https://open.spotify.com/track/15KkQmwZhilaeahH0TYdeS) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [NSFW](https://open.spotify.com/album/1VjkgQldR3Gv1akeGkLyDa) | 2:26 | 2025-09-12 | 2025-10-21 |
 | [numb \(feat\. blackbear\)](https://open.spotify.com/track/05UKPuq9D7C6YDaps38ReU) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [numb \(feat\. blackbear\)](https://open.spotify.com/album/4jrLreiCKIGcxG0z7WcQkt) | 2:57 | 2022-09-30 | 2023-04-18 |
 | [Off A Cliff \(With Reo Cragun\)](https://open.spotify.com/track/7KjY1Xr1vXsAgolo63F0sV) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Escape Cycle](https://open.spotify.com/album/2JCIdveMkl6k4YdAqEMEBx) | 2:53 | 2023-08-25 | 2024-06-01 |
@@ -636,6 +637,7 @@
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-02-16 |  |
 | [Random](https://open.spotify.com/track/422lAAWQO9TqL1LxIPdhOn) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [When It's Dark Out](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) | 3:00 | 2022-09-23 | 2022-11-12 |
 | [RAYA](https://open.spotify.com/track/5XvkekIwf8FnuJrRZN5uuC) | [Paces](https://open.spotify.com/artist/5xO9868Xc1mjAzmaN1efoK) | [RAYA](https://open.spotify.com/album/5FDnQdaKIGKlVlH901ce6B) | 2:43 | 2026-04-29 |  |
+| [ready or noT](https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [ready or noT](https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK) | 4:02 | 2026-09-26 |  |
 | [Real](https://open.spotify.com/track/38ICQQxXLoifVUNkJcs7r6) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Real](https://open.spotify.com/album/1WamWAG6PKzLOK5s0JXvSy) | 2:44 | 2022-02-18 | 2022-03-26 |
 | [Real Life](https://open.spotify.com/track/2suU0QYyxcMoy08rSsTX46) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Real Life](https://open.spotify.com/album/79ZPm7Z09OsRu4ENHyHM4d) | 2:43 | 2021-11-16 | 2022-02-26 |
 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 | 2021-11-16 | 2022-02-19 |

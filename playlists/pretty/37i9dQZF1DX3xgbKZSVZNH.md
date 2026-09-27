@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 
 > All your favourite hairbrush anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,459 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,513 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 | 49 | [You're Still The One](https://open.spotify.com/track/3I4nZ14GRL7eXwFDjCEEVr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/3sbhN8QlcMeCZAX80IKoW8) | 3:32 |
 | 50 | [I'd Do Anything for Love \(But I Won't Do That\) \- Radio Edit](https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Playlist: The Very Best Of Meat Loaf](https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf) | 5:21 |
 
-Snapshot ID: `AAAAAKkD1G28JvIOjR46hOV202fsUzrN`
+Snapshot ID: `AAAAAN8Gxx63579M7OPbGsEo/GAzdQR4`

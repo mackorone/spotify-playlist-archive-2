@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,417 likes - 27 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,433 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 23 | [Friends](https://open.spotify.com/track/3Kvjw6Rs6fA1vt3WQ3HWoj) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:07 |
 | 24 | [Guess Who](https://open.spotify.com/track/45JLSLXRMQJabYtPtSuBmV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:15 |
 | 25 | [Heavy Chevy](https://open.spotify.com/track/4QpoJRn7I1YZ20yo0ngnJ9) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Heavy Chevy](https://open.spotify.com/album/0ZNuNVOpsdhcHZlgVWwqHp) | 2:26 |
-| 26 | [Time](https://open.spotify.com/track/2VJNDgdnV2OftCehOWMeuM) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 4:58 |
-| 27 | [Easy](https://open.spotify.com/track/2WouvVAjyFRCEnJboXFDpx) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 4:15 |
 
-Snapshot ID: `arRoAAAAAAAiKijJFApNSYjEz252IwPG`
+Snapshot ID: `arW5gAAAAADXOyziJLGej5ht2Cw+DHWI`

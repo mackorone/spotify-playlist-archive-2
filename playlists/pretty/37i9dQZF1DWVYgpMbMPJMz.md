@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Mitch Wong & Jon Reddick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,359 likes - 80 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,358 likes - 80 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 79 | [Stories \- Break Open](https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Break Open](https://open.spotify.com/album/0FSWZD1UjBwGb1nNUJFExO) | 6:38 |
 | 80 | [Breathe \(feat\. Titus Tucker & Rahkii\)](https://open.spotify.com/track/6wYs3GQfnziD1RdtPbUbFD) | [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Rahkii](https://open.spotify.com/artist/2OUw9DvdP84qX4FkQSwMoG), [Titus Tucker](https://open.spotify.com/artist/4idr0xVXTUerf9RyhOlCV2) | [Here Comes the Wind](https://open.spotify.com/album/1z3z3EuiyWz5pVcQvqMZZp) | 6:53 |
 
-Snapshot ID: `AAAAAMaTtm9Q8omW72CeXGS20c0fwjJy`
+Snapshot ID: `AAAAAERi+x4SJoGlWqQn40JCqmQtOc6J`

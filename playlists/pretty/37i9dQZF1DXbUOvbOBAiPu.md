@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Taylor Swift, Laura Tesoro, Pierre de Maere, OLIVIA and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,991 likes - 152 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,994 likes - 152 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 44 | [Not That Deep](https://open.spotify.com/track/4u0tXLPqbUcNTUWSznp4Dj) | [Alice Mae](https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD) | [Not That Deep](https://open.spotify.com/album/6VdsRupAtI9jB2hngxJfrm) | 3:37 |
 | 45 | [Le G](https://open.spotify.com/track/61Rdre8hZFyLvcYQu3a1Dw) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU) | [Rescapé \(L'épilogue\)](https://open.spotify.com/album/1JxbpEur0yuSrr7mRTb7kN) | 2:40 |
 | 46 | [Tantalus](https://open.spotify.com/track/70DPeIayf5xI8Lp8XqBdvZ) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Tantalus](https://open.spotify.com/album/3dUid78dLPunJ0tlPA9KyB) | 3:24 |
-| 47 | [How Far \(Chalé\)](https://open.spotify.com/track/37HPZFrrfZQypCa639cMO5) | [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt), [Bellil Brothers](https://open.spotify.com/artist/1AZ8Bec1bBwMdPGwU2ZuiN) | [How Far \(Chalé\)](https://open.spotify.com/album/4kFpGXCVkxWf6ZSMZEzNtF) | 2:47 |
+| 47 | [How Far \(Chalé\)](https://open.spotify.com/track/37HPZFrrfZQypCa639cMO5) | [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt), [BELLIL BROTHERS](https://open.spotify.com/artist/1AZ8Bec1bBwMdPGwU2ZuiN) | [How Far \(Chalé\)](https://open.spotify.com/album/4kFpGXCVkxWf6ZSMZEzNtF) | 2:47 |
 | 48 | [Au travail](https://open.spotify.com/track/0XKxkJMa5VjbKTlFogHhHW) | [ABSOLEM](https://open.spotify.com/artist/4jELC7j0cRWJVQ8QkpDcvU) | [Champagne en canette DELUXE](https://open.spotify.com/album/1xhIUkaFdj5b3kI8RHhxlz) | 2:00 |
 | 49 | [Les cicatrices d'or](https://open.spotify.com/track/4kpFuJZkjJjUYhbeQKV0SN) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Les cicatrices d'or](https://open.spotify.com/album/7GVuwGYWlGgu9dRnbE3WoQ) | 2:59 |
 | 50 | [Days on Days on Days](https://open.spotify.com/track/5tca4r6i2Ej7VE2hLp9G16) | [High Hi](https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M) | [Days on Days on Days](https://open.spotify.com/album/3z4zr0RKLtTgooYVUnDfJ3) | 3:14 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 151 | [Elle est de gauche](https://open.spotify.com/track/6RhW3h1nxT39q1WIvkXWKq) | [Soli](https://open.spotify.com/artist/1ylSyLgSFjcBgiGx6tQBJ3) | [Elle est de gauche](https://open.spotify.com/album/49xIK5vsRFK8KwLJv1o6yq) | 2:53 |
 | 152 | [305](https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj) | [1nine08](https://open.spotify.com/artist/6i84sqAjyq8cxizf6MaI4H), [LUMI](https://open.spotify.com/artist/2OCu6MqAaZZDHCefmYnBxP) | [305](https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi) | 3:05 |
 
-Snapshot ID: `AAAAAOoas1Z/IcAB9qETY/qUuB/xJ9De`
+Snapshot ID: `AAAAAESs/HsDUD9/McWMQtkF7JCT+86Q`

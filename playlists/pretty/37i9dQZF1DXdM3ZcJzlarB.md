@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸  Inda Jani
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,735 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,739 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 99 | [Bars Attacks](https://open.spotify.com/track/3VOSdXmn0X57ajzbQceMxr) | [Sol Porro](https://open.spotify.com/artist/1TLxSIoXyqq9myZRDw5LjG) | [Bars Attacks](https://open.spotify.com/album/7wl5P8XUr2YT90ggnzshiX) | 4:15 |
 | 100 | [Back To The Old School](https://open.spotify.com/track/0lOGclvTM8Eo2EcEu3GdbX) | [DJ JMP](https://open.spotify.com/artist/2geAfV62NcOizrpcKg01Pk) | [Back To The Old School](https://open.spotify.com/album/3vUnrVdQYByao4bTIvg1hK) | 5:30 |
 
-Snapshot ID: `AAAAAIbsyMT/d6wbrLI1Re4TsHJ4sxuz`
+Snapshot ID: `AAAAALvQbjf5SDJ8XDJgS9wq3fPOGn43`

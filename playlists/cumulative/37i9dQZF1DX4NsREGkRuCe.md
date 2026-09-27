@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,280 songs - 2 day 14 hr 20 min
+1,281 songs - 2 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Denge III](https://open.spotify.com/track/2tschk15VzJ5IqhHRnNoxp) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Denge 6.0](https://open.spotify.com/album/5X5PlqH0I4xPr6HAqYvNOx) | 3:29 | 2024-03-15 | 2024-03-22 |
 | [Designer](https://open.spotify.com/track/7F7KrCYzktQutmPOJC3Ba6) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Designer](https://open.spotify.com/album/7tzvON12MgF7hKK8F5AQQx) | 3:01 | 2022-11-15 | 2022-11-26 |
 | [Desire](https://open.spotify.com/track/0U1EVGdTkRoDogEAlKv8Go) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Recess](https://open.spotify.com/album/6CkWdslQmB9E9XdYD9opr6) | 2:36 | 2024-12-06 | 2025-01-22 |
-| [Despacito \(feat\. FOLA\)](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:38 | 2025-10-17 |  |
+| [Despacito \(feat\. FOLA\)](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:38 | 2025-10-17 | 2026-09-27 |
 | [Despasito](https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 3:10 | 2025-03-07 | 2025-04-12 |
 | [Devil Wears White](https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Devil Wears White](https://open.spotify.com/album/3BR3nIfDHdX3Nn38JgJHY1) | 3:10 | 2024-06-28 | 2025-02-13 |
 | [Dey Your Dey](https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Dey Your Dey](https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq) | 2:35 | 2024-04-05 | 2024-04-12 |
@@ -630,6 +630,7 @@
 | [Kala \(Feat\. PsychoYP\)](https://open.spotify.com/track/7c6WGOlZUEPv67P5jseUMx) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:33 | 2025-03-31 | 2025-04-12 |
 | [Karma](https://open.spotify.com/track/3YQafPGbk2L1McXXJ43iMv) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8) | 2:34 | 2026-07-17 |  |
 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 | 2023-11-17 | 2024-04-04 |
+| [Kaya](https://open.spotify.com/track/74Ba34kPzxpvJVjBrotoI4) | [Toje](https://open.spotify.com/artist/39WpZmfnvXj4UaxSkEElF0) | [Kaya](https://open.spotify.com/album/4pe6MgCTqlruWhzZJontPt) | 2:35 | 2026-09-25 |  |
 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 | 2025-08-01 | 2026-05-19 |
 | [Kelewele \(feat\. Joeboy\)](https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Kelewele \(feat\. Joeboy\)](https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh) | 2:21 | 2024-06-28 | 2024-07-12 |
 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 | 2022-07-22 | 2022-09-02 |

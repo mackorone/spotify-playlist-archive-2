@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun and spooky tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,056 likes - 123 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,050 likes - 123 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 122 | [Ghostbusters](https://open.spotify.com/track/0F1ghfgamafwXPJ9jZM7k0) | [Kid Drew and the Kids](https://open.spotify.com/artist/0ZZEIFI5YjLqOo4qc5Awj3) | [Kid Drew and the Kids Present: Spooky Halloween Party Music](https://open.spotify.com/album/6ejSEMxGjq0F9aVPHK0y9a) | 4:10 |
 | 123 | [Poor Unfortunate Souls \- From "The Little Mermaid"](https://open.spotify.com/track/3S1aOljXlP40mPHJc2ABGv) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Villains: Simply Sinister Songs](https://open.spotify.com/album/6qjXTpiOOYojFQBvdrIO2O) | 4:50 |
 
-Snapshot ID: `AAAAAMK3/ekZk77yuCbC21ks1kiUi+kT`
+Snapshot ID: `AAAAAC/zh1dtaiG2dHW+dW7919uC1CWZ`

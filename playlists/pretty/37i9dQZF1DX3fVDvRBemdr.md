@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Gerard Joling
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,782 likes - 105 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,777 likes - 105 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 104 | [Tante Roos](https://open.spotify.com/track/63pkTCe2ZIANlqGNH6L2ca) | [Jesse de Koning](https://open.spotify.com/artist/7gTwWOWfZyuo20boJ8bGU0) | [Tante Roos](https://open.spotify.com/album/4r695eTDXPKBTrxa8ubYQc) | 2:31 |
 | 105 | [Baco In Monaco](https://open.spotify.com/track/2YNwOaY3pAi4flU4RXau62) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Baco In Monaco](https://open.spotify.com/album/4bT6o2cRNYG6MxkQCkwP51) | 2:12 |
 
-Snapshot ID: `AAAAAI9Dqny+pWCsiX4lMAMMVywmMf4P`
+Snapshot ID: `AAAAABWDYq7KaRy8UMSzEdKwHa0tkX8n`

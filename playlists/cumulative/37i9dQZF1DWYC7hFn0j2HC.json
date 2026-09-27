@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Viva M\u00e9xico (Remastered)",
+        "url": "https://open.spotify.com/album/0Os0hJeZgnX0lUjgkfFsry"
+      },
+      "artists": [
+        {
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188786,
+      "name": "Cartas Marcadas - Remastered",
+      "url": "https://open.spotify.com/track/4wJJVqVdDT4s2RxZUIUHl2"
+    },
+    {
+      "album": {
         "name": "Payaso",
         "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
       },
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 129160,
       "name": "Te He De Querer",
       "url": "https://open.spotify.com/track/5ymIjcb2bOM7w3K3osI2Gb"

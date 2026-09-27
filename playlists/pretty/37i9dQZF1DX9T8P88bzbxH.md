@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One night only\. Cover: Ernie Zakri, Syamel, Anuar Zain, Ziana Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,276 likes - 20 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,274 likes - 20 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 19 | [Cinta Harus Memiliki](https://open.spotify.com/track/3qS92cciUkc2vz9SmPKhna) | [Anuar Zain](https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a) | [Anuar Zain](https://open.spotify.com/album/4FQV9neXEDhEdYJxuc8QyN) | 5:27 |
 | 20 | [Anggapanmu/Kemelut Di Muara Kasih/Korban Cinta](https://open.spotify.com/track/2h3Xo2JKqfb1CPz8TWEJF2) | [Ziana Zain](https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682) | [No\. 1s 'live'](https://open.spotify.com/album/2C66GhldUvOUhgMSwhfamv) | 8:18 |
 
-Snapshot ID: `AAAAAF3aoLRONS5xWrULsMlOjLj5i4HT`
+Snapshot ID: `AAAAAKUjP6AyNena4N3DqoOPbHl399ko`

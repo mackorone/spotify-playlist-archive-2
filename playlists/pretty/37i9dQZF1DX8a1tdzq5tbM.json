@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1811427,
+  "num_followers": 1811579,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPGbmLJ0l9j1yilmyOajmw4GS/IW",
+  "snapshot_id": "AAAAAEkDnI+TSGO+3cTbploWo6srQZ78",
   "tracks": [
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 271000,
       "name": "Love Don't Let Me Go (Walking Away) - David Guetta & Joachim Garraud's F*** Me I'm Famous Mix",
       "url": "https://open.spotify.com/track/2Wy13KxFZT49M05qcT4EJA"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Cry for You",
-        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
       "artists": [
         {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Cry for You",
-      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+        "name": "Cry for You",
+        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
         }
       ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+      "duration_ms": 211600,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Heartbroken",
         "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 271586,
       "name": "Fire",
       "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/2mRezrqtiSjOdo902xAzyJ"
+      },
+      "artists": [
+        {
+          "name": "Lasgo",
+          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gone - Radio Edit",
+      "url": "https://open.spotify.com/track/7okxXBe93gMNiXqOd6cCdU"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Back 2 House",
         "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
       },
@@ -1879,18 +1895,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/2mRezrqtiSjOdo902xAzyJ"
+        "name": "Elements of Life",
+        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
       "artists": [
         {
-          "name": "Lasgo",
-          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Gone - Radio Edit",
-      "url": "https://open.spotify.com/track/7okxXBe93gMNiXqOd6cCdU"
+      "duration_ms": 420546,
+      "name": "Everything (feat. JES)",
+      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1939,22 +1959,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 404320,
-      "name": "Nyana",
-      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "It's Too Late",
         "url": "https://open.spotify.com/album/03x9MmSvyUhbnbphq2noVU"
       },
@@ -1983,6 +1987,22 @@
       "duration_ms": 254120,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 404320,
+      "name": "Nyana",
+      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2019,22 +2039,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 562573,
-      "name": "A Tear In The Open",
-      "url": "https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Moby",
         "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
       },
@@ -2067,6 +2071,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 562573,
+      "name": "A Tear In The Open",
+      "url": "https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Addiction (Radio Edit)",
         "url": "https://open.spotify.com/album/1fHOXluysGuGFdtNDCFjk7"
       },
@@ -2095,26 +2115,6 @@
       "duration_ms": 393333,
       "name": "Put Your Hands Up for Detroit - MC Mario Edit",
       "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        }
-      ],
-      "duration_ms": 489373,
-      "name": "Love Comes Again",
-      "url": "https://open.spotify.com/track/4D869p0uPTcU4e1ClLB8Kj"
     },
     {
       "added_at": "2024-07-12 15:40:20",

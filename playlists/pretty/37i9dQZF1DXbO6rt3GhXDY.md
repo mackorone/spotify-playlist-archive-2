@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 
 > You know em, you love em, these are indie pop hits\. Cover: Malcolm Todd
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,605 likes - 125 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,662 likes - 125 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 | 124 | [AMBER](https://open.spotify.com/track/3Gxu9gAd5rXsnSS0rUpRAs) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [HUES.](https://open.spotify.com/album/3BL9rMkgTK20yLu3zaeJGM) | 3:31 |
 | 125 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 |
 
-Snapshot ID: `AAAAAHP0JW6vR4jflsgMiJsFu0cBj13E`
+Snapshot ID: `AAAAAEXGmc6Ra3aNCLeLFR7twXftXyF5`

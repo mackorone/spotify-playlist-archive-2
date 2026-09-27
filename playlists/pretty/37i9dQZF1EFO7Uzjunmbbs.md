@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,092 likes - 220 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,093 likes - 219 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,9 +140,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 130 | [The Day That I'm Over You](https://open.spotify.com/track/6ZnV68nwB7llr1I22kQjmQ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [The Day That I'm Over You](https://open.spotify.com/album/1sfqqJAPXEg6jMkpavqHDD) | 3:18 |
 | 131 | [Georgia Is Yours](https://open.spotify.com/track/4l58t5yNDXcnldCE31ez1P) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [There Goes The Neighborhood](https://open.spotify.com/album/6ORGhksRXVC73wovtSdx4O) | 3:55 |
 | 132 | [Blind](https://open.spotify.com/track/1AD7HwCQTzipzEISrFNVGQ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Blind](https://open.spotify.com/album/0tFFEB8zlJHAJA0pSnBgrv) | 3:30 |
-| 133 | [175 Lbs](https://open.spotify.com/track/05YXhWUPrxOD0aJswE18Ok) | [Wé Ani](https://open.spotify.com/artist/0VcXm1al35QNsj9tbAnCJm) | [175 Lbs](https://open.spotify.com/album/4PltYDitGybS0xhmqpvStG) | 2:54 |
-| 134 | [In This Town](https://open.spotify.com/track/6ndf4BahK3UEiuuvrM4WPc) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [Part One](https://open.spotify.com/album/74PXR9KISCAXtpaC5AeQKf) | 3:09 |
-| 135 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 133 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 134 | [175 Lbs](https://open.spotify.com/track/05YXhWUPrxOD0aJswE18Ok) | [Wé Ani](https://open.spotify.com/artist/0VcXm1al35QNsj9tbAnCJm) | [175 Lbs](https://open.spotify.com/album/4PltYDitGybS0xhmqpvStG) | 2:54 |
+| 135 | [In This Town](https://open.spotify.com/track/6ndf4BahK3UEiuuvrM4WPc) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [Part One](https://open.spotify.com/album/74PXR9KISCAXtpaC5AeQKf) | 3:09 |
 | 136 | [Our Days Are Numbered](https://open.spotify.com/track/4O8AzdrqO4IJ4vJC3CRrFX) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/1VnHNTAwtXV3a4DcNrpztP) | 3:29 |
 | 137 | [Sleepless](https://open.spotify.com/track/7iJcazBT96Opg2Z4y5M3BS) | [On The Outside](https://open.spotify.com/artist/13Li6fzmLzxxOzMEIRr0TN) | [Sleepless](https://open.spotify.com/album/2hTBQXEgJgBg38wugiS9ev) | 3:20 |
 | 138 | [Off The Highway](https://open.spotify.com/track/3COk8dMEndoyUTFdCxHHN8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 2:58 |
@@ -218,15 +218,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 208 | [Other People](https://open.spotify.com/track/3ZB4OCLh0jpCAh7QPAL7Mg) | [Boxcutter](https://open.spotify.com/artist/6enSWV1VuiPGbdCuS6GVfS) | [Allele](https://open.spotify.com/album/3pLMl0fe5MilNRofg7UfIC) | 4:05 |
 | 209 | [Criminal](https://open.spotify.com/track/1E7DCfac2ez9Lr9vwzFmH0) | [Dales](https://open.spotify.com/artist/102trktxAbjTJFnGszYTpU) | [Lovember](https://open.spotify.com/album/0AwjoK6YsCLevNRGxWAdAk) | 3:28 |
 | 210 | [Ain't Dead Yet](https://open.spotify.com/track/523r9RA3BnBmy6EKnF7B7I) | [Portia Clark](https://open.spotify.com/artist/6r9fQWOOYgHvlgbcUFrCwU) | [Ain't Dead Yet](https://open.spotify.com/album/4etFHxxdXFe3paQElevDRm) | 3:03 |
-| 211 | [Heartbreak Hall of Fame](https://open.spotify.com/track/5qqSc01RfWs7c24HcK1p8k) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 2:54 |
-| 212 | [Petty](https://open.spotify.com/track/0VUDQ0BEIhvSiYllWCsTaO) | [Taylor J](https://open.spotify.com/artist/3ZFQEgIoDzalXmEsl9LIPE) | [Petty](https://open.spotify.com/album/39rAhUM6mHM6uKSQ7wpfZH) | 2:21 |
-| 213 | [Politician](https://open.spotify.com/track/2Lv3DczkCXP4EEa73VVXmb) | [Riah](https://open.spotify.com/artist/5fgdvwrS2h0wRV0VZ3RWOa) | [On Sundays \- EP](https://open.spotify.com/album/4hUtNkyp1vfnye4dj7erTA) | 3:14 |
-| 214 | [I've Got You](https://open.spotify.com/track/1fCZlXzwRBQ7slzj3PCTsi) | [Sheridan](https://open.spotify.com/artist/1M1VQcOFJjfzyqmb9Krdi6) | [Gettin' Back Up](https://open.spotify.com/album/0OEZOtmG9gMlvIRgVk6VrQ) | 3:22 |
-| 215 | [Be Mine](https://open.spotify.com/track/24lqukpF5r54WOz49OHm00) | [The Veltz Family](https://open.spotify.com/artist/6EoqHhFmQQsEnqlIlEhYlN) | [This](https://open.spotify.com/album/5w5PjDlUKkouS03Eso1lHd) | 2:39 |
-| 216 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
-| 217 | [God's Not Done](https://open.spotify.com/track/2H2nV5UVlVGJV7GR0SpRsq) | [Kris Nicole](https://open.spotify.com/artist/0v0bzqf7pxvfdbVi5TGmiG) | [God's Not Done](https://open.spotify.com/album/6xr3bDg9Q3sHdV7El7EQAq) | 3:24 |
-| 218 | [Mad](https://open.spotify.com/track/46QSgpK1ilvNKxXirTPY1f) | [Corbin Reynolds](https://open.spotify.com/artist/1q9iXPagwBsSkV5FS7SOvY) | [Uncomfortable](https://open.spotify.com/album/1eKIB13Le0mv5fzb4Ktxpe) | 3:59 |
-| 219 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
-| 220 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
+| 211 | [Petty](https://open.spotify.com/track/0VUDQ0BEIhvSiYllWCsTaO) | [Taylor J](https://open.spotify.com/artist/3ZFQEgIoDzalXmEsl9LIPE) | [Petty](https://open.spotify.com/album/39rAhUM6mHM6uKSQ7wpfZH) | 2:21 |
+| 212 | [Politician](https://open.spotify.com/track/2Lv3DczkCXP4EEa73VVXmb) | [Riah](https://open.spotify.com/artist/5fgdvwrS2h0wRV0VZ3RWOa) | [On Sundays \- EP](https://open.spotify.com/album/4hUtNkyp1vfnye4dj7erTA) | 3:14 |
+| 213 | [I've Got You](https://open.spotify.com/track/1fCZlXzwRBQ7slzj3PCTsi) | [Sheridan](https://open.spotify.com/artist/1M1VQcOFJjfzyqmb9Krdi6) | [Gettin' Back Up](https://open.spotify.com/album/0OEZOtmG9gMlvIRgVk6VrQ) | 3:22 |
+| 214 | [Be Mine](https://open.spotify.com/track/24lqukpF5r54WOz49OHm00) | [The Veltz Family](https://open.spotify.com/artist/6EoqHhFmQQsEnqlIlEhYlN) | [This](https://open.spotify.com/album/5w5PjDlUKkouS03Eso1lHd) | 2:39 |
+| 215 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
+| 216 | [God's Not Done](https://open.spotify.com/track/2H2nV5UVlVGJV7GR0SpRsq) | [Kris Nicole](https://open.spotify.com/artist/0v0bzqf7pxvfdbVi5TGmiG) | [God's Not Done](https://open.spotify.com/album/6xr3bDg9Q3sHdV7El7EQAq) | 3:24 |
+| 217 | [Mad](https://open.spotify.com/track/46QSgpK1ilvNKxXirTPY1f) | [Corbin Reynolds](https://open.spotify.com/artist/1q9iXPagwBsSkV5FS7SOvY) | [Uncomfortable](https://open.spotify.com/album/1eKIB13Le0mv5fzb4Ktxpe) | 3:59 |
+| 218 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
+| 219 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcdSHAAAAADqsG5q4rA3Nlwc5H8bdpfM`
+Snapshot ID: `AcdXvAAAAAD8lGbqV4w57kS5RdbxzQRe`

@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 196600,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 202080,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/72nmpQNmVWqUQqMJEV6qGo"
@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "ONE MORE TIME",
+        "url": "https://open.spotify.com/album/5udFKmbffhWKbXaRDgCj1m"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/2nDmt51NZoiDMCpoRdr00I"
+    },
+    {
+      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -1292,6 +1310,24 @@
       "duration_ms": 180866,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1MXDUYzVkR8AvpCOdKiVQq"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234642,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0m7irE9fQpYzqWvVnXQYzj"
     },
     {
       "album": {

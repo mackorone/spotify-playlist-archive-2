@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66227,
+  "num_followers": 66228,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAABAq2CbIf546jJcBeWMUJX6",
+  "snapshot_id": "arW5gAAAAACODPWkToGd2w4cK+E8x7Wy",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 373933,
-      "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
         "url": "https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 338253,
       "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
       "url": "https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 373933,
+      "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 262664,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
         "url": "https://open.spotify.com/album/4dKKLxDteUFQAwu8ygASe5"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 260893,
       "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
       "url": "https://open.spotify.com/track/1BhgFlaCVzAhJoCznssFpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 262664,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4"
     },
     {
       "added_at": null,

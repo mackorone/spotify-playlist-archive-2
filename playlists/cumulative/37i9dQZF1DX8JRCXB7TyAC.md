@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-195 songs - 9 hr 33 min
+196 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 | 2023-12-22 |  |
 | [Laash Dikh Jagi](https://open.spotify.com/track/2M6ODDrTfCzG12dBwbQaOS) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Swara Verma](https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn) | [Laash Dikh Jagi](https://open.spotify.com/album/7rfQyabA0isF063nrnTEtq) | 2:24 | 2025-09-29 | 2025-11-16 |
 | [Lala Lori](https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Lala Lori](https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy) | 2:40 | 2023-07-24 | 2026-08-22 |
-| [Lath](https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Lath](https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf) | 3:12 | 2025-05-16 |  |
+| [Lath](https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Lath](https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf) | 3:12 | 2025-05-16 | 2026-09-27 |
 | [Level](https://open.spotify.com/track/1a6S5ZjbivvNV4YsMzdwFw) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Level](https://open.spotify.com/album/4vQgA1reUgBBX5MiKoTgF0) | 2:37 | 2023-10-09 | 2023-11-10 |
 | [Lofar](https://open.spotify.com/track/2L5fXA2pNlTXJvQTeMZn4z) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Swara Verma](https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn) | [Lofar](https://open.spotify.com/album/3VzplV5MLsatpZLD3jw7Tg) | 2:09 | 2025-12-23 |  |
 | [Lootere](https://open.spotify.com/track/4Y20wcBIVQzwFxzzcRKplm) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Hanssika Digiya](https://open.spotify.com/artist/1Jm5hSL0TPOm9hmtfr7Bck) | [Lootere](https://open.spotify.com/album/3GuoHn0egfctFWyuVhDaBh) | 2:16 | 2025-11-06 | 2025-12-04 |
@@ -137,6 +137,7 @@
 | [Not Easy](https://open.spotify.com/track/5dqMj4M6sgJIVa12Qjqjlq) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Not Easy](https://open.spotify.com/album/0LTyNtAmZv7JENRDAFMA8Y) | 2:56 | 2025-03-10 | 2025-09-13 |
 | [Notorious Desi](https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Notorious Desi](https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh) | 2:46 | 2024-03-26 |  |
 | [Og](https://open.spotify.com/track/2y286nV941JBSCJUF35fhC) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Og](https://open.spotify.com/album/6jO2GFWlZRkYqVXc5U3nnS) | 3:05 | 2026-02-24 |  |
+| [Old Money](https://open.spotify.com/track/3PHOMMcNp29NtsLJzorVpD) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Manya Yadav](https://open.spotify.com/artist/3TugQ9wtCPiJaip0NFyobh) | [Old Money](https://open.spotify.com/album/50vJjo0y9W57YUcdv2PX3K) | 3:06 | 2026-09-25 |  |
 | [On The Way](https://open.spotify.com/track/0eXigexcbhLwQXgEtfO8Zv) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [On the Way](https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw) | 3:31 | 2023-07-24 | 2024-04-19 |
 | [On The Way](https://open.spotify.com/track/2iPHhqfqRUEDiHhBq5WICc) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [On The Way](https://open.spotify.com/album/6w2anhBM6gSig6lvPQncTc) | 3:31 | 2024-04-17 | 2025-01-09 |
 | [One Man Army \(feat\. Prithviraj Pilania & Vaishali Chaudhary\)](https://open.spotify.com/track/12RK89LfoWt2i6hgW9Zjjf) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Prithviraj Pilania](https://open.spotify.com/artist/2Sw4dNokvWTGmDnrKL019k), [Vaishali Chaudhary](https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq) | [One Man Army \(feat\. Prithviraj Pilania & Vaishali Chaudhary\)](https://open.spotify.com/album/0JHg5HFzkC2FCBqRZRJ9LH) | 2:47 | 2025-10-17 | 2025-12-29 |

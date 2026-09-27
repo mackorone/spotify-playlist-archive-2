@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: KUKO
 
-408 songs - 1 day 3 hr 13 min
+409 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Sciophobia](https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6) | [DDRCK](https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Sciophobia](https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H) | 4:38 | 2024-04-09 | 2024-11-27 |
 | [See Me Coming](https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [See Me Coming](https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY) | 4:16 | 2025-11-21 |  |
 | [Self Command \- Radio Edit](https://open.spotify.com/track/2DKmB466iecPl7kMnrfa4i) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Self Command](https://open.spotify.com/album/1AFzsjPNA1cxjLvVF2Oq2f) | 3:18 | 2025-02-20 | 2025-06-20 |
-| [SexyBack \- TechnoBack](https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a) | 2:26 | 2024-10-24 |  |
+| [SexyBack \- TechnoBack](https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a) | 2:26 | 2024-10-24 | 2026-09-27 |
 | [Shadow Man](https://open.spotify.com/track/1HQ4pTykHMsV0KLJt0eJIk) | [ARENCI](https://open.spotify.com/artist/6flaiu7aIHXBsmy6ntI6PQ), [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Shadow Man](https://open.spotify.com/album/78bCe5Ms70ueQhdt3H1V1U) | 5:00 | 2024-04-09 | 2024-05-23 |
 | [Shadows Come Alive](https://open.spotify.com/track/6QZCslOxp8ARvtHNsoNdxg) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Shadows Come Alive](https://open.spotify.com/album/62nVzVAdTHPY2nwGwRGt0L) | 2:59 | 2024-11-29 | 2025-05-04 |
 | [Shake That Bunda](https://open.spotify.com/track/7uWIyd4hf5UYIOxBMFRT1S) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Shake That Bunda](https://open.spotify.com/album/08GthPNa2ax2Kv7O5Kv5lL) | 2:40 | 2026-02-13 | 2026-04-24 |
@@ -378,6 +378,7 @@
 | [The Show Never Ends](https://open.spotify.com/track/2zPMafxpOc4IGB79uZLjtD) | [Joey Risdon](https://open.spotify.com/artist/1TAVfsRR0xQIcI6OxpCten) | [D.U.R.V.A.0.0.1](https://open.spotify.com/album/0QY39P2s5FpjMZFlFMQYRs) | 6:18 | 2024-04-09 | 2024-11-29 |
 | [The Ultimate Acid Track](https://open.spotify.com/track/14Lh8Rpav17MCMSd1yOazU) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Ultimate Acid Track](https://open.spotify.com/album/3lAw4H1pzLOCCDBfkNqOXu) | 4:00 | 2026-01-29 | 2026-08-31 |
 | [Thirst Trap](https://open.spotify.com/track/1VsnYd3NzzOgxIVqisMAWz) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Rebirth](https://open.spotify.com/album/3Q3OOeGLLpokswb5pyHLnn) | 5:58 | 2024-04-09 | 2024-07-05 |
+| [THIS IS NOT HOUSE](https://open.spotify.com/track/6wGN7pDziScOy42Rye1qvC) | [SLVL](https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf), [Teletech](https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW) | [THIS IS NOT HOUSE](https://open.spotify.com/album/1CuUS1wWPY004n33gEUUmM) | 3:12 | 2026-09-24 |  |
 | [Tiki Tiki](https://open.spotify.com/track/5ia36JG3xLvEFIJ1z4w93o) | [ANSBRO](https://open.spotify.com/artist/1zSOxtMarFja6UNU9ZZWFu) | [Tiki Tiki](https://open.spotify.com/album/6v260UdseJka96hzE3oy1d) | 6:23 | 2024-07-14 | 2025-04-09 |
 | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu) | [El Columpio Asesino](https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0), [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN), [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/album/3J2Hrh8Zz20bTRTgKSBz60) | 6:11 | 2024-04-09 | 2025-01-10 |
 | [Torx](https://open.spotify.com/track/5DhIH97LtpstokHxGHyLht) | [BAUGRUPPE90](https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx) | [Torx](https://open.spotify.com/album/2Im392fbN6HLOsNamMctGi) | 6:06 | 2024-04-09 | 2024-08-06 |

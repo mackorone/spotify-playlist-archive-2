@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-204 songs - 2 day 1 hr 34 min
+205 songs - 2 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/2UozhIAXupkXrfpnOSG8zT) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/04ncbuy6fvxvXV3TByqsbg) | 34:22 | 2023-10-26 | 2024-04-19 |
 | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb) | 34:22 | 2023-10-26 |  |
 | [Navkar Mantra](https://open.spotify.com/track/07AfFQCy6XRavj2i9JLijB) | [Geetu Unplugged](https://open.spotify.com/artist/1YlyMSSdwqA3t3goVRqoHK) | [Navkar Mantra](https://open.spotify.com/album/5SxS1qHZUBNPN2rVVAeErq) | 3:30 | 2022-01-24 | 2023-10-24 |
+| [Navkar Mantra](https://open.spotify.com/track/5FV77o8kypDUFVewxuqDdC) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Navkar Mantra](https://open.spotify.com/album/5VsdqSxB8cKjmOV1U4lKUK) | 4:38 | 2026-09-15 |  |
 | [O Radhe Radhe \- LoFi](https://open.spotify.com/track/6mFhoNjcnmxQp4cjM6EL19) | [Srijita Mitra](https://open.spotify.com/artist/5Ho1z9E6aqNw2e5iRTwjZb) | [O Radhe Radhe \- LoFi](https://open.spotify.com/album/5WRtfUxBOVkKrOLniPEy3P) | 2:18 | 2025-01-23 | 2026-07-15 |
 | [Offering Chant](https://open.spotify.com/track/542Ucy3XlU0OsIVXKZzBKi) | [Lama Gyurme](https://open.spotify.com/artist/4GwVYugBix3aehjspW1uqG), [Jean\-Philippe Rykiel](https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn) | [Roads Of Blessings \- Songs Of Awakening](https://open.spotify.com/album/4grwUAIp3r6OBmsS6D2ZGV) | 7:07 | 2024-12-30 |  |
 | [Om \(108 Times\)](https://open.spotify.com/track/0GNSiQSLW3prouiKYpBQP2) | [Shatadru Kabir](https://open.spotify.com/artist/5bb745rKiFbHL6P9wgm8GJ) | [Om \(108 Times\)](https://open.spotify.com/album/5QzfxsH70odAMuAAyuRTak) | 21:43 | 2026-08-17 |  |
@@ -202,7 +203,7 @@
 | [Tilak Mantra](https://open.spotify.com/track/1P7sFLx6i0iZhJoqWLEppI) | [Kedar Pandit](https://open.spotify.com/artist/3vZMa9tWbeSYpQYhGRKHws) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 0:38 | 2022-08-05 | 2022-11-13 |
 | [Tilak Mantra](https://open.spotify.com/track/3aTqStXPCeMC41rIUPv7XJ) | [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Harish Bhimani](https://open.spotify.com/artist/4Ue0breeduMNArt1jlqe7d), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Morning Mantras](https://open.spotify.com/album/08xbsX0guYMVjMe7oThBlp) | 0:39 | 2022-01-24 | 2022-07-29 |
 | [Tvameva Mata Cha Pita Tvameva](https://open.spotify.com/track/6ApbR2J85fA6TbhOTZWry4) | [Sanatana Bharat](https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW), [Upadhyay](https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6), [Amrita Chaturvedi](https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze) | [Tvameva Mata Cha Pita Tvameva](https://open.spotify.com/album/34WWbToLqZuq4PIVtVQmiJ) | 13:26 | 2024-12-30 |  |
-| [Vakratunda Mahakaya](https://open.spotify.com/track/7ujYwu6NgbzX0Gy5s0YYLg) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Vakratunda Mahakaya](https://open.spotify.com/album/0cKniVeFHinyhOlrWCV9Ly) | 4:47 | 2025-09-15 |  |
+| [Vakratunda Mahakaya](https://open.spotify.com/track/7ujYwu6NgbzX0Gy5s0YYLg) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Vakratunda Mahakaya](https://open.spotify.com/album/0cKniVeFHinyhOlrWCV9Ly) | 4:47 | 2025-09-15 | 2026-09-27 |
 | [Vakratunda Mahakaya](https://open.spotify.com/track/4RNQ6ZcedmBb7G6OgtyLXh) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Suresh Wadkar \- Spiritual Collection](https://open.spotify.com/album/4pE8xstdoCqJEbxPafoKiy) | 7:15 | 2024-02-15 | 2024-04-19 |
 | [Vakratunda Mahakaya \- Suresh Wadkar](https://open.spotify.com/track/1zJYaxEYpe3A5ioSXS9ZOR) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Ganesh Bhakti Sangrah](https://open.spotify.com/album/0nL4UuEp3jT8dL68IXuWEs) | 7:15 | 2023-09-14 | 2024-12-31 |
 | [Vakratundaya](https://open.spotify.com/track/6daNcoFm3KBCMPC5twXIxC) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Vakratundaya](https://open.spotify.com/album/3Slo9j43IefQn4QVJeXukv) | 6:02 | 2023-11-05 | 2024-10-01 |

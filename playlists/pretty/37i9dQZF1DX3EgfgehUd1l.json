@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 178970,
+  "num_followers": 178985,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGeQkfpfy5w+F6wxsH1dyLv4C5Rs",
+  "snapshot_id": "AAAAACp/btbfMSTZMbokiS3c7dGB8XDo",
   "tracks": [
     {
       "added_at": "2023-10-17 16:18:55",
@@ -175,22 +175,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Saga All Stars: Be Bop a Lula / 1956",
-        "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
+        "name": "Greatest Hits: Walking To New Orleans",
+        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
       },
       "artists": [
         {
-          "name": "Gene Vincent",
-          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
-        },
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
         }
       ],
-      "duration_ms": 156493,
-      "name": "Be Bop a Lula",
-      "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
+      "duration_ms": 143440,
+      "name": "Blueberry Hill - Remastered 2002",
+      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -211,18 +207,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Greatest Hits: Walking To New Orleans",
-        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
+        "name": "Saga All Stars: Be Bop a Lula / 1956",
+        "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Gene Vincent",
+          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
+        },
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
         }
       ],
-      "duration_ms": 143440,
-      "name": "Blueberry Hill - Remastered 2002",
-      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
+      "duration_ms": 156493,
+      "name": "Be Bop a Lula",
+      "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Very Best Of Slim Whitman",
-        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
+        "name": "Original Hits - Country",
+        "url": "https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n"
       },
       "artists": [
         {
@@ -1136,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
         }
       ],
-      "duration_ms": 177493,
-      "name": "I'll Take You Home Again, Kathleen",
-      "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
+      "duration_ms": 142426,
+      "name": "Rose Marie",
+      "url": "https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1207,8 +1207,8 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Original Hits - Country",
-        "url": "https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n"
+        "name": "The Very Best Of Slim Whitman",
+        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
       },
       "artists": [
         {
@@ -1216,9 +1216,9 @@
           "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
         }
       ],
-      "duration_ms": 142426,
-      "name": "Rose Marie",
-      "url": "https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74"
+      "duration_ms": 177493,
+      "name": "I'll Take You Home Again, Kathleen",
+      "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
     },
     {
       "added_at": "2023-10-17 16:18:55",

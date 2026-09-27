@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Taylor Swift, BICEP, Madonna & Charli xcx and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,350 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,334 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 98 | [Bury The Hatchet](https://open.spotify.com/track/1QPSkN0RXN9MnjudE6VHgr) | [Will Parker](https://open.spotify.com/artist/6PorgpBDSP5w9zPpgjHlGR) | [Bury The Hatchet](https://open.spotify.com/album/2ZdR5F98P5zDVTgpt4ksci) | 3:12 |
 | 99 | [On The Line](https://open.spotify.com/track/4C95sDUWg5I2CvhhYcFYUK) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [On The Line](https://open.spotify.com/album/6JfXQdQzftaLN2Ibuz7g2F) | 2:45 |
 
-Snapshot ID: `AAAAABsWh7CVe78FCIbOo/6C+GOWcXuc`
+Snapshot ID: `AAAAADGN9vQ/Nv5o4/UDUdCv+9TgnYZz`

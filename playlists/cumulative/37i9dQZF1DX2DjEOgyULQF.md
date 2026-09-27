@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-523 songs - 1 day 0 hr 42 min
+524 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [imperia](https://open.spotify.com/track/0IOkAVin2sQFGnUDCccATb) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [imperia](https://open.spotify.com/album/3ruq6fx1M4ruMrGmKtEfvb) | 2:42 | 2025-10-15 | 2025-12-18 |
 | [In Bloom](https://open.spotify.com/track/3Bv155JBe0u85brGovdFgZ) | [Slowshore](https://open.spotify.com/artist/3uK8f61m1YNoaT6Qk7F88K) | [In Bloom](https://open.spotify.com/album/7ntnH8GlYuOQRGH21fWKUg) | 2:45 | 2026-02-23 | 2026-04-04 |
 | [In the Shadows of the Forest](https://open.spotify.com/track/3dAvmfSDcltdpjFsI7K6g9) | [Toni Ludwig\-Graphaüs](https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG) | [In the Shadows of the Forest](https://open.spotify.com/album/3Klrrd6DHL5hNrMGR8oikZ) | 2:56 | 2026-08-19 |  |
-| [Incandescent](https://open.spotify.com/track/4kv0JwNazt1KbOw9Vggcbd) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Incandescent](https://open.spotify.com/album/39SH7vxnTRlGsXiEdjEfUg) | 2:28 | 2025-10-02 |  |
+| [Incandescent](https://open.spotify.com/track/4kv0JwNazt1KbOw9Vggcbd) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Incandescent](https://open.spotify.com/album/39SH7vxnTRlGsXiEdjEfUg) | 2:28 | 2025-10-02 | 2026-09-27 |
 | [Inclusive](https://open.spotify.com/track/26atiN5wmCGO9Rbcx5lSwj) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Inclusive](https://open.spotify.com/album/6bPTArHqDlHoxzO5ELIE0g) | 2:35 | 2025-10-02 | 2026-08-20 |
 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 | 2024-06-03 | 2026-02-26 |
 | [Infinity](https://open.spotify.com/track/6U1eeDHeGzT9KHKwWfrHqF) | [Ælan](https://open.spotify.com/artist/6hoxrMfUz7hWkm7b7XxsDU) | [Infinity](https://open.spotify.com/album/5hufE2CA1jvRgxD765b8km) | 2:58 | 2025-10-24 | 2026-03-03 |
@@ -365,6 +365,7 @@
 | [Rainbow's End](https://open.spotify.com/track/7qYia3491jXCpBz9LXI9HU) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Rainbow's End](https://open.spotify.com/album/3CYTEAvcYSEFe61NBk1lWD) | 3:10 | 2024-06-03 | 2026-04-04 |
 | [Rebalanced](https://open.spotify.com/track/7rAxEaJTcSQUpor4gw7rRS) | [Noah Florence](https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6) | [Rebalanced](https://open.spotify.com/album/58zk4RDP4DnF1nObrEpn8L) | 2:49 | 2026-04-03 |  |
 | [Recovery](https://open.spotify.com/track/6kB7GQOem87z4FAbJ2Yqcf) | [Ortio](https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i) | [Recovery](https://open.spotify.com/album/0hphWrYN58ODywl7l9rVkk) | 2:36 | 2026-04-03 | 2026-09-11 |
+| [Rejuvinated Mind](https://open.spotify.com/track/3WBWS00Bwb3XIw99qkPczs) | [Ethereva](https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh) | [Rejuvinated Mind](https://open.spotify.com/album/3bBXYzvB4NyzhN8hRU1Sz2) | 2:48 | 2026-09-21 |  |
 | [Relaxing Water Flow](https://open.spotify.com/track/0WI552XdVtIsWJzxU0vxXA) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:16 | 2023-04-28 | 2023-09-09 |
 | [Remains](https://open.spotify.com/track/28RxgtMOVactas2AQJHzWv) | [Kharma Initiative](https://open.spotify.com/artist/7BKXObCKvCeZw5tWOFYWe7) | [Remains](https://open.spotify.com/album/0YBXHee7J6d8CjHX2LtnvV) | 2:23 | 2025-10-24 | 2026-09-18 |
 | [Renacer en Calma \(Nature\)](https://open.spotify.com/track/15kpyHpO1u89MMGrQLxiEJ) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 3:02 | 2023-06-09 | 2026-07-24 |

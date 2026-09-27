@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,868 songs - 10 day 23 hr 35 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,869 songs - 10 day 23 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4876,5 +4876,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4866 | [Blender for Dumplings](https://open.spotify.com/track/2bUCgeUlLA6txjXOmK60KJ) | [Dustlit Sinners](https://open.spotify.com/artist/74E8wtZ8H4Jv6xQ3eC60f4) | [Blender for Dumplings](https://open.spotify.com/album/2IabEORbcasMjJiwcD60eU) | 4:18 |
 | 4867 | [Brave the Storm](https://open.spotify.com/track/6B76d3Seh8XwUKTCrplf8a) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Brave the Storm](https://open.spotify.com/album/6dDQodS2dZ4YM0Um9VFb7s) | 6:26 |
 | 4868 | [Promises Made](https://open.spotify.com/track/2HQkV50Jrnyla0dAeeGoUr) | [Riiver Brukes](https://open.spotify.com/artist/3Uqhtmf0RC1zjRPxoRDWjS) | [Promises Made](https://open.spotify.com/album/5LZWFXUSSKoRwkEwFJdK0o) | 4:09 |
+| 4869 | [Rise And Fall](https://open.spotify.com/track/3exLIuw7dpaX8hGbmpU8Vn) | [Jumpscare](https://open.spotify.com/artist/6W6yM8NH6UPvCqvDdXjxr2) | [Rise And Fall](https://open.spotify.com/album/1fjCHBvoCdSqxgRjbCTXgh) | 5:24 |
 
-Snapshot ID: `AAAKLl5UOlLrYgH2LkB1MtFArPrJ+BO4`
+Snapshot ID: `AAAKL/EZIKfTMtFQ4hTs0jo8hPCmw6KG`

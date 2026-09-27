@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: the ge
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,349 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,352 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 74 | [ไม่ชัวร์ \(Not Sure\)](https://open.spotify.com/track/1H99TrJbwr4790x1MxwTe9) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [ไม่ชัวร์ \(Not Sure\)](https://open.spotify.com/album/5MCQjr1UNVx2v7qfSH9tHf) | 2:44 |
 | 75 | [The One That Got Away](https://open.spotify.com/track/4ZXYHN8YsbMALXZdGWzKZU) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Thinking of The One That Got Away](https://open.spotify.com/album/6WEro8v298l2vOhzUNHYgL) | 3:47 |
 
-Snapshot ID: `AAAAAFXz4MiqOfrvSUDIU3MHkWCxVtNw`
+Snapshot ID: `AAAAALwPyKY8gtwhu9fwPYNdTjirQnEQ`

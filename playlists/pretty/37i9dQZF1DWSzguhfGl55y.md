@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > In Gedenken an XATAR 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,920 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,959 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 45 | [Chartbreaker \(Einmal Star und zurück\)](https://open.spotify.com/track/6qorcL5WbegRPijl53BVCl) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [Überfall](https://open.spotify.com/album/1VYFFp5JBhO9Cp8oNfCIdP) | 3:48 |
 | 46 | [Hammerhart](https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 3:23 |
 | 47 | [All 4 One](https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU) | [The Best Of](https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn) | 3:33 |
-| 48 | [...Hab' gehört...](https://open.spotify.com/track/4hAGWRdmxSyi1NEfhgSO61) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 3:45 |
-| 49 | [Ich bin jung und brauche das Geld \(feat\. G\-Style\)](https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT) | [Eko Fresh](https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D), [G\-Style](https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs) | [Ich bin jung und brauche das Geld](https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV) | 4:26 |
+| 48 | [Ich bin jung und brauche das Geld \(feat\. G\-Style\)](https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT) | [Eko Fresh](https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D), [G\-Style](https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs) | [Ich bin jung und brauche das Geld](https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV) | 4:26 |
+| 49 | [...Hab' gehört...](https://open.spotify.com/track/4hAGWRdmxSyi1NEfhgSO61) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 3:45 |
 | 50 | [Ladies & Gentlemen](https://open.spotify.com/track/0UKJzXJ7ffg6kHguTEAVfr) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:46 |
 
-Snapshot ID: `AAAAAJQpzdNly+8nh72IFyCFqCSboRq3`
+Snapshot ID: `AAAAAGWjr+G7z00kHr8weseIXL3iRs5G`

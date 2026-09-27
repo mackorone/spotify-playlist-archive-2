@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Lucas Mason, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,391 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,440 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [Good for You](https://open.spotify.com/track/3V46ysYS6gN5LTH9MG8DYO) | [Micah Fletcher](https://open.spotify.com/artist/6f78Kz0Wb1MGVk3rSIodth) | [Good for You](https://open.spotify.com/album/335iz7n8dnG2tMQaRF0Hbl) | 3:02 |
 | 75 | [Love Without You](https://open.spotify.com/track/6w69BvxUOLpmy06M2oRH0K) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [Love Without You](https://open.spotify.com/album/5ZllP1aHO5oBAn0qKchBBT) | 3:29 |
 
-Snapshot ID: `AAAAALvPT/mD7DipY0JcXFSv50LJKtgS`
+Snapshot ID: `AAAAAC7Msi4EnAMlBjTyb792lIEMU6o7`

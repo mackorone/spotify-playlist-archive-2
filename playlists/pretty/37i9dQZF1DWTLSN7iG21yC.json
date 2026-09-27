@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 822709,
+  "num_followers": 822643,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIMG4d1ue66fLkMMVYSVTgzmq26T",
+  "snapshot_id": "AAAAAA4EbVYArM2n4QKf9QsmJ0lQUlB/",
   "tracks": [
     {
       "added_at": "2025-08-08 04:00:40",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "DRIVING",
-        "url": "https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW"
-      },
-      "artists": [
-        {
-          "name": "Eddie Benjamin",
-          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "DRIVING",
-      "url": "https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Dry Bones",
         "url": "https://open.spotify.com/album/4fbOSnKV77GDqa54vORMym"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 189602,
       "name": "Dry Bones",
       "url": "https://open.spotify.com/track/6XbYqxCWmzo5stjfaKgXEi"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "DRIVING",
+        "url": "https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        }
+      ],
+      "duration_ms": 170232,
+      "name": "DRIVING",
+      "url": "https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 164396,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
         "name": "Plus & Minus",
         "url": "https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 188264,
       "name": "Plus & Minus",
       "url": "https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 164396,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s"
     },
     {
       "added_at": "2025-08-08 04:00:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1bxlagjEmb.md) - [plain]
 
 > folk songs for the weight of it all, featuring music from Anna Shoemaker
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,827 likes - 120 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,845 likes - 120 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1bxlagjEmb.md) - [plain]
 | 119 | [First Time](https://open.spotify.com/track/3ll3YZirSK5Sb3fJApuiCw) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [First Time](https://open.spotify.com/album/1hnGG0Wg9CmgGZeOpU7tCA) | 3:49 |
 | 120 | [White Lie](https://open.spotify.com/track/0omH6Dbw21O4Hw46cTbMBF) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra \(Deluxe\)](https://open.spotify.com/album/5fY8mYgYGkyaJ9XvVOzVQA) | 3:15 |
 
-Snapshot ID: `AAAAAFZZsgRf56RzLZ87DZglK+qy6GP/`
+Snapshot ID: `AAAAAE6Adjam7XchYkzA8aC/0Qnbwayl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: ICXN & jev.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,245 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,265 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [PALE ANPIL](https://open.spotify.com/track/4pbCNhxu0FzJtb9y3GZD0f) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed) | [CANICULE](https://open.spotify.com/album/7n6T6Z5kmKUar9s5RFhSpa) | 3:47 |
 | 50 | [No Saint](https://open.spotify.com/track/5FMjhlVcEpyVZvcWNZpbdo) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [No Saint](https://open.spotify.com/album/7J6jr81lK64KD7XSu1XgSY) | 1:58 |
 
-Snapshot ID: `AAAAAEa+ppwD4l0cUE3zYkjXuPoXBBes`
+Snapshot ID: `AAAAANrFqU0sn+8VjziE7gcYXD3QIBHN`

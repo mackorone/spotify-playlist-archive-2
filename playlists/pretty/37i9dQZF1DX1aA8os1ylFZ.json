@@ -1,12 +1,12 @@
 {
   "description": "De beste nieuwe R&B releases | Cover: Chris Brown",
-  "num_followers": 3065,
+  "num_followers": 1173,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIW5KCnR8m151Mg7a211UaaycSVT",
+  "snapshot_id": "AAAAACk3aJ0lMs9rzUSEcWE6dIm7IzNt",
   "tracks": [
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
+        "name": "10AM",
+        "url": "https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 216223,
+      "name": "10AM",
+      "url": "https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
         "name": "So Bad (bonus track)",
         "url": "https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 120593,
       "name": "So Bad - bonus track",
       "url": "https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
-        "name": "10AM",
-        "url": "https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 216223,
-      "name": "10AM",
-      "url": "https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Desire - Spotify Singles",
         "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 191437,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/2NN4IYo4XsCPn0jcl8n12K"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 237210,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1535,26 +1535,18 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "If The Walls Could Talk",
-        "url": "https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx"
+        "name": "YARN",
+        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
       },
       "artists": [
         {
-          "name": "ZYHH",
-          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
-        },
-        {
-          "name": "Maydien",
-          "url": "https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y"
-        },
-        {
-          "name": "Mitchell Yard",
-          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
         }
       ],
-      "duration_ms": 190666,
-      "name": "If The Walls Could Talk",
-      "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
+      "duration_ms": 197323,
+      "name": "Empath",
+      "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1575,18 +1567,26 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "YARN",
-        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
+        "name": "If The Walls Could Talk",
+        "url": "https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx"
       },
       "artists": [
         {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+          "name": "ZYHH",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        },
+        {
+          "name": "Maydien",
+          "url": "https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
         }
       ],
-      "duration_ms": 197323,
-      "name": "Empath",
-      "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
+      "duration_ms": 190666,
+      "name": "If The Walls Could Talk",
+      "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
     },
     {
       "added_at": "2026-06-10 11:59:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 苺りなはむ
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,618 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,623 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [In the Rain](https://open.spotify.com/track/0PQuarvcROuxW2AckOLxFt) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Garden](https://open.spotify.com/album/4VkSdd90QRjjSdMHY7rEE6) | 4:35 |
 | 80 | [オリーブ](https://open.spotify.com/track/56XMo48qEtAlwP2iVX0hKh) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [オリーブ](https://open.spotify.com/album/4TN5rvYtw92VnfRiG2auyP) | 4:35 |
 
-Snapshot ID: `AAAAAAz0PmMoP+l/BuM7cjmC34P/VTKb`
+Snapshot ID: `AAAAAEB4BU/UmM25w87m/S5ulm3Uof5a`

@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 187350,
+  "num_followers": 187381,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADXc+rHnXD0501oRQhy5kMxakMMz",
+  "snapshot_id": "AAAAANZI0C8sCAXNXpcOYCYTmVS98J3o",
   "tracks": [
     {
       "added_at": "2026-06-12 03:01:51",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Ele Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5HWqHBnIpw1welskR8ym0r"
-      },
-      "artists": [
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        },
-        {
-          "name": "Julio Cesar",
-          "url": "https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr"
-        }
-      ],
-      "duration_ms": 351933,
-      "name": "Ele Vem - Ao Vivo",
-      "url": "https://open.spotify.com/track/7hQHwgb9BVVL6NYIUIUiLr"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Nada Se Compara",
         "url": "https://open.spotify.com/album/3UeS120DmaRg42viHosGU6"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 181956,
       "name": "Nada Se Compara",
       "url": "https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Ele Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5HWqHBnIpw1welskR8ym0r"
+      },
+      "artists": [
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        },
+        {
+          "name": "Julio Cesar",
+          "url": "https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr"
+        }
+      ],
+      "duration_ms": 351933,
+      "name": "Ele Vem - Ao Vivo",
+      "url": "https://open.spotify.com/track/7hQHwgb9BVVL6NYIUIUiLr"
     },
     {
       "added_at": "2026-06-12 03:01:51",

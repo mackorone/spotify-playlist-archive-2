@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: pyncher
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,943 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,967 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 49 | [Cashmere](https://open.spotify.com/track/1yUusaa1hyYWRwWoRf7HPG) | [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [Cashmere](https://open.spotify.com/album/0QZP92yZkQSDQTItXTDbcn) | 2:26 |
 | 50 | [too many days i've spent waiting](https://open.spotify.com/track/6NaWF1PFEmq0dSv4GDq6Aj) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [too many days i've spent waiting](https://open.spotify.com/album/41RwHIbfWogg6NWsdotsvV) | 2:39 |
 
-Snapshot ID: `AAAAAPtK7tvWm+A8EA6HN8umIW0ulroD`
+Snapshot ID: `AAAAACwJOwkQ1hSZ0cAcZy1cpOo98l76`

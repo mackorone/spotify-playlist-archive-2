@@ -4,10 +4,11 @@
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-102 songs - 4 hr 24 min
+103 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [50k](https://open.spotify.com/track/39xRN4sWk5iBpoJtszJTff) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 2:25 | 2026-09-27 |  |
 | [9 bitches \(with ApolloRed1 \)](https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 2:58 | 2026-08-29 |  |
 | [addiction](https://open.spotify.com/track/4aYn09UUPuJUrShKktcr02) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [xperiment](https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9) | 3:16 | 2026-08-21 |  |
 | [Blakk Rokkstar](https://open.spotify.com/track/1LsisG6aoqfsF1r6M4LpMO) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:50 | 2025-04-14 |  |
@@ -56,7 +57,7 @@
 | [Natural Habitat \(feat\. Ken Carson\)](https://open.spotify.com/track/3s9PhZ3X5NH3Dgrtd4K8lM) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Natural Habitat](https://open.spotify.com/album/4CkICP9DdEovx6lQdLpDj9) | 3:28 | 2023-12-13 | 2024-04-13 |
 | [Never Tell](https://open.spotify.com/track/5uzRXTJF2a5dsvj0OY7nYz) | [Narco Juliet](https://open.spotify.com/artist/6BzV00UB67RkdQEdg2AGkT), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx), [SUMMER ALONE](https://open.spotify.com/artist/7ozWZAI5CjNLOp9iFFSzek) | [Never Tell](https://open.spotify.com/album/3QXwzjiIJJSrys2gmRd14t) | 3:16 | 2026-09-21 |  |
 | [New](https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:49 | 2024-08-14 | 2026-07-23 |
-| [off a bean](https://open.spotify.com/track/59rmIsiTbQg2wbFjLnpsMe) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 2:10 | 2026-08-29 |  |
+| [off a bean](https://open.spotify.com/track/59rmIsiTbQg2wbFjLnpsMe) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 2:10 | 2026-08-29 | 2026-09-27 |
 | [Off The Meter \(with Playboi Carti & Destroy Lonely\)](https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:39 | 2025-04-13 |  |
 | [On the Low](https://open.spotify.com/track/5dZOZ75mViIFTs3etMFq5d) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:17 | 2023-11-10 | 2025-10-26 |
 | [open it up \(with Ken Carson\)](https://open.spotify.com/track/0F8K7mgOVEZ7cpOLBPQx38) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [</3³](https://open.spotify.com/album/3wUVDdRTNWxMeYxbfYFPBi) | 4:22 | 2025-10-10 | 2025-12-14 |

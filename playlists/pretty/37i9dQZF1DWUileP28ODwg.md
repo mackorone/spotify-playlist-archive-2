@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Frannie Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,360 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,431 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 79 | [Born From Love](https://open.spotify.com/track/2H8QpLr7yNqJQybbj9LAwB) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Sarah McMillan](https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz) | [Born From Love](https://open.spotify.com/album/23DzNFJ2flHCHLCigIZpmU) | 5:07 |
 | 80 | [I've Found Jesus \- Live](https://open.spotify.com/track/2i3Rjkur3NJiCH6txMqlDL) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Isabelle Brown](https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e) | [Live at Big Church Festival UK](https://open.spotify.com/album/7hhH5LJgs3D7L40vgBK4sQ) | 3:51 |
 
-Snapshot ID: `AAAAAEIyq8NUNglbcsR4GVEtzhMZx8SA`
+Snapshot ID: `AAAAAGMjMPCDBHVkcr3BDju54X9JyolW`

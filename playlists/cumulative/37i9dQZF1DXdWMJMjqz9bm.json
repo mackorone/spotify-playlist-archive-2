@@ -410,7 +410,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 180354,
       "name": "700 CLUB",
       "url": "https://open.spotify.com/track/3Jphy67bYJzDwmag3PKDAK"
@@ -8927,6 +8927,24 @@
     },
     {
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/39DDWclU5aXUrePy4XEUC2"
+      },
+      "artists": [
+        {
+          "name": "Darci",
+          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/1jNdxjAwmJ3V058XP8Zt3d"
+    },
+    {
+      "album": {
         "name": "Low AF",
         "url": "https://open.spotify.com/album/6GqrcES0T5SRFUMQIFlW6R"
       },
@@ -10750,7 +10768,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
@@ -12158,6 +12176,24 @@
       "duration_ms": 163160,
       "name": "RAYA",
       "url": "https://open.spotify.com/track/5XvkekIwf8FnuJrRZN5uuC"
+    },
+    {
+      "album": {
+        "name": "ready or noT",
+        "url": "https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242240,
+      "name": "ready or noT",
+      "url": "https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU"
     },
     {
       "album": {

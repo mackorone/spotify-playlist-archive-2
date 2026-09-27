@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 47 min
+105 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Ahora Que Me Acuerdo](https://open.spotify.com/track/7r81SDmiDwPX4rcZJ6ULAp) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Labios Mentirosos](https://open.spotify.com/album/7bHWxQdY2ys61jxpYMdicP) | 3:31 | 2023-08-08 | 2024-01-27 |
 | [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 | 2024-04-21 | 2025-03-23 |
 | [Aquí Hay Para Llevar](https://open.spotify.com/track/25VVwcwK5OKa4XMsVmsmJ0) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3J4IsXHUfmSLZfLne1eg2I) | 2:59 | 2025-03-23 |  |
-| [Asi Fue](https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 5:18 | 2023-08-08 |  |
+| [Asi Fue](https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 5:18 | 2023-08-08 | 2026-09-27 |
 | [Así Fue](https://open.spotify.com/track/5g3lwRodnp65oV0yclWTK6) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Esencial De La Arrolladora Banda El Limón](https://open.spotify.com/album/5unIShhqSluah2Bf29YiFs) | 5:19 | 2024-10-22 | 2026-09-01 |
 | [Aunque Tiren Hate](https://open.spotify.com/track/0HXjgTtxw4ADoeeuE76YAh) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aunque Tiren Hate](https://open.spotify.com/album/5qpJ2TpMxSZIzsGrNROo5S) | 2:57 | 2025-06-08 | 2025-07-05 |
 | [Belleza Pura](https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Belleza Pura](https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5) | 3:24 | 2023-08-08 | 2023-08-28 |
@@ -21,6 +21,7 @@
 | [Cada Día Más](https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aunque Nos Tiren Hate](https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN) | 3:06 | 2025-12-14 | 2026-01-15 |
 | [Cada Mañana](https://open.spotify.com/track/4hxPUai4jc3r76nbnVR88c) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Cada Mañana](https://open.spotify.com/album/3HklrN7N2hEhOlcDOWJAM9) | 3:21 | 2025-09-10 | 2025-10-05 |
 | [Calidad Y Cantidad](https://open.spotify.com/track/0nfp44XFmPrLDMMmYfNIP3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:30 | 2023-08-08 |  |
+| [Cara Conocida](https://open.spotify.com/track/7Dce0wpEyKhdCoyRs1tcTp) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Cara Conocida](https://open.spotify.com/album/3RqDNtTd6JvgB0YUMBJdch) | 3:31 | 2026-09-27 |  |
 | [Carita De Perdón](https://open.spotify.com/track/6apOgi25sgEaVSJO7znHCg) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:04 | 2024-07-18 | 2024-07-19 |
 | [Caro Descaro](https://open.spotify.com/track/7uwdbAR1pciHerZescRlWk) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Caro Descaro](https://open.spotify.com/album/5gTnpaxyS9hX1RYd1omt6g) | 2:57 | 2023-08-08 | 2023-09-16 |
 | [Cedí](https://open.spotify.com/track/0C5u9cvJGDP4YpIbUyzJW4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Cedí](https://open.spotify.com/album/6Tez8YETehXZ8GS6Q9yh4j) | 3:13 | 2023-08-08 |  |

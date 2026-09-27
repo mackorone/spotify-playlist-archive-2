@@ -4,7 +4,7 @@
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-137 songs - 7 hr 1 min
+138 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dois Enganados](https://open.spotify.com/track/7McCAKExE8KsI2q4Y8wx4U) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Pra Ouvir Tomando Uma, Vol\. 1](https://open.spotify.com/album/34wbTHXH6UAGPJKrl3VXOs) | 2:52 | 2023-02-10 | 2024-04-19 |
 | [Duas Metades \- Ao Vivo](https://open.spotify.com/track/3UStHHOyFXetR5621bKJBz) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall \(Ao Vivo\)](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:51 | 2024-03-14 |  |
 | [Dubai \- Ao Vivo](https://open.spotify.com/track/4OC93ORgqsUsio3xgAdLHP) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Magia das Estrelas, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5z3VxPxXmWi61ArzkvvWWJ) | 3:03 | 2025-08-15 | 2026-05-16 |
+| [Enquanto o Sol Brilhar \- Naiara 15 \- Ao Vivo em São Paulo](https://open.spotify.com/track/1fJpDOEtoymkXkxZv93eg9) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Matogrosso & Mathias](https://open.spotify.com/artist/5he1UTofdFOcdbKqnLixko) | [Enquanto o Sol Brilhar \(Naiara 15 \- Ao Vivo em São Paulo\)](https://open.spotify.com/album/02jmthjJMKaEhxMyxJXBu2) | 4:00 | 2026-09-18 |  |
 | [Entregador de Flor \- Ao Vivo em Brasília](https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 3:10 | 2024-07-09 |  |
 | [Escondendo o Ouro \- Ao Vivo](https://open.spotify.com/track/0IBCX7PC9NcfFLuyoHxTNt) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Magia das Estrelas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc) | 2:51 | 2025-05-23 | 2026-06-28 |
 | [Escreve Aí \- Ao Vivo](https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx) | 4:03 | 2024-03-14 |  |
@@ -80,7 +81,7 @@
 | [Menina De Ouro \- Ao Vivo](https://open.spotify.com/track/1nJCPEoH9NzaCpBw2ZYHUK) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E) | [Sonho \(Ao Vivo\)](https://open.spotify.com/album/71eeIN3URvqIaZc9CL66wL) | 2:39 | 2025-06-06 | 2025-10-26 |
 | [Mentes Tão Bem \(Mientes Tan Bien\)](https://open.spotify.com/track/1VEyDlRdDIKopb4YRgbCFe) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Country Sessions 2](https://open.spotify.com/album/68OY0mYlWfoIDE30464mi6) | 3:40 | 2025-11-28 | 2025-12-19 |
 | [Mentiras](https://open.spotify.com/track/1IidwGEnODlsduaXG3WtHY) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Mentiras](https://open.spotify.com/album/1Ko1EtETj6MMQJhLEFiCFK) | 2:49 | 2026-03-20 | 2026-05-08 |
-| [Minha Vontade](https://open.spotify.com/track/4eWHMq1DmBtj0XLv3rFySv) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:09 | 2025-12-12 |  |
+| [Minha Vontade](https://open.spotify.com/track/4eWHMq1DmBtj0XLv3rFySv) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:09 | 2025-12-12 | 2026-09-27 |
 | [Moleque](https://open.spotify.com/track/0oMaaZT0hHsy7QMfpidYtI) | [Pacheco](https://open.spotify.com/artist/6L8qkVcwxbMShYXrQHy5Uy), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Moleque](https://open.spotify.com/album/4QIhY16gSJ8F2kf2eDvGUt) | 3:14 | 2023-02-10 | 2023-02-27 |
 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 | 2023-02-10 | 2026-05-08 |
 | [Moça do Espelho \- Acústico](https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Zé Neto & Cristiano \- Acústico](https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN) | 2:32 | 2024-03-14 |  |

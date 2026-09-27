@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Taylor Swift, Sfera Ebbasta, Ozuna,  Madonna con Charli xcx, Gino Paoli con Paolo Fresu, SETTEMBRE e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,541 likes - 90 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,548 likes - 90 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 89 | [Unshattered](https://open.spotify.com/track/1bG7QLRyiMVMoAoovh93Ti) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [Unshattered](https://open.spotify.com/album/0TS0BvaXpGnB5teNhkLNGf) | 3:16 |
 | 90 | [Làbas](https://open.spotify.com/track/1ezcvILTFlzDhygyf6rg8V) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG) | [Làbas](https://open.spotify.com/album/2MLN4gghGB3DlTvLDH1mOl) | 3:33 |
 
-Snapshot ID: `AAAAAKTqoA7M3XjknyNLLlb+eC/xg0JT`
+Snapshot ID: `AAAAAEUEognyyI/H3x6dlbZfM1z94ve1`

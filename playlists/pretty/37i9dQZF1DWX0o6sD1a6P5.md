@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: KeBlack x Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,298 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,453 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Paysage](https://open.spotify.com/track/4fTMiWoGKTcFgSROCiYoLA) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Paysage](https://open.spotify.com/album/6cafnFIJ0HfFmEOI8w5FgJ) | 2:52 |
 | 50 | [POR TI](https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn), [SOUNDPLUG](https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX) | [POR TI](https://open.spotify.com/album/0NnW0UN9DFuNIzJHgUdaJa) | 1:55 |
 
-Snapshot ID: `AAAAADWCkgXI1X8iteuPBdGCw80V5BKP`
+Snapshot ID: `AAAAABR6GEyd/APQZiPfsfAxfWr/KI08`

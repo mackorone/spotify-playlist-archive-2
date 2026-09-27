@@ -9529,6 +9529,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206164,
+      "name": "Cleveland!",
+      "url": "https://open.spotify.com/track/7uxkx8HPBYkJKcimOyggUM"
+    },
+    {
+      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/79UGZcdmVaWT1TR71D9Yhj"
       },
@@ -22356,7 +22374,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 187000,
       "name": "In\u00e9 Plemen\u00e1",
       "url": "https://open.spotify.com/track/6WfjL1LncrRrm79gaZoi9v"
@@ -27184,7 +27202,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 198418,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/4CHL6WxMFkQ8gPHx7a0Bsm"
@@ -28048,6 +28066,28 @@
       "duration_ms": 191638,
       "name": "Love Of My Life",
       "url": "https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA"
+    },
+    {
+      "album": {
+        "name": "Love Them",
+        "url": "https://open.spotify.com/album/7298qE2I5KwK40RP8Ydhxo"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        },
+        {
+          "name": "Grimaso",
+          "url": "https://open.spotify.com/artist/3xipichqzgEr9gx0zmvP3P"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Love Them",
+      "url": "https://open.spotify.com/track/1MSpOgcVfE7xYqONNJD2jE"
     },
     {
       "album": {
@@ -30656,7 +30696,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 250906,
       "name": "Modra",
       "url": "https://open.spotify.com/track/6WfhZNzOioBmDUq4xb5kvz"
@@ -37802,6 +37842,24 @@
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
       "album": {
@@ -51608,7 +51666,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 215013,
       "name": "Tras tou",
       "url": "https://open.spotify.com/track/37bzTXxhFeNN7K3fDFeGwU"
@@ -52794,7 +52852,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 135283,
       "name": "Ups and downs",
       "url": "https://open.spotify.com/track/2n9P4AL6xPVnoE1deBxHat"

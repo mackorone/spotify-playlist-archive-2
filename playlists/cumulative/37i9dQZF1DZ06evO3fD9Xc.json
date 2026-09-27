@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Intermedio (En Vivo)",
+        "url": "https://open.spotify.com/album/2CwfmIR8GCaAlkXNpbMG8g"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248204,
+      "name": "Me dediqu\u00e9 a perderte - En Vivo",
+      "url": "https://open.spotify.com/track/1XGSBhZPKeoiHDCuWhYDdZ"
+    },
+    {
+      "album": {
         "name": "Mis Covers, Vol. 5",
         "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
       },
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 196000,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"

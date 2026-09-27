@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294 likes - 136 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 294 likes - 137 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 87 | [South Of France](https://open.spotify.com/track/1n0agCeknSfKP6PK0r0X57) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Freak Show](https://open.spotify.com/album/3MZrZaiEhwp96tdh4QCfIm) | 3:11 |
 | 88 | [Mimi Interlude](https://open.spotify.com/track/5eQtRJm1hLwSWeB5UBPyDa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1mOzqonHplZ7XxhwNtDbBp) | 0:38 |
 | 89 | [CUTTI \- BONUS](https://open.spotify.com/track/1aR76UAZvKOuaJF9Q5kXZM) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 3:32 |
-| 90 | [American Mood](https://open.spotify.com/track/1qaK2WV09lYnzL3agJ79JW) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [American Mood](https://open.spotify.com/album/2EyxMEOKoNDsQluub6Wir5) | 4:15 |
-| 91 | [Dreaming](https://open.spotify.com/track/7Eq4QHL9PA0csTtnHuAL7k) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/4FYQFYBKEVSjNNHk5aU2TR) | 4:44 |
+| 90 | [Dreaming](https://open.spotify.com/track/7Eq4QHL9PA0csTtnHuAL7k) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/4FYQFYBKEVSjNNHk5aU2TR) | 4:44 |
+| 91 | [American Mood](https://open.spotify.com/track/1qaK2WV09lYnzL3agJ79JW) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [American Mood](https://open.spotify.com/album/2EyxMEOKoNDsQluub6Wir5) | 4:15 |
 | 92 | [If I Was a Bird](https://open.spotify.com/track/0329HQXhaQN13Hi5GOaC1X) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Side Effects Of You \(Deluxe Version\)](https://open.spotify.com/album/7dbS6arvfa5lkzer8I6tq2) | 2:47 |
 | 93 | [Everybody Needs Someone](https://open.spotify.com/track/6oiqxLhql2Pn3g8NCdylAv) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 3:22 |
 | 94 | [Gon' B Alright](https://open.spotify.com/track/0rjk5JvTGxDcHuFdqcrTX4) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 3:54 |
@@ -137,12 +137,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 127 | [Chemistry \- Interlude](https://open.spotify.com/track/6SvuY3OO9xuaVNaV3ZYB1s) | [Jcksn Ave.](https://open.spotify.com/artist/37GcQTOtCy5LuitT57a8mu) | [They Cloned Tyrone \(Music from and Inspired by the Netflix Film\)](https://open.spotify.com/album/7mr0vhCKqriCbhPXlY1z1v) | 2:01 |
 | 128 | [Tale Of 2 Legends](https://open.spotify.com/track/0AxEBo30NXf2NhZa1GEwxC) | [Humble Soles](https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv), [DJ Clue](https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf), [Tyre Hakim](https://open.spotify.com/artist/330cgYbAbvsjcSQPrhPwLJ), [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Humble Soles](https://open.spotify.com/album/7ByYlJNaU5HDMX4McPX4DR) | 2:56 |
 | 129 | [I Just Need Love](https://open.spotify.com/track/1lK1Jj98gtUsyVl8dXkFVm) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:22 |
-| 130 | [KEY UP!](https://open.spotify.com/track/2wly0X9PVtG5jqKqg9MEgX) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 1:39 |
-| 131 | [Strongest Woman I Know](https://open.spotify.com/track/4JsPASwBKWutGo84Na2oQ8) | [Rob Markman](https://open.spotify.com/artist/2bUUwnuZ9pezPvPzGwanok), [Dj Money](https://open.spotify.com/artist/5Gqwy9rFNhFIlgk3rCUiN7) | [If You Don't You'll Regret It](https://open.spotify.com/album/4CRWN3kSdIc7U2qo4SUXFH) | 3:38 |
-| 132 | [Save The World \(On The Dance Floor\)](https://open.spotify.com/track/3wsSqwEfXOgum2fnEGK39A) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:53 |
-| 133 | [Highway to the Sky](https://open.spotify.com/track/3Mxex1RPQ8JpU9hiYX5cy5) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 2:57 |
-| 134 | [What Did I Lose to Love You](https://open.spotify.com/track/5GMa5YK123sRZMMVZtc8hP) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:23 |
-| 135 | [Where Were You](https://open.spotify.com/track/1VeWQU4FLcsoMPLsasN1aR) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:32 |
-| 136 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
+| 130 | [Big Wheel Whippin'](https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1) | [Playaz Circle](https://open.spotify.com/artist/5gV9T9VSwhHBlHcRMojEZw) | [Flight 360: The Takeoff](https://open.spotify.com/album/4jCIFGa5tGSh7LeTmPwcS2) | 4:29 |
+| 131 | [KEY UP!](https://open.spotify.com/track/2wly0X9PVtG5jqKqg9MEgX) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 1:39 |
+| 132 | [Strongest Woman I Know](https://open.spotify.com/track/4JsPASwBKWutGo84Na2oQ8) | [Rob Markman](https://open.spotify.com/artist/2bUUwnuZ9pezPvPzGwanok), [Dj Money](https://open.spotify.com/artist/5Gqwy9rFNhFIlgk3rCUiN7) | [If You Don't You'll Regret It](https://open.spotify.com/album/4CRWN3kSdIc7U2qo4SUXFH) | 3:38 |
+| 133 | [Save The World \(On The Dance Floor\)](https://open.spotify.com/track/3wsSqwEfXOgum2fnEGK39A) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:53 |
+| 134 | [Highway to the Sky](https://open.spotify.com/track/3Mxex1RPQ8JpU9hiYX5cy5) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 2:57 |
+| 135 | [What Did I Lose to Love You](https://open.spotify.com/track/5GMa5YK123sRZMMVZtc8hP) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:23 |
+| 136 | [Where Were You](https://open.spotify.com/track/1VeWQU4FLcsoMPLsasN1aR) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:32 |
+| 137 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 
-Snapshot ID: `AcdSMAAAAABvKJjgbaD5w3pkNPPNST2R`
+Snapshot ID: `AcdXvAAAAADoaVIZnlY4tgLJwj3BKjYD`

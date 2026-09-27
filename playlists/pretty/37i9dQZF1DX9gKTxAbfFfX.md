@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,657 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,617 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 49 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 | 50 | [NOSTALGiA & VERANO](https://open.spotify.com/track/3RWTyqadYWqOqKXPrERNTE) | [Baby Loud](https://open.spotify.com/artist/6VSlGCOiyCqCRfFsThtvA7) | [NOSTALGiA & VERANO](https://open.spotify.com/album/5rRRxWmuiEEfj4nm2HzCdC) | 3:05 |
 
-Snapshot ID: `AAAAAIaVGkrSn/5lC6ka17Zpi/pWITdy`
+Snapshot ID: `AAAAAKz+EwrogpE2j2HVggzI6uYhslJ/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,114 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,258 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 89 | [Kinni Soni](https://open.spotify.com/track/268akcwmDZGwMeI2nijVxd) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Kinni Soni](https://open.spotify.com/album/14pyBvbiJZ7zuFrxgCQded) | 4:01 |
 | 90 | [Galiyon Ke Ghalib](https://open.spotify.com/track/3l8GKFbkD1dRhAmzw6fInB) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Galiyon Ke Ghalib](https://open.spotify.com/album/5tq2xUgRpWZMZzyiniZ7Sl) | 2:57 |
 
-Snapshot ID: `AAAAAEx1AFX1HnBqa+lOxkwPOvSJJ9A1`
+Snapshot ID: `AAAAAA3hlzxl7Gk2CLWlHx8iKtBaymAu`

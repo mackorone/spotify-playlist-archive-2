@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 57704,
+  "num_followers": 57723,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAACV+A2AB8GbX1lN01An5xJT",
+  "snapshot_id": "arW5gAAAAABfzerBYjemrhK9cApk8LcW",
   "tracks": [
     {
       "added_at": null,
@@ -138,15 +138,11 @@
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 226096,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e"
+      "duration_ms": 154749,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X"
     },
     {
       "added_at": null,
@@ -214,11 +210,15 @@
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 154749,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X"
+      "duration_ms": 226096,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 170080,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/1MQKhg5Kbn3cd07LQ5JPRK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stillness in Wonderland",
         "url": "https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 183197,
       "name": "Picture Perfect",
       "url": "https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 170080,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/1MQKhg5Kbn3cd07LQ5JPRK"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
       "duration_ms": 238026,
       "name": "I See You",
       "url": "https://open.spotify.com/track/4aAJQjtjZQXKFEHIpZEJCj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 317278,
+      "name": "No Merci",
+      "url": "https://open.spotify.com/track/552lBxKLGjerBDS8VYHOJn"
     },
     {
       "added_at": null,
@@ -467,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 317278,
-      "name": "No Merci",
-      "url": "https://open.spotify.com/track/552lBxKLGjerBDS8VYHOJn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Garage Palace (feat. Little Simz)",
         "url": "https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 240379,
-      "name": "Thief",
-      "url": "https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drop 7",
         "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 87893,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 240379,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv"
     },
     {
       "added_at": null,
@@ -623,22 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Girl",
-        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
+        "name": "Paradise Now",
+        "url": "https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         },
         {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 207310,
-      "name": "Telephone (ft. 070 Shake)",
-      "url": "https://open.spotify.com/track/79anhf2dyUxmZaa2IBCqD8"
+      "duration_ms": 161010,
+      "name": "Talk Olympics",
+      "url": "https://open.spotify.com/track/04ncMwTyse8X37iIUT4na1"
     },
     {
       "added_at": null,
@@ -659,22 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise Now",
-        "url": "https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv"
+        "name": "Sugar Girl",
+        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
       },
       "artists": [
         {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        },
-        {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 161010,
-      "name": "Talk Olympics",
-      "url": "https://open.spotify.com/track/04ncMwTyse8X37iIUT4na1"
+      "duration_ms": 207310,
+      "name": "Telephone (ft. 070 Shake)",
+      "url": "https://open.spotify.com/track/79anhf2dyUxmZaa2IBCqD8"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Girl",
-        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 205704,
-      "name": "That's a No No",
-      "url": "https://open.spotify.com/track/1R8JylLovUs7WRLiFPq2G5"
+      "duration_ms": 364181,
+      "name": "X",
+      "url": "https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+        "name": "Sugar Girl",
+        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 364181,
-      "name": "X",
-      "url": "https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy"
+      "duration_ms": 205704,
+      "name": "That's a No No",
+      "url": "https://open.spotify.com/track/1R8JylLovUs7WRLiFPq2G5"
     },
     {
       "added_at": null,

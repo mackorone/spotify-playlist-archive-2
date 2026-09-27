@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Volunteers\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,177 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,167 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [heaven and hell](https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [heaven and hell](https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3) | 4:28 |
 | 50 | [May, be](https://open.spotify.com/track/2EzW4c95YjAfy3tVQPawrl) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [May, be](https://open.spotify.com/album/1IDOtELn8WbIs33bBSQOlC) | 2:52 |
 
-Snapshot ID: `AAAAAJlBII62VCiof8XgG5/0V0b8cxFJ`
+Snapshot ID: `AAAAAIb41iL7W8eb/nwz6tbGVq+MYMUM`

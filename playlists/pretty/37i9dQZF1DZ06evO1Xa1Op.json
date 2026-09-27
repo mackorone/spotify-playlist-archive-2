@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 22493,
+  "num_followers": 22494,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAAB/vTwxTJ+K3hOsFx/kQUwD",
+  "snapshot_id": "arW5gAAAAACwDg1JFFdn1XaqRdDZ4SXl",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
+        "name": "Radio Mali",
+        "url": "https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 384866,
-      "name": "Goydiotodam",
-      "url": "https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc"
+      "duration_ms": 308866,
+      "name": "Soko",
+      "url": "https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Mali",
-        "url": "https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r"
+        "name": "The River",
+        "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 308866,
-      "name": "Soko",
-      "url": "https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH"
+      "duration_ms": 384866,
+      "name": "Goydiotodam",
+      "url": "https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc"
     },
     {
       "added_at": null,

@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 182481,
       "name": "Bailebella",
       "url": "https://open.spotify.com/track/4SteSu1nj6EDKpmfnPWzBb"
@@ -3988,7 +3988,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 211032,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/55bUBkSX0oUWYZ67FhbhaW"
@@ -9347,6 +9347,24 @@
     },
     {
       "album": {
+        "name": "Lohtulauluja",
+        "url": "https://open.spotify.com/album/17ennUwc9eY9ZsNEuSlez5"
+      },
+      "artists": [
+        {
+          "name": "Aatulove",
+          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126708,
+      "name": "Kallio",
+      "url": "https://open.spotify.com/track/0fGlYL8OWJM8hxiZgyRcmQ"
+    },
+    {
+      "album": {
         "name": "Karaoke",
         "url": "https://open.spotify.com/album/0VDR3UCbi9usVYcZiv5pPv"
       },
@@ -13983,6 +14001,24 @@
     },
     {
       "album": {
+        "name": "M\u00c4KI OON",
+        "url": "https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18"
+      },
+      "artists": [
+        {
+          "name": "LEWI",
+          "url": "https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "M\u00c4KI OON",
+      "url": "https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383"
+    },
+    {
+      "album": {
         "name": "M\u00f6rk\u00f6",
         "url": "https://open.spotify.com/album/3H7wJEr771ALFDB6ubgIlG"
       },
@@ -16268,7 +16304,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 133161,
       "name": "PLIIS",
       "url": "https://open.spotify.com/track/3WYGtfd7H5vm7W8GoYFohb"
@@ -24456,6 +24492,28 @@
       "duration_ms": 166428,
       "name": "Yks y\u00f6",
       "url": "https://open.spotify.com/track/1HovJONUfhVAOpVk5lBzAy"
+    },
+    {
+      "album": {
+        "name": "Yksin",
+        "url": "https://open.spotify.com/album/78X9lcpGUp8iT210pk4SFx"
+      },
+      "artists": [
+        {
+          "name": "F",
+          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
+        },
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203409,
+      "name": "Yksin",
+      "url": "https://open.spotify.com/track/3PzFskVKU7F9GF48V0Nja3"
     },
     {
       "album": {

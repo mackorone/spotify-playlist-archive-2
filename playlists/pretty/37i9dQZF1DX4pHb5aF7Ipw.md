@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Sidhu Moosewala, Karan Aujla, Inderpal Moga and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,679 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,742 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [MIRZA DIOR](https://open.spotify.com/track/5aNSeOyG261x8TFUUKqQrI) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp) | [MIRZA DIOR](https://open.spotify.com/album/2u8TocRchVolnezc0horPT) | 3:25 |
 | 75 | [Kala Dhan](https://open.spotify.com/track/62FEQPlPAAZIdjKCTgtaaf) | [HAQ](https://open.spotify.com/artist/3EIIl7NMS0a5Ff04uCxOYe), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Haq's First Move](https://open.spotify.com/album/5DajkhBVFXof9ZdMdLlD4m) | 2:43 |
 
-Snapshot ID: `AAAAAFodCPwZBelXy0v8SsO6E1gQQY40`
+Snapshot ID: `AAAAANIJJcGB5EgOp/ERHsMQjG4Lwh49`

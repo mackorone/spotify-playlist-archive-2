@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28R8KD.md) - [plain]
 | 13 | [Huckleberry](https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 3:03 |
 | 14 | [Dock](https://open.spotify.com/track/3EQdsc6j5U3jV2iQ0CITNW) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 3:15 |
 | 15 | [Star Gazing](https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:53 |
-| 16 | [Each Story](https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 7:15 |
+| 16 | [Osaka](https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 6:26 |
 | 17 | [Synth 3](https://open.spotify.com/track/7F2oeHj1KjVGIyIpA8s1XQ) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 4:57 |
 | 18 | [Water Memory 2](https://open.spotify.com/track/7rlJ6MBVAhgZEPrw58Nuda) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 9:01 |
 | 19 | [Silken Pt\. 2.1](https://open.spotify.com/track/72xpnBpM8UEJtCAiURvM3R) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Silken Pt\. 2.1](https://open.spotify.com/album/2M4guG3tSS7txcqjx8oiHT) | 3:52 |
-| 20 | [Osaka](https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 6:26 |
+| 20 | [Tokyo 1](https://open.spotify.com/track/4fwNo9lp1v02Bhzu6CejN2) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 4:42 |
 | 21 | [Synth 2](https://open.spotify.com/track/4IMVzTPODkGzYYB1YlhPJ6) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 7:39 |
 | 22 | [Mirror](https://open.spotify.com/track/2S4TjDCuFEqewoBxzW2VYd) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 9:35 |
 | 23 | [Friend Forest](https://open.spotify.com/track/7yTiL61OsCjCkHDA6MrDO6) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Friend Forest](https://open.spotify.com/album/1rwhU2oYPJ5lR7dewhMkHj) | 4:12 |
-| 24 | [Tokyo 1](https://open.spotify.com/track/4fwNo9lp1v02Bhzu6CejN2) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 4:42 |
+| 24 | [Each Story](https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 7:15 |
 | 25 | [Piano 1](https://open.spotify.com/track/5lSEJkubu5mdi1NnYkEiLC) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 7:23 |
 | 26 | [Woven](https://open.spotify.com/track/70kQ67AxENqAghLsofvC8c) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:51 |
 | 27 | [Hokkaido](https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 6:30 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28R8KD.md) - [plain]
 | 29 | [Matsumoto](https://open.spotify.com/track/59WgFlWjl0Wgt2D6BPY893) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 10:10 |
 | 30 | [Horizon](https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:24 |
 
-Snapshot ID: `arRoAAAAAADgCsTsmB+xyMgxz11gbjWh`
+Snapshot ID: `arW5gAAAAAAj6TlRoxbxZaQL4fTn6gJx`

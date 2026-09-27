@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B rising in the UK\. Cover: Nippa
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,090 likes - 69 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,108 likes - 69 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 68 | [Alive](https://open.spotify.com/track/1Vdt5HO84vJr6hGui1rGie) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [Alive](https://open.spotify.com/album/5Dj7KRmVUnjxz1MdNfgSMH) | 3:29 |
 | 69 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
 
-Snapshot ID: `AAAAADWFfmHwnrs8wr3d9Bh1BKoW0rIe`
+Snapshot ID: `AAAAAA4yvexpwcWGpuF0iqe9Gl6lGfO4`

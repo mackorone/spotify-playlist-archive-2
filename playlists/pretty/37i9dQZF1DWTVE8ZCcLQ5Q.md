@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Kouth e e outros artistas diferenciados estão no nosso RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,435 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,416 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 64 | [Toda esfera](https://open.spotify.com/track/1ZTrlN4pjVEMBoafchACc3) | [FOTO EM GRUPO](https://open.spotify.com/artist/13Yv9pKK4blQ7HbTDeNNIq) | [Toda esfera](https://open.spotify.com/album/4hAbx7wgmY0FeBeXEOdK7G) | 3:10 |
 | 65 | [Colchão](https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Colchão](https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ) | 3:07 |
 
-Snapshot ID: `AAAAABWd9HDhiqW+2d8WfqYTk5h3umyQ`
+Snapshot ID: `AAAAAJu6UZ6Y6xMxZ0///gcbKP69R9Ju`

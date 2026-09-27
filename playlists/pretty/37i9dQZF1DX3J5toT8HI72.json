@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 827523,
+  "num_followers": 827477,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKZ6dt8LDFErPV40vFxH1ngTpjOC",
+  "snapshot_id": "AAAAAKPLjS5Ixm9AQMjWLHEA3xbvVoI4",
   "tracks": [
     {
       "added_at": "2026-09-10 03:01:31",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
-        "name": "V\u00e1rias Queixas",
-        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 156970,
-      "name": "Vento Alecrim",
-      "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
         "name": "Banda do Mar",
         "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 168640,
       "name": "Mais Ningu\u00e9m",
       "url": "https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
+        "name": "V\u00e1rias Queixas",
+        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 156970,
+      "name": "Vento Alecrim",
+      "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
     },
     {
       "added_at": "2026-09-10 03:01:31",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
         "name": "Multishow Ao Vivo Caetano e Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 154826,
       "name": "O Le\u00e3ozinho - Live",
       "url": "https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "added_at": "2026-09-10 03:01:31",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/7tkP1p2yTttMg2SY45nB5Y"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "Velha Infancia - 2004 Digital Remaster;",
+      "url": "https://open.spotify.com/track/3KYlOzxN5xO7eEauO1VF06"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
         "name": "Partilhar",
         "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 262552,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/7tkP1p2yTttMg2SY45nB5Y"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 250453,
-      "name": "Velha Infancia - 2004 Digital Remaster;",
-      "url": "https://open.spotify.com/track/3KYlOzxN5xO7eEauO1VF06"
     },
     {
       "added_at": "2026-09-10 03:01:31",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
-        "name": "Medo Bobo",
-        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Medo Bobo",
-      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
         "name": "Ef\u00eamera",
         "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 221253,
       "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
       "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
     },
     {
       "added_at": "2026-09-10 03:01:31",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 394706,
-      "name": "Quando Bate Aquela Saudade",
-      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 231616,
       "name": "Meu Abrigo",
       "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
     },
     {
       "added_at": "2026-09-10 03:01:31",

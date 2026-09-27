@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-1,015 songs - 2 day 4 hr 6 min
+1,016 songs - 2 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-10-24 | 2026-05-01 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 | 2023-09-15 |
 | [Chasing Wind](https://open.spotify.com/track/4uIr0EKmbKiBBuTdEaO6mM) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Chasing Wind](https://open.spotify.com/album/1jqwJofD3wFz2drsplzRwY) | 3:38 | 2023-06-22 | 2023-07-29 |
+| [CHE](https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [CHE](https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x) | 2:24 | 2026-09-25 |  |
 | [Cherry](https://open.spotify.com/track/2jKM4QHpRExHWHQ5rd9BPy) | [Sante SVM](https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1) | [Cherry](https://open.spotify.com/album/19y2pdapQQdE0aNAHwydny) | 2:20 | 2026-04-17 | 2026-05-31 |
 | [Chinyere](https://open.spotify.com/track/7kC22nNl5VK2bzlnF7Xb7N) | [J'Dess](https://open.spotify.com/artist/2aUctDbYODpqWfleSUpK6s), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chinyere](https://open.spotify.com/album/1qvoCRFD3uV59isV5czgUH) | 3:40 | 2026-09-11 |  |
 | [Chocolati](https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Analyze Love](https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj) | 2:20 | 2023-03-17 | 2024-01-13 |
@@ -375,7 +376,7 @@
 | [Honey, I Love You](https://open.spotify.com/track/46qrlJPMBoYpdBxZmneY3z) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Honey, I Love You](https://open.spotify.com/album/0a9wo8ZZsUCy4XoeDEAs69) | 3:58 | 2026-05-01 | 2026-07-12 |
 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 | 2022-08-12 | 2023-04-21 |
 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 | 2025-07-25 |  |
-| [How Can I Forget](https://open.spotify.com/track/7AwGXSjR7fIRk0bGqw223P) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [How Can I Forget](https://open.spotify.com/album/3Dz76Mlu14f9UgcIQQlAT6) | 2:09 | 2026-09-03 |  |
+| [How Can I Forget](https://open.spotify.com/track/7AwGXSjR7fIRk0bGqw223P) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [How Can I Forget](https://open.spotify.com/album/3Dz76Mlu14f9UgcIQQlAT6) | 2:09 | 2026-09-03 | 2026-09-27 |
 | [How Do You?](https://open.spotify.com/track/1ByWHNLTkPtzImR5jUjvQ2) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [How Do You?](https://open.spotify.com/album/7fLcgyXSupsaclb9IwC736) | 3:30 | 2025-06-20 | 2025-07-14 |
 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 | 2023-02-24 | 2023-06-03 |
 | [HOW FAR](https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [HOW FAR](https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W) | 3:40 | 2024-05-17 | 2024-06-01 |

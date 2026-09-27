@@ -1303,6 +1303,28 @@
     },
     {
       "album": {
+        "name": "Rhodomagnetics (Remastered 2026)",
+        "url": "https://open.spotify.com/album/3hsZQTFEpAjOePlrEToEGU"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Wilbur Harden",
+          "url": "https://open.spotify.com/artist/1zObM8Nu9u5qzUoRyXydeq"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424921,
+      "name": "Rhodomagnetics - Remastered 2026",
+      "url": "https://open.spotify.com/track/31tDjlAyJmCSBOYrLHC5jX"
+    },
+    {
+      "album": {
         "name": "Wheelin' And Dealin' (Remastered 2025)",
         "url": "https://open.spotify.com/album/7E9VLn1tpj21o29shM3lQo"
       },
@@ -1446,7 +1468,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 321400,
       "name": "Soultrane - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"

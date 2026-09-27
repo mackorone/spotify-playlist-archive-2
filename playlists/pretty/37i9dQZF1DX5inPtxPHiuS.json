@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: \u00c1rbol de Ojos",
-  "num_followers": 91773,
+  "num_followers": 91775,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABaSCJQao7is8MFg/lePrS/c9qP+",
+  "snapshot_id": "AAAAAOd8ZwJDu3NO+ngCSWHJ9bOw49IN",
   "tracks": [
     {
       "added_at": "2026-09-11 04:59:19",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Perdedor",
-        "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
-      },
-      "artists": [
-        {
-          "name": "Consulado Popular",
-          "url": "https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR"
-        }
-      ],
-      "duration_ms": 191533,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "Perdedor",
+        "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
+      },
+      "artists": [
+        {
+          "name": "Consulado Popular",
+          "url": "https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR"
+        }
+      ],
+      "duration_ms": 191533,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "No Hay Tiempo Que Perder",
-        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
-      },
-      "artists": [
-        {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "\u00bfQu\u00e9 se yo?",
-      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
         "name": "LVRBOY",
         "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 249917,
       "name": "LVRBOY",
       "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "No Hay Tiempo Que Perder",
+        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
+      },
+      "artists": [
+        {
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "\u00bfQu\u00e9 se yo?",
+      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "En Paz",
-        "url": "https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw"
-      },
-      "artists": [
-        {
-          "name": "Ciegossordomudos",
-          "url": "https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "El Beat de Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
         "name": "Pnmt Corrosion",
         "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 210285,
       "name": "Nadie Es Inocente (feat. Dilson Diaz & Nicolai Fella)",
       "url": "https://open.spotify.com/track/4jnp4SOpXZP0Oy0YIBKxcf"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "En Paz",
+        "url": "https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw"
+      },
+      "artists": [
+        {
+          "name": "Ciegossordomudos",
+          "url": "https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "El Beat de Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Rocal",
-        "url": "https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC"
-      },
-      "artists": [
-        {
-          "name": "Los Ni\u00f1os Telepaticos",
-          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
-        }
-      ],
-      "duration_ms": 230237,
-      "name": "Rocal",
-      "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
         "name": "Prende",
         "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 197886,
       "name": "Prende",
       "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "Rocal",
+        "url": "https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC"
+      },
+      "artists": [
+        {
+          "name": "Los Ni\u00f1os Telepaticos",
+          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
+        }
+      ],
+      "duration_ms": 230237,
+      "name": "Rocal",
+      "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Estallados",
-        "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
-      },
-      "artists": [
-        {
-          "name": "Los Ni\u00f1os Telepaticos",
-          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Estallados",
-      "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
         "name": "El Silencio",
         "url": "https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 340017,
       "name": "El Silencio",
       "url": "https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "Estallados",
+        "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
+      },
+      "artists": [
+        {
+          "name": "Los Ni\u00f1os Telepaticos",
+          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Estallados",
+      "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Todo Se Olvida",
-        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
-      },
-      "artists": [
-        {
-          "name": "Arrabalero",
-          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
-        }
-      ],
-      "duration_ms": 272999,
-      "name": "Todo Se Olvida",
-      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
         "name": "Diciembre",
         "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 278453,
       "name": "Diciembre",
       "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "Todo Se Olvida",
+        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
+      },
+      "artists": [
+        {
+          "name": "Arrabalero",
+          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
+        }
+      ],
+      "duration_ms": 272999,
+      "name": "Todo Se Olvida",
+      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Los Kitsch de Colombia Presentan: 1/3",
-        "url": "https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ"
-      },
-      "artists": [
-        {
-          "name": "The Kitsch",
-          "url": "https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
         "name": "INFECTOS",
         "url": "https://open.spotify.com/album/7n0NxieCFnU2SkHVBiAlIr"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 174000,
       "name": "INFECTOS",
       "url": "https://open.spotify.com/track/1qj8rfBVk1zIcM1Yq08agk"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "Los Kitsch de Colombia Presentan: 1/3",
+        "url": "https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ"
+      },
+      "artists": [
+        {
+          "name": "The Kitsch",
+          "url": "https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj"
     },
     {
       "added_at": "2026-09-11 04:59:19",

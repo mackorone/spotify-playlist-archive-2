@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 90s.",
-  "num_followers": 1938457,
+  "num_followers": 1939377,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOiVumcvk7H+LRLvzSnW/BvopGvg",
+  "snapshot_id": "AAAAALEWWchOX6eYq+eY7d+aafWb+TNq",
   "tracks": [
     {
       "added_at": "2024-07-02 21:50:37",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Labour Of Love II",
-        "url": "https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Kingston Town",
-      "url": "https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Jon Secada",
         "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 327426,
       "name": "Just Another Day",
       "url": "https://open.spotify.com/track/5AoBNJQDXXEnIJGjJjZu3y"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Labour Of Love II",
+        "url": "https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Kingston Town",
+      "url": "https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Promises And Lies",
-        "url": "https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "(I Can't Help) Falling In Love With You",
-      "url": "https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "If We Fall in Love Tonight",
         "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 281200,
       "name": "All for Love",
       "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Promises And Lies",
+        "url": "https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "(I Can't Help) Falling In Love With You",
+      "url": "https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 367333,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Still Got The Blues",
         "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 370866,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 367333,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 344185,
-      "name": "Stranger in Moscow",
-      "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "No Way Out (2014 Remaster)",
         "url": "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 306560,
       "name": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
       "url": "https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 344185,
+      "name": "Stranger in Moscow",
+      "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
+        "name": "Gran Turismo (Remastered)",
+        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 218504,
+      "name": "Erase / Rewind",
+      "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 272893,
       "name": "When You Believe - from The Prince of Egypt",
       "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
-        "name": "Gran Turismo (Remastered)",
-        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 218504,
-      "name": "Erase / Rewind",
-      "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Try Sleeping with a Broken Heart",
+      "url": "https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+        "name": "Urban Hymns (Deluxe / Remastered 2016)",
+        "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
         }
       ],
-      "duration_ms": 249013,
-      "name": "Try Sleeping with a Broken Heart",
-      "url": "https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i"
+      "duration_ms": 304880,
+      "name": "The Drugs Don't Work",
+      "url": "https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Urban Hymns (Deluxe / Remastered 2016)",
-        "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "The Drugs Don't Work",
-      "url": "https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Rush Street",
         "url": "https://open.spotify.com/album/0hNMHkt0vLHIioGUoOTk0F"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 293838,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/2fYYmPNwDaNpw1KRSxpQ5H"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Stay (I Missed You)",
         "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 184333,
       "name": "Stay (I Missed You)",
       "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 293838,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/2fYYmPNwDaNpw1KRSxpQ5H"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Michael Learns To Rock",
-        "url": "https://open.spotify.com/album/1QIn6Ei16FidIGiHgylZDB"
-      },
-      "artists": [
-        {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Take Me to Your Heart",
-      "url": "https://open.spotify.com/track/7rdtBpPpe4knfd7aD98h9X"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Back At One",
-        "url": "https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo"
+        "name": "Michael Learns To Rock",
+        "url": "https://open.spotify.com/album/1QIn6Ei16FidIGiHgylZDB"
       },
       "artists": [
         {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
         }
       ],
-      "duration_ms": 247466,
-      "name": "6, 8, 12",
-      "url": "https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0"
+      "duration_ms": 240640,
+      "name": "Take Me to Your Heart",
+      "url": "https://open.spotify.com/track/7rdtBpPpe4knfd7aD98h9X"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
+        "name": "Back At One",
+        "url": "https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "6, 8, 12",
+      "url": "https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Strange Foreign Beauty",
-        "url": "https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO"
-      },
-      "artists": [
-        {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
-        }
-      ],
-      "duration_ms": 253093,
-      "name": "That's Why You Go Away",
-      "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Spellbound",
         "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 292933,
       "name": "Rush Rush",
       "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Strange Foreign Beauty",
+        "url": "https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO"
+      },
+      "artists": [
+        {
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+        }
+      ],
+      "duration_ms": 253093,
+      "name": "That's Why You Go Away",
+      "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Whaler",
-        "url": "https://open.spotify.com/album/2oKbwv9ClTQKWHHTKCqN59"
-      },
-      "artists": [
-        {
-          "name": "Sophie B. Hawkins",
-          "url": "https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC"
-        }
-      ],
-      "duration_ms": 248893,
-      "name": "As I Lay Me Down",
-      "url": "https://open.spotify.com/track/6S8ZXzeXsfCj8qi9179McI"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 304960,
       "name": "Mama",
       "url": "https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Whaler",
+        "url": "https://open.spotify.com/album/2oKbwv9ClTQKWHHTKCqN59"
+      },
+      "artists": [
+        {
+          "name": "Sophie B. Hawkins",
+          "url": "https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC"
+        }
+      ],
+      "duration_ms": 248893,
+      "name": "As I Lay Me Down",
+      "url": "https://open.spotify.com/track/6S8ZXzeXsfCj8qi9179McI"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "All That Matters",
-        "url": "https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 280640,
-      "name": "Go the Distance",
-      "url": "https://open.spotify.com/track/3hS5RCp5EE1wUiiE7f8dM1"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 275426,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6ZNw9Cnc85OeHZrjMAZJfY"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "All That Matters",
+        "url": "https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 280640,
+      "name": "Go the Distance",
+      "url": "https://open.spotify.com/track/3hS5RCp5EE1wUiiE7f8dM1"
     },
     {
       "added_at": "2024-07-02 21:50:37",

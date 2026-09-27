@@ -1,12 +1,12 @@
 {
   "description": "we choose the bear",
-  "num_followers": 883748,
+  "num_followers": 884214,
   "original_name": "crash out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3cUmRmG+iaLrAypL/pyYWsHqbC",
+  "snapshot_id": "AAAAAJ7BhMb+OQnx5ZZahp6ksXPIxzAc",
   "tracks": [
     {
       "added_at": "2026-09-25 16:35:45",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-09-25 16:35:45",
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 210787,
-      "name": "Be Careful",
-      "url": "https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd"
-    },
-    {
-      "added_at": "2026-09-25 16:35:45",
-      "album": {
         "name": "All the Things She Said",
         "url": "https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
+    },
+    {
+      "added_at": "2026-09-25 16:35:45",
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 210787,
+      "name": "Be Careful",
+      "url": "https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd"
     }
   ],
   "unique_name": "crash out",

@@ -1,12 +1,12 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1253323,
+  "num_followers": 1253164,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAANpp7FFboiJ6iMCUNpqlNXjuXEf",
+  "snapshot_id": "AAAAAPRhniz4k/LgobMN+CYYyx6u86tt",
   "tracks": [
     {
       "added_at": "2026-08-19 21:13:46",
@@ -655,26 +655,6 @@
     {
       "added_at": "2026-08-19 21:13:46",
       "album": {
-        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 151805,
-      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
-    },
-    {
-      "added_at": "2026-08-19 21:13:46",
-      "album": {
         "name": "Hecho para ti",
         "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 152734,
       "name": "Hecho para ti",
       "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
+    },
+    {
+      "added_at": "2026-08-19 21:13:46",
+      "album": {
+        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 151805,
+      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
     },
     {
       "added_at": "2026-08-19 21:13:46",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2026-08-19 21:13:46",
       "album": {
+        "name": "Dumb Boy",
+        "url": "https://open.spotify.com/album/5EkTWCPU6bNaFGvodiYY05"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "duration_ms": 183307,
+      "name": "Dumb Boy",
+      "url": "https://open.spotify.com/track/1NnLLdGhBeQRZ8LNGM0CWb"
+    },
+    {
+      "added_at": "2026-08-19 21:13:46",
+      "album": {
         "name": "GANAS",
         "url": "https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 190843,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg"
-    },
-    {
-      "added_at": "2026-08-19 21:13:46",
-      "album": {
-        "name": "Dumb Boy",
-        "url": "https://open.spotify.com/album/5EkTWCPU6bNaFGvodiYY05"
-      },
-      "artists": [
-        {
-          "name": "ALMAS",
-          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
-        },
-        {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
-        }
-      ],
-      "duration_ms": 183307,
-      "name": "Dumb Boy",
-      "url": "https://open.spotify.com/track/1NnLLdGhBeQRZ8LNGM0CWb"
     },
     {
       "added_at": "2026-08-19 21:13:46",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2026-08-19 21:13:46",
       "album": {
+        "name": "SCORPIO",
+        "url": "https://open.spotify.com/album/63lPDlkhYUJdGIfInXAosy"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 227956,
+      "name": "SCORPIO",
+      "url": "https://open.spotify.com/track/4in4IMI3h8LIwawCha3JAv"
+    },
+    {
+      "added_at": "2026-08-19 21:13:46",
+      "album": {
         "name": "Un Polvito +",
         "url": "https://open.spotify.com/album/51j9nVeyDUYp2FlwhlSyzL"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 214742,
       "name": "Un Polvito +",
       "url": "https://open.spotify.com/track/2FgNhMMwYXRnsctqIcouMP"
-    },
-    {
-      "added_at": "2026-08-19 21:13:46",
-      "album": {
-        "name": "SCORPIO",
-        "url": "https://open.spotify.com/album/63lPDlkhYUJdGIfInXAosy"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 227956,
-      "name": "SCORPIO",
-      "url": "https://open.spotify.com/track/4in4IMI3h8LIwawCha3JAv"
     },
     {
       "added_at": "2026-08-19 21:13:46",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2026-08-19 21:13:46",
       "album": {
+        "name": "Do Not Disturb",
+        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 224073,
+      "name": "Meiomi",
+      "url": "https://open.spotify.com/track/7rjyxp9j8hSje07if1lBV7"
+    },
+    {
+      "added_at": "2026-08-19 21:13:46",
+      "album": {
         "name": "Ya no te quiero ver",
         "url": "https://open.spotify.com/album/1cZiPR4BvIiTr0x9P0zzP8"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 213555,
       "name": "Ya no te quiero ver",
       "url": "https://open.spotify.com/track/2DByHCKGgd1J66nJvChvtl"
-    },
-    {
-      "added_at": "2026-08-19 21:13:46",
-      "album": {
-        "name": "Do Not Disturb",
-        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 224073,
-      "name": "Meiomi",
-      "url": "https://open.spotify.com/track/7rjyxp9j8hSje07if1lBV7"
     },
     {
       "added_at": "2026-08-19 21:13:46",

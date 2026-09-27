@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Niniola
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,727 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,761 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 79 | [BE](https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [BE](https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP) | 2:34 |
 | 80 | [Makuhia](https://open.spotify.com/track/2Wk9nzP4CIZI8Z0OdHRoGw) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Makuhia](https://open.spotify.com/album/2sr4rRlKlSxFTHGF44gKRB) | 3:08 |
 
-Snapshot ID: `AAAAAEUkpl9HkhuiZUcwXWBehaNKYiLR`
+Snapshot ID: `AAAAABbEzc6sXp2VX1B8V8kv0cHxNRHg`

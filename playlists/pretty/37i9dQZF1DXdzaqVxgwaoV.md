@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > Desde septiembre se siente que viene diciembre 🧊 🎄 En portada: Pastor Lopez, Lisandro Meza y Rodolfo Aicardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,104 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,105 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 63 | [Las Pilanderas](https://open.spotify.com/track/41C90mKyPNawf6wPpznCLA) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Grandes Exitos](https://open.spotify.com/album/2RCsP96Pr5QBxBBRBvuobb) | 3:11 |
 | 64 | [El Enigma](https://open.spotify.com/track/5w103xRaBPfg8Y01zMyYCF) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Enigma](https://open.spotify.com/album/7fxDxuwVgluqecGwbP43Hc) | 2:17 |
 | 65 | [Oye](https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Dinamitazos Tropicales de Siempre](https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko) | 3:09 |
-| 66 | [CHENAVIDEÑO: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas](https://open.spotify.com/track/2miys5Vv0WHRj2fehIhpsF) | [Checo Acosta](https://open.spotify.com/artist/3idErFl9hCXFLxlXKhim3Q) | [CHENAVIDEÑO: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas](https://open.spotify.com/album/3xAxuGpPMomZyGbghtbuyL) | 3:51 |
-| 67 | [Caramelo Santo \(El Caramelito\)](https://open.spotify.com/track/3BVLhbhwdChPg3Wmb4IvGS) | [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87) | [Nuestras 30 Mejores Caciones](https://open.spotify.com/album/5D09nX6nUUjYInX3U2VfjY) | 2:36 |
+| 66 | [Caramelo Santo \(El Caramelito\)](https://open.spotify.com/track/3BVLhbhwdChPg3Wmb4IvGS) | [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87) | [Nuestras 30 Mejores Caciones](https://open.spotify.com/album/5D09nX6nUUjYInX3U2VfjY) | 2:36 |
+| 67 | [CHENAVIDEÑO: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas](https://open.spotify.com/track/2miys5Vv0WHRj2fehIhpsF) | [Checo Acosta](https://open.spotify.com/artist/3idErFl9hCXFLxlXKhim3Q) | [CHENAVIDEÑO: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas](https://open.spotify.com/album/3xAxuGpPMomZyGbghtbuyL) | 3:51 |
 | 68 | [Bandolera](https://open.spotify.com/track/2YJNj0MLrbtbb5oOpLj8TB) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [Recupera Tus Clasicos de Navidad](https://open.spotify.com/album/0nbTMDT4X3ZBgzFJfrx9yW) | 3:11 |
 | 69 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac) | [La Sabrosura Orquesta](https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb) | [Salsa Romántica: Lo Mejor de la Sabrosura](https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ) | 4:44 |
 | 70 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 79 | [Ojitos Hechiceros](https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 3:40 |
 | 80 | [Todo el Mundo Necesita un Beso](https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:11 |
 
-Snapshot ID: `AAAAAKM/Xm5gsSvurGZV554BfWrZCzGg`
+Snapshot ID: `AAAAABevowFCnC8Hx4CdKaeNEW/Ou4Zk`

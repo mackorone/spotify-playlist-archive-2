@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Hania Aamir
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,756 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,947 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 99 | [PARIS](https://open.spotify.com/track/5f6RgJQ5jJfWAieIBlcbvl) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [PARIS](https://open.spotify.com/album/2WwvijJA5sStVITnIJZOFX) | 1:59 |
 | 100 | [Jawani Iraqi](https://open.spotify.com/track/7DN3TsyWgLDY2tgUzczg1h) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE) | [Jawani Iraqi](https://open.spotify.com/album/2AjWHkv76563UmmMQ2BgpB) | 4:26 |
 
-Snapshot ID: `AAAAAONkJs6MkAqFfREdTrIQy5IcyMUC`
+Snapshot ID: `AAAAAAQxpMX4eDyQHgsGn+9tz1XKA9TE`

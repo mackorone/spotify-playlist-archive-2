@@ -6560,7 +6560,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 243757,
       "name": "\u0130ki Yabanc\u0131",
       "url": "https://open.spotify.com/track/7ziok35B6HXWDLMo4d0YjC"
@@ -9503,6 +9503,24 @@
     },
     {
       "album": {
+        "name": "Onursuz Ozanlar",
+        "url": "https://open.spotify.com/album/1pQ9HlR8Q2ZNlGcmU8lZD7"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011fba Yurt",
+          "url": "https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269746,
+      "name": "Onursuz Ozanlar",
+      "url": "https://open.spotify.com/track/3s06lkT7UGXZR8VO0m36zB"
+    },
+    {
+      "album": {
         "name": "Ortak",
         "url": "https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI"
       },
@@ -9964,6 +9982,24 @@
       "duration_ms": 162857,
       "name": "Sana",
       "url": "https://open.spotify.com/track/1HRq9gouGsn78384HYBKsN"
+    },
+    {
+      "album": {
+        "name": "Sana 1 \u015eark\u0131",
+        "url": "https://open.spotify.com/album/2TW8bZGccQtMir0nPLnHAR"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221077,
+      "name": "Sana 1 \u015eark\u0131",
+      "url": "https://open.spotify.com/track/2jwCkI6wnicF7JjiA6F2Kh"
     },
     {
       "album": {
@@ -10710,7 +10746,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 178666,
       "name": "Sev Seveceksen",
       "url": "https://open.spotify.com/track/6WUrBOSZKPjtTU1DWCkUwn"

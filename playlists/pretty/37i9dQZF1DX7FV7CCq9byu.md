@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,284 likes - 144 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,288 likes - 144 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 143 | [Länge Leve \(Sommaren\)](https://open.spotify.com/track/2CSftoMORIG7yvKRo4ijJ2) | [PA](https://open.spotify.com/artist/7lajTunyA5lTd0gKNKXrZn) | [Länge Leve \(Sommaren\)](https://open.spotify.com/album/32xYbPovjxwixEB2EAJ6Tu) | 2:12 |
 | 144 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
 
-Snapshot ID: `AAAAAAT11awjLoJBrNlYQOT+5EJ9p7Nm`
+Snapshot ID: `AAAAAH/VvtJplPsFy+6prXCyHusRAGTM`

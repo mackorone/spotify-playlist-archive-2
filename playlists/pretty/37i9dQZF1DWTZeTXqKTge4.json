@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: K!RA OJI, Nicky Savage",
-  "num_followers": 89616,
+  "num_followers": 89615,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADaLB4Wymvv7fl+4OyWsWg9jbwsf",
+  "snapshot_id": "AAAAAF+BC+EZQGfcuGqT9Iqp8Tsg6IuW",
   "tracks": [
     {
       "added_at": "2026-09-25 04:04:05",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-09-25 04:04:05",
       "album": {
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "duration_ms": 195473,
+      "name": "SAY LESS",
+      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
+    },
+    {
+      "added_at": "2026-09-25 04:04:05",
+      "album": {
         "name": "DISCONTINU\u00c9",
         "url": "https://open.spotify.com/album/683y6ASL2p9KrgLO8w6Brh"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 175476,
       "name": "DISCONTINU\u00c9",
       "url": "https://open.spotify.com/track/3O6o8MajhlS4IcBISakc1b"
-    },
-    {
-      "added_at": "2026-09-25 04:04:05",
-      "album": {
-        "name": "SAY LESS",
-        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
-      },
-      "artists": [
-        {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
-        }
-      ],
-      "duration_ms": 195473,
-      "name": "SAY LESS",
-      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
     },
     {
       "added_at": "2026-09-25 04:04:05",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-09-25 04:04:05",
       "album": {
+        "name": "BORA BORA",
+        "url": "https://open.spotify.com/album/1B6OaZymaEz7rBjNIVueTw"
+      },
+      "artists": [
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "BORA BORA",
+      "url": "https://open.spotify.com/track/3dOiWAMvlaMEbXjWklecCC"
+    },
+    {
+      "added_at": "2026-09-25 04:04:05",
+      "album": {
         "name": "GAMAN",
         "url": "https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe"
       },
@@ -559,26 +575,6 @@
     {
       "added_at": "2026-09-25 04:04:05",
       "album": {
-        "name": "PIKET",
-        "url": "https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR"
-      },
-      "artists": [
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        },
-        {
-          "name": "Tizzo",
-          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
-        }
-      ],
-      "duration_ms": 207915,
-      "name": "PIKET",
-      "url": "https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3"
-    },
-    {
-      "added_at": "2026-09-25 04:04:05",
-      "album": {
         "name": "Le love c'est ce que je chase",
         "url": "https://open.spotify.com/album/62LH2c3fYUdAITTkYT5ua8"
       },
@@ -599,18 +595,22 @@
     {
       "added_at": "2026-09-25 04:04:05",
       "album": {
-        "name": "BORA BORA",
-        "url": "https://open.spotify.com/album/1B6OaZymaEz7rBjNIVueTw"
+        "name": "PIKET",
+        "url": "https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR"
       },
       "artists": [
         {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
         }
       ],
-      "duration_ms": 153000,
-      "name": "BORA BORA",
-      "url": "https://open.spotify.com/track/3dOiWAMvlaMEbXjWklecCC"
+      "duration_ms": 207915,
+      "name": "PIKET",
+      "url": "https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3"
     },
     {
       "added_at": "2026-09-25 04:04:05",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-09-25 04:04:05",
       "album": {
+        "name": "MON TOUR",
+        "url": "https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG"
+      },
+      "artists": [
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "MON TOUR",
+      "url": "https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP"
+    },
+    {
+      "added_at": "2026-09-25 04:04:05",
+      "album": {
         "name": "Berger",
         "url": "https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2026-09-25 04:04:05",
       "album": {
-        "name": "MON TOUR",
-        "url": "https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG"
+        "name": "FREE MOI",
+        "url": "https://open.spotify.com/album/1UnHdl7psxcwXkNAbavqTZ"
       },
       "artists": [
         {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
         }
       ],
-      "duration_ms": 151384,
-      "name": "MON TOUR",
-      "url": "https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP"
+      "duration_ms": 158048,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3"
     },
     {
       "added_at": "2026-09-25 04:04:05",
@@ -707,22 +723,6 @@
       "duration_ms": 152673,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7"
-    },
-    {
-      "added_at": "2026-09-25 04:04:05",
-      "album": {
-        "name": "FREE MOI",
-        "url": "https://open.spotify.com/album/1UnHdl7psxcwXkNAbavqTZ"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "Picky",
-      "url": "https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3"
     },
     {
       "added_at": "2026-09-25 04:04:05",
@@ -879,22 +879,22 @@
     {
       "added_at": "2026-09-25 04:04:05",
       "album": {
-        "name": "Parfait pays",
-        "url": "https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf"
+        "name": "Disque D'or",
+        "url": "https://open.spotify.com/album/7vLP5rnSMQj5JhvjioSYbr"
       },
       "artists": [
         {
-          "name": "P'tit Belliveau",
-          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
         },
         {
-          "name": "kinji00",
-          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
         }
       ],
-      "duration_ms": 139997,
-      "name": "Parfait pays",
-      "url": "https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM"
+      "duration_ms": 195086,
+      "name": "Disque D'or",
+      "url": "https://open.spotify.com/track/5ey3Qurq3BSx0hfhkLRjo9"
     },
     {
       "added_at": "2026-09-25 04:04:05",
@@ -919,22 +919,22 @@
     {
       "added_at": "2026-09-25 04:04:05",
       "album": {
-        "name": "Disque D'or",
-        "url": "https://open.spotify.com/album/7vLP5rnSMQj5JhvjioSYbr"
+        "name": "Parfait pays",
+        "url": "https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf"
       },
       "artists": [
         {
-          "name": "Tel Kel",
-          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
         },
         {
-          "name": "Taktika",
-          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+          "name": "kinji00",
+          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
         }
       ],
-      "duration_ms": 195086,
-      "name": "Disque D'or",
-      "url": "https://open.spotify.com/track/5ey3Qurq3BSx0hfhkLRjo9"
+      "duration_ms": 139997,
+      "name": "Parfait pays",
+      "url": "https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM"
     },
     {
       "added_at": "2026-09-25 04:04:05",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-09-25 04:04:05",
       "album": {
+        "name": "Big Wop - Mile-End sur la map",
+        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 210695,
+      "name": "Fascinant",
+      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
+    },
+    {
+      "added_at": "2026-09-25 04:04:05",
+      "album": {
         "name": "SEPT ANS DE MALHEUR (titre temporaire)",
         "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 245950,
       "name": "SEPT ANS DE MALHEUR (titre permanent)",
       "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
-    },
-    {
-      "added_at": "2026-09-25 04:04:05",
-      "album": {
-        "name": "Big Wop - Mile-End sur la map",
-        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 210695,
-      "name": "Fascinant",
-      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
     },
     {
       "added_at": "2026-09-25 04:04:05",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-09-25 04:04:05",
       "album": {
+        "name": "i was gone",
+        "url": "https://open.spotify.com/album/5Rrmr45Yfy9dqttbh5k1ia"
+      },
+      "artists": [
+        {
+          "name": "Maky Lavender",
+          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
+        },
+        {
+          "name": "David Campana",
+          "url": "https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "i was gone",
+      "url": "https://open.spotify.com/track/4tc63itlGrACm0prjhHD8v"
+    },
+    {
+      "added_at": "2026-09-25 04:04:05",
+      "album": {
         "name": "\u00c0 la prochaine fois",
         "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 152187,
       "name": "GENS DU PAYS",
       "url": "https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB"
-    },
-    {
-      "added_at": "2026-09-25 04:04:05",
-      "album": {
-        "name": "i was gone",
-        "url": "https://open.spotify.com/album/5Rrmr45Yfy9dqttbh5k1ia"
-      },
-      "artists": [
-        {
-          "name": "Maky Lavender",
-          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
-        },
-        {
-          "name": "David Campana",
-          "url": "https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "i was gone",
-      "url": "https://open.spotify.com/track/4tc63itlGrACm0prjhHD8v"
     },
     {
       "added_at": "2026-09-25 04:04:05",

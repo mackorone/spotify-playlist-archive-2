@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,775 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,768 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 99 | [Helmi](https://open.spotify.com/track/61dybiXP0dqHsqNdoPkMfy) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [SUOMI SOIMAAN](https://open.spotify.com/album/6S7ManFfpG2utmKFgyyDtK) | 3:38 |
 | 100 | [Oo mun kaa](https://open.spotify.com/track/0gUeH4lixEwsW1iNWER5Fo) | [Maija Vilkkumaa](https://open.spotify.com/artist/4LhCodjo3UFI0Bu0ZYuOP5) | [Oo mun kaa](https://open.spotify.com/album/2TFvaZPo2eCKlHpE3q4LHX) | 3:41 |
 
-Snapshot ID: `AAAAACLm7Jq5EPNeQXAOrix4wwwFap/p`
+Snapshot ID: `AAAAAIhz+wcfVfygWfMRUHo1yvHSx6XM`

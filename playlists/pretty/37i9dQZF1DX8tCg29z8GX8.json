@@ -1,12 +1,12 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 21866,
+  "num_followers": 21885,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEktBtpAdv3Mov8ogLNhIecrFW0i",
+  "snapshot_id": "AAAAAECAo4rA3yoJLAIEN5zsEMXFO+dd",
   "tracks": [
     {
       "added_at": "2026-09-25 09:50:11",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-09-25 09:50:11",
       "album": {
-        "name": "Rent Free",
-        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 136842,
-      "name": "Rent Free",
-      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
-    },
-    {
-      "added_at": "2026-09-25 09:50:11",
-      "album": {
         "name": "Lonely World",
         "url": "https://open.spotify.com/album/09FHjhBG2ymGRc7IHEKyZD"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 186240,
       "name": "Lonely World",
       "url": "https://open.spotify.com/track/0wA8CNc2GD1YIQyXEfbj4t"
+    },
+    {
+      "added_at": "2026-09-25 09:50:11",
+      "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
     },
     {
       "added_at": "2026-09-25 09:50:11",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-09-25 09:50:11",
       "album": {
-        "name": "365 Days",
-        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188041,
-      "name": "365 Days",
-      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
-    },
-    {
-      "added_at": "2026-09-25 09:50:11",
-      "album": {
         "name": "Gymnastic",
         "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 149543,
       "name": "Pancake",
       "url": "https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j"
+    },
+    {
+      "added_at": "2026-09-25 09:50:11",
+      "album": {
+        "name": "365 Days",
+        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188041,
+      "name": "365 Days",
+      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
     },
     {
       "added_at": "2026-09-25 09:50:11",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-09-25 09:50:11",
       "album": {
+        "name": "The Interface (Shatta Music Genre)",
+        "url": "https://open.spotify.com/album/6m4SzULX5PaOIw6zQKmyFl"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 151288,
+      "name": "Yawa Ni (shatta music)",
+      "url": "https://open.spotify.com/track/7IveKHTxWlPKm3TJOBqo27"
+    },
+    {
+      "added_at": "2026-09-25 09:50:11",
+      "album": {
         "name": "Where Do We Go From Here",
         "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 143119,
       "name": "IDK (with Sarkodie)",
       "url": "https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr"
-    },
-    {
-      "added_at": "2026-09-25 09:50:11",
-      "album": {
-        "name": "The Interface (Shatta Music Genre)",
-        "url": "https://open.spotify.com/album/6m4SzULX5PaOIw6zQKmyFl"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 151288,
-      "name": "Yawa Ni (shatta music)",
-      "url": "https://open.spotify.com/track/7IveKHTxWlPKm3TJOBqo27"
     },
     {
       "added_at": "2026-09-25 09:50:11",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-09-25 09:50:11",
       "album": {
+        "name": "Their Back",
+        "url": "https://open.spotify.com/album/0P7Uw0YVBINiCs68fJ5ax6"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 161320,
+      "name": "Their Back",
+      "url": "https://open.spotify.com/track/7naxFaRA0NQUTOGaSSKqQf"
+    },
+    {
+      "added_at": "2026-09-25 09:50:11",
+      "album": {
         "name": "This Is Not the Tape III",
         "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2026-09-25 09:50:11",
       "album": {
-        "name": "Their Back",
-        "url": "https://open.spotify.com/album/0P7Uw0YVBINiCs68fJ5ax6"
+        "name": "VOICE OF THE CROWN (African Dancehall)",
+        "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
       },
       "artists": [
         {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         }
       ],
-      "duration_ms": 161320,
-      "name": "Their Back",
-      "url": "https://open.spotify.com/track/7naxFaRA0NQUTOGaSSKqQf"
+      "duration_ms": 175682,
+      "name": "STREET CROWN (African Dancehall)",
+      "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
     },
     {
       "added_at": "2026-09-25 09:50:11",
@@ -895,22 +911,6 @@
       "duration_ms": 301530,
       "name": "BALENCIAGA II",
       "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
-    },
-    {
-      "added_at": "2026-09-25 09:50:11",
-      "album": {
-        "name": "VOICE OF THE CROWN (African Dancehall)",
-        "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 175682,
-      "name": "STREET CROWN (African Dancehall)",
-      "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
     },
     {
       "added_at": "2026-09-25 09:50:11",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-09-25 09:50:11",
       "album": {
-        "name": "CAME OF AGE",
-        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 167067,
-      "name": "EASY",
-      "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
-    },
-    {
-      "added_at": "2026-09-25 09:50:11",
-      "album": {
         "name": "WALK WITH ME",
         "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 221418,
       "name": "Someday Soon",
       "url": "https://open.spotify.com/track/1tefeAORT76SRH3r4Qoj0g"
+    },
+    {
+      "added_at": "2026-09-25 09:50:11",
+      "album": {
+        "name": "CAME OF AGE",
+        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 167067,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
     },
     {
       "added_at": "2026-09-25 09:50:11",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-09-25 09:50:11",
       "album": {
-        "name": "CAME OF AGE",
-        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 143592,
-      "name": "MENTUMI NKA",
-      "url": "https://open.spotify.com/track/347kmwy6oj6or4Nmo0Ao3v"
-    },
-    {
-      "added_at": "2026-09-25 09:50:11",
-      "album": {
         "name": "Where Do We Go From Here",
         "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 157388,
       "name": "Lord Knows",
       "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
+    },
+    {
+      "added_at": "2026-09-25 09:50:11",
+      "album": {
+        "name": "CAME OF AGE",
+        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 143592,
+      "name": "MENTUMI NKA",
+      "url": "https://open.spotify.com/track/347kmwy6oj6or4Nmo0Ao3v"
     },
     {
       "added_at": "2026-09-25 09:50:11",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-09-25 09:50:11",
       "album": {
-        "name": "TREASURE",
-        "url": "https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "TREASURE",
-      "url": "https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW"
-    },
-    {
-      "added_at": "2026-09-25 09:50:11",
-      "album": {
         "name": "Aso II",
         "url": "https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 266967,
       "name": "Aso II",
       "url": "https://open.spotify.com/track/2OAZTmQH3HwsVzDYeK3LDw"
+    },
+    {
+      "added_at": "2026-09-25 09:50:11",
+      "album": {
+        "name": "TREASURE",
+        "url": "https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "TREASURE",
+      "url": "https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW"
     },
     {
       "added_at": "2026-09-25 09:50:11",
@@ -1287,22 +1287,22 @@
     {
       "added_at": "2026-09-25 09:50:11",
       "album": {
-        "name": "Screaming Beauty",
-        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
       },
       "artists": [
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
         },
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
         }
       ],
-      "duration_ms": 161454,
-      "name": "Screaming Beauty",
-      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
+      "duration_ms": 173033,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
     },
     {
       "added_at": "2026-09-25 09:50:11",
@@ -1327,22 +1327,22 @@
     {
       "added_at": "2026-09-25 09:50:11",
       "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
+        "name": "Screaming Beauty",
+        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
       },
       "artists": [
         {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         },
         {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 173033,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
+      "duration_ms": 161454,
+      "name": "Screaming Beauty",
+      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
     },
     {
       "added_at": "2026-09-25 09:50:11",

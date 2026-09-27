@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 88 | [Carried Away](https://open.spotify.com/track/19lqaiN82kquWMFKoN9a2Y) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Carried Away](https://open.spotify.com/album/4XAILUw9uSKXewYYv6DTMS) | 3:07 |
 | 89 | [Barstool Blues](https://open.spotify.com/track/0Xef5Z0zIEFDW98PEAJTYQ) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT), [Califone](https://open.spotify.com/artist/3mv2eHwrIONSkviASDMRMa) | [Barstool Blues](https://open.spotify.com/album/06BhJhLi5uqQ2AkjPuClvW) | 3:03 |
 
-Snapshot ID: `AAAAAKL8JOnACWMljrFX7Kuoc8m7Fhtk`
+Snapshot ID: `AAAAACzcLexfBiYn7DTIhTr1Wl08v5qc`

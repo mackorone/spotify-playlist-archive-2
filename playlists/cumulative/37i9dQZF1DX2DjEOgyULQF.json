@@ -4240,7 +4240,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 148444,
       "name": "Incandescent",
       "url": "https://open.spotify.com/track/4kv0JwNazt1KbOw9Vggcbd"
@@ -6444,6 +6444,24 @@
       "duration_ms": 156800,
       "name": "Recovery",
       "url": "https://open.spotify.com/track/6kB7GQOem87z4FAbJ2Yqcf"
+    },
+    {
+      "album": {
+        "name": "Rejuvinated Mind",
+        "url": "https://open.spotify.com/album/3bBXYzvB4NyzhN8hRU1Sz2"
+      },
+      "artists": [
+        {
+          "name": "Ethereva",
+          "url": "https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Rejuvinated Mind",
+      "url": "https://open.spotify.com/track/3WBWS00Bwb3XIw99qkPczs"
     },
     {
       "album": {

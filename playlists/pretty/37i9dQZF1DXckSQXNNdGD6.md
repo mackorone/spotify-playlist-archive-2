@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Yoly Saa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,979 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,978 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 49 | [desayunarte](https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [pop blandito](https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi) | 3:08 |
 | 50 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
 
-Snapshot ID: `AAAAAKxgUfe2wfhCFqFj2bn0+KrPWHTz`
+Snapshot ID: `AAAAAAhTuAYeCRnTdPb6osUQSoBZ3oAj`

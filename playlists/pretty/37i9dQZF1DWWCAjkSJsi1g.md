@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,814 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,828 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 66 | [What's It Gonna Be \(feat\. Platnum\)](https://open.spotify.com/track/2xUjNGHjJOBcpTf7dYx4EY) | [H "two" O](https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW), [Platnum](https://open.spotify.com/artist/42Yg24I2eo5UhSxGMTP6zZ) | [What's It Gonna Be \(feat\. Platnum\)](https://open.spotify.com/album/3UJRf8qlSmPT6JXnd2y6oX) | 3:27 |
 | 67 | [Gotta Get Thru This \- D'N'D Radio Edit](https://open.spotify.com/track/023lag1AgeOf7YChojecRu) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX), [D'N'D Productions](https://open.spotify.com/artist/7cp62T0Av3mTgy0imKzat7) | [Gotta Get Thru This](https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL) | 2:41 |
 | 68 | [Beautiful Girls \- Radio Edit](https://open.spotify.com/track/4Tf94tAHtlQxjbeeyU3y7C) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Beautiful Girls](https://open.spotify.com/album/3xNkswNSrzwSAIb6qleRrA) | 3:45 |
-| 69 | [If It's Lovin' That You Want](https://open.spotify.com/track/1Q29dre9FCspRSarHziizl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 3:28 |
-| 70 | [Babycakes](https://open.spotify.com/track/0dAn58pe2GWDTlqa2Th4mP) | [3 Of A Kind](https://open.spotify.com/artist/0WG74hoaVTaNb3hx3yRqb1) | [Babycakes](https://open.spotify.com/album/4sW39hh7uYqe8zDg7ylPAW) | 2:34 |
+| 69 | [Babycakes](https://open.spotify.com/track/0dAn58pe2GWDTlqa2Th4mP) | [3 Of A Kind](https://open.spotify.com/artist/0WG74hoaVTaNb3hx3yRqb1) | [Babycakes](https://open.spotify.com/album/4sW39hh7uYqe8zDg7ylPAW) | 2:34 |
+| 70 | [If It's Lovin' That You Want](https://open.spotify.com/track/1Q29dre9FCspRSarHziizl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 3:28 |
 | 71 | [In The Morning \(Let Your Love Come In\) \- Original Radio Edit](https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84) | [Egypt](https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86) | [In The Morning \(Let Your Love Come In\)](https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk) | 2:14 |
 | 72 | [Tipsy \- Radio Mix](https://open.spotify.com/track/2lVDc57IMK6nypg2iuEWVR) | [J\-Kwon](https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw) | [Tipsy](https://open.spotify.com/album/5Woeg9DhPiMTP0MwKRqT0t) | 4:03 |
 | 73 | [It Wasn't Me](https://open.spotify.com/track/0ec2YqaLnasKAES0iWMmhy) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rik Rok](https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ) | [The Boombastic Collection \- Best Of Shaggy \(International Version\)](https://open.spotify.com/album/0JFoLERkkPF0TMg5XnMjDs) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 99 | [Dip It Low](https://open.spotify.com/track/3CldFq28sCroIcmc42pRmZ) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Girls' Night Out](https://open.spotify.com/album/25akGACCyuW80OnWrv8kjJ) | 3:16 |
 | 100 | [Bump, Bump, Bump \(feat\. P\. Diddy\)](https://open.spotify.com/track/5tKbrFMvQJlG1reK5aDmkc) | [B2K](https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Playlist: The Very Best Of Omarion](https://open.spotify.com/album/2fWjB2sGEPtte5tWTQlU4v) | 4:39 |
 
-Snapshot ID: `AAAAAIhyTaAKLgQOTA60WtijR33HZQpY`
+Snapshot ID: `AAAAAOszYjbPyfpTHOcyST8+a83GLvyV`

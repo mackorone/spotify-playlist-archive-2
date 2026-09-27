@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 748169,
+  "num_followers": 748201,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJvZlPlN4aSrnZxkOZAEHzUN+Im",
+  "snapshot_id": "AAAAAJ7qYPx5XfWW/TOrfPZ7kYvNIijD",
   "tracks": [
     {
       "added_at": "2025-11-07 18:47:10",
@@ -635,18 +635,18 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Nos Arcos da Lapa",
-        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
+        "name": "Ao Vivo Em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
       "artists": [
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 237440,
-      "name": "Final De Tarde",
-      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
+      "duration_ms": 174653,
+      "name": "10% - Ao Vivo",
+      "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -667,18 +667,18 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Ao Vivo Em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
+        "name": "Nos Arcos da Lapa",
+        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 174653,
-      "name": "10% - Ao Vivo",
-      "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
+      "duration_ms": 237440,
+      "name": "Final De Tarde",
+      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Com ou Sem Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 201856,
-      "name": "Com ou Sem Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "De Copo Em Copo (Ao Vivo)",
         "url": "https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 158865,
       "name": "De Copo Em Copo - Ao Vivo",
       "url": "https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "Com ou Sem Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Com ou Sem Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
     },
     {
       "added_at": "2025-11-07 18:47:10",

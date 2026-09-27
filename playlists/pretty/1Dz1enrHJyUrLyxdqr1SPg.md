@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-[enilsounds](https://open.spotify.com/user/enilsounds) - 2,027 likes - 93 songs - 5 hr 18 min
+[enilsounds](https://open.spotify.com/user/enilsounds) - 2,027 likes - 94 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,5 +101,6 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 91 | [I'm Bored x](https://open.spotify.com/track/1fRonpKCl5SRNccAHOEvl0) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [I'm Bored x](https://open.spotify.com/album/6pPoIqEGFHEEu0FGE23UWz) | 4:08 |
 | 92 | [The Emigrants](https://open.spotify.com/track/330lJbLiWL32mTDpYS8SWL) | [Jay's Expedition](https://open.spotify.com/artist/0E2u7IhwC4nHDtw6oG29jW) | [The Emigrants](https://open.spotify.com/album/3WjBPCKdz5Pz0MmXkeBfTJ) | 3:28 |
 | 93 | [System Fallin](https://open.spotify.com/track/21SPd4SsKN5BpE5QL0NwHU) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [System Fallin](https://open.spotify.com/album/2mulFAqmG4VU57DNtHnjUZ) | 4:26 |
+| 94 | [In the Zone](https://open.spotify.com/track/0il4gfhVGuKu1oMG6PcRhr) | [MaXimum Boost](https://open.spotify.com/artist/0turMaNvhFbQANB1QKyvmN) | [In the Zone](https://open.spotify.com/album/4dZJvmT95nDQ6tT0emGUEm) | 5:19 |
 
-Snapshot ID: `AABj2GroTDlCgMKBed/dAt22TNSPcNHA`
+Snapshot ID: `AABj2bECPiu2Rsbby9Cn2J98Q2Q5Bz5g`

@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1068845,
+  "num_followers": 1068834,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKT8M3Q2picErk8rqXBo5V78gzMV",
+  "snapshot_id": "AAAAAPTtZQZHxFKZclW81L5exaZOLz1Z",
   "tracks": [
     {
       "added_at": "2026-09-18 04:01:42",
@@ -171,18 +171,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
+        "name": "The Last Season of America",
+        "url": "https://open.spotify.com/album/5KP5qRIWaVzDdC3tcWvgyv"
       },
       "artists": [
         {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        },
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Dark and Stormy",
-      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
+      "duration_ms": 260938,
+      "name": "El Camino",
+      "url": "https://open.spotify.com/track/7fHTwRhv6K9xyi01H92Ts2"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -207,6 +211,22 @@
       "duration_ms": 236903,
       "name": "Hound Of The Strays",
       "url": "https://open.spotify.com/track/5yQRx5BYFikwEIRrQhM8ZM"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -339,26 +359,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "The Last Season of America",
-        "url": "https://open.spotify.com/album/5KP5qRIWaVzDdC3tcWvgyv"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        },
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 260938,
-      "name": "El Camino",
-      "url": "https://open.spotify.com/track/7fHTwRhv6K9xyi01H92Ts2"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Act I",
         "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
       },
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Blacksnake Blues",
+        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 674000,
+      "name": "Blacksnake Blues",
+      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Hand It Over (feat. Soweto Gospel Choir)",
         "url": "https://open.spotify.com/album/7hAjtZyH70skknhXFjxcRI"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 203232,
       "name": "Hand It Over (feat. Soweto Gospel Choir)",
       "url": "https://open.spotify.com/track/01SSG2COqot9jpxRBS9kLU"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Blacksnake Blues",
-        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 674000,
-      "name": "Blacksnake Blues",
-      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Room On The Porch",
         "url": "https://open.spotify.com/album/6EALtPtZMwrtaKVOtvJFg7"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 303765,
       "name": "Better Than Ever [Feat. Wendy Moten]",
       "url": "https://open.spotify.com/track/3xNy8TMHYO6bhrfoHYASuO"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -715,22 +715,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Close To Me (with Madison Hughes)",
-        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/46k1LmapSWGKQWalvlFPNQ"
       },
       "artists": [
         {
-          "name": "The Deltaz",
-          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
-        },
-        {
-          "name": "Madison Hughes",
-          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 178869,
-      "name": "Close To Me (with Madison Hughes)",
-      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
+      "duration_ms": 296380,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/6DaUU43SjEQuCk9d67bxPr"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -751,34 +747,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Who Am I",
-        "url": "https://open.spotify.com/album/46k1LmapSWGKQWalvlFPNQ"
+        "name": "Close To Me (with Madison Hughes)",
+        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
       },
       "artists": [
         {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 296380,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/6DaUU43SjEQuCk9d67bxPr"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Turn Me In",
-        "url": "https://open.spotify.com/album/6zrmW3nyL6XUYS6nYSQ8sW"
-      },
-      "artists": [
+          "name": "The Deltaz",
+          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
+        },
         {
-          "name": "Leon Majcen",
-          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
         }
       ],
-      "duration_ms": 207880,
-      "name": "Turn Me In",
-      "url": "https://open.spotify.com/track/4KgTaSE7vyf2fWGEG6RJYA"
+      "duration_ms": 178869,
+      "name": "Close To Me (with Madison Hughes)",
+      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -815,18 +799,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
+        "name": "Turn Me In",
+        "url": "https://open.spotify.com/album/6zrmW3nyL6XUYS6nYSQ8sW"
       },
       "artists": [
         {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
         }
       ],
-      "duration_ms": 273666,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
+      "duration_ms": 207880,
+      "name": "Turn Me In",
+      "url": "https://open.spotify.com/track/4KgTaSE7vyf2fWGEG6RJYA"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -843,6 +827,22 @@
       "duration_ms": 187027,
       "name": "More Than Love",
       "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Upside",
         "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 301395,
       "name": "Upside",
       "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Out of All the Stars",
-        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
-      },
-      "artists": [
-        {
-          "name": "Deltaphonic",
-          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
-        }
-      ],
-      "duration_ms": 239241,
-      "name": "Out of All the Stars",
-      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "White Jesus Black Problems",
         "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 236219,
       "name": "Oh Betty",
       "url": "https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Out of All the Stars",
+        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "duration_ms": 239241,
+      "name": "Out of All the Stars",
+      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/5oWqmVsxrWqqqUBBTEKsbr"
-      },
-      "artists": [
-        {
-          "name": "Kam Franklin",
-          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
-        }
-      ],
-      "duration_ms": 192877,
-      "name": "A Heathen's Hymn",
-      "url": "https://open.spotify.com/track/0XWpd5TVLbIzAs2MLVhv2X"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Flang Dang",
         "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/5oWqmVsxrWqqqUBBTEKsbr"
+      },
+      "artists": [
+        {
+          "name": "Kam Franklin",
+          "url": "https://open.spotify.com/artist/65gyjFbvFFUqcTBliaFo40"
+        }
+      ],
+      "duration_ms": 192877,
+      "name": "A Heathen's Hymn",
+      "url": "https://open.spotify.com/track/0XWpd5TVLbIzAs2MLVhv2X"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "You Still Got Me",
         "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 260458,
       "name": "You Still Got Me - Edit",
       "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8"
-      },
-      "artists": [
-        {
-          "name": "Mica Millar",
-          "url": "https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9"
-        }
-      ],
-      "duration_ms": 323826,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1215,22 +1199,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "The Mule",
-        "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8"
       },
       "artists": [
         {
-          "name": "The Mystix",
-          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
-        },
-        {
-          "name": "Larry Campbell",
-          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
+          "name": "Mica Millar",
+          "url": "https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9"
         }
       ],
-      "duration_ms": 180150,
-      "name": "The Mule",
-      "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
+      "duration_ms": 323826,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1247,6 +1227,26 @@
       "duration_ms": 234266,
       "name": "Out for Blood",
       "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "The Mule",
+        "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
+      },
+      "artists": [
+        {
+          "name": "The Mystix",
+          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+        },
+        {
+          "name": "Larry Campbell",
+          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
+        }
+      ],
+      "duration_ms": 180150,
+      "name": "The Mule",
+      "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Best Believe",
-        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 228192,
-      "name": "Best Believe",
-      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Shoulda Been",
         "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Best Believe",
+        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 228192,
+      "name": "Best Believe",
+      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Days of Mellow",
         "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 154980,
       "name": "Days of Mellow",
       "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Million Voices Whisper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
-      },
-      "artists": [
-        {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        }
-      ],
-      "duration_ms": 261760,
-      "name": "Back Where I Started",
-      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Million Voices Whisper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
+      },
+      "artists": [
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "Back Where I Started",
+      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 227453,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Death Rolls Like Thunder",
-        "url": "https://open.spotify.com/album/27DdUVPjWQ8AqbeXeWcAAU"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        }
-      ],
-      "duration_ms": 223366,
-      "name": "Death Rolls Like Thunder",
-      "url": "https://open.spotify.com/track/6ZyHxMxi6qNZMUYwVZqyLF"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Death Rolls Like Thunder",
+        "url": "https://open.spotify.com/album/27DdUVPjWQ8AqbeXeWcAAU"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        }
+      ],
+      "duration_ms": 223366,
+      "name": "Death Rolls Like Thunder",
+      "url": "https://open.spotify.com/track/6ZyHxMxi6qNZMUYwVZqyLF"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Love in the Lead",
         "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 195885,
       "name": "Love in the Lead",
       "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "The Circle Session, 2023",
-        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 216838,
-      "name": "Oceans Of Emotions - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "The Circle Session, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "The Hammer & The Rose",
         "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 247720,
       "name": "Tonight Belongs to You",
       "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Days Of Unrest",
-        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Can\u2019t Stand Still",
-      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1535,6 +1519,22 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Days Of Unrest",
+        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Can\u2019t Stand Still",
+      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Love On My Brain",
+        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 273121,
+      "name": "Love On My Brain",
+      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Love On My Brain",
-        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
       },
       "artists": [
         {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+          "name": "Jovin Webb",
+          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
         }
       ],
-      "duration_ms": 273121,
-      "name": "Love On My Brain",
-      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
+      "duration_ms": 278457,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1635,22 +1651,6 @@
       "duration_ms": 288256,
       "name": "Muddy Water",
       "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
-      },
-      "artists": [
-        {
-          "name": "Jovin Webb",
-          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Bring Me Back Home Again",
-        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
+        "name": "Companions",
+        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
       },
       "artists": [
         {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
         }
       ],
-      "duration_ms": 223173,
-      "name": "Bring Me Back Home Again",
-      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
+      "duration_ms": 225106,
+      "name": "My Own Disguise",
+      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
     },
     {
       "added_at": "2026-09-18 04:01:42",

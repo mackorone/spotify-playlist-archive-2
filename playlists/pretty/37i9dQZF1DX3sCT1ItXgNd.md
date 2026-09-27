@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Shakira, Maluma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,252 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,177 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Inglés En Miami](https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 3:22 |
 | 50 | [Ven y báilame](https://open.spotify.com/track/21bkNxJgn6792MAcKBojzk) | [Guille Toledano](https://open.spotify.com/artist/3e2lnsMUQvjNOUmh60siv7) | [Ven y báilame](https://open.spotify.com/album/5SXnKh3hpOiZ1cP9WPwYvZ) | 2:43 |
 
-Snapshot ID: `AAAAACuW5Au3Rqw87Hlro+eWEVMITQQw`
+Snapshot ID: `AAAAAJIjJVW3hDToFcowy7st9PmJUNhK`

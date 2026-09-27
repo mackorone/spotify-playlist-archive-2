@@ -6662,7 +6662,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-27",
       "duration_ms": 146029,
       "name": "SexyBack - TechnoBack",
       "url": "https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo"
@@ -7650,6 +7650,28 @@
       "duration_ms": 358024,
       "name": "Thirst Trap",
       "url": "https://open.spotify.com/track/1VsnYd3NzzOgxIVqisMAWz"
+    },
+    {
+      "album": {
+        "name": "THIS IS NOT HOUSE",
+        "url": "https://open.spotify.com/album/1CuUS1wWPY004n33gEUUmM"
+      },
+      "artists": [
+        {
+          "name": "SLVL",
+          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
+        },
+        {
+          "name": "Teletech",
+          "url": "https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "THIS IS NOT HOUSE",
+      "url": "https://open.spotify.com/track/6wGN7pDziScOy42Rye1qvC"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "per spingere come veri gym bro e gym sis",
-  "num_followers": 372369,
+  "num_followers": 372386,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAICPjo2m7jmrLd6Lc2M5JdK1r1lg",
+  "snapshot_id": "AAAAAO55iXpf3xYpLOZasAoc99s+cUXS",
   "tracks": [
     {
       "added_at": "2026-09-03 22:02:58",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-09-03 22:02:58",
       "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "added_at": "2026-09-03 22:02:58",
+      "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2026-09-03 22:02:58",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "added_at": "2026-09-03 22:02:58",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-09-03 22:02:58",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 126832,
-      "name": "NISSAN ALTIMA",
-      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
-    },
-    {
-      "added_at": "2026-09-03 22:02:58",
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 178579,
       "name": "B2b",
       "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
+    },
+    {
+      "added_at": "2026-09-03 22:02:58",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 126832,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
     },
     {
       "added_at": "2026-09-03 22:02:58",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-09-03 22:02:58",
       "album": {
-        "name": "The Definition Of X: Pick Of The Litter",
-        "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "X Gon' Give It To Ya",
-      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
-    },
-    {
-      "added_at": "2026-09-03 22:02:58",
-      "album": {
         "name": "Guess featuring billie eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "added_at": "2026-09-03 22:02:58",
+      "album": {
+        "name": "The Definition Of X: Pick Of The Litter",
+        "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "X Gon' Give It To Ya",
+      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
     },
     {
       "added_at": "2026-09-03 22:02:58",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-09-03 22:02:58",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2026-09-03 22:02:58",
+      "album": {
         "name": "The New Classic (Deluxe Version)",
         "url": "https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 199938,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q"
-    },
-    {
-      "added_at": "2026-09-03 22:02:58",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2026-09-03 22:02:58",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-09-03 22:02:58",
       "album": {
-        "name": "AUTORIT\u00c0",
-        "url": "https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 183597,
-      "name": "AUTORIT\u00c0",
-      "url": "https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi"
-    },
-    {
-      "added_at": "2026-09-03 22:02:58",
-      "album": {
         "name": "Space Jam (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 304960,
       "name": "Space Jam",
       "url": "https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk"
+    },
+    {
+      "added_at": "2026-09-03 22:02:58",
+      "album": {
+        "name": "AUTORIT\u00c0",
+        "url": "https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 183597,
+      "name": "AUTORIT\u00c0",
+      "url": "https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi"
     },
     {
       "added_at": "2026-09-03 22:02:58",

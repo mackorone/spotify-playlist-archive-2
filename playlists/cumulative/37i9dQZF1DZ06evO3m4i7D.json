@@ -1089,6 +1089,36 @@
     },
     {
       "album": {
+        "name": "Pa'l Malec\u00f3n",
+        "url": "https://open.spotify.com/album/75KV1AVpZwUeYD75fHL4yl"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Aldo Arturo",
+          "url": "https://open.spotify.com/artist/6Yj5AeU4eMECxM4r64Ept7"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Pa'l Malec\u00f3n",
+      "url": "https://open.spotify.com/track/37Qp2YjAx8sAtUVBEWbDR4"
+    },
+    {
+      "album": {
         "name": "Pari Pari",
         "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
       },

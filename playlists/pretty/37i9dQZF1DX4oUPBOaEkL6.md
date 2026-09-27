@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 
 > The hottest Latin hits in the US! Cover: KAROL G, Judeline & rusowsky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,596,819 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,596,594 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 | 49 | [MOONLIGHT](https://open.spotify.com/track/2TOsEYW3J1miYhmEeI9yBW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:15 |
 | 50 | [K](https://open.spotify.com/track/5Qsmx0ffKXwbLTUgeFC2Ce) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOCTURNO](https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk) | 3:42 |
 
-Snapshot ID: `AAAAAJ5DO1I9O+p4Kbjb9FSibigNQ8N7`
+Snapshot ID: `AAAAAIgkRwCOHtLtnFHzyDmurcr+ARRg`

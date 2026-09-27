@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 101255,
+  "num_followers": 101293,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAABbozqNKl1QgHUio98ZKYey",
+  "snapshot_id": "arW5gAAAAAB/COmQ8sBBSJQOU5oLFg9a",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primero",
-        "url": "https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 175514,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Punto y Aparte",
         "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 158918,
       "name": "Punto y Aparte",
       "url": "https://open.spotify.com/track/6kWCId7jrTRB8yU65WxmGn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 175514,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t"
     },
     {
       "added_at": null,
@@ -99,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "Simbolo Sexual",
+      "url": "https://open.spotify.com/track/3fYV6za0eCj6b692AnOgDA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
         "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 205901,
       "name": "El Due\u00f1o Del Palenque - En Vivo",
       "url": "https://open.spotify.com/track/4lMlRYksi78zArjEbU5827"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180208,
-      "name": "Simbolo Sexual",
-      "url": "https://open.spotify.com/track/3fYV6za0eCj6b692AnOgDA"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 179744,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/7M5xxINTbLHi4QOORE0LeH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Punto y Aparte",
         "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 177949,
       "name": "Sin Evidencias",
       "url": "https://open.spotify.com/track/4xCdzDuxh7H8HaU3xgrm8r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRAVES\u00cdA",
+        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 179744,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/7M5xxINTbLHi4QOORE0LeH"
     },
     {
       "added_at": null,
@@ -447,22 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Somos De Guerra",
-        "url": "https://open.spotify.com/album/3nyOttSBrL1aFt70bdlGnE"
+        "name": "Ramo Buch\u00f3n",
+        "url": "https://open.spotify.com/album/2arbYfprda4X7sQCtvvHua"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
         },
         {
-          "name": "Arley Perez",
-          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 168172,
-      "name": "Que Somos De Guerra",
-      "url": "https://open.spotify.com/track/3HC7YpUGk9Q6rq1GLpyRqq"
+      "duration_ms": 213333,
+      "name": "Ramo Buch\u00f3n",
+      "url": "https://open.spotify.com/track/1FJDNq6RPx8TelKBmAe8RI"
     },
     {
       "added_at": null,
@@ -483,22 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ramo Buch\u00f3n",
-        "url": "https://open.spotify.com/album/2arbYfprda4X7sQCtvvHua"
+        "name": "Que Somos De Guerra",
+        "url": "https://open.spotify.com/album/3nyOttSBrL1aFt70bdlGnE"
       },
       "artists": [
         {
-          "name": "Montana",
-          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
-        },
-        {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Ramo Buch\u00f3n",
-      "url": "https://open.spotify.com/track/1FJDNq6RPx8TelKBmAe8RI"
+      "duration_ms": 168172,
+      "name": "Que Somos De Guerra",
+      "url": "https://open.spotify.com/track/3HC7YpUGk9Q6rq1GLpyRqq"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
       "duration_ms": 243562,
       "name": "La Tostada CH",
       "url": "https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bienvenidos a Durango (En Vivo)",
+        "url": "https://open.spotify.com/album/4im9qFr0WIwHxcjzznVO1u"
+      },
+      "artists": [
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 231722,
+      "name": "Bienvenidos a Durango (En Vivo)",
+      "url": "https://open.spotify.com/track/3LzboWQw4FoBoaxR15ByQQ"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

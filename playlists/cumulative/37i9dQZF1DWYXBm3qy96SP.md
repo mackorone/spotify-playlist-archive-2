@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Adult DVD
 
-2,345 songs - 5 day 16 hr 47 min
+2,346 songs - 5 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -967,7 +967,7 @@
 | [I Don’t Think It’s the Right Time for Emojis](https://open.spotify.com/track/3fHEfRMc4AbKCENtLnbkse) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [I Don’t Think It’s the Right Time for Emojis](https://open.spotify.com/album/6UTpeoExGxb3SK82OsDOXV) | 2:12 | 2026-03-05 | 2026-05-10 |
 | [I DON’T WANNA DO THIS ANYMORE](https://open.spotify.com/track/6FguetQoUCSHkng6Fe1ofO) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 3:31 | 2023-07-13 | 2023-07-21 |
 | [I Don’t Work Here Anymore](https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Motel Du Cap](https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD) | 3:41 | 2025-08-08 | 2025-08-15 |
-| [I Feel Hope Coming](https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Feel Hope Coming](https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ) | 5:11 | 2026-07-09 |  |
+| [I Feel Hope Coming](https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Feel Hope Coming](https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ) | 5:11 | 2026-07-09 | 2026-09-27 |
 | [I Felt It All](https://open.spotify.com/track/1ZAzqG4uS98aYfFGEIqY6T) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [I Felt It All](https://open.spotify.com/album/11McPmOi54GIS6J8XbZqnZ) | 3:00 | 2024-01-25 | 2024-02-02 |
 | [I Forgot To Be Your Lover](https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [I Forgot To Be Your Lover](https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1) | 2:27 | 2024-02-08 | 2024-05-10 |
 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 | 2023-09-07 | 2023-09-15 |
@@ -1260,6 +1260,7 @@
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-06 | 2024-10-21 |
 | [Make It Out](https://open.spotify.com/track/34G0wK7CbV3Wn96hgUrte1) | [Trueblood](https://open.spotify.com/artist/58PtHfnVLB3mbDD5z2F5DG) | [Make It Out](https://open.spotify.com/album/3YW0I40pqUzTXGwcRA28aR) | 2:17 | 2026-03-19 | 2026-04-24 |
 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-08-24 | 2026-03-13 |
+| [Make Me Love You](https://open.spotify.com/track/5V2IZZoO8p054tU9tQd44V) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Make Me Love You](https://open.spotify.com/album/02D1TfylQ6y4nrGBX6FR2c) | 3:34 | 2026-09-25 |  |
 | [Make Us Whole Again](https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Make Us Whole Again](https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i) | 3:52 | 2026-03-12 | 2026-04-16 |
 | [Make\-up is a Lie](https://open.spotify.com/track/1ubJkE9q1un1hIHbDfJ8Tg) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Make\-up is a Lie](https://open.spotify.com/album/0jyLLWr93rCySb4oKjhxxX) | 3:09 | 2026-03-12 | 2026-03-25 |
 | [Makes Me Violent](https://open.spotify.com/track/1nNSdsmH6rqpa6x7WeUL5v) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Makes Me Violent](https://open.spotify.com/album/0j6c4JKUS4ofsa0P927Irn) | 3:19 | 2024-02-29 | 2024-04-05 |

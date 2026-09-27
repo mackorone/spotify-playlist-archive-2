@@ -1,12 +1,12 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Sara James",
-  "num_followers": 26583,
+  "num_followers": 26591,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGttvVBb7L4lj3SOzEL2GJqWvxbo",
+  "snapshot_id": "AAAAAIAMUWZGXUJCBkYnmOmWu5HdlbIX",
   "tracks": [
     {
       "added_at": "2026-09-24 22:01:52",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "Widz\u0119 Ci\u0119",
-        "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
-      },
-      "artists": [
-        {
-          "name": "Diiya",
-          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Widz\u0119 Ci\u0119",
-      "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
         "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
         "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 152727,
       "name": "OPIUM",
       "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "Widz\u0119 Ci\u0119",
+        "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
+      },
+      "artists": [
+        {
+          "name": "Diiya",
+          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Widz\u0119 Ci\u0119",
+      "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "nie wierz\u0119 w bajki",
-        "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
-      },
-      "artists": [
-        {
-          "name": "Qncicka",
-          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
-        }
-      ],
-      "duration_ms": 192679,
-      "name": "nie wierz\u0119 w bajki",
-      "url": "https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
         "name": "TRESURA",
         "url": "https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 190062,
       "name": "TRESURA",
       "url": "https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "nie wierz\u0119 w bajki",
+        "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
+      },
+      "artists": [
+        {
+          "name": "Qncicka",
+          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
+        }
+      ],
+      "duration_ms": 192679,
+      "name": "nie wierz\u0119 w bajki",
+      "url": "https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -503,6 +503,26 @@
       "duration_ms": 160846,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "sad, alone?",
+        "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        },
+        {
+          "name": "kurtis baker",
+          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "sad, alone?",
+      "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -543,22 +563,18 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "sad, alone?",
-        "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
+        "name": "Kafejka na Ochocie",
+        "url": "https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD"
       },
       "artists": [
         {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        },
-        {
-          "name": "kurtis baker",
-          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
+          "name": "Fida",
+          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
         }
       ],
-      "duration_ms": 161904,
-      "name": "sad, alone?",
-      "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
+      "duration_ms": 190500,
+      "name": "Kafejka na Ochocie",
+      "url": "https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -575,22 +591,6 @@
       "duration_ms": 190506,
       "name": "Nie za\u015bpiewam Twojej mamie",
       "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
-        "name": "Kafejka na Ochocie",
-        "url": "https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD"
-      },
-      "artists": [
-        {
-          "name": "Fida",
-          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Kafejka na Ochocie",
-      "url": "https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "Nadwodne miasto",
-        "url": "https://open.spotify.com/album/0CIuv9E6CIKkK395Ha63Lb"
-      },
-      "artists": [
-        {
-          "name": "Natalia Marczuk",
-          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
-        }
-      ],
-      "duration_ms": 217617,
-      "name": "Nadwodne miasto",
-      "url": "https://open.spotify.com/track/5CWurWx4wdICZSTsXEe3OZ"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
         "name": "Halina",
         "url": "https://open.spotify.com/album/2GtZYIsuWOhl4Jwxa2WkbK"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 230547,
       "name": "Halina",
       "url": "https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "Nadwodne miasto",
+        "url": "https://open.spotify.com/album/0CIuv9E6CIKkK395Ha63Lb"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "duration_ms": 217617,
+      "name": "Nadwodne miasto",
+      "url": "https://open.spotify.com/track/5CWurWx4wdICZSTsXEe3OZ"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "boj\u0119 si\u0119 ba\u0107",
-        "url": "https://open.spotify.com/album/1wPfJYhgSlNgRZgD02ZEwq"
-      },
-      "artists": [
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        }
-      ],
-      "duration_ms": 209999,
-      "name": "boj\u0119 si\u0119 ba\u0107",
-      "url": "https://open.spotify.com/track/43eOzsjLG1e4FilGVCeEGi"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
         "name": "just a girl",
         "url": "https://open.spotify.com/album/6uXnAW9wHZ0gxPsivoAjHw"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
+        "name": "boj\u0119 si\u0119 ba\u0107",
+        "url": "https://open.spotify.com/album/1wPfJYhgSlNgRZgD02ZEwq"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "duration_ms": 209999,
+      "name": "boj\u0119 si\u0119 ba\u0107",
+      "url": "https://open.spotify.com/track/43eOzsjLG1e4FilGVCeEGi"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
         "name": "KID",
         "url": "https://open.spotify.com/album/3qGAK6Cn4Wky749uHNTPS1"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 220762,
       "name": "KID",
       "url": "https://open.spotify.com/track/3H2x5CeATToxbMHdgdXaSb"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "Pokochaj Mnie Ponownie",
+        "url": "https://open.spotify.com/album/2PcBuWrQnZKaDKORHCnhb6"
+      },
+      "artists": [
+        {
+          "name": "Natalia Muianga",
+          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Pokochaj Mnie Ponownie",
+      "url": "https://open.spotify.com/track/05s3rbRbHOk4gE3KOBixH5"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -939,22 +955,6 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "Po nocach",
-        "url": "https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC"
-      },
-      "artists": [
-        {
-          "name": "Natalia Zast\u0119pa",
-          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
-        }
-      ],
-      "duration_ms": 211732,
-      "name": "Po nocach",
-      "url": "https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
         "name": "Chc\u0119 Ci\u0119 Mie\u0107",
         "url": "https://open.spotify.com/album/7GE8HosOSSTdP4BQVTu6oo"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 142641,
       "name": "Chc\u0119 Ci\u0119 Mie\u0107",
       "url": "https://open.spotify.com/track/0fWrI1QQJxOMzOzAOBLwYA"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "Po nocach",
+        "url": "https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC"
+      },
+      "artists": [
+        {
+          "name": "Natalia Zast\u0119pa",
+          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
+        }
+      ],
+      "duration_ms": 211732,
+      "name": "Po nocach",
+      "url": "https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -1035,42 +1051,6 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "bez ciebie",
-        "url": "https://open.spotify.com/album/0FvXGWc2NK5USUqILWpdL7"
-      },
-      "artists": [
-        {
-          "name": "zofia justy\u0144ska",
-          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
-        },
-        {
-          "name": "Kuba Folwarczny",
-          "url": "https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il"
-        }
-      ],
-      "duration_ms": 216714,
-      "name": "bez ciebie",
-      "url": "https://open.spotify.com/track/3Pfn5Rl7XmzhXiMaHWmreY"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
-        "name": "styropian",
-        "url": "https://open.spotify.com/album/4lHXqMnEF9nr0ay377Menf"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 173043,
-      "name": "styropian",
-      "url": "https://open.spotify.com/track/5Spy3OEUnZyEGZSO2F2Ys8"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
         "name": "Presja",
         "url": "https://open.spotify.com/album/5CY2lpmAOQMlreF9z5TTMQ"
       },
@@ -1095,18 +1075,38 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "psikus",
-        "url": "https://open.spotify.com/album/4Exm7BKeJN8FBxRACtbkcd"
+        "name": "styropian",
+        "url": "https://open.spotify.com/album/4lHXqMnEF9nr0ay377Menf"
       },
       "artists": [
         {
-          "name": "oda nova",
-          "url": "https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU"
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
         }
       ],
-      "duration_ms": 173137,
-      "name": "psikus",
-      "url": "https://open.spotify.com/track/0y8oU55YrlHEGEa8y3rYmR"
+      "duration_ms": 173043,
+      "name": "styropian",
+      "url": "https://open.spotify.com/track/5Spy3OEUnZyEGZSO2F2Ys8"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "bez ciebie",
+        "url": "https://open.spotify.com/album/0FvXGWc2NK5USUqILWpdL7"
+      },
+      "artists": [
+        {
+          "name": "zofia justy\u0144ska",
+          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
+        },
+        {
+          "name": "Kuba Folwarczny",
+          "url": "https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il"
+        }
+      ],
+      "duration_ms": 216714,
+      "name": "bez ciebie",
+      "url": "https://open.spotify.com/track/3Pfn5Rl7XmzhXiMaHWmreY"
     },
     {
       "added_at": "2026-09-24 22:01:52",

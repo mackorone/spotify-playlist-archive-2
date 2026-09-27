@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-262 songs - 12 hr 21 min
+265 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Behind](https://open.spotify.com/track/3l3Zi7uotwaynXHtawz3C9) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/2bx5KKxt6vrWVZXMIWDXZY) | 3:18 | 2024-07-09 |  |
 | [black & white](https://open.spotify.com/track/398e7XSvP7VtNHjNFZRnY5) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [FLASH](https://open.spotify.com/album/3qXVDY60z1vW9Nlqy6dC2M) | 2:52 | 2026-09-17 |  |
 | [BMW X5](https://open.spotify.com/track/5l2eU16Ruz6W73u0yESsuC) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [BMW X5](https://open.spotify.com/album/7BBbjxLMCcp3bseNfYgRPD) | 2:47 | 2024-07-09 |  |
-| [Body Count](https://open.spotify.com/track/3hizyzBsKFgjmRtqTQpwDL) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Retreat](https://open.spotify.com/album/7Hvfi5Y7bARlr24YFCRHrm) | 2:24 | 2025-08-06 |  |
+| [Body Count](https://open.spotify.com/track/3hizyzBsKFgjmRtqTQpwDL) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Retreat](https://open.spotify.com/album/7Hvfi5Y7bARlr24YFCRHrm) | 2:24 | 2025-08-06 | 2026-09-27 |
+| [Body Count](https://open.spotify.com/track/3yoFgyNe51P3LOodotP320) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Retreat](https://open.spotify.com/album/2UH2PL0bt6Fr8hKKi3JnEI) | 2:24 | 2026-09-26 |  |
 | [Breakfast](https://open.spotify.com/track/3v3cZP2dmnTtTL0CdZ2HOC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:28 | 2024-07-09 |  |
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2025-10-13 | 2025-10-24 |
 | [bright side of the moon](https://open.spotify.com/track/5r4G5w8ujwefEnrCT5uzoX) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [bright side of the moon](https://open.spotify.com/album/2oD4BvnapvypZEBsrNRqY3) | 3:10 | 2024-07-09 |  |
@@ -131,7 +132,7 @@
 | [Hurry Up and Let Me Down](https://open.spotify.com/track/5vNIgtRteWg8GvF54Rpz4Z) | [David Alexander](https://open.spotify.com/artist/0Wjw5Ny6h7tYYlwYDLFYiE) | [Hurry Up and Let Me Down](https://open.spotify.com/album/7k08YP0Il6IRpHBF2T24kk) | 2:36 | 2024-10-03 |  |
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2024-07-09 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/7bH7LRAHdrZaWTlcuLuIYF) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [I Don't Wanna Know](https://open.spotify.com/album/5vXf3NU1ucc2wpTRNibX4b) | 3:48 | 2024-07-09 |  |
-| [i drive me mad](https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [teenage angst EP](https://open.spotify.com/album/2JxyP3DMXo84BCjj5EXLbX) | 2:57 | 2024-07-09 |  |
+| [i drive me mad](https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [teenage angst EP](https://open.spotify.com/album/2JxyP3DMXo84BCjj5EXLbX) | 2:57 | 2024-07-09 | 2026-09-27 |
 | [i drive me mad \- Mike Shinoda Mix](https://open.spotify.com/track/0DplYafqAQYY1fcx3XY3hv) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [i drive me mad \(Mike Shinoda Mix\)](https://open.spotify.com/album/74eZ7jc74TkCSI8esb81xd) | 2:48 | 2024-07-09 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-09 | 2024-07-14 |
 | [i like the way you kiss me](https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [yustyna](https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD) | 2:22 | 2024-07-13 |  |
@@ -180,7 +181,8 @@
 | [My My](https://open.spotify.com/track/0LyUR1JNxrjeLiJIpUF57x) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [My My](https://open.spotify.com/album/6avNjZBR2EcnkhUU0UCEPT) | 3:02 | 2025-01-31 | 2025-03-13 |
 | [My My](https://open.spotify.com/track/1mXZmBOb4wPusZQ0gUG8Ui) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [The Valley](https://open.spotify.com/album/4P0pCYWGTLTJMzrEFGJ0WM) | 3:02 | 2024-07-09 | 2025-02-01 |
 | [My My](https://open.spotify.com/track/473Gdc2FyRRR0Zq1nUDmEE) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [The Valley](https://open.spotify.com/album/5pXMD5ZtWugzcLXl6uBTrq) | 3:02 | 2025-03-12 |  |
-| [My Way](https://open.spotify.com/track/1AAPG2QIYP0VB6qAplNpCB) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [My Way](https://open.spotify.com/album/7yFOHwrpzLIvkDdA0Ie8fz) | 2:06 | 2024-12-11 |  |
+| [My Way](https://open.spotify.com/track/1AAPG2QIYP0VB6qAplNpCB) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [My Way](https://open.spotify.com/album/7yFOHwrpzLIvkDdA0Ie8fz) | 2:06 | 2024-12-11 | 2026-09-27 |
+| [My Way](https://open.spotify.com/track/77fLnPmJdLFrMksNF0c8SO) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [My Way](https://open.spotify.com/album/6hjytLmVqHzawol3sWAzqB) | 2:06 | 2026-09-26 |  |
 | [Namin’ Names](https://open.spotify.com/track/2UgxbSfjmBmx9TxtTd1EeG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 2:43 | 2025-10-02 |  |
 | [Next Ex](https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:09 | 2024-07-09 |  |
 | [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 | 2024-07-09 |  |
@@ -237,7 +239,8 @@
 | [Tomorrow](https://open.spotify.com/track/5tzKLWCUnqi951e5dh8dMy) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Tomorrow](https://open.spotify.com/album/6ohU5Ec3OF69kJQaZIbL4N) | 3:13 | 2024-07-09 | 2025-03-06 |
 | [Tomorrow](https://open.spotify.com/track/7rSe0wAcz5tqmblhrloy7T) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Rising EP](https://open.spotify.com/album/0aYvKLFNGokA3V8E8thcLq) | 3:13 | 2025-03-05 | 2025-06-23 |
 | [Trading Places](https://open.spotify.com/track/7w32L6hgnvFY53No8A3Vlg) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:43 | 2024-07-09 |  |
-| [Trojan](https://open.spotify.com/track/512iljhgcY6CaENb5AZUYi) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Trojan](https://open.spotify.com/album/2A9g8Bla0yKYnwcCrmPBdh) | 2:19 | 2024-12-11 |  |
+| [Trojan](https://open.spotify.com/track/512iljhgcY6CaENb5AZUYi) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Trojan](https://open.spotify.com/album/2A9g8Bla0yKYnwcCrmPBdh) | 2:19 | 2024-12-11 | 2026-09-27 |
+| [Trojan](https://open.spotify.com/track/6bBzJnu7ynul8hyubjtKZU) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Trojan](https://open.spotify.com/album/0VGBuIr9eL5HMO5GdjIlEF) | 2:19 | 2026-09-26 |  |
 | [Turn It Up Slow](https://open.spotify.com/track/4XXErZuhTruaAy5FTa6tYM) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 4:23 | 2024-07-09 |  |
 | [Undefeated](https://open.spotify.com/track/0OaacUi36UrMb1kEsLWW9E) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Undefeated](https://open.spotify.com/album/1sd0tWdmMr0i9MXGBE9Qkl) | 2:55 | 2024-07-09 |  |
 | [Up Down](https://open.spotify.com/track/337gHLwY32NLB6TAVJQcmM) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Heartland](https://open.spotify.com/album/3h9JOm2CZLIYkTMY1gVmHH) | 2:48 | 2025-11-07 |  |

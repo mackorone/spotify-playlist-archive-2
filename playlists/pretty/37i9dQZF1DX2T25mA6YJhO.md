@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Aiko el grupo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,939 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,962 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [Barcelona](https://open.spotify.com/track/6FOtGIZh3JbQcnPeMfmQgq) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Barcelona](https://open.spotify.com/album/4nYtDMfJMwJLof80nZtGEn) | 3:48 |
 | 100 | [Tatuaje](https://open.spotify.com/track/7f82oGFu5NtNGvVYJVULd2) | [Nepal Nepal](https://open.spotify.com/artist/5IgKw66ky3FmSx4GZftWvc) | [Tatuaje](https://open.spotify.com/album/417fHqcqbqBfOs1sjXefEH) | 3:20 |
 
-Snapshot ID: `AAAAAAUo2lziiRLbDZHp18vKj/ITpyf/`
+Snapshot ID: `AAAAAP+ABux7967GtyNpqEZdsIReDcVY`

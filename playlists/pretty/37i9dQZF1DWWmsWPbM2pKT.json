@@ -1,12 +1,12 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. ",
-  "num_followers": 485418,
+  "num_followers": 485524,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK3CSodp9hFIsvWw9sI6CMHPXOxS",
+  "snapshot_id": "AAAAAF3S6mxf29FT9hrykXxWWjLHzd96",
   "tracks": [
     {
       "added_at": "2026-03-13 13:08:59",
@@ -471,18 +471,18 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+        "name": "I Saw Nothing Good so I Left",
+        "url": "https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "Bragolin",
+          "url": "https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD"
         }
       ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
+      "duration_ms": 203413,
+      "name": "Into Those Woods",
+      "url": "https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf"
     },
     {
       "added_at": "2026-03-13 13:08:59",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
-        "name": "dirty little secret",
-        "url": "https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ"
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 181346,
-      "name": "dirty little secret",
-      "url": "https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu"
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
       "added_at": "2026-05-01 12:13:37",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
+        "name": "dirty little secret",
+        "url": "https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "dirty little secret",
+      "url": "https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu"
+    },
+    {
+      "added_at": "2026-03-13 13:08:59",
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 187517,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb"
-    },
-    {
-      "added_at": "2026-03-13 13:08:59",
-      "album": {
-        "name": "21 N\u00e4chte wach",
-        "url": "https://open.spotify.com/album/6caZhxBvEwyK4Am6qdSZXx"
-      },
-      "artists": [
-        {
-          "name": "Edwin Rosen",
-          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
-        }
-      ],
-      "duration_ms": 162962,
-      "name": "21 N\u00e4chte wach",
-      "url": "https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3"
     },
     {
       "added_at": "2026-03-13 13:08:59",
@@ -583,18 +583,18 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
-        "name": "I Saw Nothing Good so I Left",
-        "url": "https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8"
+        "name": "21 N\u00e4chte wach",
+        "url": "https://open.spotify.com/album/6caZhxBvEwyK4Am6qdSZXx"
       },
       "artists": [
         {
-          "name": "Bragolin",
-          "url": "https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD"
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
         }
       ],
-      "duration_ms": 203413,
-      "name": "Into Those Woods",
-      "url": "https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf"
+      "duration_ms": 162962,
+      "name": "21 N\u00e4chte wach",
+      "url": "https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3"
     },
     {
       "added_at": "2026-03-13 13:08:59",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/7J5m8IiBGYSjPFF4i8Joo0"
+        "name": "Please Stay",
+        "url": "https://open.spotify.com/album/2vh1IK3UdV1EpQpwj8I0Lz"
       },
       "artists": [
         {
-          "name": "Glaring",
-          "url": "https://open.spotify.com/artist/576kYuY4OrauYNEzESyxDE"
+          "name": "Haunt Me",
+          "url": "https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6"
         }
       ],
-      "duration_ms": 145366,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/0ECf6YrheBrgqZpnFpuE1r"
+      "duration_ms": 230232,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/7vIFHpoofIaZuh3CsdTuTT"
     }
   ],
   "unique_name": "Darkwave",

@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3705,
+  "num_followers": 3707,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arRoAAAAAABr1ryrp0ysTTMWE7K+AymB",
+  "snapshot_id": "arW5gAAAAAC3Bl7N8AEoM+uXl8sZWeIs",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Coisa de Acender",
+      "url": "https://open.spotify.com/track/6uwu2ccApOhVVCSSIRl3rq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Respeito \u00c9 Pra Quem Tem",
         "url": "https://open.spotify.com/album/67HLqaZEz4uQoOb4Pf9uoE"
       },
@@ -747,30 +767,6 @@
       "duration_ms": 234090,
       "name": "Respeito \u00c9 Pra Quem Tem",
       "url": "https://open.spotify.com/track/7yR749AmdqgnIrl393nYIo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 206197,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
     },
     {
       "added_at": null,
@@ -815,6 +811,30 @@
       "duration_ms": 134264,
       "name": "Matem\u00e1tica",
       "url": "https://open.spotify.com/track/2BdeeOQKqKW7nsaZbr858b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 206197,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
     },
     {
       "added_at": null,
@@ -875,30 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
-      },
-      "artists": [
-        {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        }
-      ],
-      "duration_ms": 199860,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
       },
@@ -923,6 +919,30 @@
       "duration_ms": 156442,
       "name": "Lux\u00faria",
       "url": "https://open.spotify.com/track/37W8TBDB1z5rhQPEUP1Bhz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        }
+      ],
+      "duration_ms": 199860,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
     },
     {
       "added_at": null,
@@ -1079,30 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLASMA",
-        "url": "https://open.spotify.com/album/3WJttvkL7ss7DwkYz43JkQ"
-      },
-      "artists": [
-        {
-          "name": "Rizzi Get Busy",
-          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "PG 400",
-          "url": "https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz"
-        }
-      ],
-      "duration_ms": 174861,
-      "name": "MEC",
-      "url": "https://open.spotify.com/track/4sRo2cKLhGI3SlOftXq4I0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO III",
         "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
       },
@@ -1127,30 +1123,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoada",
-        "url": "https://open.spotify.com/album/6mGAkk5Is9C9FZSaMSnU1Z"
+        "name": "PLASMA",
+        "url": "https://open.spotify.com/album/3WJttvkL7ss7DwkYz43JkQ"
       },
       "artists": [
         {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
-        },
-        {
-          "name": "Xandy MC",
-          "url": "https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC"
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "PG 400",
+          "url": "https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz"
         }
       ],
-      "duration_ms": 195447,
-      "name": "Revoada",
-      "url": "https://open.spotify.com/track/7n68UDdlNilSIsqI9A4ROG"
+      "duration_ms": 174861,
+      "name": "MEC",
+      "url": "https://open.spotify.com/track/4sRo2cKLhGI3SlOftXq4I0"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 542505,
+  "num_followers": 542601,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD43u608X+i02eXPIZqoezOuOGq5",
+  "snapshot_id": "AAAAAGa0suUm1K6O3FVqYjalJHr+rghL",
   "tracks": [
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Light That Match",
-        "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
-      },
-      "artists": [
-        {
-          "name": "Down Like Silver",
-          "url": "https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "Light That Match",
-      "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "So Long Baby",
         "url": "https://open.spotify.com/album/5MOUosVXRt2KvTmpy091xD"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Body Break",
-        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
+        "name": "Light That Match",
+        "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
       },
       "artists": [
         {
-          "name": "Beryl",
-          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
+          "name": "Down Like Silver",
+          "url": "https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps"
         }
       ],
-      "duration_ms": 215649,
-      "name": "If I go",
-      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
+      "duration_ms": 182386,
+      "name": "Light That Match",
+      "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Looking For Nothing",
-        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
+        "name": "Body Break",
+        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
       },
       "artists": [
         {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Looking For Nothing",
-      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
+      "duration_ms": 215649,
+      "name": "If I go",
+      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Right on Time",
-        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
+        "name": "Looking For Nothing",
+        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
         }
       ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
+      "duration_ms": 238000,
+      "name": "Looking For Nothing",
+      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1167,6 +1151,22 @@
       "duration_ms": 213000,
       "name": "caroline",
       "url": "https://open.spotify.com/track/0jcMqjt7AYtDkn5INK1aDb"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Soho House Valet",
-        "url": "https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa"
-      },
-      "artists": [
-        {
-          "name": "Gatlin",
-          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
-        }
-      ],
-      "duration_ms": 242223,
-      "name": "Soho House Valet",
-      "url": "https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Crying Over U",
         "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "Soho House Valet",
+        "url": "https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "duration_ms": 242223,
+      "name": "Soho House Valet",
+      "url": "https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "Do You Haunt Me",
         "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 153850,
-      "name": "Buffalo Replaced - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "The Meetings of the Waters",
         "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 153850,
+      "name": "Buffalo Replaced - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "Collarbones",
+        "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
+      },
+      "artists": [
+        {
+          "name": "Anna Hamilton",
+          "url": "https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF"
+        }
+      ],
+      "duration_ms": 180947,
+      "name": "Collarbones",
+      "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "Twenty-Twenty",
         "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
       },
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Collarbones",
-        "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
       "artists": [
         {
-          "name": "Anna Hamilton",
-          "url": "https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF"
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
         }
       ],
-      "duration_ms": 180947,
-      "name": "Collarbones",
-      "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1579,22 +1595,6 @@
       "duration_ms": 262571,
       "name": "Morning",
       "url": "https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "awe",
-        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 235382,
-      "name": "awe",
-      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Afraid of Nothing",
-        "url": "https://open.spotify.com/album/6dx3PkUd6rUBC5CaVShL0N"
-      },
-      "artists": [
-        {
-          "name": "Harrison Whitford",
-          "url": "https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8"
-        }
-      ],
-      "duration_ms": 228441,
-      "name": "Salvation Army",
-      "url": "https://open.spotify.com/track/2WKH12vONrIi0NWdUsPM5y"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Ever New (Reworked by Bon Iver & Flock Of Dimes)",
         "url": "https://open.spotify.com/album/6YBMppvgwzEQ1WluBwDVBE"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 383080,
       "name": "Ever New - Reworked by Bon Iver & Flock of Dimes Single Version",
       "url": "https://open.spotify.com/track/02BFhF6HybAE3vjBX9ptjS"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Afraid of Nothing",
+        "url": "https://open.spotify.com/album/6dx3PkUd6rUBC5CaVShL0N"
+      },
+      "artists": [
+        {
+          "name": "Harrison Whitford",
+          "url": "https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8"
+        }
+      ],
+      "duration_ms": 228441,
+      "name": "Salvation Army",
+      "url": "https://open.spotify.com/track/2WKH12vONrIi0NWdUsPM5y"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "Sentimental (Reimagined)",
+        "url": "https://open.spotify.com/album/7FtA4yHesiXguXulNgFDxe"
+      },
+      "artists": [
+        {
+          "name": "Dillan Witherow",
+          "url": "https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl"
+        },
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Sentimental (Reimagined)",
+      "url": "https://open.spotify.com/track/2ETVEbCAaiuu8S9tYKecBM"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "Sun",
         "url": "https://open.spotify.com/album/6h0naf4GxzkRMEdzOZnStm"
       },
@@ -1783,26 +1803,6 @@
       "duration_ms": 235474,
       "name": "Desert Song",
       "url": "https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "Sentimental (Reimagined)",
-        "url": "https://open.spotify.com/album/7FtA4yHesiXguXulNgFDxe"
-      },
-      "artists": [
-        {
-          "name": "Dillan Witherow",
-          "url": "https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl"
-        },
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Sentimental (Reimagined)",
-      "url": "https://open.spotify.com/track/2ETVEbCAaiuu8S9tYKecBM"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/0r5vhczT2ZrLvcexgHm6FZ"
       },
       "artists": [
         {
-          "name": "Britti",
-          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+          "name": "Elissa Mielke",
+          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
         }
       ],
-      "duration_ms": 215869,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
+      "duration_ms": 282949,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0X8eGhubqm8t6376TCZB61"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1963,6 +1963,22 @@
       "duration_ms": 193793,
       "name": "i leave early",
       "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
+      },
+      "artists": [
+        {
+          "name": "Britti",
+          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+        }
+      ],
+      "duration_ms": 215869,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -2047,6 +2063,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "You're Already There",
+        "url": "https://open.spotify.com/album/6ouIo2cSY03JmfowzMYNxS"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 153900,
+      "name": "You're Already There",
+      "url": "https://open.spotify.com/track/6FBysoHxNcpqiYz8nOcIbJ"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "How Did It Seem To You?",
         "url": "https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA"
       },
@@ -2059,38 +2091,6 @@
       "duration_ms": 191226,
       "name": "A Month Or Two",
       "url": "https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64"
-      },
-      "artists": [
-        {
-          "name": "Jesse Jo Stark",
-          "url": "https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0"
-        }
-      ],
-      "duration_ms": 231131,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 323591,
-      "name": "River",
-      "url": "https://open.spotify.com/track/62h7AycdIWjq6uYWC0LBht"
     }
   ],
   "unique_name": "Soft & Slow",

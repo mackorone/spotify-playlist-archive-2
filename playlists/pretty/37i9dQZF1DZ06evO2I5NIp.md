@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,033 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,034 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 12 | [I Feel A Sin Coming On](https://open.spotify.com/track/59eJW81XC2N4efIK8rZUqt) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf) | 3:52 |
 | 13 | [Money Makes You Ugly](https://open.spotify.com/track/5Hw9VgRNKsLb97dAoc1vGj) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:36 |
 | 14 | [In The Blood Of The Blues](https://open.spotify.com/track/0ARa5rNP5aMiOUb6f5fe8L) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5) | 4:52 |
-| 15 | [When Love Comes To Town](https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [When Love Comes To Town](https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3) | 4:11 |
-| 16 | [Blame It On Eve](https://open.spotify.com/track/2USRFCxphSjgdms4MPossK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn) | 4:32 |
+| 15 | [Blame It On Eve](https://open.spotify.com/track/2USRFCxphSjgdms4MPossK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn) | 4:32 |
+| 16 | [When Love Comes To Town](https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [When Love Comes To Town](https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3) | 4:11 |
 | 17 | [I Always Get My Man](https://open.spotify.com/track/2JyzzMO9KJVHNXy9YU5AkY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf) | 3:49 |
 | 18 | [The Dolls Are Sleeping](https://open.spotify.com/track/4mYA39OnxeVRXYr4jCmmWE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 2:56 |
 | 19 | [Promised Myself](https://open.spotify.com/track/0yaXKiab57hWIDIgDdi3m7) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5) | 5:19 |
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 25 | [The Battle Is Over \(But The War Goes On\)](https://open.spotify.com/track/0ficIny5GmEHdWjeC4oYdw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf) | 3:53 |
 | 26 | [Barefoot In Heaven](https://open.spotify.com/track/4JdtIfYiuw3C0ndx1mL3NH) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 3:30 |
 | 27 | [Should Have Come Home](https://open.spotify.com/track/32uBppIvIWU86RJZdJX7WG) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 3:30 |
-| 28 | [Love Song](https://open.spotify.com/track/0ARGGCcODS5ztLAgBGUQoo) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:03 |
-| 29 | [Givin' Up You](https://open.spotify.com/track/3sfdysA1dqXE7BRd24YLLZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/7x1Z7VKEA37xVx7xQC4pqw) | 3:26 |
+| 28 | [Givin' Up You](https://open.spotify.com/track/3sfdysA1dqXE7BRd24YLLZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/7x1Z7VKEA37xVx7xQC4pqw) | 3:26 |
+| 29 | [Love Song](https://open.spotify.com/track/0ARGGCcODS5ztLAgBGUQoo) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:03 |
 | 30 | [Pink Turns To Red](https://open.spotify.com/track/3D9OSA8HEKm8sgAjNlJWCW) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 3:28 |
 | 31 | [Livin' On Love](https://open.spotify.com/track/4b2b3mqvydxobI09OKyFus) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 4:03 |
-| 32 | [Apple Pie And A .45](https://open.spotify.com/track/54cGgNOgqmT1f8nthDR1gY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:45 |
-| 33 | [It Don't Hurt No More](https://open.spotify.com/track/6sGK2wbCXNWFk9dOvfm2oD) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf) | 7:05 |
+| 32 | [It Don't Hurt No More](https://open.spotify.com/track/6sGK2wbCXNWFk9dOvfm2oD) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf) | 7:05 |
+| 33 | [Apple Pie And A .45](https://open.spotify.com/track/54cGgNOgqmT1f8nthDR1gY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:45 |
 | 34 | [Dumb It Down](https://open.spotify.com/track/3wTUzLbHkoZFtOnyH6lvOw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 4:00 |
 | 35 | [Too Close](https://open.spotify.com/track/72feSuQENqrGxdtFEkzAsn) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 4:39 |
 | 36 | [Broken High Heels](https://open.spotify.com/track/79SlwHe953CEa23taTs4lr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 49 | [Outskirts Of Love](https://open.spotify.com/track/4i7CJNvFHCiA9uN1OVMFMw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf) | 4:05 |
 | 50 | [The Push I Need](https://open.spotify.com/track/72jXCg5cXZMzT3FNdr0ioY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 3:48 |
 
-Snapshot ID: `arRoAAAAAADydNMuZP3rZhIWdPMlTi1/`
+Snapshot ID: `arW5gAAAAABDM5bcn5dozNviTbu4ViN7`

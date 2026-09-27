@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,442 likes - 148 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,429 likes - 148 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 147 | [Blood On Our Hands](https://open.spotify.com/track/5VicH23MWaIKMmtkWJtqfY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Blood On Our Hands](https://open.spotify.com/album/3WTQQUf94CtdQsQZ1xkOYs) | 1:49 |
 | 148 | [Chin Up, Beautiful](https://open.spotify.com/track/4F62L8Scos6mt6yoYulGuQ) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Chin Up, Beautiful](https://open.spotify.com/album/0kimNgdB69eNOuDf4xZ7PW) | 3:40 |
 
-Snapshot ID: `AAAAAGbQG8hHXIsOOCdGFsLCQCNe5PBm`
+Snapshot ID: `AAAAALJM+6qj/itxI4ntES3XB0y7DB+2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Kirk Franklin & Glorilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,590 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,602 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 21 | [Send Me](https://open.spotify.com/track/03hPC8kJyC2wClD5zmJsvp) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Send Me](https://open.spotify.com/album/0Jd3zAnOBkI3DHBzk472xx) | 3:31 |
 | 22 | [Kingdom Come](https://open.spotify.com/track/4oacaORBXYl2wecW0fFYsn) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Kingdom Come \(Soul Peace\)](https://open.spotify.com/album/3xQOPalIDmEs4lI2YWr6al) | 2:03 |
 | 23 | [Already Loved](https://open.spotify.com/track/1eQcRsCGoDTiRmTLPzPbae) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Already Loved](https://open.spotify.com/album/0s3raoXRQiFVnnUDZ7H9oP) | 3:46 |
-| 24 | [My God](https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My God](https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B) | 8:08 |
+| 24 | [MY GOD, YOU ARE GOOD](https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [MY GOD, YOU ARE GOOD](https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B) | 8:08 |
 | 25 | [Good God](https://open.spotify.com/track/2dBSHcsj2hLjUXs7XC0L3b) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Good God](https://open.spotify.com/album/5eZaaV8aS4B1whJNQGxrCi) | 9:45 |
 | 26 | [Faithful God](https://open.spotify.com/track/2JZ5ZoDAl0MizzvGS4u6q2) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Pius Adeniji](https://open.spotify.com/artist/1iFnEAh4JAMnE1Q4aooMPs) | [Faithful God](https://open.spotify.com/album/7fmQjATkXNKZNlUkee8a2l) | 3:43 |
 | 27 | [Yahweh Sabaoth \- Live](https://open.spotify.com/track/6aoZHelT2K8p3uNsKWOxxU) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Yahweh Sabaoth \(Live\)](https://open.spotify.com/album/110QiJp6EAu76burcgGaav) | 8:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Here](https://open.spotify.com/track/3NSxiTWTRHF9YG1fta2Jve) | [Brian Doerksen](https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7), [Marika Siewert](https://open.spotify.com/artist/6RZgHgPwp3lGPYGOLOtA61) | [Here](https://open.spotify.com/album/1NcVoOiCqY7rwWcZ61TyNS) | 4:26 |
 | 100 | [The Gardener \(Acoustic\)](https://open.spotify.com/track/2xKtWjozNb5EfZtFZ7ybi5) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Streams: Vol\. One \(Acoustic\)](https://open.spotify.com/album/3CysUsGNQB3H2IGw2gezCL) | 3:53 |
 
-Snapshot ID: `AAAAAFq59L+W7qfqelxINi64Be+sqmB2`
+Snapshot ID: `AAAAALVVN41Qz0R6C8ZWrDRCAYymF1iT`

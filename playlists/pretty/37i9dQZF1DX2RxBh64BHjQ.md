@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0RRUXaSteOOZzo5gMCAeuX">Fatt Smaxk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,705,134 likes - 101 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,704,872 likes - 101 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 100 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 |
 | 101 | [BIG FEELING](https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LUCY](https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi) | 1:55 |
 
-Snapshot ID: `AAAAAB8M4WeIVWm0ac2+e7+wmgCr4cgx`
+Snapshot ID: `AAAAAOY1/mXXuYAfTZJ60lQ80/OcNZXx`

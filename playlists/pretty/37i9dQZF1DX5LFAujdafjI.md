@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > Portola is back! For your pre\-games, afters, spurts of manic cleaning, and everything in between\.  Curated by the <a href="https://portolamusicfestival.com/">Portola Festival</a> Department of Science and Research.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,730 likes - 82 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,835 likes - 82 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 81 | [What We Got](https://open.spotify.com/track/3UeGo2iTVN98fWW96iRL5p) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [What We Got](https://open.spotify.com/album/72T1E70vH8a71qX2OwGwrl) | 2:55 |
 | 82 | [Comes and Goes](https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Comes and Goes](https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs) | 4:22 |
 
-Snapshot ID: `AAAAALh+Yz9uHcVGvcjB3IgCEE7l5r0b`
+Snapshot ID: `AAAAAMiVWoR36DxSH1FqDvJ4sSqS5jjp`
