@@ -4,7 +4,7 @@
 
 > This is Britney Spears\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 2 min
+85 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [I Wanna Go](https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:30 | 2023-07-28 | 2026-05-06 |
 | [I Wanna Go \- John Summit Remix](https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [I Wanna Go \- John Summit Remix](https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS) | 2:43 | 2025-10-19 |  |
 | [I Will Be There](https://open.spotify.com/track/2I320CTP7hYFTtiFo1H6CD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:53 | 2025-10-26 | 2026-08-27 |
-| [I'm a Slave 4 U](https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:23 | 2023-07-28 |  |
+| [I'm a Slave 4 U](https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:23 | 2023-07-28 | 2026-09-28 |
+| [I'm A Slave 4 U \- Thunderpuss Dark Mix](https://open.spotify.com/track/1ek09Xi4sGQM3y36953efE) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Thunderpuss \(Chris Cox & Barry Harris\)](https://open.spotify.com/artist/29vgcq90v8C018MjTEbW1h) | [I'm A Slave 4 U \(Remixes\)](https://open.spotify.com/album/54qixC064sfgQ9KVbgPmJL) | 7:16 | 2026-09-28 |  |
 | [I'm Not a Girl, Not Yet a Woman](https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:51 | 2023-07-28 |  |
 | [I'm Not a Girl, Not Yet a Woman \- Snakehips Remix](https://open.spotify.com/track/4AWNbyE153F4Olg7fTJFD5) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [I'm Not a Girl, Not Yet a Woman \(Snakehips Remix\)](https://open.spotify.com/album/6hB0pjxCzWPAIZDwpxQ5yh) | 2:47 | 2023-11-10 | 2023-12-14 |
 | [If U Seek Amy](https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:36 | 2023-07-28 |  |

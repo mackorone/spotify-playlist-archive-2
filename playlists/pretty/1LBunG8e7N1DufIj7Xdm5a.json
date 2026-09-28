@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKL/EZIKfTMtFQ4hTs0jo8hPCmw6KG",
+  "snapshot_id": "AAAKNCBYVAj97BB8AipQ9vb/q6dO7ag7",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -79423,6 +79423,86 @@
       "duration_ms": 324571,
       "name": "Rise And Fall",
       "url": "https://open.spotify.com/track/3exLIuw7dpaX8hGbmpU8Vn"
+    },
+    {
+      "added_at": "2026-09-27 08:20:41",
+      "album": {
+        "name": "The Days Just Slipped Away",
+        "url": "https://open.spotify.com/album/3e3kXQKXXdDP39UNm0Reqd"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "duration_ms": 223255,
+      "name": "The Days Just Slipped Away",
+      "url": "https://open.spotify.com/track/09EjpLRKMm7UPBhlGqYT6h"
+    },
+    {
+      "added_at": "2026-09-27 16:04:08",
+      "album": {
+        "name": "Devils Country",
+        "url": "https://open.spotify.com/album/6KxoCWxf4oqtuWpKF5RycW"
+      },
+      "artists": [
+        {
+          "name": "Evil Creek",
+          "url": "https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM"
+        }
+      ],
+      "duration_ms": 183850,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1cuQQseVSOd8zS5YJAdyEK"
+    },
+    {
+      "added_at": "2026-09-27 17:12:28",
+      "album": {
+        "name": "Op\u0119tana Panna Mloda",
+        "url": "https://open.spotify.com/album/5smACvqf6KheDXlHCLuz1N"
+      },
+      "artists": [
+        {
+          "name": "mlodyb42",
+          "url": "https://open.spotify.com/artist/7tHt2d0dNLk2u8LYz4aBC1"
+        }
+      ],
+      "duration_ms": 103368,
+      "name": "Op\u0119tana Panna Mloda",
+      "url": "https://open.spotify.com/track/2Go9lN6LKJN2OTro5TiNHY"
+    },
+    {
+      "added_at": "2026-09-27 18:17:06",
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/6s4OCKSVdEgYMB4bPzslGZ"
+      },
+      "artists": [
+        {
+          "name": "Courtney Nord",
+          "url": "https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX"
+        }
+      ],
+      "duration_ms": 195699,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/14QISLgJs7nlmR8rRybQCo"
+    },
+    {
+      "added_at": "2026-09-27 19:07:08",
+      "album": {
+        "name": "Sun Looker",
+        "url": "https://open.spotify.com/album/7LM6Et5r0tOaiCZTxMrmX8"
+      },
+      "artists": [
+        {
+          "name": "Internal Triggers",
+          "url": "https://open.spotify.com/artist/7jd9FYfxjOgbIC55x0OdYM"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Sun Looker",
+      "url": "https://open.spotify.com/track/1qhLwCKet77tmlZSJ3FUhP"
     }
   ],
   "unique_name": "playlist spotify free",

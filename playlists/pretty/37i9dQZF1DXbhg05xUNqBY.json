@@ -1,6 +1,6 @@
 {
   "description": "Let go and let God.",
-  "num_followers": 345332,
+  "num_followers": 345326,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -407,38 +407,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "hallelujah, here i come",
-        "url": "https://open.spotify.com/album/48KJG4SV3GuU5Yq5R5hdZg"
-      },
-      "artists": [
-        {
-          "name": "sxxnt.",
-          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
-        }
-      ],
-      "duration_ms": 120416,
-      "name": "hallelujah, here i come",
-      "url": "https://open.spotify.com/track/43i6vsYy7pXUfl5c1d2ZG1"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "my love",
-        "url": "https://open.spotify.com/album/2ZMgGsefNIyIktAkNDCzZS"
-      },
-      "artists": [
-        {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
-        }
-      ],
-      "duration_ms": 196621,
-      "name": "my love",
-      "url": "https://open.spotify.com/track/19aX2kum5XVr26sv4lGrPm"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "O Faithful One",
         "url": "https://open.spotify.com/album/2JSCGbLM2uqkdmoHeEQqrX"
       },
@@ -463,6 +431,38 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "hallelujah, here i come",
+        "url": "https://open.spotify.com/album/48KJG4SV3GuU5Yq5R5hdZg"
+      },
+      "artists": [
+        {
+          "name": "sxxnt.",
+          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
+        }
+      ],
+      "duration_ms": 120416,
+      "name": "hallelujah, here i come",
+      "url": "https://open.spotify.com/track/43i6vsYy7pXUfl5c1d2ZG1"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "Thank God I'm Not Alone",
+        "url": "https://open.spotify.com/album/48VcWMgbgGWhTEhd8IEWy9"
+      },
+      "artists": [
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "duration_ms": 202797,
+      "name": "Thank God I'm Not Alone",
+      "url": "https://open.spotify.com/track/548bzYziy54164GQtXyihm"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "I Will Praise",
         "url": "https://open.spotify.com/album/2klbYmOWP4rT7bZbODqXha"
       },
@@ -483,18 +483,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Thank God I'm Not Alone",
-        "url": "https://open.spotify.com/album/48VcWMgbgGWhTEhd8IEWy9"
+        "name": "my love",
+        "url": "https://open.spotify.com/album/2ZMgGsefNIyIktAkNDCzZS"
       },
       "artists": [
         {
-          "name": "Claire Leslie",
-          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
         }
       ],
-      "duration_ms": 202797,
-      "name": "Thank God I'm Not Alone",
-      "url": "https://open.spotify.com/track/548bzYziy54164GQtXyihm"
+      "duration_ms": 196621,
+      "name": "my love",
+      "url": "https://open.spotify.com/track/19aX2kum5XVr26sv4lGrPm"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
-      },
-      "artists": [
-        {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
-        }
-      ],
-      "duration_ms": 186558,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Trust In God (Acoustic)",
         "url": "https://open.spotify.com/album/3giS5SE0lcdIUVUIqNXJay"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 307247,
       "name": "Trust In God - Acoustic",
       "url": "https://open.spotify.com/track/45h3M5mnqeoCRuNUEKxuNO"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "duration_ms": 186558,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/6d8x2X8GleIBbRvAU2zVDL"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 369782,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/6wLGR76rJ1HqWUJshvWbtM"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "PERFECT LOVE",
         "url": "https://open.spotify.com/album/0PMxARqTORfITZcNB0DXKl"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 195683,
       "name": "PERFECT LOVE",
       "url": "https://open.spotify.com/track/4P5H3ON3UdK7RevB4Pad7j"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/6d8x2X8GleIBbRvAU2zVDL"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 369782,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/6wLGR76rJ1HqWUJshvWbtM"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/4LlazaBbAkS2AjWXKV8DPW"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "duration_ms": 242391,
+      "name": "Delight",
+      "url": "https://open.spotify.com/track/0fv3Yqa69AM2RiP1eW5ibI"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/6LN3NNAUTMT2s0fIzcGuu0"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 316944,
       "name": "Union",
       "url": "https://open.spotify.com/track/7rO2RdfL0bEYE9a6bgijuK"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/4LlazaBbAkS2AjWXKV8DPW"
-      },
-      "artists": [
-        {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
-        }
-      ],
-      "duration_ms": 242391,
-      "name": "Delight",
-      "url": "https://open.spotify.com/track/0fv3Yqa69AM2RiP1eW5ibI"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "This Is The Day (Morning Song)",
+        "url": "https://open.spotify.com/album/3i3HIVrIIYPjRPS8QN053B"
+      },
+      "artists": [
+        {
+          "name": "Callan Brown",
+          "url": "https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu"
+        },
+        {
+          "name": "Yaz Williams",
+          "url": "https://open.spotify.com/artist/1Vr3BdiaDRuVLTMdrCjuTy"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "This Is The Day (Morning Song)",
+      "url": "https://open.spotify.com/track/0sv1feQALqnoSoEwbTSQ6C"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "Let Me Love You More",
         "url": "https://open.spotify.com/album/4QmhnesRttsnImCdC1tWe3"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 307866,
       "name": "Let Me Love You More",
       "url": "https://open.spotify.com/track/53nmVlRqzZTSNbdIpPurKs"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "This Is The Day (Morning Song)",
-        "url": "https://open.spotify.com/album/3i3HIVrIIYPjRPS8QN053B"
-      },
-      "artists": [
-        {
-          "name": "Callan Brown",
-          "url": "https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu"
-        },
-        {
-          "name": "Yaz Williams",
-          "url": "https://open.spotify.com/artist/1Vr3BdiaDRuVLTMdrCjuTy"
-        }
-      ],
-      "duration_ms": 118518,
-      "name": "This Is The Day (Morning Song)",
-      "url": "https://open.spotify.com/track/0sv1feQALqnoSoEwbTSQ6C"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "BROKEN BUT I RISE",
-        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
-      },
-      "artists": [
-        {
-          "name": "New Path Worship",
-          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
-        }
-      ],
-      "duration_ms": 199719,
-      "name": "BROKEN BUT I RISE",
-      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Who Else (Acoustic Worship)",
         "url": "https://open.spotify.com/album/5AIOqbo6WaxiDnt8lT9XAO"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 243529,
       "name": "Who Else - Acoustic Worship",
       "url": "https://open.spotify.com/track/4bh7WRedFebCSJOxyIqgKU"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "BROKEN BUT I RISE",
+        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
+      },
+      "artists": [
+        {
+          "name": "New Path Worship",
+          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
+        }
+      ],
+      "duration_ms": 199719,
+      "name": "BROKEN BUT I RISE",
+      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "for the home",
+        "url": "https://open.spotify.com/album/4d3MKmCcXevRfQAi5oXP4p"
+      },
+      "artists": [
+        {
+          "name": "Bella Taylor Smith",
+          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "hallelujah",
+      "url": "https://open.spotify.com/track/3vsYgby2Yc0JgFA2y8zx4N"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "Reflections \u274d \u2769 \u2769\u2769 Mi\u25d7\u281d\u280a\u2823\u2813\u271d\ufe0e\u210b\ud835\udc32\ud835\udd78n\u16cb ~ Vol.III",
         "url": "https://open.spotify.com/album/7nDFGD0k4IRnLUKSsc8auA"
       },
@@ -1691,22 +1707,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "for the home",
-        "url": "https://open.spotify.com/album/4d3MKmCcXevRfQAi5oXP4p"
-      },
-      "artists": [
-        {
-          "name": "Bella Taylor Smith",
-          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "hallelujah",
-      "url": "https://open.spotify.com/track/3vsYgby2Yc0JgFA2y8zx4N"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Faithful (To The End)",
         "url": "https://open.spotify.com/album/0C7WzdyLTAtRyJ7ZNS3Bqp"
       },
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "interlude",
-        "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 322813,
-      "name": "it all belongs to You",
-      "url": "https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Simple Phrase",
         "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 208291,
       "name": "Simple Phrase",
       "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "interlude",
+        "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 322813,
+      "name": "it all belongs to You",
+      "url": "https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "seeing green",
-        "url": "https://open.spotify.com/album/241fEPLphNHwpdhHT3fyW3"
-      },
-      "artists": [
-        {
-          "name": "Tianna",
-          "url": "https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "song of healing",
-      "url": "https://open.spotify.com/track/2vi7EDzetoEu6h8TjOdYfV"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 290526,
       "name": "Dust",
       "url": "https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "seeing green",
+        "url": "https://open.spotify.com/album/241fEPLphNHwpdhHT3fyW3"
+      },
+      "artists": [
+        {
+          "name": "Tianna",
+          "url": "https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "song of healing",
+      "url": "https://open.spotify.com/track/2vi7EDzetoEu6h8TjOdYfV"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "Who Is Greatest?",
+        "url": "https://open.spotify.com/album/4a15s3a0vNceZTyJ59RKCn"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 214046,
+      "name": "Who Is Greatest?",
+      "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "You Put My Mind at Ease",
         "url": "https://open.spotify.com/album/0ZcUYUHN4M9zbvSgNIdh4i"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 216155,
       "name": "You Put My Mind at Ease",
       "url": "https://open.spotify.com/track/5EjFqeH8AtSN2HGMXNXcTR"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Who Is Greatest?",
-        "url": "https://open.spotify.com/album/4a15s3a0vNceZTyJ59RKCn"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 214046,
-      "name": "Who Is Greatest?",
-      "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2467,18 +2467,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Like Everybody Else",
-        "url": "https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK"
+        "name": "Between Garden and Glory",
+        "url": "https://open.spotify.com/album/1DQrVH9FevzD9EkqDDYM6B"
       },
       "artists": [
         {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+          "name": "The Dodds",
+          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
         }
       ],
-      "duration_ms": 192500,
-      "name": "Like Everybody Else",
-      "url": "https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy"
+      "duration_ms": 299236,
+      "name": "Between Garden and Glory",
+      "url": "https://open.spotify.com/track/5SS74lv4c1dHRDv7J1Mj8g"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2503,18 +2503,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Between Garden and Glory",
-        "url": "https://open.spotify.com/album/1DQrVH9FevzD9EkqDDYM6B"
+        "name": "Like Everybody Else",
+        "url": "https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK"
       },
       "artists": [
         {
-          "name": "The Dodds",
-          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
         }
       ],
-      "duration_ms": 299236,
-      "name": "Between Garden and Glory",
-      "url": "https://open.spotify.com/track/5SS74lv4c1dHRDv7J1Mj8g"
+      "duration_ms": 192500,
+      "name": "Like Everybody Else",
+      "url": "https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2599,6 +2599,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "Christian Chill",
+        "url": "https://open.spotify.com/album/5ucMFPWVE1r0zfu0VBHXcn"
+      },
+      "artists": [
+        {
+          "name": "Lullapop",
+          "url": "https://open.spotify.com/artist/1sJhbiQRSIKZeTYEZfzBSV"
+        }
+      ],
+      "duration_ms": 168070,
+      "name": "Gratitude - Piano Version",
+      "url": "https://open.spotify.com/track/6NRlMs8bsOLHaUAVU3wGH9"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "Tomorrow Mind",
         "url": "https://open.spotify.com/album/2kY3zCakEuOOS48ac4boMJ"
       },
@@ -2615,22 +2631,6 @@
       "duration_ms": 219402,
       "name": "Tomorrow Mind",
       "url": "https://open.spotify.com/track/4uRn1bBTKoYX3VukJW7F0U"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Christian Chill",
-        "url": "https://open.spotify.com/album/5ucMFPWVE1r0zfu0VBHXcn"
-      },
-      "artists": [
-        {
-          "name": "Lullapop",
-          "url": "https://open.spotify.com/artist/1sJhbiQRSIKZeTYEZfzBSV"
-        }
-      ],
-      "duration_ms": 168070,
-      "name": "Gratitude - Piano Version",
-      "url": "https://open.spotify.com/track/6NRlMs8bsOLHaUAVU3wGH9"
     },
     {
       "added_at": "2026-07-29 15:30:21",

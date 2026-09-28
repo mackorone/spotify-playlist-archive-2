@@ -1,12 +1,12 @@
 {
   "description": "FREE SUBMISSIONS - Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music. Just submit via my linktree: https:&#x2F;&#x2F;linktr.ee&#x2F;Anythings.Possible.Music",
-  "num_followers": 5989,
+  "num_followers": 5991,
   "original_name": "30 Days of New Unsigned Music",
   "owner": {
     "name": "Anything's Possible Music",
     "url": "https://open.spotify.com/user/ashdown1981"
   },
-  "snapshot_id": "AAA8nkWL2bTniZ3dBu1Cgxzvd+kCShp0",
+  "snapshot_id": "AAA8oVRJmzqb7aKceCA031w6u6LJQXcc",
   "tracks": [
     {
       "added_at": "2026-06-04 08:55:44",
@@ -3683,6 +3683,54 @@
       "duration_ms": 196027,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/1p6gPdesVFeJ0iUIW36szB"
+    },
+    {
+      "added_at": "2026-09-27 14:01:45",
+      "album": {
+        "name": "stop.",
+        "url": "https://open.spotify.com/album/2z5jxArslgu5eADxVOKHEY"
+      },
+      "artists": [
+        {
+          "name": "Hopeless Fanatics",
+          "url": "https://open.spotify.com/artist/3Hn2sCYhyCAxm9DDpI1Wdq"
+        }
+      ],
+      "duration_ms": 198975,
+      "name": "stop.",
+      "url": "https://open.spotify.com/track/5WcQwdqQqyPQt40ZsWhZYX"
+    },
+    {
+      "added_at": "2026-09-27 14:02:00",
+      "album": {
+        "name": "Warm knife",
+        "url": "https://open.spotify.com/album/3onualR1S0Nkpg30Zi3O6h"
+      },
+      "artists": [
+        {
+          "name": "Vex Feral",
+          "url": "https://open.spotify.com/artist/18Pr9UpFLLBaZzlkEk99fZ"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Warm knife",
+      "url": "https://open.spotify.com/track/48pHWeZsV104huCwzB0esa"
+    },
+    {
+      "added_at": "2026-09-27 14:05:19",
+      "album": {
+        "name": "Kerosene and Quiet",
+        "url": "https://open.spotify.com/album/0buszoDx9WDO5QOoFvzW4E"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Spears",
+          "url": "https://open.spotify.com/artist/4KbEVKNVboYHNcVmQWu76O"
+        }
+      ],
+      "duration_ms": 202736,
+      "name": "Kerosene and Quiet",
+      "url": "https://open.spotify.com/track/2I0QT2r36Rtvc26hkhgrCC"
     }
   ],
   "unique_name": "30 Days of New Unsigned Music",

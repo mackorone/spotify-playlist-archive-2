@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Poperos Latinos Vol. 5",
+        "url": "https://open.spotify.com/album/2jmxMXc7iCLfb4RPlAJTx8"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219693,
+      "name": "Ag\u00fcita",
+      "url": "https://open.spotify.com/track/2b64fUwHcq8lkV7SPy6wRQ"
+    },
+    {
+      "album": {
         "name": "Pasitos Poperos Vol. 3",
         "url": "https://open.spotify.com/album/3op100AmQIaxv3Ga4RXJdB"
       },

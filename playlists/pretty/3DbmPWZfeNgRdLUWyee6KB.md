@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 94 songs - 5 hr 27 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 96 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 92 | [Stoic](https://open.spotify.com/track/6fCdbzBzDmjXjO4gIi38Hx) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [Stoic](https://open.spotify.com/album/7qZ0SK0Ue7wYvfuIoN9onG) | 4:05 |
 | 93 | [Al pairo](https://open.spotify.com/track/2e03RteiwIk5cliJ6OQ7rT) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 2:15 |
 | 94 | [Metamorphosis](https://open.spotify.com/track/2co2ajfNKnlrkJROMfhMeH) | [Benjamin Reid](https://open.spotify.com/artist/0QetsFiiAJQBjwno0bpd8E) | [Metamorphosis](https://open.spotify.com/album/5Ei1iDAMUtxXsN547B8jZF) | 2:37 |
+| 95 | [Longtemps](https://open.spotify.com/track/7snx7dKDuKEyDT9nHGox4n) | [Mathieu Gattuso](https://open.spotify.com/artist/5R3q8fx3lfNhMCKugdiRBx) | [Longtemps](https://open.spotify.com/album/3zaN8YcOHLzG2rhZ2rUneA) | 3:09 |
+| 96 | [Last Summer](https://open.spotify.com/track/5snG4evSZghfsO38qn45H2) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [Last Summer](https://open.spotify.com/album/36672bMz4vaEqjqEJR96Pn) | 3:28 |
 
-Snapshot ID: `AAAYUpUwRyORe8ztBJGvmItWb/sDOUTT`
+Snapshot ID: `AAAYVJu73SQeEKq650qt3465w7IudVXL`

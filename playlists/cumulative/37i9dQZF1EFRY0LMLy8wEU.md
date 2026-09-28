@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-82 songs - 10 hr 19 min
+83 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Nothing You Can't Do](https://open.spotify.com/track/5ElLO48oy2MmZaCUImxEb7) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR) | [Let Us Worship \- Philadelphia](https://open.spotify.com/album/2JHJVdpsoO32fQq1xVDIDS) | 5:36 | 2024-06-13 |  |
 | [Nothing You Can't Do](https://open.spotify.com/track/16ibtW4CG0OdbCuI45cc2B) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Let Us Worship \- Kingdom to the Capitol](https://open.spotify.com/album/5PaeB0wIctrq829QPHekdo) | 5:44 | 2024-11-05 | 2026-07-16 |
 | [Oh The Cross \- Live](https://open.spotify.com/track/4cRltwg0L1MX78Nu8YTHDG) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [Land Of The Living \(Live\)](https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa) | 7:01 | 2025-01-09 | 2025-04-12 |
+| [Over and Over Again](https://open.spotify.com/track/42AOaOTebpjOa5u7Cpu769) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Over and Over Again](https://open.spotify.com/album/1nVMZxHp0EfMvsZqEu78ci) | 4:20 | 2026-09-27 |  |
 | [People Get Ready \- Live](https://open.spotify.com/track/1eHZstNbimf2jwI52UhYoj) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [All My Life \(Live\)](https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba) | 5:57 | 2024-06-13 |  |
 | [Satisfied / Keep My Eyes Up \- Medley](https://open.spotify.com/track/1K79lWG1jzrZh4AY7uelBV) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire](https://open.spotify.com/album/5yZ2pKz63STf8a7ZbBkASd) | 7:26 | 2024-06-13 |  |
 | [Stand Here](https://open.spotify.com/track/78j9UsXJxngPs5bcrLJj9A) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Joshua Brennt](https://open.spotify.com/artist/5t40yB32RGnzTLYiAOzYHp) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 7:50 | 2025-05-03 | 2026-07-16 |

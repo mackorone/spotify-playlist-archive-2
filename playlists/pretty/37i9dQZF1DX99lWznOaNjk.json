@@ -1,13 +1,29 @@
 {
   "description": "Today's biggest and most exciting videos. Music videos available only on Premium.",
-  "num_followers": 31220,
+  "num_followers": 31317,
   "original_name": "Today's Top Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJZrCIXpKI3g+GmAMIu8HXU3bx5B",
+  "snapshot_id": "AAAAAMaGRE0UMDkOxdbVMRf8VFHw2Cvj",
   "tracks": [
+    {
+      "added_at": "2026-09-28 01:27:36",
+      "album": {
+        "name": "Patient Zero",
+        "url": "https://open.spotify.com/album/0KtMqHPyc0L7unLa6wcKsA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 312320,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/5Aats2q7uoe1GDBAgNoS3L"
+    },
     {
       "added_at": "2026-09-21 14:00:12",
       "album": {

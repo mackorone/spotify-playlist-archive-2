@@ -2629,6 +2629,24 @@
     },
     {
       "album": {
+        "name": "Delusional Daydream",
+        "url": "https://open.spotify.com/album/2oe6AdaailGYT0AAjlD8k6"
+      },
+      "artists": [
+        {
+          "name": "The Last Pioneers",
+          "url": "https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197661,
+      "name": "Delusional Daydream",
+      "url": "https://open.spotify.com/track/2WtIj15qAaG0lfeWyjvPOU"
+    },
+    {
+      "album": {
         "name": "Despierta",
         "url": "https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX"
       },
@@ -4286,6 +4304,24 @@
       "duration_ms": 169734,
       "name": "GROWING",
       "url": "https://open.spotify.com/track/7zbLzzH7GOOAKcNtnr3hcR"
+    },
+    {
+      "album": {
+        "name": "Growth Extractors",
+        "url": "https://open.spotify.com/album/131O9HDEtaDDpFlQ0sToor"
+      },
+      "artists": [
+        {
+          "name": "One Dimensional Creatures",
+          "url": "https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170741,
+      "name": "Growth Extractors",
+      "url": "https://open.spotify.com/track/04KFDvCLLzh00ULv3HuKox"
     },
     {
       "album": {

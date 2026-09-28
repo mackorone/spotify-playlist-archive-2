@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,376 songs - 5 day 3 hr 16 min
+2,377 songs - 5 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [100 GÅNGER TILL](https://open.spotify.com/track/2eSvlPyGNqCOriM3ibovQF) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [100 GÅNGER TILL](https://open.spotify.com/album/4llO7R9Fy8hzLQzNS7iKnP) | 3:21 | 2021-12-16 | 2022-01-03 |
 | [100 m](https://open.spotify.com/track/7ypXhGlc3KvaghLisybEz9) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [100 m](https://open.spotify.com/album/4Hmb99zrLMh6mWw9W7Ojv6) | 2:52 | 2025-03-14 | 2025-06-01 |
 | [112](https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [112](https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7) | 3:16 | 2025-03-20 | 2025-06-13 |
+| [120\-säng](https://open.spotify.com/track/7D3ZwUS3PsFtOIk5pifgvy) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [120\-säng](https://open.spotify.com/album/5YPkGnfwd6g6CeoTGVVuCh) | 3:44 | 2026-09-24 |  |
 | [180](https://open.spotify.com/track/3jxCt8bqqdFmsW8R2AlFb0) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [180](https://open.spotify.com/album/1jkSQISZ1yztdQ9W412JMS) | 3:20 | 2024-04-18 | 2024-05-17 |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-28 | 2023-06-23 |
 | [2 Good 4 U](https://open.spotify.com/track/7JjyJly7Fm17M0C9E01E6Q) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [2 Good 4 U](https://open.spotify.com/album/7rJGVn5RFUhwBU7Kz07hzO) | 3:43 | 2026-03-19 | 2026-03-30 |
@@ -2099,7 +2100,7 @@
 | [Together](https://open.spotify.com/track/1Z5LUX0cHKI6V3aAQ9AfNQ) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Together](https://open.spotify.com/album/4NuQmXyWmVWl7vaFtWSp81) | 2:59 | 2023-12-08 | 2024-03-08 |
 | [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 | 2023-10-20 |
 | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/album/2zSpEzpWaPkCjjFLXtM1JP) | 2:22 | 2026-06-11 |  |
-| [Tomma läppar](https://open.spotify.com/track/5oTwWYGGvz9c5S2kcQCYxf) | [Kid](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [Tomma läppar](https://open.spotify.com/album/00q31p6qqDvVBNi7Y0oYv4) | 2:58 | 2026-05-14 |  |
+| [Tomma läppar](https://open.spotify.com/track/5oTwWYGGvz9c5S2kcQCYxf) | [Kid](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [Tomma läppar](https://open.spotify.com/album/00q31p6qqDvVBNi7Y0oYv4) | 2:58 | 2026-05-14 | 2026-09-28 |
 | [Tonårsdröm](https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Lijam](https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN) | [Tonårsdröm](https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ) | 3:34 | 2025-12-29 | 2026-03-20 |
 | [Too Kind](https://open.spotify.com/track/5EbEsJFurAUO2WrMjr5ppZ) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [Too Kind](https://open.spotify.com/album/5VCfwebiNPDB2Zgi4rSvbH) | 2:54 | 2024-01-25 | 2024-01-28 |
 | [Torka dina tårar](https://open.spotify.com/track/1J1IL6aC8k8q64ecwOUlSw) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Torka dina tårar](https://open.spotify.com/album/2GK7kCZljQxjGzDSnlq91N) | 3:12 | 2024-05-30 | 2024-06-28 |

@@ -2691,6 +2691,32 @@
     },
     {
       "album": {
+        "name": "Stop Counting The Days",
+        "url": "https://open.spotify.com/album/2Xdj3YtsLdS9tc9E2bA3ux"
+      },
+      "artists": [
+        {
+          "name": "Gengvej",
+          "url": "https://open.spotify.com/artist/5orPYxWUhMUSVZoXTXBqoW"
+        },
+        {
+          "name": "Flavio Concini",
+          "url": "https://open.spotify.com/artist/3jLHL53ah3fwCCpSG7ptFw"
+        },
+        {
+          "name": "Gautam Tamang",
+          "url": "https://open.spotify.com/artist/3BQYDslFM9mnFXMvYopxxk"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248808,
+      "name": "Stop Counting The Days",
+      "url": "https://open.spotify.com/track/3QO0iyVTjYWojljMMhuaEV"
+    },
+    {
+      "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/3VpAsksWzfNm6r7cHL8w6t"
       },

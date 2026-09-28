@@ -4,7 +4,7 @@
 
 > Enjoy music From "Paradox Live"! ©Paradox Live2023
 
-160 songs - 22 hr 43 min
+161 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [MAGIC CARPET](https://open.spotify.com/track/7kznGbmLRWbEjPmNdUxpcO) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live Opening Show \-Battle of Unity\- Unit R](https://open.spotify.com/album/2w7gbywyv7lFjvmwp6onBb) | 3:40 | 2026-09-15 |  |
 | [Mainstream](https://open.spotify.com/track/4fTxxeetlTqcbqP44AtpgW) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 3:26 | 2026-09-15 |  |
 | [MASTER OF MUSIC](https://open.spotify.com/track/5AC8Tcm230qVwmCUJcPae7) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live Opening Show](https://open.spotify.com/album/6fKbSZBTnEwPvnCrqOcwLs) | 4:22 | 2022-03-29 | 2026-09-16 |
-| [Mercy On Me](https://open.spotify.com/track/4qwWEjyBecq8UhxntDOtPt) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live Stage Battle “LOVE"](https://open.spotify.com/album/29HhqoHBKrxYODgrc1Klk0) | 3:47 | 2022-03-29 |  |
+| [Mercy On Me](https://open.spotify.com/track/4qwWEjyBecq8UhxntDOtPt) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live Stage Battle “LOVE"](https://open.spotify.com/album/29HhqoHBKrxYODgrc1Klk0) | 3:47 | 2022-03-29 | 2026-09-28 |
 | [My Sweetest Love \- feat\. ミッチェル和馬](https://open.spotify.com/track/3Vy07r6U50pdOEhMFNoz5v) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [ミッチェル和馬](https://open.spotify.com/artist/5zTmFDG1UQZv21KlJp3SVH) | [Paradox Live Exhibition Show \-The Cat’s Whiskers\-](https://open.spotify.com/album/5mZkoKj6iJyrdr2c8Rf2wD) | 4:32 | 2022-03-29 | 2026-09-16 |
 | [New ＆ Classic](https://open.spotify.com/track/6pkYkpcB1VbexZRe7Epz3o) | [朱雀野アレン](https://open.spotify.com/artist/3L2R5NrRednQ8aK3fCrsqn), [西門直明](https://open.spotify.com/artist/5Mc3s7ESahaPs9jUPNLn33), [燕夏準](https://open.spotify.com/artist/6IQXL6FP1MHrFrMO329e8I), [New&Classic](https://open.spotify.com/artist/1DZmCPWaQd3veiPUAZaMHm) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:25 | 2022-03-29 | 2026-09-16 |
 | [No Matter What](https://open.spotify.com/track/7DZ7IveWyOt03jkxMGxpPT) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live \-Road to Legend\- \(Round2 “WILL"\)](https://open.spotify.com/album/0eeHzEubbMtSUAQPx2Yv2T) | 3:08 | 2023-04-25 | 2026-09-16 |
@@ -161,6 +161,7 @@
 | [W△vin' FL△g](https://open.spotify.com/track/3QvISTHoFVlCgQbCtHsmt5) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 4:28 | 2022-03-29 | 2026-09-16 |
 | [Яesonance](https://open.spotify.com/track/5fxY8RGA1HVss4W2MRExks) | [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live Opening Show \-Battle of Unity\- Unit A](https://open.spotify.com/album/2oX3jgGmhPQn8XLMm2gO1C) | 3:52 | 2026-09-15 | 2026-09-21 |
 | [イケナイ太陽](https://open.spotify.com/track/2rMzdTtHgqQZPNFEx9bxSx) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 3:42 | 2026-09-15 |  |
+| [ウェカピポ](https://open.spotify.com/track/1LbU7xrc2n2YBR8NUyqN4B) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 4:14 | 2026-09-15 |  |
 | [カタルシス](https://open.spotify.com/track/1p2JlehLqhUTd8WXiOI2wA) | [獄Luck](https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA) | [Paradox Live 3rd album "ANTHEM"](https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD) | 3:30 | 2026-09-15 |  |
 | [ギラギラCANDY NIGHT](https://open.spotify.com/track/3ARfJSBeTcwEe3vDwxy1CH) | [アン・フォークナー](https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM), [翠石依織](https://open.spotify.com/artist/4QehghJ7APvk7yrN0YQo5Z), [雅邦善](https://open.spotify.com/artist/5VBOz8EhAcIpiw1Eyw4B78), [伊藤紗月](https://open.spotify.com/artist/4bdhyD5JaQnFzsYay9XKnV) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:51 | 2022-03-29 |  |
 | [ビーチサイドZOO](https://open.spotify.com/track/19qYkTWLZEV8VCZEL5EVGK) | [team Summer](https://open.spotify.com/artist/0n0NYX7hN26kMCBFjaqI7l) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 4:10 | 2025-05-27 |  |

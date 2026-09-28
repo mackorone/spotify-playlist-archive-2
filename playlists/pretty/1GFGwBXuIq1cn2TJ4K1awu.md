@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Updated every Sunday\. Ten songs plus a bonus\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 37 likes - 11 songs - 42 min 20 sec
+[royva06](https://open.spotify.com/user/royva06) - 37 likes - 11 songs - 40 min 38 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
-| 2 | [Solid Grease](https://open.spotify.com/track/4KL2LvMU6ebkXUcitOCNXc) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Moonshine Freeze](https://open.spotify.com/album/0ekbANyejam0fKM6fDtdZT) | 3:48 |
-| 3 | [I Wish It Would Rain](https://open.spotify.com/track/7yxkUamfdRreQ2UWuJgz7f) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Four Brothers \(Music From The Original Motion Picture\)](https://open.spotify.com/album/77Au7fzif5P8A95XSjDTL2) | 2:45 |
-| 4 | [It Will Rain](https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:17 |
-| 5 | [Beadie](https://open.spotify.com/track/2TNslJOA7PiSMibQn5ZJk0) | [Sluice](https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j) | [Companion](https://open.spotify.com/album/7tIAKXEuqT5IGs8HZXb0cz) | 4:00 |
-| 6 | [Mexicola](https://open.spotify.com/track/4NK1A89eLfNQPCoOLxLCSl) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 4:55 |
-| 7 | [I'll Get There](https://open.spotify.com/track/4MXxd2JFZgUs1MhS4AAZQb) | [All](https://open.spotify.com/artist/4UWlpzLFbNdlaRXuZeTPlH) | [Mass Nerder](https://open.spotify.com/album/2tYhYWn0cbm9uIGMmNf7LQ) | 2:23 |
-| 8 | [Paradise By the Dashboard Light](https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 8:29 |
-| 9 | [Tell Him](https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 2:31 |
-| 10 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
-| 11 | [Fight To Live](https://open.spotify.com/track/2nU4VND7sfHwzweYzCSMoI) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [Hopeless Romantic](https://open.spotify.com/album/56CbFyDsG65LI1Eoh7hsOT) | 2:57 |
+| 1 | [I can do what I want](https://open.spotify.com/track/3pAggfK0BtAzU6fDyW6DUy) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 3:00 |
+| 2 | [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 |
+| 3 | [Are You That Somebody?](https://open.spotify.com/track/4QTO9eLRONw0rzOVWU4uB4) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/1Sh0y0PpnIKfyWJqqIk8LP) | 4:25 |
+| 4 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 |
+| 5 | [Katherine The Grateful](https://open.spotify.com/track/4eODjOjquuFtkHlqoSqety) | [Knapsack](https://open.spotify.com/artist/7kcgO0DTza7One0HqXRIH7) | [This Conversation Is Ending Starting Right Now](https://open.spotify.com/album/0wGnULzBLkxGa1FS4LSqmK) | 3:17 |
+| 6 | [Is It Real?](https://open.spotify.com/track/0gtZYdvwrD5th0JUpc0xfO) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Blame The Clown](https://open.spotify.com/album/6WVULKossUfiq6AkHBZtIp) | 3:01 |
+| 7 | [Wild Side Of Life](https://open.spotify.com/track/0K8iGXV5TXDz6RWfHMcJ1m) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [Before The Next Teardrop Falls](https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd) | 3:07 |
+| 8 | [Mannish Boy](https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 5:21 |
+| 9 | [Eyeless](https://open.spotify.com/track/2yYX7KbfWZrezWVW1vN3iz) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot](https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU) | 3:56 |
+| 10 | [I'm a Ramblin' Man](https://open.spotify.com/track/5cXdB92xagJr4b30GjRbfX) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 2:46 |
+| 11 | [Long Promised Road \- Remastered 2009](https://open.spotify.com/track/4x3wjsXr6MtWNXii5gA1Ai) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 3:32 |
 
-Snapshot ID: `AAAMSaGRM5yzZwI5XP20Hi46ouvlkU8A`
+Snapshot ID: `AAAMXzL6huSAPrtpum0TyP4yYstRbckZ`

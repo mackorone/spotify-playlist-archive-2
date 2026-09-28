@@ -13013,6 +13013,24 @@
     },
     {
       "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/36672bMz4vaEqjqEJR96Pn"
+      },
+      "artists": [
+        {
+          "name": "Snow64",
+          "url": "https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208111,
+      "name": "Last Summer",
+      "url": "https://open.spotify.com/track/5snG4evSZghfsO38qn45H2"
+    },
+    {
+      "album": {
         "name": "Last Train (Piano Version)",
         "url": "https://open.spotify.com/album/0gR016ZqYp1xZ0r49oAq64"
       },
@@ -13800,6 +13818,24 @@
       "duration_ms": 232920,
       "name": "Long Way Back",
       "url": "https://open.spotify.com/track/5KzTKN4TB4pPsMLQMuzUAr"
+    },
+    {
+      "album": {
+        "name": "Longtemps",
+        "url": "https://open.spotify.com/album/3zaN8YcOHLzG2rhZ2rUneA"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Gattuso",
+          "url": "https://open.spotify.com/artist/5R3q8fx3lfNhMCKugdiRBx"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189468,
+      "name": "Longtemps",
+      "url": "https://open.spotify.com/track/7snx7dKDuKEyDT9nHGox4n"
     },
     {
       "album": {

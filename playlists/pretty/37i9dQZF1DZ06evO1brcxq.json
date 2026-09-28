@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 228439,
+  "num_followers": 228488,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arW5gAAAAACNLADyeedBY//f4GoxPAtO",
+  "snapshot_id": "arcLAAAAAAB2yFZKKu5UYYcF7FQIn8yw",
   "tracks": [
     {
       "added_at": null,
@@ -291,18 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUCKER",
-        "url": "https://open.spotify.com/album/62qlgaMyt18VgBtRCM29hd"
+        "name": "Danceteria Afterhours",
+        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
       },
       "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 169866,
-      "name": "Boom Clap",
-      "url": "https://open.spotify.com/track/7982sGZuvo5OXsY6REzgIn"
+      "duration_ms": 230503,
+      "name": "Danceteria Afterhours",
+      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
     },
     {
       "added_at": null,
@@ -323,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danceteria Afterhours",
-        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
+        "name": "SUCKER",
+        "url": "https://open.spotify.com/album/62qlgaMyt18VgBtRCM29hd"
       },
       "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 230503,
-      "name": "Danceteria Afterhours",
-      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
+      "duration_ms": 169866,
+      "name": "Boom Clap",
+      "url": "https://open.spotify.com/track/7982sGZuvo5OXsY6REzgIn"
     },
     {
       "added_at": null,
@@ -679,34 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Is Romantic",
-        "url": "https://open.spotify.com/album/112GawXdnJBQmtCMcKK2BK"
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Orchestra Club",
-          "url": "https://open.spotify.com/artist/1U35nN8eXQXry3bbF53oKX"
-        },
-        {
-          "name": "Jae Deal",
-          "url": "https://open.spotify.com/artist/0uZEkOwBS978PP7EvoyCDQ"
-        },
-        {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Jasper Harris",
-          "url": "https://open.spotify.com/artist/57B9ghF6pGxBzFfOYLAcRA"
         }
       ],
-      "duration_ms": 141641,
-      "name": "Everything Is Romantic",
-      "url": "https://open.spotify.com/track/2hq4SgBu1nvOQAsMu6Pjl9"
+      "duration_ms": 124066,
+      "name": "pink diamond",
+      "url": "https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY"
     },
     {
       "added_at": null,
@@ -747,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 124066,
-      "name": "pink diamond",
-      "url": "https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUCKER",
         "url": "https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU"
       },
@@ -779,6 +747,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "detonate",
+      "url": "https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Is Romantic",
+        "url": "https://open.spotify.com/album/112GawXdnJBQmtCMcKK2BK"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Orchestra Club",
+          "url": "https://open.spotify.com/artist/1U35nN8eXQXry3bbF53oKX"
+        },
+        {
+          "name": "Jae Deal",
+          "url": "https://open.spotify.com/artist/0uZEkOwBS978PP7EvoyCDQ"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Jasper Harris",
+          "url": "https://open.spotify.com/artist/57B9ghF6pGxBzFfOYLAcRA"
+        }
+      ],
+      "duration_ms": 141641,
+      "name": "Everything Is Romantic",
+      "url": "https://open.spotify.com/track/2hq4SgBu1nvOQAsMu6Pjl9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -791,6 +807,22 @@
       "duration_ms": 138800,
       "name": "Yuck",
       "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUCKER",
+        "url": "https://open.spotify.com/album/2fGpw56D35My0c82eNfKJF"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 203907,
+      "name": "Break the Rules",
+      "url": "https://open.spotify.com/track/70ebKSMHvkUSg7JXgUz74Q"
     },
     {
       "added_at": null,
@@ -824,25 +856,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 219426,
-      "name": "detonate",
-      "url": "https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUCKER",
-        "url": "https://open.spotify.com/album/2fGpw56D35My0c82eNfKJF"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 203907,
-      "name": "Break the Rules",
-      "url": "https://open.spotify.com/track/70ebKSMHvkUSg7JXgUz74Q"
+      "duration_ms": 243672,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB"
     },
     {
       "added_at": null,
@@ -875,22 +891,6 @@
       "duration_ms": 188360,
       "name": "You - Ha Ha Ha",
       "url": "https://open.spotify.com/track/6Eiu7cflRNm6pCSSo1XeE1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 243672,
-      "name": "forever",
-      "url": "https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB"
     }
   ],
   "unique_name": "This Is Charli xcx",

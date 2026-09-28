@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 703891,
+  "num_followers": 703965,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/3jQBAyQVJSl9fc6l4tsWWP"
     },
     {
-      "added_at": "2023-10-19 18:31:49",
-      "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/0rdqoGy3iMbJJDjiOKrywY"
-      },
-      "artists": [
-        {
-          "name": "Blue Smiley",
-          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
-        }
-      ],
-      "duration_ms": 75297,
-      "name": "flower",
-      "url": "https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q"
-    },
-    {
       "added_at": "2022-09-28 23:01:40",
       "album": {
         "name": "Blow",
@@ -215,6 +199,22 @@
       "duration_ms": 281666,
       "name": "Tastes Like Honey",
       "url": "https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T"
+    },
+    {
+      "added_at": "2023-10-19 18:31:49",
+      "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/0rdqoGy3iMbJJDjiOKrywY"
+      },
+      "artists": [
+        {
+          "name": "Blue Smiley",
+          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
+        }
+      ],
+      "duration_ms": 75297,
+      "name": "flower",
+      "url": "https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Raise",
-        "url": "https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw"
-      },
-      "artists": [
-        {
-          "name": "Swervedriver",
-          "url": "https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Rave Down",
-      "url": "https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "B-Sides & Rarities",
         "url": "https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 249013,
       "name": "Wax and Wane - 2005 Remaster",
       "url": "https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Raise",
+        "url": "https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw"
+      },
+      "artists": [
+        {
+          "name": "Swervedriver",
+          "url": "https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu"
+        }
+      ],
+      "duration_ms": 306200,
+      "name": "Rave Down",
+      "url": "https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj"
     },
     {
       "added_at": "2023-10-19 18:31:49",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Is the Is Are",
         "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Winks & Kisses: Melted",
         "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 566466,
       "name": "In Your Room",
       "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/2YUNV2XbvydCwHLTpBV5A0"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/4E6YM4V7Kz6zpbiNsliwEl"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1423,22 +1439,6 @@
       "duration_ms": 265466,
       "name": "Skin Game",
       "url": "https://open.spotify.com/track/2Paii6qKa1C0AKWLFnruFy"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Psychocandy",
-        "url": "https://open.spotify.com/album/2YUNV2XbvydCwHLTpBV5A0"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Just Like Honey",
-      "url": "https://open.spotify.com/track/4E6YM4V7Kz6zpbiNsliwEl"
     },
     {
       "added_at": "2021-06-03 02:39:04",

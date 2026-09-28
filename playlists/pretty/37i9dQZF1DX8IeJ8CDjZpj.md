@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > boot cut, extra heavy el almidón y el sombrero que no falte\. La Energía Norteña en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,506 likes - 115 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,489 likes - 115 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

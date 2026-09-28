@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: SONNIE 桑尼
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,333 likes - 76 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,339 likes - 76 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

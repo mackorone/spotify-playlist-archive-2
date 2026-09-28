@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe DENNA LA PORRI y 8Uno en portada",
-  "num_followers": 460117,
+  "num_followers": 460119,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-09-22 23:19:16",
       "album": {
+        "name": "El Botecito",
+        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
+    },
+    {
+      "added_at": "2026-09-22 23:19:16",
+      "album": {
         "name": "C\u00f3mo Te Voy a Olvidar",
         "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 216986,
       "name": "Mis Sentimientos",
       "url": "https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4"
-    },
-    {
-      "added_at": "2026-09-22 23:19:16",
-      "album": {
-        "name": "El Botecito",
-        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "El Botecito",
-      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
     },
     {
       "added_at": "2026-09-22 23:19:16",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-09-22 23:19:16",
       "album": {
-        "name": "Serie Fiesta",
-        "url": "https://open.spotify.com/album/3DshPsOHjY7OQa1PFRrtKq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/46MuirMMSyr2aqbCdnPyBh"
-    },
-    {
-      "added_at": "2026-09-22 23:19:16",
-      "album": {
         "name": "Los Reyes De Los Sonidos",
         "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 216613,
       "name": "El Paso Del Gigante",
       "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+    },
+    {
+      "added_at": "2026-09-22 23:19:16",
+      "album": {
+        "name": "Serie Fiesta",
+        "url": "https://open.spotify.com/album/3DshPsOHjY7OQa1PFRrtKq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/46MuirMMSyr2aqbCdnPyBh"
     },
     {
       "added_at": "2026-09-22 23:19:16",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2026-09-22 23:19:16",
       "album": {
-        "name": "Nuevamente! Salsas y Cumbias",
-        "url": "https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ"
+        "name": "La Charamusca",
+        "url": "https://open.spotify.com/album/4aKNeN2AAU4alvDmtUJOCG"
       },
       "artists": [
         {
-          "name": "El Combo Palacio",
-          "url": "https://open.spotify.com/artist/3aBcVktPy5mssT2slj5kC7"
-        },
-        {
-          "name": "Los Virtuosos De La Salsa",
-          "url": "https://open.spotify.com/artist/1q9QXB3clbcfukhyR5aLub"
+          "name": "Sonido La Conga",
+          "url": "https://open.spotify.com/artist/46OZl3GCx6gVfyqMIbS1ex"
         }
       ],
-      "duration_ms": 252000,
-      "name": "El Negro Jos\u00e9",
-      "url": "https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2"
+      "duration_ms": 216106,
+      "name": "La Charamusca",
+      "url": "https://open.spotify.com/track/5FhS4o00eET27gljoXscDw"
     },
     {
       "added_at": "2026-09-22 23:19:16",
@@ -1287,18 +1283,38 @@
     {
       "added_at": "2026-09-22 23:19:16",
       "album": {
-        "name": "La Charamusca",
-        "url": "https://open.spotify.com/album/4aKNeN2AAU4alvDmtUJOCG"
+        "name": "Nuevamente! Salsas y Cumbias",
+        "url": "https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ"
       },
       "artists": [
         {
-          "name": "Sonido La Conga",
-          "url": "https://open.spotify.com/artist/46OZl3GCx6gVfyqMIbS1ex"
+          "name": "El Combo Palacio",
+          "url": "https://open.spotify.com/artist/3aBcVktPy5mssT2slj5kC7"
+        },
+        {
+          "name": "Los Virtuosos De La Salsa",
+          "url": "https://open.spotify.com/artist/1q9QXB3clbcfukhyR5aLub"
         }
       ],
-      "duration_ms": 216106,
-      "name": "La Charamusca",
-      "url": "https://open.spotify.com/track/5FhS4o00eET27gljoXscDw"
+      "duration_ms": 252000,
+      "name": "El Negro Jos\u00e9",
+      "url": "https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2"
+    },
+    {
+      "added_at": "2026-09-22 23:19:16",
+      "album": {
+        "name": "Adicto a Tu Piel (Rebajada)",
+        "url": "https://open.spotify.com/album/74pQxU1c30gMJp7OF5XugE"
+      },
+      "artists": [
+        {
+          "name": "Yulios Kumbia",
+          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Adicto a Tu Piel (Rebajada)",
+      "url": "https://open.spotify.com/track/70jvpdUE9glYJHYWaWb4Er"
     },
     {
       "added_at": "2026-09-22 23:19:16",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2026-09-22 23:19:16",
       "album": {
-        "name": "Adicto a Tu Piel (Rebajada)",
-        "url": "https://open.spotify.com/album/74pQxU1c30gMJp7OF5XugE"
-      },
-      "artists": [
-        {
-          "name": "Yulios Kumbia",
-          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Adicto a Tu Piel (Rebajada)",
-      "url": "https://open.spotify.com/track/70jvpdUE9glYJHYWaWb4Er"
-    },
-    {
-      "added_at": "2026-09-22 23:19:16",
-      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos, Vol. 2",
         "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-09-22 23:19:16",
       "album": {
-        "name": "UVV Vol. 8 (En Vivo)",
-        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 709545,
-      "name": "Medley Apache - En Vivo",
-      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
-    },
-    {
-      "added_at": "2026-09-22 23:19:16",
-      "album": {
         "name": "Sin Salsa No Hay Para\u00edso",
         "url": "https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 281546,
       "name": "Achilip\u00fa",
       "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
+    },
+    {
+      "added_at": "2026-09-22 23:19:16",
+      "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 709545,
+      "name": "Medley Apache - En Vivo",
+      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
     },
     {
       "added_at": "2026-09-22 23:19:16",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2026-09-22 23:19:16",
       "album": {
+        "name": "Tarjeta de Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/25oQJ8sgrHVw4PWSiZfz6G"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Ca\u00f1onera",
+          "url": "https://open.spotify.com/artist/6RIn3Qij1ciRIgOzvayySD"
+        }
+      ],
+      "duration_ms": 203415,
+      "name": "Te Espero en el Cielo",
+      "url": "https://open.spotify.com/track/7bfwPC7Yng1uKEZcoBguCV"
+    },
+    {
+      "added_at": "2026-09-22 23:19:16",
+      "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 244000,
       "name": "La Colaless (En Vivo)",
       "url": "https://open.spotify.com/track/1MZqax5Y23EZZLXq2EQE6d"
-    },
-    {
-      "added_at": "2026-09-22 23:19:16",
-      "album": {
-        "name": "Tarjeta de Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/25oQJ8sgrHVw4PWSiZfz6G"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Ca\u00f1onera",
-          "url": "https://open.spotify.com/artist/6RIn3Qij1ciRIgOzvayySD"
-        }
-      ],
-      "duration_ms": 203415,
-      "name": "Te Espero en el Cielo",
-      "url": "https://open.spotify.com/track/7bfwPC7Yng1uKEZcoBguCV"
     },
     {
       "added_at": "2026-09-22 23:19:16",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-09-22 23:19:16",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1",
-        "url": "https://open.spotify.com/album/338PArRoNVAL7dTcmT5DZV"
-      },
-      "artists": [
-        {
-          "name": "Llama Y Azul El Nuevo Sonido Andino De La Cumbia",
-          "url": "https://open.spotify.com/artist/2OnCxDKWQ8afvPJ2R6Gc6b"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "Claudia",
-      "url": "https://open.spotify.com/track/72V24MGd2YS7eyjMakPpHA"
-    },
-    {
-      "added_at": "2026-09-22 23:19:16",
-      "album": {
         "name": "Pa' La Pista y Pa'l Pisto, Vol. 2",
         "url": "https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 250958,
       "name": "Guacharaca Reina de la Cumbia - La Reina Guacharaca",
       "url": "https://open.spotify.com/track/2ZvYQaFP7zTAObZwkAkE9N"
+    },
+    {
+      "added_at": "2026-09-22 23:19:16",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 1",
+        "url": "https://open.spotify.com/album/338PArRoNVAL7dTcmT5DZV"
+      },
+      "artists": [
+        {
+          "name": "Llama Y Azul El Nuevo Sonido Andino De La Cumbia",
+          "url": "https://open.spotify.com/artist/2OnCxDKWQ8afvPJ2R6Gc6b"
+        }
+      ],
+      "duration_ms": 201360,
+      "name": "Claudia",
+      "url": "https://open.spotify.com/track/72V24MGd2YS7eyjMakPpHA"
     },
     {
       "added_at": "2026-09-22 23:19:16",

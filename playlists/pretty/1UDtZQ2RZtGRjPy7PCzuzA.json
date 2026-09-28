@@ -6,7 +6,7 @@
     "name": "\ud835\udcbf\ud835\udcca\ud835\udcc1\ud835\udcbe",
     "url": "https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu"
   },
-  "snapshot_id": "AAANttnWt163uxlHSQPME9YGIpCZJ4b2",
+  "snapshot_id": "AAANu8nde1tbe+E7WBKaVXRrA3jWPYkB",
   "tracks": [
     {
       "added_at": "2026-08-15 08:53:39",
@@ -8131,22 +8131,6 @@
       "duration_ms": 83632,
       "name": "Meet Me Inside",
       "url": "https://open.spotify.com/track/6p7jXaTJdpzGWnOJoK2jYr"
-    },
-    {
-      "added_at": "2026-05-01 09:44:53",
-      "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu"
     },
     {
       "added_at": "2026-05-01 09:44:53",
@@ -29851,6 +29835,86 @@
       "duration_ms": 170541,
       "name": "Shiny Collarbone",
       "url": "https://open.spotify.com/track/0Q9ysQo1UUc5aFMhbCShjv"
+    },
+    {
+      "added_at": "2026-09-27 06:33:48",
+      "album": {
+        "name": "Elgar: Enigma Variations",
+        "url": "https://open.spotify.com/album/6cQgp3yFQPJwXR0FmFS4ym"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        }
+      ],
+      "duration_ms": 367600,
+      "name": "Enigma Variations, Op. 36: Var. 9. Adagio \"Nimrod\"",
+      "url": "https://open.spotify.com/track/6L1ya2i7ploS0eR2PIYOzq"
+    },
+    {
+      "added_at": "2026-09-27 11:27:36",
+      "album": {
+        "name": "Bizet: Carmen & L'arl\u00e9sienne Suites",
+        "url": "https://open.spotify.com/album/4KrkgZl9be8kCmZuMcfUxQ"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Orquestra Simf\u00f2nica de Barcelona i Nacional de Catalunya",
+          "url": "https://open.spotify.com/artist/3JMtC2Qi46h2vcbJfVYlgy"
+        },
+        {
+          "name": "Pablo Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/5cbPW0TtDXFDVlFHlUMPjD"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "L\u2019arl\u00e9sienne Suite No. 2 (Arr. E. Guiraud): IV. Farandole",
+      "url": "https://open.spotify.com/track/4953hVjgcpIaf7LuXmlEin"
+    },
+    {
+      "added_at": "2026-09-28 00:34:51",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1wjvPa6TxZjHr7jxHv578c"
+      },
+      "artists": [
+        {
+          "name": "Konk",
+          "url": "https://open.spotify.com/artist/0f31brWAC67q8uVvAvR7SG"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/3mCPUXa4fWSfv3ETxyG9bi"
+    },
+    {
+      "added_at": "2026-09-28 00:37:01",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 245840,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/0O0bttAxJKKWqAqY2Nq4mC"
     }
   ],
   "unique_name": "\ud806\udcf2\ud835\udcf3",

@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 81708,
+  "num_followers": 81726,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -199,18 +199,22 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
-        "name": "Je Hoort Nog Steeds Bij Mij",
-        "url": "https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm"
+        "name": "Voor Je \u2018t Weet",
+        "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
       },
       "artists": [
         {
-          "name": "FLEUR",
-          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
         }
       ],
-      "duration_ms": 171940,
-      "name": "Je Hoort Nog Steeds Bij Mij",
-      "url": "https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2"
+      "duration_ms": 197204,
+      "name": "Voor Je \u2018t Weet",
+      "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -231,22 +235,18 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
-        "name": "Voor Je \u2018t Weet",
-        "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
+        "name": "Je Hoort Nog Steeds Bij Mij",
+        "url": "https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm"
       },
       "artists": [
         {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
-        {
-          "name": "Anouk",
-          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
         }
       ],
-      "duration_ms": 197204,
-      "name": "Voor Je \u2018t Weet",
-      "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"
+      "duration_ms": 171940,
+      "name": "Je Hoort Nog Steeds Bij Mij",
+      "url": "https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -279,6 +279,42 @@
       "duration_ms": 190086,
       "name": "Mijn Liefste",
       "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
+    },
+    {
+      "added_at": "2026-09-24 22:00:09",
+      "album": {
+        "name": "1 Dag",
+        "url": "https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Re-Play",
+          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
+        }
+      ],
+      "duration_ms": 204474,
+      "name": "1 Dag",
+      "url": "https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x"
+    },
+    {
+      "added_at": "2026-09-24 22:00:09",
+      "album": {
+        "name": "Dicht Bij Het Vuur",
+        "url": "https://open.spotify.com/album/28hXQjFqMi1OVhV7YAVL1s"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 224610,
+      "name": "Dicht Bij Het Vuur",
+      "url": "https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -327,26 +363,6 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
-        "name": "1 Dag",
-        "url": "https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
-        {
-          "name": "Re-Play",
-          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
-        }
-      ],
-      "duration_ms": 204474,
-      "name": "1 Dag",
-      "url": "https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x"
-    },
-    {
-      "added_at": "2026-09-24 22:00:09",
-      "album": {
         "name": "Dit Is Zo'n Dag",
         "url": "https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 207905,
       "name": "Dit Is Zo'n Dag",
       "url": "https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B"
-    },
-    {
-      "added_at": "2026-09-24 22:00:09",
-      "album": {
-        "name": "Dicht Bij Het Vuur",
-        "url": "https://open.spotify.com/album/28hXQjFqMi1OVhV7YAVL1s"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 224610,
-      "name": "Dicht Bij Het Vuur",
-      "url": "https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
-        "name": "Achterbank",
-        "url": "https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0"
-      },
-      "artists": [
-        {
-          "name": "Tessa June",
-          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
-        }
-      ],
-      "duration_ms": 168260,
-      "name": "Achterbank",
-      "url": "https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT"
-    },
-    {
-      "added_at": "2026-09-24 22:00:09",
-      "album": {
         "name": "Wat Had Jij Van Mij Verwacht",
         "url": "https://open.spotify.com/album/0d7TswwHubviX1mnZzbUSN"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 177680,
       "name": "Wat Had Jij Van Mij Verwacht",
       "url": "https://open.spotify.com/track/6Ln5NYIuzJ8baOwoCRP7Kz"
+    },
+    {
+      "added_at": "2026-09-24 22:00:09",
+      "album": {
+        "name": "Achterbank",
+        "url": "https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "duration_ms": 168260,
+      "name": "Achterbank",
+      "url": "https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
-        "name": "Kingsize Bed",
-        "url": "https://open.spotify.com/album/14h229HZfdrktan1EQaaIT"
-      },
-      "artists": [
-        {
-          "name": "Hansen Tomas",
-          "url": "https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5"
-        }
-      ],
-      "duration_ms": 154752,
-      "name": "Kingsize Bed",
-      "url": "https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb"
-    },
-    {
-      "added_at": "2026-09-24 22:00:09",
-      "album": {
         "name": "Ik Zeg Niets",
         "url": "https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 187800,
       "name": "Ik Zeg Niets",
       "url": "https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw"
+    },
+    {
+      "added_at": "2026-09-24 22:00:09",
+      "album": {
+        "name": "Kingsize Bed",
+        "url": "https://open.spotify.com/album/14h229HZfdrktan1EQaaIT"
+      },
+      "artists": [
+        {
+          "name": "Hansen Tomas",
+          "url": "https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5"
+        }
+      ],
+      "duration_ms": 154752,
+      "name": "Kingsize Bed",
+      "url": "https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
+        "name": "Ons Liedje",
+        "url": "https://open.spotify.com/album/3y91aOkt9yqjvxJKdSoe4U"
+      },
+      "artists": [
+        {
+          "name": "De Troubadours",
+          "url": "https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq"
+        }
+      ],
+      "duration_ms": 182055,
+      "name": "Ons Liedje",
+      "url": "https://open.spotify.com/track/3ZswpOEGoY6DTGwpR0pfrc"
+    },
+    {
+      "added_at": "2026-09-24 22:00:09",
+      "album": {
         "name": "Wat Er Morgen Komt",
         "url": "https://open.spotify.com/album/792TgZ3757WTiZjv4fovlt"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 166895,
       "name": "Wat Er Morgen Komt",
       "url": "https://open.spotify.com/track/4wM8F7SWTi3TywSEOFiF6L"
-    },
-    {
-      "added_at": "2026-09-24 22:00:09",
-      "album": {
-        "name": "Hou van mezelf",
-        "url": "https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD"
-      },
-      "artists": [
-        {
-          "name": "Pleun",
-          "url": "https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "Hou van mezelf",
-      "url": "https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
-        "name": "Ons Liedje",
-        "url": "https://open.spotify.com/album/3y91aOkt9yqjvxJKdSoe4U"
+        "name": "Hou van mezelf",
+        "url": "https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD"
       },
       "artists": [
         {
-          "name": "De Troubadours",
-          "url": "https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq"
+          "name": "Pleun",
+          "url": "https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx"
         }
       ],
-      "duration_ms": 182055,
-      "name": "Ons Liedje",
-      "url": "https://open.spotify.com/track/3ZswpOEGoY6DTGwpR0pfrc"
+      "duration_ms": 180706,
+      "name": "Hou van mezelf",
+      "url": "https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43"
     },
     {
       "added_at": "2026-09-24 22:00:09",

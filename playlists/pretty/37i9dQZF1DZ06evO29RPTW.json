@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 137340,
+  "num_followers": 137341,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arW5gAAAAAAG5aSajFG0s5hGuRnbKCfw",
+  "snapshot_id": "arcLAAAAAACPJ/WiaOSk3rP0XMlwasYY",
   "tracks": [
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+        "name": "The Man Without Fear (Feat. Rob Zombie)",
+        "url": "https://open.spotify.com/album/3JGX7nmR5wcm04Kp4wmiuv"
       },
       "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        },
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 249226,
-      "name": "Let It All Bleed Out",
-      "url": "https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN"
+      "duration_ms": 200826,
+      "name": "The Man Without Fear (Feat. Rob Zombie)",
+      "url": "https://open.spotify.com/track/1QiK5rt7LwqclPwNqk4ZJJ"
     },
     {
       "added_at": null,
@@ -751,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Without Fear (Feat. Rob Zombie)",
-        "url": "https://open.spotify.com/album/3JGX7nmR5wcm04Kp4wmiuv"
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
       "artists": [
-        {
-          "name": "Drowning Pool",
-          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
-        },
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 200826,
-      "name": "The Man Without Fear (Feat. Rob Zombie)",
-      "url": "https://open.spotify.com/track/1QiK5rt7LwqclPwNqk4ZJJ"
+      "duration_ms": 249226,
+      "name": "Let It All Bleed Out",
+      "url": "https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "The Scorpion Sleeps",
-      "url": "https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Matrix Reloaded: The Album",
         "url": "https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 265160,
       "name": "Reload",
       "url": "https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "The Scorpion Sleeps",
+      "url": "https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ"
     }
   ],
   "unique_name": "This Is Rob Zombie",

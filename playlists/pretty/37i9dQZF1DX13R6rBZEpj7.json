@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 286439,
+  "num_followers": 286489,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "No Scrubs",
-        "url": "https://open.spotify.com/album/3vwy4dHvWHDHU74ntg7uNk"
-      },
-      "artists": [
-        {
-          "name": "Alex Kirsch",
-          "url": "https://open.spotify.com/artist/2ig7zZb5EHflZxLxiDEDMh"
-        },
-        {
-          "name": "Samira",
-          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
-        }
-      ],
-      "duration_ms": 122142,
-      "name": "No Scrubs",
-      "url": "https://open.spotify.com/track/7CeLkGulKy70BsPIfduFF3"
-    },
-    {
-      "added_at": "2026-09-24 23:00:05",
-      "album": {
         "name": "I Wanna Feel",
         "url": "https://open.spotify.com/album/21JGUmeznYAUfMYEzcmehG"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 124137,
       "name": "I Wanna Feel",
       "url": "https://open.spotify.com/track/12ZH1XMqc7f9bGbVKawv47"
+    },
+    {
+      "added_at": "2026-09-24 23:00:05",
+      "album": {
+        "name": "No Scrubs",
+        "url": "https://open.spotify.com/album/3vwy4dHvWHDHU74ntg7uNk"
+      },
+      "artists": [
+        {
+          "name": "Alex Kirsch",
+          "url": "https://open.spotify.com/artist/2ig7zZb5EHflZxLxiDEDMh"
+        },
+        {
+          "name": "Samira",
+          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+        }
+      ],
+      "duration_ms": 122142,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/7CeLkGulKy70BsPIfduFF3"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
-    },
-    {
-      "added_at": "2026-09-24 23:00:05",
-      "album": {
         "name": "Fallin",
         "url": "https://open.spotify.com/album/1TX16n2fknSoxjg4vLNElA"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 235500,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/4eABAb9LRPORxqPAHcbvMw"
+    },
+    {
+      "added_at": "2026-09-24 23:00:05",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "Dem Not Ready",
-        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Dem Not Ready",
-      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
-    },
-    {
-      "added_at": "2026-09-24 23:00:05",
-      "album": {
         "name": "Combat (feat. Gardna)",
         "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 147000,
       "name": "Combat (feat. Gardna)",
       "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
+    },
+    {
+      "added_at": "2026-09-24 23:00:05",
+      "album": {
+        "name": "Dem Not Ready",
+        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Dem Not Ready",
+      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -855,22 +855,18 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "The Things That We Should Say",
-        "url": "https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv"
+        "name": "The Way I Love You",
+        "url": "https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA"
       },
       "artists": [
         {
-          "name": "TACTICS",
-          "url": "https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34"
-        },
-        {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 128394,
-      "name": "The Things That We Should Say",
-      "url": "https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6"
+      "duration_ms": 203813,
+      "name": "The Way I Love You",
+      "url": "https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -891,18 +887,22 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "The Way I Love You",
-        "url": "https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA"
+        "name": "The Things That We Should Say",
+        "url": "https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "TACTICS",
+          "url": "https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
         }
       ],
-      "duration_ms": 203813,
-      "name": "The Way I Love You",
-      "url": "https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X"
+      "duration_ms": 128394,
+      "name": "The Things That We Should Say",
+      "url": "https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -967,18 +967,22 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "shake_leg",
-        "url": "https://open.spotify.com/album/2hcRHv6WmZTPxeGIA5EDxh"
+        "name": "the_1",
+        "url": "https://open.spotify.com/album/2dBiSTOvZ6Q0r3owadT63F"
       },
       "artists": [
         {
           "name": "Nori",
           "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
+        },
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
         }
       ],
-      "duration_ms": 137558,
-      "name": "shake_leg",
-      "url": "https://open.spotify.com/track/0pdPeMA0ZtA5Pgdfkuh3Z7"
+      "duration_ms": 141437,
+      "name": "the_1",
+      "url": "https://open.spotify.com/track/2kdUxRznNPG1G0PdyvA8aE"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -1015,22 +1019,22 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6IFuF0sQmfbt7ZiCZq5KpE"
+        "name": "Big Truck",
+        "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
       },
       "artists": [
         {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+          "name": "SIDEQUEST",
+          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
         },
         {
-          "name": "Cru2",
-          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+          "name": "J Fado",
+          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
         }
       ],
-      "duration_ms": 170462,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2JY40usTFwpLKV5BJK6vW6"
+      "duration_ms": 111428,
+      "name": "Big Truck",
+      "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -1051,22 +1055,38 @@
     {
       "added_at": "2026-09-24 23:00:05",
       "album": {
-        "name": "Big Truck",
-        "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
+        "name": "shake_leg",
+        "url": "https://open.spotify.com/album/2hcRHv6WmZTPxeGIA5EDxh"
       },
       "artists": [
         {
-          "name": "SIDEQUEST",
-          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
-        },
-        {
-          "name": "J Fado",
-          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
+          "name": "Nori",
+          "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
         }
       ],
-      "duration_ms": 111428,
-      "name": "Big Truck",
-      "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"
+      "duration_ms": 137558,
+      "name": "shake_leg",
+      "url": "https://open.spotify.com/track/0pdPeMA0ZtA5Pgdfkuh3Z7"
+    },
+    {
+      "added_at": "2026-09-24 23:00:05",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6IFuF0sQmfbt7ZiCZq5KpE"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "duration_ms": 170462,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2JY40usTFwpLKV5BJK6vW6"
     },
     {
       "added_at": "2026-09-24 23:00:05",
@@ -1227,26 +1247,6 @@
       "duration_ms": 168351,
       "name": "Bad Boi Selecta",
       "url": "https://open.spotify.com/track/0MapFtUi8jx8UcUsG3vqAt"
-    },
-    {
-      "added_at": "2026-09-24 23:00:05",
-      "album": {
-        "name": "the_1",
-        "url": "https://open.spotify.com/album/2dBiSTOvZ6Q0r3owadT63F"
-      },
-      "artists": [
-        {
-          "name": "Nori",
-          "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
-        },
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 141437,
-      "name": "the_1",
-      "url": "https://open.spotify.com/track/2kdUxRznNPG1G0PdyvA8aE"
     },
     {
       "added_at": "2026-09-24 23:00:05",

@@ -1,6 +1,6 @@
 {
   "description": "Unwind to the real beauty of Instrumentals!",
-  "num_followers": 57707,
+  "num_followers": 57718,
   "original_name": "Indie Instrumental",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
+        "name": "Rajesh Vaidhya - Evergreen Melodies",
+        "url": "https://open.spotify.com/album/6EQrbQbE2Q1m8pOECWxowJ"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "Thillana - Dhanashree - Adi",
+      "url": "https://open.spotify.com/track/2uz8tJWTg8hXUVG8llUl0E"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
         "name": "Sitar On Drumz",
         "url": "https://open.spotify.com/album/2SZUA0nyUALGjG55J8CJhx"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 311470,
       "name": "Sitar On Drumz",
       "url": "https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "Rajesh Vaidhya - Evergreen Melodies",
-        "url": "https://open.spotify.com/album/6EQrbQbE2Q1m8pOECWxowJ"
-      },
-      "artists": [
-        {
-          "name": "Rajhesh Vaidhya",
-          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Thillana - Dhanashree - Adi",
-      "url": "https://open.spotify.com/track/2uz8tJWTg8hXUVG8llUl0E"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
+        "name": "Epic Shit",
+        "url": "https://open.spotify.com/album/0bwFDuIwLE4OzoHmgiSYPc"
+      },
+      "artists": [
+        {
+          "name": "Sanjeev T",
+          "url": "https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu"
+        }
+      ],
+      "duration_ms": 316006,
+      "name": "Electric Pranaam",
+      "url": "https://open.spotify.com/track/1MpBIySytqhvWAHFUFdJtg"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
         "name": "Across The Ocean",
         "url": "https://open.spotify.com/album/3l7zRvlnVnE8qhGAYIn7iy"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 313888,
       "name": "Across The Ocean",
       "url": "https://open.spotify.com/track/5R1cHabaCTU0atNY249IxR"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "Epic Shit",
-        "url": "https://open.spotify.com/album/0bwFDuIwLE4OzoHmgiSYPc"
-      },
-      "artists": [
-        {
-          "name": "Sanjeev T",
-          "url": "https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu"
-        }
-      ],
-      "duration_ms": 316006,
-      "name": "Electric Pranaam",
-      "url": "https://open.spotify.com/track/1MpBIySytqhvWAHFUFdJtg"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -783,8 +783,8 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "It Could be Rain",
-        "url": "https://open.spotify.com/album/6nbpfPyyk6ifJNekEevxM1"
+        "name": "Swan Song",
+        "url": "https://open.spotify.com/album/6NTVsgQI5drqf97yKLFgnJ"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ"
         }
       ],
-      "duration_ms": 251000,
-      "name": "It Could Be Rain",
-      "url": "https://open.spotify.com/track/1MEiH1yGTZVFXA3bsFooj7"
+      "duration_ms": 242000,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/75eOXZRhZza077pvj5dmK9"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -891,8 +891,8 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Swan Song",
-        "url": "https://open.spotify.com/album/6NTVsgQI5drqf97yKLFgnJ"
+        "name": "It Could be Rain",
+        "url": "https://open.spotify.com/album/6nbpfPyyk6ifJNekEevxM1"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Swan Song",
-      "url": "https://open.spotify.com/track/75eOXZRhZza077pvj5dmK9"
+      "duration_ms": 251000,
+      "name": "It Could Be Rain",
+      "url": "https://open.spotify.com/track/1MEiH1yGTZVFXA3bsFooj7"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Live at Gray Spark Audio",
-        "url": "https://open.spotify.com/album/3cjjBxqy2u5qaEoNHgSn3g"
-      },
-      "artists": [
-        {
-          "name": "Bharath Kashyap",
-          "url": "https://open.spotify.com/artist/64gIAKUTHEFa94DBnvFdXR"
-        }
-      ],
-      "duration_ms": 300132,
-      "name": "A Mother's Lullaby - Live",
-      "url": "https://open.spotify.com/track/2pWLZPs7fj9zHKgccr6J88"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/6IM9vWv8KvbSg65TlBAFCS"
       },
@@ -995,6 +979,38 @@
       "duration_ms": 119850,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/4i6XRMX1DRgJVZIRHjGHYe"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "Live at Gray Spark Audio",
+        "url": "https://open.spotify.com/album/3cjjBxqy2u5qaEoNHgSn3g"
+      },
+      "artists": [
+        {
+          "name": "Bharath Kashyap",
+          "url": "https://open.spotify.com/artist/64gIAKUTHEFa94DBnvFdXR"
+        }
+      ],
+      "duration_ms": 300132,
+      "name": "A Mother's Lullaby - Live",
+      "url": "https://open.spotify.com/track/2pWLZPs7fj9zHKgccr6J88"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/6xseA2vZjFT9e6jgmxOnef"
+      },
+      "artists": [
+        {
+          "name": "Rhythm Shaw",
+          "url": "https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D"
+        }
+      ],
+      "duration_ms": 327627,
+      "name": "Nothing To Lose",
+      "url": "https://open.spotify.com/track/6XYSY5i37AWvCHo5bI8uOX"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1035,22 +1051,6 @@
       "duration_ms": 185685,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/6jBKigEE4UpWHuTitAqAdG"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "Nothing To Lose",
-        "url": "https://open.spotify.com/album/6xseA2vZjFT9e6jgmxOnef"
-      },
-      "artists": [
-        {
-          "name": "Rhythm Shaw",
-          "url": "https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D"
-        }
-      ],
-      "duration_ms": 327627,
-      "name": "Nothing To Lose",
-      "url": "https://open.spotify.com/track/6XYSY5i37AWvCHo5bI8uOX"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1119,6 +1119,30 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
+        "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
+        "url": "https://open.spotify.com/album/38oyyrR3JnQKZjQOzIq2xn"
+      },
+      "artists": [
+        {
+          "name": "Devan Ekambaram",
+          "url": "https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB"
+        },
+        {
+          "name": "Vijay Gopal",
+          "url": "https://open.spotify.com/artist/5aRP9KONz01wF6kUFA173F"
+        },
+        {
+          "name": "Nel Bucktowar",
+          "url": "https://open.spotify.com/artist/1IRL56HV87GLsLg71g4REl"
+        }
+      ],
+      "duration_ms": 268125,
+      "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
+      "url": "https://open.spotify.com/track/4IUm1uqTDRkyIA1T33GrnR"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
         "name": "J'ai Fame",
         "url": "https://open.spotify.com/album/7ANN5Eoq5PUKMAnwh2q8tp"
       },
@@ -1147,30 +1171,6 @@
       "duration_ms": 347379,
       "name": "The Last Cadenza",
       "url": "https://open.spotify.com/track/3j0AwklIEeYW7AjOPFMkt4"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
-        "url": "https://open.spotify.com/album/38oyyrR3JnQKZjQOzIq2xn"
-      },
-      "artists": [
-        {
-          "name": "Devan Ekambaram",
-          "url": "https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB"
-        },
-        {
-          "name": "Vijay Gopal",
-          "url": "https://open.spotify.com/artist/5aRP9KONz01wF6kUFA173F"
-        },
-        {
-          "name": "Nel Bucktowar",
-          "url": "https://open.spotify.com/artist/1IRL56HV87GLsLg71g4REl"
-        }
-      ],
-      "duration_ms": 268125,
-      "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
-      "url": "https://open.spotify.com/track/4IUm1uqTDRkyIA1T33GrnR"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo"
-      },
-      "artists": [
-        {
-          "name": "The Gap",
-          "url": "https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g"
-        }
-      ],
-      "duration_ms": 173388,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
         "name": "Metro",
         "url": "https://open.spotify.com/album/2E6SwlQqBsurEb5XrPBXsZ"
       },
@@ -1383,6 +1367,38 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo"
+      },
+      "artists": [
+        {
+          "name": "The Gap",
+          "url": "https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g"
+        }
+      ],
+      "duration_ms": 173388,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "My Journey with Ebony & Ivory",
+        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
+      },
+      "artists": [
+        {
+          "name": "Avik Ganguly",
+          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
+        }
+      ],
+      "duration_ms": 183637,
+      "name": "Mon Kharaper Bristi",
+      "url": "https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
         "name": "Uncooked Blues",
         "url": "https://open.spotify.com/album/5OoWWUk8HCldCaNslqZhF2"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 162857,
       "name": "Maybe Someday",
       "url": "https://open.spotify.com/track/3bOBQatV3miQwshPF6sqHy"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "My Journey with Ebony & Ivory",
-        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
-      },
-      "artists": [
-        {
-          "name": "Avik Ganguly",
-          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
-        }
-      ],
-      "duration_ms": 183637,
-      "name": "Mon Kharaper Bristi",
-      "url": "https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1481,6 +1481,22 @@
       "url": "https://open.spotify.com/track/65skfrGCGs0RCaGC3cHOaH"
     },
     {
+      "added_at": "2026-09-24 14:51:45",
+      "album": {
+        "name": "Eternal Idhayam",
+        "url": "https://open.spotify.com/album/5RUZnPsZfOc9rByYnDT50t"
+      },
+      "artists": [
+        {
+          "name": "Saurav Srisan",
+          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Eternal Idhayam",
+      "url": "https://open.spotify.com/track/0Et3z4TFZAr9upGyhCuCdJ"
+    },
+    {
       "added_at": "2026-02-10 09:33:25",
       "album": {
         "name": "Leela",
@@ -1499,22 +1515,6 @@
       "duration_ms": 275000,
       "name": "For Tom",
       "url": "https://open.spotify.com/track/12SKOQnmgrFQogNZI9Lmld"
-    },
-    {
-      "added_at": "2026-09-24 14:51:45",
-      "album": {
-        "name": "Eternal Idhayam",
-        "url": "https://open.spotify.com/album/5RUZnPsZfOc9rByYnDT50t"
-      },
-      "artists": [
-        {
-          "name": "Saurav Srisan",
-          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Eternal Idhayam",
-      "url": "https://open.spotify.com/track/0Et3z4TFZAr9upGyhCuCdJ"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1573,22 +1573,6 @@
       "url": "https://open.spotify.com/track/2NBHQAxMtqdBuTyCp5FiEi"
     },
     {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "The Lost Cause",
-        "url": "https://open.spotify.com/album/7dnWNzGDTh1XDxdDxIqt4e"
-      },
-      "artists": [
-        {
-          "name": "Dhruv Visvanath",
-          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
-        }
-      ],
-      "duration_ms": 185638,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/4wvYLntxEozfc6eLPct3CN"
-    },
-    {
       "added_at": "2026-09-24 14:51:45",
       "album": {
         "name": "Whirlwind Kadhal",
@@ -1603,6 +1587,22 @@
       "duration_ms": 103199,
       "name": "Whirlwind Kadhal",
       "url": "https://open.spotify.com/track/5kD7Nn9y3cDGgo0dNGMtln"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "The Lost Cause",
+        "url": "https://open.spotify.com/album/7dnWNzGDTh1XDxdDxIqt4e"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Visvanath",
+          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
+        }
+      ],
+      "duration_ms": 185638,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/4wvYLntxEozfc6eLPct3CN"
     },
     {
       "added_at": "2026-02-10 09:33:25",

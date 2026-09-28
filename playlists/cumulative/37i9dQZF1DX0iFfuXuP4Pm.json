@@ -6189,6 +6189,24 @@
     },
     {
       "album": {
+        "name": "Nine",
+        "url": "https://open.spotify.com/album/1rTn3zCq7RQkG8qqfR4d8J"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303719,
+      "name": "Maybe The Night (Reimagined)",
+      "url": "https://open.spotify.com/track/5umey4hh3HtdIbpUBG8Ap6"
+    },
+    {
+      "album": {
         "name": "Sad Songs and Bullshit Part 2",
         "url": "https://open.spotify.com/album/6KnDwm1lo2DMu8PkpvnvAp"
       },
@@ -10916,7 +10934,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 236376,
       "name": "temporary",
       "url": "https://open.spotify.com/track/4SUWaq2vOro4BDODgLBoZd"

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-669 songs - 1 day 17 hr 13 min
+671 songs - 1 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Debbie](https://open.spotify.com/track/26Rw7z6INdwmyEPZUYS6SI) | [Presión alta](https://open.spotify.com/artist/6To2DHH1TIPvIRijfDpLys) | [Debbie](https://open.spotify.com/album/4OvwgIDxbgp7LQj1E8HYvF) | 3:12 | 2026-03-11 | 2026-04-20 |
 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 | 2026-01-11 | 2026-02-02 |
 | [Deep Cut](https://open.spotify.com/track/02bk2a5aKm03H9AeQQKQi7) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [Deep Cut EP](https://open.spotify.com/album/3KGDNN12K38UHMMK2Y9zRd) | 2:26 | 2026-04-08 | 2026-08-08 |
+| [Delusional Daydream](https://open.spotify.com/track/2WtIj15qAaG0lfeWyjvPOU) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Delusional Daydream](https://open.spotify.com/album/2oe6AdaailGYT0AAjlD8k6) | 3:17 | 2026-09-27 |  |
 | [Despierta](https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 4:17 | 2025-12-12 | 2026-01-05 |
 | [Devil Begone](https://open.spotify.com/track/6rCn2DZD0FKDU8oSfCEJiT) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Devil Begone](https://open.spotify.com/album/0nwYqMRgeyMvL6449gpl0s) | 4:39 | 2026-03-04 | 2026-04-20 |
 | [Devil Walking](https://open.spotify.com/track/2Mkil6K9WjFT0kv6OSFkmu) | [STRATUS](https://open.spotify.com/artist/6h4H9khRDVn7MpjH2KLWBz) | [Piñata + Devil Walking](https://open.spotify.com/album/7Ci40uuhp74svmar7a0Bl4) | 3:52 | 2026-03-14 | 2026-09-01 |
@@ -244,6 +245,7 @@
 | [goodbye](https://open.spotify.com/track/4JaOFKSDjDtEBee1bJOxjI) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [goodbye](https://open.spotify.com/album/0wG69WeVzlbyg2rRCnUQmf) | 3:35 | 2026-02-16 |  |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2026-02-04 | 2026-02-23 |
 | [GROWING](https://open.spotify.com/track/7zbLzzH7GOOAKcNtnr3hcR) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [GROWING](https://open.spotify.com/album/1oIE9MRFPl6IZdZFQESkcW) | 2:49 | 2026-01-22 | 2026-03-04 |
+| [Growth Extractors](https://open.spotify.com/track/04KFDvCLLzh00ULv3HuKox) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Growth Extractors](https://open.spotify.com/album/131O9HDEtaDDpFlQ0sToor) | 2:50 | 2026-09-27 |  |
 | [Gullible](https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT) | [Rivera](https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX) | [Gullible](https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a) | 3:58 | 2025-12-08 | 2025-12-28 |
 | [Halfway](https://open.spotify.com/track/52vhLMGyPzibPksdDabol9) | [PICKLE JUICE](https://open.spotify.com/artist/02OYBGdYRGnzhcYR8AvHmS) | [Halfway](https://open.spotify.com/album/2E4fKXEb6TRuakzh4us7ZR) | 3:28 | 2026-04-07 | 2026-05-08 |
 | [Happiness and Being Smart](https://open.spotify.com/track/17sNT4G9qAC6em6wL5SoIk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:09 | 2026-04-02 | 2026-05-08 |

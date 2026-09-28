@@ -1,6 +1,6 @@
 {
   "description": "La  selecci\u00f3n  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify",
-  "num_followers": 39331,
+  "num_followers": 39342,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C"
+      },
+      "artists": [
+        {
+          "name": "Baja killa",
+          "url": "https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8"
+        }
+      ],
+      "duration_ms": 174954,
+      "name": "Apareces despu\u00e9s de tres veranos",
+      "url": "https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
         "name": "Perfecto acuerdo para estar en desacuerdo",
         "url": "https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 211184,
       "name": "Perfecto acuerdo para estar en desacuerdo",
       "url": "https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
-        "name": "El Mejor Regalo De Nuestras Vidas",
-        "url": "https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q"
-      },
-      "artists": [
-        {
-          "name": "Procrastinaci\u00f3n 1 Yo 0",
-          "url": "https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT"
-        }
-      ],
-      "duration_ms": 176896,
-      "name": "Santa Rosa",
-      "url": "https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -479,34 +479,18 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Efecto Placebo",
-        "url": "https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J"
+        "name": "El Mejor Regalo De Nuestras Vidas",
+        "url": "https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q"
       },
       "artists": [
         {
-          "name": "DOSMILDOS",
-          "url": "https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh"
+          "name": "Procrastinaci\u00f3n 1 Yo 0",
+          "url": "https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT"
         }
       ],
-      "duration_ms": 136250,
-      "name": "Efecto Placebo",
-      "url": "https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
-        "name": "Rompecabezas",
-        "url": "https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C"
-      },
-      "artists": [
-        {
-          "name": "Baja killa",
-          "url": "https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8"
-        }
-      ],
-      "duration_ms": 174954,
-      "name": "Apareces despu\u00e9s de tres veranos",
-      "url": "https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr"
+      "duration_ms": 176896,
+      "name": "Santa Rosa",
+      "url": "https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -527,18 +511,18 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Hace Dos Veranos",
-        "url": "https://open.spotify.com/album/1PRTHcesi1VKgVWtkjIS6j"
+        "name": "Efecto Placebo",
+        "url": "https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J"
       },
       "artists": [
         {
-          "name": "Un Viejo Arcoiris",
-          "url": "https://open.spotify.com/artist/2DmfnifKTOqFOMBBj7pPbb"
+          "name": "DOSMILDOS",
+          "url": "https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh"
         }
       ],
-      "duration_ms": 167703,
-      "name": "U/T",
-      "url": "https://open.spotify.com/track/1GUxYyg4Hg49icIJC9p0qA"
+      "duration_ms": 136250,
+      "name": "Efecto Placebo",
+      "url": "https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -563,8 +547,24 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/42REAsVoQV7Iy2opLm6zCG"
+        "name": "Hace Dos Veranos",
+        "url": "https://open.spotify.com/album/1PRTHcesi1VKgVWtkjIS6j"
+      },
+      "artists": [
+        {
+          "name": "Un Viejo Arcoiris",
+          "url": "https://open.spotify.com/artist/2DmfnifKTOqFOMBBj7pPbb"
+        }
+      ],
+      "duration_ms": 167703,
+      "name": "U/T",
+      "url": "https://open.spotify.com/track/1GUxYyg4Hg49icIJC9p0qA"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
+        "name": "Todo Ocaso Resplandece y Acaba",
+        "url": "https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
         }
       ],
-      "duration_ms": 228198,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/6dVf1FttdaducHgMmsNs36"
+      "duration_ms": 300596,
+      "name": "Destello",
+      "url": "https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz"
     },
     {
       "added_at": "2026-09-25 06:00:16",
@@ -627,38 +627,6 @@
     {
       "added_at": "2026-09-25 06:00:16",
       "album": {
-        "name": "Nossos Amigos e os Lugares Que Visitamos",
-        "url": "https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL"
-      },
-      "artists": [
-        {
-          "name": "El Toro Fuerte",
-          "url": "https://open.spotify.com/artist/2YElQs97LTX6gn5Td89FaQ"
-        }
-      ],
-      "duration_ms": 381335,
-      "name": "Anivers\u00e1rios S\u00e3o Dif\u00edceis",
-      "url": "https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
-        "name": "Todo Ocaso Resplandece y Acaba",
-        "url": "https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ"
-      },
-      "artists": [
-        {
-          "name": "Distimia Agoraf\u00f3bica",
-          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
-        }
-      ],
-      "duration_ms": 300596,
-      "name": "Destello",
-      "url": "https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz"
-    },
-    {
-      "added_at": "2026-09-25 06:00:16",
-      "album": {
         "name": "S / T",
         "url": "https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB"
       },
@@ -671,6 +639,38 @@
       "duration_ms": 108000,
       "name": "Mata a Tus \u00cddolos",
       "url": "https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/42REAsVoQV7Iy2opLm6zCG"
+      },
+      "artists": [
+        {
+          "name": "Distimia Agoraf\u00f3bica",
+          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
+        }
+      ],
+      "duration_ms": 228198,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/6dVf1FttdaducHgMmsNs36"
+    },
+    {
+      "added_at": "2026-09-25 06:00:16",
+      "album": {
+        "name": "Nossos Amigos e os Lugares Que Visitamos",
+        "url": "https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL"
+      },
+      "artists": [
+        {
+          "name": "El Toro Fuerte",
+          "url": "https://open.spotify.com/artist/2YElQs97LTX6gn5Td89FaQ"
+        }
+      ],
+      "duration_ms": 381335,
+      "name": "Anivers\u00e1rios S\u00e3o Dif\u00edceis",
+      "url": "https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY"
     },
     {
       "added_at": "2026-09-25 06:00:16",

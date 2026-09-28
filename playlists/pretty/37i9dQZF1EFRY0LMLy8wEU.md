@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82 likes - 54 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 82 likes - 55 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 50 | [It Is Written \- Live](https://open.spotify.com/track/1OeByuvv5fVL9hxEVhtb0P) | [Women Who Worship](https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [Women Who Worship \(Live\)](https://open.spotify.com/album/58A73mFc94fFlVhbX31Bf9) | 8:04 |
 | 51 | [Nothing You Can't Do](https://open.spotify.com/track/5ElLO48oy2MmZaCUImxEb7) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR) | [Let Us Worship \- Philadelphia](https://open.spotify.com/album/2JHJVdpsoO32fQq1xVDIDS) | 5:36 |
 | 52 | [The Lamb \- Live](https://open.spotify.com/track/6OMLIIyv3aC5puzuvJJdAN) | [Garden Worship](https://open.spotify.com/artist/0rtirW2A9hhBBgecnVZBtW), [Faith Dunsterville](https://open.spotify.com/artist/6yu0nVuEns2M56h5AktZah), [David Reents](https://open.spotify.com/artist/6CNEXPUiyyYwrsswyxnO9D) | [The Lamb \(Live\)](https://open.spotify.com/album/0qIC7AvjlIZxAxwsQiqgpX) | 6:06 |
-| 53 | [I Say Yes](https://open.spotify.com/track/30ylLpVlXV3rQ9Tk3PuKEg) | [Kyle & Lauren Smith](https://open.spotify.com/artist/2QQVbCqlBTX8dADl321HGM) | [Kyle & Lauren Smith](https://open.spotify.com/album/1Y389ylGEmvWM3eSeEEWnu) | 7:43 |
-| 54 | [Empty Words](https://open.spotify.com/track/4UC5KqAFxGKLZWLI6YiCWm) | [Worship Center Music](https://open.spotify.com/artist/46df2ZIGYEvAR9fMn8lXWT) | [First Love \(Returning\. Communion\. Joy.\)](https://open.spotify.com/album/2vysXZJjiZZa4RXt12OhvU) | 6:08 |
+| 53 | [Over and Over Again](https://open.spotify.com/track/42AOaOTebpjOa5u7Cpu769) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Over and Over Again](https://open.spotify.com/album/1nVMZxHp0EfMvsZqEu78ci) | 4:20 |
+| 54 | [I Say Yes](https://open.spotify.com/track/30ylLpVlXV3rQ9Tk3PuKEg) | [Kyle & Lauren Smith](https://open.spotify.com/artist/2QQVbCqlBTX8dADl321HGM) | [Kyle & Lauren Smith](https://open.spotify.com/album/1Y389ylGEmvWM3eSeEEWnu) | 7:43 |
+| 55 | [Empty Words](https://open.spotify.com/track/4UC5KqAFxGKLZWLI6YiCWm) | [Worship Center Music](https://open.spotify.com/artist/46df2ZIGYEvAR9fMn8lXWT) | [First Love \(Returning\. Communion\. Joy.\)](https://open.spotify.com/album/2vysXZJjiZZa4RXt12OhvU) | 6:08 |
 
-Snapshot ID: `AcdXvAAAAACaoriSioYmpsmSSZzxxkkX`
+Snapshot ID: `AcddcQAAAAA+BPEH8NaY/mNXh5kkkyEo`

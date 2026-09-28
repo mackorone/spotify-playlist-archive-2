@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: ZLATA OGNEVICH
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,424 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,422 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 9 | [Речення](https://open.spotify.com/track/4ZS7HI7WyTJvXkfaaSkIyf) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [Речення](https://open.spotify.com/album/4dUjngMo0uaedjVM0dGbj2) | 2:13 |
 | 10 | [Мармелад](https://open.spotify.com/track/59EVmFrk3Mk02FQtdNF1r5) | [NANA SOLIS](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Мармелад](https://open.spotify.com/album/38438dvkZY9vxPGNX71Snc) | 2:19 |
 | 11 | [Віями](https://open.spotify.com/track/3hMDkE7NQhMo6reqGQdJ0N) | [Nasù](https://open.spotify.com/artist/4nTaBp6sSDtN96YuVxsGFV), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Віями](https://open.spotify.com/album/24e16wfRwqddwCwU9Mt8PD) | 2:36 |
-| 12 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
+| 12 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
 | 13 | [Не вистачає](https://open.spotify.com/track/2gfk4bDSP962Q0f60Ha2eP) | [BEREZA](https://open.spotify.com/artist/3HU0YQovv7GeTj1Tq6aSUg), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Не вистачає](https://open.spotify.com/album/1QdkxXcqALIg3SFOxAf0ZS) | 1:57 |
-| 14 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
+| 14 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 | 15 | [ВОНА](https://open.spotify.com/track/1Umbithpypdhzph7UDKQ8b) | [ТУЧА](https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ) | [ВОНА](https://open.spotify.com/album/0TI8wqnPYzqJBIpOkoa4KG) | 3:38 |
 | 16 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
 | 17 | [Отрута](https://open.spotify.com/track/3ihU9yoiBV3SE8qV027yXa) | [DISHA](https://open.spotify.com/artist/4unW3Y6P9cUZaLQLbia3Aq), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Отрута](https://open.spotify.com/album/2effaS9qwWVtLnAImn74qY) | 2:57 |

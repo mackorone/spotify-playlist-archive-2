@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 39032,
+  "num_followers": 39038,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arW5gAAAAABsOaThInElo2HCNFy3/jtF",
+  "snapshot_id": "arcLAAAAAABMP+LfprozhKm4pZIGwAfW",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 19",
-        "url": "https://open.spotify.com/album/2VZXpz7RzBvtyFEv9OEGbQ"
+        "name": "Praise Upon Praise",
+        "url": "https://open.spotify.com/album/5yE1Rgtnic38wVRaHbiFnp"
       },
       "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 316763,
-      "name": "Only a Holy God",
-      "url": "https://open.spotify.com/track/4uVzGYFMl6ERzkZAVoLoCS"
+      "duration_ms": 244664,
+      "name": "Praise Upon Praise",
+      "url": "https://open.spotify.com/track/1BmTOIvRFua9AcEAqotIN3"
     },
     {
       "added_at": null,
@@ -635,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Praise Upon Praise",
-        "url": "https://open.spotify.com/album/5yE1Rgtnic38wVRaHbiFnp"
+        "name": "The Worship Initiative, Vol. 19",
+        "url": "https://open.spotify.com/album/2VZXpz7RzBvtyFEv9OEGbQ"
       },
       "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 244664,
-      "name": "Praise Upon Praise",
-      "url": "https://open.spotify.com/track/1BmTOIvRFua9AcEAqotIN3"
+      "duration_ms": 316763,
+      "name": "Only a Holy God",
+      "url": "https://open.spotify.com/track/4uVzGYFMl6ERzkZAVoLoCS"
     },
     {
       "added_at": null,

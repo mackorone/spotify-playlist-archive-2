@@ -10223,6 +10223,24 @@
     },
     {
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1wjvPa6TxZjHr7jxHv578c"
+      },
+      "artists": [
+        {
+          "name": "Konk",
+          "url": "https://open.spotify.com/artist/0f31brWAC67q8uVvAvR7SG"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261426,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/3mCPUXa4fWSfv3ETxyG9bi"
+    },
+    {
+      "album": {
         "name": "Paracosm",
         "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
       },
@@ -10402,6 +10420,32 @@
       "duration_ms": 233573,
       "name": "Endless Tree",
       "url": "https://open.spotify.com/track/4mYAxNUCvuUqAQj5Qh3Poq"
+    },
+    {
+      "album": {
+        "name": "Elgar: Enigma Variations",
+        "url": "https://open.spotify.com/album/6cQgp3yFQPJwXR0FmFS4ym"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367600,
+      "name": "Enigma Variations, Op. 36: Var. 9. Adagio \"Nimrod\"",
+      "url": "https://open.spotify.com/track/6L1ya2i7ploS0eR2PIYOzq"
     },
     {
       "album": {
@@ -11356,6 +11400,24 @@
       "duration_ms": 142222,
       "name": "Falcon Flow",
       "url": "https://open.spotify.com/track/1sUIVWUAsrwLfYSAhBFiIq"
+    },
+    {
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245840,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/0O0bttAxJKKWqAqY2Nq4mC"
     },
     {
       "album": {
@@ -21568,6 +21630,32 @@
       "duration_ms": 333986,
       "name": "L\u2019AMOUR DE MA VIE",
       "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
+    },
+    {
+      "album": {
+        "name": "Bizet: Carmen & L'arl\u00e9sienne Suites",
+        "url": "https://open.spotify.com/album/4KrkgZl9be8kCmZuMcfUxQ"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Orquestra Simf\u00f2nica de Barcelona i Nacional de Catalunya",
+          "url": "https://open.spotify.com/artist/3JMtC2Qi46h2vcbJfVYlgy"
+        },
+        {
+          "name": "Pablo Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/5cbPW0TtDXFDVlFHlUMPjD"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "L\u2019arl\u00e9sienne Suite No. 2 (Arr. E. Guiraud): IV. Farandole",
+      "url": "https://open.spotify.com/track/4953hVjgcpIaf7LuXmlEin"
     },
     {
       "album": {
@@ -38504,7 +38592,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 149890,
       "name": "Vicious",
       "url": "https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu"

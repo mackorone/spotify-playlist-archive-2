@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,592 songs - 6 day 7 hr 30 min
+2,595 songs - 6 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1880,6 +1880,7 @@
 | [Roseblood](https://open.spotify.com/track/2qV5Ce0sMlFsrseRO5CTMU) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:51 | 2024-03-04 |  |
 | [Rosemary](https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 6:53 | 2024-03-04 |  |
 | [Rosso](https://open.spotify.com/track/2mPuexkBpdsOGGjeL0maec) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Canarino Mannaro Vol\. 1](https://open.spotify.com/album/7CT6EwYKzTMm1HEkuF3mhQ) | 4:29 | 2023-06-23 |  |
+| [Round Trip](https://open.spotify.com/track/6U0NWTfNS4pW7LvDXf65Qs) | [Saint Roswell](https://open.spotify.com/artist/1d7q2JyusDHbMFzyGLKBbT) | [Truly](https://open.spotify.com/album/3WsOHZH7bCCBtChpLWk85m) | 4:20 | 2026-09-28 |  |
 | [Rub A Dub Music, Rub A Dub Style \- Discomix](https://open.spotify.com/track/6RzDm6aFg8FfO95yZcXmvf) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Tunes For Thoughts](https://open.spotify.com/album/1N9A7fipWS65oAObMYN37U) | 3:32 | 2024-05-01 |  |
 | [Rudeboy Trouble \(Club Dub\)](https://open.spotify.com/track/0YEBjuOREmheHSEhK9XK5W) | [Dub Siren](https://open.spotify.com/artist/2938cUChrEuOWujh69t53H), [KIRI](https://open.spotify.com/artist/3TYNTJFJ3aUAPtJstpfDsA) | [Rudeboy Trouble](https://open.spotify.com/album/47qHCoTAO4yuvVEsl9sIGC) | 7:21 | 2024-08-23 |  |
 | [Rudeboy Trouble \(Steppa Dub\)](https://open.spotify.com/track/6ps1f6VuhYb9tkktVEphSx) | [Dub Siren](https://open.spotify.com/artist/2938cUChrEuOWujh69t53H) | [Rudeboy Trouble](https://open.spotify.com/album/47qHCoTAO4yuvVEsl9sIGC) | 7:25 | 2024-08-23 |  |
@@ -1911,6 +1912,7 @@
 | [Santana Quantum](https://open.spotify.com/track/3HtuepZ8z6COrZmwn4UKO6) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 4:54 | 2025-06-16 |  |
 | [Santana Quantum](https://open.spotify.com/track/7o4JNk3y6kUJOCCKiWbNWe) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/5AsykpYGStzUL2uPQwiRtA) | 4:54 | 2026-03-16 |  |
 | [Santorini at Night](https://open.spotify.com/track/1bafg2GBWeQ0ygCxgC4SlH) | [Valenti & Blanda](https://open.spotify.com/artist/6GuZuT7ZlXzoVKypl18jmW) | [Santorini at Night](https://open.spotify.com/album/6w9P7SnVwGaul47z3kJsGK) | 3:19 | 2026-08-30 |  |
+| [Sapno Ko Pakad](https://open.spotify.com/track/1vr20gV2waOP1OZMJqWvTi) | [Kanika Shrivastava](https://open.spotify.com/artist/2fkwx7KK5ZhTGEykGSHjyA) | [Sapno Ko Pakad](https://open.spotify.com/album/7uTqt9ip5ddKGJw8CARyvb) | 1:27 | 2026-09-27 |  |
 | [Sardinia](https://open.spotify.com/track/5cLDgmrRqxhW27wKEf30G9) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi) | [Sardinia](https://open.spotify.com/album/6kNKTlgBDM7FWeTUtDnNM9) | 2:47 | 2026-07-09 |  |
 | [Satta Dub](https://open.spotify.com/track/0VUmktag6J6iZ5edAoM44D) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp), [Madi Simmons](https://open.spotify.com/artist/3SQE1dVGhld5RE9qJHaFD1) | [Feel The Vibration](https://open.spotify.com/album/4dBIS62UE1vl1CqDmqGtzD) | 4:12 | 2024-06-30 |  |
 | [Saturday \(HIIT 30\-10\)](https://open.spotify.com/track/4pBJxEFPlwEOvjvwjcyQPy) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [80s DISCO HIIT DANCE WORKOUT](https://open.spotify.com/album/6opKcFjmEz92mrvuMdD1c8) | 1:20 | 2024-03-08 |  |
@@ -2285,6 +2287,7 @@
 | [Together Forever](https://open.spotify.com/track/689GT9LavwetmmRIooFgU2) | [Von Marlon](https://open.spotify.com/artist/1VgMTOTLz4giYaNsZp97Uc) | [Together Forever](https://open.spotify.com/album/21OmeCLMYBokMUBXnRCGL9) | 3:06 | 2025-08-21 |  |
 | [Told Yall](https://open.spotify.com/track/03c4WAtNGpDsSEOStiSViw) | [Block](https://open.spotify.com/artist/1TK79jq3h4JxtRhOYWEbUA) | [Told Yall](https://open.spotify.com/album/6EuuznOojbF7iHB3R9IMiD) | 3:29 | 2025-10-07 |  |
 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 | 2024-03-04 |  |
+| [Tomorrow](https://open.spotify.com/track/2F9bk7Ne1UaGDR5tmqJZTR) | [Saint Roswell](https://open.spotify.com/artist/1d7q2JyusDHbMFzyGLKBbT) | [Truly](https://open.spotify.com/album/3WsOHZH7bCCBtChpLWk85m) | 4:04 | 2026-09-27 |  |
 | [Tomorrow](https://open.spotify.com/track/5Y3vdGngM9PdwiWCY4DjIw) | [Samadhi Radio](https://open.spotify.com/artist/1Xo5Iukw1wJ05KCIy9STI8) | [When time runs dry](https://open.spotify.com/album/151onIPEKJjuyooQEEVfKE) | 3:25 | 2025-07-13 |  |
 | [Tomorrow](https://open.spotify.com/track/7fITm5BPEBFThb59785P5n) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 3:19 | 2025-05-22 |  |
 | [Tomorrow](https://open.spotify.com/track/4gIx5xurI60c22H8BAd22T) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:39 | 2025-12-01 |  |

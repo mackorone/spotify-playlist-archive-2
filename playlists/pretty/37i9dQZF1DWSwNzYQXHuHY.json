@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12928,
+  "num_followers": 12930,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Pit a Pat",
-        "url": "https://open.spotify.com/album/2exNFaprmfRUKVofd0PNR4"
-      },
-      "artists": [
-        {
-          "name": "Yu Seung Woo",
-          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
-        },
-        {
-          "name": "WOOHYO",
-          "url": "https://open.spotify.com/artist/6jFvKvItiwnMx2nG3y1Hx9"
-        }
-      ],
-      "duration_ms": 212161,
-      "name": "45.7cm (feat.OOHYO)",
-      "url": "https://open.spotify.com/track/4h2fsF8dnXtqx4SNsF15KW"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "Love Smile (Original Soundtrack from Last Summer)",
         "url": "https://open.spotify.com/album/0jEAsckPwsD1k926YW12Oe"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 169051,
       "name": "Love Smile",
       "url": "https://open.spotify.com/track/0RMzZqob3KiT07CXv6Mtmu"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "Pit a Pat",
+        "url": "https://open.spotify.com/album/2exNFaprmfRUKVofd0PNR4"
+      },
+      "artists": [
+        {
+          "name": "Yu Seung Woo",
+          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
+        },
+        {
+          "name": "WOOHYO",
+          "url": "https://open.spotify.com/artist/6jFvKvItiwnMx2nG3y1Hx9"
+        }
+      ],
+      "duration_ms": 212161,
+      "name": "45.7cm (feat.OOHYO)",
+      "url": "https://open.spotify.com/track/4h2fsF8dnXtqx4SNsF15KW"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -599,18 +599,22 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Don't Be",
-        "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
+        "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+        "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
       },
       "artists": [
         {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Naeun",
+          "url": "https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Don't Be",
-      "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
+      "duration_ms": 207760,
+      "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+      "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -631,22 +635,18 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
-        "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
+        "name": "Don't Be",
+        "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        },
-        {
-          "name": "Naeun",
-          "url": "https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc"
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
         }
       ],
-      "duration_ms": 207760,
-      "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
-      "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
+      "duration_ms": 196000,
+      "name": "Don't Be",
+      "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Would You Hold My Hand?",
-        "url": "https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd"
-      },
-      "artists": [
-        {
-          "name": "E.ul",
-          "url": "https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA"
-        }
-      ],
-      "duration_ms": 166994,
-      "name": "Would You Hold My Hand?",
-      "url": "https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 202546,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "Would You Hold My Hand?",
+        "url": "https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd"
+      },
+      "artists": [
+        {
+          "name": "E.ul",
+          "url": "https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA"
+        }
+      ],
+      "duration_ms": 166994,
+      "name": "Would You Hold My Hand?",
+      "url": "https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV"
     },
     {
       "added_at": "2026-09-18 06:00:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Sofia the First: Royal Magic is now available to watch on Disney Jr\. and Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,677 likes - 137 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,681 likes - 137 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 | 136 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/6eykmqPkR0ItSGhrwPvOEF) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena of Avalor \(Original Soundtrack\)](https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw) | 1:02 |
 | 137 | [Elena of Avalor \(Main Title\) / My Time Mashup \- From "Elena of Avalor"](https://open.spotify.com/track/4FNoMwQTkWyVd28EimU00i) | [Cast \- Elena of Avalor](https://open.spotify.com/artist/2mxj8j8IW2pWq0QOi4WN7Y), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 2:37 |
 
-Snapshot ID: `AAAAAFUN9F1QoPMp9YG2JGftTibnxnd3`
+Snapshot ID: `AAAAAPz52as8jbZgY7A0yLIXF56PncuG`

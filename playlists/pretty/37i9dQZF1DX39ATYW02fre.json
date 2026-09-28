@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 276779,
+  "num_followers": 276815,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-20 23:00:31",
       "album": {
-        "name": "Old Friend",
-        "url": "https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 196318,
-      "name": "Bird Song",
-      "url": "https://open.spotify.com/track/51Wao8QZ4Fv4zamKbRnKQd"
-    },
-    {
-      "added_at": "2026-08-20 23:00:31",
-      "album": {
         "name": "Nobody Else (Chill Mix)",
         "url": "https://open.spotify.com/album/63DcVaScRHM6q04G80hH9X"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 208181,
       "name": "Nobody Else - Chill Mix",
       "url": "https://open.spotify.com/track/4zF8RwDSq2WM6LFflAZ8v3"
+    },
+    {
+      "added_at": "2026-08-20 23:00:31",
+      "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 196318,
+      "name": "Bird Song",
+      "url": "https://open.spotify.com/track/51Wao8QZ4Fv4zamKbRnKQd"
     },
     {
       "added_at": "2026-08-20 23:00:31",
@@ -599,26 +599,6 @@
     {
       "added_at": "2026-08-20 23:00:31",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/2ALEn1ILPaPj885QMF9C4O"
-      },
-      "artists": [
-        {
-          "name": "Alex Baker",
-          "url": "https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo"
-        },
-        {
-          "name": "Hanging Valleys",
-          "url": "https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1G5APoTLndLof2DsggGPzz"
-    },
-    {
-      "added_at": "2026-08-20 23:00:31",
-      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 553413,
       "name": "Waste - RY X Remix",
       "url": "https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi"
+    },
+    {
+      "added_at": "2026-08-20 23:00:31",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2ALEn1ILPaPj885QMF9C4O"
+      },
+      "artists": [
+        {
+          "name": "Alex Baker",
+          "url": "https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo"
+        },
+        {
+          "name": "Hanging Valleys",
+          "url": "https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1G5APoTLndLof2DsggGPzz"
     },
     {
       "added_at": "2026-08-20 23:00:31",
@@ -659,8 +659,8 @@
     {
       "added_at": "2026-08-20 23:00:31",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl"
+        "name": "WORRY.",
+        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         }
       ],
-      "duration_ms": 254117,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
+      "duration_ms": 243282,
+      "name": "WORRY.",
+      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
     },
     {
       "added_at": "2026-08-20 23:00:31",
@@ -743,8 +743,8 @@
     {
       "added_at": "2026-08-20 23:00:31",
       "album": {
-        "name": "WORRY.",
-        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         }
       ],
-      "duration_ms": 243282,
-      "name": "WORRY.",
-      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
+      "duration_ms": 254117,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
     },
     {
       "added_at": "2026-08-20 23:00:31",

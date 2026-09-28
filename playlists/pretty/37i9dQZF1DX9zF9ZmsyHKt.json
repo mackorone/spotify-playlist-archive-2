@@ -1,6 +1,6 @@
 {
   "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batid\u00e3o",
-  "num_followers": 363047,
+  "num_followers": 363053,
   "original_name": "Melodys Marcantes",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,22 @@
     {
       "added_at": "2026-09-11 01:27:31",
       "album": {
-        "name": "Quem Manda em Mim",
-        "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
+        "name": "Ultima Vez",
+        "url": "https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn"
       },
       "artists": [
         {
-          "name": "Zaynara",
-          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
+          "name": "Billy Brasil",
+          "url": "https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx"
         },
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Batid\u00e3o do Melody",
+          "url": "https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Quem Manda em Mim",
-      "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
+      "duration_ms": 219753,
+      "name": "Ultima Vez",
+      "url": "https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8"
     },
     {
       "added_at": "2026-09-11 01:27:31",
@@ -295,26 +295,6 @@
     {
       "added_at": "2026-09-11 01:27:31",
       "album": {
-        "name": "Ultima Vez",
-        "url": "https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn"
-      },
-      "artists": [
-        {
-          "name": "Billy Brasil",
-          "url": "https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx"
-        },
-        {
-          "name": "Batid\u00e3o do Melody",
-          "url": "https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6"
-        }
-      ],
-      "duration_ms": 219753,
-      "name": "Ultima Vez",
-      "url": "https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8"
-    },
-    {
-      "added_at": "2026-09-11 01:27:31",
-      "album": {
         "name": "Imagem do Prazer",
         "url": "https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 220447,
       "name": "Imagem do Prazer",
       "url": "https://open.spotify.com/track/5lIRlJGqInAEInVxpqf9rg"
+    },
+    {
+      "added_at": "2026-09-11 01:27:31",
+      "album": {
+        "name": "Quem Manda em Mim",
+        "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
+      },
+      "artists": [
+        {
+          "name": "Zaynara",
+          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Quem Manda em Mim",
+      "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
     },
     {
       "added_at": "2026-09-11 01:27:31",

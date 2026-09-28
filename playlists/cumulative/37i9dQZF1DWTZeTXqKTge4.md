@@ -4,7 +4,7 @@
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: K!RA OJI, Nicky Savage
 
-1,352 songs - 2 day 18 hr 15 min
+1,353 songs - 2 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [CHAMBRE D'ÉCHO](https://open.spotify.com/track/5Ya8UiLpaOMw77lCSsMg6n) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [CHAMBRE D'ÉCHO](https://open.spotify.com/album/0qrjkrBsdYVRKXpavkBAFz) | 4:47 | 2025-03-28 | 2026-02-07 |
 | [Chapitre](https://open.spotify.com/track/1bBldfyoOZsZbs8ln0vtQn) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW), [Sins '99](https://open.spotify.com/artist/004pH23lbCq906vbJ6UAdg) | [Chapitre](https://open.spotify.com/album/6NNuPmpsifJj38yJ9U7zR3) | 3:04 | 2026-05-22 | 2026-07-18 |
 | [Chaque Douille](https://open.spotify.com/track/5VXekSKXEpZZxaSSqVebFB) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Viral Avant La Carrière](https://open.spotify.com/album/42OsuC1KTnlfkSF5KlMgUW) | 2:47 | 2022-04-15 | 2022-08-27 |
-| [Chaque Mois de l'Année](https://open.spotify.com/track/0k9ZlUqNKt9BQZ1QQOLI4F) | [S Burn](https://open.spotify.com/artist/631btWNFhxJ0MI1oGW6IUz) | [Chaque Mois de l'Année](https://open.spotify.com/album/6X6qNFZxGMYMJigOI3ApIY) | 3:04 | 2026-09-25 |  |
+| [Chaque Mois de l'Année](https://open.spotify.com/track/0k9ZlUqNKt9BQZ1QQOLI4F) | [S Burn](https://open.spotify.com/artist/631btWNFhxJ0MI1oGW6IUz) | [Chaque Mois de l'Année](https://open.spotify.com/album/6X6qNFZxGMYMJigOI3ApIY) | 3:04 | 2026-09-25 | 2026-09-28 |
 | [Chats sauvages](https://open.spotify.com/track/4RfnG0Fs4UZIMwQBe9DVZA) | [S.B.](https://open.spotify.com/artist/72kZOa4kKru0fwP828YnUA), [St\-Saoul](https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ), [Madizm](https://open.spotify.com/artist/2GoFhPq0tLBQaFm0dZyHYj) | [Chats sauvages](https://open.spotify.com/album/4GtW8Zz4MbmSs6aWeoOM58) | 2:34 | 2026-08-14 | 2026-08-22 |
 | [Chaud là\-bas](https://open.spotify.com/track/0FMk3jM0fAHrUy5sYaJepO) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 4:07 | 2022-01-07 | 2022-06-18 |
 | [chemise noire](https://open.spotify.com/track/5zRhVD03opcbXpDp7ckLpg) | [Sensei H](https://open.spotify.com/artist/4rSSnUNsjRSMr0TbcjVgkN) | [en attendant l'amour](https://open.spotify.com/album/2DHFRnIdlZFgLxT18FJewz) | 3:11 | 2025-12-03 | 2026-01-17 |
@@ -393,6 +393,7 @@
 | [Double Up](https://open.spotify.com/track/1zNyG7qCCux7Cwahh0McD7) | [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg), [E.Santana](https://open.spotify.com/artist/4xuP5XVUJPwlw7iP7eY0gQ), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [Double Up](https://open.spotify.com/album/6mZZCsVQm53C8Ql4fqMcdD) | 3:18 | 2022-02-11 | 2022-03-18 |
 | [Double vie décadente](https://open.spotify.com/track/4dAfZzp86jPkANLeKJfbDB) | [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf), [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Aequanimitas](https://open.spotify.com/album/49c4wopLmVaZHHG2Wr0WKh) | 4:04 | 2024-05-24 | 2025-01-11 |
 | [Double vision](https://open.spotify.com/track/0IE9c1yCc379eYbj7OYDD7) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Double vision](https://open.spotify.com/album/0aW7wj54boNf4Sr4geF2IQ) | 2:48 | 2022-01-07 | 2022-03-12 |
+| [DREAM](https://open.spotify.com/track/1thqTIQzbnGZAaNFqqpIIy) | [Hôtel Royal](https://open.spotify.com/artist/3Dufr6F4uGKXXXcuWI2Lvy) | [DREAM](https://open.spotify.com/album/4w117dFoHwJzMstXxnnlob) | 2:55 | 2026-09-25 |  |
 | [Drinking](https://open.spotify.com/track/4Sif8gDOINGLQ6gDP8yZjP) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Tiamat, Mon Amour](https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq) | 4:08 | 2023-02-03 | 2023-12-23 |
 | [Drip](https://open.spotify.com/track/0NNYL31dkbKwUv3SFKUgGT) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Drip](https://open.spotify.com/album/5iAxgVkKv5u0nYX6pOCiUJ) | 3:27 | 2022-01-07 | 2022-03-18 |
 | [Drop Top](https://open.spotify.com/track/0HaNQlN2fYf5Q8izAuXd3c) | [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Drop Top](https://open.spotify.com/album/7M6P4MXrPUlAkJ9KqLvp8C) | 3:00 | 2022-01-14 | 2022-07-02 |

@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1660527,
+  "num_followers": 1660767,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
-        "name": "Mary On A Cross (slowed + reverb)",
-        "url": "https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 274783,
-      "name": "Mary On A Cross - slowed + reverb",
-      "url": "https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU"
-    },
-    {
-      "added_at": "2026-08-04 14:05:45",
-      "album": {
         "name": "CLEARED - Remix (Slowed / Sped Up)",
         "url": "https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 167109,
       "name": "CLEARED - Remix (Slowed)",
       "url": "https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj"
+    },
+    {
+      "added_at": "2026-08-04 14:05:45",
+      "album": {
+        "name": "Mary On A Cross (slowed + reverb)",
+        "url": "https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 274783,
+      "name": "Mary On A Cross - slowed + reverb",
+      "url": "https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU"
     },
     {
       "added_at": "2026-08-04 14:05:45",
@@ -643,26 +643,22 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
-        "name": "HEAVENLY JUMPSTYLE",
-        "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
+        "name": "Wrap Me In Plastic",
+        "url": "https://open.spotify.com/album/3Igr361QL5Kd2pMs0ywmf6"
       },
       "artists": [
         {
-          "name": "TWXNY",
-          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
+          "name": "CHROMANCE",
+          "url": "https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp"
         },
         {
-          "name": "Sxilwix",
-          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
-        },
-        {
-          "name": "INNXCENCE",
-          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
         }
       ],
-      "duration_ms": 128477,
-      "name": "HEAVENLY JUMPSTYLE - Slowed",
-      "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
+      "duration_ms": 147713,
+      "name": "Wrap Me In Plastic - Slowed Down Version",
+      "url": "https://open.spotify.com/track/74PdooqFwI8VhklmayQ7dz"
     },
     {
       "added_at": "2026-08-04 14:05:45",
@@ -695,22 +691,26 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
-        "name": "Wrap Me In Plastic",
-        "url": "https://open.spotify.com/album/3Igr361QL5Kd2pMs0ywmf6"
+        "name": "HEAVENLY JUMPSTYLE",
+        "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
       },
       "artists": [
         {
-          "name": "CHROMANCE",
-          "url": "https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp"
+          "name": "TWXNY",
+          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
         },
         {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+          "name": "Sxilwix",
+          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
+        },
+        {
+          "name": "INNXCENCE",
+          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
         }
       ],
-      "duration_ms": 147713,
-      "name": "Wrap Me In Plastic - Slowed Down Version",
-      "url": "https://open.spotify.com/track/74PdooqFwI8VhklmayQ7dz"
+      "duration_ms": 128477,
+      "name": "HEAVENLY JUMPSTYLE - Slowed",
+      "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
     },
     {
       "added_at": "2026-08-04 14:05:45",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
-        "name": "drowning (remixes)",
-        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
-      },
-      "artists": [
-        {
-          "name": "Vague003",
-          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
-        }
-      ],
-      "duration_ms": 132576,
-      "name": "drowning (slowed + reverb)",
-      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
-    },
-    {
-      "added_at": "2026-08-04 14:05:45",
-      "album": {
         "name": "House Of Memories",
         "url": "https://open.spotify.com/album/3R6ZYq94MaeYKEMtPsj2hj"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 285062,
       "name": "House of Memories - Slowed Down Version",
       "url": "https://open.spotify.com/track/7CGf0Sw8s7m3bDllqSmPfL"
+    },
+    {
+      "added_at": "2026-08-04 14:05:45",
+      "album": {
+        "name": "drowning (remixes)",
+        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
+      },
+      "artists": [
+        {
+          "name": "Vague003",
+          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
+        }
+      ],
+      "duration_ms": 132576,
+      "name": "drowning (slowed + reverb)",
+      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
     },
     {
       "added_at": "2026-08-04 14:05:45",

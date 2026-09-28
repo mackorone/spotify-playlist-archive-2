@@ -2,7 +2,7 @@
 
 ### [All New All Now](https://open.spotify.com/playlist/37i9dQZF1DX8vwRmUsEIMT)
 
-> All the new music you need to hear right now\. Cover: Skepta
+> All the new music you need to hear right now\. Cover: Madonna, Charli xcx
 
 4,076 songs - 9 day 5 hr 43 min
 

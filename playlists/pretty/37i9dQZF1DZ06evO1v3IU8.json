@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1360780,
+  "num_followers": 1360791,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arW5gAAAAADlPnWyvDZxGPGct7ZBePHG",
+  "snapshot_id": "arcLAAAAAACNnXU0dmL2vjnOGKvb6FBh",
   "tracks": [
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grandes \u00c9xitos Remasterizado",
+        "url": "https://open.spotify.com/album/1R3MrnO5mAyt1tpeTADWAU"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 208992,
+      "name": "Mi Raz\u00f3n de Ser - REMASTERIZADO",
+      "url": "https://open.spotify.com/track/4TYRFIc2EIe4C9fN21UVM2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UVV Vol. 8 (En Vivo)",
         "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 180857,
       "name": "Nos Extra\u00f1o - En Vivo",
       "url": "https://open.spotify.com/track/0mCdGgntnPIE6RWueVSwyV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grandes \u00c9xitos Remasterizado",
-        "url": "https://open.spotify.com/album/1R3MrnO5mAyt1tpeTADWAU"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 208992,
-      "name": "Mi Raz\u00f3n de Ser - REMASTERIZADO",
-      "url": "https://open.spotify.com/track/4TYRFIc2EIe4C9fN21UVM2"
     },
     {
       "added_at": null,

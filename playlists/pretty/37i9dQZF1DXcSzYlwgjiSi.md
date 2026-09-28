@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 
 > The perfect soundtrack for a day on the water.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,048 likes - 168 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,129 likes - 168 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 | 167 | [Summer Cool](https://open.spotify.com/track/0hTNq9RahZlUuLDoiGmSxS) | [Stephen Carey](https://open.spotify.com/artist/5R4aCM4MHu9UvbvfDgW6N1) | [Summer Cool](https://open.spotify.com/album/2Xki8Z4mWb7mdYqC71bQeS) | 3:20 |
 | 168 | [Toes](https://open.spotify.com/track/5kjyiH6but1t2UDXq15aeS) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/0Im5nUhAuNDSYVjfPh7RyS) | 4:22 |
 
-Snapshot ID: `AAAAAAJT6PRW+Yw+AWDABCOcYHGZd/Np`
+Snapshot ID: `AAAAAE0dy6+V0rMu84O4QLIUKkt5m7ng`

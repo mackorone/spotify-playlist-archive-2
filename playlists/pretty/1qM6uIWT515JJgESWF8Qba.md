@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 568 likes - 73 songs - 4 hr 37 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 571 likes - 74 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 71 | [Dose of Speed](https://open.spotify.com/track/6YSOeHQAuuL5bk7tGNsUUC) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [A Big Dose of Speed](https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7) | 2:38 |
 | 72 | [When the City Had Lights](https://open.spotify.com/track/5TkLUpNSTx2sFiO5ynwq2O) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [When the City Had Lights](https://open.spotify.com/album/5zx9A3KVxyvW32t7qKKt54) | 3:53 |
 | 73 | [Mean Dog](https://open.spotify.com/track/3d8u5YQo5PQwt0cnZn2LfC) | [Sturgeon](https://open.spotify.com/artist/1q6x5uIGlVUeF1vZoyQDRF) | [Mean Dog](https://open.spotify.com/album/1l0iuJVPFyOhmYVJD5B2a8) | 3:04 |
+| 74 | [Rise](https://open.spotify.com/track/7mYCsCoJSehy39yICnduge) | [Teku Syndrom](https://open.spotify.com/artist/12eOrtKAt4e2lbggJqrNZB) | [Rise](https://open.spotify.com/album/4Zieo2ylQAwyEQv9jNp5hf) | 4:22 |
 
-Snapshot ID: `AAACPJX+kQHAvyGhu3XJ5tRoYkopJFBW`
+Snapshot ID: `AAACPejzJewl7fUSO1sWR2CUiOLONMEt`

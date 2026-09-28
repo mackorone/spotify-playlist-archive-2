@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,582 likes - 1,174 songs - 3 day 1 hr 38 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,582 likes - 1,187 songs - 3 day 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1182,5 +1182,18 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1172 | [Basement Beer Pong](https://open.spotify.com/track/1ExKfwGeB1lIiLyz0iSRtG) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Don't Trust Anyone Over 21](https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5) | 2:09 |
 | 1173 | [ESTOY VIEJA](https://open.spotify.com/track/4vhQqf3mGxPEdM4X85GWkL) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [ESTOY VIEJA](https://open.spotify.com/album/38HjyGTf0kKd67brXPPMd1) | 2:40 |
 | 1174 | [Sprouting](https://open.spotify.com/track/6AyitMWKVvkg5miRy04qYF) | [hikage](https://open.spotify.com/artist/35ib9e2wzbfLEArMWXNDag) | [Chaos City](https://open.spotify.com/album/1BCnvOTNk1z5QHEiqJHdis) | 2:45 |
+| 1175 | [Heaven is Lying Down](https://open.spotify.com/track/02Io4cV8WNNfnf81UWciem) | [DOUG ROCKS](https://open.spotify.com/artist/2SYkdo95tZe0avloQNzGSV) | [Heaven is Lying Down](https://open.spotify.com/album/3tz842t9Z72OBYoG8f4d3k) | 3:24 |
+| 1176 | [Underwater](https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Underwater](https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le) | 3:52 |
+| 1177 | [Find a Local Number](https://open.spotify.com/track/5ssQ6lnBgbH7t71UjtWvtU) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Find a Local Number](https://open.spotify.com/album/1H1YLJ2bi1gA8S9T5EjlqE) | 3:33 |
+| 1178 | [Kiss Me in the 7\-Eleven](https://open.spotify.com/track/1JYWbm2oE61ESqDSIHK0fY) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Don't Trust Anyone Over 21](https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5) | 2:01 |
+| 1179 | [Contigo Y Sin Ti](https://open.spotify.com/track/3EjlxUM7NjObqWS4TCuJWc) | [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf), [Aversi](https://open.spotify.com/artist/1EnT4eoObOi7BKR4d4MNqc) | [Contigo Y Sin Ti](https://open.spotify.com/album/6Sekce98LoO02MHCX8ElSx) | 3:12 |
+| 1180 | [Trust](https://open.spotify.com/track/1MZLhAKVUPZkcbUVmwOO3v) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Trust](https://open.spotify.com/album/2wjrSorNgeLOuffeyEqDlN) | 3:04 |
+| 1181 | [Good God](https://open.spotify.com/track/63MuA5CzLy9f1OUkJxRtfl) | [Hospital Radio.](https://open.spotify.com/artist/7MSnhcDh82G5xAI63J6QDr), [When Suddenly](https://open.spotify.com/artist/47eyvSD82dAuikqFTuCdoE) | [Crying Over Split Milk](https://open.spotify.com/album/1G2ZKkebiIraz1dH9dNe97) | 2:51 |
+| 1182 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 |
+| 1183 | [Preço](https://open.spotify.com/track/41sGpLKx6jkH9FqvYIWdIf) | [Ladrão](https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W) | [Demo Cracia](https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe) | 2:43 |
+| 1184 | [Gegengift](https://open.spotify.com/track/1A6z5HwJNvIu92sHcpDBtj) | [Mystigma](https://open.spotify.com/artist/1tLkcRDALZXMqyf944I1Gg) | [Gloomtown Radio](https://open.spotify.com/album/4i4adA9lAjjuzmwrqRbO7b) | 4:30 |
+| 1185 | [RAL commisurata all'esperienza](https://open.spotify.com/track/1pbphpSsaKaMopAsNg1nJY) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK), [EraNera](https://open.spotify.com/artist/63Cil2C40xtRj6FbMjJSPd) | [RAL commisurata all'esperienza](https://open.spotify.com/album/0NInNXq7adu6Pt9LbO5Toa) | 2:35 |
+| 1186 | [Sigma Fortress 1 Mega Man X \- Vocal Version](https://open.spotify.com/track/6QYFN2WW5u5MDsJJ727l5Y) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Sigma Fortress 1 Mega Man X \(Vocal Version\)](https://open.spotify.com/album/5Ln0V5gIBNp71ROTXhuEXG) | 4:10 |
+| 1187 | [BANALE](https://open.spotify.com/track/2vCzX6lr45KBgYRufV5pEc) | [Samuele Montecucco](https://open.spotify.com/artist/0W5Ne1PyrfTbqQyYKumlKF) | [BANALE](https://open.spotify.com/album/4bfHlS2yuXG3SDy7a6WSh5) | 3:32 |
 
-Snapshot ID: `AAAEwcnHNAe/oGIZphrnn/wTnhkpa0Xd`
+Snapshot ID: `AAAE0OSEFqPNf6RmjcT49nmwSEAzsm/6`

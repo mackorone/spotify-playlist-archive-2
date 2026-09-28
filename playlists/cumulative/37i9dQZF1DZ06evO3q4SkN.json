@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 84650,
       "name": "Arriving to Ginny's Farm",
       "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 111624,
       "name": "Corazones Sin L\u00edmites",
       "url": "https://open.spotify.com/track/2spzdsuvB0oTEITT1PchLD"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 70706,
       "name": "Driving to the Farm",
       "url": "https://open.spotify.com/track/6gRn9fLp92857ODm0MeCbF"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 74649,
       "name": "El Accidente",
       "url": "https://open.spotify.com/track/46Wuc9FK6vZ4ZjTTRzvHLd"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 66893,
       "name": "Felipe's Theme",
       "url": "https://open.spotify.com/track/7DCnWWU7KEswRD2qoqFRbU"
@@ -1237,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "Encanto (Svenskt Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3t8EdBx8BKpaHv3FMGgM3C"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87200,
+      "name": "Floden",
+      "url": "https://open.spotify.com/track/3JOC1jqQty1vcEKIvQEVtH"
+    },
+    {
+      "album": {
         "name": "Shovel Buddies (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR"
       },
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 85173,
       "name": "George At The Derby",
       "url": "https://open.spotify.com/track/5ZCeqaKFr6SxRauiXkShF8"
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 43440,
       "name": "George Enters Castleland",
       "url": "https://open.spotify.com/track/7KK62PyW3ul0If2xoO3OQm"
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 69560,
       "name": "Ginny Sees the Light",
       "url": "https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ"
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 61066,
       "name": "Meatball Monkey",
       "url": "https://open.spotify.com/track/4aH08aVsg9gRx8r5rU4nVN"
@@ -2460,7 +2478,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 91453,
       "name": "Royal Car",
       "url": "https://open.spotify.com/track/2lsmyzXbFXVOsq91rMirAS"
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 98613,
       "name": "Ted Saves The Day",
       "url": "https://open.spotify.com/track/6xjjeZHIXcywmHT3pO0Zak"
@@ -2810,7 +2828,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 93546,
       "name": "Ted's TV Realization",
       "url": "https://open.spotify.com/track/3Z3OztSmMX5Jda6VcevoQQ"

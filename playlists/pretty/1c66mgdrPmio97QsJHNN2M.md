@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,989 likes - 223 songs - 11 hr 40 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,991 likes - 226 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,5 +231,8 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 221 | [Lilac](https://open.spotify.com/track/5mMIebW4Dc6hta7nWoIjbW) | [OXSOLATE](https://open.spotify.com/artist/05cFqIG5wdH4ixqazlLTlM) | [If We Can Make It To The Moon](https://open.spotify.com/album/7nr9V5xqkN2BcD3Dh3xQlh) | 2:08 |
 | 222 | [Waterfall Of Love](https://open.spotify.com/track/5OW5g5T1f4UnXsTjmKOaBR) | [MATURE](https://open.spotify.com/artist/1lwuXLBuOkjKd0rZ1fwV41) | [Waterfall Of Love](https://open.spotify.com/album/30uLVyrCkpCFEsFCkZ80fB) | 2:44 |
 | 223 | [Halloween](https://open.spotify.com/track/1p6gPdesVFeJ0iUIW36szB) | [Missing Since Monday](https://open.spotify.com/artist/4oPbfmyQAkcukOgEUt3ZAb) | [Halloween](https://open.spotify.com/album/1ArECBsSpdUMD2bbInsYx9) | 3:16 |
+| 224 | [stop.](https://open.spotify.com/track/5WcQwdqQqyPQt40ZsWhZYX) | [Hopeless Fanatics](https://open.spotify.com/artist/3Hn2sCYhyCAxm9DDpI1Wdq) | [stop.](https://open.spotify.com/album/2z5jxArslgu5eADxVOKHEY) | 3:18 |
+| 225 | [Warm knife](https://open.spotify.com/track/48pHWeZsV104huCwzB0esa) | [Vex Feral](https://open.spotify.com/artist/18Pr9UpFLLBaZzlkEk99fZ) | [Warm knife](https://open.spotify.com/album/3onualR1S0Nkpg30Zi3O6h) | 3:08 |
+| 226 | [Kerosene and Quiet](https://open.spotify.com/track/2I0QT2r36Rtvc26hkhgrCC) | [Jonathan Spears](https://open.spotify.com/artist/4KbEVKNVboYHNcVmQWu76O) | [Kerosene and Quiet](https://open.spotify.com/album/0buszoDx9WDO5QOoFvzW4E) | 3:22 |
 
-Snapshot ID: `AAA8nkWL2bTniZ3dBu1Cgxzvd+kCShp0`
+Snapshot ID: `AAA8oVRJmzqb7aKceCA031w6u6LJQXcc`

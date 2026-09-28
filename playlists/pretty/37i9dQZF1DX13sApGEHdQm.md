@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13sApGEHdQm.md) - [plain]
 
 > Our editors' picks for the pop songs that have defined the streaming era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,976 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,096 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

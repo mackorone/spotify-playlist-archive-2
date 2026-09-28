@@ -6139,6 +6139,32 @@
     },
     {
       "album": {
+        "name": "Where We Gather",
+        "url": "https://open.spotify.com/album/60DpxTLVFV7cfHKsY8QfNa"
+      },
+      "artists": [
+        {
+          "name": "Hangad",
+          "url": "https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX"
+        },
+        {
+          "name": "Chrise Cortez-Martin",
+          "url": "https://open.spotify.com/artist/5ftUnGmOSKRWQdeDXiFwoy"
+        },
+        {
+          "name": "Leo Amisola Jr.",
+          "url": "https://open.spotify.com/artist/7GyqGNMZi4uEquUss3E8aX"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256317,
+      "name": "Where We Gather",
+      "url": "https://open.spotify.com/track/7ffC1u2bBSg7MkYzrchRZu"
+    },
+    {
+      "album": {
         "name": "Mass for Unity (All-English Liturgical Hymns by Jerry Olaguer)",
         "url": "https://open.spotify.com/album/1S66Z3hHV8Ok9SdOY0Z9CQ"
       },

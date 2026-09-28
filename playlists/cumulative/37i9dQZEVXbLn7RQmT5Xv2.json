@@ -4599,6 +4599,24 @@
     },
     {
       "album": {
+        "name": "EL BADLA WEL FOSTAN",
+        "url": "https://open.spotify.com/album/56r3tZ6lin6O7ngwBcO4hO"
+      },
+      "artists": [
+        {
+          "name": "abulhawa",
+          "url": "https://open.spotify.com/artist/6tRlI9czT4r9FOqR2KknHQ"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175735,
+      "name": "EL BADLA WEL FOSTAN",
+      "url": "https://open.spotify.com/track/2xYITR2JakEl8VxnQQ0Th8"
+    },
+    {
+      "album": {
         "name": "El Dalaa",
         "url": "https://open.spotify.com/album/2FdayiAJ0mgrFNERd5AOx5"
       },
@@ -7042,6 +7060,28 @@
       "duration_ms": 182268,
       "name": "Haseb Haseb",
       "url": "https://open.spotify.com/track/20zqFOuZTqADmwh0fiXhES"
+    },
+    {
+      "album": {
+        "name": "HASESS BIK",
+        "url": "https://open.spotify.com/album/14rd2zLm3Ijw9yEieR8iEc"
+      },
+      "artists": [
+        {
+          "name": "Zaid Khaled",
+          "url": "https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r"
+        },
+        {
+          "name": "Nasser",
+          "url": "https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246250,
+      "name": "HASESS BIK",
+      "url": "https://open.spotify.com/track/6KqmdbNxbqcgbBdQJIkD76"
     },
     {
       "album": {
@@ -11196,7 +11236,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 284106,
       "name": "Mot Leh",
       "url": "https://open.spotify.com/track/6gjUxA4kTiQadHyRvCyD0Q"
@@ -14180,7 +14220,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -16402,7 +16442,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 192972,
       "name": "WALA MEEN",
       "url": "https://open.spotify.com/track/7dlcdKBhZfmK7GrMRIQJid"
@@ -19206,7 +19246,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 136800,
       "name": "\u0627\u064a\u0647 \u064a\u0627 \u062d\u0644\u0648\u0629",
       "url": "https://open.spotify.com/track/7yhefLtVyxQPUltTyt74o8"
@@ -22104,7 +22144,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 245352,
       "name": "\u063a\u0628\u064a",
       "url": "https://open.spotify.com/track/4Xp2xAmjjGvMsmPwoz5aBR"
@@ -23804,7 +23844,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 340750,
       "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u0627\u0644\u062d\u0628\u0633 \u0648\u0627\u0639\u0631",
       "url": "https://open.spotify.com/track/6nUZYmhiXIvUg2bVsmWLcV"

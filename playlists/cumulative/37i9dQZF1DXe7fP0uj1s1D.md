@@ -4,7 +4,7 @@
 
 > Every Taylor Swift music video\. Watch now.
 
-58 songs - 3 hr 54 min
+59 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 | 2026-09-16 |  |
 | [Ours](https://open.spotify.com/track/1EQn3Uc5AyUXoiPLeyCrrg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Edition\)](https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym) | 3:57 | 2026-09-16 |  |
 | [Out Of The Woods](https://open.spotify.com/track/5OndtwLGA9O6XHFcGm2H7r) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:55 | 2026-09-16 |  |
+| [Patient Zero](https://open.spotify.com/track/5Aats2q7uoe1GDBAgNoS3L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Patient Zero](https://open.spotify.com/album/0KtMqHPyc0L7unLa6wcKsA) | 5:12 | 2026-09-28 |  |
 | [Picture To Burn](https://open.spotify.com/track/32mVHdy0bi1XKgr0ajsBlG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 2:53 | 2026-09-16 |  |
 | [Red](https://open.spotify.com/track/1RvQQGwaPipiNgz8RXAKA8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Deluxe Edition\)](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) | 3:40 | 2026-09-16 |  |
 | [Safe & Sound \- The Hunger Games: Songs From District 12 And Beyond](https://open.spotify.com/track/2ZF6lrDyglvi54waRVmmG9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Safe & Sound](https://open.spotify.com/album/4JRX9weUusuYqwGhfuvA6S) | 4:00 | 2026-09-16 |  |

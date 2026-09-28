@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,574 songs - 21 day 19 hr 19 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 1 like - 8,574 songs - 21 day 19 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

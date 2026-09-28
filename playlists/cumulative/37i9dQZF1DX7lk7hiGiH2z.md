@@ -4,7 +4,7 @@
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-501 songs - 23 hr 20 min
+502 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Der Oster\-Rock'n'Roll](https://open.spotify.com/track/18Vr8D4DyUxWsfQiv0Yecy) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Spiel Kinderlieder!](https://open.spotify.com/album/3CibsK6TZ9C56Kry5mnZxh) | 2:31 | 2024-03-27 | 2026-04-08 |
 | [Der schönste Tag vom Sommer / En güzel Yaz Günüm](https://open.spotify.com/track/0S6MWrgRd8U3qCTe7j16I9) | [Team Karacho](https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR), [Remmi Demmi](https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW), [Kinders](https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN) | [Der schönste Tag vom Sommer / En güzel Yaz Günüm](https://open.spotify.com/album/3jubUXU6mpuiPl02V1egGB) | 2:44 | 2024-08-26 | 2025-09-23 |
 | [Der singende Bauernhof \- Titelsong](https://open.spotify.com/track/1KTA0xfBwFoqYVHCBqrR4d) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Otti Stubs](https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP) | [Willkommen auf dem singenden Bauernhof](https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD) | 1:59 | 2024-03-01 | 2024-04-19 |
-| [Der Sommer muss gehen](https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Itzibitz die Liedermaus](https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO) | 2:06 | 2023-08-31 |  |
+| [Der Sommer muss gehen](https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Itzibitz die Liedermaus](https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO) | 2:06 | 2023-08-31 | 2026-09-28 |
 | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd) | 2:47 | 2023-08-31 |  |
 | [Der tollste Tag deines Lebens](https://open.spotify.com/track/0LucQd1DOdPIZ5U0PgK9A6) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Der tollste Tag deines Lebens](https://open.spotify.com/album/6CYKR3TwmkV5vHSGVOWpYl) | 2:55 | 2024-05-10 | 2026-05-26 |
 | [Der Vampir](https://open.spotify.com/track/4FlV1Nn9kpVEJ3qprLc6Gx) | [Eddi & Dän](https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D) | [Eddi & Dän singen neue Kinderlieder a cappella, Vol\. 2](https://open.spotify.com/album/7oeEW2bXn0HN2AzoPEIGiv) | 2:36 | 2023-10-16 | 2025-11-04 |
@@ -194,6 +194,7 @@
 | [Herbst](https://open.spotify.com/track/2aaJ1w7phiLtSXJRseS96K) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Herbst \- EP](https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo) | 2:07 | 2023-08-31 |  |
 | [Herbst auf dem Bauernhof](https://open.spotify.com/track/7GHQZiTK6cdDmgFCSqZSCK) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Herbst auf dem Bauernhof](https://open.spotify.com/album/0VvfcV5CK2ZWd1NK39hiEZ) | 2:21 | 2026-09-17 |  |
 | [Herbstwind](https://open.spotify.com/track/2J5jWCJN3a657QROqTdPSc) | [Fidibus](https://open.spotify.com/artist/3CYRhdvIbbOTYYqnQXOZiQ) | [Ab auf die Reise](https://open.spotify.com/album/6jzvkjk1BmzWrLfmnttUYe) | 2:33 | 2023-08-31 |  |
+| [Herbstzeit, du bist wunderschön](https://open.spotify.com/track/3HHbYzjflaJ0lXQmemFWXb) | [Sandra Lierz](https://open.spotify.com/artist/4hG4b1ak7Az0ODldHsHM8d), [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG), [Ralf Trautner](https://open.spotify.com/artist/2vno2PrNAId5fGIYLWCyWG) | [Herbstzeit, du bist wunderschön](https://open.spotify.com/album/489fyTWXoJ0VNOOgEizr4d) | 1:35 | 2026-09-24 |  |
 | [Heut Nacht hat's geschneit](https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:48 | 2023-11-14 | 2026-03-06 |
 | [Heute Bin Ich Faul](https://open.spotify.com/track/7CWbnTlzCvmnt7SDUvw7sy) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:28 | 2023-08-31 |  |
 | [Heute feiern wir den Martinstag](https://open.spotify.com/track/3hkKopyrwEzTPsT8UAzEYf) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Kinderlieder fürs Kalenderjahr](https://open.spotify.com/album/5bY0dq5UA2RoBVEenD8ial) | 2:53 | 2023-11-05 | 2025-11-15 |

@@ -4,7 +4,7 @@
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 49 min
+104 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Diosa](https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Diosa](https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG) | 3:06 | 2023-06-17 | 2026-04-30 |
 | [Diosa](https://open.spotify.com/track/6PCraJHi3KJGHleSU0Qviw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 3:07 | 2026-01-24 |  |
 | [Dolerá](https://open.spotify.com/track/4ai1InCLeygWk2dwvvYCpX) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:59 | 2023-04-30 | 2024-07-20 |
-| [El Mejor Verano](https://open.spotify.com/track/1Ss5dMCxLRBPuZ5tMjTQl0) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [El Mejor Verano](https://open.spotify.com/album/6w9lcRPcMTMagZPNFNhZxh) | 3:11 | 2026-06-13 |  |
+| [El Mejor Verano](https://open.spotify.com/track/7vRH3UN0yJjgFlnhv5FPOR) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 3:11 | 2026-09-28 |  |
+| [El Mejor Verano](https://open.spotify.com/track/1Ss5dMCxLRBPuZ5tMjTQl0) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [El Mejor Verano](https://open.spotify.com/album/6w9lcRPcMTMagZPNFNhZxh) | 3:11 | 2026-06-13 | 2026-09-28 |
 | [El Perfume](https://open.spotify.com/track/6lrnbr1ljDLb8gaKMhM5iy) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [El Perfume](https://open.spotify.com/album/5Lm24KFmWj9QR4Pcg52hgN) | 2:47 | 2026-09-02 | 2026-09-09 |
 | [El Perfume](https://open.spotify.com/track/7zo4xVCnSlXgIFcAGW22S4) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 2:47 | 2026-09-09 |  |
 | [En Medio De Este Ruido](https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf) | 4:07 | 2023-04-28 | 2025-10-03 |
@@ -37,7 +38,7 @@
 | [Espectador](https://open.spotify.com/track/7K6VPsAtUg6aWoeUoeSkPC) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Espectador](https://open.spotify.com/album/0ekLp83yAHBExNAvnFgJBV) | 3:20 | 2026-05-01 | 2026-09-25 |
 | [Extraño](https://open.spotify.com/track/0gAlJBvU3mhhJsR52vPvBh) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Extraño](https://open.spotify.com/album/1sMatqibwIjRjGzUAa3IAe) | 3:17 | 2026-07-19 |  |
 | [Jodido Sin Ti](https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Jodido Sin Ti](https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U) | 2:45 | 2024-05-09 | 2026-05-01 |
-| [Justo En El Borde](https://open.spotify.com/track/0OGxbQzKTNhVoRfA5JCiFa) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 3:16 | 2026-09-05 |  |
+| [Justo En El Borde](https://open.spotify.com/track/0OGxbQzKTNhVoRfA5JCiFa) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 3:16 | 2026-09-05 | 2026-09-28 |
 | [Kapitel 1.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/4DgfaBr9C1HT3isZcVDaN2) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:28 | 2023-03-30 | 2023-04-07 |
 | [Kapitel 1.3 & Kapitel 2.1 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/6kHgcNWyUVCqOet4Yhgx3l) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:46 | 2023-03-20 | 2023-04-05 |
 | [Kapitel 2.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/0m66a6KwWIyx3bdPvDX7yd) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:11 | 2023-04-01 | 2023-04-04 |
@@ -109,7 +110,7 @@
 | [Un Pedacito de Ti](https://open.spotify.com/track/65rNTveNX91Df29bbplB09) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ) | 2:55 | 2025-08-22 |  |
 | [Vengo Del Futuro](https://open.spotify.com/track/4mvtqRJpySaswY75a9WfVm) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:16 | 2023-03-19 |  |
 | [Visionz of Mine](https://open.spotify.com/track/4q9IXqEDky5QzmyKedPg8q) | [Remnant](https://open.spotify.com/artist/0cjUe5MBVQessZ3oTzsXdv), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Surviving the Game](https://open.spotify.com/album/3czXhfXFfJa3I811Rh6bhM) | 4:21 | 2023-03-19 | 2023-12-14 |
-| [Volver A Verte](https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 2:28 | 2024-06-28 | 2026-09-12 |
+| [Volver A Verte](https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 2:28 | 2024-06-28 |  |
 | [YA VA A VENIR](https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:24 | 2023-03-19 |  |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

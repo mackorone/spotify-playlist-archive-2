@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61410,
+  "num_followers": 61408,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -1163,18 +1163,22 @@
     {
       "added_at": "2026-09-17 22:01:22",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
+        "name": "Bakom molnen",
+        "url": "https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
         }
       ],
-      "duration_ms": 206530,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
+      "duration_ms": 182400,
+      "name": "Bakom molnen",
+      "url": "https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw"
     },
     {
       "added_at": "2026-09-17 22:01:22",
@@ -1195,22 +1199,18 @@
     {
       "added_at": "2026-09-17 22:01:22",
       "album": {
-        "name": "Bakom molnen",
-        "url": "https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o"
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
       },
       "artists": [
         {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        },
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Bakom molnen",
-      "url": "https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw"
+      "duration_ms": 206530,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
     },
     {
       "added_at": "2026-09-17 22:01:22",

@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 122267,
+  "num_followers": 122298,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-09-25 04:01:55",
       "album": {
-        "name": "La Samba",
-        "url": "https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        }
-      ],
-      "duration_ms": 150476,
-      "name": "La Samba",
-      "url": "https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr"
-    },
-    {
-      "added_at": "2026-09-25 04:01:55",
-      "album": {
         "name": "Beso (Fruta Fresca) [MichaelBM Remix]",
         "url": "https://open.spotify.com/album/6ZAVp3cuWAyj0FHy7CeC0C"
       },
@@ -1335,22 +1319,18 @@
     {
       "added_at": "2026-09-25 04:01:55",
       "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
+        "name": "La Samba",
+        "url": "https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq"
       },
       "artists": [
         {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Nandi",
-          "url": "https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH"
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
         }
       ],
-      "duration_ms": 167397,
-      "name": "Mi Casa",
-      "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
+      "duration_ms": 150476,
+      "name": "La Samba",
+      "url": "https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr"
     },
     {
       "added_at": "2026-09-25 04:01:55",
@@ -1375,6 +1355,26 @@
       "duration_ms": 150660,
       "name": "Tambora",
       "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"
+    },
+    {
+      "added_at": "2026-09-25 04:01:55",
+      "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
+      },
+      "artists": [
+        {
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Nandi",
+          "url": "https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH"
+        }
+      ],
+      "duration_ms": 167397,
+      "name": "Mi Casa",
+      "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
     },
     {
       "added_at": "2026-09-25 04:01:55",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2026-09-25 04:01:55",
       "album": {
+        "name": "Cuando Te Veo",
+        "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 223731,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
+    },
+    {
+      "added_at": "2026-09-25 04:01:55",
+      "album": {
         "name": "Playa Y Arena",
         "url": "https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 179512,
       "name": "Playa Y Arena",
       "url": "https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF"
-    },
-    {
-      "added_at": "2026-09-25 04:01:55",
-      "album": {
-        "name": "Cuando Te Veo",
-        "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
-      },
-      "artists": [
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 223731,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
     },
     {
       "added_at": "2026-09-25 04:01:55",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2026-09-25 04:01:55",
       "album": {
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "duration_ms": 170953,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "added_at": "2026-09-25 04:01:55",
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -1807,26 +1827,6 @@
       "duration_ms": 145908,
       "name": "Delante",
       "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
-    },
-    {
-      "added_at": "2026-09-25 04:01:55",
-      "album": {
-        "name": "Lo Que Soy",
-        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        }
-      ],
-      "duration_ms": 170953,
-      "name": "Lo Que Soy",
-      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
     },
     {
       "added_at": "2026-09-25 04:01:55",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2026-09-25 04:01:55",
       "album": {
+        "name": "Rave En La Favela",
+        "url": "https://open.spotify.com/album/4rZxSGTxcw5m3SiIKSfTa8"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        }
+      ],
+      "duration_ms": 194798,
+      "name": "Rave En La Favela",
+      "url": "https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj"
+    },
+    {
+      "added_at": "2026-09-25 04:01:55",
+      "album": {
         "name": "Mi Gentee EP",
         "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
-    },
-    {
-      "added_at": "2026-09-25 04:01:55",
-      "album": {
-        "name": "Rave En La Favela",
-        "url": "https://open.spotify.com/album/4rZxSGTxcw5m3SiIKSfTa8"
-      },
-      "artists": [
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        }
-      ],
-      "duration_ms": 194798,
-      "name": "Rave En La Favela",
-      "url": "https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj"
     },
     {
       "added_at": "2026-09-25 04:01:55",

@@ -1728,10 +1728,28 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 263976,
       "name": "No One Knows Us",
       "url": "https://open.spotify.com/track/6wBZkDA5FDcxC8DkukCsSR"
+    },
+    {
+      "album": {
+        "name": "Returning To Myself (Sad Gay Version)",
+        "url": "https://open.spotify.com/album/0XxNrO1OVqVBQdPoXz8pdz"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259799,
+      "name": "No One Knows Us - Sad Gay Version",
+      "url": "https://open.spotify.com/track/0eR1kKRLkbqxXSHYqEynfq"
     },
     {
       "album": {

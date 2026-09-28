@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,243 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,252 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 57 | [In The Ether](https://open.spotify.com/track/75EowUUUDl7lRjoYkAXDea) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Revival In My Mind](https://open.spotify.com/album/68N1AI8w7ZHKpWuevdr2Uz) | 4:41 |
 | 58 | [Glory of God](https://open.spotify.com/track/2k8LYHKEL005WIyXsH1UUY) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [The Friend & True King](https://open.spotify.com/album/0hqrxcUdCzjZH6vu9iOd3a) | 2:02 |
 | 59 | [If It Wasn't You](https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW) | [Airr](https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz) | [If It Wasn't You](https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N) | 3:06 |
-| 60 | [I Can See The Light](https://open.spotify.com/track/3ygEyWdTZVPEOovpOiUNc8) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [I Can See The Light](https://open.spotify.com/album/1j7xBuaxkpVv4ActQXMIrK) | 3:05 |
+| 60 | [Here I Am](https://open.spotify.com/track/1mhVnXC0Mf8HUpvj2ZtqEY) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [Here I Am](https://open.spotify.com/album/30yJdJF6LgTH5gYqVIgoS7) | 3:18 |
 | 61 | [Nothing but the Blood](https://open.spotify.com/track/6kKpPSjFUQHO4RdYKBuPVV) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep), [Fallon Graham](https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg) | [Nothing but the Blood](https://open.spotify.com/album/17JQNF1nyHPSSDNjx1CbYE) | 2:55 |
-| 62 | [Here I Am](https://open.spotify.com/track/1mhVnXC0Mf8HUpvj2ZtqEY) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [Here I Am](https://open.spotify.com/album/30yJdJF6LgTH5gYqVIgoS7) | 3:18 |
+| 62 | [I Can See The Light](https://open.spotify.com/track/3ygEyWdTZVPEOovpOiUNc8) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [I Can See The Light](https://open.spotify.com/album/1j7xBuaxkpVv4ActQXMIrK) | 3:05 |
 | 63 | [Image of Love](https://open.spotify.com/track/7yx1qvTUIMmAzj7Zcmk4wI) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Image of Love](https://open.spotify.com/album/15x4tgcWqDeShCla5Ev6jK) | 3:42 |
 | 64 | [I Just Want You](https://open.spotify.com/track/1EittqeWdfzsE6y2Zuajsd) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [I Just Want You](https://open.spotify.com/album/0mcmJWcj1cymjvcv1bdT8d) | 3:12 |
 | 65 | [In Your Arms](https://open.spotify.com/track/6OiInKzz6lhRIm0zsgZPbm) | [Taylor Holland](https://open.spotify.com/artist/7KzdruARFX9teR1Gvxs4Q7) | [In Your Arms](https://open.spotify.com/album/1tALKveCu0CB7U8kIWqkGR) | 3:27 |
-| 66 | [With Me \- Live At Big Fish Recording Studio](https://open.spotify.com/track/30RB1B3GEZFSzrdrF4h8Pt) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [With Me \(Live At Big Fish Recording Studio\)](https://open.spotify.com/album/5vJj5IxtBGsUkuXcbIZ1lv) | 2:50 |
-| 67 | [Aloha Goodbye](https://open.spotify.com/track/1BWDndcC1Padly51LgTu8z) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Aloha Goodbye](https://open.spotify.com/album/31qmUHsGqAFGllGRFmbyv3) | 2:03 |
+| 66 | [Aloha Goodbye](https://open.spotify.com/track/1BWDndcC1Padly51LgTu8z) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Aloha Goodbye](https://open.spotify.com/album/31qmUHsGqAFGllGRFmbyv3) | 2:03 |
+| 67 | [With Me \- Live At Big Fish Recording Studio](https://open.spotify.com/track/30RB1B3GEZFSzrdrF4h8Pt) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [With Me \(Live At Big Fish Recording Studio\)](https://open.spotify.com/album/5vJj5IxtBGsUkuXcbIZ1lv) | 2:50 |
 | 68 | [What A Friend We Have In Jesus \- Acoustic](https://open.spotify.com/track/4MwBgUEdwy17nlrKu2EXEE) | [Nathan Drake](https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr) | [The Trinity Acoustic Sessions, Vol\. 3 \(Reawaken Hymns\)](https://open.spotify.com/album/7nobJBpBLI2lZVHeBGKTKZ) | 3:13 |
 | 69 | [superbloom \- Acoustic](https://open.spotify.com/track/0sUj4GFs3WP6g8aNKx5roi) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5) | [superbloom \(Acoustic\)](https://open.spotify.com/album/2YfNOmiriEXVBMjDx501Tc) | 2:41 |
 | 70 | [The Fence](https://open.spotify.com/track/0Zm5s1se6F6ns4y9s3JLxl) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [The Fence](https://open.spotify.com/album/7lEbC8i3ZWrsCPgvMHUHXP) | 3:22 |

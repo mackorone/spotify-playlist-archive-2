@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Sara James
 
-992 songs - 2 day 0 hr 25 min
+993 songs - 2 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -837,6 +837,7 @@
 | [to jara Cię też!](https://open.spotify.com/track/50y9rvzaMoCiDKxUCSpekj) | [Verde](https://open.spotify.com/artist/09i0deXO9AB00wHavM30p7) | [to jara Cię też!](https://open.spotify.com/album/1suvRDCiw7fUUUNie070BV) | 2:56 | 2024-06-28 | 2024-09-14 |
 | [To jest to!](https://open.spotify.com/track/1I7nEa7aWULffUDCJrkhVp) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [To jest to!](https://open.spotify.com/album/7iYXIbb20iKje5Qna9Mf63) | 3:25 | 2026-06-25 | 2026-09-25 |
 | [To nie koniec](https://open.spotify.com/track/6O4ipJ8bo5bb2KyKagk1Lv) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [To nie koniec](https://open.spotify.com/album/4NAFphZqgSKwL8BFiOIbXG) | 2:52 | 2026-03-12 | 2026-05-30 |
+| [To nie koniec](https://open.spotify.com/track/6ZDloO00D9Ir8p8nU90y8Y) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [To nie koniec](https://open.spotify.com/album/6IZLvM2ka8uyD2IeZTmytD) | 3:01 | 2026-09-24 |  |
 | [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 | 2026-02-19 | 2026-05-08 |
 | [to nie ten stan](https://open.spotify.com/track/209gXdHjcXRxDxtGNALJLp) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [to nie ten stan](https://open.spotify.com/album/3MfOLXNdSTPvup7EW9qQy6) | 1:51 | 2025-10-07 | 2025-12-06 |
 | [To nie to](https://open.spotify.com/track/4sx1F5vrBxheiLB9LsGfPB) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [To nie to](https://open.spotify.com/album/1j5w8HDzPM4JYHvrvaBypb) | 3:03 | 2025-08-26 | 2025-09-24 |
@@ -930,7 +931,7 @@
 | [Wschód](https://open.spotify.com/track/26CP4rh1qGEs94QLEYl13x) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Wschód](https://open.spotify.com/album/1hzgUnumV7ab6i4aDpFfbo) | 3:10 | 2024-06-28 | 2024-09-07 |
 | [Wspaniały to był rok](https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wspaniały to był rok](https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4) | 2:52 | 2026-03-05 | 2026-06-26 |
 | [wspomnienie o](https://open.spotify.com/track/5y64rWFoYGPagbptX7pTGB) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [wspomnienie o](https://open.spotify.com/album/0fZNrgtdOGYG4yILi1TaNA) | 3:24 | 2024-10-11 | 2025-01-24 |
-| [wszystko będzie dobrze](https://open.spotify.com/track/1zsrZdi5pfXRPVxmiLrg4j) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu) | [wszystko będzie dobrze](https://open.spotify.com/album/3hJTucm1t8VQxkIxO2k6m7) | 3:13 | 2026-09-03 |  |
+| [wszystko będzie dobrze](https://open.spotify.com/track/1zsrZdi5pfXRPVxmiLrg4j) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu) | [wszystko będzie dobrze](https://open.spotify.com/album/3hJTucm1t8VQxkIxO2k6m7) | 3:13 | 2026-09-03 | 2026-09-28 |
 | [wszystko mam](https://open.spotify.com/track/4BmBjbRt4EnSJGN3HHp3JF) | [Maks Łapiński](https://open.spotify.com/artist/3GtP61OWBcEBJTZvxmPbke) | [wszystko mam](https://open.spotify.com/album/62ezCRqCDNbJ7lB3jyCMF4) | 2:38 | 2026-03-12 | 2026-04-22 |
 | [Wszystko Minie](https://open.spotify.com/track/1pxRlP7Bbiraw3X8XG38kF) | [Mateusz Ciawłowski](https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF) | [Wszystko Minie](https://open.spotify.com/album/24kue1VX52fHrZA4CnMlEp) | 2:48 | 2024-06-28 | 2024-07-27 |
 | [WSZYSTKO NA NIC](https://open.spotify.com/track/0PuNQogi1Fw7Yh78WcpYWB) | [HELA](https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj) | [WSZYSTKO NA NIC](https://open.spotify.com/album/1eZJg0B52UTxm6KqViMsej) | 3:19 | 2026-05-21 | 2026-09-04 |

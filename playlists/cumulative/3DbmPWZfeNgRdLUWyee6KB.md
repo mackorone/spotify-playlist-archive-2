@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,535 songs - 3 day 17 hr 20 min
+1,537 songs - 3 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,6 +698,7 @@
 | [Last goodbye](https://open.spotify.com/track/6O9SFmIBLtzo4TfnWoxt4g) | [Amovura](https://open.spotify.com/artist/73Yp1MIb1iXRJBYcwzPOSq) | [Last goodbye](https://open.spotify.com/album/7wA0mOThGfDXOBy4boUHpV) | 4:03 | 2025-12-22 | 2026-01-24 |
 | [Last rodeo](https://open.spotify.com/track/266WcmftXBccJkcTOl3tWU) | [Torfevas](https://open.spotify.com/artist/0XBartTCLbhKPDOZsOgwG1) | [Last rodeo](https://open.spotify.com/album/4XHy4WlsrfeHMWDufDoYkg) | 3:11 | 2026-07-29 | 2026-08-30 |
 | [Last Song](https://open.spotify.com/track/3cEZDNypHqy8MMzOjxS3b2) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Last Song](https://open.spotify.com/album/4IZRDZwXAturTiBDTxAiUh) | 3:12 | 2025-09-11 | 2025-11-29 |
+| [Last Summer](https://open.spotify.com/track/5snG4evSZghfsO38qn45H2) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [Last Summer](https://open.spotify.com/album/36672bMz4vaEqjqEJR96Pn) | 3:28 | 2026-09-27 |  |
 | [Last Train \- Piano Version](https://open.spotify.com/track/1vsXAJlYC3kxpOOcQj8UMR) | [Niko Albano](https://open.spotify.com/artist/0O3DeHtMP6v7Pd9aizUGB3) | [Last Train \(Piano Version\)](https://open.spotify.com/album/0gR016ZqYp1xZ0r49oAq64) | 2:59 | 2026-02-06 | 2026-03-07 |
 | [Last Trip to Maine](https://open.spotify.com/track/0BuxbfUfPYdJngSFW95Qu6) | [Tanner Boyle](https://open.spotify.com/artist/0z56LGlbYts7mFcxurWIbt) | [Last Trip to Maine](https://open.spotify.com/album/03sUBCZPY3hQvce5Fv6fet) | 4:00 | 2025-12-22 | 2026-01-24 |
 | [Last Uh' Da' Rap Mafia Dons \- Official Instrumental](https://open.spotify.com/track/2KPz1PKwj13GyyFdHveEKy) | [Young Bleed](https://open.spotify.com/artist/5GQgxUq4MOuXXV99WrRuev), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Last Uh' Da' Rap Mafia Dons \(Official Instrumental\)](https://open.spotify.com/album/48HS51HjXNZaIRDoqmL5yy) | 3:32 | 2025-09-11 | 2025-12-21 |
@@ -739,6 +740,7 @@
 | [London](https://open.spotify.com/track/5PEGPaTSfkWMSlnhoTKHky) | [Love Juliet](https://open.spotify.com/artist/1YS15EpvCxpGL5SeHcmCqb) | [London](https://open.spotify.com/album/2QgKRzP7A3JTvPboYknP34) | 2:01 | 2026-07-14 | 2026-08-10 |
 | [Long Time](https://open.spotify.com/track/2UKdtw1iNzsx2gmuYbQaKu) | [Eddus](https://open.spotify.com/artist/6iFNqjfucW5tG2WUK0nSxR) | [Long Time](https://open.spotify.com/album/3B3on9GGaYMjfyQpgVOnLa) | 3:32 | 2026-05-28 | 2026-07-03 |
 | [Long Way Back](https://open.spotify.com/track/5KzTKN4TB4pPsMLQMuzUAr) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Long Way Back](https://open.spotify.com/album/69LFgCAV86GGkkVkBABtTG) | 3:52 | 2026-08-25 | 2026-09-20 |
+| [Longtemps](https://open.spotify.com/track/7snx7dKDuKEyDT9nHGox4n) | [Mathieu Gattuso](https://open.spotify.com/artist/5R3q8fx3lfNhMCKugdiRBx) | [Longtemps](https://open.spotify.com/album/3zaN8YcOHLzG2rhZ2rUneA) | 3:09 | 2026-09-27 |  |
 | [Look to the Left, Look to the Right](https://open.spotify.com/track/36ysdfAFO9qWTEdKWdQDiM) | [Aleksi Oksanen](https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2) | [Look to the Left, Look to the Right](https://open.spotify.com/album/6o7NXuKePoAU6DWH7qEGPB) | 1:52 | 2026-04-23 | 2026-06-05 |
 | [Loophole](https://open.spotify.com/track/55MQNMrirlAqMne0FmNiNd) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Loophole](https://open.spotify.com/album/5aMFB6z220sBgH2nlnXboe) | 4:34 | 2026-08-31 | 2026-09-20 |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2026-04-06 | 2026-05-03 |

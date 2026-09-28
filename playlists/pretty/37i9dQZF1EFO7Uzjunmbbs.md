@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 129 | [All In](https://open.spotify.com/track/0puB7X6IECpzGZeTGM8VAq) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:14 |
 | 130 | [The Day That I'm Over You](https://open.spotify.com/track/6ZnV68nwB7llr1I22kQjmQ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [The Day That I'm Over You](https://open.spotify.com/album/1sfqqJAPXEg6jMkpavqHDD) | 3:18 |
 | 131 | [Georgia Is Yours](https://open.spotify.com/track/4l58t5yNDXcnldCE31ez1P) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [There Goes The Neighborhood](https://open.spotify.com/album/6ORGhksRXVC73wovtSdx4O) | 3:55 |
-| 132 | [Blind](https://open.spotify.com/track/1AD7HwCQTzipzEISrFNVGQ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Blind](https://open.spotify.com/album/0tFFEB8zlJHAJA0pSnBgrv) | 3:30 |
-| 133 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 132 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 133 | [Blind](https://open.spotify.com/track/1AD7HwCQTzipzEISrFNVGQ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Blind](https://open.spotify.com/album/0tFFEB8zlJHAJA0pSnBgrv) | 3:30 |
 | 134 | [175 Lbs](https://open.spotify.com/track/05YXhWUPrxOD0aJswE18Ok) | [Wé Ani](https://open.spotify.com/artist/0VcXm1al35QNsj9tbAnCJm) | [175 Lbs](https://open.spotify.com/album/4PltYDitGybS0xhmqpvStG) | 2:54 |
 | 135 | [In This Town](https://open.spotify.com/track/6ndf4BahK3UEiuuvrM4WPc) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [Part One](https://open.spotify.com/album/74PXR9KISCAXtpaC5AeQKf) | 3:09 |
 | 136 | [Our Days Are Numbered](https://open.spotify.com/track/4O8AzdrqO4IJ4vJC3CRrFX) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/1VnHNTAwtXV3a4DcNrpztP) | 3:29 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 218 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 219 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcdXvAAAAAD8lGbqV4w57kS5RdbxzQRe`
+Snapshot ID: `AcddUgAAAAC1ZhGr5BkQqLYrzZb4bxr8`

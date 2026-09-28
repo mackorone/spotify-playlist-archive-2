@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Bowers. The essential tracks, all in one playlist.",
-  "num_followers": 2694,
+  "num_followers": 2695,
   "original_name": "This Is Kris Bowers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arW5gAAAAAAha35UP/OkgC1uXLDuroX4",
+  "snapshot_id": "arcLAAAAAABnCKGembap15EKLazBx83f",
   "tracks": [
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 147960,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/4I2MrWkzR21FzzciyCEPKF"
+      "duration_ms": 58026,
+      "name": "Call Me Simon",
+      "url": "https://open.spotify.com/track/5PytAiOdKz6I6omydllZjV"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 95465,
-      "name": "Kiss and Tell - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL"
+      "duration_ms": 83301,
+      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 58026,
-      "name": "Call Me Simon",
-      "url": "https://open.spotify.com/track/5PytAiOdKz6I6omydllZjV"
+      "duration_ms": 147960,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/4I2MrWkzR21FzzciyCEPKF"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 83301,
-      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
+      "duration_ms": 95465,
+      "name": "Kiss and Tell - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL"
     },
     {
       "added_at": null,

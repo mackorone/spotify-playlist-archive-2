@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,321 likes - 96 songs - 5 hr 42 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,327 likes - 98 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 94 | [Come In For A Ride](https://open.spotify.com/track/59WCT4u8ly3HmomMlOsAnm) | [Risco](https://open.spotify.com/artist/3dVFxGEdrAp9qWS9AdcuvL) | [Come In For A Ride](https://open.spotify.com/album/0LQCVXXY3h4hzLBgcZl8SI) | 3:02 |
 | 95 | [Devil's Blues](https://open.spotify.com/track/33X5j5PnNGzEx68ASBqaQv) | [Gravens](https://open.spotify.com/artist/3ynl82AyQaG2Rw8Kws3f7Y) | [Rising](https://open.spotify.com/album/5hawHjIi7zbq7iEbaArhUL) | 3:55 |
 | 96 | [Kimberly Clark](https://open.spotify.com/track/06QggER0hHCYmRIfOW3Igr) | [Stane](https://open.spotify.com/artist/7eLnp0P9jfpkziT43TV8tG) | [Kimberly Clark](https://open.spotify.com/album/3Sv8C39VaBa1lTjkAcyQrr) | 4:57 |
+| 97 | [Growth Extractors](https://open.spotify.com/track/04KFDvCLLzh00ULv3HuKox) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Growth Extractors](https://open.spotify.com/album/131O9HDEtaDDpFlQ0sToor) | 2:50 |
+| 98 | [Delusional Daydream](https://open.spotify.com/track/2WtIj15qAaG0lfeWyjvPOU) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Delusional Daydream](https://open.spotify.com/album/2oe6AdaailGYT0AAjlD8k6) | 3:17 |
 
-Snapshot ID: `AAAHCXODNGRTFnU7QqofwDXhCHJ2a7HL`
+Snapshot ID: `AAAHC8CJPm/hdKPwVMu5QTX2f8Xqbs3v`

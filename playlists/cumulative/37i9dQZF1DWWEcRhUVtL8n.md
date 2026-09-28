@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: After
 
-2,533 songs - 5 day 15 hr 8 min
+2,534 songs - 5 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [18](https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [18](https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj) | 2:30 | 2021-06-25 | 2022-04-16 |
 | [19](https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [19](https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG) | 2:16 | 2023-06-30 | 2024-01-24 |
 | [2 Dollar Bill](https://open.spotify.com/track/31A3MoeCHGFks4CkKmwQ5j) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [2 Dollar Bill](https://open.spotify.com/album/57xQaT1EgQsHjHKNP7x74G) | 3:33 | 2026-09-18 |  |
-| [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 | 2026-09-18 |  |
+| [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 | 2026-09-18 | 2026-09-28 |
 | [2000 Miles](https://open.spotify.com/track/1nWCNJX79ARq0EtXyKyiIS) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/6n0YcmOzCJniZH9M4mYrt7) | 2:59 | 2022-03-18 | 2022-07-29 |
 | [2000 Miles](https://open.spotify.com/track/6jmIH21TDBlLlszYWbc9rd) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [2000 Miles](https://open.spotify.com/album/3U5QaOkgxVKjBqDlO69b4T) | 2:59 | 2022-09-30 | 2023-02-25 |
 | [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 | 2023-05-19 | 2024-01-14 |
@@ -759,6 +759,7 @@
 | [Factoury Girl](https://open.spotify.com/track/3b5NDASYtn3eGgTSYfUk2p) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Factoury Girl](https://open.spotify.com/album/3FMWPf3hJwNQ9Lr0R2M83t) | 3:26 | 2022-10-28 | 2022-11-12 |
 | [Fake Nice](https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt](https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs) | 3:27 | 2024-10-25 | 2024-12-07 |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-08-06 | 2022-04-12 |
+| [Fall In Love With Me](https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Fall In Love With Me](https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj) | 2:48 | 2026-09-25 |  |
 | [Fall Into Me](https://open.spotify.com/track/6kyWkZKmS8s8o30Gq9A1Ph) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Fall Into Me](https://open.spotify.com/album/4RxlvRj82Lo3XHqmVphG4b) | 3:56 | 2021-02-24 | 2021-02-25 |
 | [Fall to Pieces](https://open.spotify.com/track/6GBYnyMRtW43bVnwJQoiDA) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Fall to Pieces](https://open.spotify.com/album/1DrQpvNKmjlNasyNw47xro) | 2:47 | 2021-02-13 | 2021-05-26 |
 | [Falling Asleep At The Wheel](https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg) | 3:23 | 2020-10-20 | 2021-06-03 |

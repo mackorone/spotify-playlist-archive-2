@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-9,435 songs - 21 day 19 hr 8 min
+9,436 songs - 21 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4634,6 +4634,7 @@
 | [Lento](https://open.spotify.com/track/0f1QC1Emch84pONpGMEQd4) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [Brindis](https://open.spotify.com/album/79YdnVubJaG6D8QDEgkm46) | 3:18 | 2025-01-17 | 2025-01-25 |
 | [Lento](https://open.spotify.com/track/6H7tS5QBrDzU1H79g10J1y) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Música Para Abrir El Cielo](https://open.spotify.com/album/373sjPmbcfb0MBTscza6S2) | 3:32 | 2025-06-27 | 2025-07-05 |
 | [lençóis maranhenses](https://open.spotify.com/track/111uhRMDaHfXYFygLW3Zc3) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [lençóis maranhenses](https://open.spotify.com/album/1jWDSryfstq5Jt82QB7Dew) | 2:39 | 2025-11-14 | 2025-11-22 |
+| [Les coses anaven bé](https://open.spotify.com/track/66EooQl8zot965lczQIjHn) | [Guillem Gisbert](https://open.spotify.com/artist/0LqWxjJpozUhGWiacey9CL), [Giulietta Vidal](https://open.spotify.com/artist/2UeQqdNaYTYVz7BXqO1SZn) | [Les coses anaven bé](https://open.spotify.com/album/7c2YJ1HaVkeYsh8LCk44ci) | 3:46 | 2026-09-27 |  |
 | [Les Llevaré Mi Cruz](https://open.spotify.com/track/6QIODBpsQuCjIrHZHJIhbF) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [Cura Mi Corazón: Tributo a Triángulo de Amor Bizarro](https://open.spotify.com/album/3b2sbn3UZycXRVEZYjGBZF) | 3:01 | 2025-12-05 | 2025-12-13 |
 | [Les Oiseaux](https://open.spotify.com/track/41aCuTJDjLaNKD4uazONsr) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz), [sasu](https://open.spotify.com/artist/7vBnksH16ohbDKutDVUdEN) | [Les Oiseaux](https://open.spotify.com/album/1ugE4GUX1UjfYkAjQI9Snj) | 2:41 | 2026-06-26 | 2026-07-04 |
 | [Les passantes](https://open.spotify.com/track/7ufept0ukHRMT9GgkSJHHc) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Les passantes](https://open.spotify.com/album/0tegNRs9PvlCSlbLQHD4kg) | 3:02 | 2025-10-03 | 2025-10-11 |

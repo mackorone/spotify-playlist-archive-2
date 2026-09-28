@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Taylor Swift, Laura Tesoro, Pierre de Maere, OLIVIA and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,994 likes - 152 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,991 likes - 152 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 57 | [DEVANT LA MER](https://open.spotify.com/track/5ued3TFeQe30wBA0NCsiIF) | [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv), [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [DEVANT LA MER](https://open.spotify.com/album/2Tc7RWAkIqOGbDEdLQI1bY) | 3:00 |
 | 58 | [Do No Harm \(feat\. Baby Rose\)](https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [22 Durnham Dew](https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n) | 3:15 |
 | 59 | [TSUNAMI](https://open.spotify.com/track/1J6Lihuq84ZgMtxccyRG0o) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [TSUNAMI](https://open.spotify.com/album/2wBA1QqfIN3xXWMyo5xeXY) | 2:36 |
-| 60 | [Een Beetje](https://open.spotify.com/track/4aBvRfgXY6gGFgUPhhyorH) | [DEREK](https://open.spotify.com/artist/5MJwtOccBI1A9ov8UHukVb) | [Een Beetje](https://open.spotify.com/album/2isZ3EWdNt5MOUYJKuoI5b) | 3:08 |
+| 60 | [Een Beetje](https://open.spotify.com/track/4aBvRfgXY6gGFgUPhhyorH) | [DEREK](https://open.spotify.com/artist/5MJwtOccBI1A9ov8UHukVb), [Vera Coomans](https://open.spotify.com/artist/3Inqv3ou7Dg8nzvRJasNOe) | [Een Beetje](https://open.spotify.com/album/2isZ3EWdNt5MOUYJKuoI5b) | 3:08 |
 | 61 | [Best](https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [WpointM](https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8) | 3:42 |
 | 62 | [Tell Me](https://open.spotify.com/track/0ywxzEsnjBKonNBOwl8FRi) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Tell Me](https://open.spotify.com/album/2RD8ETAUyjizOxlnBaZJG5) | 3:12 |
 | 63 | [Stay A Little Longer](https://open.spotify.com/track/1nItkcuBMQ0wwmUN6yznda) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Stay A Little Longer](https://open.spotify.com/album/2ZgIa3WC76TfZNP7rMT5gf) | 3:41 |

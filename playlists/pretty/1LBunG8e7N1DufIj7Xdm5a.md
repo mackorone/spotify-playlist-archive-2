@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,869 songs - 10 day 23 hr 41 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,874 songs - 10 day 23 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4877,5 +4877,10 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4867 | [Brave the Storm](https://open.spotify.com/track/6B76d3Seh8XwUKTCrplf8a) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Brave the Storm](https://open.spotify.com/album/6dDQodS2dZ4YM0Um9VFb7s) | 6:26 |
 | 4868 | [Promises Made](https://open.spotify.com/track/2HQkV50Jrnyla0dAeeGoUr) | [Riiver Brukes](https://open.spotify.com/artist/3Uqhtmf0RC1zjRPxoRDWjS) | [Promises Made](https://open.spotify.com/album/5LZWFXUSSKoRwkEwFJdK0o) | 4:09 |
 | 4869 | [Rise And Fall](https://open.spotify.com/track/3exLIuw7dpaX8hGbmpU8Vn) | [Jumpscare](https://open.spotify.com/artist/6W6yM8NH6UPvCqvDdXjxr2) | [Rise And Fall](https://open.spotify.com/album/1fjCHBvoCdSqxgRjbCTXgh) | 5:24 |
+| 4870 | [The Days Just Slipped Away](https://open.spotify.com/track/09EjpLRKMm7UPBhlGqYT6h) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Days Just Slipped Away](https://open.spotify.com/album/3e3kXQKXXdDP39UNm0Reqd) | 3:43 |
+| 4871 | [Long Time Coming](https://open.spotify.com/track/1cuQQseVSOd8zS5YJAdyEK) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [Devils Country](https://open.spotify.com/album/6KxoCWxf4oqtuWpKF5RycW) | 3:03 |
+| 4872 | [Opętana Panna Mloda](https://open.spotify.com/track/2Go9lN6LKJN2OTro5TiNHY) | [mlodyb42](https://open.spotify.com/artist/7tHt2d0dNLk2u8LYz4aBC1) | [Opętana Panna Mloda](https://open.spotify.com/album/5smACvqf6KheDXlHCLuz1N) | 1:43 |
+| 4873 | [Oxygen](https://open.spotify.com/track/14QISLgJs7nlmR8rRybQCo) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Oxygen](https://open.spotify.com/album/6s4OCKSVdEgYMB4bPzslGZ) | 3:15 |
+| 4874 | [Sun Looker](https://open.spotify.com/track/1qhLwCKet77tmlZSJ3FUhP) | [Internal Triggers](https://open.spotify.com/artist/7jd9FYfxjOgbIC55x0OdYM) | [Sun Looker](https://open.spotify.com/album/7LM6Et5r0tOaiCZTxMrmX8) | 2:36 |
 
-Snapshot ID: `AAAKL/EZIKfTMtFQ4hTs0jo8hPCmw6KG`
+Snapshot ID: `AAAKNCBYVAj97BB8AipQ9vb/q6dO7ag7`

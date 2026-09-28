@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 1177834,
+  "num_followers": 1177808,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "Words",
         "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 208000,
       "name": "Words - Original Version 1983",
       "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Relax (Come Fighting)",
-      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "Purple Rain (Deluxe Expanded Edition)",
         "url": "https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 245373,
       "name": "Purple Rain - 7\" Single Edit; 2017 Remaster",
       "url": "https://open.spotify.com/track/3FnP3j1TyiTwbJb5AR2ynT"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Relax (Come Fighting)",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Best of Philippe Lafontaine (Le meilleur des ann\u00e9es 80)",
-        "url": "https://open.spotify.com/album/58Tata8UTc6gpFBaZeJgYG"
-      },
-      "artists": [
-        {
-          "name": "Philippe Lafontaine",
-          "url": "https://open.spotify.com/artist/7ee9JJuqLBnVjTZ4UXblnu"
-        }
-      ],
-      "duration_ms": 223312,
-      "name": "C\u0153ur de loup",
-      "url": "https://open.spotify.com/track/0XrmPFVFpZy9ty4Rx6CG6f"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "Best of Rose Laurens",
         "url": "https://open.spotify.com/album/6pUqfX67nw1tfhexViqAjF"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 216125,
       "name": "Africa",
       "url": "https://open.spotify.com/track/57MunCijhIhsiwxaWMPskb"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Best of Philippe Lafontaine (Le meilleur des ann\u00e9es 80)",
+        "url": "https://open.spotify.com/album/58Tata8UTc6gpFBaZeJgYG"
+      },
+      "artists": [
+        {
+          "name": "Philippe Lafontaine",
+          "url": "https://open.spotify.com/artist/7ee9JJuqLBnVjTZ4UXblnu"
+        }
+      ],
+      "duration_ms": 223312,
+      "name": "C\u0153ur de loup",
+      "url": "https://open.spotify.com/track/0XrmPFVFpZy9ty4Rx6CG6f"
     },
     {
       "added_at": "2026-09-09 09:06:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Anendlessocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,996 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,038 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 74 | [Enough](https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [The Address](https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl) | 3:43 |
 | 75 | [Every Time](https://open.spotify.com/track/7iRkS6UiUJLe2shmbxuYWt) | [Aaron Sledge](https://open.spotify.com/artist/0CEz3mmGL98Lk35wsqGpf2), [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5) | [Every Time](https://open.spotify.com/album/3EXpiWQdZY0bUOX9mdMZV9) | 3:55 |
 
-Snapshot ID: `AAAAAPUVgBWyDLm2QrdLv6b+pyympXTV`
+Snapshot ID: `AAAAAEhfZXiRjNjncObI9n0190u1bdB/`

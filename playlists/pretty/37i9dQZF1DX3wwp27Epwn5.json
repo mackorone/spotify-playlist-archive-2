@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 354872,
+  "num_followers": 355025,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-09-16 04:11:26",
       "album": {
+        "name": "Nawabzaade",
+        "url": "https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ],
+      "duration_ms": 179099,
+      "name": "High Rated Gabru",
+      "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
+    },
+    {
+      "added_at": "2026-09-16 04:11:26",
+      "album": {
         "name": "Jab Koi Baat - Recreated",
         "url": "https://open.spotify.com/album/1nIe4xtu5pwjRLgegOYdMm"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 220312,
       "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
       "url": "https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk"
-    },
-    {
-      "added_at": "2026-09-16 04:11:26",
-      "album": {
-        "name": "Nawabzaade",
-        "url": "https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk"
-      },
-      "artists": [
-        {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        }
-      ],
-      "duration_ms": 179099,
-      "name": "High Rated Gabru",
-      "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
     },
     {
       "added_at": "2026-09-16 04:11:26",

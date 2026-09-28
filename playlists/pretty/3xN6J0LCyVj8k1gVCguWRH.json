@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list. (2026, 2024 &amp; 2023 + bonus tracks) Enjoy! ",
-  "num_followers": 143298,
+  "num_followers": 143293,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA/QE1WnIQlusQmyVwsifas49muhYuS",
+  "snapshot_id": "AAA/TDZyNsL17l8XpZyHoyFWnlRmRtwl",
   "tracks": [
     {
       "added_at": "2026-07-30 16:30:00",
@@ -409,6 +409,38 @@
       "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
     },
     {
+      "added_at": "2026-09-27 23:17:35",
+      "album": {
+        "name": "Under the Sky",
+        "url": "https://open.spotify.com/album/2niwtyQxMvgOuQEIi4F4S2"
+      },
+      "artists": [
+        {
+          "name": "MICH",
+          "url": "https://open.spotify.com/artist/1PV7D9MBxN2DeBkrlMC9CU"
+        }
+      ],
+      "duration_ms": 216610,
+      "name": "Under the Sky",
+      "url": "https://open.spotify.com/track/2KLsJPLiShHCfGpSqa0UXm"
+    },
+    {
+      "added_at": "2026-09-28 00:13:32",
+      "album": {
+        "name": "Away (Edit)",
+        "url": "https://open.spotify.com/album/1eEf4Y3VIxGBZn6GNcMa1k"
+      },
+      "artists": [
+        {
+          "name": "Steve Lawler",
+          "url": "https://open.spotify.com/artist/0NDuRCSLSH0Ii5An4U6HME"
+        }
+      ],
+      "duration_ms": 233985,
+      "name": "Away - Edit",
+      "url": "https://open.spotify.com/track/5YAnZOZwpoILJ5QGHQA8Gq"
+    },
+    {
       "added_at": "2026-07-30 16:38:04",
       "album": {
         "name": "Emmanuele",
@@ -593,26 +625,6 @@
       "url": "https://open.spotify.com/track/5yr8pi3uCjTYOnTqstBBdm"
     },
     {
-      "added_at": "2026-09-24 00:31:34",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0ZbWNITGJdmtaQHTFSV0nl"
-      },
-      "artists": [
-        {
-          "name": "Super Carrera",
-          "url": "https://open.spotify.com/artist/1Xy1925qDbe9fbfVc9cn0j"
-        },
-        {
-          "name": "Aenu.L\u00f6g",
-          "url": "https://open.spotify.com/artist/5LU4uXMoo3sadh72aHeJQO"
-        }
-      ],
-      "duration_ms": 139624,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/3cIh8UFyMatsWWpe0j9eHS"
-    },
-    {
       "added_at": "2026-07-30 16:40:55",
       "album": {
         "name": "Muso Ko",
@@ -711,22 +723,6 @@
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2026-09-25 15:29:07",
-      "album": {
-        "name": "One Last Dance In The Valley",
-        "url": "https://open.spotify.com/album/3oTiakBGBOvb6K9YvvSHre"
-      },
-      "artists": [
-        {
-          "name": "Samuel Jack",
-          "url": "https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb"
-        }
-      ],
-      "duration_ms": 158696,
-      "name": "Sweeter",
-      "url": "https://open.spotify.com/track/056qYqoHHEDJVsqvbnw9Ko"
     },
     {
       "added_at": "2026-07-30 16:42:38",
@@ -899,6 +895,42 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "added_at": "2026-09-24 00:31:34",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0ZbWNITGJdmtaQHTFSV0nl"
+      },
+      "artists": [
+        {
+          "name": "Super Carrera",
+          "url": "https://open.spotify.com/artist/1Xy1925qDbe9fbfVc9cn0j"
+        },
+        {
+          "name": "Aenu.L\u00f6g",
+          "url": "https://open.spotify.com/artist/5LU4uXMoo3sadh72aHeJQO"
+        }
+      ],
+      "duration_ms": 139624,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/3cIh8UFyMatsWWpe0j9eHS"
+    },
+    {
+      "added_at": "2026-09-25 15:29:07",
+      "album": {
+        "name": "One Last Dance In The Valley",
+        "url": "https://open.spotify.com/album/3oTiakBGBOvb6K9YvvSHre"
+      },
+      "artists": [
+        {
+          "name": "Samuel Jack",
+          "url": "https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb"
+        }
+      ],
+      "duration_ms": 158696,
+      "name": "Sweeter",
+      "url": "https://open.spotify.com/track/056qYqoHHEDJVsqvbnw9Ko"
     },
     {
       "added_at": "2026-09-26 02:30:42",
@@ -1581,22 +1613,6 @@
       "url": "https://open.spotify.com/track/1LLBH7Qulq0KTendwZVQKP"
     },
     {
-      "added_at": "2026-08-28 12:57:40",
-      "album": {
-        "name": "Bug Bites",
-        "url": "https://open.spotify.com/album/2RaWNqLryzFbiEuxlNtATg"
-      },
-      "artists": [
-        {
-          "name": "Molly Bogin",
-          "url": "https://open.spotify.com/artist/2rncvbp37DOzoTdYQc2Qrq"
-        }
-      ],
-      "duration_ms": 202654,
-      "name": "Bug Bites",
-      "url": "https://open.spotify.com/track/1FWByo6TcEPkagOXatACZx"
-    },
-    {
       "added_at": "2026-09-04 13:54:59",
       "album": {
         "name": "BORN TO FLY",
@@ -1611,38 +1627,6 @@
       "duration_ms": 241225,
       "name": "BORN TO FLY",
       "url": "https://open.spotify.com/track/0oDII6ml9oikGCUOazMoRx"
-    },
-    {
-      "added_at": "2026-08-28 12:52:27",
-      "album": {
-        "name": "\"Tell Me of Love!\"",
-        "url": "https://open.spotify.com/album/0IwaPeZeRMSlBVzb4vdEaR"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 235249,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6QRy4zkZvESMSegT9Ju8LK"
-    },
-    {
-      "added_at": "2026-08-28 13:03:20",
-      "album": {
-        "name": "ACROPHOBIA",
-        "url": "https://open.spotify.com/album/3gfCj7OO3uBegFQWp9zyN7"
-      },
-      "artists": [
-        {
-          "name": "Apollo Jones",
-          "url": "https://open.spotify.com/artist/13nrnIrN6BflZhjdtoeA1c"
-        }
-      ],
-      "duration_ms": 190963,
-      "name": "ACROPHOBIA",
-      "url": "https://open.spotify.com/track/2mC8CEHamA8RCSQVHDbdTf"
     },
     {
       "added_at": "2026-09-08 13:24:58",
@@ -2409,22 +2393,6 @@
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
     },
     {
-      "added_at": "2026-08-27 19:53:51",
-      "album": {
-        "name": "Love Patrol",
-        "url": "https://open.spotify.com/album/33B9eVBEEC812ztMI4ow4H"
-      },
-      "artists": [
-        {
-          "name": "st. art",
-          "url": "https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH"
-        }
-      ],
-      "duration_ms": 249756,
-      "name": "Love Patrol - Extended Version",
-      "url": "https://open.spotify.com/track/2oT7yjx5O9wS4fcY0zryF2"
-    },
-    {
       "added_at": "2024-08-12 20:40:37",
       "album": {
         "name": "Linger Awhile",
@@ -3181,6 +3149,22 @@
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
+      "added_at": "2026-09-27 06:07:01",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4rfABwYbaVdQWxxkxNRNzZ"
+      },
+      "artists": [
+        {
+          "name": "The Rancho Park Devils",
+          "url": "https://open.spotify.com/artist/7uPkytiMDojH3dZqEjfqYr"
+        }
+      ],
+      "duration_ms": 194253,
+      "name": "I Like Love You",
+      "url": "https://open.spotify.com/track/4G7mKi0Cg86mGHXMzEAeRl"
+    },
+    {
       "added_at": "2026-09-27 00:01:39",
       "album": {
         "name": "No Soy Gringo (redux)",
@@ -3651,22 +3635,6 @@
       "duration_ms": 293040,
       "name": "Mean Old Mirror",
       "url": "https://open.spotify.com/track/3FgzaybzdgWF7Ey7DSmYvG"
-    },
-    {
-      "added_at": "2026-09-16 18:03:22",
-      "album": {
-        "name": "Time and Space",
-        "url": "https://open.spotify.com/album/2GqtAYJ25Gzw4CYLLpJHDS"
-      },
-      "artists": [
-        {
-          "name": "CHR0NiiC",
-          "url": "https://open.spotify.com/artist/0vmrkhVcMwl5IwTfjYhYw1"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Time and Space",
-      "url": "https://open.spotify.com/track/2GVHDy0APjdA9cbox8LCKt"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2026",

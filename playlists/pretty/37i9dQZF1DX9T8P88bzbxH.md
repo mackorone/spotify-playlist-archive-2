@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One night only\. Cover: Ernie Zakri, Syamel, Anuar Zain, Ziana Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,274 likes - 20 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,262 likes - 20 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

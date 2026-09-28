@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 510755,
+  "num_followers": 510780,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arW5gAAAAAAUzJYRoghgPiDTkUIEOPU/",
+  "snapshot_id": "arcLAAAAAABKj7cHOzoILs7g2D0k4DjI",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "That's All I Ask",
-      "url": "https://open.spotify.com/track/5uI8omnLtzW4xTqJ5AoQtT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nina Simone and Her Friends (Remastered 2014)",
         "url": "https://open.spotify.com/album/2CeiAmKMUqcHfNU9Lv3yuQ"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 248223,
       "name": "I Loves You, Porgy - 2014 - Remaster",
       "url": "https://open.spotify.com/track/0nQIWIpljdufnG7XEOEbtp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "That's All I Ask",
+      "url": "https://open.spotify.com/track/5uI8omnLtzW4xTqJ5AoQtT"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 149330,
+      "name": "He Needs Me (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Work Song (Antdot Remix)",
         "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 218499,
       "name": "Work Song - Antdot Remix",
       "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Girl Blue (2013 - Remaster)",
-        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 149330,
-      "name": "He Needs Me (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Single Woman (Expanded)",
-        "url": "https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB"
+        "name": "Nina Simone & Piano (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 195933,
-      "name": "No Woman, No Cry - Outtake",
-      "url": "https://open.spotify.com/track/3SmTSujkbFtr7OKhHhheQi"
+      "duration_ms": 200040,
+      "name": "I Think It's Going to Rain Today",
+      "url": "https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8"
     }
   ],
   "unique_name": "This Is Nina Simone",

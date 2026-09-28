@@ -1,13 +1,29 @@
 {
   "description": "Every Taylor Swift music video. Watch now.",
-  "num_followers": 171321,
+  "num_followers": 172122,
   "original_name": "Taylor Swift - The Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG0dS+JigfZWiQOxpDYN0tE7Xlmy",
+  "snapshot_id": "AAAAAPqm7A9bC1UiCoFa8q65BTJY4gup",
   "tracks": [
+    {
+      "added_at": "2026-09-28 01:27:27",
+      "album": {
+        "name": "Patient Zero",
+        "url": "https://open.spotify.com/album/0KtMqHPyc0L7unLa6wcKsA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 312320,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/5Aats2q7uoe1GDBAgNoS3L"
+    },
     {
       "added_at": "2026-09-16 15:25:35",
       "album": {

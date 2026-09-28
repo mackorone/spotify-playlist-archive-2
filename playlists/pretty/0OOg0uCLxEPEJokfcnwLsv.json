@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1321,
+  "num_followers": 1327,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAHCXODNGRTFnU7QqofwDXhCHJ2a7HL",
+  "snapshot_id": "AAAHC8CJPm/hdKPwVMu5QTX2f8Xqbs3v",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1555,6 +1555,38 @@
       "duration_ms": 297585,
       "name": "Kimberly Clark",
       "url": "https://open.spotify.com/track/06QggER0hHCYmRIfOW3Igr"
+    },
+    {
+      "added_at": "2026-09-27 16:45:33",
+      "album": {
+        "name": "Growth Extractors",
+        "url": "https://open.spotify.com/album/131O9HDEtaDDpFlQ0sToor"
+      },
+      "artists": [
+        {
+          "name": "One Dimensional Creatures",
+          "url": "https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o"
+        }
+      ],
+      "duration_ms": 170741,
+      "name": "Growth Extractors",
+      "url": "https://open.spotify.com/track/04KFDvCLLzh00ULv3HuKox"
+    },
+    {
+      "added_at": "2026-09-27 16:58:24",
+      "album": {
+        "name": "Delusional Daydream",
+        "url": "https://open.spotify.com/album/2oe6AdaailGYT0AAjlD8k6"
+      },
+      "artists": [
+        {
+          "name": "The Last Pioneers",
+          "url": "https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM"
+        }
+      ],
+      "duration_ms": 197661,
+      "name": "Delusional Daydream",
+      "url": "https://open.spotify.com/track/2WtIj15qAaG0lfeWyjvPOU"
     }
   ],
   "unique_name": "Unsigned Rock",

@@ -1,6 +1,6 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. ",
-  "num_followers": 485524,
+  "num_followers": 485640,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
-        "name": "Rendez-Vous",
-        "url": "https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx"
+        "name": "BLEU",
+        "url": "https://open.spotify.com/album/6woJYYYScksahP4fTIMhus"
       },
       "artists": [
         {
-          "name": "Rendez Vous",
-          "url": "https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY"
+          "name": "French Police",
+          "url": "https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC"
         }
       ],
-      "duration_ms": 220769,
-      "name": "The Others",
-      "url": "https://open.spotify.com/track/59mJLb7Ksjp7U63j6c2PhQ"
+      "duration_ms": 143225,
+      "name": "HUNNY",
+      "url": "https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb"
     },
     {
       "added_at": "2026-03-13 13:08:59",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
-        "name": "BLEU",
-        "url": "https://open.spotify.com/album/6woJYYYScksahP4fTIMhus"
+        "name": "Rendez-Vous",
+        "url": "https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx"
       },
       "artists": [
         {
-          "name": "French Police",
-          "url": "https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC"
+          "name": "Rendez Vous",
+          "url": "https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY"
         }
       ],
-      "duration_ms": 143225,
-      "name": "HUNNY",
-      "url": "https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb"
+      "duration_ms": 220769,
+      "name": "The Others",
+      "url": "https://open.spotify.com/track/59mJLb7Ksjp7U63j6c2PhQ"
     },
     {
       "added_at": "2026-03-13 13:08:59",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
+        "name": "ESPERA",
+        "url": "https://open.spotify.com/album/4k2fUq8CH5r1taFG82PGjh"
+      },
+      "artists": [
+        {
+          "name": "French Police",
+          "url": "https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC"
+        }
+      ],
+      "duration_ms": 147796,
+      "name": "FRENCH TIPS",
+      "url": "https://open.spotify.com/track/2XvsjccIW6F1ZHRcc8rxdU"
+    },
+    {
+      "added_at": "2026-03-13 13:08:59",
+      "album": {
         "name": "Disko Anksiyete",
         "url": "https://open.spotify.com/album/2ErVLQ217KC5srxpS3tQz9"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 289694,
       "name": "Durdu Dunya",
       "url": "https://open.spotify.com/track/2OzRao3wILud6BTrsT2cnI"
-    },
-    {
-      "added_at": "2026-03-13 13:08:59",
-      "album": {
-        "name": "Please Stay",
-        "url": "https://open.spotify.com/album/2vh1IK3UdV1EpQpwj8I0Lz"
-      },
-      "artists": [
-        {
-          "name": "Haunt Me",
-          "url": "https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6"
-        }
-      ],
-      "duration_ms": 230232,
-      "name": "Please Stay",
-      "url": "https://open.spotify.com/track/7vIFHpoofIaZuh3CsdTuTT"
     }
   ],
   "unique_name": "Darkwave",

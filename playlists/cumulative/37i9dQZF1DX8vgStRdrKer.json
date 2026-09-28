@@ -5330,6 +5330,24 @@
     {
       "album": {
         "name": "Good God",
+        "url": "https://open.spotify.com/album/5eZaaV8aS4B1whJNQGxrCi"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585806,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/2dBSHcsj2hLjUXs7XC0L3b"
+    },
+    {
+      "album": {
+        "name": "Good God",
         "url": "https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic"
       },
       "artists": [
@@ -6788,7 +6806,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 189000,
       "name": "I Am Blessed - Amapiano",
       "url": "https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3"
@@ -7650,7 +7668,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 429536,
       "name": "Ifeoma - Live",
       "url": "https://open.spotify.com/track/1lbns9ey1gbEXowvTmJCeq"
@@ -10729,6 +10747,24 @@
     },
     {
       "album": {
+        "name": "MY GOD, YOU ARE GOOD",
+        "url": "https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488149,
+      "name": "MY GOD, YOU ARE GOOD",
+      "url": "https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST"
+    },
+    {
+      "album": {
         "name": "Living Waters",
         "url": "https://open.spotify.com/album/63gbFwamxhdqShYTMZ97KI"
       },
@@ -11042,7 +11078,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 370466,
       "name": "Na Only Me Know",
       "url": "https://open.spotify.com/track/1Dqzildz8aeOKsVWdPZOjH"
@@ -17234,6 +17270,28 @@
       "duration_ms": 363048,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/6XlilInIhEvmmM7eNRRKYx"
+    },
+    {
+      "album": {
+        "name": "YAHWEH II",
+        "url": "https://open.spotify.com/album/6ZC0rWBZ8m20ENRV9301Cv"
+      },
+      "artists": [
+        {
+          "name": "JOERYOS",
+          "url": "https://open.spotify.com/artist/5TKhecZJqJy7un9OfflBNz"
+        },
+        {
+          "name": "MIN.ADEOLUWA",
+          "url": "https://open.spotify.com/artist/64uDlOscS1ksKOxDqjXcRz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374428,
+      "name": "YAHWEH II",
+      "url": "https://open.spotify.com/track/3UicrJGUIGRHza8BeHQEfJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-80 songs - 6 hr 17 min
+81 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [I Am Your Mind \(Part 2\)](https://open.spotify.com/track/5BeYu3uJAMVZ5oyReLFupf) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 8:35 | 2025-03-11 |  |
 | [In the Mood \(feat\. Kanye West & Roy Ayers\)](https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 3:55 | 2025-03-11 |  |
 | [In Time](https://open.spotify.com/track/6MXfEaPHJQEig5Saz4ew8I) | [Richard Earnshaw](https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra), [Erik Dillard](https://open.spotify.com/artist/1Zepv2yyM4iZMjIKoMmvnH), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In Time](https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E) | 8:43 | 2025-03-11 |  |
-| [Liquid Love](https://open.spotify.com/track/1uOgZkPPwGgya04nRoM1wy) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 4:46 | 2025-03-11 |  |
+| [Liquid Love](https://open.spotify.com/track/1uOgZkPPwGgya04nRoM1wy) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 4:46 | 2025-03-11 | 2026-09-28 |
+| [Liquid Love \- Delfonic Rework](https://open.spotify.com/track/7q6FKvakDwKTzHaVU4IXi3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Liquid Love \(Delfonic Rework\)](https://open.spotify.com/album/0TDvNzFq8pHapbGcJZwqyU) | 5:12 | 2026-09-28 |  |
 | [Love Will Bring Us Back Together](https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:55 | 2025-07-02 | 2025-09-21 |
 | [Love Will Bring Us Back Together](https://open.spotify.com/track/5yw2PVkZ9ttCVsBlDBIOb2) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Fever](https://open.spotify.com/album/7hAg1MAB7TPe6IEDKk2SUD) | 6:01 | 2025-03-11 |  |
 | [Mystery of Love](https://open.spotify.com/track/30SaZGpgPzSPrOvXb5ygYw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Virgin Ubiquity: Unreleased Recordings 1976 \- 1981](https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU) | 3:51 | 2025-04-14 | 2026-03-21 |

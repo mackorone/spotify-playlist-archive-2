@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 598324,
+  "num_followers": 598442,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Future To Come",
-        "url": "https://open.spotify.com/album/0EJ1YN4Z6VmZzPpcEn2fbE"
-      },
-      "artists": [
-        {
-          "name": "Furor Gallico",
-          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "Future to Come",
-      "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Fenris",
         "url": "https://open.spotify.com/album/7LDHiI3WUZhXqh313wu87n"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 347204,
       "name": "Fenris",
       "url": "https://open.spotify.com/track/1QvKHj2NLCuJoFeoe30nLU"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Future To Come",
+        "url": "https://open.spotify.com/album/0EJ1YN4Z6VmZzPpcEn2fbE"
+      },
+      "artists": [
+        {
+          "name": "Furor Gallico",
+          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "Future to Come",
+      "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "As Bright as a Thousand Suns",
-        "url": "https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx"
-      },
-      "artists": [
-        {
-          "name": "Arcana",
-          "url": "https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le"
-        }
-      ],
-      "duration_ms": 389386,
-      "name": "Inceptus",
-      "url": "https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Midvinter",
         "url": "https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy"
       },
@@ -1199,8 +1183,28 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Spatle \u01e2ghwas",
-        "url": "https://open.spotify.com/album/18QwVgSM6Ru8A8Sc1jO6xm"
+        "name": "Snake Pit Poetry",
+        "url": "https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z"
+      },
+      "artists": [
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        },
+        {
+          "name": "Hilda \u00d6rvarsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1"
+        }
+      ],
+      "duration_ms": 428077,
+      "name": "Snake Pit Poetry",
+      "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Mann",
+        "url": "https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob"
       },
       "artists": [
         {
@@ -1208,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Spatle \u01e2ghwas",
-      "url": "https://open.spotify.com/track/19SiWAlY1HyTNqgUCEOvQi"
+      "duration_ms": 256186,
+      "name": "Wulfwiga",
+      "url": "https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -1231,6 +1235,22 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
+        "name": "As Bright as a Thousand Suns",
+        "url": "https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx"
+      },
+      "artists": [
+        {
+          "name": "Arcana",
+          "url": "https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le"
+        }
+      ],
+      "duration_ms": 389386,
+      "name": "Inceptus",
+      "url": "https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
         "name": "Fa\u00feir",
         "url": "https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC"
       },
@@ -1247,34 +1267,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Whom the Moon a Nightsong Sings",
-        "url": "https://open.spotify.com/album/1owCmNT9Sswuqyohl3GfXJ"
+        "name": "Vikings Chant",
+        "url": "https://open.spotify.com/album/2lA9qxoicTpczW6FyCySzH"
       },
       "artists": [
         {
-          "name": "Syven",
-          "url": "https://open.spotify.com/artist/4zFQKcJwnetVMj3FaLh7Y3"
+          "name": "SK\u00c1LD",
+          "url": "https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv"
         }
       ],
-      "duration_ms": 850866,
-      "name": "How Fare the Gods?",
-      "url": "https://open.spotify.com/track/6vhJW2dA7fujOE4B4OvyJR"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Valhalla Rising",
-        "url": "https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI"
-      },
-      "artists": [
-        {
-          "name": "Nytt Land",
-          "url": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
-        }
-      ],
-      "duration_ms": 423531,
-      "name": "Valhalla Rising",
-      "url": "https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO"
+      "duration_ms": 160400,
+      "name": "R\u00fan",
+      "url": "https://open.spotify.com/track/4YmSk5JhkXdiG0LbQgjXma"
     }
   ],
   "unique_name": "Northern Spirits",

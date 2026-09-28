@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1166157,
+  "num_followers": 1166214,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arW5gAAAAAC2WosLO1evdk3ZtiMV1ZVd",
+  "snapshot_id": "arcLAAAAAABCYBYtTgYQZV5jMWs98dcX",
   "tracks": [
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kerplunk!",
-        "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 144626,
-      "name": "2000 Light Years Away",
-      "url": "https://open.spotify.com/track/6pM25DLzJb5oWj74d3ElXI"
+      "duration_ms": 231026,
+      "name": "Last of the American Girls",
+      "url": "https://open.spotify.com/track/5Rjm3VIMlxAEIEy5gU2bF7"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+        "name": "Kerplunk!",
+        "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 231026,
-      "name": "Last of the American Girls",
-      "url": "https://open.spotify.com/track/5Rjm3VIMlxAEIEy5gU2bF7"
+      "duration_ms": 144626,
+      "name": "2000 Light Years Away",
+      "url": "https://open.spotify.com/track/6pM25DLzJb5oWj74d3ElXI"
     }
   ],
   "unique_name": "This Is Green Day",

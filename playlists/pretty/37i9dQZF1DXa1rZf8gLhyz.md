@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,666,587 likes - 180 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,666,769 likes - 180 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 179 | [The gentle kind of blue](https://open.spotify.com/track/5FTAiWsy7XMHOjd1jYV3Li) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [The gentle kind of blue](https://open.spotify.com/album/0ixxw6w3mV64PUZHxDm2T7) | 2:23 |
 | 180 | [Orion](https://open.spotify.com/track/5fhlriWxzZWNOCAL9z9AwG) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Orion](https://open.spotify.com/album/1yfASIKHgeXoWasPQwWMeI) | 2:04 |
 
-Snapshot ID: `AAAAAJzOJVbZDHTRJjz9qeRaob+SCDQ5`
+Snapshot ID: `AAAAAIFTBZYNMzjtoifacdkW2Q6Eg/rh`

@@ -1,13 +1,165 @@
 {
   "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Mariah Deborah",
-  "num_followers": 201410,
+  "num_followers": 201440,
   "original_name": "OPM Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFHQW6lIPC0OyOPmOPQAmPHNYx5R",
+  "snapshot_id": "AAAAAIGKp9fL4AifCNc5JrwXdsS2lhfd",
   "tracks": [
+    {
+      "added_at": "2026-09-28 01:46:16",
+      "album": {
+        "name": "ikaw",
+        "url": "https://open.spotify.com/album/7i9liawBNYlGcRh1B1Ywsd"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1h5eRSFTxtcqvv04uKU2kz"
+        }
+      ],
+      "duration_ms": 148141,
+      "name": "ikaw",
+      "url": "https://open.spotify.com/track/58b443Cif2xysQK1WoH2RE"
+    },
+    {
+      "added_at": "2026-09-28 01:46:16",
+      "album": {
+        "name": "Isip",
+        "url": "https://open.spotify.com/album/2IcIRs9fPtAWSJKjgrMExw"
+      },
+      "artists": [
+        {
+          "name": "polaris.",
+          "url": "https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx"
+        }
+      ],
+      "duration_ms": 249750,
+      "name": "Isip",
+      "url": "https://open.spotify.com/track/4do0DDPsoFE0TsOdtc8RHF"
+    },
+    {
+      "added_at": "2026-09-25 02:00:17",
+      "album": {
+        "name": "Na Para Bang",
+        "url": "https://open.spotify.com/album/3PEV15iBgqpsdyUVT5pj4x"
+      },
+      "artists": [
+        {
+          "name": "Mariah Deborah",
+          "url": "https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv"
+        }
+      ],
+      "duration_ms": 228131,
+      "name": "Na Para Bang",
+      "url": "https://open.spotify.com/track/5U3UOiWDos9P2NWV7xTNwJ"
+    },
+    {
+      "added_at": "2026-09-25 02:00:17",
+      "album": {
+        "name": "tayo lang.",
+        "url": "https://open.spotify.com/album/6ngWf0tH5Hbrp4ugRfDqCW"
+      },
+      "artists": [
+        {
+          "name": "Angela Ken",
+          "url": "https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH"
+        }
+      ],
+      "duration_ms": 195633,
+      "name": "tayo lang.",
+      "url": "https://open.spotify.com/track/0kg1WyoI9K5KddghT3FrbW"
+    },
+    {
+      "added_at": "2026-09-25 02:00:17",
+      "album": {
+        "name": "Tapos Na Ba (Tayong Dalawa)",
+        "url": "https://open.spotify.com/album/0OgxH0d8lJQrba2oq71qkc"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        },
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 247250,
+      "name": "Tapos Na Ba (Tayong Dalawa)",
+      "url": "https://open.spotify.com/track/5lDYnAVm1IiYGGXbqkv167"
+    },
+    {
+      "added_at": "2026-09-28 01:46:16",
+      "album": {
+        "name": "balang araw",
+        "url": "https://open.spotify.com/album/7vg97lavYtPS3UhWn8n9QS"
+      },
+      "artists": [
+        {
+          "name": "Diego Gutierrez",
+          "url": "https://open.spotify.com/artist/1Wu9HTZIzOS61p43891eoh"
+        }
+      ],
+      "duration_ms": 252900,
+      "name": "balang araw",
+      "url": "https://open.spotify.com/track/3HjbuZbrNMnK8h4dBChuhq"
+    },
+    {
+      "added_at": "2026-09-28 01:46:16",
+      "album": {
+        "name": "Saan Ba Pupunta?",
+        "url": "https://open.spotify.com/album/3Zch40hPayH1X01LvDwBF7"
+      },
+      "artists": [
+        {
+          "name": "Keanna Mag",
+          "url": "https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v"
+        },
+        {
+          "name": "12th Street",
+          "url": "https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG"
+        }
+      ],
+      "duration_ms": 237504,
+      "name": "Palaisipan",
+      "url": "https://open.spotify.com/track/4Z7hKDpGq5bMmQ98fdwDOt"
+    },
+    {
+      "added_at": "2026-09-25 02:00:17",
+      "album": {
+        "name": "Kalendaryo",
+        "url": "https://open.spotify.com/album/2qgaoTnz2VcnJmg2JCdd84"
+      },
+      "artists": [
+        {
+          "name": "nicole",
+          "url": "https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp"
+        }
+      ],
+      "duration_ms": 208004,
+      "name": "Kalendaryo",
+      "url": "https://open.spotify.com/track/3979LHIoFI5gBUdLFn1e3T"
+    },
+    {
+      "added_at": "2026-09-25 02:00:17",
+      "album": {
+        "name": "Panata",
+        "url": "https://open.spotify.com/album/0ejwXq9GcS9hYIG5IqsXNa"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "Panata",
+      "url": "https://open.spotify.com/track/0v6IfrakYWcxlqDGGHOL1c"
+    },
     {
       "added_at": "2026-09-25 02:00:17",
       "album": {
@@ -51,42 +203,6 @@
     {
       "added_at": "2026-09-25 02:00:17",
       "album": {
-        "name": "Tapos Na Ba (Tayong Dalawa)",
-        "url": "https://open.spotify.com/album/0OgxH0d8lJQrba2oq71qkc"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        },
-        {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
-        }
-      ],
-      "duration_ms": 247250,
-      "name": "Tapos Na Ba (Tayong Dalawa)",
-      "url": "https://open.spotify.com/track/5lDYnAVm1IiYGGXbqkv167"
-    },
-    {
-      "added_at": "2026-09-25 02:00:17",
-      "album": {
-        "name": "Na Para Bang",
-        "url": "https://open.spotify.com/album/3PEV15iBgqpsdyUVT5pj4x"
-      },
-      "artists": [
-        {
-          "name": "Mariah Deborah",
-          "url": "https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv"
-        }
-      ],
-      "duration_ms": 228131,
-      "name": "Na Para Bang",
-      "url": "https://open.spotify.com/track/5U3UOiWDos9P2NWV7xTNwJ"
-    },
-    {
-      "added_at": "2026-09-25 02:00:17",
-      "album": {
         "name": "Sukli",
         "url": "https://open.spotify.com/album/6Aef18FExbKeiinEd1ffvi"
       },
@@ -103,38 +219,6 @@
     {
       "added_at": "2026-09-25 02:00:17",
       "album": {
-        "name": "Kalendaryo",
-        "url": "https://open.spotify.com/album/2qgaoTnz2VcnJmg2JCdd84"
-      },
-      "artists": [
-        {
-          "name": "nicole",
-          "url": "https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp"
-        }
-      ],
-      "duration_ms": 208004,
-      "name": "Kalendaryo",
-      "url": "https://open.spotify.com/track/3979LHIoFI5gBUdLFn1e3T"
-    },
-    {
-      "added_at": "2026-09-25 02:00:17",
-      "album": {
-        "name": "Panata",
-        "url": "https://open.spotify.com/album/0ejwXq9GcS9hYIG5IqsXNa"
-      },
-      "artists": [
-        {
-          "name": "mrld",
-          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "Panata",
-      "url": "https://open.spotify.com/track/0v6IfrakYWcxlqDGGHOL1c"
-    },
-    {
-      "added_at": "2026-09-25 02:00:17",
-      "album": {
         "name": "indie film",
         "url": "https://open.spotify.com/album/2WaRhRnmNjOwUZ9fw1tvAk"
       },
@@ -147,22 +231,6 @@
       "duration_ms": 186013,
       "name": "indie film",
       "url": "https://open.spotify.com/track/3LVK461v4j5peYIo9qq4Fj"
-    },
-    {
-      "added_at": "2026-09-25 02:00:17",
-      "album": {
-        "name": "tayo lang.",
-        "url": "https://open.spotify.com/album/6ngWf0tH5Hbrp4ugRfDqCW"
-      },
-      "artists": [
-        {
-          "name": "Angela Ken",
-          "url": "https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH"
-        }
-      ],
-      "duration_ms": 195633,
-      "name": "tayo lang.",
-      "url": "https://open.spotify.com/track/0kg1WyoI9K5KddghT3FrbW"
     },
     {
       "added_at": "2026-09-25 02:00:17",
@@ -1475,22 +1543,6 @@
     {
       "added_at": "2026-09-25 02:00:17",
       "album": {
-        "name": "dahon",
-        "url": "https://open.spotify.com/album/6eS6ugqniJe0jYXz3bcHTL"
-      },
-      "artists": [
-        {
-          "name": "justin",
-          "url": "https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "dahon",
-      "url": "https://open.spotify.com/track/6DElmrdn8ZlCuTfI3lFQ6l"
-    },
-    {
-      "added_at": "2026-09-25 02:00:17",
-      "album": {
         "name": "Sumabay Ka",
         "url": "https://open.spotify.com/album/2Epk8eTVltDZ6mcnUwSuxV"
       },
@@ -1547,22 +1599,6 @@
       "duration_ms": 194400,
       "name": "Ride Slow",
       "url": "https://open.spotify.com/track/5JKb9yr5pvdphnWdn4KILp"
-    },
-    {
-      "added_at": "2026-09-25 02:00:17",
-      "album": {
-        "name": "KAYA",
-        "url": "https://open.spotify.com/album/4VVxgTj7unIyxjyjI402I5"
-      },
-      "artists": [
-        {
-          "name": "KZ Tandingan",
-          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
-        }
-      ],
-      "duration_ms": 171145,
-      "name": "KAYA",
-      "url": "https://open.spotify.com/track/5FhNzod32Hwp6xrdVtAWcD"
     },
     {
       "added_at": "2026-09-25 02:00:17",
@@ -1631,22 +1667,6 @@
     {
       "added_at": "2026-09-25 02:00:17",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/7eN3kmvuJ4oNLr0seQ5eLU"
-      },
-      "artists": [
-        {
-          "name": "Nadine Lustre",
-          "url": "https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL"
-        }
-      ],
-      "duration_ms": 187124,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/2Y2OjCT4sQEYU2NfGU7SV3"
-    },
-    {
-      "added_at": "2026-09-25 02:00:17",
-      "album": {
         "name": "MORE LAB SONGS NG MGA TANGA",
         "url": "https://open.spotify.com/album/3Res3V2t8Uy3HL42eRfszZ"
       },
@@ -1691,22 +1711,6 @@
       "duration_ms": 220363,
       "name": "SAAKIN",
       "url": "https://open.spotify.com/track/3HgZaNPlAc1rdUg8VBHTWY"
-    },
-    {
-      "added_at": "2026-09-25 02:00:17",
-      "album": {
-        "name": "LAWLESS",
-        "url": "https://open.spotify.com/album/1XCbkmrTVA218VmsuHiKp7"
-      },
-      "artists": [
-        {
-          "name": "SB19",
-          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
-        }
-      ],
-      "duration_ms": 199259,
-      "name": "LAWLESS",
-      "url": "https://open.spotify.com/track/6DyUH0V8c8fy5hg40O16Jn"
     }
   ],
   "unique_name": "OPM Rising",

@@ -1621,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "BANALE",
+        "url": "https://open.spotify.com/album/4bfHlS2yuXG3SDy7a6WSh5"
+      },
+      "artists": [
+        {
+          "name": "Samuele Montecucco",
+          "url": "https://open.spotify.com/artist/0W5Ne1PyrfTbqQyYKumlKF"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212765,
+      "name": "BANALE",
+      "url": "https://open.spotify.com/track/2vCzX6lr45KBgYRufV5pEc"
+    },
+    {
+      "album": {
         "name": "Barbecue Blues",
         "url": "https://open.spotify.com/album/59WIJktf1ge6tDzaYSyEIE"
       },
@@ -3486,6 +3504,28 @@
       "duration_ms": 197022,
       "name": "Constant Disregard",
       "url": "https://open.spotify.com/track/6aFrhZqBnTwtvlxjgpYtmv"
+    },
+    {
+      "album": {
+        "name": "Contigo Y Sin Ti",
+        "url": "https://open.spotify.com/album/6Sekce98LoO02MHCX8ElSx"
+      },
+      "artists": [
+        {
+          "name": "Sexbasstian",
+          "url": "https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf"
+        },
+        {
+          "name": "Aversi",
+          "url": "https://open.spotify.com/artist/1EnT4eoObOi7BKR4d4MNqc"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192444,
+      "name": "Contigo Y Sin Ti",
+      "url": "https://open.spotify.com/track/3EjlxUM7NjObqWS4TCuJWc"
     },
     {
       "album": {
@@ -5943,6 +5983,24 @@
     },
     {
       "album": {
+        "name": "Find a Local Number",
+        "url": "https://open.spotify.com/album/1H1YLJ2bi1gA8S9T5EjlqE"
+      },
+      "artists": [
+        {
+          "name": "RamShackle",
+          "url": "https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "Find a Local Number",
+      "url": "https://open.spotify.com/track/5ssQ6lnBgbH7t71UjtWvtU"
+    },
+    {
+      "album": {
         "name": "The Steel II",
         "url": "https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd"
       },
@@ -6513,6 +6571,24 @@
     },
     {
       "album": {
+        "name": "Gloomtown Radio",
+        "url": "https://open.spotify.com/album/4i4adA9lAjjuzmwrqRbO7b"
+      },
+      "artists": [
+        {
+          "name": "Mystigma",
+          "url": "https://open.spotify.com/artist/1tLkcRDALZXMqyf944I1Gg"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270733,
+      "name": "Gegengift",
+      "url": "https://open.spotify.com/track/1A6z5HwJNvIu92sHcpDBtj"
+    },
+    {
+      "album": {
         "name": "Get Between",
         "url": "https://open.spotify.com/album/6eXy9T7FpFCRtUf3QfgfV7"
       },
@@ -6872,6 +6948,28 @@
       "duration_ms": 203932,
       "name": "Good Friends & Bad Decisions",
       "url": "https://open.spotify.com/track/1YldLB9XJR6T1jiCwDnkeY"
+    },
+    {
+      "album": {
+        "name": "Crying Over Split Milk",
+        "url": "https://open.spotify.com/album/1G2ZKkebiIraz1dH9dNe97"
+      },
+      "artists": [
+        {
+          "name": "Hospital Radio.",
+          "url": "https://open.spotify.com/artist/7MSnhcDh82G5xAI63J6QDr"
+        },
+        {
+          "name": "When Suddenly",
+          "url": "https://open.spotify.com/artist/47eyvSD82dAuikqFTuCdoE"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171409,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/63MuA5CzLy9f1OUkJxRtfl"
     },
     {
       "album": {
@@ -7348,6 +7446,24 @@
       "duration_ms": 477666,
       "name": "Heaven Can Wait",
       "url": "https://open.spotify.com/track/4jRFjEtrtSz6YEjwUw2L8D"
+    },
+    {
+      "album": {
+        "name": "Heaven is Lying Down",
+        "url": "https://open.spotify.com/album/3tz842t9Z72OBYoG8f4d3k"
+      },
+      "artists": [
+        {
+          "name": "DOUG ROCKS",
+          "url": "https://open.spotify.com/artist/2SYkdo95tZe0avloQNzGSV"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204313,
+      "name": "Heaven is Lying Down",
+      "url": "https://open.spotify.com/track/02Io4cV8WNNfnf81UWciem"
     },
     {
       "album": {
@@ -8918,6 +9034,24 @@
       "duration_ms": 163721,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/44ZsBgu5NIxUv2zmvSurKq"
+    },
+    {
+      "album": {
+        "name": "Don't Trust Anyone Over 21",
+        "url": "https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5"
+      },
+      "artists": [
+        {
+          "name": "S/ash66",
+          "url": "https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121119,
+      "name": "Kiss Me in the 7-Eleven",
+      "url": "https://open.spotify.com/track/1JYWbm2oE61ESqDSIHK0fY"
     },
     {
       "album": {
@@ -13785,6 +13919,24 @@
     },
     {
       "album": {
+        "name": "Demo Cracia",
+        "url": "https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe"
+      },
+      "artists": [
+        {
+          "name": "Ladr\u00e3o",
+          "url": "https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163140,
+      "name": "Pre\u00e7o",
+      "url": "https://open.spotify.com/track/41sGpLKx6jkH9FqvYIWdIf"
+    },
+    {
+      "album": {
         "name": "Guardians of the Phallicy",
         "url": "https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU"
       },
@@ -14070,6 +14222,28 @@
       "duration_ms": 276880,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/4fv0qckUl7htSZtFt5EO0D"
+    },
+    {
+      "album": {
+        "name": "RAL commisurata all'esperienza",
+        "url": "https://open.spotify.com/album/0NInNXq7adu6Pt9LbO5Toa"
+      },
+      "artists": [
+        {
+          "name": "Hofmann Orchestra",
+          "url": "https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK"
+        },
+        {
+          "name": "EraNera",
+          "url": "https://open.spotify.com/artist/63Cil2C40xtRj6FbMjJSPd"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155396,
+      "name": "RAL commisurata all'esperienza",
+      "url": "https://open.spotify.com/track/1pbphpSsaKaMopAsNg1nJY"
     },
     {
       "album": {
@@ -15546,6 +15720,24 @@
       "duration_ms": 203470,
       "name": "Siempre Pasa",
       "url": "https://open.spotify.com/track/7o9lVD7olqHzUEeINuenJW"
+    },
+    {
+      "album": {
+        "name": "Sigma Fortress 1 Mega Man X (Vocal Version)",
+        "url": "https://open.spotify.com/album/5Ln0V5gIBNp71ROTXhuEXG"
+      },
+      "artists": [
+        {
+          "name": "Vocal Game Orchestra",
+          "url": "https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250097,
+      "name": "Sigma Fortress 1 Mega Man X - Vocal Version",
+      "url": "https://open.spotify.com/track/6QYFN2WW5u5MDsJJ727l5Y"
     },
     {
       "album": {
@@ -19289,6 +19481,24 @@
     },
     {
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/2wjrSorNgeLOuffeyEqDlN"
+      },
+      "artists": [
+        {
+          "name": "ColourMind",
+          "url": "https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184090,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1MZLhAKVUPZkcbUVmwOO3v"
+    },
+    {
+      "album": {
         "name": "Destruction",
         "url": "https://open.spotify.com/album/3s37SQ5PPtEE3hI5GhAlAE"
       },
@@ -19632,6 +19842,24 @@
       "duration_ms": 157500,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/4rYnsfr04evuvN72gSXO8T"
+    },
+    {
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le"
+      },
+      "artists": [
+        {
+          "name": "Solace in Me",
+          "url": "https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r"
     },
     {
       "album": {
@@ -21140,6 +21368,24 @@
       "duration_ms": 253017,
       "name": "You Got the Feeling",
       "url": "https://open.spotify.com/track/4k6zhS7VG4AadaoJHpcb3k"
+    },
+    {
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa"
+      },
+      "artists": [
+        {
+          "name": "The Multides",
+          "url": "https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163855,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC"
     },
     {
       "album": {

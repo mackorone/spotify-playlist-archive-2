@@ -1801,6 +1801,28 @@
     },
     {
       "album": {
+        "name": "Chama A Lexa",
+        "url": "https://open.spotify.com/album/1tOLPBLDxM18D5X3yDOF8S"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168138,
+      "name": "Provocar",
+      "url": "https://open.spotify.com/track/00op33CP1mD3I7U1NGfzaZ"
+    },
+    {
+      "album": {
         "name": "Provocar",
         "url": "https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO"
       },
@@ -2090,7 +2112,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 173023,
       "name": "Sinal",
       "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"

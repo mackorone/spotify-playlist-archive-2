@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Leo Middea
 
-1,283 songs - 3 day 2 hr 40 min
+1,284 songs - 3 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,7 +682,7 @@
 | [Muito Obrigado \- Remasterizada 2026](https://open.spotify.com/track/6Jil9YCclgCfj8pOmU5LVl) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz, o Violão, a Música de Djavan \(Edição Especial de 50 Anos\) \[Remasterizada 2026\]](https://open.spotify.com/album/3P3wCaOTHQFAHRL0sT5rfw) | 3:02 | 2026-09-04 |  |
 | [Muito Obrigado \- Voz e Violão](https://open.spotify.com/track/19ZqlnVzHadrQjB4DvlVxi) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz, o Violão, a Música de Djavan \(Edição Especial de 50 Anos\) \[Remasterizada 2026\]](https://open.spotify.com/album/3P3wCaOTHQFAHRL0sT5rfw) | 3:13 | 2026-09-18 |  |
 | [Muito Prazer, Meu Nome É Salvador](https://open.spotify.com/track/0rQJPTuRaGV06L9h37tROG) | [Luiz Caldas](https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh) | [Muito Prazer, Meu Nome É Salvador](https://open.spotify.com/album/1R9yRCssXMD08whNj8bBzH) | 2:17 | 2023-03-31 | 2023-04-29 |
-| [Mulher Corvo](https://open.spotify.com/track/0J5C98ACNHQ5Dyl2sNvjp4) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Fervo Unboxing](https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia) | [Fervo Unboxing \- Mari Merenda](https://open.spotify.com/album/732IpAuN6tq7d0HoevmICq) | 4:53 | 2026-07-31 |  |
+| [Mulher Corvo](https://open.spotify.com/track/0J5C98ACNHQ5Dyl2sNvjp4) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Fervo Unboxing](https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia) | [Fervo Unboxing \- Mari Merenda](https://open.spotify.com/album/732IpAuN6tq7d0HoevmICq) | 4:53 | 2026-07-31 | 2026-09-28 |
 | [Mulher Corvo](https://open.spotify.com/track/5KSgDzS7qN7o9SxplH7gDx) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Flaira Ferro](https://open.spotify.com/artist/3gmFXyR7bHc8wQW3y6c2UI) | [Mulher Corvo](https://open.spotify.com/album/7c6QzhPNUTkpDKD2jBiJIh) | 3:48 | 2022-08-19 | 2022-09-03 |
 | [Multicolorida](https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm) | [Multicolorida](https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy) | 4:16 | 2024-07-12 | 2025-04-19 |
 | [Mundo de Cores](https://open.spotify.com/track/6cdJQfiyQy0VlsLEqBcWfE) | [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Mundo de Cores](https://open.spotify.com/album/1NXJ3cFMUqtmj6gif2Pcln) | 3:12 | 2026-09-04 |  |
@@ -1058,6 +1058,7 @@
 | [Sentido da Vida](https://open.spotify.com/track/1VF3ZTiGL6J6glNn04R0WE) | [Pseudo](https://open.spotify.com/artist/0vSgwGjTHcH6k7FIAChc3N) | [Sentido da Vida](https://open.spotify.com/album/4rTZqc29huKABVedShBX1x) | 3:14 | 2021-12-24 | 2022-01-22 |
 | [sentimento blues \- PP sessions \- Ao Vivo](https://open.spotify.com/track/0teSCqkAu773AAo2G5MVII) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [Julia Mestre \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/6ZdKE5ACOcTVPq8qouvpuJ) | 4:32 | 2024-04-19 | 2024-06-01 |
 | [Seo Zé \- Ao Vivo](https://open.spotify.com/track/40wZorcwGf1nrAIieX95IU) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas Raras \(Ao Vivo\)](https://open.spotify.com/album/0Va7QxTQdUhh7AB57zxbX5) | 2:43 | 2023-11-24 | 2024-03-09 |
+| [Ser Água](https://open.spotify.com/track/04TKTnue3bVfL76UnzlrcL) | [Michael Pipoquinha](https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N), [Vanessa Moreno](https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4) | [Minha Pele](https://open.spotify.com/album/4ByzxT38Zd94Mj1ehc7bnu) | 4:24 | 2026-09-25 |  |
 | [Serafim](https://open.spotify.com/track/6U5KA2ixrIUSpISQwaH6In) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Serafim](https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD) | 5:00 | 2023-06-16 | 2023-10-21 |
 | [Sereia](https://open.spotify.com/track/713dG06QFp61DE5RTaNW2B) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Ternura](https://open.spotify.com/album/3RBsKbfJGxvCDOXrCzdDn4) | 3:00 | 2022-04-01 | 2022-05-09 |
 | [SERENA](https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [SERENA](https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51) | 3:09 | 2024-03-22 | 2024-04-27 |

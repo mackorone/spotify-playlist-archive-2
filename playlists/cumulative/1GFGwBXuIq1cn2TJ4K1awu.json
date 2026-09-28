@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "I Care 4 U",
+        "url": "https://open.spotify.com/album/1Sh0y0PpnIKfyWJqqIk8LP"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265666,
+      "name": "Are You That Somebody?",
+      "url": "https://open.spotify.com/track/4QTO9eLRONw0rzOVWU4uB4"
+    },
+    {
+      "album": {
         "name": "Mug Museum",
         "url": "https://open.spotify.com/album/5xXP2gI8U35p389RggZW6O"
       },
@@ -1570,7 +1588,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 240752,
       "name": "Beadie",
       "url": "https://open.spotify.com/track/2TNslJOA7PiSMibQn5ZJk0"
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 200400,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
@@ -4611,6 +4629,24 @@
     },
     {
       "album": {
+        "name": "Slipknot",
+        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236360,
+      "name": "Eyeless",
+      "url": "https://open.spotify.com/track/2yYX7KbfWZrezWVW1vN3iz"
+    },
+    {
+      "album": {
         "name": "Vol.II",
         "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
       },
@@ -4832,7 +4868,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 177973,
       "name": "Fight To Live",
       "url": "https://open.spotify.com/track/2nU4VND7sfHwzweYzCSMoI"
@@ -6433,6 +6469,24 @@
     },
     {
       "album": {
+        "name": "Animaru",
+        "url": "https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180606,
+      "name": "I can do what I want",
+      "url": "https://open.spotify.com/track/3pAggfK0BtAzU6fDyW6DUy"
+    },
+    {
+      "album": {
         "name": "20/20 (Remastered)",
         "url": "https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82"
       },
@@ -6974,7 +7028,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 165733,
       "name": "I Wish It Would Rain",
       "url": "https://open.spotify.com/track/7yxkUamfdRreQ2UWuJgz7f"
@@ -7064,10 +7118,28 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 143866,
       "name": "I'll Get There",
       "url": "https://open.spotify.com/track/4MXxd2JFZgUs1MhS4AAZQb"
+    },
+    {
+      "album": {
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166933,
+      "name": "I'm a Ramblin' Man",
+      "url": "https://open.spotify.com/track/5cXdB92xagJr4b30GjRbfX"
     },
     {
       "album": {
@@ -7637,6 +7709,24 @@
     },
     {
       "album": {
+        "name": "Blame The Clown",
+        "url": "https://open.spotify.com/album/6WVULKossUfiq6AkHBZtIp"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181233,
+      "name": "Is It Real?",
+      "url": "https://open.spotify.com/track/0gtZYdvwrD5th0JUpc0xfO"
+    },
+    {
+      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
@@ -7666,7 +7756,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
@@ -7978,6 +8068,24 @@
       "duration_ms": 228026,
       "name": "Just What I Am",
       "url": "https://open.spotify.com/track/20bJBbPapGQ4bqs0YcA9xY"
+    },
+    {
+      "album": {
+        "name": "This Conversation Is Ending Starting Right Now",
+        "url": "https://open.spotify.com/album/0wGnULzBLkxGa1FS4LSqmK"
+      },
+      "artists": [
+        {
+          "name": "Knapsack",
+          "url": "https://open.spotify.com/artist/7kcgO0DTza7One0HqXRIH7"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "Katherine The Grateful",
+      "url": "https://open.spotify.com/track/4eODjOjquuFtkHlqoSqety"
     },
     {
       "album": {
@@ -8689,6 +8797,24 @@
     },
     {
       "album": {
+        "name": "Surf's Up",
+        "url": "https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212573,
+      "name": "Long Promised Road - Remastered 2009",
+      "url": "https://open.spotify.com/track/4x3wjsXr6MtWNXii5gA1Ai"
+    },
+    {
+      "album": {
         "name": "Stories up High",
         "url": "https://open.spotify.com/album/2Obbm5E6IR6nNBmvSKrcl9"
       },
@@ -9209,6 +9335,24 @@
     },
     {
       "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
+    },
+    {
+      "album": {
         "name": "Lion and the Cobra",
         "url": "https://open.spotify.com/album/60gQ6EG1JFQWWUcasx7wKc"
       },
@@ -9242,6 +9386,24 @@
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321133,
+      "name": "Mannish Boy",
+      "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
     },
     {
       "album": {
@@ -9404,7 +9566,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 295632,
       "name": "Mexicola",
       "url": "https://open.spotify.com/track/4NK1A89eLfNQPCoOLxLCSl"
@@ -11058,7 +11220,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 509315,
       "name": "Paradise By the Dashboard Light",
       "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
@@ -12479,6 +12641,24 @@
     },
     {
       "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275599,
+      "name": "Sarniezz",
+      "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
+    },
+    {
+      "album": {
         "name": "Scatman's World",
         "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
       },
@@ -13148,7 +13328,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -13202,7 +13382,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 228160,
       "name": "Solid Grease",
       "url": "https://open.spotify.com/track/4KL2LvMU6ebkXUcitOCNXc"
@@ -14066,7 +14246,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 151453,
       "name": "Tell Him",
       "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
@@ -16354,6 +16534,24 @@
       "duration_ms": 193277,
       "name": "Wild",
       "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
+    },
+    {
+      "album": {
+        "name": "Before The Next Teardrop Falls",
+        "url": "https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd"
+      },
+      "artists": [
+        {
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187136,
+      "name": "Wild Side Of Life",
+      "url": "https://open.spotify.com/track/0K8iGXV5TXDz6RWfHMcJ1m"
     },
     {
       "album": {

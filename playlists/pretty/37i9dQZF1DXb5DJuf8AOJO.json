@@ -1,13 +1,37 @@
 {
   "description": "Lift our voices to Him.",
-  "num_followers": 152554,
+  "num_followers": 152560,
   "original_name": "Papuri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC1VKdFC8mmX197EXgj2UhJlcGNd",
+  "snapshot_id": "AAAAADcGU6oCHP36CRJ2UkyHHpGsIG7X",
   "tracks": [
+    {
+      "added_at": "2026-09-28 03:09:20",
+      "album": {
+        "name": "Where We Gather",
+        "url": "https://open.spotify.com/album/60DpxTLVFV7cfHKsY8QfNa"
+      },
+      "artists": [
+        {
+          "name": "Hangad",
+          "url": "https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX"
+        },
+        {
+          "name": "Chrise Cortez-Martin",
+          "url": "https://open.spotify.com/artist/5ftUnGmOSKRWQdeDXiFwoy"
+        },
+        {
+          "name": "Leo Amisola Jr.",
+          "url": "https://open.spotify.com/artist/7GyqGNMZi4uEquUss3E8aX"
+        }
+      ],
+      "duration_ms": 256317,
+      "name": "Where We Gather",
+      "url": "https://open.spotify.com/track/7ffC1u2bBSg7MkYzrchRZu"
+    },
     {
       "added_at": "2026-04-07 04:15:54",
       "album": {

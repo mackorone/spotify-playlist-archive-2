@@ -1,6 +1,6 @@
 {
   "description": "Explore the familiar tunes of Mendelssohn.",
-  "num_followers": 55995,
+  "num_followers": 56002,
   "original_name": "This Is Mendelssohn",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-12-22 11:10:15",
       "album": {
-        "name": "Mendelssohn: Lieder Ohne Worte",
-        "url": "https://open.spotify.com/album/6SM6VH6nmpncui2CY3L3CM"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Kyoko Tabe",
-          "url": "https://open.spotify.com/artist/4XaU59x0M0HhDA4TKt18Oy"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "Lieder Ohne Worte No. 5 in A Minor, Op. 53: Allegro con Fuoco \"Volkslied\"",
-      "url": "https://open.spotify.com/track/6RnGPDRaIjAXKEEIqcxLX7"
-    },
-    {
-      "added_at": "2025-12-22 11:10:15",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/3hbzaXtCS7aksmbCJx1J9k"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 121133,
       "name": "Mendelssohn: Songs Without Words, Book VI, Op. 67: No. 2, Allegro leggiero, MWV U145",
       "url": "https://open.spotify.com/track/5jqXflQNkco9OLGqNYiIrQ"
+    },
+    {
+      "added_at": "2025-12-22 11:10:15",
+      "album": {
+        "name": "Mendelssohn: Lieder Ohne Worte",
+        "url": "https://open.spotify.com/album/6SM6VH6nmpncui2CY3L3CM"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Kyoko Tabe",
+          "url": "https://open.spotify.com/artist/4XaU59x0M0HhDA4TKt18Oy"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "Lieder Ohne Worte No. 5 in A Minor, Op. 53: Allegro con Fuoco \"Volkslied\"",
+      "url": "https://open.spotify.com/track/6RnGPDRaIjAXKEEIqcxLX7"
     },
     {
       "added_at": "2025-12-22 11:10:15",

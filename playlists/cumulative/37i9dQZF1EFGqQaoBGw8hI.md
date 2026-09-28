@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-754 songs - 2 day 4 hr 4 min
+755 songs - 2 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Burning Buildings](https://open.spotify.com/track/4hgId8WzUQkUV5mpu6vB9P) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 4:01 | 2022-09-08 |  |
 | [C'est ta chanson](https://open.spotify.com/track/6hiMle7MaA0Om0oZNfNGi1) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [5000 Kilomètres](https://open.spotify.com/album/3fRS6PFv2eGFOfhyZl71oz) | 3:58 | 2022-09-08 | 2026-01-26 |
 | [C'est ta chanson](https://open.spotify.com/track/1ZQEhSGUyGppKFEaajAidT) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [5000 Kilomètres](https://open.spotify.com/album/4g4mOeLTfAlcTg2e5zXmrJ) | 4:01 | 2026-01-25 |  |
+| [Cage The Songbird](https://open.spotify.com/track/0rAuGlPPw2Y8sDKW1dXqdH) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Cage the Songbird](https://open.spotify.com/album/5AaoU4omsi2UUWGQMJnHJh) | 4:10 | 2026-09-27 |  |
 | [Cage The Songbird](https://open.spotify.com/track/1tep8bEj4iyuvVNugiv7OO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 3:25 | 2022-09-08 |  |
 | [Calling It Christmas \- Radio Edit](https://open.spotify.com/track/0XpApJu5havzspIyIVe2ut) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul \(Special Edition\)](https://open.spotify.com/album/6rEYIfMefUM2leNQNoBdu2) | 4:16 | 2022-09-08 | 2022-11-26 |
 | [Calling It Christmas \- Radio Edit](https://open.spotify.com/track/5L8lTSu1qpYvaHQkqzdUGh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Step Into Christmas](https://open.spotify.com/album/6qXYjhnacPdM4QT0aYrFuJ) | 4:16 | 2022-11-25 |  |

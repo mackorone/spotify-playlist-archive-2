@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 19266,
+  "num_followers": 19283,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arW5gAAAAAATnRY5CWFzOd9v/JmJc0So",
+  "snapshot_id": "arcLAAAAAAChC16kpPfkBcQhxHoA6aYH",
   "tracks": [
     {
       "added_at": null,
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+        "name": "Glory II (with Fridayy)",
+        "url": "https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
-      "duration_ms": 153560,
-      "name": "Bebe",
-      "url": "https://open.spotify.com/track/1agUOP9cocY7h4gY9t1tYh"
+      "duration_ms": 175690,
+      "name": "Glory II (with Fridayy)",
+      "url": "https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg"
     },
     {
       "added_at": null,
@@ -851,22 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory II (with Fridayy)",
-        "url": "https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f"
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         },
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 175690,
-      "name": "Glory II (with Fridayy)",
-      "url": "https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg"
+      "duration_ms": 153560,
+      "name": "Bebe",
+      "url": "https://open.spotify.com/track/1agUOP9cocY7h4gY9t1tYh"
     },
     {
       "added_at": null,

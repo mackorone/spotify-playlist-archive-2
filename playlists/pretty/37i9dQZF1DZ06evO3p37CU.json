@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22512,
+  "num_followers": 22511,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arW5gAAAAAAQkOrCS7Tef8upzu36TNz2",
+  "snapshot_id": "arcLAAAAAAAu29fn8osR5GQLxR43urIY",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SuperGood",
+        "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 218017,
+      "name": "Super Bounce",
+      "url": "https://open.spotify.com/track/0bdNktKwMzf6d4V5BNK1KN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 190663,
       "name": "Sk8 (with Ciara & EARTHGANG)",
       "url": "https://open.spotify.com/track/0gTzUSGlZvhrSz72OnBijn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SuperGood",
-        "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 218017,
-      "name": "Super Bounce",
-      "url": "https://open.spotify.com/track/0bdNktKwMzf6d4V5BNK1KN"
     },
     {
       "added_at": null,
@@ -660,29 +660,25 @@
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
         },
         {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
           "name": "JID",
           "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        },
+        {
           "name": "Jurdan Bryant",
           "url": "https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        },
-        {
-          "name": "Hollywood JB",
-          "url": "https://open.spotify.com/artist/7rQhG9iwQZilVSDCivPQO4"
         }
       ],
-      "duration_ms": 333328,
-      "name": "End Of Daze (with EARTHGANG & JID feat. Jurdan Bryant, Mereba & Hollywood JB)",
-      "url": "https://open.spotify.com/track/7KwGV5HUzjLIk1yFCYAfMn"
+      "duration_ms": 260086,
+      "name": "Shiva (with JID & EARTHGANG feat. Benji. & Jurdan Bryant)",
+      "url": "https://open.spotify.com/track/6NszDAUWi40uiQhXRT9p09"
     },
     {
       "added_at": null,
@@ -764,25 +760,29 @@
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
         },
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
-          "name": "Benji.",
-          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
           "name": "Jurdan Bryant",
           "url": "https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        },
+        {
+          "name": "Hollywood JB",
+          "url": "https://open.spotify.com/artist/7rQhG9iwQZilVSDCivPQO4"
         }
       ],
-      "duration_ms": 260086,
-      "name": "Shiva (with JID & EARTHGANG feat. Benji. & Jurdan Bryant)",
-      "url": "https://open.spotify.com/track/6NszDAUWi40uiQhXRT9p09"
+      "duration_ms": 333328,
+      "name": "End Of Daze (with EARTHGANG & JID feat. Jurdan Bryant, Mereba & Hollywood JB)",
+      "url": "https://open.spotify.com/track/7KwGV5HUzjLIk1yFCYAfMn"
     },
     {
       "added_at": null,
@@ -1015,6 +1015,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cool Me Down",
+        "url": "https://open.spotify.com/album/1vi41sN0MrOxjlvafOhTM9"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 195630,
+      "name": "Cool Me Down",
+      "url": "https://open.spotify.com/track/2mEcBJge7HFc9kb62LtQ0v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
       },
@@ -1079,30 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "never worry - deluxe",
-        "url": "https://open.spotify.com/album/0SYj4nRcHvdBasdvpNIfUF"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 222624,
-      "name": "Sometimes\u2026 (with Daya & Earthgang)",
-      "url": "https://open.spotify.com/track/0lwucugEyuHhPxR3blKKJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge Of The Dreamers III: Director's Cut",
         "url": "https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V"
       },
@@ -1127,6 +1123,30 @@
       "duration_ms": 199706,
       "name": "Up Up Away (with JID & EARTHGANG feat. Vince Staples)",
       "url": "https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "never worry - deluxe",
+        "url": "https://open.spotify.com/album/0SYj4nRcHvdBasdvpNIfUF"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 222624,
+      "name": "Sometimes\u2026 (with Daya & Earthgang)",
+      "url": "https://open.spotify.com/track/0lwucugEyuHhPxR3blKKJE"
     },
     {
       "added_at": null,
@@ -1163,34 +1183,6 @@
       "duration_ms": 277493,
       "name": "This Side",
       "url": "https://open.spotify.com/track/6H1ysWbUhCfAPukSBItJUt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anger Management",
-        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "Big Titties (feat. Baauer and EarthGang)",
-      "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
     }
   ],
   "unique_name": "This Is EARTHGANG",

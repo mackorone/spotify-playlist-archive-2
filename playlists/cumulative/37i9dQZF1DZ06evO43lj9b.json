@@ -918,10 +918,36 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 286533,
       "name": "Liquid Love",
       "url": "https://open.spotify.com/track/1uOgZkPPwGgya04nRoM1wy"
+    },
+    {
+      "album": {
+        "name": "Liquid Love (Delfonic Rework)",
+        "url": "https://open.spotify.com/album/0TDvNzFq8pHapbGcJZwqyU"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Delfonic",
+          "url": "https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP"
+        },
+        {
+          "name": "Sylvia Cox",
+          "url": "https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Liquid Love - Delfonic Rework",
+      "url": "https://open.spotify.com/track/7q6FKvakDwKTzHaVU4IXi3"
     },
     {
       "album": {

@@ -4435,6 +4435,24 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/4Zieo2ylQAwyEQv9jNp5hf"
+      },
+      "artists": [
+        {
+          "name": "Teku Syndrom",
+          "url": "https://open.spotify.com/artist/12eOrtKAt4e2lbggJqrNZB"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262276,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7mYCsCoJSehy39yICnduge"
+    },
+    {
+      "album": {
         "name": "Rooftops",
         "url": "https://open.spotify.com/album/2300qonTPP24PHDOv62WqB"
       },

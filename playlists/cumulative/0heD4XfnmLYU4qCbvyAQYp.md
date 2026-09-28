@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-189 songs - 12 hr 15 min
+190 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Spin and Spin](https://open.spotify.com/track/0ykwRt8OyYIzTrrswtqVWU) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Spin and Spin](https://open.spotify.com/album/5TrKsIVlvlhkgKSse77SGn) | 2:47 | 2026-09-10 |  |
 | [starbound](https://open.spotify.com/track/2lrsKVxuYrmodpdmNhnsOd) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [starbound](https://open.spotify.com/album/08OpQIuyaFZftKaf9r1FuK) | 3:04 | 2025-11-04 | 2025-12-08 |
 | [Still Here](https://open.spotify.com/track/5bAdS7FIyNwWxitOWY6XTu) | [Long Before Sunday](https://open.spotify.com/artist/0KZx907RBfXzptJlIyFrGi) | [Still Here](https://open.spotify.com/album/0JBrgQlWV3rHV3zkWD9uga) | 4:24 | 2026-08-06 |  |
+| [Stop Counting The Days](https://open.spotify.com/track/3QO0iyVTjYWojljMMhuaEV) | [Gengvej](https://open.spotify.com/artist/5orPYxWUhMUSVZoXTXBqoW), [Flavio Concini](https://open.spotify.com/artist/3jLHL53ah3fwCCpSG7ptFw), [Gautam Tamang](https://open.spotify.com/artist/3BQYDslFM9mnFXMvYopxxk) | [Stop Counting The Days](https://open.spotify.com/album/2Xdj3YtsLdS9tc9E2bA3ux) | 4:08 | 2026-09-27 |  |
 | [Storm](https://open.spotify.com/track/4zco59LEN14IqrtaKHVIQq) | [Under The Pendulum](https://open.spotify.com/artist/2lQOBQMkqxOvrVdphflRKP) | [Storm](https://open.spotify.com/album/3VpAsksWzfNm6r7cHL8w6t) | 3:52 | 2025-12-11 | 2026-02-07 |
 | [Super Eroe](https://open.spotify.com/track/0fttEm7huFVdnnsuTJIah7) | [L'orca](https://open.spotify.com/artist/3Otlm558Nxk1NbixN4qgmp) | [Super Eroe / La Stazione Più Vicina](https://open.spotify.com/album/1dYn12PDPIJDnsb1ADPnlc) | 3:46 | 2025-05-04 | 2026-05-16 |
 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 | 2025-11-24 | 2026-02-07 |

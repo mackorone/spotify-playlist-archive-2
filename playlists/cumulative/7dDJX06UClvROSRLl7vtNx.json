@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Anchor",
+        "url": "https://open.spotify.com/album/7bSEAJRupjcCxcyBGyBnyG"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9o",
+          "url": "https://open.spotify.com/artist/5Pv2JCct27DJTWvUJnbHIY"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164086,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/4kbarftzx2pZm0zQi4jqW2"
+    },
+    {
+      "album": {
         "name": "Angel Face Disaster",
         "url": "https://open.spotify.com/album/3jonmw2qK26V8cButEMhUe"
       },

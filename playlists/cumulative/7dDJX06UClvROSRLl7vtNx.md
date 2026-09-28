@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,496 songs - 2 day 16 hr 23 min
+1,497 songs - 2 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Am I Wrong \(feat\. ØJM\)](https://open.spotify.com/track/2k4ZnVMn89EmlHYKY6K3Jk) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER), [ØJM](https://open.spotify.com/artist/17HfisxoHc4oPg4fVizsQo) | [Am I Wrong \(feat\. ØJM\)](https://open.spotify.com/album/7zt7kMU3b6Ue3lyyGWqOoa) | 3:09 | 2024-05-14 | 2024-07-29 |
 | [Am I Wrong For This](https://open.spotify.com/track/7wQllV8Y8QlCo8fj9N3lFM) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [Am I Wrong For This](https://open.spotify.com/album/1eSVsKnlEtggIZuNXE0qU6) | 2:07 | 2025-04-24 | 2026-07-06 |
 | [American Girls](https://open.spotify.com/track/4y1qev4GVoplYv7ArLPJVc) | [Léne](https://open.spotify.com/artist/5DNOrvevLUcm1S9hIS4L6h), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [American Girls](https://open.spotify.com/album/1YhtXfILnx5ctbtA9xoWIH) | 2:31 | 2026-05-03 |  |
+| [Anchor](https://open.spotify.com/track/4kbarftzx2pZm0zQi4jqW2) | [Maréo](https://open.spotify.com/artist/5Pv2JCct27DJTWvUJnbHIY) | [Anchor](https://open.spotify.com/album/7bSEAJRupjcCxcyBGyBnyG) | 2:44 | 2026-09-27 |  |
 | [Angel Face Disaster](https://open.spotify.com/track/4o3KCsVVSDOmyp0tTYyw8S) | [Besso](https://open.spotify.com/artist/3aCuS8b1HzTgrJGTzddyOJ), [Charlie Besso](https://open.spotify.com/artist/0ZD6XaZ97qhpiN4t0xdnJ6), [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ) | [Angel Face Disaster](https://open.spotify.com/album/3jonmw2qK26V8cButEMhUe) | 2:44 | 2024-08-02 | 2025-02-15 |
 | [Another Dawn](https://open.spotify.com/track/1dZCHJ0AoiMXqeftKI1J6u) | [Baked Moon](https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K) | [Another Dawn](https://open.spotify.com/album/44uROEG8TUpQEwDX5CTpNE) | 2:28 | 2026-05-08 | 2026-07-04 |
 | [Another Day](https://open.spotify.com/track/72YjbcJ9gjTsUmOEOtVUrY) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [Maréva](https://open.spotify.com/artist/5yflQy84fSowPAeRfTseCV), [Luke James Shaffer](https://open.spotify.com/artist/5rhcXbjwP1pnyqjlNo4AoP), [Garnic](https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi) | [Another Day](https://open.spotify.com/album/3w9e5o5f2WqSwQ7pEyIVEY) | 2:25 | 2026-07-20 |  |

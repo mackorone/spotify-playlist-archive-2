@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 55636,
+  "num_followers": 55648,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arW5gAAAAAAWQyhXKwG+C4+r1qp09/k8",
+  "snapshot_id": "arcLAAAAAADbZADjK8YtyrzK/D9GaixD",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 260533,
-      "name": "Paths That Cross",
-      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
+      "duration_ms": 327026,
+      "name": "The Jackson Song",
+      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 327026,
-      "name": "The Jackson Song",
-      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
+      "duration_ms": 260533,
+      "name": "Paths That Cross",
+      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Pumping",
-      "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey Joe / Piss Factory",
         "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 281026,
       "name": "Piss Factory",
       "url": "https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Pumping",
+      "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Distant Fingers",
-      "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twelve",
         "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 377240,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Distant Fingers",
+      "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
     },
     {
       "added_at": null,
@@ -619,34 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+        "name": "The Things You Leave Behind",
+        "url": "https://open.spotify.com/album/76r48qbKagwsOdO8ACngdJ"
       },
       "artists": [
+        {
+          "name": "Lenny Kaye",
+          "url": "https://open.spotify.com/artist/0eoGWjtUjl9EaMWs1ZFqs5"
+        },
         {
           "name": "Patti Smith",
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 312440,
-      "name": "Citizen Ship",
-      "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 426466,
-      "name": "Poppies",
-      "url": "https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE"
+      "duration_ms": 293934,
+      "name": "Solstice",
+      "url": "https://open.spotify.com/track/6peDfqvBzV9gGLvD8wx5ha"
     },
     {
       "added_at": null,
@@ -667,22 +655,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Things You Leave Behind",
-        "url": "https://open.spotify.com/album/76r48qbKagwsOdO8ACngdJ"
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
       "artists": [
-        {
-          "name": "Lenny Kaye",
-          "url": "https://open.spotify.com/artist/0eoGWjtUjl9EaMWs1ZFqs5"
-        },
         {
           "name": "Patti Smith",
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 293934,
-      "name": "Solstice",
-      "url": "https://open.spotify.com/track/6peDfqvBzV9gGLvD8wx5ha"
+      "duration_ms": 426466,
+      "name": "Poppies",
+      "url": "https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 312440,
+      "name": "Citizen Ship",
+      "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
     },
     {
       "added_at": null,

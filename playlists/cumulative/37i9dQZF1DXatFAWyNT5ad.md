@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-950 songs - 2 day 1 hr 1 min
+951 songs - 2 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [18](https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [18](https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj) | 2:30 | 2022-03-17 | 2022-07-29 |
 | [18](https://open.spotify.com/track/1No2CqopteR18XVL4RJHNO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 2:30 | 2022-08-05 | 2023-04-09 |
 | [2 of us](https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [2 of us](https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI) | 2:46 | 2024-01-17 | 2024-06-22 |
-| [2005](https://open.spotify.com/track/7mnMlSkESYY17WgYCVQbSe) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [2005](https://open.spotify.com/album/7u6NukkheeJmPb6d8O0QVz) | 3:52 | 2026-01-16 |  |
+| [2005](https://open.spotify.com/track/7mnMlSkESYY17WgYCVQbSe) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [2005](https://open.spotify.com/album/7u6NukkheeJmPb6d8O0QVz) | 3:52 | 2026-01-16 | 2026-09-28 |
 | [2016 CAVALIERS \(Ohio\) \(feat\. Knox\)](https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [2016 CAVALIERS \(Ohio\) \(feat\. Knox\)](https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno) | 3:34 | 2024-06-21 |  |
 | [2022](https://open.spotify.com/track/2bsMTraNEMpu6Z25bjWz2q) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [2022](https://open.spotify.com/album/02mqlcxY1kqOBOtvtPBzXF) | 2:54 | 2025-09-26 |  |
 | [21st Century Vampire](https://open.spotify.com/track/7KDqNm3Vo6isNP1rfiEVZx) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [21st Century Vampire](https://open.spotify.com/album/0u19GSyQ4QeGJu9o0V0s0i) | 2:47 | 2022-03-17 | 2022-05-31 |
@@ -236,6 +236,7 @@
 | [Dissonance](https://open.spotify.com/track/5WFkQAuARYEAslWRkSxdke) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [Dissonance](https://open.spotify.com/album/60mupNd4ac6TbYwq7UFj7x) | 2:11 | 2024-08-23 | 2024-08-29 |
 | [DO YOU LIKE ME?](https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DO YOU LIKE ME?](https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS) | 2:57 | 2024-04-19 | 2024-06-22 |
 | [Do You Really Wanna Know?](https://open.spotify.com/track/43oSsb5boERcpfiuDJR3Kq) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Do You Really Wanna Know?](https://open.spotify.com/album/1gSZbzpl3w3wp2Lc4sl3l8) | 2:58 | 2022-03-24 | 2022-07-29 |
+| [Don't Bother](https://open.spotify.com/track/7mazBIRlTjBgFSWO5kXXJT) | [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [The Bliss Of Ignorance](https://open.spotify.com/album/074bckj5sD8VA1tFqIsMej) | 3:16 | 2026-09-25 |  |
 | [Don't Call Me](https://open.spotify.com/track/6TmdQKyH6D50cTnXVnfLFn) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Don't Call Me](https://open.spotify.com/album/27RLYalOrcL90bq5Y13mZ1) | 2:48 | 2024-03-08 | 2024-08-24 |
 | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW) | 1:56 | 2022-06-30 | 2022-08-06 |
 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 2:36 | 2022-08-01 | 2023-03-25 |

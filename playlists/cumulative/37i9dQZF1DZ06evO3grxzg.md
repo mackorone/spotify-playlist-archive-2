@@ -4,7 +4,7 @@
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-145 songs - 7 hr 42 min
+146 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Kind Of Magic \(Coke Studio Mix for the FIFA World Cup 2022™\)](https://open.spotify.com/track/07CDjBvpGNoTosJS7zcvnq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [A Kind Of Magic \(Coke Studio Mix for the FIFA World Cup 2022™\)](https://open.spotify.com/album/2KtBif02TzJqevLk0ApO4J) | 2:20 | 2026-04-09 | 2026-05-17 |
 | [A Un Beso](https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Un Beso](https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk) | 3:37 | 2023-03-19 | 2026-04-09 |
 | [Agüita](https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola \(Edición Deluxe\)](https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd) | 3:39 | 2023-03-19 | 2026-04-09 |
+| [Agüita](https://open.spotify.com/track/2b64fUwHcq8lkV7SPy6wRQ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Poperos Latinos Vol\. 5](https://open.spotify.com/album/2jmxMXc7iCLfb4RPlAJTx8) | 3:39 | 2026-09-28 |  |
 | [Agüita](https://open.spotify.com/track/3wbFJYQ6H3H3QRvisWQDKW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pasitos Poperos Vol\. 3](https://open.spotify.com/album/3op100AmQIaxv3Ga4RXJdB) | 3:39 | 2026-08-03 | 2026-09-10 |
 | [AMANECER](https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:23 | 2024-04-19 | 2026-04-02 |
 | [Amor De Niños](https://open.spotify.com/track/42Nsc9ulcdrZlAYuJGoKaN) | [Lilibeth Lilibeth](https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 3:22 | 2026-04-09 |  |

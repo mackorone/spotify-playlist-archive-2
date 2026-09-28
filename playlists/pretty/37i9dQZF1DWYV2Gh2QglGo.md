@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Nate Haller
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,531 likes - 202 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,536 likes - 202 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "balang araw",
+        "url": "https://open.spotify.com/album/7vg97lavYtPS3UhWn8n9QS"
+      },
+      "artists": [
+        {
+          "name": "Diego Gutierrez",
+          "url": "https://open.spotify.com/artist/1Wu9HTZIzOS61p43891eoh"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252900,
+      "name": "balang araw",
+      "url": "https://open.spotify.com/track/3HjbuZbrNMnK8h4dBChuhq"
+    },
+    {
+      "album": {
         "name": "Balang Araw",
         "url": "https://open.spotify.com/album/4oY8fDfCIWUu66qBZfFOvf"
       },
@@ -3416,7 +3434,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 261000,
       "name": "dahon",
       "url": "https://open.spotify.com/track/6DElmrdn8ZlCuTfI3lFQ6l"
@@ -6945,6 +6963,24 @@
     },
     {
       "album": {
+        "name": "ikaw",
+        "url": "https://open.spotify.com/album/7i9liawBNYlGcRh1B1Ywsd"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1h5eRSFTxtcqvv04uKU2kz"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148141,
+      "name": "ikaw",
+      "url": "https://open.spotify.com/track/58b443Cif2xysQK1WoH2RE"
+    },
+    {
+      "album": {
         "name": "Ikaw",
         "url": "https://open.spotify.com/album/41jtxGqmlrlUqOl627HmvJ"
       },
@@ -7448,6 +7484,24 @@
       "duration_ms": 205013,
       "name": "Isang Sandali Pa",
       "url": "https://open.spotify.com/track/48SAJX6sI7Xaeb3XH3jp84"
+    },
+    {
+      "album": {
+        "name": "Isip",
+        "url": "https://open.spotify.com/album/2IcIRs9fPtAWSJKjgrMExw"
+      },
+      "artists": [
+        {
+          "name": "polaris.",
+          "url": "https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "Isip",
+      "url": "https://open.spotify.com/track/4do0DDPsoFE0TsOdtc8RHF"
     },
     {
       "album": {
@@ -8402,7 +8456,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 171145,
       "name": "KAYA",
       "url": "https://open.spotify.com/track/5FhNzod32Hwp6xrdVtAWcD"
@@ -9326,7 +9380,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 199259,
       "name": "LAWLESS",
       "url": "https://open.spotify.com/track/6DyUH0V8c8fy5hg40O16Jn"
@@ -13351,6 +13405,28 @@
     },
     {
       "album": {
+        "name": "Saan Ba Pupunta?",
+        "url": "https://open.spotify.com/album/3Zch40hPayH1X01LvDwBF7"
+      },
+      "artists": [
+        {
+          "name": "Keanna Mag",
+          "url": "https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v"
+        },
+        {
+          "name": "12th Street",
+          "url": "https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237504,
+      "name": "Palaisipan",
+      "url": "https://open.spotify.com/track/4Z7hKDpGq5bMmQ98fdwDOt"
+    },
+    {
+      "album": {
         "name": "Palaisipan",
         "url": "https://open.spotify.com/album/78krpREp3Hu6cfhbTJVNW0"
       },
@@ -14346,7 +14422,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 187124,
       "name": "Personal",
       "url": "https://open.spotify.com/track/2Y2OjCT4sQEYU2NfGU7SV3"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-470 songs - 1 day 6 hr 14 min
+471 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Lela And Mari](https://open.spotify.com/track/35G6DJGmimKwIVhr6xeCLb) | [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9) | [Travel Stories](https://open.spotify.com/album/0Kb6SRz55D3nyaXwM0ugzU) | 6:12 | 2021-07-24 | 2023-05-20 |
 | [Let It Go, Baby](https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh), [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Let It Go, Baby](https://open.spotify.com/album/4HI1lOIgwvh4dfaP2Qt4eZ) | 2:29 | 2025-09-05 |  |
 | [Let's Vibe](https://open.spotify.com/track/4tekXLedu6wxNhHkKjFkPE) | [FRENCHGRL](https://open.spotify.com/artist/06eMSN9Y5cS7EZX6nnkxpC) | [Let's Vibe](https://open.spotify.com/album/5ZIV0N6tcjZK8G0z7yQTVc) | 3:13 | 2025-05-16 |  |
-| [Letras](https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Olé Maca](https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK) | 4:39 | 2024-09-13 |  |
+| [Letras](https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Olé Maca](https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK) | 4:39 | 2024-09-13 | 2026-09-28 |
 | [Life After Love](https://open.spotify.com/track/2EpQzgxlQgzhxH8ctY5PhG) | [Ralph Felix](https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV) | [Life After Love](https://open.spotify.com/album/5DEzaA7NAYasbacnUPVR2b) | 3:16 | 2024-06-14 | 2024-06-23 |
 | [Lifetime \- Dimitri From Paris 'Cruising Attitude' Remix](https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Call On Me & Lifetime \(Remixes\)](https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18) | 3:13 | 2023-05-19 | 2024-10-04 |
 | [lift me higher](https://open.spotify.com/track/5LO1AVEdfMDBrXPPSbA13y) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:23 | 2022-06-20 | 2023-07-12 |
@@ -339,6 +339,7 @@
 | [Raining in LA](https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Into the Ether](https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d) | 3:11 | 2023-05-19 | 2025-09-27 |
 | [Reach](https://open.spotify.com/track/12QrTFFulSdSLFMKHFcrL7) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma), [Steffanie Christi'an](https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF) | [Reach](https://open.spotify.com/album/2FFp7uKW7m6fArP8kZ2lUl) | 3:26 | 2023-05-19 | 2023-08-08 |
 | [retro electrique fever](https://open.spotify.com/track/0DRZRfXOWgj2VNJNRRqNnR) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [retro electrique fever](https://open.spotify.com/album/2y6UGYRHMrQQ1IJZ4vWYbb) | 2:34 | 2023-10-13 | 2024-03-18 |
+| [Reverse Things](https://open.spotify.com/track/13iU419aX4eb5BlWdTawnQ) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Reverse Things](https://open.spotify.com/album/7q1DLTrmoVloIO0yKTnKDH) | 3:32 | 2026-09-25 |  |
 | [Ritmo 6](https://open.spotify.com/track/1vJsWeFVitz10PLxpvCTOo) | [Christian S](https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo), [Sano](https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1) | [Tannin](https://open.spotify.com/album/3zUhds2roiqMd53y36uc62) | 4:59 | 2021-07-24 | 2022-11-20 |
 | [Ritmo 6](https://open.spotify.com/track/6KGQ8HUfPdrGVmQAMLlNtI) | [Christian S](https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo), [Sano](https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1) | [Tannin](https://open.spotify.com/album/0IEN4CV0eoh0CnsFXIIC9P) | 4:59 | 2022-06-20 | 2023-05-20 |
 | [Ritmo Sabroso](https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Ritmo Sabroso](https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm) | 2:34 | 2026-03-13 |  |

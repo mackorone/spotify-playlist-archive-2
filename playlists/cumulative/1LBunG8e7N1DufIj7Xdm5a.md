@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,806 songs - 10 day 20 hr 25 min
+4,811 songs - 10 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2441,6 +2441,7 @@
 | [Lonely Road Blues \(another\)](https://open.spotify.com/track/4XMwC3JGTiSvRw2R7B2WvV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [American Pop Blues](https://open.spotify.com/album/1jO4P3dNnDAqdLsZrs1XWM) | 2:57 | 2025-09-19 |  |
 | [Lonely Streets](https://open.spotify.com/track/0FMInxSMPhiQxeX3un9lYK) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 3:03 | 2025-09-18 |  |
 | [Lonely Streets \(another\)](https://open.spotify.com/track/1ziRelYdSJDOIb6K63otGw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 3:24 | 2025-05-27 |  |
+| [Long Time Coming](https://open.spotify.com/track/1cuQQseVSOd8zS5YJAdyEK) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [Devils Country](https://open.spotify.com/album/6KxoCWxf4oqtuWpKF5RycW) | 3:03 | 2026-09-27 |  |
 | [Long Time Dead](https://open.spotify.com/track/0vWzjxded9A9cL1yuocuyR) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Death of the Party](https://open.spotify.com/album/5dBxgjLQ6wWiqyhSgChjDy) | 3:30 | 2026-04-01 |  |
 | [Looking Beyond the Surface](https://open.spotify.com/track/5LROmnDhneSItYePVZgSJG) | [Glasess](https://open.spotify.com/artist/04jFeoskw4vFWX6asrVMn4) | [Looking Beyond the Surface](https://open.spotify.com/album/4ZpWvOWEbE24mLc3nTrE4C) | 3:06 | 2025-06-04 |  |
 | [Looking for a Home](https://open.spotify.com/track/3kkgfzAg1Mgmo8VD2E1GdM) | [Raging Depths](https://open.spotify.com/artist/4Lkiay1vShJkvVFAWHQbQX) | [Looking for a Home](https://open.spotify.com/album/4u4dXS2eniKX6Djd5dAvgW) | 3:47 | 2025-12-15 |  |
@@ -3063,6 +3064,7 @@
 | [Open Road Dreams \(another\)](https://open.spotify.com/track/1vzpRiB8wdxsI2UKbs76DQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:36 | 2025-09-17 |  |
 | [Open Road Stomp](https://open.spotify.com/track/7uqljQa68Hgj6ZXRVaEpZj) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:18 | 2025-12-10 |  |
 | [Open Shore](https://open.spotify.com/track/7nbtr4wFhDYLZY5bnObCUp) | [Kelson Burke](https://open.spotify.com/artist/1IFxvE8HWi3TQaE53S8al5) | [Open Shore](https://open.spotify.com/album/7abkApIfQZGvisyEq4w3tu) | 3:38 | 2026-01-04 |  |
+| [Opętana Panna Mloda](https://open.spotify.com/track/2Go9lN6LKJN2OTro5TiNHY) | [mlodyb42](https://open.spotify.com/artist/7tHt2d0dNLk2u8LYz4aBC1) | [Opętana Panna Mloda](https://open.spotify.com/album/5smACvqf6KheDXlHCLuz1N) | 1:43 | 2026-09-27 |  |
 | [Or Nah \(Spanish Version\) \- REMIX](https://open.spotify.com/track/51Pz9VLswNq2XhhJWymxau) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP), [Charlie Bermudez](https://open.spotify.com/artist/1OhCrhy6KDdkSkRSR1wVtf) | [Or Nah \(Spanish Version\) \[REMIX\]](https://open.spotify.com/album/0CDWNyEjDajoRbzzbjVX5M) | 1:50 | 2025-12-18 |  |
 | [Or Nah \- Spanish Version](https://open.spotify.com/track/1q9jnVQEIEgTBq4OsZjVfM) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Trap del Vampiro](https://open.spotify.com/album/4JZtmell5UxBdsXHO3VjiH) | 2:05 | 2025-12-18 |  |
 | [Or Nah \- Summer Vibes](https://open.spotify.com/track/4wDqq8uoFkNTKKzFQjHaHs) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Or Nah \(Summer Vibes\)](https://open.spotify.com/album/1SG2mechgVcqZlJoPev1CG) | 2:09 | 2026-03-14 |  |
@@ -3099,6 +3101,7 @@
 | [Ovunque comunque](https://open.spotify.com/track/6YA1D0KVmBpbqVHa7K9upi) | [Alessia Brightly](https://open.spotify.com/artist/5TCSLH5N1fkEbZmXerjINv) | [Senti\-Menti](https://open.spotify.com/album/7aTSmhAZwj0e0Mh1uwWRcY) | 3:58 | 2025-06-01 |  |
 | [Owanbe](https://open.spotify.com/track/1fzcwfOQdlxOBrk1rqpXEy) | [Douglerz](https://open.spotify.com/artist/6ouwb5tJ8cunSIsFtD8aTT) | [Game On](https://open.spotify.com/album/7HSBBFukpS0PMtMV67ICGY) | 3:16 | 2025-06-04 |  |
 | [Owoma](https://open.spotify.com/track/6JeENyAOFPgUfLQgMc27pD) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Owoma](https://open.spotify.com/album/5xLczMEy1ExSiPIIMsL4Sm) | 3:11 | 2025-11-25 |  |
+| [Oxygen](https://open.spotify.com/track/14QISLgJs7nlmR8rRybQCo) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Oxygen](https://open.spotify.com/album/6s4OCKSVdEgYMB4bPzslGZ) | 3:15 | 2026-09-27 |  |
 | [O’ Core Mio](https://open.spotify.com/track/7sqCQvUz0D7Tv4L4OJTCH0) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 2:24 | 2025-09-18 |  |
 | [O’ Core Mio \(another\)](https://open.spotify.com/track/5AajqxPaUU0VxNIMlSHMFu) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 2:24 | 2025-09-18 |  |
 | [P.U.B\. Prendimi, Usami E Buttami](https://open.spotify.com/track/4Qzh8PAlFvoOTrbprJUqb9) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [P.U.B\. Prendimi, Usami E Buttami](https://open.spotify.com/album/7gITwQFrdvzqzAE3yfZ6Xu) | 4:23 | 2025-06-06 |  |
@@ -3969,6 +3972,7 @@
 | [SUMMER FOREVER](https://open.spotify.com/track/3H7ClLqEv0eACdXm9ZumHU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [SUMMER FOREVER](https://open.spotify.com/album/1CDXHCxFPeEhrVVmuaZxms) | 2:59 | 2025-12-10 |  |
 | [Summer Is Crazy Tonight](https://open.spotify.com/track/7zVzNnV3xJlyZJVwoImdgK) | [Katzen Dj](https://open.spotify.com/artist/16xe0CbKc4sQj6FMAUEWe0) | [Summer Is Crazy Tonight](https://open.spotify.com/album/0xLDcxnaCmMo6EwGg9IQpF) | 2:37 | 2025-07-30 |  |
 | [Summer of the Shark](https://open.spotify.com/track/5UcbZB06vuCDRaG4EflhBc) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [The Great Regression](https://open.spotify.com/album/7CHysqi9XojKnr2DpqfHG1) | 2:49 | 2025-11-04 |  |
+| [Sun Looker](https://open.spotify.com/track/1qhLwCKet77tmlZSJ3FUhP) | [Internal Triggers](https://open.spotify.com/artist/7jd9FYfxjOgbIC55x0OdYM) | [Sun Looker](https://open.spotify.com/album/7LM6Et5r0tOaiCZTxMrmX8) | 2:36 | 2026-09-27 |  |
 | [Sun On My Brain](https://open.spotify.com/track/6Pm6sScJg8Z2xGoaMt8hAg) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac), [Cyber Bully](https://open.spotify.com/artist/0COIH4xHDEcFfN0x0p2x7e) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 3:34 | 2025-07-01 |  |
 | [sun&moon](https://open.spotify.com/track/1gmOkIOhtOu0NYfJ2NOJiB) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 3:41 | 2026-02-01 |  |
 | [Sunburn](https://open.spotify.com/track/0SFsQqSAU2FzW7h8ZLe7qv) | [Frequency Overload](https://open.spotify.com/artist/5ENQmvhqRDwkp5IdF9U3Ia) | [Sunburn](https://open.spotify.com/album/7D3U1gc3zT2RaPWGGniSEA) | 4:47 | 2026-07-03 |  |
@@ -4106,6 +4110,7 @@
 | [The Creeps](https://open.spotify.com/track/2N2KVihh0v9I0hV28c9bIk) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [The Creeps](https://open.spotify.com/album/0kvUTplWYsofiXs6rgfD54) | 4:50 | 2025-11-05 |  |
 | [The Creeps](https://open.spotify.com/track/7HsjovFiqgeIVjlwhh3EkK) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Rhythm](https://open.spotify.com/album/4GO11BTRtDwQANUqmiGqwI) | 4:50 | 2025-11-05 |  |
 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-06-04 |  |
+| [The Days Just Slipped Away](https://open.spotify.com/track/09EjpLRKMm7UPBhlGqYT6h) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Days Just Slipped Away](https://open.spotify.com/album/3e3kXQKXXdDP39UNm0Reqd) | 3:43 | 2026-09-27 |  |
 | [The Dead Internet \(Digital Echoes\)](https://open.spotify.com/track/4SQbNwdCGrHqdbK0ybRdH7) | [The Bliss Machine](https://open.spotify.com/artist/61ah4S257JAMWo56rMHd0T) | [The Dead Internet \(Digital Echoes\)](https://open.spotify.com/album/7pSr4IE7sSSHgXHIYZmaez) | 4:35 | 2025-12-04 |  |
 | [The Devils Name](https://open.spotify.com/track/7BmfGugE0Sq3WnQ5Hyru6k) | [Spacebreaker](https://open.spotify.com/artist/6FLzjHt7B8nDAbrLuQkXKE) | [The Devils Name](https://open.spotify.com/album/2QriYaElRrETFCjoJn0f1z) | 3:29 | 2026-08-18 |  |
 | [The Divide](https://open.spotify.com/track/5WIkiKpEVdi277Pmz08Dd2) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:39 | 2026-04-13 |  |

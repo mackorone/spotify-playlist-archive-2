@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,174 songs - 4 day 21 hr 37 min
+2,175 songs - 4 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [3oud Ned](https://open.spotify.com/track/2QNi63loCz71LN8MnK38db) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [3oud Ned](https://open.spotify.com/album/7nzIgE8K3tivGiXYI18lvL) | 3:30 | 2024-10-02 | 2026-05-22 |
 | [3VN](https://open.spotify.com/track/5YLsHxD1Pb6Vvk9QYPC2ch) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 2:33 | 2022-01-29 | 2022-02-02 |
 | [3yan](https://open.spotify.com/track/7gDnXDzGXDunxMOkfsEzLS) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 2:27 | 2021-08-01 | 2021-08-14 |
-| [5 STAR](https://open.spotify.com/track/5LUMggX4PsqW6MFaQW1GW8) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:42 | 2026-05-23 |  |
+| [5 STAR](https://open.spotify.com/track/5LUMggX4PsqW6MFaQW1GW8) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:42 | 2026-05-23 | 2026-09-28 |
 | [5E ARRONDISSEMENT](https://open.spotify.com/track/4SuqeO3dyNKT9plI4hdxvJ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 | 2024-11-29 | 2025-01-25 |
 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 | 2024-08-03 | 2024-09-29 |
 | [7 Minute Drill](https://open.spotify.com/track/2mhdhTWqT8RhkTlN2yWZZi) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:32 | 2024-04-06 | 2024-04-08 |
@@ -222,7 +222,7 @@
 | [Babour](https://open.spotify.com/track/3NnehgHJ53JjEkDmy4DC65) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Al Najma](https://open.spotify.com/album/5D58RnSd0RaL896uknqjDd) | 2:41 | 2021-05-13 | 2021-09-22 |
 | [BABOUR LOU7](https://open.spotify.com/track/72h1HdEtR4XzLPvOigW8u8) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 3:39 | 2025-04-09 |  |
 | [Baby girl](https://open.spotify.com/track/5P0I7M4h0yzMaEfvrNz5Gy) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [WAKE UP, VALERIE](https://open.spotify.com/album/1FDf2AelZwZtuTq3QaLA8i) | 3:01 | 2025-12-16 | 2025-12-18 |
-| [BABY LOVA](https://open.spotify.com/track/2KKy15xRxoZXC3t7iGhlDe) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:18 | 2025-10-23 | 2025-11-04 |
+| [BABY LOVA](https://open.spotify.com/track/2KKy15xRxoZXC3t7iGhlDe) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:18 | 2025-10-23 |  |
 | [Baby You \- Outro](https://open.spotify.com/track/1QlFkFlQTEbFhRZfdphFgl) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:44 | 2022-01-29 | 2022-01-31 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-03-08 | 2026-05-06 |
 | [Babylone](https://open.spotify.com/track/4G0nwnhNay1k7zJJZ0bHSs) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:34 | 2021-05-08 | 2021-06-13 |
@@ -411,6 +411,7 @@
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-18 | 2024-05-20 |
 | [Chill](https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Chill](https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8) | 2:57 | 2021-10-31 | 2025-06-06 |
 | [CHINWI](https://open.spotify.com/track/2BfFsGilHsx0bOe8RdY3pJ) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 3:41 | 2022-06-20 | 2022-06-22 |
+| [CHIRA](https://open.spotify.com/track/1QFqTHSBS8IsTJuQx8nRG8) | [Nouvo](https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [CHIRA](https://open.spotify.com/album/2hKqdIBXCruW8LuYAXsyUS) | 2:46 | 2026-09-27 |  |
 | [Chira cheba \- Remix](https://open.spotify.com/track/4x4nIfl6lDMhMD4RKdmBB8) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs), [Dj No Disc](https://open.spotify.com/artist/7HFgmZc3xwisJd0YXM1g0z) | [Chira cheba \(Remix\)](https://open.spotify.com/album/36LhrJF7oXv3hZ78JW0iGq) | 2:02 | 2024-04-11 | 2024-04-13 |
 | [CHIRON](https://open.spotify.com/track/1UInAyocR12QyZjj4Ehx7w) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6U2c7rMdwV93aZe7T22rPP) | 2:29 | 2024-10-07 | 2025-01-05 |
 | [CHIRON](https://open.spotify.com/track/45wxMKFaDHRTLxYxXKl0rc) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8) | 2:29 | 2024-06-22 | 2024-07-20 |
@@ -728,7 +729,7 @@
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-13 | 2024-08-11 |
 | [Gata Only \(Mashup\)](https://open.spotify.com/track/5EWf240yQq0JhlkMBSPyBN) | [Dj Agus Lima](https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9) | [Mashup 2024](https://open.spotify.com/album/1zfWgLPvRz1j8PzkjiBDet) | 3:35 | 2024-05-08 | 2024-05-11 |
 | [GAUCHE DROITE \(feat\. Draganov\)](https://open.spotify.com/track/2HLpAlDB62gwO4hSaHC77q) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:13 | 2026-06-06 | 2026-07-15 |
-| [GAVIRIA GUSTAVO](https://open.spotify.com/track/7dpLX9h6LsHYwXcJEgCVgh) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [OLYMPICS](https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8) | 2:50 | 2026-09-26 |  |
+| [GAVIRIA GUSTAVO](https://open.spotify.com/track/7dpLX9h6LsHYwXcJEgCVgh) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [OLYMPICS](https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8) | 2:50 | 2026-09-26 | 2026-09-28 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-10-29 | 2022-01-26 |
 | [Gaza](https://open.spotify.com/track/4S07oYRMNExjXLFGaTJyTj) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 5:05 | 2021-09-15 | 2021-09-18 |
 | [Gaza](https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb) | [Un jour de paix](https://open.spotify.com/artist/4ClHj8bEVJatxqxBqY7SHA), [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Gaza](https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP) | 4:33 | 2023-12-10 | 2023-12-12 |

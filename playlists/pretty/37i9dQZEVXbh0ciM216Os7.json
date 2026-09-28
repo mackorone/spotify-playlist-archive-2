@@ -11,22 +11,18 @@
     {
       "added_at": "2026-09-25 04:00:00",
       "album": {
-        "name": "Rhodomagnetics (Remastered 2026)",
-        "url": "https://open.spotify.com/album/3hsZQTFEpAjOePlrEToEGU"
+        "name": "Put Your Head On My Shoulder (Goes Metal)",
+        "url": "https://open.spotify.com/album/1YXLn1Pb1CBvq29qvAtXxm"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Wilbur Harden",
-          "url": "https://open.spotify.com/artist/1zObM8Nu9u5qzUoRyXydeq"
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
         }
       ],
-      "duration_ms": 424921,
-      "name": "Rhodomagnetics - Remastered 2026",
-      "url": "https://open.spotify.com/track/31tDjlAyJmCSBOYrLHC5jX"
+      "duration_ms": 178801,
+      "name": "Put Your Head On My Shoulder (Goes Metal)",
+      "url": "https://open.spotify.com/track/7xkhlMObLKTMOswBFb39K8"
     },
     {
       "added_at": "2026-09-25 04:00:00",
@@ -47,6 +43,26 @@
     {
       "added_at": "2026-09-25 04:00:00",
       "album": {
+        "name": "Rhodomagnetics (Remastered 2026)",
+        "url": "https://open.spotify.com/album/3hsZQTFEpAjOePlrEToEGU"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Wilbur Harden",
+          "url": "https://open.spotify.com/artist/1zObM8Nu9u5qzUoRyXydeq"
+        }
+      ],
+      "duration_ms": 424921,
+      "name": "Rhodomagnetics - Remastered 2026",
+      "url": "https://open.spotify.com/track/31tDjlAyJmCSBOYrLHC5jX"
+    },
+    {
+      "added_at": "2026-09-25 04:00:00",
+      "album": {
         "name": "Loser (Fcukers Remix)",
         "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 267616,
       "name": "Loser (Fcukers Remix)",
       "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Put Your Head On My Shoulder (Goes Metal)",
-        "url": "https://open.spotify.com/album/1YXLn1Pb1CBvq29qvAtXxm"
-      },
-      "artists": [
-        {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        }
-      ],
-      "duration_ms": 178801,
-      "name": "Put Your Head On My Shoulder (Goes Metal)",
-      "url": "https://open.spotify.com/track/7xkhlMObLKTMOswBFb39K8"
     },
     {
       "added_at": "2026-09-25 04:00:00",
@@ -435,30 +435,6 @@
     {
       "added_at": "2026-09-25 04:00:00",
       "album": {
-        "name": "Breath Meditation",
-        "url": "https://open.spotify.com/album/4c9nynidRc29EB5X9zsOwD"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Adamson",
-          "url": "https://open.spotify.com/artist/4qpCwiMgToVn4hUe6hMkZF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Miles Shrewsbery",
-          "url": "https://open.spotify.com/artist/2qPbxtEvbkxW4BuSCLppye"
-        }
-      ],
-      "duration_ms": 803994,
-      "name": "Breath Meditation",
-      "url": "https://open.spotify.com/track/6bYTPxDT8DT9zVfccG0B2d"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
         "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
         "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 160360,
       "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
       "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
+    },
+    {
+      "added_at": "2026-09-25 04:00:00",
+      "album": {
+        "name": "Breath Meditation",
+        "url": "https://open.spotify.com/album/4c9nynidRc29EB5X9zsOwD"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Adamson",
+          "url": "https://open.spotify.com/artist/4qpCwiMgToVn4hUe6hMkZF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Miles Shrewsbery",
+          "url": "https://open.spotify.com/artist/2qPbxtEvbkxW4BuSCLppye"
+        }
+      ],
+      "duration_ms": 803994,
+      "name": "Breath Meditation",
+      "url": "https://open.spotify.com/track/6bYTPxDT8DT9zVfccG0B2d"
     },
     {
       "added_at": "2026-09-25 04:00:00",

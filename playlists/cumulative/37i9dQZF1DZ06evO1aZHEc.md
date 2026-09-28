@@ -4,7 +4,7 @@
 
 > This is claire rousay\. The essential tracks, all in one playlist.
 
-103 songs - 7 hr 11 min
+104 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [please 5 more minutes \(feat\. Lala Lala\)](https://open.spotify.com/track/268XYupMBlKQBHb3m4BIRS) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [sentiment](https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu) | 4:50 | 2026-03-04 |  |
 | [preston ave](https://open.spotify.com/track/1LNslfIGvQhnJsgkEhkWx7) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv) | 1:36 | 2026-04-13 | 2026-05-02 |
 | [preston ave](https://open.spotify.com/track/1O5njSbFQgwnsPpKqJ8UoL) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/3KJv1qok546bBsej16WkR4) | 1:36 | 2026-06-02 | 2026-09-16 |
-| [Sad Gondola](https://open.spotify.com/track/7iqfr6tzyzTl1KKrrAk5MQ) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [Bloodz Boi](https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg) | [a crying poem](https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ) | 1:58 | 2026-03-05 |  |
+| [Sad Gondola](https://open.spotify.com/track/7iqfr6tzyzTl1KKrrAk5MQ) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [Bloodz Boi](https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg) | [a crying poem](https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ) | 1:58 | 2026-03-05 | 2026-09-28 |
 | [Sculpting the Exodus \- Claire Rousay Remix](https://open.spotify.com/track/6aNoqGMM4nrrlbp2n6ueQ7) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sculpting the Exodus \(Claire Rousay Remix\)](https://open.spotify.com/album/4Iqlv1ReqeaOSRf6XVKmCf) | 3:32 | 2026-06-26 | 2026-06-28 |
 | [Sigh In My Ear](https://open.spotify.com/track/1QpCbUoRX9cbc5JEzN1u62) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV) | 5:22 | 2026-03-04 | 2026-03-13 |
 | [Sigh In My Ear](https://open.spotify.com/track/7lvtC5scO2e6fjk8vakUVq) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/0RoDxdxaHbp73JB56oSBzf) | 5:22 | 2026-06-25 | 2026-08-17 |
@@ -111,5 +111,6 @@
 | [x](https://open.spotify.com/track/0Ua9LPrNVtitDgMQY9gLap) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 3:14 | 2026-04-24 | 2026-09-26 |
 | [xi](https://open.spotify.com/track/4FnhjO3q1jAftUTfxLYXZ5) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 1:36 | 2026-03-18 | 2026-09-10 |
 | [Your First Armadillo](https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV) | 4:24 | 2026-03-04 |  |
+| [zoom](https://open.spotify.com/track/3sKH5XzerZSuJZDc7eGXhR) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Martyna Basta](https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw) | [hotel room](https://open.spotify.com/album/0sWafy0sLQyK8qgXHjXxdx) | 11:54 | 2026-09-28 |  |
 
 \*This playlist was first scraped on 2026-03-04. Prior content cannot be recovered.

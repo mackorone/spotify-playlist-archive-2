@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 41313,
+  "num_followers": 41315,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arW5gAAAAAACzBa3eRJW6FDHC4gcfUnH",
+  "snapshot_id": "arcLAAAAAABcmCmtZUImAwWlt4gzuoDZ",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5f53\u4e8b\u8005",
-        "url": "https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "\u5f53\u4e8b\u8005",
-      "url": "https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANG!!!",
         "url": "https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 196306,
       "name": "BANG!!!",
       "url": "https://open.spotify.com/track/4o1s691Qn6lUmFh1Bl28NG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u5f53\u4e8b\u8005",
+        "url": "https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "\u5f53\u4e8b\u8005",
+      "url": "https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC"
     },
     {
       "added_at": null,
@@ -340,25 +340,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 291440,
-      "name": "\u3053\u306e\u4e16\u754c\u3067\u898b\u3064\u3051\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/0J5zXEFekERapufcXNp5FJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Everlasting Guilty Crown",
-        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "\u30ad\u30df\u30bd\u30e9\u30ad\u30bb\u30ad",
-      "url": "https://open.spotify.com/track/1nlcUnsBQP4HB07IYt0Hxn"
+      "duration_ms": 271586,
+      "name": "LoveStruck",
+      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 211320,
       "name": "Tonight Tonight",
       "url": "https://open.spotify.com/track/0u6qh4GP6vNsUtj35KeG17"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "\u30ad\u30df\u30bd\u30e9\u30ad\u30bb\u30ad",
+      "url": "https://open.spotify.com/track/1nlcUnsBQP4HB07IYt0Hxn"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 271586,
-      "name": "LoveStruck",
-      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
+      "duration_ms": 291440,
+      "name": "\u3053\u306e\u4e16\u754c\u3067\u898b\u3064\u3051\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/0J5zXEFekERapufcXNp5FJ"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 175333,
-      "name": "\u60f3\u3044\u3092\u5de1\u3089\u3059100\u306e\u4e8b\u8c61",
-      "url": "https://open.spotify.com/track/13M5fPkKHmEtI92zR8VKm3"
+      "duration_ms": 243506,
+      "name": "Lovely Icecream Princess Sweetie",
+      "url": "https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 243506,
-      "name": "Lovely Icecream Princess Sweetie",
-      "url": "https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P"
+      "duration_ms": 175333,
+      "name": "\u60f3\u3044\u3092\u5de1\u3089\u3059100\u306e\u4e8b\u8c61",
+      "url": "https://open.spotify.com/track/13M5fPkKHmEtI92zR8VKm3"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ea\u30ed\u30fc\u30c7\u30c3\u30c9",
-        "url": "https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 334786,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/53MmtPvpScpwrk1Dr87yOG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fallen-TV edit-",
         "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 89990,
       "name": "Fallen-TV edit-",
       "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30ea\u30ed\u30fc\u30c7\u30c3\u30c9",
+        "url": "https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 334786,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/53MmtPvpScpwrk1Dr87yOG"
     },
     {
       "added_at": null,

@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/5kviiiQHcdaCXnahu2a3nc"
+      },
+      "artists": [
+        {
+          "name": "Mjay",
+          "url": "https://open.spotify.com/artist/4LyW2oFLhrNAMsNo7QzHE1"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150612,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6aW2HT07ejN6YFdKGyFONi"
+    },
+    {
+      "album": {
         "name": "Change Your Mind (feat. Shaboozey)",
         "url": "https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M"
       },
@@ -6694,7 +6712,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 247073,
       "name": "HELSINKI ON PILALLA",
       "url": "https://open.spotify.com/track/5OCMIcfLYcapoR0tdzu9dD"
@@ -20604,7 +20622,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 149143,
       "name": "Takas",
       "url": "https://open.spotify.com/track/1hIEcmeuHYzPeCOjtxSQ0T"
@@ -24358,6 +24376,28 @@
       "duration_ms": 163000,
       "name": "WOMAN\u2019S WORLD",
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
+    },
+    {
+      "album": {
+        "name": "Yhteiset askeleet",
+        "url": "https://open.spotify.com/album/2b3r4ipLoU1rk0g6Z36aAS"
+      },
+      "artists": [
+        {
+          "name": "Kielletty Ruusu",
+          "url": "https://open.spotify.com/artist/2sHFjyMe0EOZvnREwcgGSr"
+        },
+        {
+          "name": "Bahamo",
+          "url": "https://open.spotify.com/artist/2waFsMVhlxp6dyCD4YIEps"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188186,
+      "name": "Yhteiset askeleet (feat. Bahamo)",
+      "url": "https://open.spotify.com/track/6Tl8Ke5x96Mep4w2I2PMXA"
     },
     {
       "album": {

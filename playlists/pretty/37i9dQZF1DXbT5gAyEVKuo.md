@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,134 likes - 75 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,177 likes - 75 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 74 | [What A Miracle Feels Like \(with Naomi Raine\)](https://open.spotify.com/track/3LWT76qGbYLor4PXR1einh) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [What A Miracle Feels Like \(with Naomi Raine\)](https://open.spotify.com/album/0mtOHzZnHn2w1DY9Bgl91L) | 9:54 |
 | 75 | [My Daddy Loves Me](https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf) | [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [My Daddy Loves Me](https://open.spotify.com/album/3TIJApif55y5aPz885WiaL) | 5:36 |
 
-Snapshot ID: `AAAAAEAidx9dgiei02NedEyJcna425ot`
+Snapshot ID: `AAAAAIGW++EOqjjf8aCyeYiUYIEOSmgW`

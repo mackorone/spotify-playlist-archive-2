@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,928 songs - 6 day 10 hr 27 min
+2,931 songs - 6 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1342,6 +1342,7 @@
 | [Keep This Heart Beating](https://open.spotify.com/track/3Euwh8xT4GTpQxK5bgRzL4) | [Scott Baker Graham](https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA) | [Keep This Heart Beating](https://open.spotify.com/album/712SM8HuwdM2QkwQ4Y8j8t) | 3:17 | 2025-11-24 | 2025-12-28 |
 | [Keeping Me Awake](https://open.spotify.com/track/5MHF5uAHtNX3z7cuAjtyWC) | [K\*ahna](https://open.spotify.com/artist/1dshjRxQ8ml5FhI0YraJeG) | [Keeping Me Awake](https://open.spotify.com/album/7ldluNmPePg6bE2biDySXi) | 2:24 | 2026-02-10 | 2026-03-14 |
 | [Kelvin](https://open.spotify.com/track/4TthdHoUjGVAHNVjdHHxau) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 2 \- The Light](https://open.spotify.com/album/7GBhGMtGrYUjjb25FQGJaO) | 3:37 | 2026-01-14 | 2026-01-24 |
+| [Kerosene and Quiet](https://open.spotify.com/track/2I0QT2r36Rtvc26hkhgrCC) | [Jonathan Spears](https://open.spotify.com/artist/4KbEVKNVboYHNcVmQWu76O) | [Kerosene and Quiet](https://open.spotify.com/album/0buszoDx9WDO5QOoFvzW4E) | 3:22 | 2026-09-27 |  |
 | [Khwaab \- A Night and an Unfinished Melody](https://open.spotify.com/track/0jFSvjCDmIdhjWHHTi82LP) | [Suchetana Sinha](https://open.spotify.com/artist/4ZJMwITPhUFmoAejtf95cC) | [Khwaab \- A Night and an Unfinished Melody](https://open.spotify.com/album/7GFwGjR9uxshu6nFsyMHcq) | 3:08 | 2026-09-15 |  |
 | [Kick the Brakes off \(Now We're Rollin'\)](https://open.spotify.com/track/5xLzOesLZtjVCRxl2idsAG) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Parts Per Million](https://open.spotify.com/album/47REl1ObbB95GBWz5CoQOk) | 4:59 | 2025-12-30 | 2026-02-03 |
 | [kill the noise](https://open.spotify.com/track/5GoZNztZbT5mr0wwhauXEY) | [Diana Omar](https://open.spotify.com/artist/6xXq4ieuhOqfBAupY4wIVR) | [kill the noise](https://open.spotify.com/album/38vWXKBcvBEiwTOaADnf7Z) | 3:20 | 2026-04-05 | 2026-05-06 |
@@ -2311,6 +2312,7 @@
 | [Still Moving](https://open.spotify.com/track/0kj5Gtbify9OuTchSeiik0) | [Caldan](https://open.spotify.com/artist/00VkZCPcoSQkHolWFyMMHP) | [Still Moving](https://open.spotify.com/album/3U5w7STRbTr8qsqFoKIzQs) | 2:54 | 2026-04-02 | 2026-05-04 |
 | [Still Moving](https://open.spotify.com/track/03b7aZBGD9IeZoGWiSGqgP) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [Still Moving](https://open.spotify.com/album/5gMWAAX2R6vZfNIN40M9CN) | 2:13 | 2026-02-16 | 2026-03-20 |
 | [Stolen Dance](https://open.spotify.com/track/78foxgy6XxTHL7CImtDJBu) | [SHAHOVA](https://open.spotify.com/artist/5lTdct9W1EsZqX7qYsGsKE), [Evgeni Pavlukov](https://open.spotify.com/artist/5cBGXvnhRqRJ1Zt2VRyorZ) | [Stolen Dance](https://open.spotify.com/album/0IbQcgvbQoohSFOT8RBvoN) | 2:24 | 2026-02-10 | 2026-03-14 |
+| [stop.](https://open.spotify.com/track/5WcQwdqQqyPQt40ZsWhZYX) | [Hopeless Fanatics](https://open.spotify.com/artist/3Hn2sCYhyCAxm9DDpI1Wdq) | [stop.](https://open.spotify.com/album/2z5jxArslgu5eADxVOKHEY) | 3:18 | 2026-09-27 |  |
 | [STORM \- PROOF](https://open.spotify.com/track/72m3HabZ4IXf6qAoVNYNQC) | [Ketan Shah](https://open.spotify.com/artist/4I3NAsMT2ReFdGiioOYRhn) | [STORM \- PROOF](https://open.spotify.com/album/0B6QwdmGlIQBv2SZ8HPSR6) | 2:49 | 2026-01-16 | 2026-02-17 |
 | [Storm in my soul](https://open.spotify.com/track/1hQNPcMWG3iuolRyf9IKMG) | [Leandro Borges Pereira](https://open.spotify.com/artist/6TxfntRPqwJ2kfsFtFiAMK) | [Storm in my soul](https://open.spotify.com/album/1aXi3HKYspnC34mKsT9DxJ) | 3:52 | 2026-03-06 | 2026-04-07 |
 | [Stormbringer](https://open.spotify.com/track/6PYA6Z6fdiQiTnzApdlpgP) | [Scale Storm](https://open.spotify.com/artist/2vFSpHPDkAlcBzW4DN8WHG) | [FIGHT!](https://open.spotify.com/album/2L12zByc2GSavAGGDyzH6Q) | 3:35 | 2025-10-30 | 2025-12-01 |
@@ -2710,6 +2712,7 @@
 | [War](https://open.spotify.com/track/22eXrsDHd57j9XSyVyA6XY) | [mattioeu](https://open.spotify.com/artist/22YE4xyIXEfvJqVrrPRcl1) | [War](https://open.spotify.com/album/4hYk0oHI0D4HaMqYgKy838) | 2:43 | 2026-06-04 | 2026-07-05 |
 | [Warm](https://open.spotify.com/track/1xGfzdj6REt211FSJ8idha) | [Seelenstrom](https://open.spotify.com/artist/6ds9JqxEbTUxCzIXVxh0BW) | [Sanctum Of Secrets](https://open.spotify.com/album/1B2gk1aOVbAfyNnYSCLzyT) | 3:14 | 2026-01-10 | 2026-02-11 |
 | [Warm Breeze](https://open.spotify.com/track/6rcOxvprQvGCmoRCTKr9A2) | [Metrion](https://open.spotify.com/artist/2sccCVr8OEGHyKZYmRnX2L) | [Warm Breeze](https://open.spotify.com/album/1PdqqvyntNIN8aYrLTQ7ao) | 3:15 | 2026-04-21 | 2026-05-23 |
+| [Warm knife](https://open.spotify.com/track/48pHWeZsV104huCwzB0esa) | [Vex Feral](https://open.spotify.com/artist/18Pr9UpFLLBaZzlkEk99fZ) | [Warm knife](https://open.spotify.com/album/3onualR1S0Nkpg30Zi3O6h) | 3:08 | 2026-09-27 |  |
 | [Warmest Month](https://open.spotify.com/track/3dutiW4a8STWxBW4xWsuGb) | [lina](https://open.spotify.com/artist/6CbeNfC0kbpJlmLoZJUa3r) | [Warmest Month](https://open.spotify.com/album/6wShlPudXI1XsvsEUXIi3C) | 3:03 | 2026-01-16 | 2026-02-17 |
 | [WARNING](https://open.spotify.com/track/1XAymPdjKe5BhcRblNExsX) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [WARNING](https://open.spotify.com/album/3pwrFb9IheebnknYXKNxCI) | 3:05 | 2026-09-19 |  |
 | [was i anything 2 u?](https://open.spotify.com/track/69lNKr48NBKFhjWwry4VWT) | [Ethan Jacobs](https://open.spotify.com/artist/7rLn0S7IQ2UibUTclefgGA) | [was i anything 2 u?](https://open.spotify.com/album/6fsrDAKYooTNJrT2sI9riH) | 3:21 | 2026-04-20 | 2026-05-22 |

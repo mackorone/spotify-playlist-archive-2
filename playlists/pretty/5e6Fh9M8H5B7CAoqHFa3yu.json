@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 355,
+  "num_followers": 354,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALZLtAGRQtvcG50zh1bzxppwGT7E61",
+  "snapshot_id": "AAALaMdhuAzNc5+uE8+Jb0x/j27cZgBQ",
   "tracks": [
     {
       "added_at": "2026-09-20 13:23:29",
@@ -45135,6 +45135,54 @@
       "duration_ms": 324571,
       "name": "Rise And Fall",
       "url": "https://open.spotify.com/track/3exLIuw7dpaX8hGbmpU8Vn"
+    },
+    {
+      "added_at": "2026-09-27 17:13:12",
+      "album": {
+        "name": "Sapno Ko Pakad",
+        "url": "https://open.spotify.com/album/7uTqt9ip5ddKGJw8CARyvb"
+      },
+      "artists": [
+        {
+          "name": "Kanika Shrivastava",
+          "url": "https://open.spotify.com/artist/2fkwx7KK5ZhTGEykGSHjyA"
+        }
+      ],
+      "duration_ms": 87410,
+      "name": "Sapno Ko Pakad",
+      "url": "https://open.spotify.com/track/1vr20gV2waOP1OZMJqWvTi"
+    },
+    {
+      "added_at": "2026-09-27 23:56:12",
+      "album": {
+        "name": "Truly",
+        "url": "https://open.spotify.com/album/3WsOHZH7bCCBtChpLWk85m"
+      },
+      "artists": [
+        {
+          "name": "Saint Roswell",
+          "url": "https://open.spotify.com/artist/1d7q2JyusDHbMFzyGLKBbT"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2F9bk7Ne1UaGDR5tmqJZTR"
+    },
+    {
+      "added_at": "2026-09-28 00:48:19",
+      "album": {
+        "name": "Truly",
+        "url": "https://open.spotify.com/album/3WsOHZH7bCCBtChpLWk85m"
+      },
+      "artists": [
+        {
+          "name": "Saint Roswell",
+          "url": "https://open.spotify.com/artist/1d7q2JyusDHbMFzyGLKBbT"
+        }
+      ],
+      "duration_ms": 260500,
+      "name": "Round Trip",
+      "url": "https://open.spotify.com/track/6U0NWTfNS4pW7LvDXf65Qs"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

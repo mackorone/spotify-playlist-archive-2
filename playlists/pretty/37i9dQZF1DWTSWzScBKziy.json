@@ -1,12 +1,12 @@
 {
   "description": "Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres. Cover: Cory Asbury",
-  "num_followers": 441245,
+  "num_followers": 441290,
   "original_name": "Faith Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOjzwWj8st4n3lHIYc9JNEfgEqYR",
+  "snapshot_id": "AAAAAAED8uRv/v4kC16UJ2YWxU5kZi23",
   "tracks": [
     {
       "added_at": "2026-09-18 17:56:45",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/7ymTAiw7S9b0HZAXaZzoar"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/7JOI1mdGhWdaa8U4NGSteC"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
         "name": "Mad Big World",
         "url": "https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 169591,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/7ymTAiw7S9b0HZAXaZzoar"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/7JOI1mdGhWdaa8U4NGSteC"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -619,18 +619,26 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "All Saints",
-        "url": "https://open.spotify.com/album/7nUTDyYt6MDoPZIsvoccU7"
+        "name": "ANGEL ARMIES",
+        "url": "https://open.spotify.com/album/4Oz3HNbR1036fe7ErFLcy4"
       },
       "artists": [
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "Dell Mac",
+          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 242533,
-      "name": "All Saints",
-      "url": "https://open.spotify.com/track/4lwkoKKqoLc5hc0alm1nAI"
+      "duration_ms": 192000,
+      "name": "ANGEL ARMIES",
+      "url": "https://open.spotify.com/track/3dJZ5Mhu7gMMbwBnWNQ7p6"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -655,26 +663,18 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "ANGEL ARMIES",
-        "url": "https://open.spotify.com/album/4Oz3HNbR1036fe7ErFLcy4"
+        "name": "All Saints",
+        "url": "https://open.spotify.com/album/7nUTDyYt6MDoPZIsvoccU7"
       },
       "artists": [
         {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        },
-        {
-          "name": "Dell Mac",
-          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 192000,
-      "name": "ANGEL ARMIES",
-      "url": "https://open.spotify.com/track/3dJZ5Mhu7gMMbwBnWNQ7p6"
+      "duration_ms": 242533,
+      "name": "All Saints",
+      "url": "https://open.spotify.com/track/4lwkoKKqoLc5hc0alm1nAI"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/71g3oJneC3LzwgZy5X8kHE"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        }
+      ],
+      "duration_ms": 585000,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/1EDdsfw8FVk6Zdn35yOWmg"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
         "name": "CENTER OF ATTENTION",
         "url": "https://open.spotify.com/album/6RZw0heeA9jDU1NU839w5h"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 237715,
       "name": "King Of Heaven",
       "url": "https://open.spotify.com/track/7HDXr0iDy4w7TVnOCWxmxi"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
-        "name": "Memory",
-        "url": "https://open.spotify.com/album/71g3oJneC3LzwgZy5X8kHE"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt Stewart",
-          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
-        }
-      ],
-      "duration_ms": 585000,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/1EDdsfw8FVk6Zdn35yOWmg"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "FOOL'S GOLD",
-        "url": "https://open.spotify.com/album/5OSGsguQRvpfp9ncJzxeNv"
-      },
-      "artists": [
-        {
-          "name": "ELI GABLE",
-          "url": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
-        }
-      ],
-      "duration_ms": 181385,
-      "name": "FOOL'S GOLD",
-      "url": "https://open.spotify.com/track/1cs3FIA2eVykc7ndhbT9xA"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
         "name": "Praise Upon Praise",
         "url": "https://open.spotify.com/album/5yE1Rgtnic38wVRaHbiFnp"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 244664,
       "name": "Praise Upon Praise",
       "url": "https://open.spotify.com/track/1BmTOIvRFua9AcEAqotIN3"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
+        "name": "FOOL'S GOLD",
+        "url": "https://open.spotify.com/album/5OSGsguQRvpfp9ncJzxeNv"
+      },
+      "artists": [
+        {
+          "name": "ELI GABLE",
+          "url": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
+        }
+      ],
+      "duration_ms": 181385,
+      "name": "FOOL'S GOLD",
+      "url": "https://open.spotify.com/track/1cs3FIA2eVykc7ndhbT9xA"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -991,6 +991,26 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
+        "name": "IDOLS",
+        "url": "https://open.spotify.com/album/2kFoNHDoDerDV9W3ujKB77"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        },
+        {
+          "name": "Taylor Hill",
+          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "IDOLS",
+      "url": "https://open.spotify.com/track/3gDMt3XKRxb2ttX6epwIYa"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
         "name": "Only My God Can (feat. Destiny Barber)",
         "url": "https://open.spotify.com/album/7FgOdOqaJe4Rsjfr65QFHC"
       },
@@ -1027,22 +1047,18 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "IDOLS",
-        "url": "https://open.spotify.com/album/2kFoNHDoDerDV9W3ujKB77"
+        "name": "Wait On The Lord",
+        "url": "https://open.spotify.com/album/51LgB6q6ZthoNHPKdHbb7Y"
       },
       "artists": [
         {
-          "name": "bodie",
-          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
-        },
-        {
-          "name": "Taylor Hill",
-          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
         }
       ],
-      "duration_ms": 190266,
-      "name": "IDOLS",
-      "url": "https://open.spotify.com/track/3gDMt3XKRxb2ttX6epwIYa"
+      "duration_ms": 205285,
+      "name": "Wait On The Lord",
+      "url": "https://open.spotify.com/track/0h5jjjBxU7q8Uv6LyGXabN"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -1059,22 +1075,6 @@
       "duration_ms": 211353,
       "name": "The Real Thing",
       "url": "https://open.spotify.com/track/1NmD4evCpIlbx0vtjSgatM"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
-        "name": "Wait On The Lord",
-        "url": "https://open.spotify.com/album/51LgB6q6ZthoNHPKdHbb7Y"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 205285,
-      "name": "Wait On The Lord",
-      "url": "https://open.spotify.com/track/0h5jjjBxU7q8Uv6LyGXabN"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
+        "name": "Super Power II Pack",
+        "url": "https://open.spotify.com/album/3Aw2bB8g0D80ysihK9G68K"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "RUA YOUNG",
+          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "Super Power II",
+      "url": "https://open.spotify.com/track/06GKUmEBjcUAeM0FfbSphf"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
         "name": "Jesus, My Everything",
         "url": "https://open.spotify.com/album/0fVuXmBGht40zpNGgey3eZ"
       },
@@ -1215,26 +1235,6 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "Super Power II Pack",
-        "url": "https://open.spotify.com/album/3Aw2bB8g0D80ysihK9G68K"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "RUA YOUNG",
-          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "Super Power II",
-      "url": "https://open.spotify.com/track/06GKUmEBjcUAeM0FfbSphf"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
         "name": "Flowers For No Reason",
         "url": "https://open.spotify.com/album/7MjHEiC4Au2MTt312kPV6Q"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 244536,
       "name": "Flowers For No Reason",
       "url": "https://open.spotify.com/track/3xleEDDBrbr42qhwmrtJrH"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
-        "name": "Still Running to You",
-        "url": "https://open.spotify.com/album/2HFD80cz07re5kYrtRSSCg"
-      },
-      "artists": [
-        {
-          "name": "Natalie Layne",
-          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
-        }
-      ],
-      "duration_ms": 179433,
-      "name": "STILL RUNNING TO YOU",
-      "url": "https://open.spotify.com/track/4LnePDkoMbuSVfHRnc4Hhu"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
+        "name": "Still Running to You",
+        "url": "https://open.spotify.com/album/2HFD80cz07re5kYrtRSSCg"
+      },
+      "artists": [
+        {
+          "name": "Natalie Layne",
+          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
+        }
+      ],
+      "duration_ms": 179433,
+      "name": "STILL RUNNING TO YOU",
+      "url": "https://open.spotify.com/track/4LnePDkoMbuSVfHRnc4Hhu"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
         "name": "Full Disclosure",
         "url": "https://open.spotify.com/album/1hnbuNVVgcuDjEmxzSx8hf"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 354437,
       "name": "Victory",
       "url": "https://open.spotify.com/track/4qrtXm0fa4d6gOZInbR4k1"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
-        "name": "To Be Loved",
-        "url": "https://open.spotify.com/album/0uJ6qnelHIR2ZilKEVn9QL"
-      },
-      "artists": [
-        {
-          "name": "Madalyn Rae",
-          "url": "https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG"
-        }
-      ],
-      "duration_ms": 205682,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/4CVx0LREKIUAbcvUMDoWvy"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/0uJ6qnelHIR2ZilKEVn9QL"
+      },
+      "artists": [
+        {
+          "name": "Madalyn Rae",
+          "url": "https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG"
+        }
+      ],
+      "duration_ms": 205682,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/4CVx0LREKIUAbcvUMDoWvy"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
         "name": "What A Life",
         "url": "https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "LOOKING FOR WATER",
-        "url": "https://open.spotify.com/album/1PZMcy9WWf7iksvBarSRqY"
-      },
-      "artists": [
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 230109,
-      "name": "WE NEED NOT",
-      "url": "https://open.spotify.com/track/5se5rFE9iFcUCeZzz9ef4d"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
         "name": "ascent",
         "url": "https://open.spotify.com/album/6jyCvUl8pbOWIryoBAOSWQ"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 173734,
       "name": "ascent",
       "url": "https://open.spotify.com/track/5yLxxBV99TdWRa9tHPsu58"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
+        "name": "LOOKING FOR WATER",
+        "url": "https://open.spotify.com/album/1PZMcy9WWf7iksvBarSRqY"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 230109,
+      "name": "WE NEED NOT",
+      "url": "https://open.spotify.com/track/5se5rFE9iFcUCeZzz9ef4d"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "ROCK",
-        "url": "https://open.spotify.com/album/1WZ1Uli0R1pn7uFzw3Zxgb"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 237246,
-      "name": "ROCK",
-      "url": "https://open.spotify.com/track/4420IOuxBs06w8fVG7MwEx"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
         "name": "Let There Be Light",
         "url": "https://open.spotify.com/album/1g5jklgkDtpSnaf96eEwyG"
       },
@@ -1467,6 +1451,38 @@
       "duration_ms": 271966,
       "name": "Let There Be Light",
       "url": "https://open.spotify.com/track/097IBpFmpPAsqQIXeAFEuF"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
+        "name": "ROCK",
+        "url": "https://open.spotify.com/album/1WZ1Uli0R1pn7uFzw3Zxgb"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 237246,
+      "name": "ROCK",
+      "url": "https://open.spotify.com/track/4420IOuxBs06w8fVG7MwEx"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
+        "name": "Passing Through",
+        "url": "https://open.spotify.com/album/5H1TIRB0hFoEwp3XJpnphM"
+      },
+      "artists": [
+        {
+          "name": "Warren Peay",
+          "url": "https://open.spotify.com/artist/4CV1cMFPuOL5ZTE4AB7GNh"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "Passing Through",
+      "url": "https://open.spotify.com/track/2OJRpRXpMyEotrzmr1GyBD"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "Passing Through",
-        "url": "https://open.spotify.com/album/5H1TIRB0hFoEwp3XJpnphM"
-      },
-      "artists": [
-        {
-          "name": "Warren Peay",
-          "url": "https://open.spotify.com/artist/4CV1cMFPuOL5ZTE4AB7GNh"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "Passing Through",
-      "url": "https://open.spotify.com/track/2OJRpRXpMyEotrzmr1GyBD"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
         "name": "Still Running to You",
         "url": "https://open.spotify.com/album/71aTDrmuUeqgfjUZceXAYa"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 200200,
       "name": "YOU STAYED",
       "url": "https://open.spotify.com/track/3nyBNAL5BbKoKqzUpSjKkJ"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
+        "name": "My Hope",
+        "url": "https://open.spotify.com/album/2wxza20WnAbFHG5XsK6iik"
+      },
+      "artists": [
+        {
+          "name": "Caleb & John",
+          "url": "https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0"
+        }
+      ],
+      "duration_ms": 185676,
+      "name": "My Hope",
+      "url": "https://open.spotify.com/track/1DDu7QIrnpCq1veaLrfRHp"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "My Hope",
-        "url": "https://open.spotify.com/album/2wxza20WnAbFHG5XsK6iik"
-      },
-      "artists": [
-        {
-          "name": "Caleb & John",
-          "url": "https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0"
-        }
-      ],
-      "duration_ms": 185676,
-      "name": "My Hope",
-      "url": "https://open.spotify.com/track/1DDu7QIrnpCq1veaLrfRHp"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
         "name": "Adonai (Satisfied)",
         "url": "https://open.spotify.com/album/4GAOw7vI7I4bzLPrhQbhwf"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 305542,
       "name": "Adonai (Satisfied)",
       "url": "https://open.spotify.com/track/0JI7YvinW8vYLXxS6J3GTC"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
+        "name": "Keep Me Close (Live)",
+        "url": "https://open.spotify.com/album/7e1n8b7MTrwI5PEWmBvLm6"
+      },
+      "artists": [
+        {
+          "name": "Century Worship",
+          "url": "https://open.spotify.com/artist/5sWkuThhqRdUFwy7faCWoH"
+        }
+      ],
+      "duration_ms": 293483,
+      "name": "Keep Me Close - Live",
+      "url": "https://open.spotify.com/track/3FjWPOd2Sd6gtnUKLBn6x2"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -1611,34 +1627,22 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "Keep Me Close (Live)",
-        "url": "https://open.spotify.com/album/7e1n8b7MTrwI5PEWmBvLm6"
+        "name": "Didn't Make It Easy",
+        "url": "https://open.spotify.com/album/3D49jvNFzL3wmxrVkIV4Jm"
       },
       "artists": [
         {
-          "name": "Century Worship",
-          "url": "https://open.spotify.com/artist/5sWkuThhqRdUFwy7faCWoH"
-        }
-      ],
-      "duration_ms": 293483,
-      "name": "Keep Me Close - Live",
-      "url": "https://open.spotify.com/track/3FjWPOd2Sd6gtnUKLBn6x2"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
-        "name": "Eve Of A Miracle",
-        "url": "https://open.spotify.com/album/2mOBJ0oBQEzQCgcnNbhikU"
-      },
-      "artists": [
+          "name": "Tobi Adey",
+          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
+        },
         {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+          "name": "KamiKwazi",
+          "url": "https://open.spotify.com/artist/3zMmT9071elwPpL9obVnZw"
         }
       ],
-      "duration_ms": 218752,
-      "name": "Eve Of A Miracle",
-      "url": "https://open.spotify.com/track/3wSk86I7OBeoTJWXSZr1Na"
+      "duration_ms": 215900,
+      "name": "Didn't Make It Easy",
+      "url": "https://open.spotify.com/track/7dvewBjpeleXmtJMfaYzt7"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -1659,22 +1663,18 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "Didn't Make It Easy",
-        "url": "https://open.spotify.com/album/3D49jvNFzL3wmxrVkIV4Jm"
+        "name": "Eve Of A Miracle",
+        "url": "https://open.spotify.com/album/2mOBJ0oBQEzQCgcnNbhikU"
       },
       "artists": [
         {
-          "name": "Tobi Adey",
-          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
-        },
-        {
-          "name": "KamiKwazi",
-          "url": "https://open.spotify.com/artist/3zMmT9071elwPpL9obVnZw"
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
         }
       ],
-      "duration_ms": 215900,
-      "name": "Didn't Make It Easy",
-      "url": "https://open.spotify.com/track/7dvewBjpeleXmtJMfaYzt7"
+      "duration_ms": 218752,
+      "name": "Eve Of A Miracle",
+      "url": "https://open.spotify.com/track/3wSk86I7OBeoTJWXSZr1Na"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "Hidden",
-        "url": "https://open.spotify.com/album/3KUX6F4InRKo4cn0F9QFIO"
-      },
-      "artists": [
-        {
-          "name": "Echo Harbor Worship",
-          "url": "https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci"
-        },
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 282567,
-      "name": "Hidden",
-      "url": "https://open.spotify.com/track/6n0vpKNArOOadmGT1nSNGp"
-    },
-    {
-      "added_at": "2026-09-18 17:56:45",
-      "album": {
         "name": "Something Good Is Coming",
         "url": "https://open.spotify.com/album/0TluCM1K9nH0g8yDkKvjQt"
       },
@@ -1735,18 +1715,22 @@
     {
       "added_at": "2026-09-18 17:56:45",
       "album": {
-        "name": "Up To Something",
-        "url": "https://open.spotify.com/album/5308Yrfw5fy1nbmRIoCEcL"
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/3KUX6F4InRKo4cn0F9QFIO"
       },
       "artists": [
         {
-          "name": "Anthony Brown & group therAPy",
-          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+          "name": "Echo Harbor Worship",
+          "url": "https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
         }
       ],
-      "duration_ms": 356032,
-      "name": "Up To Something",
-      "url": "https://open.spotify.com/track/7qkXoYoh91593haiXn0vhN"
+      "duration_ms": 282567,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/6n0vpKNArOOadmGT1nSNGp"
     },
     {
       "added_at": "2026-09-18 17:56:45",
@@ -1771,6 +1755,22 @@
       "duration_ms": 266012,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/7MYcEpn9vVcHGaHxDPC7C5"
+    },
+    {
+      "added_at": "2026-09-18 17:56:45",
+      "album": {
+        "name": "Up To Something",
+        "url": "https://open.spotify.com/album/5308Yrfw5fy1nbmRIoCEcL"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        }
+      ],
+      "duration_ms": 356032,
+      "name": "Up To Something",
+      "url": "https://open.spotify.com/track/7qkXoYoh91593haiXn0vhN"
     },
     {
       "added_at": "2026-09-18 17:56:45",

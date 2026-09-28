@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Drake
 
-912 songs - 1 day 23 hr 45 min
+913 songs - 1 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Hold On](https://open.spotify.com/track/6eDqWSmyjmBupSGjSMHdbq) | [RAJAN](https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3) | [Hold On](https://open.spotify.com/album/6mRmjIxRFi6qjR1YR3SUwq) | 2:22 | 2022-04-01 | 2022-04-15 |
 | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12) | 3:41 | 2022-10-28 | 2023-08-04 |
 | [Holding On](https://open.spotify.com/track/6CN7FuZ7o1xle9TNxApGeQ) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Holding On](https://open.spotify.com/album/7CIDA4a6EIj1k88sln1tKl) | 2:06 | 2022-01-07 | 2022-07-15 |
+| [Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:23 | 2026-09-25 |  |
 | [Homicide](https://open.spotify.com/track/6U8WKPovWbpHMxJj10xTb1) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Homicide](https://open.spotify.com/album/4hQ8illEif9fbwTKrnqYT2) | 4:11 | 2022-04-01 | 2022-04-16 |
 | [Homicide \(feat\. Eminem\)](https://open.spotify.com/track/2MuMD298IpYqKF367wegUd) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Confessions of a Dangerous Mind](https://open.spotify.com/album/6GeHCNwwqMMUrpxuGTRYcf) | 4:05 | 2022-04-01 | 2022-04-19 |
 | [Hood Baby](https://open.spotify.com/track/5vQ6TwJiqQn87yObnmejML) | [Supawassi](https://open.spotify.com/artist/68ermaOk3Oq2p2k9hCNHYj), [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu) | [Hood Baby](https://open.spotify.com/album/7raBMdIm37jzDrzs3Zr3Jz) | 2:43 | 2022-04-01 | 2022-04-07 |
@@ -689,7 +690,7 @@
 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 | 2022-08-11 | 2022-09-03 |
 | [Run It Up \(feat\. Sleepy Hallow & A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/1GjWE4T7qZNeIy1hgm98R9) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Run It Up \(feat\. Sleepy Hallow & A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/1U0q68MEzbooMCtsjn4oLe) | 2:51 | 2022-01-14 | 2022-07-16 |
 | [Run My Shit](https://open.spotify.com/track/7zVVkNOKWMd46nwMUgHPmL) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Run My Shit](https://open.spotify.com/album/2oL7uPcbVkIEOV3oCIfC7K) | 2:53 | 2022-01-07 | 2022-07-26 |
-| [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 | 2026-08-14 |  |
+| [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 | 2026-08-14 | 2026-09-28 |
 | [Runnin](https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:15 | 2022-01-07 |  |
 | [SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:46 | 2022-04-01 | 2022-04-16 |
 | [SAFETY](https://open.spotify.com/track/3sJLoIc9y1b4gKAP8ZNsR9) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:18 | 2026-02-27 | 2026-08-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 138,170 likes - 235 songs - 10 hr 11 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 138,230 likes - 236 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,5 +243,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 233 | [oceanside](https://open.spotify.com/track/4OYaj9oxYWgXI4hNTaTEBb) | [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2), [Obren](https://open.spotify.com/artist/5fIoCFV71SATmK78w7MlyB) | [oceanside](https://open.spotify.com/album/4qirkYK6AfX1Fiub7GNw8t) | 3:02 |
 | 234 | [Endless Beach](https://open.spotify.com/track/0zU11XHZAcNsVNYthX9eZO) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Endless Beach](https://open.spotify.com/album/0KOyPPY7SJTmU4p7J9FEAK) | 2:37 |
 | 235 | [Who You Are](https://open.spotify.com/track/0ShEGvZwPUT9PMat6bnWuc) | [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC), [dusk:dawn](https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe) | [Who You Are](https://open.spotify.com/album/2yl5LeFFWBA1jEg4L6abhi) | 2:14 |
+| 236 | [Anchor](https://open.spotify.com/track/4kbarftzx2pZm0zQi4jqW2) | [Maréo](https://open.spotify.com/artist/5Pv2JCct27DJTWvUJnbHIY) | [Anchor](https://open.spotify.com/album/7bSEAJRupjcCxcyBGyBnyG) | 2:44 |
 
-Snapshot ID: `AABWNueptbL54/3W4Rs3FNJX//yDc20v`
+Snapshot ID: `AABWN1XQP3lfoc+LsRHeVhb5mRPmgcHd`

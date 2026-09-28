@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Noeline Hofmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,131 likes - 99 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,118 likes - 99 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 98 | [The Highway Knows](https://open.spotify.com/track/5rsXy60BWCYUublUGT6L9a) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [The Highway Knows](https://open.spotify.com/album/23EMx5160dHkUN9WdNWdZR) | 4:10 |
 | 99 | [Where You Call Home](https://open.spotify.com/track/7niP3sWsDhuiIx4nxeeMGW) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Where You Call Home](https://open.spotify.com/album/4KFSY7pXHXNemIER8APniU) | 3:42 |
 
-Snapshot ID: `AAAAAClSwiWZAApxu2ndsSp8ylAAba+l`
+Snapshot ID: `AAAAAEaPw9+HvH/zn6cg7JhIexyRTZDf`

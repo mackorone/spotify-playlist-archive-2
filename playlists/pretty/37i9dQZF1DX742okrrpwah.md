@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Tiakola, Taylor Swift, Pomme, U2, M83 et La Mano 1.9 x Gazo au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,546 likes - 105 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,519 likes - 105 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 358389,
+  "num_followers": 358424,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-08-14 03:03:27",
       "album": {
-        "name": "Pitbull",
-        "url": "https://open.spotify.com/album/6d64y1tKfi0XZMZC4EmFcE"
-      },
-      "artists": [
-        {
-          "name": "Mad Dogz",
-          "url": "https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP"
-        },
-        {
-          "name": "Lowderz",
-          "url": "https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq"
-        }
-      ],
-      "duration_ms": 162090,
-      "name": "Pitbull",
-      "url": "https://open.spotify.com/track/6CYIVGVhbxgjyyMq6XrM1s"
-    },
-    {
-      "added_at": "2026-08-14 03:03:27",
-      "album": {
         "name": "Turning Me Up (Hadal Ahbek)",
         "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
       },
@@ -739,22 +719,22 @@
     {
       "added_at": "2026-08-14 03:03:27",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
+        "name": "Pitbull",
+        "url": "https://open.spotify.com/album/6d64y1tKfi0XZMZC4EmFcE"
       },
       "artists": [
         {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+          "name": "Mad Dogz",
+          "url": "https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP"
         },
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+          "name": "Lowderz",
+          "url": "https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq"
         }
       ],
-      "duration_ms": 185806,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
+      "duration_ms": 162090,
+      "name": "Pitbull",
+      "url": "https://open.spotify.com/track/6CYIVGVhbxgjyyMq6XrM1s"
     },
     {
       "added_at": "2026-08-14 03:03:27",
@@ -775,6 +755,26 @@
       "duration_ms": 166299,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
+    },
+    {
+      "added_at": "2026-08-14 03:03:27",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
     },
     {
       "added_at": "2026-08-14 03:03:27",

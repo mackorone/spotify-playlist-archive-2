@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-534 songs - 1 day 4 hr 23 min
+535 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 | 2025-04-25 |  |
 | [Don't Stop Lovin'](https://open.spotify.com/track/62Bd3M4RpuJ6zR2KCW1LGX) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Don't Stop Lovin'](https://open.spotify.com/album/75v2SGfaNYOISwpbxsEvSN) | 2:13 | 2025-03-21 | 2025-04-05 |
 | [Don’t Forget My Love](https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don’t Forget My Love](https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8) | 3:19 | 2022-04-01 | 2025-05-31 |
-| [Don’t Go \(Don’t Leave\)](https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Don’t Go \(Don’t Leave\)](https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd) | 2:26 | 2026-04-17 |  |
+| [Don’t Go \(Don’t Leave\)](https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Don’t Go \(Don’t Leave\)](https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd) | 2:26 | 2026-04-17 | 2026-09-28 |
 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/5JBtWpLoGO62gb5vax505b) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Exotica](https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in) | 3:36 | 2022-03-25 | 2025-02-15 |
 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:36 | 2022-07-08 | 2023-01-11 |
 | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/track/55Gic5of4nSRA78CCQLwSP) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/album/7h1UqQUGd3vtpPFZyg6tIH) | 2:26 | 2025-11-21 | 2026-02-27 |
@@ -502,6 +502,7 @@
 | [Travel Guitar](https://open.spotify.com/track/25EVi5xRn0yebtQupMqvg8) | [Zia & Zio](https://open.spotify.com/artist/0B8o3cxzT2CjTjb7Gu4JEv) | [Travel Guitar](https://open.spotify.com/album/42qFmxzGmWw2JCeUBseaxc) | 2:02 | 2022-03-25 | 2022-04-20 |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-07-26 |  |
 | [Tschaka](https://open.spotify.com/track/7c5pAtAI2doDnsDD4SqMHG) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [Tschaka 'n Tscheka](https://open.spotify.com/album/3Lav6mhh8bChUl6afGf9j4) | 5:24 | 2021-10-29 | 2022-07-20 |
+| [TSUNAMI](https://open.spotify.com/track/1J6Lihuq84ZgMtxccyRG0o) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [TSUNAMI](https://open.spotify.com/album/2wBA1QqfIN3xXWMyo5xeXY) | 2:36 | 2026-09-25 |  |
 | [Tulum](https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP) | [Tulum](https://open.spotify.com/album/7DumTW0espT5WuAGKnMBLp) | 2:14 | 2021-10-29 | 2023-03-11 |
 | [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 | 2025-02-14 | 2025-05-02 |
 | [Vacation \- AttaBoy Remix](https://open.spotify.com/track/5Z1D5FxxEhGv1WvCCCmxDr) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [AttaBoy](https://open.spotify.com/artist/7dt4zOrVQH8B9nPh9hMNLI) | [Vacation \(AttaBoy Remix\)](https://open.spotify.com/album/7D63vViVZvoDMYUhZx2I4K) | 3:18 | 2022-03-25 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Jin DC
 
-624 songs - 1 day 14 hr 57 min
+625 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [MATIK](https://open.spotify.com/track/6m8zHi1isEk6pSPN7j1ogR) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [MATIK](https://open.spotify.com/album/0WKn0lixjdw46WHmvdRqcA) | 3:52 | 2026-02-11 | 2026-04-03 |
 | [MATIKAS](https://open.spotify.com/track/3rhLse4xpSYpuXuvYOrOo6) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Icetizy](https://open.spotify.com/artist/29HItbAuiAW54evQC60jOh), [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l), [Smugglaz](https://open.spotify.com/artist/2FvXtuMlYRrEkSF7kdAfFq) | [MATIKAS](https://open.spotify.com/album/2QTyml7RetBQsH6cUxnwoI) | 4:43 | 2026-08-28 |  |
 | [Maulan](https://open.spotify.com/track/3Ps0HEBA983FI2eaLtRMjW) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Maulan](https://open.spotify.com/album/4wJr8jkyzQqhgkMlhfCXTQ) | 3:59 | 2025-08-06 | 2025-09-18 |
+| [Maybe The Night \(Reimagined\)](https://open.spotify.com/track/5umey4hh3HtdIbpUBG8Ap6) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Nine](https://open.spotify.com/album/1rTn3zCq7RQkG8qqfR4d8J) | 5:03 | 2026-09-28 |  |
 | [Medyo Ako \(feat\. Moira Dela Torre\)](https://open.spotify.com/track/2iVloJhXpLh5eMat9VDMLG) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Sad Songs and Bullshit Part 2](https://open.spotify.com/album/6KnDwm1lo2DMu8PkpvnvAp) | 4:13 | 2024-06-26 | 2024-11-28 |
 | [Memory \(feat\. The Ridleys\)](https://open.spotify.com/track/3uO5ZkTrkjrIN4Qj3j0Y9j) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT), [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [Memory](https://open.spotify.com/album/00KkDGF5CMfQo6e86x58cu) | 3:21 | 2025-11-27 | 2025-12-18 |
 | [Mikasa](https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mikasa](https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq) | 4:13 | 2024-02-07 | 2024-05-02 |
@@ -574,7 +575,7 @@
 | [Tayong Dalawa](https://open.spotify.com/track/0sIoAqI7eBnWUrEDkIgsCI) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Himig at Pag\-ibig](https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU) | 3:52 | 2025-06-18 | 2025-09-18 |
 | [Tayong Dalawa](https://open.spotify.com/track/0B61Xa64eghUz2GT8pw06b) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT), [Magiliw Street](https://open.spotify.com/artist/5J8oDvMc65JFCewBYS60nA) | [Tayong Dalawa](https://open.spotify.com/album/0RLYaF1viYlO5BRFtpAWs7) | 3:23 | 2026-08-21 |  |
 | [teka lang](https://open.spotify.com/track/5zkqGMHs0EGafwqutNd7Gu) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [teka lang](https://open.spotify.com/album/2CTm35u9x6Tk5mXZHhwmvs) | 3:06 | 2026-06-02 |  |
-| [temporary](https://open.spotify.com/track/4SUWaq2vOro4BDODgLBoZd) | [Nameless Kids](https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2) | [temporary](https://open.spotify.com/album/3DZoR2ifV9Tu4yfb9oAzb1) | 3:56 | 2026-08-14 |  |
+| [temporary](https://open.spotify.com/track/4SUWaq2vOro4BDODgLBoZd) | [Nameless Kids](https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2) | [temporary](https://open.spotify.com/album/3DZoR2ifV9Tu4yfb9oAzb1) | 3:56 | 2026-08-14 | 2026-09-28 |
 | [Tensionado](https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja) | [Soapdish](https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe) | [Soapdish Reloaded](https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ) | 3:16 | 2025-09-03 | 2026-03-19 |
 | [Tequila Rose](https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Tequila Rose](https://open.spotify.com/album/02tMWeYI98izui099O7QDb) | 3:30 | 2024-03-20 | 2024-06-06 |
 | [The Helly What](https://open.spotify.com/track/1a4wNQKai7Z9zpybqmpcU8) | [Kartell'em](https://open.spotify.com/artist/4e4flHlMWdF3KOADVBTMXo), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29), [Wavyier](https://open.spotify.com/artist/5BiH3cDOIyyAQixJ0JcyNw), [Ne7in](https://open.spotify.com/artist/7xLdWx1ZNY9LnvPZo7BbS3), [Nickname](https://open.spotify.com/artist/7oPgFmJIfapueMliwOjBiH) | [The Helly What](https://open.spotify.com/album/7qCw3yKpSmKLx5C2uKIEEn) | 2:41 | 2026-04-02 | 2026-05-14 |

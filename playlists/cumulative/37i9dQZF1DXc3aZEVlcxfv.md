@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-688 songs - 1 day 22 hr 15 min
+689 songs - 1 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [K'OSENI](https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP) | [Teninlanimi](https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ) | [K'OSENI](https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq) | 3:07 | 2026-07-10 |  |
 | [Kaunar Allah](https://open.spotify.com/track/6Yu4gwqfUEIwHhK5JRIG5P) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Kaunar Allah](https://open.spotify.com/album/7cRvo8ih8ElRx3psSHbk2Y) | 3:18 | 2026-06-12 | 2026-07-12 |
 | [Kumama](https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Kumama](https://open.spotify.com/album/0rE7B3Buwz2JCQjdPZWLXw) | 3:20 | 2025-03-07 | 2025-07-25 |
-| [L.I.E \(Life Is Easy\)](https://open.spotify.com/track/2Y0d5FqwqsTLhZeM7XQguW) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glitzbeatz](https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [L.I.E \(Life Is Easy\)](https://open.spotify.com/album/0alUYDdwWaDhGh5aaTGHEM) | 2:48 | 2026-07-10 |  |
+| [L.I.E \(Life Is Easy\)](https://open.spotify.com/track/2Y0d5FqwqsTLhZeM7XQguW) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glitzbeatz](https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [L.I.E \(Life Is Easy\)](https://open.spotify.com/album/0alUYDdwWaDhGh5aaTGHEM) | 2:48 | 2026-07-10 | 2026-09-28 |
 | [Lai Lai](https://open.spotify.com/track/4J7u9sUTi63l1KOIw5o9jC) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Lai Lai](https://open.spotify.com/album/5YXPJ5JBpAxrIGx81Pmyyn) | 2:47 | 2024-09-27 | 2025-02-07 |
 | [LAS LAS](https://open.spotify.com/track/6ASx7WaH5dJKxcq0lGHEZZ) | [Richrok](https://open.spotify.com/artist/2u1nZOO16DH6500HiJYXyZ) | [LAS LAS](https://open.spotify.com/album/2av1PbpOikyD0uTzg3u1aw) | 2:21 | 2025-11-14 | 2026-03-27 |
 | [Lead Me](https://open.spotify.com/track/0JXSgSVB31nCQUCkhOZvY1) | [IFE MOJ](https://open.spotify.com/artist/3U2I43J4bODnDwtbkW7kCv) | [Lead Me](https://open.spotify.com/album/1UV4yIofIWGmNFBcNfyEAZ) | 3:45 | 2025-04-04 | 2025-05-02 |
@@ -547,6 +547,7 @@
 | [Rescue Me](https://open.spotify.com/track/7pQeK2L95IQGFHFubpv2tK) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX), [Jason Jhms](https://open.spotify.com/artist/2CdYJFoCCnW8gJUQuGfOni) | [Alignment](https://open.spotify.com/album/7ycNJJmewzS404nsJ2v2HE) | 2:44 | 2025-08-29 | 2025-10-03 |
 | [Rest](https://open.spotify.com/track/1Mct4TjRxkfHkSOzAUvVbl) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Rest](https://open.spotify.com/album/4I6jfQErCWguANlJgrimnN) | 2:16 | 2026-03-20 | 2026-05-15 |
 | [Rise Again](https://open.spotify.com/track/4QslrJv6HTxAvbVuGbGAzD) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Rise Again](https://open.spotify.com/album/4Jz256xiPaijzGdNvMS7V8) | 2:33 | 2025-07-18 | 2025-08-16 |
+| [Riverside](https://open.spotify.com/track/3mr4ss6jZzRWRgQoSRNUSf) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e) | [Riverside](https://open.spotify.com/album/51PsOEme7VfzdNxYiSwGo5) | 3:13 | 2026-09-18 |  |
 | [ROGIC](https://open.spotify.com/track/75HuzOo5GXHKPic7Gt16Ci) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ROGIC](https://open.spotify.com/album/6PiN5pM2VLtCSp3YF2yidb) | 3:30 | 2026-01-30 | 2026-02-27 |
 | [Rooted](https://open.spotify.com/track/06T6Pl96e1I83rtCFJYah9) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Rooted](https://open.spotify.com/album/7nO3M1Sty4NSZVpW4b2p1A) | 5:12 | 2025-11-28 | 2026-09-18 |
 | [Sabi](https://open.spotify.com/track/18WjxjcdeaAtr3H6kjCNj9) | [Dr Roy](https://open.spotify.com/artist/3qbsAfTm5D4X18LtG11RdL), [Maio](https://open.spotify.com/artist/0uufu8f9gj5MoDOEtHrAc4) | [Sabi](https://open.spotify.com/album/6DkXidWBQQnTjiBd33XvkU) | 2:25 | 2025-10-10 | 2026-01-15 |

@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 84773,
       "name": "6 Variations on an Original Theme in F Major, Op. 34: Var. 1 in D Major",
       "url": "https://open.spotify.com/track/4Nwf2hNuMcIm3iDt4YwbLV"
@@ -13194,7 +13194,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 50080,
       "name": "Closer To Heaven - Sax / Chris Rainbow Overdub Section",
       "url": "https://open.spotify.com/track/0Lr1ty8iOqyqLj29yYLzZa"
@@ -16075,6 +16075,24 @@
     },
     {
       "album": {
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/2ByL7jWAuDqb07RXuf2Ivv"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224320,
+      "name": "Debbie",
+      "url": "https://open.spotify.com/track/6nmDZLo5WKAG7hANn7lwQ9"
+    },
+    {
+      "album": {
         "name": "Satirolog\u00eda, Vol. 3",
         "url": "https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel"
       },
@@ -16686,7 +16704,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 108133,
       "name": "Die Gesch\u00f6pfe des Prometheus, Op. 43: No. 3, Allegro vivace",
       "url": "https://open.spotify.com/track/4ZnC9Tu3xHEIQLWRsmBxq3"
@@ -71482,7 +71500,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 253400,
       "name": "Too Late - Eric Woolfson Rough Guide Vocal",
       "url": "https://open.spotify.com/track/2XPAhHvhrXXuzcFdjdvIpi"
@@ -77296,7 +77314,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 195306,
       "name": "Who Dimmed the Lights",
       "url": "https://open.spotify.com/track/7ndG4juGQAZ2XzL3W8adTd"

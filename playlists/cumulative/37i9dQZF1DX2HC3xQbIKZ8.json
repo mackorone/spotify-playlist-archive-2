@@ -876,7 +876,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 270344,
       "name": "Do That To Me One More Time",
       "url": "https://open.spotify.com/track/0fDcWl8ApNhQlqVk7aQNg0"
@@ -1590,8 +1590,8 @@
           "url": "https://open.spotify.com/artist/7etGJzSv1g7S8RxZinqkdS"
         },
         {
-          "name": "Wiz Tokelau",
-          "url": "https://open.spotify.com/artist/5ShiAPEQ5yAKJkcFcD6fBG"
+          "name": "Wiz The Creature",
+          "url": "https://open.spotify.com/artist/1T001ouqDQH3xT8ZVWLUND"
         }
       ],
       "date_added": "2025-09-09",
@@ -3574,7 +3574,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-28",
       "duration_ms": 213077,
       "name": "One Night",
       "url": "https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq"

@@ -4,7 +4,7 @@
 
 > Lift our voices to Him.
 
-297 songs - 18 hr 18 min
+298 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Walang Ibang Tahanan](https://open.spotify.com/track/2exSTFp46dOvCc13ipeW0n) | [Arman Ferrer](https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7) | [Walang Ibang Tahanan](https://open.spotify.com/album/3akmNGt2yy0Bhyfo7J0Dsr) | 4:52 | 2023-05-27 | 2024-04-19 |
 | [Walang Ibang Tahanan](https://open.spotify.com/track/7sunmx7KreKSQ7TMY0s5jx) | [Arman Ferrer](https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7) | [Walang Ibang Tahanan](https://open.spotify.com/album/0YgMzl87hrYfdFfb58dDcM) | 4:52 | 2023-05-27 |  |
 | [When We Know It's Christmas](https://open.spotify.com/track/1OZ3rQDcA2Ryf1JXUGv7xo) | [Hangad](https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX), [Ryza Martinez](https://open.spotify.com/artist/32HuW4Anxc8FZmIPhdpEEt) | [Magalak!](https://open.spotify.com/album/2aOklwBuPl8CBs8FLjX0Bj) | 2:15 | 2025-12-01 | 2025-12-15 |
+| [Where We Gather](https://open.spotify.com/track/7ffC1u2bBSg7MkYzrchRZu) | [Hangad](https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX), [Chrise Cortez\-Martin](https://open.spotify.com/artist/5ftUnGmOSKRWQdeDXiFwoy), [Leo Amisola Jr.](https://open.spotify.com/artist/7GyqGNMZi4uEquUss3E8aX) | [Where We Gather](https://open.spotify.com/album/60DpxTLVFV7cfHKsY8QfNa) | 4:16 | 2026-09-28 |  |
 | [With One Voice](https://open.spotify.com/track/6zvIjVtCSxV5Em2D1tivnj) | [SJ Tañong Chorale](https://open.spotify.com/artist/3flNmuqSIhRbdICqqLxcFP) | [Mass for Unity \(All\-English Liturgical Hymns by Jerry Olaguer\)](https://open.spotify.com/album/1S66Z3hHV8Ok9SdOY0Z9CQ) | 1:55 | 2023-05-27 | 2024-04-19 |
 | [With One Voice](https://open.spotify.com/track/7zTiNSVUFRmzINtAYGqO9R) | [SJ Tañong Chorale](https://open.spotify.com/artist/3flNmuqSIhRbdICqqLxcFP) | [Mass for Unity \(All\-English Liturgical Hymns by Jerry Olaguer\)](https://open.spotify.com/album/6NcQ0UsQOoCAkAW3ALuSqy) | 1:55 | 2023-05-27 | 2024-02-28 |
 | [You Are Mine](https://open.spotify.com/track/5XNAQY53nQ2WUZrtxZ1aKE) | [Tres Hermanas](https://open.spotify.com/artist/3rXT3DX9OeNMfH8Thivxrk) | [Songs for the Mass](https://open.spotify.com/album/2YycKytwh2xBObANYCLfHQ) | 3:48 | 2023-05-27 |  |

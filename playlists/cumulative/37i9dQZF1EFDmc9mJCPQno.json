@@ -2771,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "Age of the Exhibitionist",
+        "url": "https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2026-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192931,
+      "name": "Waschesalon",
+      "url": "https://open.spotify.com/track/1GnOfC2wWHGiui18OH0Mig"
+    },
+    {
+      "album": {
         "name": "New York EP",
         "url": "https://open.spotify.com/album/5aTEz6cDre6slbcPuF9keI"
       },

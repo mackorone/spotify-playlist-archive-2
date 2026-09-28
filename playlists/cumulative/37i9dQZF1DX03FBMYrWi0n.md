@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: NOBRO
 
-687 songs - 1 day 14 hr 49 min
+688 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Homme\-rat](https://open.spotify.com/track/4paKkuLXTrn7zsAAzv1Agv) | [PasMort](https://open.spotify.com/artist/2uTrwIsXDbJ4b1JRwTzt6o) | [Lutter contre l'intelligence](https://open.spotify.com/album/6oOD3s3oPTU9I4X1QVW8cl) | 1:40 | 2026-03-27 | 2026-07-04 |
 | [Hook IV](https://open.spotify.com/track/1eiiIwFz5JyRzlCaUnbHLP) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Du soleil dans l’oeil](https://open.spotify.com/album/4WaP4xIVuZcUhJM2yXCdIe) | 4:17 | 2026-09-01 |  |
 | [Horizon](https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 3:03 | 2023-02-10 | 2025-10-11 |
+| [I Can't Give You What You Want](https://open.spotify.com/track/69vnX0jY8jLoTQ2fsJpoM9) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG) | [Where You Haunt Me: Part 2](https://open.spotify.com/album/2LXonM7FX9YMTfSRASV2Rb) | 3:19 | 2026-09-25 |  |
 | [I Forget What I Remembered](https://open.spotify.com/track/2wQqhsoOk1KdJl2UUfYIP7) | [Thus Owls](https://open.spotify.com/artist/49i2hfrmEL0nNp8WZvXyT9) | [Who Would Hold You If The Sky Betrayed Us?](https://open.spotify.com/album/0MudGJonYWCr5S8NfwDKIl) | 6:52 | 2023-02-10 | 2023-02-23 |
 | [I Got A Pill](https://open.spotify.com/track/1YZOcsvVSsp1lwOr9KaSxS) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [I Got A Pill](https://open.spotify.com/album/1K5KVqfWsvPizNr2J6RHhA) | 2:50 | 2026-07-24 |  |
 | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Ada Rook](https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY) | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD) | 4:58 | 2023-02-10 | 2025-10-11 |
@@ -643,7 +644,7 @@
 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 | 2023-03-31 | 2025-10-11 |
 | [Un train pour l'été](https://open.spotify.com/track/5TSIB2pZ3daD8EdXvOnMmL) | [Porcelaine de fer](https://open.spotify.com/artist/1cz90bZV8luoVhQcRijfrD) | [Un train pour l'été](https://open.spotify.com/album/0cNoh1rSSxtRUEl4noUnA7) | 4:44 | 2025-12-19 | 2026-03-07 |
 | [Un, deux, trois](https://open.spotify.com/track/4uogzCWt6guhPUvB3qIPz8) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Un, deux, trois](https://open.spotify.com/album/60TeY4X9sTHrJtazAXnPv1) | 3:50 | 2025-11-14 | 2026-03-07 |
-| [Uncomfortable](https://open.spotify.com/track/41oTqHIO4rKtGCF7fINvkQ) | [def sera](https://open.spotify.com/artist/6TMQV1NysNlRhrDbEz6vtE), [Oatmilkandcodeine](https://open.spotify.com/artist/0j3PryakINdSkE4zVocQY3) | [Uncomfortable](https://open.spotify.com/album/1u9HjnmHxQeLpfwbuot74P) | 2:31 | 2026-07-24 |  |
+| [Uncomfortable](https://open.spotify.com/track/41oTqHIO4rKtGCF7fINvkQ) | [def sera](https://open.spotify.com/artist/6TMQV1NysNlRhrDbEz6vtE), [Oatmilkandcodeine](https://open.spotify.com/artist/0j3PryakINdSkE4zVocQY3) | [Uncomfortable](https://open.spotify.com/album/1u9HjnmHxQeLpfwbuot74P) | 2:31 | 2026-07-24 | 2026-09-28 |
 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-15 | 2025-09-29 |
 | [Une version améliorée de la tristesse](https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Une Version Améliorée De La Tristesse](https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr) | 3:55 | 2026-09-01 |  |
 | [usd freestyle](https://open.spotify.com/track/1pQXbtBuFBl9Mh6okzbCOO) | [whyhaze](https://open.spotify.com/artist/4QqnuHKfpTHncKt0om35AE) | [usd freestyle](https://open.spotify.com/album/7ah0FaZoAsVX8rekhDOaEo) | 1:05 | 2026-07-31 | 2026-08-08 |
