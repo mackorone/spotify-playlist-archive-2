@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Anakin",
+        "url": "https://open.spotify.com/album/1WXsBe871YYYzR1RmSlkrA"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203727,
+      "name": "Anakin",
+      "url": "https://open.spotify.com/track/1X7HVxn4xYMv4nICmy8vR2"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
       },
@@ -633,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Collection of Goodbyes: Escapades III",
+        "url": "https://open.spotify.com/album/2FrgOYhsgbEHOqMFnn3mEz"
+      },
+      "artists": [
+        {
+          "name": "Brennt Vanneste",
+          "url": "https://open.spotify.com/artist/1riFgdQrsBc8CjBvNCoOd1"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173766,
+      "name": "Everything Bends Towards You",
+      "url": "https://open.spotify.com/track/7Cn5tCpEL650g5AReewFke"
+    },
+    {
+      "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
@@ -774,7 +810,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 195999,
       "name": "Gown",
       "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
@@ -796,6 +832,24 @@
       "duration_ms": 173278,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/2nuv1Vj4H8uTP0e2bIbotu"
+    },
+    {
+      "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/7cd7roz7SRwSDhvS7Q3pwC"
+      },
+      "artists": [
+        {
+          "name": "Morpheus",
+          "url": "https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216202,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/7G5HqMfPuRLvoTVfBg6FPu"
     },
     {
       "album": {
@@ -1354,7 +1408,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 127440,
       "name": "my moon",
       "url": "https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh"
@@ -2492,7 +2546,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 168513,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA"

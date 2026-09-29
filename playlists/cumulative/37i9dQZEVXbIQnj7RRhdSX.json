@@ -3790,6 +3790,24 @@
     {
       "album": {
         "name": "Comuni Mortali",
+        "url": "https://open.spotify.com/album/1JECSmRP5x8CoAUQ0tiOXP"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177348,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/5H5mRiF5DBVFkx0vKlm8Yp"
+    },
+    {
+      "album": {
+        "name": "Comuni Mortali",
         "url": "https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5"
       },
       "artists": [
@@ -3800,7 +3818,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 177348,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM"
@@ -7156,7 +7174,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -7594,7 +7612,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "BERLINO",
       "url": "https://open.spotify.com/track/3l109GEhkVYrTvDoKuNGlu"
@@ -22854,6 +22872,24 @@
       "duration_ms": 184444,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3TLsevSDogRj0JG2EOBuVO"
+    },
+    {
+      "album": {
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/3vqJiPXRqAfrzRE0EPDXCR"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184444,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/643MFa7QJyJw8muzkfnZOP"
     },
     {
       "album": {
@@ -39290,10 +39326,28 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 148000,
       "name": "Miria",
       "url": "https://open.spotify.com/track/3k265pHaq1vmxAQ8vWr5pR"
+    },
+    {
+      "album": {
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/3vqJiPXRqAfrzRE0EPDXCR"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Miria",
+      "url": "https://open.spotify.com/track/4QFh1NmXw2WfrtQTGM4yb1"
     },
     {
       "album": {
@@ -41158,6 +41212,28 @@
     {
       "album": {
         "name": "Miria",
+        "url": "https://open.spotify.com/album/3vqJiPXRqAfrzRE0EPDXCR"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201006,
+      "name": "Ne vale la pena feat. Sayf",
+      "url": "https://open.spotify.com/track/0NzZc6vQW14qI9qMTpEkpb"
+    },
+    {
+      "album": {
+        "name": "Miria",
         "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
       },
       "artists": [
@@ -41172,7 +41248,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 201006,
       "name": "Ne vale la pena feat. Sayf",
       "url": "https://open.spotify.com/track/4SwCfaa4bSDcmviaT9hFbf"
@@ -55666,10 +55742,32 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 121943,
       "name": "Sipario feat. Promessa",
       "url": "https://open.spotify.com/track/1eLDswtuYz5COqLRXyGOcv"
+    },
+    {
+      "album": {
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/3vqJiPXRqAfrzRE0EPDXCR"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121943,
+      "name": "Sipario feat. Promessa",
+      "url": "https://open.spotify.com/track/6EyaUvb5tCmEZlaN1AFt62"
     },
     {
       "album": {
@@ -65168,7 +65266,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 157333,
       "name": "VOLEVO CAPIRE CON MARRACASH",
       "url": "https://open.spotify.com/track/6UrPST46XxYPqbAAThhSMS"

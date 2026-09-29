@@ -1,6 +1,6 @@
 {
   "description": "sad songs 4 sad days.",
-  "num_followers": 1628472,
+  "num_followers": 1628243,
   "original_name": "canciones tristes que me recuerdan a ti",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,18 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
-        "name": "IDGAF ERA",
-        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+        "name": "Romancera",
+        "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 170081,
-      "name": "Saberte Querer",
-      "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
+      "duration_ms": 232493,
+      "name": "Romancera",
+      "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
     },
     {
       "added_at": "2026-05-29 19:51:10",
@@ -515,18 +511,22 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
-        "name": "Romancera",
-        "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
       "artists": [
         {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 232493,
-      "name": "Romancera",
-      "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+      "duration_ms": 170081,
+      "name": "Saberte Querer",
+      "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
     },
     {
       "added_at": "2026-05-29 19:51:10",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
+        "name": "tus manias",
+        "url": "https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "tus manias",
+      "url": "https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR"
+    },
+    {
+      "added_at": "2026-05-29 19:51:10",
+      "album": {
         "name": "quiero estar contigo",
         "url": "https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 216607,
       "name": "quiero estar contigo",
       "url": "https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd"
-    },
-    {
-      "added_at": "2026-05-29 19:51:10",
-      "album": {
-        "name": "tus manias",
-        "url": "https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "tus manias",
-      "url": "https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR"
     },
     {
       "added_at": "2026-05-29 19:51:10",

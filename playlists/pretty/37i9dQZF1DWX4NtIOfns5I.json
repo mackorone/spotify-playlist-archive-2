@@ -1,12 +1,12 @@
 {
   "description": "it's finally folk weather \ud83c\udf42",
-  "num_followers": 151591,
+  "num_followers": 151938,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFnXxg6toMEr+EXxw+mH4yhAWQct",
+  "snapshot_id": "AAAAANnBDpFv57nnws8VdAaEXpJJQgYa",
   "tracks": [
     {
       "added_at": "2026-09-22 04:00:41",
@@ -151,6 +151,22 @@
       "duration_ms": 166276,
       "name": "love, make me a believer",
       "url": "https://open.spotify.com/track/0zU5b6zRZZk4l8FVimCtcu"
+    },
+    {
+      "added_at": "2026-09-28 19:23:52",
+      "album": {
+        "name": "feral heart",
+        "url": "https://open.spotify.com/album/7G8UGE0tLWr96toFCvlPjo"
+      },
+      "artists": [
+        {
+          "name": "Ha Vay",
+          "url": "https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt"
+        }
+      ],
+      "duration_ms": 197660,
+      "name": "feral heart",
+      "url": "https://open.spotify.com/track/20z8yDLhoR9Q8TbeH14x6x"
     },
     {
       "added_at": "2026-09-25 04:02:34",

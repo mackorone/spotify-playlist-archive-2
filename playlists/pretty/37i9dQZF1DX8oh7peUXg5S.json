@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 353353,
+  "num_followers": 353379,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
+        "name": "B\u00e1sico",
+        "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Lucha de gigantes - Live",
+      "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
         "name": "M\u00e9ritos Y Merecimientos",
         "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 220310,
       "name": "M\u00e9ritos Y Merecimientos",
       "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
-        "name": "B\u00e1sico",
-        "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Lucha de gigantes - Live",
-      "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+        "name": "Soy Un Coraz\u00f3n Tendido Al Sol",
+        "url": "https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB"
       },
       "artists": [
         {
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
         }
       ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
+      "duration_ms": 264493,
+      "name": "Soy un Coraz\u00f3n Tendido al Sol",
+      "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -1479,8 +1479,8 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "Soy Un Coraz\u00f3n Tendido Al Sol",
-        "url": "https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB"
+        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
+        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
       },
       "artists": [
         {
@@ -1488,9 +1488,9 @@
           "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
         }
       ],
-      "duration_ms": 264493,
-      "name": "Soy un Coraz\u00f3n Tendido al Sol",
-      "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
+      "duration_ms": 251666,
+      "name": "Solo Pienso en Ti",
+      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "Dice la gente",
-        "url": "https://open.spotify.com/album/2M5yZ4i9t80oONCUyGlp26"
-      },
-      "artists": [
-        {
-          "name": "Kiko Veneno",
-          "url": "https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP"
-        }
-      ],
-      "duration_ms": 288626,
-      "name": "Dice la gente",
-      "url": "https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
         "name": "Rueda Eterna",
         "url": "https://open.spotify.com/album/60upWGNYp7K9cllRlT8UJT"
       },
@@ -1699,6 +1683,22 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
+        "name": "Dice la gente",
+        "url": "https://open.spotify.com/album/2M5yZ4i9t80oONCUyGlp26"
+      },
+      "artists": [
+        {
+          "name": "Kiko Veneno",
+          "url": "https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP"
+        }
+      ],
+      "duration_ms": 288626,
+      "name": "Dice la gente",
+      "url": "https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
         "name": "Rug\u00edo de Sentir",
         "url": "https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm"
       },
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "La Mas Completa Coleccion",
-        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
+        "name": "Se Vende",
+        "url": "https://open.spotify.com/album/7MQWHDDwwFhUW0tZ0XZbp6"
       },
       "artists": [
         {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+          "name": "Tontxu",
+          "url": "https://open.spotify.com/artist/04mKUV0wDVvsJ4vWcecdaO"
         }
       ],
-      "duration_ms": 274906,
-      "name": "El Amor De Mi Vida",
-      "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
+      "duration_ms": 237760,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg"
     }
   ],
   "unique_name": "Cantautores",

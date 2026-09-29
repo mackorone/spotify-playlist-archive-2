@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 46193,
+  "num_followers": 46198,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAAApSw7JStkU+Xyh4DzfD9l4",
+  "snapshot_id": "arhcgAAAAAD3ijrpLwbBodAe/fp9xyeV",
   "tracks": [
     {
       "added_at": null,
@@ -21,7 +21,7 @@
         },
         {
           "name": "Baby Garo",
-          "url": "https://open.spotify.com/artist/0vNzeJ9CF6OIACPHhsump5"
+          "url": "https://open.spotify.com/artist/1v5jtZLPHmUo8VVxldEE9x"
         }
       ],
       "duration_ms": 163960,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/6jSnmwRfQxofOlRzKEFBAa"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Tu Piel",
         "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 221413,
       "name": "Por Tu Piel",
       "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/6jSnmwRfQxofOlRzKEFBAa"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOXICONICA",
-        "url": "https://open.spotify.com/album/3Eo5FBKcl9wxiviyeYNxHz"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Elettra Lamborghini",
-          "url": "https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW"
-        }
-      ],
-      "duration_ms": 149647,
-      "name": "TOXICONICA",
-      "url": "https://open.spotify.com/track/7vFRSrW3nGsmggKMAOBUof"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solo Tuya",
         "url": "https://open.spotify.com/album/1DZHhHW4gI7Kt8fJYrhBCV"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 228292,
       "name": "No quiero que amanezca",
       "url": "https://open.spotify.com/track/1ujwLJ7na5L4zjOShTTTXD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOXICONICA",
+        "url": "https://open.spotify.com/album/3Eo5FBKcl9wxiviyeYNxHz"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Elettra Lamborghini",
+          "url": "https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "TOXICONICA",
+      "url": "https://open.spotify.com/track/7vFRSrW3nGsmggKMAOBUof"
     },
     {
       "added_at": null,

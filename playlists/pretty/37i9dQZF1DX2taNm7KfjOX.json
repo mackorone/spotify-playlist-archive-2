@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Babehoven",
-  "num_followers": 1330182,
+  "num_followers": 1330098,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Role Model Hermit",
-        "url": "https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
       },
       "artists": [
         {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 236807,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE"
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
+        "name": "Role Model Hermit",
+        "url": "https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
         }
       ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
+      "duration_ms": 236807,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -651,22 +651,6 @@
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Keep Me Honest",
-        "url": "https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 190890,
-      "name": "Keep Me Honest",
-      "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -695,6 +679,22 @@
       "duration_ms": 257213,
       "name": "Revolution 0",
       "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Keep Me Honest",
+        "url": "https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 190890,
+      "name": "Keep Me Honest",
+      "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Forever Is A Feeling",
-        "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 240364,
-      "name": "Best Guess",
-      "url": "https://open.spotify.com/track/2u6VEZjUu5P3GVfUMDIIbu"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "Seed of a Seed",
         "url": "https://open.spotify.com/album/77Q7ZGkqC4k1GjgoSdMrYa"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 164000,
       "name": "Seed of a Seed",
       "url": "https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Forever Is A Feeling",
+        "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 240364,
+      "name": "Best Guess",
+      "url": "https://open.spotify.com/track/2u6VEZjUu5P3GVfUMDIIbu"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "Ain't As Pretty A Blue",
         "url": "https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 237884,
       "name": "Ain't As Pretty A Blue",
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Is What It Is",
-      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 142097,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "With a Lightning Strike",
         "url": "https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr"
       },
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 142097,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -1715,26 +1715,6 @@
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Overtime (feat. Kacey Musgraves)",
-        "url": "https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 173610,
-      "name": "Overtime (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1755,6 +1735,26 @@
       "duration_ms": 143560,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Overtime (feat. Kacey Musgraves)",
+        "url": "https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 173610,
+      "name": "Overtime (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "My Maker",
         "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 205653,
       "name": "Wolf In Sheep\u2019s Clothes",
       "url": "https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Abilene",
-        "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Ocean Bed",
-        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "Ocean Bed",
-      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "Lonely Cowboy",
         "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 203235,
       "name": "Lonely Cowboy - Radio Edit",
       "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Ocean Bed",
+        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Ocean Bed",
+      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "tell me something",
         "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 237426,
       "name": "tell me something",
       "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2239,26 +2239,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "in filth your mystery is kingdom / far smile peasant in yellow music",
-        "url": "https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO"
-      },
-      "artists": [
-        {
-          "name": "Dagmar Zuniga",
-          "url": "https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q"
-        },
-        {
-          "name": "Austyn Wohlers",
-          "url": "https://open.spotify.com/artist/6yL8bLQAdDDudryKDoxsHB"
-        }
-      ],
-      "duration_ms": 216931,
-      "name": "Even God Gets Stuck In Devotion",
-      "url": "https://open.spotify.com/track/5ogWb6eQzDSwSf9TkKm6xp"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "El Invento",
         "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
@@ -2287,6 +2267,26 @@
       "duration_ms": 173177,
       "name": "Bovine Excision",
       "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "in filth your mystery is kingdom / far smile peasant in yellow music",
+        "url": "https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO"
+      },
+      "artists": [
+        {
+          "name": "Dagmar Zuniga",
+          "url": "https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q"
+        },
+        {
+          "name": "Austyn Wohlers",
+          "url": "https://open.spotify.com/artist/6yL8bLQAdDDudryKDoxsHB"
+        }
+      ],
+      "duration_ms": 216931,
+      "name": "Even God Gets Stuck In Devotion",
+      "url": "https://open.spotify.com/track/5ogWb6eQzDSwSf9TkKm6xp"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2363,18 +2363,18 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "The Ground Here",
-        "url": "https://open.spotify.com/album/1iTdFgUayQlOCDzZhP3QiA"
+        "name": "Leap Year",
+        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
       },
       "artists": [
         {
-          "name": "Biita Houdei",
-          "url": "https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 200730,
-      "name": "The Ground Here",
-      "url": "https://open.spotify.com/track/6dW7CdBo0PqyFpmKhtjDFa"
+      "duration_ms": 345040,
+      "name": "Leap Year",
+      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2399,18 +2399,18 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Leap Year",
-        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
+        "name": "The Ground Here",
+        "url": "https://open.spotify.com/album/1iTdFgUayQlOCDzZhP3QiA"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Biita Houdei",
+          "url": "https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3"
         }
       ],
-      "duration_ms": 345040,
-      "name": "Leap Year",
-      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
+      "duration_ms": 200730,
+      "name": "The Ground Here",
+      "url": "https://open.spotify.com/track/6dW7CdBo0PqyFpmKhtjDFa"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2443,6 +2443,22 @@
       "duration_ms": 279040,
       "name": "Younger & Dumber",
       "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2483,22 +2499,6 @@
       "duration_ms": 200373,
       "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
       "url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2551,18 +2551,18 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Jericho Beach",
-        "url": "https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6"
+        "name": "Drop Cherries",
+        "url": "https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh"
       },
       "artists": [
         {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 176973,
-      "name": "Jericho Beach",
-      "url": "https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg"
+      "duration_ms": 206103,
+      "name": "God Above",
+      "url": "https://open.spotify.com/track/5F8DvLya3QPC25ioAyvR26"
     }
   ],
   "unique_name": "Infinite Indie Folk",

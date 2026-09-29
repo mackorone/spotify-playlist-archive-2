@@ -2,7 +2,7 @@
 
 ### [El Top 2026](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> Canciones que tenés que escuchar  📸 La T y La M con J Balvin
+> Canciones que tenés que escuchar  📸 Lali
 
 1,294 songs - 2 day 18 hr 38 min
 
@@ -16,7 +16,7 @@
 | [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 | 2026-04-24 | 2026-08-15 |
 | [100pre@Límite](https://open.spotify.com/track/2M8akZOKvFXPWfLunWgqP1) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [5202](https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00) | 3:05 | 2025-07-11 | 2025-08-23 |
 | [10percs](https://open.spotify.com/track/2V90V4Q8v9C19fKOakLUA8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [10percs](https://open.spotify.com/album/5ffWOu69p9fUosQcolZbmE) | 2:06 | 2024-03-22 | 2024-06-08 |
-| [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 | 2023-09-01 | 2023-10-10 |
+| [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 | 2023-09-01 |  |
 | [2.0](https://open.spotify.com/track/7J1kvuFjpyuI6yFRYkkXLD) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [COSMIC KID](https://open.spotify.com/album/7M3tTNeYiYamVgZur0HIap) | 1:49 | 2024-12-10 | 2025-01-08 |
 | [20 Labios](https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [20 LABIOS](https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0) | 3:25 | 2024-09-20 | 2024-11-21 |
 | [21 de agosto](https://open.spotify.com/track/76nc1xnr4BxHMDFsJ79A7S) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [21 de agosto](https://open.spotify.com/album/2S2cdxfOdXoALZRPhuZ2jw) | 3:12 | 2026-08-21 |  |
@@ -1169,7 +1169,7 @@
 | [Tu jardín con enanitos](https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [Tu jardín con enanitos](https://open.spotify.com/album/0XpyqlltZS8gGkIrJtSfxk) | 2:55 | 2025-05-23 | 2026-07-04 |
 | [Tu Misterioso Alguien](https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Miranda Es Imposible!](https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO) | 4:04 | 2025-07-18 | 2025-11-22 |
 | [TU MISTERIOSO ALGUIEN \(CUARTETO\) \(feat\. Miranda!\)](https://open.spotify.com/track/4Kzi8hXKkT87SQoYClizh0) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [TU MISTERIOSO ALGUIEN \(CUARTETO\) \(feat\. Miranda!\)](https://open.spotify.com/album/2LpL0pdOS6HWxxYeN1v2Zy) | 2:36 | 2025-09-12 | 2026-02-14 |
-| [Tu recuerdo](https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Tu recuerdo](https://open.spotify.com/album/6mZb6eIfSgtTrqs0G6fQSw) | 3:55 | 2026-05-15 |  |
+| [Tu recuerdo](https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Tu recuerdo](https://open.spotify.com/album/6mZb6eIfSgtTrqs0G6fQSw) | 3:55 | 2026-05-15 | 2026-09-29 |
 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 | 2023-05-12 | 2023-09-19 |
 | [Tu Ropa](https://open.spotify.com/track/4JQgopha31U9YQn2Hblgah) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Tu Ropa](https://open.spotify.com/album/7e27F3CJGBjGQmO6u8LYnB) | 2:51 | 2024-06-07 | 2024-08-10 |
 | [Tu Silueta](https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p) | [Diegote](https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK) | [Tu Silueta](https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ) | 2:50 | 2024-07-26 | 2024-11-07 |

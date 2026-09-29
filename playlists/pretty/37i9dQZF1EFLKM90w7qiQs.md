@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 52 | [Baby Steps](https://open.spotify.com/track/7gLXI82Kksv9Q1OgojzScn) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47) | 2:47 |
 | 53 | [BETTER OFF](https://open.spotify.com/track/0yEMSYJf0OPyZuhkGs1DBa) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:48 |
 | 54 | [Finish Line](https://open.spotify.com/track/60i5ZG7D5dlDQk9HqoQARL) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Isn't it sweeter?](https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ) | 3:19 |
-| 55 | [2005](https://open.spotify.com/track/1QR8dwpWuSYbTzr13mt5ec) | [Remedy Club](https://open.spotify.com/artist/1MuDSnGT0IosRnJbulWvQn), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [2005](https://open.spotify.com/album/2XjA5IykqgdkzTrBUzj0Xu) | 2:20 |
-| 56 | [The Plot](https://open.spotify.com/track/0LA8nHbNkSSeNuO9OOFppr) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 1:54 |
+| 55 | [The Plot](https://open.spotify.com/track/0LA8nHbNkSSeNuO9OOFppr) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 1:54 |
+| 56 | [2005](https://open.spotify.com/track/1QR8dwpWuSYbTzr13mt5ec) | [Remedy Club](https://open.spotify.com/artist/1MuDSnGT0IosRnJbulWvQn), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [2005](https://open.spotify.com/album/2XjA5IykqgdkzTrBUzj0Xu) | 2:20 |
 | 57 | [Dopamine \(feat\. Malou\)](https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dopamine \(feat\. Malou\)](https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn) | 2:03 |
 | 58 | [Clouds](https://open.spotify.com/track/2S30osPVXM82F0Trgd4zbc) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [What the Future Holds](https://open.spotify.com/album/7MfKuIWBxHdGuyt8HJbdPz) | 3:55 |
 | 59 | [The Writer](https://open.spotify.com/track/3wv0ik7VEaJi7gervO2A2C) | [Four of Diamonds](https://open.spotify.com/artist/42qq1SQuTH1AT2daN3fLMt), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Writer](https://open.spotify.com/album/0iJSO6FoJD0CZvNIzJnWl5) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 74 | [All That I Do \(feat\. Aleya Mae\)](https://open.spotify.com/track/307nMi0AaURnpFW6DKQmhd) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [All That I Do \(feat\. Aleya Mae\)](https://open.spotify.com/album/3c0o8iHzvSnt26nwvvB6xo) | 2:33 |
 | 75 | [Body Of Work](https://open.spotify.com/track/4PfoFN7JhDhrmJyVmuk4C6) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Body Of Work](https://open.spotify.com/album/2Tl6XkbmbgfEtlM7TcO7Il) | 2:52 |
 
-Snapshot ID: `AcddcAAAAAANL4GCB3CGux5gI6DriSrU`
+Snapshot ID: `AcdjQgAAAABt7svSe663cc+n9f0VqT8h`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Banger na banger. Cover: Nachtdienst & Amelie \ud83d\udd25",
+  "description": "Banger na banger. Cover: Def \ud83d\udd25",
   "name": "Studenten Hits 2026",
   "tracks": [
     {
@@ -1132,6 +1132,24 @@
       "duration_ms": 156923,
       "name": "Diva",
       "url": "https://open.spotify.com/track/1rYH9P9TTlTXybJCtLGHJz"
+    },
+    {
+      "album": {
+        "name": "DIXI",
+        "url": "https://open.spotify.com/album/2hSSSQZaJhaYVKNNxFRiKS"
+      },
+      "artists": [
+        {
+          "name": "TOBI",
+          "url": "https://open.spotify.com/artist/6T7plMrMcV7crSRxRRB3ZG"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139370,
+      "name": "DIXI",
+      "url": "https://open.spotify.com/track/0Bkg6kTvoEpEvPXx3wBZAD"
     },
     {
       "album": {
@@ -2720,7 +2738,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 170270,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
@@ -4371,7 +4389,7 @@
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 221535,
+      "duration_ms": 221534,
       "name": "Trapped - Radio-Edit",
       "url": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
     },

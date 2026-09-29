@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6PMQY9BFJY.md) - [plain]
 
 > Our editors' favorite Afro House tracks of 2024\. Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,338 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,357 likes - 74 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6PMQY9BFJY.md) - [plain]
 | 68 | [Angelina](https://open.spotify.com/track/6WxnJNfi8eAejiaOta4ZES) | [GUAPO \(AO\)](https://open.spotify.com/artist/3adV86NBSzuLeQ4me5eIJe) | [This is Caribbean House, Vol.3](https://open.spotify.com/album/2mXqnycarsiNuGlnuyvoI7) | 4:26 |
 | 69 | [Sweet Dreams \- Radio Edit](https://open.spotify.com/track/1L0Gt8Sz5Bj8uJZTStqgAz) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Sweet Dreams \(Radio Edit\)](https://open.spotify.com/album/21i4fZf94rBpUh8Bma97vd) | 2:52 |
 | 70 | [Dakar \- Extended mix](https://open.spotify.com/track/19Zay2GOA8Ebe9cuinWfNJ) | [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Dean Walker](https://open.spotify.com/artist/2yu2cq17ts76sjEjRMKqkN), [Savage & SHē](https://open.spotify.com/artist/3grWiHymOsSQY0VjeNAxCD) | [Dakar \(Extended Mix\)](https://open.spotify.com/album/0MUvSlOwYQ8TIXqDwc9Vx7) | 6:23 |
-| 71 | [Running Out](https://open.spotify.com/track/0nXxu9pnUsI8yt4Ud8xvMv) | [Soho Disco](https://open.spotify.com/artist/4QUOWaXZAU66Kgr3ynuYUy) | [Running Out](https://open.spotify.com/album/0r7banAi5AuwKaugh45Ip4) | 4:02 |
-| 72 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 |
-| 73 | [My Love for You \(Yebba's Heartbreak\) \- Edit](https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc) | 3:25 |
-| 74 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/0kTVwwt7g7OR5BAYmJvUue) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [My Neck, My Back \(Lick It\)](https://open.spotify.com/album/3vTbXNxh4aurW6b8WWSXOV) | 6:16 |
-| 75 | [Delakufa](https://open.spotify.com/track/6KUozwM4TNgRHIWGoqwl8g) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Delakufa](https://open.spotify.com/album/369KYFS91QZ4Vhu2ArRUOl) | 3:26 |
+| 71 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 |
+| 72 | [My Love for You \(Yebba's Heartbreak\) \- Edit](https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc) | 3:25 |
+| 73 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/0kTVwwt7g7OR5BAYmJvUue) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [My Neck, My Back \(Lick It\)](https://open.spotify.com/album/3vTbXNxh4aurW6b8WWSXOV) | 6:16 |
+| 74 | [Delakufa](https://open.spotify.com/track/6KUozwM4TNgRHIWGoqwl8g) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Delakufa](https://open.spotify.com/album/369KYFS91QZ4Vhu2ArRUOl) | 3:26 |
 
-Snapshot ID: `AAAAAF5uk6//cTVZm5HUoLlyWJmYlD14`
+Snapshot ID: `AAAAABnpF/f62iW/yBg/ypZ9WXhsiy1A`

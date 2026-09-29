@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-689 songs - 1 day 22 hr 19 min
+690 songs - 1 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Assurance](https://open.spotify.com/track/7yldVpYhrHFyH5DYighwx5) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Assurance](https://open.spotify.com/album/0h3ZLbgRsaEPkzc1rA52Ag) | 2:16 | 2025-11-28 | 2025-12-05 |
 | [Assurance \- Live](https://open.spotify.com/track/6UuD65fHX7kRFVQEGiitXC) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [Achiaamusic](https://open.spotify.com/artist/5xPYTQWXbUEcjrT6pMrksd) | [Assurance \(Live\)](https://open.spotify.com/album/0AMn3yQQM1wjEiXNbFY2Ed) | 3:42 | 2025-03-07 | 2025-04-11 |
 | [Atofarati](https://open.spotify.com/track/2rF5fZgl0HohTKTu5ZRsnj) | [Favour Ojo](https://open.spotify.com/artist/3cQ7XTvsGfuO0PrtpplBPJ) | [Atofarati](https://open.spotify.com/album/7nQlFRrydIilg3uz3fADiz) | 4:23 | 2025-10-31 | 2025-11-28 |
-| [Awesome God \- Live](https://open.spotify.com/track/7atVKkIumpnTupDi91zxVe) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [Love Never Fails \(Live\)](https://open.spotify.com/album/5hsHDimUMrEyHL8trpdooh) | 4:19 | 2026-09-04 |  |
+| [Awesome God \- Live](https://open.spotify.com/track/7atVKkIumpnTupDi91zxVe) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [Love Never Fails \(Live\)](https://open.spotify.com/album/5hsHDimUMrEyHL8trpdooh) | 4:19 | 2026-09-04 | 2026-09-29 |
 | [Awesome God / God Only Knows \- Campfire Medley](https://open.spotify.com/track/4ythCnq2XWIHzLqC9GnUE3) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [Bailee Madison](https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE), [Jahbril Cook](https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT), [Kat Conner Sterling](https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD), [Iain Tucker](https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 2:19 | 2025-01-31 | 2026-01-15 |
 | [Ayeekoo](https://open.spotify.com/track/27djjwmWNZzAHmO7n7zrCL) | [Sefaaji Jenner](https://open.spotify.com/artist/7gY4XO6P6jBPXZVUt74lfF), [Emmanuel Smith](https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b) | [Ayeekoo](https://open.spotify.com/album/1XsDcKwWr5Iqb1PgabdgM8) | 2:42 | 2025-03-21 | 2025-08-29 |
 | [AYO](https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [AYO](https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H) | 3:43 | 2024-11-08 | 2025-02-28 |
@@ -504,6 +504,7 @@
 | [On Christ the Solid Rock](https://open.spotify.com/track/7f76fuhNITKqRtUJaTXnzE) | [Vinesong](https://open.spotify.com/artist/2GBZhtZkXs2SjxoGJSWLo6) | [Our God Reigns](https://open.spotify.com/album/2goNu8zaAUIhrKnhMmLpya) | 2:58 | 2024-09-27 | 2025-02-28 |
 | [One Christ One Love](https://open.spotify.com/track/4QWx2bEgw3psRVBclTNneH) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [One Christ One Love](https://open.spotify.com/album/1DQMlWhHRCBLGZaIXiRibx) | 2:38 | 2024-11-08 | 2025-02-07 |
 | [Only Me Know](https://open.spotify.com/track/3CrcobHZigbngj00xaXWcO) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Only Me Know](https://open.spotify.com/album/1EaNdICx9xrQQsQsoJ408a) | 3:16 | 2025-06-06 | 2025-06-27 |
+| [Only You](https://open.spotify.com/track/7AAVNwpxVjSysgKs0St8bX) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Only You](https://open.spotify.com/album/0sivoWhfoOZLiXQwqZKPLR) | 2:44 | 2026-09-18 |  |
 | [Only You](https://open.spotify.com/track/67Ah9cOtWav0DT4KOUNmKI) | [Jah Lead Music](https://open.spotify.com/artist/5H0C3fYJyKalouY8erJSga) | [Only You](https://open.spotify.com/album/7gLXeUz41iKk8xA7eKTqaD) | 2:25 | 2024-11-29 | 2025-02-28 |
 | [Only You](https://open.spotify.com/track/1FBv0lVe3a99N6tlaqxTA3) | [Precious Marc](https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB), [Skerz beatz](https://open.spotify.com/artist/4dhY6CUts7Uklc5Poshg7a), [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Only You](https://open.spotify.com/album/13FiR7Ge2a8XzmbuoI6Dqg) | 2:42 | 2026-03-20 | 2026-05-19 |
 | [Only You](https://open.spotify.com/track/5lADkecaaJM5qXqkHttL5e) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Only You](https://open.spotify.com/album/0tKAmb7p8E4hG1djPYb3aC) | 2:39 | 2025-08-01 | 2025-08-29 |

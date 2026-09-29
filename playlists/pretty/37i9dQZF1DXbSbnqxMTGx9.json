@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3227368,
+  "num_followers": 3227365,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1488,9 +1488,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/26JRni5Lqiyd9GNnlaz6DI"
+      "duration_ms": 256600,
+      "name": "Buffalo Soldier",
+      "url": "https://open.spotify.com/track/59ByyDNkqRGxBom9nHssxf"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1572,9 +1572,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 256600,
-      "name": "Buffalo Soldier",
-      "url": "https://open.spotify.com/track/59ByyDNkqRGxBom9nHssxf"
+      "duration_ms": 180533,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/26JRni5Lqiyd9GNnlaz6DI"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Beat Down Babylon",
-        "url": "https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9"
+        "name": "On the Beach: The Anthology",
+        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
       },
       "artists": [
         {
-          "name": "Junior Byles",
-          "url": "https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC"
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
         }
       ],
-      "duration_ms": 155490,
-      "name": "Beat Down Babylon",
-      "url": "https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG"
+      "duration_ms": 161973,
+      "name": "The Tide Is High - Stereo Version",
+      "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
     }
   ],
   "unique_name": "Reggae Classics",

@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#toomuchswag](https://open.spotify.com/track/1STZzSByzeHohDFEQbe7Vn) | [Zen Univrse](https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [\#flowstate](https://open.spotify.com/album/6MWeAxK9tsH3ozNCcy1lfH) | 1:52 | 2026-07-31 |  |
-| [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:39 | 2026-09-25 |  |
+| [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:38 | 2026-09-25 |  |
 | [1 of 1](https://open.spotify.com/track/1BImbxAJo7PNDWdPMC7c8l) | [Txmmyily](https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa) | [1 of 1](https://open.spotify.com/album/007o96OdGuH17jGD1SSVV3) | 2:10 | 2026-08-21 |  |
 | [100](https://open.spotify.com/track/4tVM51ch0CnTjgG77cLZqE) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [100](https://open.spotify.com/album/417gVtxA0PrdGVTMnMFAfA) | 2:30 | 2025-04-04 | 2025-05-09 |
 | [100 % or More](https://open.spotify.com/track/1nhPJxL9x5oaPYcLfm4Wxz) | [OCAPO](https://open.spotify.com/artist/0rPvE6uRDqVXYoeM6dGKZV), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Ictooicy](https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js) | [100 % or More](https://open.spotify.com/album/3mxg5EVTIx9lOZjodWM54H) | 4:12 | 2021-12-16 | 2022-04-22 |

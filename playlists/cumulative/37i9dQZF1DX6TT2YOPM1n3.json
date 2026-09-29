@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Hamza Malik",
+  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Izzchughtai, Hasan Raheem, Umair",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -4943,6 +4943,24 @@
     },
     {
       "album": {
+        "name": "Pablo",
+        "url": "https://open.spotify.com/album/41WcjlLxGl5uI9J325Ffyz"
+      },
+      "artists": [
+        {
+          "name": "Hania Aamir",
+          "url": "https://open.spotify.com/artist/0Mqyon2f1de1y9AcGbb1Jf"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126593,
+      "name": "Pablo",
+      "url": "https://open.spotify.com/track/1PLT6v3VhugzzLarvG76Ko"
+    },
+    {
+      "album": {
         "name": "You paint me again \u201cPURPLE\u201d",
         "url": "https://open.spotify.com/album/0KUWZOvXO6Uvsih3zDpwYa"
       },
@@ -5488,6 +5506,32 @@
       "duration_ms": 161311,
       "name": "Rangeen",
       "url": "https://open.spotify.com/track/5oR58bDC1H53YMEARuTQV6"
+    },
+    {
+      "album": {
+        "name": "Rangeen | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/4aLu7Zndj5FQRV1Oh62Tgy"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Izzchughtai",
+          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221443,
+      "name": "Rangeen | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/7cO7GWk6vUGNcAUXMJ2Bdj"
     },
     {
       "album": {

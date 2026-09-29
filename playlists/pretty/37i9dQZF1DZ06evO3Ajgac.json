@@ -1,12 +1,12 @@
 {
   "description": "This is Elmo. The essential tracks, all in one playlist.",
-  "num_followers": 15931,
+  "num_followers": 15971,
   "original_name": "This Is Elmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAAAaWXKDBZy1xFldpd4D3ebM",
+  "snapshot_id": "arhcgAAAAABWtG2vryW6qOW913+7H/m9",
   "tracks": [
     {
       "added_at": null,
@@ -1195,50 +1195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E Is for Elmo!",
-        "url": "https://open.spotify.com/album/6olEXd4PanP1ho5loa0VwU"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 73440,
-      "name": "Take a Breath",
-      "url": "https://open.spotify.com/track/59zvcxSBbqfRE8ft9AZDcB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesame Street: What's the Number?",
-        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Abby Cadabby",
-          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 141769,
-      "name": "I Can Sing",
-      "url": "https://open.spotify.com/track/3apa0NM5TSx3PiPD9ZHMjB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blippi And Sesame Street Adventures",
         "url": "https://open.spotify.com/album/2XfdTa9USFOgbnANZzyUco"
       },
@@ -1267,6 +1223,50 @@
       "duration_ms": 124634,
       "name": "Let's Take Care Of Animals - Sesame Street Version",
       "url": "https://open.spotify.com/track/0S9xlPL4GkXtpcCylsXbCg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesame Street: What's the Number?",
+        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 141769,
+      "name": "I Can Sing",
+      "url": "https://open.spotify.com/track/3apa0NM5TSx3PiPD9ZHMjB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E Is for Elmo!",
+        "url": "https://open.spotify.com/album/6olEXd4PanP1ho5loa0VwU"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 73440,
+      "name": "Take a Breath",
+      "url": "https://open.spotify.com/track/59zvcxSBbqfRE8ft9AZDcB"
     },
     {
       "added_at": null,

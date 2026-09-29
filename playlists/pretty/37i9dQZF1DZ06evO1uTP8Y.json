@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 16337,
+  "num_followers": 16356,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAABjpB46SuMELBJUUfzqoPwQ",
+  "snapshot_id": "arhcgAAAAADApfGUK0Y2wV2sflJztxFb",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gaslight 101",
+        "url": "https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 179036,
+      "name": "Gaslight 101",
+      "url": "https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Easy",
         "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 132052,
       "name": "Be Easy",
       "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gaslight 101",
-        "url": "https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 179036,
-      "name": "Gaslight 101",
-      "url": "https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs"
     },
     {
       "added_at": null,

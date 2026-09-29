@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: T Dollar
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,740 likes - 79 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,784 likes - 79 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [IFEOMA](https://open.spotify.com/track/3v1jAPimrfqVhiBMjF2LGK) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Ifeoma & Rascal](https://open.spotify.com/album/0RIHroLMpjZ7IAmmSmDXQI) | 2:32 |
 | 2 | [CHE](https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [CHE](https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x) | 2:24 |
 | 3 | [For Me](https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [For Me](https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo) | 2:20 |
-| 4 | [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:39 |
+| 4 | [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:38 |
 | 5 | [Chokehold](https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh) | [Rhythm Vault](https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Chokehold](https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76) | 2:34 |
 | 6 | [Pass By](https://open.spotify.com/track/6VhAUz0pXdCZnIXsIMX4zC) | [Yan Yan](https://open.spotify.com/artist/0hHqk1w4aXPLfywJfbthSC) | [Pass By](https://open.spotify.com/album/4tQXRSWzl4XdaUjjixyJye) | 3:09 |
 | 7 | [Bahubali](https://open.spotify.com/track/2jSkGbyUK1VmBXE3hgJyBl) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Bahubali](https://open.spotify.com/album/3sg7XmCUiue0W7dW77hS0b) | 2:24 |

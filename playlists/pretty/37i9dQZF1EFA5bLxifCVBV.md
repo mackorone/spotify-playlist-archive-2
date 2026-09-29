@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184 likes - 160 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 160 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 58 | [Thrill Me](https://open.spotify.com/track/6QTEluyhJiABjh1ZnXnZJ0) | [Ethel Ennis](https://open.spotify.com/artist/7yLgG0ocThlvnzWk4uOOUC) | [Change Of Scenery](https://open.spotify.com/album/027UEzorpvpgU68jNZoedH) | 3:23 |
 | 59 | [Can't Help Singing](https://open.spotify.com/track/3Zksun6wAtDScR21PHB6g3) | [Roberto Cipelli](https://open.spotify.com/artist/4rOLlT7H7aKBWhTsqhpvWM), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [L'equilibrio di Nash](https://open.spotify.com/album/5N6NJT2a8au4xAF9MhHwL9) | 3:08 |
 | 60 | [Save Me, Sister](https://open.spotify.com/track/4VNNNyKb5VhrkCeSkW3Nvy) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [New York 1935\-1937, Vol\. A](https://open.spotify.com/album/4kP8rDV2ynkWMMNDKjJbD2) | 3:05 |
-| 61 | [If This Isn't Love](https://open.spotify.com/track/5emsucKcRbeRwkxfsjCFaW) | [Ella Logan](https://open.spotify.com/artist/2h6itHBcNRfkn7brulMYsS), [Donald Richards](https://open.spotify.com/artist/4wNTu9E8ZNhDCh80oHNKl3), [Broadway Cast](https://open.spotify.com/artist/4gNMEfBVkRcCQUDtGHk9sB) | [Finian's Rainbow](https://open.spotify.com/album/5vAEgnsZhjhk978QQbcAL7) | 3:19 |
+| 61 | [If This Isn't Love](https://open.spotify.com/track/591JxctNeLaAG06t1tDOtj) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Ella Logan](https://open.spotify.com/artist/2h6itHBcNRfkn7brulMYsS), [Donald Richards](https://open.spotify.com/artist/4wNTu9E8ZNhDCh80oHNKl3), [The Lyn Murray Singers](https://open.spotify.com/artist/1hK263gqKlB1FgbHybSmNU), [Original Broadway Cast of Finian's Rainbow](https://open.spotify.com/artist/2h8ljFT8TCxHBnFiWORK0f), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Finian's Rainbow](https://open.spotify.com/album/4jh4PiA72HdOtF3qAAnMJ9) | 3:12 |
 | 62 | [Moanin' in the Morning](https://open.spotify.com/track/6B9Wvcri3tfwcyx3iQlcOw) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Right to Sing](https://open.spotify.com/album/0SEV4kfGsJ8Z9CfFPJ2zzW) | 2:51 |
 | 63 | [Dance of the Golden Crock](https://open.spotify.com/track/4dSvDe7ncbjhJkUH3hVeX7) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [Finian's Rainbow \(New Broadway Cast Recording\)](https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1) | 3:28 |
 | 64 | [Bubbles \- Remastered Version](https://open.spotify.com/track/17Zu3LHy5OCrOU1ffJs0xD) | [Gay Purr\-ee \- Robert Goulet, Red Buttons & The Mellow Men](https://open.spotify.com/artist/2lUvRQVG4WLyNjI0OV7hsS) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 2:48 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 159 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 160 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcddcAAAAAC8K1fzek2KARfQBca8mh77`
+Snapshot ID: `AcdjQgAAAAD+WIL5rEIyL5SZo4iUodY1`

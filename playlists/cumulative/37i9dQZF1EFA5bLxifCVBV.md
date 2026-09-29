@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-341 songs - 17 hr 47 min
+342 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [I've Gone Romantic On You](https://open.spotify.com/track/0xYUPOWBo1JkoyjnprXSK3) | [Jack Jenney](https://open.spotify.com/artist/62dZK565BSdyRwiD6a2KPy) | [Stardust](https://open.spotify.com/album/1TtOgp76fvy8Sc98IaBuXx) | 2:27 | 2024-07-24 |  |
 | [If I Didn't Have You](https://open.spotify.com/track/28NVslOL7fIHYonQha1g8O) | [Fred Rich & His Orchestra](https://open.spotify.com/artist/7dkKSKCoLExyMEw9ay5RSN) | [Dance Bands Hits of the 30's & 40's](https://open.spotify.com/album/6vQgDVUUEkNc6Ug58iuYMV) | 3:29 | 2025-10-19 |  |
 | [If I Didn't Have You \(Duet Version\)](https://open.spotify.com/track/1Ve2yg3dW79Rs7GxKie0Rf) | [The Film Band Kids](https://open.spotify.com/artist/64nihas3TNZxHUay6E6Qsj) | [Movie For Kids Vol.2](https://open.spotify.com/album/1rh2aVuxq6EuaO6PfhQY5f) | 3:38 | 2024-07-24 | 2025-07-10 |
-| [If This Isn't Love](https://open.spotify.com/track/5emsucKcRbeRwkxfsjCFaW) | [Ella Logan](https://open.spotify.com/artist/2h6itHBcNRfkn7brulMYsS), [Donald Richards](https://open.spotify.com/artist/4wNTu9E8ZNhDCh80oHNKl3), [Broadway Cast](https://open.spotify.com/artist/4gNMEfBVkRcCQUDtGHk9sB) | [Finian's Rainbow](https://open.spotify.com/album/5vAEgnsZhjhk978QQbcAL7) | 3:19 | 2026-08-22 |  |
+| [If This Isn't Love](https://open.spotify.com/track/591JxctNeLaAG06t1tDOtj) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Ella Logan](https://open.spotify.com/artist/2h6itHBcNRfkn7brulMYsS), [Donald Richards](https://open.spotify.com/artist/4wNTu9E8ZNhDCh80oHNKl3), [The Lyn Murray Singers](https://open.spotify.com/artist/1hK263gqKlB1FgbHybSmNU), [Original Broadway Cast of Finian's Rainbow](https://open.spotify.com/artist/2h8ljFT8TCxHBnFiWORK0f), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Finian's Rainbow](https://open.spotify.com/album/4jh4PiA72HdOtF3qAAnMJ9) | 3:12 | 2026-09-28 |  |
+| [If This Isn't Love](https://open.spotify.com/track/5emsucKcRbeRwkxfsjCFaW) | [Ella Logan](https://open.spotify.com/artist/2h6itHBcNRfkn7brulMYsS), [Donald Richards](https://open.spotify.com/artist/4wNTu9E8ZNhDCh80oHNKl3), [Broadway Cast](https://open.spotify.com/artist/4gNMEfBVkRcCQUDtGHk9sB) | [Finian's Rainbow](https://open.spotify.com/album/5vAEgnsZhjhk978QQbcAL7) | 3:19 | 2026-08-22 | 2026-09-29 |
 | [In A Jocular Vein](https://open.spotify.com/track/1bbpLVP3zLeoRtAbOFThJF) | [The Weavers](https://open.spotify.com/artist/4E5eAkpbJLO40r8fWNWm6X) | [Together Again](https://open.spotify.com/album/2cYr5Q3iZHC3v6QFupmdPu) | 1:31 | 2024-07-24 | 2025-07-10 |
 | [In the Shade of the New Apple Tree](https://open.spotify.com/track/02vyAD4UwxIdVjSZDzQPAi) | [Bob Crosby](https://open.spotify.com/artist/5lP4FZO4ThhC9glGDwlgrV) | [Bob Crosby and His Orchestra\-1938](https://open.spotify.com/album/3UqyxAHhoyt31JYjSJReOU) | 3:12 | 2024-07-24 | 2025-06-28 |
 | [In The Shade Of The New Apple Tree](https://open.spotify.com/track/2hdkL1vyx1vKP9dfqRve9i) | [Bob Crosby](https://open.spotify.com/artist/5lP4FZO4ThhC9glGDwlgrV) | [Bob Crosby In Disco Order, Vol\. 6](https://open.spotify.com/album/2SYtzqUnGJRz7KavjBcLOC) | 3:13 | 2026-08-07 |  |

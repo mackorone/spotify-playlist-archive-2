@@ -4,7 +4,7 @@
 
 > I brani italiani di cui siamo ossessionati 🎧 Annalisa e Madame in cover
 
-721 songs - 1 day 13 hr 1 min
+722 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Non ci si ama solo in primavera](https://open.spotify.com/track/6P0Bmiv2zEEroMtD3cBrAk) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Non ci si ama solo in primavera](https://open.spotify.com/album/4O4w4WbUZvNxPZ2ijhHCdw) | 3:20 | 2026-04-30 | 2026-05-22 |
 | [Non ho bisogno di te](https://open.spotify.com/track/4DM3aalAzejRhIEy4u5Oov) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Non ho bisogno di te](https://open.spotify.com/album/4xoyTSSSLTjh0arh3L8UzE) | 2:30 | 2024-07-01 | 2024-09-24 |
 | [Non Lo So \(feat\. chiello\)](https://open.spotify.com/track/5mOazYGaNJnv1zxMyNH6Rc) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:54 | 2025-02-03 | 2025-04-11 |
+| [NON MI INNAMORERÓ](https://open.spotify.com/track/0nbjyJjpjkl75GvnPAEt3L) | [Pucho](https://open.spotify.com/artist/5ton3sbMDq2uEanAdRe8Vr), [Mia](https://open.spotify.com/artist/4vMEEtxrl4ZjxQ6uBWuYPc), [Cristy](https://open.spotify.com/artist/5jYnodT8UD7JrZhKisAOA9) | [NON MI INNAMORERÓ](https://open.spotify.com/album/3iG82eJmnlpJgHVIAjTawy) | 2:17 | 2026-09-28 |  |
 | [Non sono io](https://open.spotify.com/track/7sYfMtqd7jxWzRSTrMCA2n) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Non sono io](https://open.spotify.com/album/5236ysAzQAdy67A3fM6etk) | 2:52 | 2025-05-01 | 2025-08-15 |
 | [Non x Soldi](https://open.spotify.com/track/12XKCbxfnM7jS0xNSgDJNz) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [NON X SOLDI](https://open.spotify.com/album/0lPLNy8qyFEA02EvH4Uodg) | 2:39 | 2025-05-01 | 2025-05-16 |
 | [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 | 2025-09-15 | 2026-04-24 |
@@ -529,7 +530,7 @@
 | [QUANDO DORME LA CITTÀ](https://open.spotify.com/track/77uiPp5CwS14DPThQSLsNs) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [IL GIORNO CHE ASPETTAVO](https://open.spotify.com/album/7Hww6TqaOQMRjWJSNqVyyY) | 3:27 | 2026-07-09 | 2026-09-11 |
 | [quando nessuno ci vede](https://open.spotify.com/track/04QySOhnsckQQbzDRyJXDQ) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [quando nessuno ci vede](https://open.spotify.com/album/7b5L66twDwW0ESfwpFtho8) | 2:48 | 2025-10-09 | 2025-11-04 |
 | [Quando Sarò Morto \- feat\. J\-AX](https://open.spotify.com/track/4wx82ugAwUW3ijUcBphOV7) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [Milanconia](https://open.spotify.com/album/1W1rSF0qAd7ybl8Z2pb26V) | 2:46 | 2025-03-20 | 2025-04-18 |
-| [Quando Viaggi da Sola](https://open.spotify.com/track/6QLPwpYX8LvgUDTzr26cV2) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Quando Viaggi da Sola](https://open.spotify.com/album/7r1YxVxK5mzcPXsYqT6ENB) | 3:07 | 2026-09-03 |  |
+| [Quando Viaggi da Sola](https://open.spotify.com/track/6QLPwpYX8LvgUDTzr26cV2) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Quando Viaggi da Sola](https://open.spotify.com/album/7r1YxVxK5mzcPXsYqT6ENB) | 3:07 | 2026-09-03 | 2026-09-29 |
 | [QUANTO FORTE TI PENSAVO](https://open.spotify.com/track/7ldyOPtbSh2t7iOEAsFOlR) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [L'AMORE](https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG) | 3:33 | 2026-08-27 |  |
 | [Quasi Blu](https://open.spotify.com/track/4p814E87xWIycc6AxT0t1V) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW) | [Quasi Blu](https://open.spotify.com/album/4qSGnqPDAzw4I27U6YL9ZT) | 3:47 | 2026-01-29 | 2026-02-25 |
 | [QUE PASA](https://open.spotify.com/track/4IgE2EClVv3KJex9IXVraO) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [QUE PASA](https://open.spotify.com/album/01ArVSSw3tnedf4s7RFNio) | 2:44 | 2024-07-01 | 2024-08-16 |

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata 😈 Con nuovi brani di Sfera Ebbasta, Flaco G e Guè, Ddusi con Artie 5ive e tanti altri.
 
-7,798 songs - 14 day 7 hr 30 min
+7,800 songs - 14 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -867,6 +867,7 @@
 | [BATIMENT \#2 \(feat\. Baby Gang\)](https://open.spotify.com/track/3w0OOMArLZWeMitNkH6C4m) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [UNA BANDIERA](https://open.spotify.com/album/1WzvS4vSVa2YyzfzTYXm5U) | 2:41 | 2023-09-14 | 2023-10-06 |
 | [Batman](https://open.spotify.com/track/4jEIiFxvacRKVIIlAw3uLY) | [el 3askar](https://open.spotify.com/artist/5dx9aSpPXXCtmaDltSSAy6), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Batman](https://open.spotify.com/album/41EM84IPIMmhqzbz3KrAZm) | 2:31 | 2023-03-30 | 2023-04-28 |
 | [Battere Cassa](https://open.spotify.com/track/75Ou9MlOFgsJMYaynRLPhm) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV) | [CODICE DA INCIS](https://open.spotify.com/album/3q4VZk659YiCdOoel7cdWY) | 2:01 | 2022-12-01 | 2023-01-13 |
+| [BATTISTA](https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ) | [BATTISTA](https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN) | [BATTISTA](https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW) | 2:37 | 2026-09-28 |  |
 | [Battiti](https://open.spotify.com/track/7wG7IuZjCJn0bC2RS7MhtM) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [Battiti](https://open.spotify.com/album/1kV42QKgckkxFA0LIZDgNz) | 2:35 | 2022-06-09 | 2022-07-01 |
 | [BATTITO](https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BATTITO](https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw) | 3:14 | 2025-02-12 | 2025-03-14 |
 | [BATTITO](https://open.spotify.com/track/1fe8hsTklolSyTKiFJOV0h) | [Grido](https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm) | [MUSICA ETERNA](https://open.spotify.com/album/07TU4dyRgCoTG3RDWWINJ6) | 2:54 | 2024-11-28 | 2024-12-13 |
@@ -7308,6 +7309,7 @@
 | [UN'ALTRA NOTTE](https://open.spotify.com/track/2VSKm8Uz0Y57LMB8AOHqOm) | [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi) | [UN'ALTRA NOTTE](https://open.spotify.com/album/2KZJ34oRNoCEYAyDCqOjmf) | 2:59 | 2023-12-21 | 2024-01-12 |
 | [Un'Altra Notte Assieme](https://open.spotify.com/track/1oTFMYIT4QQXVDkFKMPapw) | [Gionni Grano](https://open.spotify.com/artist/5Lp6pNq4km6sycD2mmgFIb), [Mercato Nero](https://open.spotify.com/artist/528kEmnOGdsmZLrDojbGAu) | [Un'Altra Notte Assieme](https://open.spotify.com/album/67cQOSybdh4A331DxXkeR5) | 2:43 | 2023-11-23 | 2023-12-08 |
 | [UN'ALTRA VITA](https://open.spotify.com/track/2STxlu5WFNhEDWI2YrMczu) | [KLIMA](https://open.spotify.com/artist/6NHTkpBxWi4lWRZnpwPYm8) | [UN'ALTRA VITA](https://open.spotify.com/album/4PEiYjmIo9II7Yqs1y7aDf) | 2:20 | 2026-04-30 | 2026-05-15 |
+| [Una bara per due](https://open.spotify.com/track/570IsK8rePxeYM5SZpGCkW) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Una bara per due](https://open.spotify.com/album/6pdxHp0JBj86IkHaZ9BfH7) | 4:46 | 2026-09-28 |  |
 | [Una bomba](https://open.spotify.com/track/16RLjGlqEYkevOACddlhRz) | [DJ Skizo](https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ), [OTR](https://open.spotify.com/artist/3e9zciikkF3nhGLhao1f6q) | [Una bomba](https://open.spotify.com/album/7yebqxSkRswWb9HGNsI47s) | 2:21 | 2024-10-10 | 2024-10-18 |
 | [Una brutta persona](https://open.spotify.com/track/7hAdbW8koOAlpeE7PoCVRN) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [Una brutta persona](https://open.spotify.com/album/5fOt9tsQGw5q1VSIRcLupX) | 2:43 | 2024-12-12 | 2025-01-03 |
 | [UNA CAN](https://open.spotify.com/track/7iGJ3ajScp5UusRzy4bNLg) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [UNA CAN](https://open.spotify.com/album/6hkpooX6NXqRigNHzQuKVD) | 2:41 | 2025-07-24 | 2025-09-05 |

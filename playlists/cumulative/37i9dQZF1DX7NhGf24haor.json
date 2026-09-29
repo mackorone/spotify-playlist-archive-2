@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Weekly new Hardstyle releases! Cover: Ran-D",
+  "description": "Weekly new Hardstyle releases! Cover: LNY TNZ & Outsiders",
   "name": "Hardstyle Adrenaline! 2026",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 226500,
       "name": "'t Rode Licht",
       "url": "https://open.spotify.com/track/1smt0Kq50SmeKRVQCLzXi0"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 202838,
       "name": "4 THE SCENE",
       "url": "https://open.spotify.com/track/2Tbz9ZMUoqh6iCHafGYfV4"
@@ -954,6 +954,28 @@
       "duration_ms": 230781,
       "name": "AI",
       "url": "https://open.spotify.com/track/3URzoaqWmyEHokARgdIz86"
+    },
+    {
+      "album": {
+        "name": "AI",
+        "url": "https://open.spotify.com/album/42q6iwT2zBptre8WEXYRVN"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Noiseflow",
+          "url": "https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129878,
+      "name": "AI",
+      "url": "https://open.spotify.com/track/20bV3oMGgHcQKWNtYQWxk1"
     },
     {
       "album": {
@@ -3057,6 +3079,36 @@
     },
     {
       "album": {
+        "name": "Bankje In Hel",
+        "url": "https://open.spotify.com/album/5D2ldCicoTbY2XelER8qyt"
+      },
+      "artists": [
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        },
+        {
+          "name": "Matarr",
+          "url": "https://open.spotify.com/artist/73objEnuVYK9Kr3e3f6ciZ"
+        },
+        {
+          "name": "Skaffa",
+          "url": "https://open.spotify.com/artist/24RkW6OmQCTvgvwZM89nMG"
+        },
+        {
+          "name": "Scheme 015",
+          "url": "https://open.spotify.com/artist/4vl7wsAxJbQqcSfBmwr6of"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Bankje In Hel",
+      "url": "https://open.spotify.com/track/72EI351AqTCy1t0ax9HT1g"
+    },
+    {
+      "album": {
         "name": "Bass Boom",
         "url": "https://open.spotify.com/album/5AGP901dBVxYpgD47rZKhb"
       },
@@ -4214,7 +4266,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 134842,
       "name": "Bingo!",
       "url": "https://open.spotify.com/track/092yu17bxx9xHGja2r2nQE"
@@ -5834,6 +5886,52 @@
       "duration_ms": 315870,
       "name": "Broken Halo",
       "url": "https://open.spotify.com/track/5sLngIxGJ5QFnYDnDzCYnT"
+    },
+    {
+      "album": {
+        "name": "Brokko Maken (ALL STARS REMIX)",
+        "url": "https://open.spotify.com/album/5LOAwCBkgskUGRlPLLMpTj"
+      },
+      "artists": [
+        {
+          "name": "Freddy Moreira",
+          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        },
+        {
+          "name": "Ruthless",
+          "url": "https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F"
+        },
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        },
+        {
+          "name": "FEESTNATION",
+          "url": "https://open.spotify.com/artist/43t5Nx8yvukjytkhWqnEPm"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142838,
+      "name": "Brokko Maken - ALL STARS REMIX",
+      "url": "https://open.spotify.com/track/2UjmGQwN33OvbqEgtYp8yH"
     },
     {
       "album": {
@@ -8301,6 +8399,28 @@
     },
     {
       "album": {
+        "name": "CULT",
+        "url": "https://open.spotify.com/album/03m7IkqKZTPNA1H3ioIxQB"
+      },
+      "artists": [
+        {
+          "name": "DEEZL",
+          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
+        },
+        {
+          "name": "DIKKE BAAP",
+          "url": "https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150207,
+      "name": "CULT",
+      "url": "https://open.spotify.com/track/5kYTbLuiJ0frgDmT0Jk37f"
+    },
+    {
+      "album": {
         "name": "Curiosity",
         "url": "https://open.spotify.com/album/1yohIQJLbzygbSN43UyHCJ"
       },
@@ -8728,7 +8848,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 144000,
       "name": "Danza Kuduro - Remix",
       "url": "https://open.spotify.com/track/5w9bL15LRbhKYxNwu3qFrq"
@@ -8812,7 +8932,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 197624,
       "name": "Dark Side Of The Moon",
       "url": "https://open.spotify.com/track/72GAzWAJ6lf1ILU9jPVmLD"
@@ -10649,6 +10769,28 @@
     },
     {
       "album": {
+        "name": "Dragostea din tei (The Saints Remix)",
+        "url": "https://open.spotify.com/album/1JQNqgU0dU7bVZVLzIRSnh"
+      },
+      "artists": [
+        {
+          "name": "O-Zone",
+          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
+        },
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159843,
+      "name": "Dragostea din tei (The Saints Remix)",
+      "url": "https://open.spotify.com/track/1yXWJiX8rBCN2TjMcXJHtU"
+    },
+    {
+      "album": {
         "name": "Dream On",
         "url": "https://open.spotify.com/album/78oEZ5l5cg2lEhvaNtuzrb"
       },
@@ -10722,7 +10864,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 142511,
       "name": "DREAMING",
       "url": "https://open.spotify.com/track/2sUSlOq9WSB6hyt7Qi3teU"
@@ -16211,6 +16353,24 @@
     },
     {
       "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/3PLTbnVgtqvMUKRFIJkyKM"
+      },
+      "artists": [
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "HALO",
+      "url": "https://open.spotify.com/track/6vKk3VOUg8GiTV8qaVz5BH"
+    },
+    {
+      "album": {
         "name": "Hammertime",
         "url": "https://open.spotify.com/album/1TUd6ubxSOTE8etAejyRkK"
       },
@@ -17372,7 +17532,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 176412,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0FXiuUV4fBRcynBZPEs0GZ"
@@ -22214,6 +22374,28 @@
     {
       "album": {
         "name": "Let Go",
+        "url": "https://open.spotify.com/album/1xij8tPUMBV3GMgMsw7xm8"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "Shadow Legacy",
+          "url": "https://open.spotify.com/artist/43KI3dStl8f4EJyETnKfiX"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182028,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/2h9Rzot4NdOVhfIqLH9vFk"
+    },
+    {
+      "album": {
+        "name": "Let Go",
         "url": "https://open.spotify.com/album/4GgXak6TYk4IMUTFq7dZD3"
       },
       "artists": [
@@ -23306,7 +23488,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 177324,
       "name": "Living On The Edge",
       "url": "https://open.spotify.com/track/1Cw8cSSIaq7hKzBFMAy4xV"
@@ -24372,6 +24554,28 @@
       "duration_ms": 216750,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2xaAuNpLsro6BCQroy1Hle"
+    },
+    {
+      "album": {
+        "name": "Magic Key",
+        "url": "https://open.spotify.com/album/1fRDbBtJoR11bq9UTGEML2"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Magic Key",
+      "url": "https://open.spotify.com/track/3qNzpMWBWbm3MGAL92ffNm"
     },
     {
       "album": {
@@ -25510,6 +25714,28 @@
       "duration_ms": 198468,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/1dqN4katZb8Hot1ruzrR42"
+    },
+    {
+      "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/5RVjdpETelcjMAha6hSx8n"
+      },
+      "artists": [
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        },
+        {
+          "name": "Level One",
+          "url": "https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118500,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/1FJY4dOtu0iQzbgZVMMJ5u"
     },
     {
       "album": {
@@ -33286,7 +33512,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 163500,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/1MSpj7AjU2hxAYBtzf36Mf"
@@ -34927,6 +35153,28 @@
     },
     {
       "album": {
+        "name": "See The Sun Again",
+        "url": "https://open.spotify.com/album/2cierKpsRrkba5D7zX1GC9"
+      },
+      "artists": [
+        {
+          "name": "D-Charged",
+          "url": "https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy"
+        },
+        {
+          "name": "Serzo",
+          "url": "https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151483,
+      "name": "See The Sun Again",
+      "url": "https://open.spotify.com/track/4Ien50nYnXSXdmTnPN4kuq"
+    },
+    {
+      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/75NHhqvk0Q2CO9jK6snNKZ"
       },
@@ -35126,6 +35374,28 @@
       "duration_ms": 288398,
       "name": "Shadows in the Dark",
       "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "album": {
+        "name": "shatterproof",
+        "url": "https://open.spotify.com/album/2Y2q25QqoJt4XfjtcEiRZ8"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        },
+        {
+          "name": "\u00c6LINN",
+          "url": "https://open.spotify.com/artist/6NsKMikdjKAce0fFJ7xvkw"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213374,
+      "name": "shatterproof",
+      "url": "https://open.spotify.com/track/5Eqyo3HSYG69uKG5kl9Xba"
     },
     {
       "album": {
@@ -38887,6 +39157,24 @@
     },
     {
       "album": {
+        "name": "IMPERIUM I",
+        "url": "https://open.spotify.com/album/6bm1WO9itsHF2Na1VGoQMS"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130874,
+      "name": "The Behemoth",
+      "url": "https://open.spotify.com/track/5FVNt5gotrpF8fwl2XSKlI"
+    },
+    {
+      "album": {
         "name": "The Best Is Yet To Come",
         "url": "https://open.spotify.com/album/6rhGnJR4ZWk119RPuive8l"
       },
@@ -41942,7 +42230,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 192000,
       "name": "Tomorrow Can Wait",
       "url": "https://open.spotify.com/track/3rBnU7nnxpfJd4SZDqpkSX"
@@ -43901,6 +44189,24 @@
     },
     {
       "album": {
+        "name": "Violence Of Agony",
+        "url": "https://open.spotify.com/album/02SUZjXaEPwxbaksKjkXRe"
+      },
+      "artists": [
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148004,
+      "name": "Violence Of Agony",
+      "url": "https://open.spotify.com/track/4ZwHLE3thZHZeygYS77pTZ"
+    },
+    {
+      "album": {
         "name": "Virgo",
         "url": "https://open.spotify.com/album/12SDbKjYFeZTHTq5u56GWv"
       },
@@ -45436,7 +45742,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 149156,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/6yO9indH9XB6IP2YVmVskI"
@@ -45994,7 +46300,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 248525,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/4KkBmMGNe25NHTrBDN3H5w"
@@ -46424,7 +46730,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 163459,
       "name": "Wolf City Anthem",
       "url": "https://open.spotify.com/track/2mdYEQ3bt8FaYOqgduO9rF"

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdhDukKQ88Cc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdhDukKQ88Cc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdhDukKQ88Cc)
 
-### [ny rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
+### [ny dansk rap](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
 > kun det nyeste danske rap 👀  Wesmo på cover!!
 
-630 songs - 1 day 2 hr 56 min
+631 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Rødt Flag](https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Rødt Flag](https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP) | 2:27 | 2025-08-14 | 2025-09-05 |
 | [Safari](https://open.spotify.com/track/79gUiYKiISCPKBAy5YDdtD) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Safari](https://open.spotify.com/album/6TYCo7fdwrP8tnFP4PdG41) | 2:47 | 2023-09-29 | 2024-09-13 |
 | [Safebox \(feat\. Branco\)](https://open.spotify.com/track/2zu2gViGH8vMhNMuSx6n1h) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Safebox \(feat\. Branco\)](https://open.spotify.com/album/4KJnXnjIVL5d07Nd6AuQnI) | 2:05 | 2023-11-10 | 2024-01-19 |
+| [Salpeter](https://open.spotify.com/track/59RRQ93Rs9jVHsXpbPV48t) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 3:00 | 2026-09-28 |  |
 | [Samme side](https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Samme side](https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P) | 2:34 | 2024-10-03 | 2025-08-29 |
 | [SAMME VEJ \(feat\. Artigeardit & Barbara Moleko\)](https://open.spotify.com/track/18pY9lRsEigm9yDWpfp56z) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Barbara Moleko](https://open.spotify.com/artist/5G6LaA5I0P51M49dzJV5k3) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:44 | 2024-05-23 | 2025-01-10 |
 | [Savage Freestyle](https://open.spotify.com/track/32JoOp5OiMtHm2eGqoy1qc) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Savage Freestyle](https://open.spotify.com/album/49fzavGkDks5wulpLSoc50) | 2:22 | 2025-10-16 | 2025-10-31 |

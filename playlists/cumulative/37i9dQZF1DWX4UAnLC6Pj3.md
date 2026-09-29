@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Banda Clave de Oro de Christian Rojas  📸
 
-815 songs - 1 day 19 hr 8 min
+816 songs - 1 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Así Se Usa En Los Ranchos](https://open.spotify.com/track/0LP83DVouCnJ9w1j2TZN8a) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:26 | 2025-10-03 | 2026-01-24 |
 | [Atento Aviso](https://open.spotify.com/track/0l9aROuLvqSQeIpYMNlOjn) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [42 18](https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE) | 2:18 | 2025-10-03 | 2026-03-07 |
 | [Aunque me duela](https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Aunque me duela](https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9) | 3:48 | 2026-04-24 |  |
-| [Aunque Me Duela Más Que A Ti](https://open.spotify.com/track/6lKsATQEaiTY1SjRrXZcHr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Aunque Me Duela Más Que A Ti](https://open.spotify.com/album/0WUefHmDtO80pHC6KzK7ya) | 3:20 | 2026-04-24 |  |
+| [Aunque Me Duela Más Que A Ti](https://open.spotify.com/track/6lKsATQEaiTY1SjRrXZcHr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Aunque Me Duela Más Que A Ti](https://open.spotify.com/album/0WUefHmDtO80pHC6KzK7ya) | 3:20 | 2026-04-24 | 2026-09-29 |
 | [Aunque No Sea Conmigo](https://open.spotify.com/track/0giKaADapSeNCbNsQH93Ju) | [Punto Final](https://open.spotify.com/artist/4S8SyDPk41f7rfBU9IAdkA), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Aunque No Sea Conmigo](https://open.spotify.com/album/2Ebonc8h40CqHy3svWp5WA) | 3:52 | 2025-09-19 | 2026-02-14 |
 | [Aunque Tiren Hate](https://open.spotify.com/track/0HXjgTtxw4ADoeeuE76YAh) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aunque Tiren Hate](https://open.spotify.com/album/5qpJ2TpMxSZIzsGrNROo5S) | 2:57 | 2025-06-06 | 2025-11-29 |
 | [Ausencia Eterna](https://open.spotify.com/track/432N8047PMajG01RoyXHof) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Última Despedida](https://open.spotify.com/album/6saWvHCp5KIbQFgliUKT2a) | 3:13 | 2025-10-03 | 2025-11-29 |
@@ -683,6 +683,7 @@
 | [Soy El Flechas](https://open.spotify.com/track/5OFd0eV8FsFVUtkkcMUun2) | [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Soy El Flechas](https://open.spotify.com/album/6owWyJ4TVpaVuFgMKsvWhi) | 2:15 | 2022-12-03 | 2022-12-20 |
 | [Soy un Desmadre](https://open.spotify.com/track/2TD8LyMFCqStcDdGbEt0kP) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT), [Marco A\. Flores](https://open.spotify.com/artist/2aJahPuAJoLEuEqIaNCz7g) | [10+10](https://open.spotify.com/album/6kNx2FYpxe6xeUWZpxrv8f) | 2:47 | 2023-01-16 | 2025-10-04 |
 | [Soy Un Diez \(En Vivo\)](https://open.spotify.com/track/5vFw8anqt5N2zf028MLw4w) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Memo Garza](https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F) | [Soy Un Diez \(En Vivo\)](https://open.spotify.com/album/3vTDU2kFIbXmUlEXLrFs4C) | 3:04 | 2024-03-22 | 2024-04-10 |
+| [Soy Un Joven](https://open.spotify.com/track/2FlYT9gGYsfeRp3x6R1sdn) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [The Gemeliza](https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM) | 2:36 | 2026-09-28 |  |
 | [Soñé](https://open.spotify.com/track/33HYZlzEZwp9KOMt9DY7xF) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [10 de 10](https://open.spotify.com/album/2vAqdOjwEwZvOMAr7rEaMr) | 2:44 | 2026-08-28 |  |
 | [Suena la Banda en Mi Rancho](https://open.spotify.com/track/3BOcfKoCKzyMJ8sD5eecwV) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [La Gran Fiesta](https://open.spotify.com/album/3xveWUSzfgeKaTg6qUBNwq) | 2:47 | 2022-07-01 | 2022-07-06 |
 | [Sueños de Niño \(En Vivo\)](https://open.spotify.com/track/0ZFUm0cdR8IRqmbSCizos8) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sueños de Niño \(En Vivo\)](https://open.spotify.com/album/6QeM5ysFgWsrZCnERu5hrP) | 4:09 | 2023-11-10 | 2024-02-25 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 557875,
+  "num_followers": 557924,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAABU7KV1mXNwMDo0sbpCeV9V",
+  "snapshot_id": "arhcgAAAAADK3xBC39xNZb2OEflTvKBT",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 160880,
-      "name": "Cuanto Te Debo",
-      "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 265840,
       "name": "Como Tu Mujer - Banda",
       "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 160880,
+      "name": "Cuanto Te Debo",
+      "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Mirame",
-      "url": "https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 264186,
       "name": "A Cambio de Qu\u00e9 - Banda",
       "url": "https://open.spotify.com/track/0KJukOSRpRffsmjG3KB9L7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Mirame",
+      "url": "https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 218280,
-      "name": "Ahora Que Estuviste Lejos",
-      "url": "https://open.spotify.com/track/0mVNDYnQh9Dcdl3M2fRts1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 242226,
       "name": "A Que No Le Cuentas - Banda",
       "url": "https://open.spotify.com/track/6JcN0pwRcegqH1hyZcID15"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 218280,
+      "name": "Ahora Que Estuviste Lejos",
+      "url": "https://open.spotify.com/track/0mVNDYnQh9Dcdl3M2fRts1"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
+        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
+      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
-        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 211812,
-      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
-      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paloma Negra Desde Monterrey (En Vivo)",
         "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Dama Divina",
-      "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Prestadas - Pop",
         "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 233666,
       "name": "Que Ganas de No Verte Nunca M\u00e1s - Pop",
       "url": "https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Dama Divina",
+      "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
     },
     {
       "added_at": null,

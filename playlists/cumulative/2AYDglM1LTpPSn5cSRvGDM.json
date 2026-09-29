@@ -2201,6 +2201,32 @@
     },
     {
       "album": {
+        "name": "Higher (Dosem Remix)",
+        "url": "https://open.spotify.com/album/4oWfPfA20vYj4kmMUMsyOH"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        },
+        {
+          "name": "Boxer",
+          "url": "https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG"
+        },
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Higher - Dosem Remix",
+      "url": "https://open.spotify.com/track/0vNmFDDzRgH2xqs3FIo7bL"
+    },
+    {
+      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/0ZmQD2h7DSwmupbdDYtL5F"
       },

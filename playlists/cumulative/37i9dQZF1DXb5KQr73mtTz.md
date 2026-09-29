@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-372 songs - 1 day 0 hr 11 min
+373 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [After you've gone](https://open.spotify.com/track/356KuJjaeDOD8MONvyAOmf) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [After you've gone](https://open.spotify.com/album/5dzMwq0NIBg9uMMf7dPbiB) | 4:15 | 2026-03-09 | 2026-04-02 |
 | [After You’ve Gone](https://open.spotify.com/track/6MbO4CpHNgsdV4dn2cGKWp) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:06 | 2022-05-11 | 2022-06-10 |
 | [Afterday](https://open.spotify.com/track/6aT44vgnCJrapfNN2dRqXr) | [Kim Chang Woon](https://open.spotify.com/artist/3uauh8hXi1kqIOsCS9n3Cy) | [Afterday](https://open.spotify.com/album/5ZUiGYOQ7iiI7job7v7T4S) | 3:49 | 2025-09-02 | 2025-09-17 |
+| [Afterlove](https://open.spotify.com/track/3hLUt6kR5zQel3G7KGgf52) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [Afterlove \(後愛\)](https://open.spotify.com/album/2s7wYj2uqeaOH6XRZQHGZv) | 3:26 | 2026-09-22 |  |
 | [Again, goodbye](https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Again, goodbye \(YAOKI Project part.2\)](https://open.spotify.com/album/2GcLzQ6EGtG6ssDLR3UbUZ) | 4:21 | 2023-02-25 | 2023-03-29 |
 | [Agony](https://open.spotify.com/track/4kFgtNqcmwoQmFEwiv6f1C) | [Kang min jeong](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [Agony](https://open.spotify.com/album/50dC1dEnN1tRIHRqniF6vV) | 3:58 | 2024-03-20 | 2024-05-12 |
 | [alarm](https://open.spotify.com/track/3rLJg6e2JKJBaQL1LTBHJO) | [saeneok](https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL) | [tinge](https://open.spotify.com/album/6PzWM3WP8bBlBlY1a90vjT) | 6:12 | 2022-07-08 | 2022-07-10 |
@@ -282,7 +283,7 @@
 | [Someday](https://open.spotify.com/track/37ftzk7n72Ptu9GCaGJvjV) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/3X76n6xJw1e18AUp96SFa2) | 4:18 | 2022-05-11 | 2022-07-21 |
 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2024-02-21 | 2025-07-07 |
 | [Something Like That](https://open.spotify.com/track/4hS3Ojb0MQUcLbud06tclD) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Something Like That](https://open.spotify.com/album/2De8ePlJ94yLK21qEIAmRg) | 4:19 | 2022-06-13 | 2022-06-28 |
-| [Sorrow at my door\(Prod\. ROCOBERRY\)](https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [슬픔이 찾아와서 그래 \(Sorrow at my door\)](https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe) | 3:22 | 2025-09-30 |  |
+| [Sorrow at my door\(Prod\. ROCOBERRY\)](https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [슬픔이 찾아와서 그래 \(Sorrow at my door\)](https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe) | 3:22 | 2025-09-30 | 2026-09-29 |
 | [Sorry for Crying](https://open.spotify.com/track/7G82cGh3BQKnuPOLPHfUDl) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Sorry for Crying](https://open.spotify.com/album/2EZd8xV8l8F9ZEoAnE7sW2) | 3:57 | 2026-02-09 | 2026-04-23 |
 | [Spring days pass](https://open.spotify.com/track/1WACArKm987xYhEAiuetlx) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Jeongnyeon: The Star is Born, Pt\. 3 : Spring days pass \(Original Soundtrack\)](https://open.spotify.com/album/1X1rFF1LiVPkEQBv97ziIp) | 3:21 | 2024-10-27 | 2025-08-12 |
 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 | 2023-10-16 |  |

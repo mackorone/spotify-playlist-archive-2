@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,874 songs - 10 day 23 hr 55 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,897 songs - 11 day 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4882,5 +4882,28 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4872 | [Opętana Panna Mloda](https://open.spotify.com/track/2Go9lN6LKJN2OTro5TiNHY) | [mlodyb42](https://open.spotify.com/artist/7tHt2d0dNLk2u8LYz4aBC1) | [Opętana Panna Mloda](https://open.spotify.com/album/5smACvqf6KheDXlHCLuz1N) | 1:43 |
 | 4873 | [Oxygen](https://open.spotify.com/track/14QISLgJs7nlmR8rRybQCo) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Oxygen](https://open.spotify.com/album/6s4OCKSVdEgYMB4bPzslGZ) | 3:15 |
 | 4874 | [Sun Looker](https://open.spotify.com/track/1qhLwCKet77tmlZSJ3FUhP) | [Internal Triggers](https://open.spotify.com/artist/7jd9FYfxjOgbIC55x0OdYM) | [Sun Looker](https://open.spotify.com/album/7LM6Et5r0tOaiCZTxMrmX8) | 2:36 |
+| 4875 | [Disegnava Arcobaleni](https://open.spotify.com/track/35efzp9wWvCjArk0sbGsxL) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [Prima Del Silenzio](https://open.spotify.com/album/3s0YpFC73hgvh05ON0ZVqL) | 4:34 |
+| 4876 | [Alexandra](https://open.spotify.com/track/2k7FXrdBCzsQ6mCQeKTTN7) | [NOCHE AMARGA](https://open.spotify.com/artist/0SrHtm5FL5abUReLmY9bOB), [Strok](https://open.spotify.com/artist/4kHebdAIRTlymJSuNvxd9Y) | [Alexandra](https://open.spotify.com/album/7dxOeqvpikd3AOFr9AlfiR) | 1:59 |
+| 4877 | [Canvas](https://open.spotify.com/track/59QbbzBCBRtvKLCxz9wNx5) | [Gregory Naufal](https://open.spotify.com/artist/2Jppb0WrwmGhWEk63dkvFN) | [Canvas](https://open.spotify.com/album/6x1Rvyw8M6JXiMUX0STy6O) | 3:53 |
+| 4878 | [Lo Que Se Dio](https://open.spotify.com/track/1IHzhxbj9dI7IrBTn4Vmdu) | [Viesca](https://open.spotify.com/artist/0fVvfPejqY3nVwxiYDsN0f) | [Lo Que Se Dio](https://open.spotify.com/album/2kpYeJBdjO06Fy2QPhBrO2) | 3:36 |
+| 4879 | [Alone](https://open.spotify.com/track/78wsPKvyvECH7pFG7AThTl) | [Kaytwoo](https://open.spotify.com/artist/5RB264mXWER0BvR0oIVi1D) | [Alone](https://open.spotify.com/album/4TDsFpvDcMdC0jDa6Fo9eO) | 3:12 |
+| 4880 | [Lost My Baby](https://open.spotify.com/track/6QReB13YaRFRIKOlrUfytV) | [Moriel Sparks](https://open.spotify.com/artist/7w1JtNXeUp8mZrA0CvpO3N) | [Lost My Baby](https://open.spotify.com/album/13yvf3OzqgMFmoLNEVCrSH) | 2:53 |
+| 4881 | [let me go](https://open.spotify.com/track/4c2x6SuZiLrJrjEJ4CgNaK) | [Jilon](https://open.spotify.com/artist/0rOB5CmsbAyJa46xty6taM) | [SHOCKED](https://open.spotify.com/album/3kCJuru15qWICnIe32vhbp) | 2:34 |
+| 4882 | [Evidente](https://open.spotify.com/track/5oC2aCI5y2NJjFKcVLcdMu) | [JS Rocks](https://open.spotify.com/artist/1LqRbqqpppCyiKSKSqIKfh) | [Evidente](https://open.spotify.com/album/1X4TxOcl9K4lWjUb2qFG4n) | 3:26 |
+| 4883 | [Before the Black](https://open.spotify.com/track/7lpUInFkKu3BRsVMzGdlgr) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [Burn the Old Maps](https://open.spotify.com/album/35lLFz2j0l58DX6CfcuTth) | 3:23 |
+| 4884 | [Sen Yeter Ki İste \- Akustik](https://open.spotify.com/track/5Rp3GgaOZgYcSHf8PcARoD) | [Ozan Uyan](https://open.spotify.com/artist/1jN6S75KOloD9lfXwTGKaq) | [Akustik Evren & Bakır Teller \(Akustik\)](https://open.spotify.com/album/7es6xaf57hbCZDcqTP73YX) | 3:54 |
+| 4885 | [Old Haunts](https://open.spotify.com/track/3ZxqKhYFQSEcvvQLchPkMq) | [Ocean Ghost](https://open.spotify.com/artist/5Mee5JriGvepcYOfvE3ECw), [Dust VVitch](https://open.spotify.com/artist/2NX03ROTcSlFJOwhdSjFqk) | [Old Haunts](https://open.spotify.com/album/5dQ11QZ6YRfSmZvtAFfZtP) | 3:32 |
+| 4886 | [take my hand](https://open.spotify.com/track/2zsQqDSblpdlzvbspgm9MK) | [Michael B Kowal](https://open.spotify.com/artist/1A8NrYmZH1Jl7lwAr7ERgN) | [songs found lying around](https://open.spotify.com/album/6oAJJqkLNjwxZDalstNNfe) | 4:28 |
+| 4887 | [no clue](https://open.spotify.com/track/2TFAEUpum2zEqWN06rBCV3) | [Meemo](https://open.spotify.com/artist/2kkQaYK9gsN4HuEZ5My48r), [Reis Armstrong](https://open.spotify.com/artist/3lfKcU0YQFeY4qqp1tszj2) | [postcards I never sent](https://open.spotify.com/album/4T63A2L6uxZf30WMBQWnyf) | 2:43 |
+| 4888 | [Only a few remain](https://open.spotify.com/track/2ygTkDqR1n5bhbK2hs6xgl) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Only a few remain](https://open.spotify.com/album/1Z6BIS88bFokaw9Vztw1Ls) | 5:29 |
+| 4889 | [Hearts Drawn on the Wall](https://open.spotify.com/track/5I2M1NQkTc0QCMnX0itsSw) | [The Days of Tomorrow](https://open.spotify.com/artist/0BiqPB2TnR0v6c8Y3774us) | [Hearts Drawn on the Wall](https://open.spotify.com/album/26GgvvzBHHuNoVAWtjJ4UM) | 2:48 |
+| 4890 | [Dove Song](https://open.spotify.com/track/57w4DaZ5VSU6z0F33FYge8) | [Elliott Morsia](https://open.spotify.com/artist/7eI8mxv7eY6Q6yl9eEbrJG) | [Dove Song](https://open.spotify.com/album/1rxxdah5cKdira2yu0sV07) | 2:25 |
+| 4891 | [Fiesta de despedida](https://open.spotify.com/track/6KXpiR9rGsqFS1Vhes7E7Q) | [José Alfredo](https://open.spotify.com/artist/3tb5EHytI4jfW3Wgnlwqov) | [Fiesta de despedida](https://open.spotify.com/album/3lYdEvcJN1LCN4QvYGIioo) | 3:17 |
+| 4892 | [A Place for Hope to Go](https://open.spotify.com/track/20Pr9fAam2fZU2gCica22B) | [Grace Elizabeth](https://open.spotify.com/artist/5oYXVbKA5hqhRSjQFcaEsy) | [A Place for Hope to Go](https://open.spotify.com/album/3nUrKcvqAHOMhhN6CcHCPI) | 2:58 |
+| 4893 | [Camminando controvento](https://open.spotify.com/track/3TW6224PEahNhTKTUpJXrE) | [Alessandro Cappello](https://open.spotify.com/artist/0N7CCKDZKMVFCC7pVohoup) | [Camminando controvento](https://open.spotify.com/album/4isqAUB1uqAC39FEWlsEch) | 4:27 |
+| 4894 | [Life Goes On](https://open.spotify.com/track/0szGGovWjmEG1k3ZwdqTWw) | [S1J](https://open.spotify.com/artist/6GcGggHeS1LlSundBrW3AG), [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [Your Favorite Sins](https://open.spotify.com/album/48fMy4uGhbknKMnVlBp7HU) | 1:52 |
+| 4895 | [Southbound](https://open.spotify.com/track/6Ac7X25NLo7bg8mdlUn8WT) | [Kentuckiana](https://open.spotify.com/artist/6pPeXJZ7zKycg4GlnPtF0i) | [Southbound](https://open.spotify.com/album/5hmcXmnYMNViUefPVcefOd) | 3:19 |
+| 4896 | [All Night](https://open.spotify.com/track/4dMtahHDbfpWkQCzj4tFOd) | [Indiana Jim](https://open.spotify.com/artist/2QE57sqgXg61PmxVAnBma8), [Indiana Jim & The Lost Boys](https://open.spotify.com/artist/7bYDgiqZnA6kbzbgjubQqV) | [All Night](https://open.spotify.com/album/47eiBBKSyVcLcndZvOqRLo) | 5:05 |
+| 4897 | [Amber Sail](https://open.spotify.com/track/0oaNHpzA7j9AhgGhjXzRiF) | [Becker](https://open.spotify.com/artist/1JBAK5V2WNlY6lFqztPcbh) | [Amber Sail](https://open.spotify.com/album/3RJgZqNXpXOLBlC2bP0FE3) | 3:55 |
 
-Snapshot ID: `AAAKNCBYVAj97BB8AipQ9vb/q6dO7ag7`
+Snapshot ID: `AAAKTDQXO+CHH258AeVvKUr01SXw/j75`

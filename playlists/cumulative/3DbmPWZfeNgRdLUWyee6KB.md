@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,537 songs - 3 day 17 hr 27 min
+1,540 songs - 3 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Beautiful Baby](https://open.spotify.com/track/7pni0f9P5XEJ6YVf7yg3uY) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Hodges, James & Smith](https://open.spotify.com/artist/6g6hZbf2pP8nHZAhPpsvA3) | [EZ Listens Songs Library](https://open.spotify.com/album/0LkQNSpF0OeXwxEdCXrwVw) | 3:57 | 2026-04-17 | 2026-05-14 |
 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 | 2026-01-27 | 2026-02-28 |
 | [Bed Made of Roses](https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Welcome to the Devil's Room](https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5) | 2:20 | 2026-05-08 | 2026-06-05 |
+| [Been In Love](https://open.spotify.com/track/1nta8KgqJ6YwCzFa20GVvf) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Americana On A Lagos Blue Rock](https://open.spotify.com/album/008Zi78Bpbq2bZvISxuLqw) | 3:11 | 2026-09-28 |  |
 | [BEFORE I CAN TELL](https://open.spotify.com/track/6iJlyDMdotLGenjBZKutpT) | [Vinicio Simonetti](https://open.spotify.com/artist/457CGCR3k3hCBcMPkrYm8D) | [BEFORE I CAN TELL](https://open.spotify.com/album/1xGCLvUXuxrlY6V7ZYLvwX) | 4:25 | 2026-03-02 | 2026-04-12 |
 | [Before You Go \- Cover](https://open.spotify.com/track/77LJibXZjnlnAlPkJWyE9o) | [Naham Nakrour](https://open.spotify.com/artist/4Y6NGFNQxsNe5RcN37DNfs) | [Before You Go \(Cover\)](https://open.spotify.com/album/3v1kIPgLbTTLN5wykaAzh3) | 2:26 | 2026-03-13 | 2026-04-12 |
 | [Believe In Me](https://open.spotify.com/track/7bodTY1G8StQjTkU2XN2t3) | [NorLights](https://open.spotify.com/artist/4J2UmzAldNPzDFI2DYTzoh) | [Believe In Me](https://open.spotify.com/album/351d6SVC9Pq4MrIDEWFvIQ) | 3:04 | 2026-08-12 | 2026-09-17 |
@@ -153,6 +154,7 @@
 | [Billy](https://open.spotify.com/track/2pGyzMb2ENCEH257upARen) | [Remco Tuns](https://open.spotify.com/artist/3p5MUwzf3k2Ri9Q04kWnRF) | [Billy](https://open.spotify.com/album/20QNNrxu8miLy6jXVWlacZ) | 3:52 | 2025-09-29 | 2025-11-29 |
 | [Birks' Works \- Live](https://open.spotify.com/track/1lqaCnp4Saohx86bQqgv8V) | [Manosanta Hard Soul](https://open.spotify.com/artist/6B2s5HVELOBD4IIzqjbuGb), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su) | [Birks' Works \(Live\)](https://open.spotify.com/album/2w9JYj9UTZVUFuYDFeRNDl) | 4:51 | 2023-05-25 | 2025-11-29 |
 | [Biting Nails](https://open.spotify.com/track/4xzrSXj0pAhRoqRFQNLFHT) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Biting Nails](https://open.spotify.com/album/3SheatGGao2NNE7l5L4Jvi) | 1:56 | 2025-12-09 | 2026-01-05 |
+| [Black Duck](https://open.spotify.com/track/1sSGmU5AbwLiedZB6SOvEw) | [Vegas No.8](https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf) | [Black Duck](https://open.spotify.com/album/6QTZAIUYHkbRzqnTTR75tr) | 3:44 | 2026-09-28 |  |
 | [Black Widow](https://open.spotify.com/track/5bRrgKXYXx0XL6wbNnbBiJ) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Haunted House](https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2) | 3:58 | 2025-12-22 | 2026-01-24 |
 | [Blanket of Stars](https://open.spotify.com/track/6HBsIshyys6vD7vf0Pm1Ut) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Lemonade](https://open.spotify.com/album/7jmbQmCv3wMaqwLNkjQXw4) | 2:55 | 2026-07-07 | 2026-08-10 |
 | [Blind Spots](https://open.spotify.com/track/36bHS8wNHBoj3EcBFNQqHr) | [Burton Badman](https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm) | [Crazy Chemistry](https://open.spotify.com/album/0J23Fv2L7xHyQ8TyKJamHc) | 4:46 | 2026-04-27 | 2026-06-05 |
@@ -1444,6 +1446,7 @@
 | [Walking with No Destination](https://open.spotify.com/track/5vY5K9qcv51njLiRQzV3Ed) | [Gamina Chad](https://open.spotify.com/artist/45ynquiP8pzBnzr1kxB3tm) | [Walking with No Destination](https://open.spotify.com/album/7qyYDOpHdjovobeBzwmAut) | 3:05 | 2026-06-02 | 2026-07-03 |
 | [Wanderer](https://open.spotify.com/track/1sYRAVrtrjfcIcjyLfK9FM) | [Kaspar Bakken](https://open.spotify.com/artist/73aB9IUwHBom7J4GdONOky), [Bjun](https://open.spotify.com/artist/0iR66PzQEU9JFsnGycCwze) | [Wanderer](https://open.spotify.com/album/6aUjkpLUrywakIVkMtVnDI) | 2:48 | 2026-07-01 | 2026-08-10 |
 | [Want Me Back](https://open.spotify.com/track/7ExJgUlNREs38GpnHdZ1TW) | [Austin Carr](https://open.spotify.com/artist/7wbw9KslI7YzqujQRkxDrB) | [Want Me Back](https://open.spotify.com/album/3sRGNn9dyvxkryQuX0qiCx) | 3:39 | 2026-04-25 | 2026-06-05 |
+| [wasn't sure why \- demo](https://open.spotify.com/track/0ZniB7IHEuKlNjbVaZjLBg) | [RINNIE](https://open.spotify.com/artist/2d6vYkXPElcFB8XVtt1eI3) | [unforeseen \(live demo EP\)](https://open.spotify.com/album/1sFI8YCtrMhXMTTQqybUjR) | 4:07 | 2026-09-28 |  |
 | [Wasted](https://open.spotify.com/track/0TiJ38Y29vd3RiOFzjUM44) | [Church of Elder](https://open.spotify.com/artist/6k5TPRqgd3Hvi0to5s05gQ) | [Wasted](https://open.spotify.com/album/1DD2XZIV8cYiMhF1rMbyC9) | 3:52 | 2026-04-06 | 2026-05-03 |
 | [Wasted](https://open.spotify.com/track/7bMFnhweGI4LXrdeqgPQHX) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Wasted](https://open.spotify.com/album/5lMCclH2lhpNpLABYIsNnK) | 3:42 | 2026-05-26 | 2026-07-03 |
 | [Way Down in the Hole](https://open.spotify.com/track/3Gy312YZVCRt5WBLcY5pnS) | [VKB Band](https://open.spotify.com/artist/4z5Gn36zfWAKYW3jut0Pop) | [Way Down in the Hole](https://open.spotify.com/album/1AZQBllm4mi3dLzLpSzxkt) | 3:53 | 2026-02-17 | 2026-03-25 |

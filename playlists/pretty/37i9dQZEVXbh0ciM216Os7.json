@@ -63,6 +63,22 @@
     {
       "added_at": "2026-09-25 04:00:00",
       "album": {
+        "name": "Hunger of the Beast",
+        "url": "https://open.spotify.com/album/2fUzMIDZnpHGFH8DlzvLSe"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 366683,
+      "name": "Hunger of the Beast",
+      "url": "https://open.spotify.com/track/1l4yG2jjnzg6XpwVKlp0R8"
+    },
+    {
+      "added_at": "2026-09-25 04:00:00",
+      "album": {
         "name": "Loser (Fcukers Remix)",
         "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 267616,
       "name": "Loser (Fcukers Remix)",
       "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Hunger of the Beast",
-        "url": "https://open.spotify.com/album/2fUzMIDZnpHGFH8DlzvLSe"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 366683,
-      "name": "Hunger of the Beast",
-      "url": "https://open.spotify.com/track/1l4yG2jjnzg6XpwVKlp0R8"
     },
     {
       "added_at": "2026-09-25 04:00:00",
@@ -186,6 +186,10 @@
         {
           "name": "Kalandra",
           "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        },
+        {
+          "name": "CONTROL Resonant",
+          "url": "https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l"
         }
       ],
       "duration_ms": 249784,
@@ -367,22 +371,6 @@
     {
       "added_at": "2026-09-25 04:00:00",
       "album": {
-        "name": "Merriweather 6/30/85 (Live)",
-        "url": "https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 277933,
-      "name": "Keep On Growing - Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985",
-      "url": "https://open.spotify.com/track/6gVXbdpPlzU6VMcH3Wbi7a"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
         "name": "Compassion",
         "url": "https://open.spotify.com/album/655tfMuWbx5lzrx6gLxUQZ"
       },
@@ -411,6 +399,22 @@
     {
       "added_at": "2026-09-25 04:00:00",
       "album": {
+        "name": "Merriweather 6/30/85 (Live)",
+        "url": "https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 277933,
+      "name": "Keep On Growing - Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985",
+      "url": "https://open.spotify.com/track/6gVXbdpPlzU6VMcH3Wbi7a"
+    },
+    {
+      "added_at": "2026-09-25 04:00:00",
+      "album": {
         "name": "Bread & Butter",
         "url": "https://open.spotify.com/album/0jy3e8oZyves4NtI8Hr5tc"
       },
@@ -435,30 +439,6 @@
     {
       "added_at": "2026-09-25 04:00:00",
       "album": {
-        "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
-        "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        },
-        {
-          "name": "Khadija Al Hanafi",
-          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
-        }
-      ],
-      "duration_ms": 160360,
-      "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
-      "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
         "name": "Breath Meditation",
         "url": "https://open.spotify.com/album/4c9nynidRc29EB5X9zsOwD"
       },
@@ -479,6 +459,30 @@
       "duration_ms": 803994,
       "name": "Breath Meditation",
       "url": "https://open.spotify.com/track/6bYTPxDT8DT9zVfccG0B2d"
+    },
+    {
+      "added_at": "2026-09-25 04:00:00",
+      "album": {
+        "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+        "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "duration_ms": 160360,
+      "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+      "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
     },
     {
       "added_at": "2026-09-25 04:00:00",
@@ -511,6 +515,26 @@
       "duration_ms": 263727,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY"
+    },
+    {
+      "added_at": "2026-09-25 04:00:00",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/6CEgNom7Vnf68GFeb87XBa"
+      },
+      "artists": [
+        {
+          "name": "Aron",
+          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Movements",
+      "url": "https://open.spotify.com/track/4KaZ8RtH1wGQdrB87D2wVK"
     },
     {
       "added_at": "2026-09-25 04:00:00",
@@ -559,22 +583,22 @@
     {
       "added_at": "2026-09-25 04:00:00",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/6CEgNom7Vnf68GFeb87XBa"
+        "name": "Same Old Blues (feat. Jessi Colter)",
+        "url": "https://open.spotify.com/album/2dlfP92ddutgTLL2EulfXl"
       },
       "artists": [
         {
-          "name": "Aron",
-          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
         },
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Movements",
-      "url": "https://open.spotify.com/track/4KaZ8RtH1wGQdrB87D2wVK"
+      "duration_ms": 158899,
+      "name": "Same Old Blues (feat. Jessi Colter)",
+      "url": "https://open.spotify.com/track/3Ms0Rpg8ou8CnKJ0NMhAXA"
     },
     {
       "added_at": "2026-09-25 04:00:00",
@@ -595,26 +619,6 @@
       "duration_ms": 266322,
       "name": "Grab Your Popcorn - Remix",
       "url": "https://open.spotify.com/track/0OAAa34zkFVK7bcu0Zr471"
-    },
-    {
-      "added_at": "2026-09-25 04:00:00",
-      "album": {
-        "name": "Same Old Blues (feat. Jessi Colter)",
-        "url": "https://open.spotify.com/album/2dlfP92ddutgTLL2EulfXl"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
-        }
-      ],
-      "duration_ms": 158899,
-      "name": "Same Old Blues (feat. Jessi Colter)",
-      "url": "https://open.spotify.com/track/3Ms0Rpg8ou8CnKJ0NMhAXA"
     },
     {
       "added_at": "2026-09-25 04:00:00",

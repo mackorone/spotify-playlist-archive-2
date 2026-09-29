@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 482133,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/5YaEzMErUkFhkvYRLqFj7c"
@@ -294,6 +294,28 @@
       "duration_ms": 659520,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7"
+    },
+    {
+      "album": {
+        "name": "Dedicated To You",
+        "url": "https://open.spotify.com/album/6F2N7JA2Dnbkg9zjVVGqd1"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+        },
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406554,
+      "name": "Autumn Serenade",
+      "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
     },
     {
       "album": {
@@ -798,7 +820,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 293973,
       "name": "Chicago Blues",
       "url": "https://open.spotify.com/track/03GB3BpOhd8PiIug8UKQQy"
@@ -974,7 +996,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 276680,
       "name": "C\u00e9zanne",
       "url": "https://open.spotify.com/track/43tFlVF8B9S04520bgAjtJ"
@@ -1471,6 +1493,36 @@
     },
     {
       "album": {
+        "name": "Grand Street",
+        "url": "https://open.spotify.com/album/6TIjvKJlXCo4mJUYJRUdJV"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224868,
+      "name": "Grand Street",
+      "url": "https://open.spotify.com/track/2NxHjUNJbp9udozC5zCUxy"
+    },
+    {
+      "album": {
         "name": "Bing! Bing! Bing!",
         "url": "https://open.spotify.com/album/60SBajnbT4gWbD2q8SWKbT"
       },
@@ -1736,7 +1788,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 267880,
       "name": "Infant Eyes",
       "url": "https://open.spotify.com/track/45hxUyJyJHO7rucki6bxGD"
@@ -2026,7 +2078,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 418960,
       "name": "Maiden Voyage",
       "url": "https://open.spotify.com/track/7r1EOboFCZVUCPB6Cz42q9"
@@ -2102,6 +2154,36 @@
       "duration_ms": 376333,
       "name": "March On Selma - Remastered 2005/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5"
+    },
+    {
+      "album": {
+        "name": "Memory Bomb",
+        "url": "https://open.spotify.com/album/4LyevrLzvyquVTex1GSjuB"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        },
+        {
+          "name": "Flanafi",
+          "url": "https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d"
+        },
+        {
+          "name": "Shibo",
+          "url": "https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230645,
+      "name": "Memory Bomb (feat. Walter Smith III, Flanafi, Shibo)",
+      "url": "https://open.spotify.com/track/5TC6UlT7pOAQmVpTJ9gmvQ"
     },
     {
       "album": {
@@ -2210,7 +2292,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 246866,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/1DFS3kMi6x9AmllIP764Uq"
@@ -2650,6 +2732,28 @@
       "duration_ms": 260266,
       "name": "Queen Of The South",
       "url": "https://open.spotify.com/track/7lOwjT4RAvA8DQAnt0uIUH"
+    },
+    {
+      "album": {
+        "name": "Diavola",
+        "url": "https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        },
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272240,
+      "name": "Raindrops Keep Falling On My Head",
+      "url": "https://open.spotify.com/track/2wf3Pnl5dzZVEwazL9MmHR"
     },
     {
       "album": {
@@ -3537,6 +3641,24 @@
     },
     {
       "album": {
+        "name": "The Myth We Choose",
+        "url": "https://open.spotify.com/album/0MLGCKPzliFC2fEkqhihYw"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263829,
+      "name": "Unembeza",
+      "url": "https://open.spotify.com/track/2Gj9sGYWf2hzZYGNbR4q0V"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
       },
@@ -3592,7 +3714,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 370360,
       "name": "Violets For Your Furs",
       "url": "https://open.spotify.com/track/6u4eFc9qtTqJ7iArcJOlVz"

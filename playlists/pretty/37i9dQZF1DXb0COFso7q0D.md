@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > Los Gemelos De Sinaloa poniendo la Música Mexicana en alto en la playlist sin fronteras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,136,075 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,135,219 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chamba Chamba](https://open.spotify.com/track/1rZjkFYjU8FnPaki0aJ4vf) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [The Gemeliza](https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM) | 2:25 |
+| 1 | [Soy Un Joven](https://open.spotify.com/track/2FlYT9gGYsfeRp3x6R1sdn) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [The Gemeliza](https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM) | 2:36 |
 | 2 | [Ayúdame](https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Ayúdame](https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu) | 2:41 |
 | 3 | [Dandy Hats](https://open.spotify.com/track/0e3T2reBHLVK9ENgEg0WmH) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Dandy Hats](https://open.spotify.com/album/2PaQhEbysv44gT3PRJ5XRs) | 2:50 |
 | 4 | [LA CITA FRESITA 2](https://open.spotify.com/track/3OZFtuFUdr3x8klpQ0BOJJ) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [LA CITA FRESITA 2](https://open.spotify.com/album/0desTzdOKx9PIxWlAwjoJA) | 2:55 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 9 | [Mar Azul](https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Mar Azul](https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH) | 3:41 |
 | 10 | [chiclona](https://open.spotify.com/track/5Q4HTsEGKanxOwL1nYCnhQ) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [DINASTÍA \(DELUXE\)](https://open.spotify.com/album/7aTDbTfkSxsYEipu8Z4TNl) | 2:41 |
 | 11 | [DEMENCIA](https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:41 |
-| 12 | [Soy Un Joven](https://open.spotify.com/track/2FlYT9gGYsfeRp3x6R1sdn) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [The Gemeliza](https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM) | 2:36 |
+| 12 | [Chamba Chamba](https://open.spotify.com/track/1rZjkFYjU8FnPaki0aJ4vf) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [The Gemeliza](https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM) | 2:25 |
 | 13 | [La Formula](https://open.spotify.com/track/1eD8kj787e0mwwJ7bukv2g) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [La Formula](https://open.spotify.com/album/6Tu1tbDt5FXknsuXpAuyFF) | 2:38 |
 | 14 | [Muchacho Alegre](https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchacho Alegre](https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G) | 3:08 |
 | 15 | [Polvo Rosita](https://open.spotify.com/track/5ahJTs5f6GAAFOYhK3ojP8) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 59 | [ENCERRONES](https://open.spotify.com/track/5GlqjDLsp35lSbyn78WfFS) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ENCERRONES](https://open.spotify.com/album/2KWy5cA0q2x2xYI4FSlybO) | 2:23 |
 | 60 | [M&M](https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 2:46 |
 
-Snapshot ID: `AAAAAPhkE89DDFj72x9OhQ6geo4c8ED+`
+Snapshot ID: `AAAAADznSDOdxt/PsM06hGJWfzvutxVB`

@@ -4,7 +4,7 @@
 
 > 
 
-251 songs - 16 hr 55 min
+252 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [This Time Around](https://open.spotify.com/track/6gVvLl6ziEOEtZbs4XyB1g) | [KOAN Sound](https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo), [Asa](https://open.spotify.com/artist/0wkdFHwkxZXIFN7bjTLApr), [Koo](https://open.spotify.com/artist/32bN36S2HiZzGVsfxhvb4E) | [Sanctuary \- EP](https://open.spotify.com/album/0xF2DMKjHpVJCEClME7Gv4) | 7:04 | 2016-01-15 |  |
 | [Time Above The Earth](https://open.spotify.com/track/6NoPVnbN7aTBWXcZraFq8I) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Junk Of The Heart](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g) | 1:54 | 2019-08-07 |  |
 | [Time Bomb \(feat\. Veela\)](https://open.spotify.com/track/26vNIXrv6BI6l0gHHk81Hg) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Boyinaband](https://open.spotify.com/artist/7kfzadZaOgR90Tp8OYH5gM), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Monstercat 007 \- Solace](https://open.spotify.com/album/7dArkHuO5wkus2TJTu6Ytx) | 3:31 | 2016-07-14 |  |
+| [Time To Say Goodbye](https://open.spotify.com/track/5Ur5EnREGkva7tIBnhaWwC) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Time To Say Goodbye](https://open.spotify.com/album/4cInccbKirET4XTxgDiiKu) | 4:06 | 2026-09-28 |  |
 | [Timeless \(feat\. Veela\)](https://open.spotify.com/track/571MgoPW0hJtXG1C5SFh4H) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Timeless EP](https://open.spotify.com/album/1bQSMFIWID72F4LIluCnB9) | 4:23 | 2016-01-14 |  |
 | [Together](https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Together](https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg) | 3:06 | 2024-08-04 |  |
 | [Trauma](https://open.spotify.com/track/5YB7kLolhZvyzAoDr0vawF) | [Hybrid Minds feat\. Rocky Nti](https://open.spotify.com/artist/1ALltKNRptau9ez3ca8HEy), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Rocky Nti](https://open.spotify.com/artist/7vxdIF630QOTloFsFLZzgI) | [Trauma](https://open.spotify.com/album/2TMC90olEVaexRP2eZlrrj) | 5:58 | 2016-01-14 |  |

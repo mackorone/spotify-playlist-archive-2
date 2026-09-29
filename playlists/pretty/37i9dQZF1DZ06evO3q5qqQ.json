@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118526,
+  "num_followers": 118532,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAACHyPWGKYno2WPZpK4rEP5J",
+  "snapshot_id": "arhcgAAAAABRRXtuz5ze210eIHjK8PiS",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Aqui Soy",
+        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 168317,
+      "name": "De Aqui Soy",
+      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solo Por Bonita",
         "url": "https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI"
       },
@@ -635,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Aqui Soy",
-        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
         }
       ],
-      "duration_ms": 168317,
-      "name": "De Aqui Soy",
-      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
+      "duration_ms": 172466,
+      "name": "Prohibido - En vivo",
+      "url": "https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8"
     },
     {
       "added_at": null,
@@ -667,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jalando La Bandona (En Vivo)",
-        "url": "https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
-        }
-      ],
-      "duration_ms": 184343,
-      "name": "En La Cima - En vivo",
-      "url": "https://open.spotify.com/track/3u91mTsR3Wo0GxiWZGhCl8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
       },
@@ -699,26 +699,6 @@
       "duration_ms": 185973,
       "name": "El Mas Poderoso - En Vivo",
       "url": "https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Nueva Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L"
-      },
-      "artists": [
-        {
-          "name": "Somos 3",
-          "url": "https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "Mi Nueva Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf"
     },
     {
       "added_at": null,
@@ -752,9 +732,29 @@
           "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Prohibido - En vivo",
-      "url": "https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8"
+      "duration_ms": 184343,
+      "name": "En La Cima - En vivo",
+      "url": "https://open.spotify.com/track/3u91mTsR3Wo0GxiWZGhCl8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Nueva Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L"
+      },
+      "artists": [
+        {
+          "name": "Somos 3",
+          "url": "https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "Mi Nueva Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf"
     },
     {
       "added_at": null,
@@ -768,25 +768,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 170410,
-      "name": "El Chivo Tatemado - En Vivo",
-      "url": "https://open.spotify.com/track/7GYWEcRh7ztQJNC7JGRg72"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Benjam\u00edn",
-        "url": "https://open.spotify.com/album/51rDwORHTvCR9kcStvUGWe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 180990,
-      "name": "Soy Benjam\u00edn",
-      "url": "https://open.spotify.com/track/4lnuw5DZ6nDWvwpMteP3Al"
+      "duration_ms": 211648,
+      "name": "El Hombre Alegre - En Vivo",
+      "url": "https://open.spotify.com/track/4gjJ95Tps8wTzegFSM7llF"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
       "duration_ms": 208890,
       "name": "Los Mitotes",
       "url": "https://open.spotify.com/track/5GgXwsZ0kXws86Ui3LL7vi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Benjam\u00edn",
+        "url": "https://open.spotify.com/album/51rDwORHTvCR9kcStvUGWe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 180990,
+      "name": "Soy Benjam\u00edn",
+      "url": "https://open.spotify.com/track/4lnuw5DZ6nDWvwpMteP3Al"
     },
     {
       "added_at": null,
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 211648,
-      "name": "El Hombre Alegre - En Vivo",
-      "url": "https://open.spotify.com/track/4gjJ95Tps8wTzegFSM7llF"
+      "duration_ms": 170410,
+      "name": "El Chivo Tatemado - En Vivo",
+      "url": "https://open.spotify.com/track/7GYWEcRh7ztQJNC7JGRg72"
     },
     {
       "added_at": null,

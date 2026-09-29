@@ -1,6 +1,6 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 20881,
+  "num_followers": 20882,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
         "name": "Waves (Robin Schulz Radio Edit)",
         "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "Maladie",
-        "url": "https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Maladie",
-      "url": "https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
         "name": "Soleil",
         "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 131563,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
+        "name": "Last Girls At The Party",
+        "url": "https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 162933,
+      "name": "Last Girls At The Party",
+      "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
         "name": "BOBO (feat. Maud Elka)",
         "url": "https://open.spotify.com/album/2iEZOJ87JrwsP7HOmcv8Qy"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 168311,
       "name": "BOBO (feat. Maud Elka)",
       "url": "https://open.spotify.com/track/6Jy3euwzBYBWtN0lZwYCie"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "Last Girls At The Party",
-        "url": "https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 162933,
-      "name": "Last Girls At The Party",
-      "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
+        "name": "Pardon Maman",
+        "url": "https://open.spotify.com/album/41uud6lHFFsOQxf7ttDs0C"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "duration_ms": 140512,
+      "name": "Pardon Maman",
+      "url": "https://open.spotify.com/track/4G5w7H0JSDIpGHo4xoUTRN"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
         "name": "Mok ya mok",
         "url": "https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7"
       },
@@ -1707,18 +1723,18 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "Pardon Maman",
-        "url": "https://open.spotify.com/album/41uud6lHFFsOQxf7ttDs0C"
+        "name": "Robots Apr\u00e8s Tout",
+        "url": "https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9"
       },
       "artists": [
         {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
         }
       ],
-      "duration_ms": 140512,
-      "name": "Pardon Maman",
-      "url": "https://open.spotify.com/track/4G5w7H0JSDIpGHo4xoUTRN"
+      "duration_ms": 182266,
+      "name": "Louxor j'adore",
+      "url": "https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1735,22 +1751,6 @@
       "duration_ms": 238636,
       "name": "Fille de personne II",
       "url": "https://open.spotify.com/track/4lHLa0Z48pb3T7iuZ6T9xR"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "Robots Apr\u00e8s Tout",
-        "url": "https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Katerine",
-          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Louxor j'adore",
-      "url": "https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV"
     },
     {
       "added_at": "2026-08-28 04:03:37",

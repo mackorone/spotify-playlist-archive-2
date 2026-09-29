@@ -1,12 +1,12 @@
 {
   "description": "This is Sofie Birch. The essential tracks, all in one playlist.",
-  "num_followers": 229,
+  "num_followers": 230,
   "original_name": "This Is Sofie Birch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAADzjuQGvUmPA3BUaDEQmEpW",
+  "snapshot_id": "arhcgAAAAAB/d7Vie8WsiWajZjUGpxjv",
   "tracks": [
     {
       "added_at": null,
@@ -184,13 +184,13 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         },
         {
-          "name": "Nana Pi",
-          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
+          "name": "_iC_iC_",
+          "url": "https://open.spotify.com/artist/6GuLZyeLnlf1EhwzRXL0lk"
         }
       ],
-      "duration_ms": 193875,
-      "name": "Humidity",
-      "url": "https://open.spotify.com/track/6YQYwQ1SAuDBOuQtHhMTY1"
+      "duration_ms": 248000,
+      "name": "Hallu",
+      "url": "https://open.spotify.com/track/3PHLN6ikLs9eVBa3XUG45V"
     },
     {
       "added_at": null,
@@ -264,13 +264,13 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         },
         {
-          "name": "_iC_iC_",
-          "url": "https://open.spotify.com/artist/6GuLZyeLnlf1EhwzRXL0lk"
+          "name": "Nana Pi",
+          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Hallu",
-      "url": "https://open.spotify.com/track/3PHLN6ikLs9eVBa3XUG45V"
+      "duration_ms": 193875,
+      "name": "Humidity",
+      "url": "https://open.spotify.com/track/6YQYwQ1SAuDBOuQtHhMTY1"
     },
     {
       "added_at": null,
@@ -344,13 +344,13 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         },
         {
-          "name": "A. Fabrin",
-          "url": "https://open.spotify.com/artist/07PhwJWSOqFgvFD1R0zEJK"
+          "name": "Nana Pi",
+          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
         }
       ],
-      "duration_ms": 311250,
-      "name": "Surface Pan",
-      "url": "https://open.spotify.com/track/0fsRZR40GASck3rxMJerWT"
+      "duration_ms": 352000,
+      "name": "Observatory",
+      "url": "https://open.spotify.com/track/6DE8VAI99LyIJ16anacufA"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 59280,
-      "name": "Eleven d",
-      "url": "https://open.spotify.com/track/1oaf9vUGUqXsrVH9S6BmMT"
+      "duration_ms": 205876,
+      "name": "Fluorit",
+      "url": "https://open.spotify.com/track/3lq7IjY8xOkEnosQkWFZDs"
     },
     {
       "added_at": null,
@@ -416,13 +416,13 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         },
         {
-          "name": "Nana Pi",
-          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
+          "name": "A. Fabrin",
+          "url": "https://open.spotify.com/artist/07PhwJWSOqFgvFD1R0zEJK"
         }
       ],
-      "duration_ms": 352000,
-      "name": "Observatory",
-      "url": "https://open.spotify.com/track/6DE8VAI99LyIJ16anacufA"
+      "duration_ms": 311250,
+      "name": "Surface Pan",
+      "url": "https://open.spotify.com/track/0fsRZR40GASck3rxMJerWT"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planetes",
-        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 274115,
-      "name": "Begin Sync End",
-      "url": "https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Repair Techniques",
         "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 232000,
       "name": "Sugi",
       "url": "https://open.spotify.com/track/1abxSo1leLk7qdlZaKg2mN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planetes",
+        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 274115,
+      "name": "Begin Sync End",
+      "url": "https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Repair Techniques",
         "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Island Alchemy",
         "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 413882,
-      "name": "Slow Piru",
-      "url": "https://open.spotify.com/track/40rypDZRUKDNpnNDxTfh54"
+      "duration_ms": 344827,
+      "name": "Mu Evans",
+      "url": "https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
       "duration_ms": 108845,
       "name": "My River",
       "url": "https://open.spotify.com/track/34L1BjT10mI1dKvOJw4qd4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2nd Quake",
-        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
-      },
-      "artists": [
-        {
-          "name": "OTOOTO",
-          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
-        },
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 311077,
-      "name": "Silver Age",
-      "url": "https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R"
     },
     {
       "added_at": null,
@@ -696,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 344827,
-      "name": "Mu Evans",
-      "url": "https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q"
+      "duration_ms": 413882,
+      "name": "Slow Piru",
+      "url": "https://open.spotify.com/track/40rypDZRUKDNpnNDxTfh54"
     },
     {
       "added_at": null,

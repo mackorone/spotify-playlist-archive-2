@@ -4,7 +4,7 @@
 
 > thoom Thoom THOOM <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-4,001 songs - 9 day 3 hr 28 min
+4,002 songs - 9 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2702,6 +2702,7 @@
 | [Poor Fake](https://open.spotify.com/track/0X1VFWzml1YdSOOkxzOK0G) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 4:41 | 2019-08-02 | 2019-08-21 |
 | [Pop Star \- Chaeyoung Remix](https://open.spotify.com/track/1vQOTeTQlZ5NWX2el2RmlG) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Chaeyoung](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [Pop Star \(Chaeyoung Remix\)](https://open.spotify.com/album/6r0xsy4FAx4p2Fc2WZxVR0) | 3:28 | 2023-10-27 | 2024-01-11 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-15 | 2022-02-26 |
+| [Popstar](https://open.spotify.com/track/7aF0puGulyEEJkOQZNKNyu) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:47 | 2026-09-28 |  |
 | [PORN ACTING\*\[FLIP\] \- Spotify Singles](https://open.spotify.com/track/01HlFHMzbPwNv7gbPVufH1) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Spotify Singles](https://open.spotify.com/album/5LXycmANKuQOmsJK2ddbwi) | 3:06 | 2023-06-16 | 2023-07-29 |
 | [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 | 2025-09-04 | 2026-03-07 |
 | [Portion Control](https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [rOe](https://open.spotify.com/album/5sbEVYSjPK4a0lXNA4WsPO) | 4:43 | 2025-08-08 | 2026-02-21 |

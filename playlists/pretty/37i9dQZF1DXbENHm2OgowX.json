@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 366759,
+  "num_followers": 366975,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Fallen Down",
-        "url": "https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz"
-      },
-      "artists": [
-        {
-          "name": "Duncan Cox",
-          "url": "https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4"
-        }
-      ],
-      "duration_ms": 141219,
-      "name": "Fallen Down",
-      "url": "https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "lingering on",
         "url": "https://open.spotify.com/album/3I3YR5Zq3PlKVHid6hpdmX"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 81083,
       "name": "lingering on",
       "url": "https://open.spotify.com/track/2wdS8JOt0R11Rh13DKtWf1"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Fallen Down",
+        "url": "https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz"
+      },
+      "artists": [
+        {
+          "name": "Duncan Cox",
+          "url": "https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4"
+        }
+      ],
+      "duration_ms": 141219,
+      "name": "Fallen Down",
+      "url": "https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "its never enough",
-        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
-      },
-      "artists": [
-        {
-          "name": "les",
-          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
-        }
-      ],
-      "duration_ms": 98196,
-      "name": "its never enough",
-      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "haunted, but it's ambient",
         "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "its never enough",
+        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
+      },
+      "artists": [
+        {
+          "name": "les",
+          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
+        }
+      ],
+      "duration_ms": 98196,
+      "name": "its never enough",
+      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Eidetic",
         "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
       },
@@ -971,6 +971,26 @@
       "duration_ms": 141483,
       "name": "Maple Seed",
       "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Rainy morning",
+        "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
+      },
+      "artists": [
+        {
+          "name": "arancina",
+          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
+        },
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Rainy morning",
+      "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1007,26 +1027,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Rainy morning",
-        "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
-      },
-      "artists": [
-        {
-          "name": "arancina",
-          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
-        },
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Rainy morning",
-      "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "4AM ambient version",
         "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 112826,
       "name": "4AM ambient version",
       "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "The Importance of Birds",
-        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "From a Convenient Grass",
-      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1075,6 +1059,22 @@
       "duration_ms": 201423,
       "name": "Fur and Exhaust",
       "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "The Importance of Birds",
+        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "From a Convenient Grass",
+      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "distant feeling",
+        "url": "https://open.spotify.com/album/00oB7CIX2hBwvVily875kB"
+      },
+      "artists": [
+        {
+          "name": "dreamzz",
+          "url": "https://open.spotify.com/artist/3VD6rOPuobjIY9vOO5jaVF"
+        }
+      ],
+      "duration_ms": 99600,
+      "name": "distant feeling",
+      "url": "https://open.spotify.com/track/1jopjjRosMaQLfXpD8D6lZ"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Displacement (KMRU rework)",
         "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
       },
@@ -1275,34 +1291,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "distant feeling",
-        "url": "https://open.spotify.com/album/00oB7CIX2hBwvVily875kB"
+        "name": "skies",
+        "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
       "artists": [
         {
-          "name": "dreamzz",
-          "url": "https://open.spotify.com/artist/3VD6rOPuobjIY9vOO5jaVF"
-        }
-      ],
-      "duration_ms": 99600,
-      "name": "distant feeling",
-      "url": "https://open.spotify.com/track/1jopjjRosMaQLfXpD8D6lZ"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "fly high",
-        "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
-      },
-      "artists": [
+          "name": "Blut Own",
+          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
+        },
         {
-          "name": "ambit.",
-          "url": "https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB"
+          "name": "Riversilvers",
+          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
         }
       ],
-      "duration_ms": 107056,
-      "name": "fly high",
-      "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
+      "duration_ms": 129998,
+      "name": "skies",
+      "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1327,22 +1331,18 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "skies",
-        "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
+        "name": "fly high",
+        "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
       },
       "artists": [
         {
-          "name": "Blut Own",
-          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
-        },
-        {
-          "name": "Riversilvers",
-          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
+          "name": "ambit.",
+          "url": "https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB"
         }
       ],
-      "duration_ms": 129998,
-      "name": "skies",
-      "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
+      "duration_ms": 107056,
+      "name": "fly high",
+      "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "Below the House",
+      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "cry",
         "url": "https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Below the House",
-      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "where is life?",
         "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
       },
@@ -1475,6 +1475,26 @@
       "duration_ms": 127384,
       "name": "where is life?",
       "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "forgotten dreams",
+        "url": "https://open.spotify.com/album/2gkhloQAvOHRi5TMVFH4SU"
+      },
+      "artists": [
+        {
+          "name": "Bluegaze",
+          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
+        },
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "forgotten dreams",
+      "url": "https://open.spotify.com/track/0L1h80QPKKEOgYhTsOSv2S"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "forgotten dreams",
-        "url": "https://open.spotify.com/album/2gkhloQAvOHRi5TMVFH4SU"
-      },
-      "artists": [
-        {
-          "name": "Bluegaze",
-          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
-        },
-        {
-          "name": "hir\u00e6th",
-          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "forgotten dreams",
-      "url": "https://open.spotify.com/track/0L1h80QPKKEOgYhTsOSv2S"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Too Much Love",
         "url": "https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "Womb Trails",
+        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
+      },
+      "artists": [
+        {
+          "name": "Vile Karimi",
+          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
+        }
+      ],
+      "duration_ms": 200059,
+      "name": "Perpetual Care",
+      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Womb Trails",
-        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
+        "name": "distant, elsewhere",
+        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
       },
       "artists": [
         {
-          "name": "Vile Karimi",
-          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
+          "name": "kurisu.",
+          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
         }
       ],
-      "duration_ms": 200059,
-      "name": "Perpetual Care",
-      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
+      "duration_ms": 150006,
+      "name": "distant, elsewhere",
+      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1699,18 +1715,18 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "distant, elsewhere",
-        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
+        "name": "last days of summer",
+        "url": "https://open.spotify.com/album/2xQn3FifbsiSH7ryHAigaE"
       },
       "artists": [
         {
-          "name": "kurisu.",
-          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
         }
       ],
-      "duration_ms": 150006,
-      "name": "distant, elsewhere",
-      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
+      "duration_ms": 125606,
+      "name": "last days of summer",
+      "url": "https://open.spotify.com/track/5sImR8kG7oW7csP4QhtoXI"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1727,22 +1743,6 @@
       "duration_ms": 70306,
       "name": "Safn",
       "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "last days of summer",
-        "url": "https://open.spotify.com/album/2xQn3FifbsiSH7ryHAigaE"
-      },
-      "artists": [
-        {
-          "name": "n\u0153m.",
-          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
-        }
-      ],
-      "duration_ms": 125606,
-      "name": "last days of summer",
-      "url": "https://open.spotify.com/track/5sImR8kG7oW7csP4QhtoXI"
     },
     {
       "added_at": "2026-09-23 13:23:25",

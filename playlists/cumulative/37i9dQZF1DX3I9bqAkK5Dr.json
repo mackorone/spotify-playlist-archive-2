@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 177239,
       "name": "Chandinive",
       "url": "https://open.spotify.com/track/4Fh0sJQp4T5fAVXWqsNI3D"
@@ -7224,6 +7224,32 @@
       "duration_ms": 187978,
       "name": "Ninnu Cheraga",
       "url": "https://open.spotify.com/track/0KFpBnnR9yAgFrlqje5xHy"
+    },
+    {
+      "album": {
+        "name": "Ninnu Kalise Aasalu",
+        "url": "https://open.spotify.com/album/30B9M7CT0xG7SQVyVJiUQW"
+      },
+      "artists": [
+        {
+          "name": "Smith Asher",
+          "url": "https://open.spotify.com/artist/5XD5iyRb8Er9tN4bOynyFn"
+        },
+        {
+          "name": "Dheekshitha",
+          "url": "https://open.spotify.com/artist/25cuzCxjFsOQLMLEDLvjEo"
+        },
+        {
+          "name": "Srinivasa Mouli",
+          "url": "https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238369,
+      "name": "Ninnu Kalise Aasalu",
+      "url": "https://open.spotify.com/track/33Gp9UMaCgYfdmHKBO3cBD"
     },
     {
       "album": {

@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 19 | [I Will Fight](https://open.spotify.com/track/0X1bdT5WEYL2wtAvNDsbt9) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:58 |
 | 20 | [Birthday Suit](https://open.spotify.com/track/41DBopd0o6IX2N8sjTE0AJ) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:56 |
 | 21 | [Million Miles](https://open.spotify.com/track/1Y7GyVbTNyIVBJr25hmVxm) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:28 |
-| 22 | [Temporary](https://open.spotify.com/track/350Y0f1QT40SQPyolTu0hH) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Temporary](https://open.spotify.com/album/5ut9OrzYisjyf7bIFbKCF4) | 3:10 |
-| 23 | [Deeper](https://open.spotify.com/track/5jjrkICQClyeRDLb3Ua9yy) | [Holly Rey](https://open.spotify.com/artist/2teot2ghPZBwv4qpVBpE0B) | [Deeper](https://open.spotify.com/album/5Y0RHd4r6F4Yu24fZplDxi) | 5:12 |
+| 22 | [Deeper](https://open.spotify.com/track/5jjrkICQClyeRDLb3Ua9yy) | [Holly Rey](https://open.spotify.com/artist/2teot2ghPZBwv4qpVBpE0B) | [Deeper](https://open.spotify.com/album/5Y0RHd4r6F4Yu24fZplDxi) | 5:12 |
+| 23 | [Temporary](https://open.spotify.com/track/350Y0f1QT40SQPyolTu0hH) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Temporary](https://open.spotify.com/album/5ut9OrzYisjyf7bIFbKCF4) | 3:10 |
 | 24 | [Down with Ya \(feat\. Madcon\)](https://open.spotify.com/track/6t43w43IpQxBt5IrEUqgdy) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq), [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [Head for the stars](https://open.spotify.com/album/2pvzF6KG5eCbmSTgmTTiHe) | 3:44 |
 | 25 | [Heartbreak](https://open.spotify.com/track/60jNuzsFuct0QEb22AlhdJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 3:01 |
 | 26 | [agit](https://open.spotify.com/track/7KFvcwUv0UYWD7gLS78Cbb) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 2:46 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 76 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [dreamhouse](https://open.spotify.com/artist/4RfivXSc4tPlg4avnBN5PJ) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 | 77 | [Yours](https://open.spotify.com/track/2z7duIciqreJ2TgxgA4Hr6) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Yours](https://open.spotify.com/album/3Biv04oSSRa7hpjqGSOhmP) | 2:50 |
 
-Snapshot ID: `AcddZgAAAAAYcuoOOufnFIo6oUPIUrOt`
+Snapshot ID: `AcdjLgAAAADH9zD9Yo71+MMWzbudnekq`

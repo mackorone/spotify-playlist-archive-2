@@ -4,7 +4,7 @@
 
 > 
 
-8,866 songs - 22 day 13 hr 33 min
+8,867 songs - 22 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1043,7 +1043,7 @@
 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 | 2025-01-15 |  |
 | [Bulls on Parade \- triple j Like A Version](https://open.spotify.com/track/6FCfj69zzQHnrx4fTukhfo) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [triple j](https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1) | [Bulls on Parade \(triple j Like A Version\)](https://open.spotify.com/album/18pnIaPBNb0DRHCgdoqYOf) | 4:29 | 2025-01-03 |  |
 | [Bunny Girl](https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW) | [Bunny Girl](https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl) | 2:46 | 2024-12-05 |  |
-| [Burden](https://open.spotify.com/track/315erlcEdp5JqHqQQLQTiD) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:30 | 2024-12-05 |  |
+| [Burden](https://open.spotify.com/track/315erlcEdp5JqHqQQLQTiD) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:30 | 2024-12-05 | 2026-09-29 |
 | [Burfict!](https://open.spotify.com/track/5IZpEuLMO5lEmN1Rr008p8) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:21 | 2025-02-13 |  |
 | [Burgundy \(feat\. Vince Staples\)](https://open.spotify.com/track/43tVqovviXhkmOV5LOkTn7) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 2:07 | 2025-01-03 |  |
 | [Buriki No Dance](https://open.spotify.com/track/1tf23ctEJtmWpCoMwVwFLF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Buriki No Dance](https://open.spotify.com/album/434XGVb26I50AvHTKdwAYk) | 3:19 | 2025-09-08 |  |
@@ -3878,7 +3878,7 @@
 | [Lift Me Up to the Sky](https://open.spotify.com/track/0I9D8AG9brwrJESKosmA52) | [Takeshi Nakatsuka](https://open.spotify.com/artist/20NsQIQXOKSrclmLOeZLIF), [ディネッサ](https://open.spotify.com/artist/4gFugNNEclDPZjlUZ73NQC) | [JOY](https://open.spotify.com/album/2wDMiyjUzYo0gW96J3kcKl) | 3:45 | 2026-07-25 |  |
 | [Lift Yourself](https://open.spotify.com/track/3uYDO9dPLTVrgfwg7EYXSf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Lift Yourself](https://open.spotify.com/album/2hTxwsnzU7h15XcAUWSME8) | 2:27 | 2025-01-03 |  |
 | [light](https://open.spotify.com/track/1MNHqDjKxhtn7YwLCpm7Nt) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [light](https://open.spotify.com/album/6VjoAVqjK7oWhDPzGYO7F0) | 3:45 | 2025-04-18 |  |
-| [Light It Up](https://open.spotify.com/track/41mzryVlFLlz6b1BCtJAjx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:29 | 2025-01-15 |  |
+| [Light It Up](https://open.spotify.com/track/41mzryVlFLlz6b1BCtJAjx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:29 | 2025-01-15 | 2026-09-29 |
 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 | 2025-01-03 |  |
 | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/track/2CKjPJ59ihAjVro074hFmW) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/album/0Sl4hjNHwOrVq6rnexErGu) | 2:25 | 2024-12-05 |  |
 | [Light Year \(Practice\)](https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:44 | 2025-01-03 |  |
@@ -4654,6 +4654,7 @@
 | [NIGHT TOWN（神泉Ver.）](https://open.spotify.com/track/0aa2vzwAdV6dhJEeq38hro) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [SOLAR](https://open.spotify.com/album/1NQKVLGkBQZ8dyzdCx0UpA) | 3:33 | 2025-01-03 |  |
 | [Night Train](https://open.spotify.com/track/7FT7a5DV7Mk6Mc9ZRJnX70) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Night Train](https://open.spotify.com/album/2C8vWOKoIoxKlYteMtPDTN) | 3:16 | 2025-01-19 |  |
 | [Night's Whispering Breath](https://open.spotify.com/track/3Tyqbe17rgzfShr3OqwHv5) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Jadeite Redolence \(Original Game Soundtrack\)](https://open.spotify.com/album/4jt8sLOJrMDMM8XLuDfCGz) | 1:33 | 2025-11-29 |  |
+| [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2026-09-28 |  |
 | [Nightcap at Nightfall](https://open.spotify.com/track/6eIp3J8cyIDscFczCGKEdu) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Jadeite Redolence \(Original Game Soundtrack\)](https://open.spotify.com/album/4jt8sLOJrMDMM8XLuDfCGz) | 1:39 | 2025-11-29 |  |
 | [Nightcrawler \(feat\. Swae Lee & Chief Keef\)](https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:21 | 2025-01-15 |  |
 | [Nightglow Dreamer](https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky) | 4:29 | 2026-01-10 |  |

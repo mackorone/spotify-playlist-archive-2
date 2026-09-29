@@ -1,6 +1,6 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 62600,
+  "num_followers": 62608,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
@@ -339,8 +339,8 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Amazing Veena",
-        "url": "https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d"
+        "name": "Mood Music - Cool Carnatic Instrumentals",
+        "url": "https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
         }
       ],
-      "duration_ms": 494560,
+      "duration_ms": 409426,
       "name": "Vathapi Ganapathim Bhajeham",
-      "url": "https://open.spotify.com/track/2NKq1eKtz3t7Gp4NIrJ1Lg"
+      "url": "https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -419,8 +419,8 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Mood Music - Cool Carnatic Instrumentals",
-        "url": "https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD"
+        "name": "Amazing Veena",
+        "url": "https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
         }
       ],
-      "duration_ms": 409426,
+      "duration_ms": 494560,
       "name": "Vathapi Ganapathim Bhajeham",
-      "url": "https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw"
+      "url": "https://open.spotify.com/track/2NKq1eKtz3t7Gp4NIrJ1Lg"
     },
     {
       "added_at": "2026-05-26 09:17:44",
@@ -481,36 +481,20 @@
       "url": "https://open.spotify.com/track/11N16vE0jjIFgLaz6jN4XF"
     },
     {
-      "added_at": "2025-09-05 03:40:50",
+      "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Only Love is Real",
-        "url": "https://open.spotify.com/album/0etdWDLdBdvEIUnFl8baMC"
+        "name": "Apoorva Thillanas",
+        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
       },
       "artists": [
         {
           "name": "Apoorva Krishna",
           "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
-        },
-        {
-          "name": "Varijashree Venugopal",
-          "url": "https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i"
-        },
-        {
-          "name": "Aleif Hamdan",
-          "url": "https://open.spotify.com/artist/0TmInNPGLSWyopwB9XNa2s"
-        },
-        {
-          "name": "Sunaad Anoor",
-          "url": "https://open.spotify.com/artist/44VNDWBX8w7e9WKR767AeC"
-        },
-        {
-          "name": "Bruthuva Caleb",
-          "url": "https://open.spotify.com/artist/07ABY32b4waim4zjiFgI0E"
         }
       ],
-      "duration_ms": 346000,
-      "name": "Merging Parallels- Tribute to Dear Zakir Ji",
-      "url": "https://open.spotify.com/track/1xZa28cOrAorS3RKt6xfBU"
+      "duration_ms": 404551,
+      "name": "Hamir Kalyani (Violin Solo)",
+      "url": "https://open.spotify.com/track/5EQTrn2xIK4ZZACJjDOAXn"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -581,20 +565,36 @@
       "url": "https://open.spotify.com/track/1OmHmuOvobYHUPrxXcR9HY"
     },
     {
-      "added_at": "2025-07-09 11:29:57",
+      "added_at": "2025-09-05 03:40:50",
       "album": {
-        "name": "Apoorva Thillanas",
-        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
+        "name": "Only Love is Real",
+        "url": "https://open.spotify.com/album/0etdWDLdBdvEIUnFl8baMC"
       },
       "artists": [
         {
           "name": "Apoorva Krishna",
           "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        },
+        {
+          "name": "Varijashree Venugopal",
+          "url": "https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i"
+        },
+        {
+          "name": "Aleif Hamdan",
+          "url": "https://open.spotify.com/artist/0TmInNPGLSWyopwB9XNa2s"
+        },
+        {
+          "name": "Sunaad Anoor",
+          "url": "https://open.spotify.com/artist/44VNDWBX8w7e9WKR767AeC"
+        },
+        {
+          "name": "Bruthuva Caleb",
+          "url": "https://open.spotify.com/artist/07ABY32b4waim4zjiFgI0E"
         }
       ],
-      "duration_ms": 404551,
-      "name": "Hamir Kalyani (Violin Solo)",
-      "url": "https://open.spotify.com/track/5EQTrn2xIK4ZZACJjDOAXn"
+      "duration_ms": 346000,
+      "name": "Merging Parallels- Tribute to Dear Zakir Ji",
+      "url": "https://open.spotify.com/track/1xZa28cOrAorS3RKt6xfBU"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
+        "name": "The Best of Carnatic Instrumental",
+        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
+      },
+      "artists": [
+        {
+          "name": "Doraiswamy Iyengar",
+          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
+        }
+      ],
+      "duration_ms": 309968,
+      "name": "Ghana Ragamalika Tanam",
+      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
         "name": "Inde du sud : Anthologie de la musique classique (South India)",
         "url": "https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "The Best of Carnatic Instrumental",
-        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
+        "name": "Annapoorne Visalakshi - Sikkil Mala Chandrasekhar",
+        "url": "https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ"
       },
       "artists": [
         {
-          "name": "Doraiswamy Iyengar",
-          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
+          "name": "Sikkil Mala Chandrasekhar",
+          "url": "https://open.spotify.com/artist/5O7M1UF5pMIKIGd7pCHrSo"
         }
       ],
-      "duration_ms": 309968,
-      "name": "Ghana Ragamalika Tanam",
-      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
+      "duration_ms": 341080,
+      "name": "Annapoorne Visalakshi (Raga: Sama; Tala: Adi)",
+      "url": "https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -915,18 +931,18 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Annapoorne Visalakshi - Sikkil Mala Chandrasekhar",
-        "url": "https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ"
+        "name": "Mahathi Melodies",
+        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
       },
       "artists": [
         {
-          "name": "Sikkil Mala Chandrasekhar",
-          "url": "https://open.spotify.com/artist/5O7M1UF5pMIKIGd7pCHrSo"
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
         }
       ],
-      "duration_ms": 341080,
-      "name": "Annapoorne Visalakshi (Raga: Sama; Tala: Adi)",
-      "url": "https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t"
+      "duration_ms": 318667,
+      "name": "Thevaram Mangayarkarasi - Bowli - Adi",
+      "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -943,22 +959,6 @@
       "duration_ms": 167366,
       "name": "Senthamizh - Natabhairavi - Adi",
       "url": "https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Mahathi Melodies",
-        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
-      },
-      "artists": [
-        {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
-        }
-      ],
-      "duration_ms": 318667,
-      "name": "Thevaram Mangayarkarasi - Bowli - Adi",
-      "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "South India: Ranganayaki Rajagopalan\u2014Continuity in the Karaikudi Vina Style",
-        "url": "https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv"
-      },
-      "artists": [
-        {
-          "name": "Ranganayaki Rajagopalan",
-          "url": "https://open.spotify.com/artist/5kUDJrh7qHEz1aZQk2QWUi"
-        }
-      ],
-      "duration_ms": 468745,
-      "name": "R\u0101ga: Kharaharapriya / \u0100l\u0101pana",
-      "url": "https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Veena Gana Murali",
         "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 278831,
       "name": "Ayarpadi - Kurunji - Tisra Nadai",
       "url": "https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "South India: Ranganayaki Rajagopalan\u2014Continuity in the Karaikudi Vina Style",
+        "url": "https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv"
+      },
+      "artists": [
+        {
+          "name": "Ranganayaki Rajagopalan",
+          "url": "https://open.spotify.com/artist/5kUDJrh7qHEz1aZQk2QWUi"
+        }
+      ],
+      "duration_ms": 468745,
+      "name": "R\u0101ga: Kharaharapriya / \u0100l\u0101pana",
+      "url": "https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6"
     },
     {
       "added_at": "2025-07-09 11:29:57",

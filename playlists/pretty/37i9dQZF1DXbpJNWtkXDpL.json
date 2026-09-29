@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm y Zenei",
-  "num_followers": 93963,
+  "num_followers": 93970,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "Cadena Nacional",
-        "url": "https://open.spotify.com/album/4P0TbN0tnLHdJVR6bMmGK6"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 148274,
-      "name": "Cadena Nacional",
-      "url": "https://open.spotify.com/track/4VoIHa5TY0wvY3jwmrxRM5"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "Uno Pal Otro",
         "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 203276,
       "name": "Uno Pal Otro",
       "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "Cadena Nacional",
+        "url": "https://open.spotify.com/album/4P0TbN0tnLHdJVR6bMmGK6"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 148274,
+      "name": "Cadena Nacional",
+      "url": "https://open.spotify.com/track/4VoIHa5TY0wvY3jwmrxRM5"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -979,6 +979,26 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
+        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
+      },
+      "artists": [
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 147586,
+      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
         "name": "DIAS LLUVIOSOS",
         "url": "https://open.spotify.com/album/0LlsOHPgUsMadauJL0VALz"
       },
@@ -995,6 +1015,22 @@
       "duration_ms": 160000,
       "name": "DIAS LLUVIOSOS",
       "url": "https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "Trampa",
+        "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
+      },
+      "artists": [
+        {
+          "name": "Fabio Capri",
+          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
+        }
+      ],
+      "duration_ms": 152928,
+      "name": "Trampa",
+      "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -1019,58 +1055,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "Trampa",
-        "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
-      },
-      "artists": [
-        {
-          "name": "Fabio Capri",
-          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
-        }
-      ],
-      "duration_ms": 152928,
-      "name": "Trampa",
-      "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
-        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
-        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
-      },
-      "artists": [
-        {
-          "name": "VV Brujo",
-          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
-        },
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 147586,
-      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
-      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
-        "name": "Cumbia y Calle",
-        "url": "https://open.spotify.com/album/5SDPeLlYTq1lEW0uaPKnP3"
-      },
-      "artists": [
-        {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        }
-      ],
-      "duration_ms": 149617,
-      "name": "No Perd\u00ed La Fe",
-      "url": "https://open.spotify.com/track/1E0Ok2WEsRmm93n9xNo3wg"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "CAMINO",
         "url": "https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "Cereza",
-        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
+        "name": "Cumbia y Calle",
+        "url": "https://open.spotify.com/album/5SDPeLlYTq1lEW0uaPKnP3"
       },
       "artists": [
         {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
         }
       ],
-      "duration_ms": 198150,
-      "name": "Cereza",
-      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
+      "duration_ms": 149617,
+      "name": "No Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/1E0Ok2WEsRmm93n9xNo3wg"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -1143,6 +1127,22 @@
       "duration_ms": 186639,
       "name": "En el sur - REMIX",
       "url": "https://open.spotify.com/track/7h31UFRcfMvKgBKIWDWVFg"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "Cereza",
+        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "duration_ms": 198150,
+      "name": "Cereza",
+      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
-      },
-      "artists": [
-        {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 245669,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
         "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 232258,
       "name": "14 plegarias /x\\",
       "url": "https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
+      },
+      "artists": [
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 245669,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
     },
     {
       "added_at": "2026-09-18 06:00:22",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-09-18 06:00:22",
       "album": {
-        "name": "Vasito en mano",
-        "url": "https://open.spotify.com/album/0jVXNWFQvnJZG79v2YEDTw"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Vasito en mano",
-      "url": "https://open.spotify.com/track/04hKVjDuQZIKo1svV7JpLJ"
-    },
-    {
-      "added_at": "2026-09-18 06:00:22",
-      "album": {
         "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
         "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 213753,
       "name": "CADENAS",
       "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
+    },
+    {
+      "added_at": "2026-09-18 06:00:22",
+      "album": {
+        "name": "Vasito en mano",
+        "url": "https://open.spotify.com/album/0jVXNWFQvnJZG79v2YEDTw"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Vasito en mano",
+      "url": "https://open.spotify.com/track/04hKVjDuQZIKo1svV7JpLJ"
     },
     {
       "added_at": "2026-09-18 06:00:22",

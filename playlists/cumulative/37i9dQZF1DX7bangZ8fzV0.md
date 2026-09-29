@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Ricus Nel
+> Net die beste Afrikaanse musiek! Omslag: Zaan Sonnekus en Kurt Darren
 
 411 songs - 22 hr 40 min
 

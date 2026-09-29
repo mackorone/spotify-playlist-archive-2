@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Taylor Swift, ILLIT,  Hebe Tien, Hael Husaini, Mimifly, DOLLA, and many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,911 likes - 110 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,893 likes - 110 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

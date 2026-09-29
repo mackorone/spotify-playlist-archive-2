@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari con Caloncho y Jaze.
 
-461 songs - 1 day 6 hr 2 min
+462 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Ruptura](https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Fanbrown](https://open.spotify.com/artist/0pJiXyozCdysfr3YXdp1al) | [Ruptura](https://open.spotify.com/album/1LPSW2i48wQJqzPSjPnCRF) | 3:14 | 2023-01-20 | 2023-01-28 |
 | [Saber a Dónde ir](https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Saber a Dónde ir](https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn) | 4:19 | 2024-07-02 | 2025-05-03 |
 | [Sal a Caminar](https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 5:05 | 2021-12-10 |  |
+| [Santa](https://open.spotify.com/track/6OPMwjpBacWGDI0Z8Qx7RW) | [Little Pepe](https://open.spotify.com/artist/33CBC8BnDtnQKsgK2JeOyO) | [Santa](https://open.spotify.com/album/10u6ktIfkDbZhowIiZURwO) | 3:31 | 2026-09-11 |  |
 | [Se parece mas a ti](https://open.spotify.com/track/6FjqJmoZSPmH1wc27b3lV1) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Raíces Muy Fuertes](https://open.spotify.com/album/4J2QQWQVgQqnynklIPx3Yq) | 4:16 | 2025-06-06 | 2026-02-06 |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/5F3qW7U4Tmqwmh0SsVkyOr) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/album/4LqtYba4wLsXu4vzPG4aEk) | 2:46 | 2021-12-10 | 2023-02-22 |
 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 | 2023-03-03 | 2023-05-20 |
@@ -431,7 +432,7 @@
 | [Ubicación](https://open.spotify.com/track/3x0FuGussvMpNi039Ly6bL) | [Reis Belico](https://open.spotify.com/artist/6T8S4zSY1ICYEG50Hgs3QJ) | [Ubicación](https://open.spotify.com/album/0VrgvPZGgTtD22blD2Hg6S) | 3:34 | 2022-10-14 | 2022-11-19 |
 | [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 | 2025-07-30 |  |
 | [Un Desperdicio](https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 3:43 | 2024-05-10 |  |
-| [Un Pañuelo](https://open.spotify.com/track/7pq02WBTCDP3n6QrfyAXak) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Un Pañuelo](https://open.spotify.com/album/3lIDfBVEsJT8oqeLxrq4xN) | 3:42 | 2026-03-20 |  |
+| [Un Pañuelo](https://open.spotify.com/track/7pq02WBTCDP3n6QrfyAXak) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Un Pañuelo](https://open.spotify.com/album/3lIDfBVEsJT8oqeLxrq4xN) | 3:42 | 2026-03-20 | 2026-09-29 |
 | [Una Vaina](https://open.spotify.com/track/1W7j0UqTRmZvEDtWvFG1oi) | [Mista Bombo](https://open.spotify.com/artist/0dOCP5MXmqLp0fNfN0mL3V), [M3B](https://open.spotify.com/artist/2JTmAQ8oR4a8N3cixRINcv), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij) | [Golden Riddim](https://open.spotify.com/album/5FmuqIORFTIrgMSXOJLrIu) | 2:39 | 2023-01-20 | 2023-02-03 |
 | [Uno atrás del otro](https://open.spotify.com/track/4yLPu2EzbQi7ABXJlFbKfF) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Uno atrás del otro](https://open.spotify.com/album/3rDzQe7r99cctE3LLB0qHQ) | 2:27 | 2025-07-30 | 2025-11-15 |
 | [Vale La Pena](https://open.spotify.com/track/1aYQufEp0KL9NAkz6S6W8q) | [Kulto Kultibo](https://open.spotify.com/artist/5Zn0cTUwF6VjPS353kkQGk) | [Vale La Pena](https://open.spotify.com/album/0EWD3STodkMkd56uQ4nBYB) | 3:41 | 2024-01-26 | 2024-05-11 |

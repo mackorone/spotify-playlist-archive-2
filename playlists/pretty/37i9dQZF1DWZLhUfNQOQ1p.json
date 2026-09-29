@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 252512,
+  "num_followers": 252496,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
         "name": "Jolie Fille",
         "url": "https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV"
       },
@@ -151,38 +167,18 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
         }
       ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
-        "name": "Madan",
-        "url": "https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Thanda Choir",
-          "url": "https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a"
-        }
-      ],
-      "duration_ms": 145453,
-      "name": "Madan",
-      "url": "https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi"
+      "duration_ms": 266826,
+      "name": "Thinking of You - 1995 Remaster",
+      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -275,18 +271,22 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq"
       },
       "artists": [
         {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Thanda Choir",
+          "url": "https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a"
         }
       ],
-      "duration_ms": 266826,
-      "name": "Thinking of You - 1995 Remaster",
-      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
+      "duration_ms": 145453,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Praja Magia",
-      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
         "name": "V\u00e1rias Queixas (Radio Edit)",
         "url": "https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 155702,
       "name": "V\u00e1rias Queixas - Radio Edit",
       "url": "https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Praja Magia",
+      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1543,18 +1543,22 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "When The Rain Begins To Fall",
-        "url": "https://open.spotify.com/album/7dsEXQo7GnPVBTl8ey1AEC"
+        "name": "Used To Be",
+        "url": "https://open.spotify.com/album/4OUivhe1yXMMFjA4KCbdyW"
       },
       "artists": [
         {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        },
+        {
+          "name": "Djomood",
+          "url": "https://open.spotify.com/artist/7L8n726TCOKfUKF4bVOxsO"
         }
       ],
-      "duration_ms": 214016,
-      "name": "When The Rain Begins To Fall",
-      "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
+      "duration_ms": 154854,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/54L6mqCQlX9zKu62LDafiR"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1575,6 +1579,22 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
+        "name": "When The Rain Begins To Fall",
+        "url": "https://open.spotify.com/album/7dsEXQo7GnPVBTl8ey1AEC"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 214016,
+      "name": "When The Rain Begins To Fall",
+      "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
         "name": "Nothing Better Than Music",
         "url": "https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 155097,
       "name": "Nothing Better Than Music",
       "url": "https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
-        "name": "Used To Be",
-        "url": "https://open.spotify.com/album/4OUivhe1yXMMFjA4KCbdyW"
-      },
-      "artists": [
-        {
-          "name": "Boston Bun",
-          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
-        },
-        {
-          "name": "Djomood",
-          "url": "https://open.spotify.com/artist/7L8n726TCOKfUKF4bVOxsO"
-        }
-      ],
-      "duration_ms": 154854,
-      "name": "Used To Be",
-      "url": "https://open.spotify.com/track/54L6mqCQlX9zKu62LDafiR"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Things You Want",
-        "url": "https://open.spotify.com/album/08Xc7BRq6Mz9BwoiB5sLNU"
-      },
-      "artists": [
-        {
-          "name": "Flying Moth",
-          "url": "https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Things You Want",
-      "url": "https://open.spotify.com/track/19bWGnsuujQJHd3qcHbKE5"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
         "name": "Wait on Me EP",
         "url": "https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 289208,
       "name": "The Semimodular Bird of Jazz",
       "url": "https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
+        "name": "Things You Want",
+        "url": "https://open.spotify.com/album/08Xc7BRq6Mz9BwoiB5sLNU"
+      },
+      "artists": [
+        {
+          "name": "Flying Moth",
+          "url": "https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Things You Want",
+      "url": "https://open.spotify.com/track/19bWGnsuujQJHd3qcHbKE5"
     }
   ],
   "unique_name": "Aperitivo Time",

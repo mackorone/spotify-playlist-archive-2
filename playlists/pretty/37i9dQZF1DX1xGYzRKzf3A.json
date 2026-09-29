@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 178003,
+  "num_followers": 178042,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Y Que",
-      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "\u2026Que viva el vallenato!",
         "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 294640,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Y Que",
+      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/42y9XMsHd4bHlbtB5HLUJL"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Sincopa",
-        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
       },
       "artists": [
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 292160,
-      "name": "Bombos y Tarolas",
-      "url": "https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT"
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -447,6 +431,22 @@
       "duration_ms": 156320,
       "name": "Soy Lo Peor",
       "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 292160,
+      "name": "Bombos y Tarolas",
+      "url": "https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Soy As\u00ed",
         "url": "https://open.spotify.com/album/1O50KpV6dUvOLMhnmzdLU3"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 227000,
       "name": "Ay! Papacito",
       "url": "https://open.spotify.com/track/3DCtZsugr1hf5YNvykBn7j"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "Pistoleros Famosos",
+      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 178327,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/099s1FOMj4MzzcEKn5UTzR"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 159786,
-      "name": "Pistoleros Famosos",
-      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "45 \u00c9xitos (Versiones Originales)",
         "url": "https://open.spotify.com/album/3j5xMGA9BmUE77O512excf"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 181413,
       "name": "Ag\u00fcita De Coco",
       "url": "https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -895,22 +895,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "HURT (feat. The Warning)",
-        "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
       },
       "artists": [
         {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         },
         {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
         }
       ],
-      "duration_ms": 213924,
-      "name": "HURT (feat. The Warning)",
-      "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
+      "duration_ms": 255280,
+      "name": "Qu\u00e9 Bello",
+      "url": "https://open.spotify.com/track/2vw9TcQLOkCjCcSX3rKyJb"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -935,22 +935,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
+        "name": "HURT (feat. The Warning)",
+        "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
       },
       "artists": [
         {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
         },
         {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 255280,
-      "name": "Qu\u00e9 Bello",
-      "url": "https://open.spotify.com/track/2vw9TcQLOkCjCcSX3rKyJb"
+      "duration_ms": 213924,
+      "name": "HURT (feat. The Warning)",
+      "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Solo Hits",
-        "url": "https://open.spotify.com/album/1T42v7QvduIU8JzrZddZIn"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 159986,
-      "name": "Pobre Loco",
-      "url": "https://open.spotify.com/track/0BACxgNmiBtAU4piZTJnPn"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Cumbia Embajadora",
         "url": "https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
-        "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
+        "name": "Solo Hits",
+        "url": "https://open.spotify.com/album/1T42v7QvduIU8JzrZddZIn"
       },
       "artists": [
         {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
         }
       ],
-      "duration_ms": 256306,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/5Qwinf4K7rDH2WXESLNUxi"
+      "duration_ms": 159986,
+      "name": "Pobre Loco",
+      "url": "https://open.spotify.com/track/0BACxgNmiBtAU4piZTJnPn"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
+        "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 256306,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/5Qwinf4K7rDH2WXESLNUxi"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Rigo Tovar '81",
         "url": "https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Aqui Esta",
-        "url": "https://open.spotify.com/album/6jfyXseqlu9UypEkn7M4RM"
-      },
-      "artists": [
-        {
-          "name": "David Olivarez",
-          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
-        }
-      ],
-      "duration_ms": 253022,
-      "name": "So\u00f1ador",
-      "url": "https://open.spotify.com/track/5RzWVF7MJ0qQE0de4nMdjg"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 177973,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Aqui Esta",
+        "url": "https://open.spotify.com/album/6jfyXseqlu9UypEkn7M4RM"
+      },
+      "artists": [
+        {
+          "name": "David Olivarez",
+          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
+        }
+      ],
+      "duration_ms": 253022,
+      "name": "So\u00f1ador",
+      "url": "https://open.spotify.com/track/5RzWVF7MJ0qQE0de4nMdjg"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "La Voz Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV"
-      },
-      "artists": [
-        {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Si Yo Fuera Tu",
-      "url": "https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Siempre",
         "url": "https://open.spotify.com/album/6gz2pSp3FRPv6yWUnQ0VdC"
       },
@@ -1891,18 +1875,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
+        "name": "La Voz Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV"
       },
       "artists": [
         {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
         }
       ],
-      "duration_ms": 138640,
-      "name": "Recordando Monterrey",
-      "url": "https://open.spotify.com/track/6Fibv5E2GYxaH9HQCqxu9w"
+      "duration_ms": 223920,
+      "name": "Si Yo Fuera Tu",
+      "url": "https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1919,6 +1903,22 @@
       "duration_ms": 196640,
       "name": "Arrepientete",
       "url": "https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 138640,
+      "name": "Recordando Monterrey",
+      "url": "https://open.spotify.com/track/6Fibv5E2GYxaH9HQCqxu9w"
     },
     {
       "added_at": "2026-06-08 18:17:51",

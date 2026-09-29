@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Taylor Swift, Ozuna, Ovy On The Drums & Manuel Turizo, Madonna & Charli xcx y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,917 likes - 79 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,897 likes - 79 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

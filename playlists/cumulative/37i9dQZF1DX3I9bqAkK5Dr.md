@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Kasyap
 
-587 songs - 1 day 10 hr 55 min
+588 songs - 1 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Bullettu Bandi](https://open.spotify.com/track/4oBhE31sIakxf8bSPHuRT1) | [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD) | [Bullettu Bandi](https://open.spotify.com/album/6sapVBhAdDDnyElCsUwEwn) | 4:42 | 2022-07-18 | 2024-01-23 |
 | [Bulugu Sokkaa Pilagadu](https://open.spotify.com/track/7uZDuC1sW3YJ3iv7PVBGWX) | [Uma Neha](https://open.spotify.com/artist/2sRYoKkvb2apFZ58rb5717) | [Bulugu Sokkaa Pilagadu](https://open.spotify.com/album/0UftZb5FmjKiinWVIq79Nn) | 3:30 | 2023-07-03 | 2023-07-25 |
 | [Chakkani Chukka](https://open.spotify.com/track/0DwvUGiX0UmrphRVEw0tKk) | [Priyanka Gajanan](https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc) | [Chakkani Chukka](https://open.spotify.com/album/03VLpJtFaAKVobAZV0bnqX) | 3:51 | 2024-05-08 | 2024-06-30 |
-| [Chandinive](https://open.spotify.com/track/4Fh0sJQp4T5fAVXWqsNI3D) | [DEVARO](https://open.spotify.com/artist/29mbv9F0bBnk9lkyr9oPoc) | [Chandinive](https://open.spotify.com/album/2jvlh1IXjbb2usOoQQ0d3i) | 2:57 | 2026-02-28 |  |
+| [Chandinive](https://open.spotify.com/track/4Fh0sJQp4T5fAVXWqsNI3D) | [DEVARO](https://open.spotify.com/artist/29mbv9F0bBnk9lkyr9oPoc) | [Chandinive](https://open.spotify.com/album/2jvlh1IXjbb2usOoQQ0d3i) | 2:57 | 2026-02-28 | 2026-09-29 |
 | [Charcha](https://open.spotify.com/track/2jEA5P7mrjj9J2DtLuQCW3) | [StreetViolater](https://open.spotify.com/artist/7FtGwdmLdZ6PQVRFbgocPU) | [Charcha](https://open.spotify.com/album/706F4PTnmnegEMoSUuH9if) | 2:08 | 2024-03-05 | 2024-04-19 |
 | [Chedirina Kala](https://open.spotify.com/track/2Sv2MM96cs28H23K0S51Le) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS) | [Lullabies Of Love](https://open.spotify.com/album/4sid5HG2EfSdTYP4Wk553z) | 3:19 | 2025-11-18 | 2026-06-11 |
 | [Cheli Ra!](https://open.spotify.com/track/4KzYSEkjEfm6JkeaF7nbX1) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Cheli Ra!](https://open.spotify.com/album/4h38E5NQOMoLPaXc8h0kbD) | 3:24 | 2024-03-17 | 2025-09-05 |
@@ -349,6 +349,7 @@
 | [Ninne Ne Choosina Nimishana](https://open.spotify.com/track/6AxR54ZY7DawzNWrFhoptL) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Ninne Ne Choosina Nimishana](https://open.spotify.com/album/7vrGbY7lSIcTEN3lQsjTkP) | 4:19 | 2023-05-18 | 2023-05-26 |
 | [Ninne Ninne](https://open.spotify.com/track/615Prn1ffC6mqJOLPrzWpg) | [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu) | [Ninne Ninne](https://open.spotify.com/album/5Sm18efBdqqLZEfdEtQGmF) | 4:16 | 2024-02-14 | 2026-01-15 |
 | [Ninnu Cheraga](https://open.spotify.com/track/0KFpBnnR9yAgFrlqje5xHy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Ninnu Cheraga](https://open.spotify.com/album/2pBaIGMAS4SsoKHxBPAbok) | 3:07 | 2024-04-25 | 2025-08-22 |
+| [Ninnu Kalise Aasalu](https://open.spotify.com/track/33Gp9UMaCgYfdmHKBO3cBD) | [Smith Asher](https://open.spotify.com/artist/5XD5iyRb8Er9tN4bOynyFn), [Dheekshitha](https://open.spotify.com/artist/25cuzCxjFsOQLMLEDLvjEo), [Srinivasa Mouli](https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi) | [Ninnu Kalise Aasalu](https://open.spotify.com/album/30B9M7CT0xG7SQVyVJiUQW) | 3:58 | 2026-09-28 |  |
 | [No Hook Freeverse](https://open.spotify.com/track/5QwBnFrOOUA1Ko0RliK81x) | [C Shor](https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR) | [No Hook Freeverse](https://open.spotify.com/album/16aIU9o18bx2hhiDa5crRR) | 2:13 | 2025-11-18 | 2025-12-20 |
 | [Noi](https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0) | [Noi](https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V) | 4:45 | 2023-03-06 | 2023-11-21 |
 | [Nuv Lenide](https://open.spotify.com/track/0Cz5N91JbdypWxGoQMCSLd) | [K S Harisankar](https://open.spotify.com/artist/5xChfd59lzEVrY85cCQHeU) | [Nuv Lenide](https://open.spotify.com/album/2YTVIdEEygqyJF969Va698) | 3:43 | 2022-07-18 | 2023-05-23 |

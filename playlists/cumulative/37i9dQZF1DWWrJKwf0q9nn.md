@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: CVNTS
 
-1,507 songs - 3 day 4 hr 42 min
+1,508 songs - 3 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Cold](https://open.spotify.com/track/1PjmqiTjQhy1Q95oJqGdvA) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Cold](https://open.spotify.com/album/65rUDMyYRj4SW57ghwDAc9) | 3:05 | 2026-03-05 | 2026-04-07 |
 | [Cold Fresh Air](https://open.spotify.com/track/0qBCGXtX9RXypyFyDMZDP6) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Alec Monopoly](https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9) | [Cold Fresh Air](https://open.spotify.com/album/54KtnLwk1M9iXn8wDKVBFJ) | 2:30 | 2025-10-31 | 2025-11-28 |
 | [Cold Kisses](https://open.spotify.com/track/32YxjCCmipEEd3gWWwhSq1) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Cold Kisses](https://open.spotify.com/album/2VtDSccjKdjJ48SJHNjW2q) | 2:48 | 2026-04-23 | 2026-05-29 |
+| [Collide](https://open.spotify.com/track/59lrjocxqKQiPbTyHiD9Oo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Collide](https://open.spotify.com/album/3c8ps31q7g5MBu8RsWQ7FJ) | 3:28 | 2026-09-28 |  |
 | [Colombian Shipment](https://open.spotify.com/track/0KqnjA3tIWHVj4uHCsisCA) | [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Colombian Shipment EP](https://open.spotify.com/album/1lafwaOu6G5vXcbUpQEAtE) | 2:56 | 2025-10-16 | 2025-11-21 |
 | [COLORADO](https://open.spotify.com/track/5nOXtkJKRbxiWKMllo3DpJ) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [ZOHARA](https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2) | [COLORADO](https://open.spotify.com/album/0USW5CxIlgyrR0tSuOE8KC) | 1:54 | 2026-05-21 | 2026-06-26 |
 | [Colorblind](https://open.spotify.com/track/3zvdom5kwMcM1TxawIsLEl) | [EBENEZER](https://open.spotify.com/artist/3yCWyIDYH1hI29Wi0wjsAs), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m) | [Colorblind](https://open.spotify.com/album/2JWMoYzdI7FSLkkUEux3f3) | 3:28 | 2026-05-28 | 2026-07-03 |

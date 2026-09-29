@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,495 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,486 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 4 | [Hot Topic](https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Undeniable](https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8) | 3:02 |
 | 5 | [Wrestlemania](https://open.spotify.com/track/1CJcXEEggADxTHcdG6JrWq) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Surf's Up](https://open.spotify.com/album/7xOXvAr4rtexCJs1EdSMOF) | 3:33 |
 | 6 | [Canary](https://open.spotify.com/track/73PUE5Vp2NdUZ5VNiaYN26) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Canary](https://open.spotify.com/album/6pZQBsrp1LCAIDAPBRN9MV) | 3:26 |
-| 7 | [Ye](https://open.spotify.com/track/0oEhMEWHXOiYs58LP6ioC9) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Ye](https://open.spotify.com/album/3clavYvvQGYh01lciAx3t3) | 3:13 |
+| 7 | [Ye](https://open.spotify.com/track/0oEhMEWHXOiYs58LP6ioC9) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Ye](https://open.spotify.com/album/3clavYvvQGYh01lciAx3t3) | 3:13 |
 | 8 | [Vulnerability](https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Vulnerability](https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj) | 3:13 |
 | 9 | [the\_1](https://open.spotify.com/track/2kdUxRznNPG1G0PdyvA8aE) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [the\_1](https://open.spotify.com/album/2dBiSTOvZ6Q0r3owadT63F) | 2:21 |
 | 10 | [BAGS OF YEN](https://open.spotify.com/track/2Jc6ljWVTZ6aGmjsbsbmMX) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [BAGS OF YEN](https://open.spotify.com/album/3djlc1cQYUSvYgkjE0dHWi) | 2:18 |

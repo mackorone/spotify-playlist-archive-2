@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 30541,
+  "num_followers": 30542,
   "original_name": "THE IDOLM@STER SHINY COLORS",
   "owner": {
     "name": "Spotify",
@@ -260,6 +260,22 @@
       },
       "artists": [
         {
+          "name": "\u897f\u57ce\u6a39\u91cc (CV.\u6c38\u4e95\u771f\u91cc\u5b50)",
+          "url": "https://open.spotify.com/artist/5qNadnMpD2hCJy8xqfTYdL"
+        }
+      ],
+      "duration_ms": 232566,
+      "name": "\u30d1\u30e9\u30dc\u30e9",
+      "url": "https://open.spotify.com/track/35nPRlX5yJF5vRyjMZQnb1"
+    },
+    {
+      "added_at": "2026-09-15 16:17:03",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS -Sol-",
+        "url": "https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV"
+      },
+      "artists": [
+        {
           "name": "\u5e02\u5ddd\u96db\u83dc (CV.\u5ca1\u54b2\u7f8e\u4fdd)",
           "url": "https://open.spotify.com/artist/6tmX0pNtuRyYat4zyxRTes"
         }
@@ -283,22 +299,6 @@
       "duration_ms": 208600,
       "name": "Be-witched",
       "url": "https://open.spotify.com/track/30sNTeY5S4TKKqI0R37kv5"
-    },
-    {
-      "added_at": "2026-09-15 16:17:03",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS -Sol-",
-        "url": "https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV"
-      },
-      "artists": [
-        {
-          "name": "\u897f\u57ce\u6a39\u91cc (CV.\u6c38\u4e95\u771f\u91cc\u5b50)",
-          "url": "https://open.spotify.com/artist/5qNadnMpD2hCJy8xqfTYdL"
-        }
-      ],
-      "duration_ms": 232566,
-      "name": "\u30d1\u30e9\u30dc\u30e9",
-      "url": "https://open.spotify.com/track/35nPRlX5yJF5vRyjMZQnb1"
     },
     {
       "added_at": "2026-09-15 16:17:03",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-09-15 16:17:03",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 08",
+        "url": "https://open.spotify.com/album/1Wd36SK5i0M9tCAwHQJBTv"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/0kBiJtv0WCJ5ZT2cR8IyNM"
+        }
+      ],
+      "duration_ms": 224473,
+      "name": "OH MY GOD",
+      "url": "https://open.spotify.com/track/0EkPfuuMAy0zdR7oYvvCfJ"
+    },
+    {
+      "added_at": "2026-09-15 16:17:03",
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 06",
         "url": "https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 212533,
       "name": "Timeless Shooting Star",
       "url": "https://open.spotify.com/track/33svvagvZcmKa0GRyo3a4O"
-    },
-    {
-      "added_at": "2026-09-15 16:17:03",
-      "album": {
-        "name": "VOY@GER",
-        "url": "https://open.spotify.com/album/7A4Smsvs75oTc1uHBwzlF4"
-      },
-      "artists": [
-        {
-          "name": "\u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/4TmqnUvqQCqRdsIyax1zOJ"
-        }
-      ],
-      "duration_ms": 339133,
-      "name": "VOY@GER",
-      "url": "https://open.spotify.com/track/1XpmPaXl4Hct0ZTtTZnEPb"
     }
   ],
   "unique_name": "THE IDOLM@STER SHINY COLORS",

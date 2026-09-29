@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1265254,
+  "num_followers": 1265337,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Part One",
-        "url": "https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV"
-      },
-      "artists": [
-        {
-          "name": "The West Coast Pop Art Experimental Band",
-          "url": "https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Shifting Sands",
-      "url": "https://open.spotify.com/track/3jBCwLVmmfKUH8321N4bdd"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "The Future Starts Here: The Essential Doors Hits",
         "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 390293,
       "name": "The End",
       "url": "https://open.spotify.com/track/2jzjhQa7nLIaDMhMjSzedd"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Part One",
+        "url": "https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV"
+      },
+      "artists": [
+        {
+          "name": "The West Coast Pop Art Experimental Band",
+          "url": "https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Shifting Sands",
+      "url": "https://open.spotify.com/track/3jBCwLVmmfKUH8321N4bdd"
     },
     {
       "added_at": "2024-07-12 17:17:21",

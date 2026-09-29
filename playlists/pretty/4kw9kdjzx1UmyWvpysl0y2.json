@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122604,
+  "num_followers": 122591,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVx/4VsQojU0hS0cG1OtsYszTAneBk",
+  "snapshot_id": "AAAVyWHhOqw1NM0o760C+NVETbr38Xpk",
   "tracks": [
+    {
+      "added_at": "2026-09-28 14:56:32",
+      "album": {
+        "name": "More Than A Feeling",
+        "url": "https://open.spotify.com/album/3yQEXIBRpsNILTLLyEpToe"
+      },
+      "artists": [
+        {
+          "name": "LUCKY",
+          "url": "https://open.spotify.com/artist/5P9GtQg7W4cIRJZR5RbJfy"
+        },
+        {
+          "name": "Emma Somi",
+          "url": "https://open.spotify.com/artist/1002I61ZXXZIfBhFMoJ3Mi"
+        }
+      ],
+      "duration_ms": 221793,
+      "name": "More Than A Feeling",
+      "url": "https://open.spotify.com/track/0yoRBpZlnY6ASkk47kdZlt"
+    },
     {
       "added_at": "2026-09-25 15:25:39",
       "album": {
@@ -1183,166 +1203,6 @@
       "duration_ms": 252659,
       "name": "find cagescript",
       "url": "https://open.spotify.com/track/1zPfLq3eoKm2auisFPCIxS"
-    },
-    {
-      "added_at": "2026-06-18 16:09:09",
-      "album": {
-        "name": "stranger (xander. Remix)",
-        "url": "https://open.spotify.com/album/6qK04VkvlZe3qc0gExAVbc"
-      },
-      "artists": [
-        {
-          "name": "xander.",
-          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
-        },
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "Ehiorobo",
-          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
-        }
-      ],
-      "duration_ms": 126750,
-      "name": "stranger - xander. Remix",
-      "url": "https://open.spotify.com/track/3CKGwPqbohJvtLp4L3nG7j"
-    },
-    {
-      "added_at": "2026-06-17 15:18:37",
-      "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/2yNQqnLlFhN1hIltm6tDAC"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Simona Shao",
-          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
-        }
-      ],
-      "duration_ms": 201081,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/64L1sPpYqPRz5hrV0tw4DJ"
-    },
-    {
-      "added_at": "2026-06-15 15:45:53",
-      "album": {
-        "name": "Speed Of Light",
-        "url": "https://open.spotify.com/album/5i0cFxjBv38hQmSEHgyQyO"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        }
-      ],
-      "duration_ms": 177310,
-      "name": "Speed Of Light",
-      "url": "https://open.spotify.com/track/6Gr4CPYjaP5969AACKDdfZ"
-    },
-    {
-      "added_at": "2026-06-12 13:57:12",
-      "album": {
-        "name": "Cool For Me",
-        "url": "https://open.spotify.com/album/3A9FgPrm5naJyVjl7rqaQj"
-      },
-      "artists": [
-        {
-          "name": "Sudley",
-          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
-        },
-        {
-          "name": "Ekko & Sidetrack",
-          "url": "https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL"
-        },
-        {
-          "name": "WHAT EVA",
-          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Cool For Me",
-      "url": "https://open.spotify.com/track/1Sr93ailm3oNbn0FO3hM0l"
-    },
-    {
-      "added_at": "2026-06-11 14:02:18",
-      "album": {
-        "name": "breathe",
-        "url": "https://open.spotify.com/album/6I5AZZAixliwotjWRyrx4F"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 241256,
-      "name": "breathe",
-      "url": "https://open.spotify.com/track/6ifoDLGesgTpLfrWzCyEZF"
-    },
-    {
-      "added_at": "2026-06-10 14:19:27",
-      "album": {
-        "name": "wear my flag",
-        "url": "https://open.spotify.com/album/4gzSFJMjhZLFrHdBtQqXoi"
-      },
-      "artists": [
-        {
-          "name": "eh ok!",
-          "url": "https://open.spotify.com/artist/7MLMfTl0MHZrqeZtmPevl5"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "wear my flag",
-      "url": "https://open.spotify.com/track/5I0H39YAcrVuNAj9B3dgkQ"
-    },
-    {
-      "added_at": "2026-06-08 14:11:44",
-      "album": {
-        "name": "FLUTTER / STEP OUT",
-        "url": "https://open.spotify.com/album/3wYw808RXboatWPT5ksOT9"
-      },
-      "artists": [
-        {
-          "name": "JONCASS",
-          "url": "https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025"
-        },
-        {
-          "name": "FADENT",
-          "url": "https://open.spotify.com/artist/6f5AzOjOcVck70QRfBhxvK"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "FLUTTER",
-      "url": "https://open.spotify.com/track/3qgaPjS5fA89Ebx3sIpMyI"
-    },
-    {
-      "added_at": "2026-06-05 14:28:39",
-      "album": {
-        "name": "Cut Em Down",
-        "url": "https://open.spotify.com/album/6BDTKombhaeXnr5ZWHWQY6"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        },
-        {
-          "name": "DUX",
-          "url": "https://open.spotify.com/artist/2SQIvDK5WYmadA8xuHyBY7"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Cut Em Down",
-      "url": "https://open.spotify.com/track/1G5w9cbAUXuI1wZRoqsiBM"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-606 songs - 1 day 11 hr 34 min
+607 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-08-26 | 2024-05-17 |
 | [Misbehave](https://open.spotify.com/track/1ALvTgxMMuWG1ZtxDWM0Lb) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Campbell King](https://open.spotify.com/artist/18XKTgi2KHE5JpxFlrl7YM) | [Misbehave](https://open.spotify.com/album/1wXcega37XIaXTUHK85zDU) | 3:16 | 2026-07-02 | 2026-08-08 |
 | [Misery](https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Misery](https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM) | 3:15 | 2026-09-10 |  |
+| [moln \- Finally Version](https://open.spotify.com/track/0wnQPvxjJPkluqxweVO5F3) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [moln \(Finally Version\)](https://open.spotify.com/album/5xYq7IoC1I1o3cJ4oTQ6Zh) | 3:52 | 2026-09-24 |  |
 | [More Love](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [More Love](https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx) | 3:11 | 2022-08-26 | 2023-04-05 |
 | [Motions](https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH) | 3:28 | 2024-06-28 | 2026-04-11 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-28 | 2026-04-11 |
@@ -407,7 +408,7 @@
 | [People Like Us](https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [People Like Us](https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM) | 3:12 | 2026-04-10 | 2026-08-07 |
 | [Phantasy](https://open.spotify.com/track/5uEW8Kp1dM8UbotWxieU9c) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Phantasy](https://open.spotify.com/album/2w9JaI4kPmMHweV6ComleZ) | 4:00 | 2023-04-04 | 2024-05-17 |
 | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE) | 3:44 | 2024-06-14 | 2026-04-11 |
-| [Ping Pong](https://open.spotify.com/track/3U9X8CoHutLTOM4ppkCSdH) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [ACID HARRY](https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW), [mafiii](https://open.spotify.com/artist/7uw3CaiYVZaxdE7O33kneg) | [Ping Pong](https://open.spotify.com/album/0m9LrgbBQUdX7JSlsyMyjJ) | 2:58 | 2026-08-13 |  |
+| [Ping Pong](https://open.spotify.com/track/3U9X8CoHutLTOM4ppkCSdH) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [ACID HARRY](https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW), [mafiii](https://open.spotify.com/artist/7uw3CaiYVZaxdE7O33kneg) | [Ping Pong](https://open.spotify.com/album/0m9LrgbBQUdX7JSlsyMyjJ) | 2:58 | 2026-08-13 | 2026-09-29 |
 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 | 2022-08-26 | 2024-04-20 |
 | [Planet Blue](https://open.spotify.com/track/5MvfAqLuOzuJ46quLvHhwn) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Cleo Simone](https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne) | [Planet Blue](https://open.spotify.com/album/60JACgI9pZoolSzyl1yCTL) | 2:55 | 2024-07-05 | 2025-05-17 |
 | [Plastic Smiling](https://open.spotify.com/track/2Ns6oTwpUGA9zdcS6BEwU7) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Plastic Smiling](https://open.spotify.com/album/4bEqr1qELvLFgTUm1LIQFP) | 2:57 | 2022-08-26 | 2023-04-05 |

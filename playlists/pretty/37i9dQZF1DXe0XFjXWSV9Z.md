@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,914 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,917 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 42 | [Tambor Del Monte](https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 3:51 |
 | 43 | [El Pinochito Saltarin](https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [Legado: Colección Definitiva](https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW) | 2:36 |
 | 44 | [Republica Federal de Malphino](https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Lalango](https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg) | 3:29 |
-| 45 | [Yellow Laces](https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Yellow Laces \- Another Life](https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4) | 3:17 |
-| 46 | [Dame Tu Mano](https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Abya Yala](https://open.spotify.com/album/4mMZPRALo0FdtmG70m1Fe2) | 5:44 |
+| 45 | [Dame Tu Mano](https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Abya Yala](https://open.spotify.com/album/4mMZPRALo0FdtmG70m1Fe2) | 5:44 |
+| 46 | [Yellow Laces](https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Yellow Laces \- Another Life](https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4) | 3:17 |
 | 47 | [Caminito de mi Pueblo](https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x), [La Sonora Mazurén](https://open.spotify.com/artist/2IsqVzltUoufEu3q1yUmTX) | [Caminito de mi Pueblo](https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo) | 4:03 |
-| 48 | [Cumbia Disco Energy](https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo), [Polymarchs](https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99) | [Cumbia Disco Energy](https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur) | 3:57 |
-| 49 | [Bicicleta Intergalactica](https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU) | [Bacalao Men](https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk) | [El Nuevo Bugalu](https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF) | 4:30 |
+| 48 | [Bicicleta Intergalactica](https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU) | [Bacalao Men](https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk) | [El Nuevo Bugalu](https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF) | 4:30 |
+| 49 | [Cumbia Disco Energy](https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo), [Polymarchs](https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99) | [Cumbia Disco Energy](https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur) | 3:57 |
 | 50 | [Perro Rabioso](https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Estraik Back](https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY) | 3:51 |
 | 51 | [Cumbia del Metrónomo](https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz) | [Las Muiscas](https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige) | [Cumbia del Metrónomo](https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac) | 5:04 |
 | 52 | [Another Life](https://open.spotify.com/track/688jOdQWukxAS2bEDlDk3p) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Yellow Laces \- Another Life](https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4) | 2:50 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 84 | [Ñocoñoco](https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb) | [Rizomagic](https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt) | [Voltaje Raizal](https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw) | 5:16 |
 | 85 | [Cumbia del Paletero](https://open.spotify.com/track/4laare64UJzFrVoFuZOMqP) | [XIXA](https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e) | [Shift and Shadow](https://open.spotify.com/album/68coa3myXyACGNFuHU0OZT) | 4:03 |
 | 86 | [Metamorfosis](https://open.spotify.com/track/1FDduS4e9CDhZ3UFmoGAWq) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow), [El Grupo Renacimiento](https://open.spotify.com/artist/6nKLOhfxHF891LIo15FQCZ) | [Metamorfosis](https://open.spotify.com/album/5Wbem5BnV8kCBFcoeZYaQO) | 4:55 |
-| 87 | [Puerta del sol](https://open.spotify.com/track/7gLNpAOrOBpfhH3gSXdFQO) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Puerta del sol](https://open.spotify.com/album/7to1r45Wg55xqBzWhqHmMc) | 4:30 |
-| 88 | [Capricornio: Ven a mi amor](https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte) | [Sonido Desconocido 2](https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA) | [Capricornio: Ven a mi amor](https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF) | 2:50 |
-| 89 | [Para Poderte Olvidar](https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx) | [Qiensave](https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc) | [Para Poderte Olvidar](https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC) | 4:00 |
+| 87 | [Para Poderte Olvidar](https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx) | [Qiensave](https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc) | [Para Poderte Olvidar](https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC) | 4:00 |
+| 88 | [Puerta del sol](https://open.spotify.com/track/7gLNpAOrOBpfhH3gSXdFQO) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Puerta del sol](https://open.spotify.com/album/7to1r45Wg55xqBzWhqHmMc) | 4:30 |
+| 89 | [Capricornio: Ven a mi amor](https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte) | [Sonido Desconocido 2](https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA) | [Capricornio: Ven a mi amor](https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF) | 2:50 |
 | 90 | [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 |
 | 91 | [Virgen de Guadalupe](https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli) | [Virgen de Guadalupe](https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D) | 3:42 |
 | 92 | [Quémalo](https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Quémalo](https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY) | 3:40 |

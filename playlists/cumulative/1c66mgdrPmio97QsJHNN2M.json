@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "3310",
+        "url": "https://open.spotify.com/album/0yCf08eKIjClp2oQ6o9CoJ"
+      },
+      "artists": [
+        {
+          "name": "Medberg",
+          "url": "https://open.spotify.com/artist/3qrpnEUKcDuV7MoR4gzyXf"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150348,
+      "name": "3310",
+      "url": "https://open.spotify.com/track/3So0t6yWitZo8BHQRvwrYW"
+    },
+    {
+      "album": {
         "name": "3Am",
         "url": "https://open.spotify.com/album/0Hvchx9FLBwmYYpwVxoXa6"
       },
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 142525,
       "name": "Alien",
       "url": "https://open.spotify.com/track/4hSoxmPM2DQMVtAOY1Rztk"
@@ -4502,7 +4520,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 191573,
       "name": "Behind The Smile",
       "url": "https://open.spotify.com/track/4LG9dfsuhETu96ilshCGEg"
@@ -5870,7 +5888,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 146341,
       "name": "Boots By The Door",
       "url": "https://open.spotify.com/track/5LQbhEmHv93xstXC11j95K"
@@ -6730,6 +6748,24 @@
       "duration_ms": 187725,
       "name": "Burning fire",
       "url": "https://open.spotify.com/track/3KKrqbrSngyEnJGHD6w8rj"
+    },
+    {
+      "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/5IETjMevYMoj6HpwVs6nSk"
+      },
+      "artists": [
+        {
+          "name": "Melissa Seals",
+          "url": "https://open.spotify.com/artist/3yFgqYjP0ljLGdlm2Tel3t"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181694,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/7agKJumeFENmxIQr3Q2KNq"
     },
     {
       "album": {
@@ -9507,6 +9543,24 @@
     },
     {
       "album": {
+        "name": "Cruise to Nowhere",
+        "url": "https://open.spotify.com/album/3ZjcljF57tEZclPBKbs3Mz"
+      },
+      "artists": [
+        {
+          "name": "The Semiotics",
+          "url": "https://open.spotify.com/artist/1wL3TfUiigpqouG91iZ49S"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197959,
+      "name": "Cruise to Nowhere",
+      "url": "https://open.spotify.com/track/27nhBpow4hIBgvaSDr7bow"
+    },
+    {
+      "album": {
         "name": "ASMR",
         "url": "https://open.spotify.com/album/55WfeH0X0xsujv7doK5Nae"
       },
@@ -10794,6 +10848,24 @@
       "duration_ms": 130751,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/5VmAbGMUiDJIBZrPUXpgLc"
+    },
+    {
+      "album": {
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/162Aa3hYQqEEBYsauAwlpj"
+      },
+      "artists": [
+        {
+          "name": "Eleonora Bianchini",
+          "url": "https://open.spotify.com/artist/2fGV2nlAbS9UleAqXgULrR"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175061,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/2q562ZRCVpakSKAzzTKIDE"
     },
     {
       "album": {
@@ -20396,7 +20468,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 228571,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5mIC2serbv60vtTy02IMyU"
@@ -22774,7 +22846,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 253235,
       "name": "Identity Search",
       "url": "https://open.spotify.com/track/5qNsNBntn0ayb10NG9BYCC"
@@ -24900,7 +24972,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 194979,
       "name": "Killing Happiness",
       "url": "https://open.spotify.com/track/75BGR99RNILqpskPhYb1iJ"
@@ -24954,7 +25026,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 154146,
       "name": "King of the Floor",
       "url": "https://open.spotify.com/track/6O5MkEl606zN7rhvzk4nAV"
@@ -25446,7 +25518,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 175193,
       "name": "Land Down Under - Special Version",
       "url": "https://open.spotify.com/track/6IW0eV0J6SzGpI3P4O09dQ"
@@ -29042,6 +29114,28 @@
       "duration_ms": 78622,
       "name": "Math Lesson",
       "url": "https://open.spotify.com/track/5RH5VJJ017BPwKTcHRszE8"
+    },
+    {
+      "album": {
+        "name": "MAX OUT",
+        "url": "https://open.spotify.com/album/4RHWCqUVZOGnbhYie712hF"
+      },
+      "artists": [
+        {
+          "name": "dummy co.",
+          "url": "https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF"
+        },
+        {
+          "name": "Kool Karlo",
+          "url": "https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192413,
+      "name": "MAX OUT",
+      "url": "https://open.spotify.com/track/5pDkBCb5021OJNNTmtLfOV"
     },
     {
       "album": {
@@ -35146,7 +35240,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 198374,
       "name": "patterns",
       "url": "https://open.spotify.com/track/78keXLbFwFwqIqCsa5qiNz"
@@ -38998,7 +39092,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 162833,
       "name": "Sandcastles",
       "url": "https://open.spotify.com/track/5ZGKWGwU54Q5d5QlcqMsu3"
@@ -42682,7 +42776,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 105520,
       "name": "Sticker Code Crush",
       "url": "https://open.spotify.com/track/3datX6oKGTDGWzrD4e48Mv"
@@ -43326,7 +43420,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 199411,
       "name": "SUMMR",
       "url": "https://open.spotify.com/track/1530Jw4HeV0lbmCzJdwhDt"
@@ -48148,7 +48242,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 389642,
       "name": "Trippin' on me - Original Mix",
       "url": "https://open.spotify.com/track/6E2LD2PAM0ZtZVnxRAmSbB"
@@ -50548,7 +50642,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 128879,
       "name": "We're Here for a Reason",
       "url": "https://open.spotify.com/track/6uidH15Bo8DxMYTMmkZGNe"
@@ -53938,7 +54032,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 264410,
       "name": "Your Heavenly Peace",
       "url": "https://open.spotify.com/track/1kVnBXjBKsbb8XKOhrwp50"

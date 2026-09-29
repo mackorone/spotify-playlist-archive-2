@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22268,
+  "num_followers": 22265,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAAAWXMDjgFe+ZoSYPP+/5yMy",
+  "snapshot_id": "arhcgAAAAADJKnugZ6cV9BdQoKo4/HQY",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -403,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
       },
       "artists": [
         {
@@ -412,25 +428,9 @@
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Princ\u00edpio e Fim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7iLSh4dOutEWR2qZO3NWtV"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 383913,
-      "name": "Princ\u00edpio e Fim - Ao Vivo",
-      "url": "https://open.spotify.com/track/7eaTivrbUG41ALipFdQYus"
+      "duration_ms": 438080,
+      "name": "N\u00f3s Te Adoramos - Ao Vivo",
+      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
+        "name": "Princ\u00edpio e Fim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7iLSh4dOutEWR2qZO3NWtV"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 438080,
-      "name": "N\u00f3s Te Adoramos - Ao Vivo",
-      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
+      "duration_ms": 383913,
+      "name": "Princ\u00edpio e Fim - Ao Vivo",
+      "url": "https://open.spotify.com/track/7eaTivrbUG41ALipFdQYus"
     },
     {
       "added_at": null,
@@ -527,18 +527,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+        "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/3AAJ6ruUbzkffCCfPs1AOf"
       },
       "artists": [
+        {
+          "name": "Joe Vasconcelos",
+          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
+        },
+        {
+          "name": "Sing Church Worship",
+          "url": "https://open.spotify.com/artist/2gB9fUvjv7WdVt9sfqbd5J"
+        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 304400,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+      "duration_ms": 395773,
+      "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/2hZiJNnQTYL0qHgh4zIbNE"
     },
     {
       "added_at": null,
@@ -563,26 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/3AAJ6ruUbzkffCCfPs1AOf"
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
       },
       "artists": [
-        {
-          "name": "Joe Vasconcelos",
-          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
-        },
-        {
-          "name": "Sing Church Worship",
-          "url": "https://open.spotify.com/artist/2gB9fUvjv7WdVt9sfqbd5J"
-        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 395773,
-      "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/2hZiJNnQTYL0qHgh4zIbNE"
+      "duration_ms": 304400,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
     },
     {
       "added_at": null,

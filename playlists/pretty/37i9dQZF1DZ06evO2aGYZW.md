@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aGYZW.md) - [plain]
 
 > This is Macklemore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,151 likes - 48 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,237 likes - 48 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aGYZW.md) - [plain]
 | 47 | [Rio \(feat\. Macklemore & Digital Farm Animals\) \- Remix](https://open.spotify.com/track/1v2Ad22YIDj43KALniUMA7) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Rio \(feat\. Macklemore & Digital Farm Animals\) \[Remix\]](https://open.spotify.com/album/6hoaFK2OO9qH9qf4KM8h4Z) | 3:25 |
 | 48 | [American](https://open.spotify.com/track/5m4X2HQ0eiviwuKPoREanT) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [The Unplanned Mixtape](https://open.spotify.com/album/0Oy5pcr8Ijx4TqNn9AbC2k) | 4:13 |
 
-Snapshot ID: `arcLAAAAAAAf/C4Kom86yD6BfBeC7SUC`
+Snapshot ID: `arhcgAAAAADZgw/rn1ntkJJw9nxfwlqN`

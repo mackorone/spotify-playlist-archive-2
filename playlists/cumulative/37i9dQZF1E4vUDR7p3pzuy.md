@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With Bestial Mouths, Evil Level Live, Synthetik Blonde and more
+> With Bestial Mouths, JUST LIZZY, Evil Level Live and more
 
 1,255 songs - 3 day 8 hr 45 min
 

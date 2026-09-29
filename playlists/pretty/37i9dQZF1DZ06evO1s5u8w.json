@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 204988,
+  "num_followers": 205006,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAABUkCGvvDLWRsvoKThTP6p1",
+  "snapshot_id": "arhcgAAAAABjhC8AxZzEDOZb4A62DpXd",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 169160,
-      "name": "Uh-Oh, Love Comes to Town",
-      "url": "https://open.spotify.com/track/06JKOTOoHXuuKkiSBDdU6n"
+      "duration_ms": 297226,
+      "name": "This Must Be the Place (Naive Melody) - Live",
+      "url": "https://open.spotify.com/track/0cAPfvvqFZsqsIz3ZDSKIa"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 297226,
-      "name": "This Must Be the Place (Naive Melody) - Live",
-      "url": "https://open.spotify.com/track/0cAPfvvqFZsqsIz3ZDSKIa"
+      "duration_ms": 169160,
+      "name": "Uh-Oh, Love Comes to Town",
+      "url": "https://open.spotify.com/track/06JKOTOoHXuuKkiSBDdU6n"
     },
     {
       "added_at": null,

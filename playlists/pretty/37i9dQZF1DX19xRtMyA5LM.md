@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Mula & Lijpe, Rits, Yade Lauren, Jiggy Djé en meer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,059 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,041 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 2 | [Pistache](https://open.spotify.com/track/0LcFvudD0m6m0Vo2UyedFm) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Pistache](https://open.spotify.com/album/1QH2lIg5RSOJAvzFIysHec) | 2:25 |
 | 3 | [TOKYO](https://open.spotify.com/track/1bDOSa2VxFDMOTd2tEsuNE) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Ms\. Lauren](https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL) | 2:23 |
 | 4 | [100 Tranen](https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [100 Tranen](https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F) | 2:36 |
-| 5 | [Richard](https://open.spotify.com/track/3h4kL7dZVHZyU1Cb4IPQ0j) | [Johnny Sellah](https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4) | [Richard](https://open.spotify.com/album/2UatcdPXHsmDzv46YmNCEV) | 4:15 |
-| 6 | [Al Blancocino](https://open.spotify.com/track/5xqYeSU1PxLW4Eh4f7Cq52) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Al Blancocino](https://open.spotify.com/album/4wHUcYPm0jRvqVDYpaTPMM) | 2:21 |
-| 7 | [BLIJF RUSTIG](https://open.spotify.com/track/3ZuASB7LTpCgCTw4viLjud) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BLIJF RUSTIG](https://open.spotify.com/album/5QFofo9FIlEaSWSHWq9xXM) | 2:49 |
-| 8 | [Lost Boys](https://open.spotify.com/track/4d55Fj4LomExB8oVUFG34W) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [Lost Boys](https://open.spotify.com/album/1CtnhAtFo2zQP56mmlSTOG) | 3:46 |
-| 9 | [Rare Guy](https://open.spotify.com/track/5g9wyDLn6CdjxPAiUZ39s5) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Rare Guy](https://open.spotify.com/album/1oVBecxqzylVios2DEPRm0) | 4:43 |
-| 10 | [Komt Goed](https://open.spotify.com/track/4fAra1tnBDROPUAi9KNFUP) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj) | [Komt Goed](https://open.spotify.com/album/7huMpPzUuomxzqEUAIMOFl) | 2:45 |
-| 11 | [M3](https://open.spotify.com/track/5NApQdYLgupajwhUftPP24) | [Chelton](https://open.spotify.com/artist/3XwXB1YJBRfvbMFJiyOu7o), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [M3](https://open.spotify.com/album/5EVKfDOym1Sq35DzkqRWV6) | 2:19 |
-| 12 | [ANTWOORD](https://open.spotify.com/track/2XOhXbRSOBTixs6KdaD0tZ) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Zeldzame](https://open.spotify.com/artist/2ugsl1M9AwZ7ZrA5J9V4Vw) | [ANTWOORD](https://open.spotify.com/album/2nYltZhCFDDwFOPj9JAjE7) | 3:10 |
-| 13 | [STRAAT VAN HORMUZ](https://open.spotify.com/track/1EkX8cuRcpKKuAzUch3ALF) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [STRAAT VAN HORMUZ](https://open.spotify.com/album/4Icu867uMbpG2Kq7R0EYIh) | 3:16 |
-| 14 | [De Hele Week](https://open.spotify.com/track/4risNF5w5hvxyrtphmcbBM) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [De Hele Week](https://open.spotify.com/album/2GaRJuSmBfVjseyrgrqlTG) | 2:22 |
+| 5 | [Komt Goed](https://open.spotify.com/track/4fAra1tnBDROPUAi9KNFUP) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj) | [Komt Goed](https://open.spotify.com/album/7huMpPzUuomxzqEUAIMOFl) | 2:45 |
+| 6 | [Richard](https://open.spotify.com/track/3h4kL7dZVHZyU1Cb4IPQ0j) | [Johnny Sellah](https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4) | [Richard](https://open.spotify.com/album/2UatcdPXHsmDzv46YmNCEV) | 4:15 |
+| 7 | [Al Blancocino](https://open.spotify.com/track/5xqYeSU1PxLW4Eh4f7Cq52) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Al Blancocino](https://open.spotify.com/album/4wHUcYPm0jRvqVDYpaTPMM) | 2:21 |
+| 8 | [De Hele Week](https://open.spotify.com/track/4risNF5w5hvxyrtphmcbBM) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [De Hele Week](https://open.spotify.com/album/2GaRJuSmBfVjseyrgrqlTG) | 2:22 |
+| 9 | [BLIJF RUSTIG](https://open.spotify.com/track/3ZuASB7LTpCgCTw4viLjud) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BLIJF RUSTIG](https://open.spotify.com/album/5QFofo9FIlEaSWSHWq9xXM) | 2:49 |
+| 10 | [Lost Boys](https://open.spotify.com/track/4d55Fj4LomExB8oVUFG34W) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [Lost Boys](https://open.spotify.com/album/1CtnhAtFo2zQP56mmlSTOG) | 3:46 |
+| 11 | [Rare Guy](https://open.spotify.com/track/5g9wyDLn6CdjxPAiUZ39s5) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Rare Guy](https://open.spotify.com/album/1oVBecxqzylVios2DEPRm0) | 4:43 |
+| 12 | [M3](https://open.spotify.com/track/5NApQdYLgupajwhUftPP24) | [Chelton](https://open.spotify.com/artist/3XwXB1YJBRfvbMFJiyOu7o), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [M3](https://open.spotify.com/album/5EVKfDOym1Sq35DzkqRWV6) | 2:19 |
+| 13 | [ANTWOORD](https://open.spotify.com/track/2XOhXbRSOBTixs6KdaD0tZ) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Zeldzame](https://open.spotify.com/artist/2ugsl1M9AwZ7ZrA5J9V4Vw) | [ANTWOORD](https://open.spotify.com/album/2nYltZhCFDDwFOPj9JAjE7) | 3:10 |
+| 14 | [STRAAT VAN HORMUZ](https://open.spotify.com/track/1EkX8cuRcpKKuAzUch3ALF) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [STRAAT VAN HORMUZ](https://open.spotify.com/album/4Icu867uMbpG2Kq7R0EYIh) | 3:16 |
 | 15 | [Haast](https://open.spotify.com/track/3cOTBCliRjJUbVdz11RYtE) | [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7), [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Haast](https://open.spotify.com/album/3LAzeYbgU0cZmh5WbNiZD5) | 3:05 |
 | 16 | [Gangster Ben](https://open.spotify.com/track/21179u71xPUY3RocZgjLmJ) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Gangster Ben](https://open.spotify.com/album/1us4CmQlZGL2QySScsrept) | 2:06 |
 | 17 | [La Vida](https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [La Vida](https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y) | 2:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Life Is Meer Dan Leven \(feat\. Emms\)](https://open.spotify.com/track/4lNeh5AamBLLDjDNuMB85A) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Flashbacks & Jetlags](https://open.spotify.com/album/3QgLObJAyutJr87RuMwHzV) | 2:54 |
 | 60 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
 
-Snapshot ID: `AAAAAB3lb7PtnaRaor0oPm0a5mSiPtWy`
+Snapshot ID: `AAAAAHPNlYZwNOe9AfVlwuqIbXDi8biN`

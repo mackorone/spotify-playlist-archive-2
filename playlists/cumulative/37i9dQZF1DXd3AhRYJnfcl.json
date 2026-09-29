@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0644\u064a\u062c\u064a-\u0633\u064a",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0632\u064a\u062f \u062e\u0627\u0644\u062f \u0648\u0646\u0627\u0635\u0631",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "tracks": [
     {
@@ -2665,6 +2665,28 @@
     },
     {
       "album": {
+        "name": "HASESS BIK",
+        "url": "https://open.spotify.com/album/14rd2zLm3Ijw9yEieR8iEc"
+      },
+      "artists": [
+        {
+          "name": "Zaid Khaled",
+          "url": "https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r"
+        },
+        {
+          "name": "Nasser",
+          "url": "https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246250,
+      "name": "HASESS BIK",
+      "url": "https://open.spotify.com/track/6KqmdbNxbqcgbBdQJIkD76"
+    },
+    {
+      "album": {
         "name": "Hateshtaou",
         "url": "https://open.spotify.com/album/4w4I8NPdmNrAmdqb4aV3ZM"
       },
@@ -3386,6 +3408,24 @@
       "duration_ms": 201951,
       "name": "Lw",
       "url": "https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb"
+    },
+    {
+      "album": {
+        "name": "LouliPop",
+        "url": "https://open.spotify.com/album/4Vulv2M3AiggpLd8h2BIcf"
+      },
+      "artists": [
+        {
+          "name": "Lella Fadda",
+          "url": "https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Ma3lesh",
+      "url": "https://open.spotify.com/track/3NzuA36lOlTLFRzPcWKZZS"
     },
     {
       "album": {
@@ -5066,7 +5106,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 235258,
       "name": "Tameni Aal Habayeb",
       "url": "https://open.spotify.com/track/7mkr8nE8EGXqOkk5O741Cj"
@@ -7546,7 +7586,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 196877,
       "name": "\u0636\u064a\u0651 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u0633\u064a\u0631\u0629 \u0623\u0647\u0644 \u0627\u0644\u0636\u064a\u0651",
       "url": "https://open.spotify.com/track/57SkIuSdgMFHGNOtdBN8xO"

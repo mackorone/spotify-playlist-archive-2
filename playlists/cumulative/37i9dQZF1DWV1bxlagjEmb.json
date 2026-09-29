@@ -1015,6 +1015,28 @@
     },
     {
       "album": {
+        "name": "The Gem",
+        "url": "https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        },
+        {
+          "name": "The Maes",
+          "url": "https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180281,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0La342lZJ1Rl7IYac4yW6e"
+    },
+    {
+      "album": {
         "name": "I've Been Alone",
         "url": "https://open.spotify.com/album/4pPSxghCl7hSEXQyPKLqf5"
       },
@@ -2560,6 +2582,24 @@
       "duration_ms": 225154,
       "name": "Whatever Fits Together",
       "url": "https://open.spotify.com/track/7E9xLaEn82sboW3CLJCO9X"
+    },
+    {
+      "album": {
+        "name": "I see them, I see me",
+        "url": "https://open.spotify.com/album/2dIevXo4isEeTr9fmU9eZd"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193293,
+      "name": "When You Look at Me",
+      "url": "https://open.spotify.com/track/4vzmREv8I7PDPC95mK8t6V"
     },
     {
       "album": {

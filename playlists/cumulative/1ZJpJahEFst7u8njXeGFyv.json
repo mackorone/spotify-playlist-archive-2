@@ -1483,6 +1483,40 @@
     },
     {
       "album": {
+        "name": "All by myself",
+        "url": "https://open.spotify.com/album/4JQ7i8FXeKignJoYO4t537"
+      },
+      "artists": [
+        {
+          "name": "Eric Howard Carmen",
+          "url": "https://open.spotify.com/artist/1lkhYCFpi5uj7g2EKhUt4e"
+        },
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Irene Delgado-Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/5KKt9lmn8yY9NX2jiSecr9"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198616,
+      "name": "All by myself",
+      "url": "https://open.spotify.com/track/6dCG0irIkoPq9Qjr2L6vrM"
+    },
+    {
+      "album": {
         "name": "Alma Venus",
         "url": "https://open.spotify.com/album/5ncJKZNuhW3nZGxIO82pYs"
       },
@@ -2922,6 +2956,24 @@
       "duration_ms": 93344,
       "name": "Befiehl du deine Wege Variation (After Matth\u00e4uspassion, BWV 244, No. 53: Befiehl du deine Wege) [Arr. for Violin & String Quintet by Tim Allhoff]",
       "url": "https://open.spotify.com/track/4OXWgwdJbz6PfwGiwFgtOT"
+    },
+    {
+      "album": {
+        "name": "Before the World Sings",
+        "url": "https://open.spotify.com/album/4AqWiCs699sAOjOzXrmq4Q"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185185,
+      "name": "Before the World Sings",
+      "url": "https://open.spotify.com/track/46B0NQYvNcjHo2Hyz22ORU"
     },
     {
       "album": {
@@ -5032,7 +5084,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 403160,
       "name": "Debussy: Arabesque No. 1, L. 66",
       "url": "https://open.spotify.com/track/0Fmb1NhrUD4UNEitq0BrKj"
@@ -5230,6 +5282,32 @@
       "duration_ms": 272133,
       "name": "Deux Arabesques: No. 1",
       "url": "https://open.spotify.com/track/3iGGRjfZXYoYqYxNEYYbBX"
+    },
+    {
+      "album": {
+        "name": "Deuxi\u00e8me Chance",
+        "url": "https://open.spotify.com/album/0ymomQz35l2OIyMmVTDcGR"
+      },
+      "artists": [
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Irene Delgado-Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/5KKt9lmn8yY9NX2jiSecr9"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260465,
+      "name": "Deuxi\u00e8me Chance",
+      "url": "https://open.spotify.com/track/0cxSoyOh1KPKERPiqzETT3"
     },
     {
       "album": {
@@ -5566,7 +5644,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 240771,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/5WZ1THpr8voxeKvSUxN9vS"
@@ -6032,6 +6110,24 @@
       "duration_ms": 188928,
       "name": "fen\u00eatre de nuit",
       "url": "https://open.spotify.com/track/0rESr66vgnStq0IAmCkjrZ"
+    },
+    {
+      "album": {
+        "name": "Fermata",
+        "url": "https://open.spotify.com/album/4JX6cTjreUto3SKGbrQvHy"
+      },
+      "artists": [
+        {
+          "name": "Suena",
+          "url": "https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183904,
+      "name": "Fermata",
+      "url": "https://open.spotify.com/track/3hCQEudNCNQs0u9zaBpSW8"
     },
     {
       "album": {
@@ -7833,6 +7929,28 @@
     },
     {
       "album": {
+        "name": "I. Prologue: One Ring to Rule Them All (The Lord of the Rings Organ Symphony) & II. The Shire/Concerning Hobbits (The Lord of the Rings Organ Symphony)",
+        "url": "https://open.spotify.com/album/4KtlQu78wSWdUB920fo4xJ"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125746,
+      "name": "II. The Shire/Concerning Hobbits (The Lord of the Rings Organ Symphony)",
+      "url": "https://open.spotify.com/track/66N6L5ectcSYi5R4YfBq4U"
+    },
+    {
+      "album": {
         "name": "Relaxing Classical",
         "url": "https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12"
       },
@@ -8516,7 +8634,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 189013,
       "name": "Ithaca Suite: V. Eurycleia",
       "url": "https://open.spotify.com/track/6QOe54H6ZLrjT6zUSismrz"
@@ -9070,6 +9188,32 @@
       "duration_ms": 187535,
       "name": "L'\u00eele",
       "url": "https://open.spotify.com/track/3FYUVdbHjh4OAL6dOPHJTt"
+    },
+    {
+      "album": {
+        "name": "La Boh\u00e8me, SC 67: Che gelida manina (Arr. for Cello & Ensemble by Jan-Peter Kl\u00f6pfel)",
+        "url": "https://open.spotify.com/album/1eYAP2LEKhvHULrDneVDyY"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Jan Vogler",
+          "url": "https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA"
+        },
+        {
+          "name": "Moritzburg Ensemble",
+          "url": "https://open.spotify.com/artist/0cfPipoXojPaJ5deRb7oGa"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "La Boh\u00e8me, SC 67: Che gelida manina (Arr. for Cello & Ensemble by Jan-Peter Kl\u00f6pfel)",
+      "url": "https://open.spotify.com/track/5r79Eow5NH9soUToassS52"
     },
     {
       "album": {
@@ -11061,6 +11205,28 @@
     },
     {
       "album": {
+        "name": "Metamorphosis Two",
+        "url": "https://open.spotify.com/album/4sMimTNCh4SkFhVzWL50Zj"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416384,
+      "name": "Metamorphosis Two",
+      "url": "https://open.spotify.com/track/70bIGumCDM0MT1gATtpO00"
+    },
+    {
+      "album": {
         "name": "Mia (Solo Piano Version)",
         "url": "https://open.spotify.com/album/7MKcfhPJMlchtnRSlyoRrx"
       },
@@ -12128,7 +12294,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 154188,
       "name": "Nightlight",
       "url": "https://open.spotify.com/track/0fypoB1hrzA7NcI9431Hzt"
@@ -14334,7 +14500,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 329578,
       "name": "Piano Sonata in C Major, Hob XVI:35: II. Adagio",
       "url": "https://open.spotify.com/track/07zKKiI4XPbtOUmIAgWuul"
@@ -17082,7 +17248,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 241333,
       "name": "Somewhere Over the Rainbow",
       "url": "https://open.spotify.com/track/2OaGGj94xHvARetO5TOhkk"
@@ -17464,6 +17630,28 @@
       "duration_ms": 385106,
       "name": "Song to the Moon (from Rusalka)",
       "url": "https://open.spotify.com/track/66mLVHPZvRtTELZ6q7Z22d"
+    },
+    {
+      "album": {
+        "name": "Song Without Words in A Major",
+        "url": "https://open.spotify.com/album/3rbNekPV3k5ESL1TpYfAhC"
+      },
+      "artists": [
+        {
+          "name": "Florence Beatrice Price",
+          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+        },
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Song Without Words in A Major",
+      "url": "https://open.spotify.com/track/4xzxc7igB9XYMgLplT44Kp"
     },
     {
       "album": {
@@ -18526,6 +18714,28 @@
       "duration_ms": 315920,
       "name": "The Arts and the Hours (Arr. for Guitar by Michael Lewin)",
       "url": "https://open.spotify.com/track/16R3RNmbJohG6Lbn3qvexB"
+    },
+    {
+      "album": {
+        "name": "The Bells, T 442/BK 38/FVB 69",
+        "url": "https://open.spotify.com/album/0c07kLKjgHAtVsGm7MfatU"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "The Bells, T 442/BK 38/FVB 69",
+      "url": "https://open.spotify.com/track/61yNayTQcD8N3c4SyVKKqh"
     },
     {
       "album": {

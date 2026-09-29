@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 182922,
       "name": "Amelioration",
       "url": "https://open.spotify.com/track/1AhGwwEDV5ZrQ4tCXsFcQ1"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 224210,
       "name": "Breathe Deep",
       "url": "https://open.spotify.com/track/5btaMofKOTnk47EEvotbVI"
@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Can I Call You Sometime",
+        "url": "https://open.spotify.com/album/4qT5pgq8uc4xx6kdXSbKPW"
+      },
+      "artists": [
+        {
+          "name": "Muylike",
+          "url": "https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180655,
+      "name": "Can I Call You Sometime",
+      "url": "https://open.spotify.com/track/6BeaMFFoJlKu5eIpY4Ftfr"
+    },
+    {
+      "album": {
         "name": "Can't Find Love",
         "url": "https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H"
       },
@@ -482,6 +500,28 @@
       "duration_ms": 200313,
       "name": "Can't Find Love",
       "url": "https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg"
+    },
+    {
+      "album": {
+        "name": "Caught Up",
+        "url": "https://open.spotify.com/album/5ucNrxKLiiiqKgSmQfUVxp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burgos",
+          "url": "https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe"
+        },
+        {
+          "name": "Jeremy Page",
+          "url": "https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180996,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/6iOvRFd3eBSsbJf7MAKQGl"
     },
     {
       "album": {
@@ -616,6 +656,42 @@
       "duration_ms": 201534,
       "name": "Come Back and Stay",
       "url": "https://open.spotify.com/track/3tWBjig35HHMlofsK5Df1e"
+    },
+    {
+      "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264124,
+      "name": "Day To Night",
+      "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
+    },
+    {
+      "album": {
+        "name": "Next",
+        "url": "https://open.spotify.com/album/6TEWPxjTNRkLyXkTeBppjb"
+      },
+      "artists": [
+        {
+          "name": "Kendra Morris",
+          "url": "https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240696,
+      "name": "Dear Buddy",
+      "url": "https://open.spotify.com/track/2doDtmaGqLYhbRjMazi5Fl"
     },
     {
       "album": {
@@ -1566,7 +1642,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 158637,
       "name": "Joking",
       "url": "https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq"
@@ -1766,7 +1842,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 173216,
       "name": "Living In A Loop",
       "url": "https://open.spotify.com/track/2LqsPBNNV5H1AOIHeDv4LT"
@@ -1806,6 +1882,24 @@
       "duration_ms": 183893,
       "name": "London, Tokyo",
       "url": "https://open.spotify.com/track/78fv8y2e8uSXaoumhH2h5E"
+    },
+    {
+      "album": {
+        "name": "Lookalike",
+        "url": "https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Lookalike",
+      "url": "https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo"
     },
     {
       "album": {
@@ -1878,6 +1972,24 @@
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
+    },
+    {
+      "album": {
+        "name": "Make It A Better Place",
+        "url": "https://open.spotify.com/album/42jISsT0BzDHJZRKclpuBs"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181413,
+      "name": "Make It A Better Place",
+      "url": "https://open.spotify.com/track/2Ylixb6RYn2zi8KfO56bgI"
     },
     {
       "album": {
@@ -2474,7 +2586,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 152643,
       "name": "Perfect Crime",
       "url": "https://open.spotify.com/track/5HavXKjua26Sg0OB8LY7YD"
@@ -2514,7 +2626,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 190946,
       "name": "Pourquoi Pas?",
       "url": "https://open.spotify.com/track/5PuexREEoe623LZNmukDxT"
@@ -2720,7 +2832,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 168682,
       "name": "Say The Word",
       "url": "https://open.spotify.com/track/0c26nvNqCEA2l1ez41KzkK"
@@ -3121,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "The Power",
+        "url": "https://open.spotify.com/album/0aNqCa5cPoFwGYzjCqi0fL"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/02rMjqSC7MGBe0UBK9kAcg"
+    },
+    {
+      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/0SdP6YpDHTyVlSjkgBQJvZ"
       },
@@ -3168,7 +3298,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 210234,
       "name": "The Weatherman",
       "url": "https://open.spotify.com/track/1mt0m2cxR2LoJcrdElqVQq"
@@ -3296,6 +3426,24 @@
       "duration_ms": 221245,
       "name": "Through The Echoes",
       "url": "https://open.spotify.com/track/11mmSxrDMiOV1nGakvDoOq"
+    },
+    {
+      "album": {
+        "name": "Apothecary (Pt. 2)",
+        "url": "https://open.spotify.com/album/1PzZBoHkD3Ru61Wa83q7Jh"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178166,
+      "name": "Tib Street",
+      "url": "https://open.spotify.com/track/4zZJ8adzEFKGRa4bZVctdl"
     },
     {
       "album": {

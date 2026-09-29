@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 349596,
+  "num_followers": 349604,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAAAzHie9zP+SMo1uwxH2wmqW",
+  "snapshot_id": "arhcgAAAAACSEAr4/0YuhLiXqQ4sdlfZ",
   "tracks": [
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 201340,
-      "name": "Ignacio Parra",
-      "url": "https://open.spotify.com/track/2lUOZkS5QryL7hsr1s7coV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
         "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 142942,
       "name": "Ya Despu\u00e9s De Muerto",
       "url": "https://open.spotify.com/track/7tPNa5HXOyvTrE5Pp1wsmu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 201340,
+      "name": "Ignacio Parra",
+      "url": "https://open.spotify.com/track/2lUOZkS5QryL7hsr1s7coV"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 242439,
-      "name": "Mario Portillo",
-      "url": "https://open.spotify.com/track/0HXYmIG0cO3y0ASrZiezJx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 199045,
       "name": "Corazoncito Tirano",
       "url": "https://open.spotify.com/track/1lRVQ0anNC6adfOLfsHjG7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 242439,
+      "name": "Mario Portillo",
+      "url": "https://open.spotify.com/track/0HXYmIG0cO3y0ASrZiezJx"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
+        "name": "Adi\u00f3s A Chalino",
+        "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
       },
       "artists": [
         {
@@ -604,13 +604,13 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         },
         {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 220926,
-      "name": "Por Una Rencilla Vieja",
-      "url": "https://open.spotify.com/track/7FANq8cIDYSfNzoXR09I8V"
+      "duration_ms": 226069,
+      "name": "El Pitall\u00f3n",
+      "url": "https://open.spotify.com/track/2HvtcMIVVKLyiRekISxGk3"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adi\u00f3s A Chalino",
-        "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
       "artists": [
         {
@@ -644,13 +644,13 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         },
         {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 226069,
-      "name": "El Pitall\u00f3n",
-      "url": "https://open.spotify.com/track/2HvtcMIVVKLyiRekISxGk3"
+      "duration_ms": 220926,
+      "name": "Por Una Rencilla Vieja",
+      "url": "https://open.spotify.com/track/7FANq8cIDYSfNzoXR09I8V"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Los F\u00e9lix Y Los Quintero",
-        "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 226603,
-      "name": "Tino Quintero",
-      "url": "https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pela Vacas (Remastered 2025)",
         "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 207907,
       "name": "El Dos Dedos - Remastered 2025",
       "url": "https://open.spotify.com/track/6GtZB79gVl90m00jf2lYoa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Los F\u00e9lix Y Los Quintero",
+        "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 226603,
+      "name": "Tino Quintero",
+      "url": "https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pela Vacas (Remastered 2025)",
+        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Dinast\u00eda de los Ochoa - Remastered 2025",
+      "url": "https://open.spotify.com/track/72lurftDROYvnKSIzgQPwn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez Con Banda Brava",
         "url": "https://open.spotify.com/album/3m1i4eksY9hyC35jgnuRiF"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 212613,
       "name": "Rigo Coria",
       "url": "https://open.spotify.com/track/6j3HK6QW74vBoIYmzWYrQz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pela Vacas (Remastered 2025)",
-        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Dinast\u00eda de los Ochoa - Remastered 2025",
-      "url": "https://open.spotify.com/track/72lurftDROYvnKSIzgQPwn"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Lucero Negro",
-      "url": "https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Los F\u00e9lix Y Los Quintero",
         "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 270535,
       "name": "Prajedes F\u00e9lix",
       "url": "https://open.spotify.com/track/1u2zuqcikdm9WCRb2hfjtt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Lucero Negro",
+      "url": "https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9"
     },
     {
       "added_at": null,

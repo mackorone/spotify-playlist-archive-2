@@ -4,7 +4,7 @@
 
 > Nieuwe tijdloze muziek\. Cover: Chef'Special
 
-954 songs - 2 day 8 hr 9 min
+955 songs - 2 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 | 2026-03-05 | 2026-07-11 |
 | [Dreamers](https://open.spotify.com/track/0FFmB4MCI1lofdXUkask2p) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Dreamers](https://open.spotify.com/album/0G2lKjGTYpcPlhnrRKK6R2) | 3:02 | 2023-08-24 | 2024-01-26 |
 | [Dreaming](https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Dreaming](https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK) | 2:50 | 2023-10-27 | 2024-04-26 |
-| [Driftwood](https://open.spotify.com/track/481cyatp9kM5pUha4kw1qY) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Driftwood](https://open.spotify.com/album/5cimXUSd1VSZCwYEph003V) | 3:21 | 2026-03-13 |  |
+| [Driftwood](https://open.spotify.com/track/481cyatp9kM5pUha4kw1qY) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Driftwood](https://open.spotify.com/album/5cimXUSd1VSZCwYEph003V) | 3:21 | 2026-03-13 | 2026-09-29 |
 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-16 | 2026-07-11 |
 | [Drown Us Out](https://open.spotify.com/track/7Jfz5QUZE8T6ZRrNfAO04V) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Drown Us Out](https://open.spotify.com/album/7cVVLx6eUOcKPU9dKs7axq) | 3:16 | 2023-02-23 | 2023-06-02 |
 | [Easy](https://open.spotify.com/track/3Ezy5p9gSo1HaXt1UA2Pxd) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Easy](https://open.spotify.com/album/1FT7SkSdmYvIKc5ahDVItk) | 2:55 | 2023-10-12 | 2024-01-26 |
@@ -926,6 +926,7 @@
 | [Where There's Smoke, There's Fire](https://open.spotify.com/track/2fmKTXjj8zPinrBwswwTjI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Where There's Smoke, There's Fire](https://open.spotify.com/album/50yjrQvcvaw6M17RKAVZoh) | 5:00 | 2026-03-19 | 2026-09-19 |
 | [White Noise](https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [White Noise](https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R) | 2:51 | 2023-10-20 | 2024-04-05 |
 | [Who Am I](https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z) | [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Who Am I](https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6) | 2:25 | 2025-06-13 | 2025-09-09 |
+| [Who's That](https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Who's That](https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH) | 5:14 | 2026-09-28 |  |
 | [Wildfire](https://open.spotify.com/track/6oRFmBb9C6i3GgDpI9a9Uv) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Wildfire](https://open.spotify.com/album/2Z8Y6nIVFSbsQaVc4xvGK2) | 3:01 | 2025-02-27 | 2025-04-25 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-10-10 | 2025-02-04 |
 | [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 | 2023-02-23 | 2023-06-30 |

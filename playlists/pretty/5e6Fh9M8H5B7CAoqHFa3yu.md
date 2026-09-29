@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 354 likes - 2,663 songs - 6 day 11 hr 36 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,687 songs - 6 day 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2671,5 +2671,29 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2661 | [Sapno Ko Pakad](https://open.spotify.com/track/1vr20gV2waOP1OZMJqWvTi) | [Kanika Shrivastava](https://open.spotify.com/artist/2fkwx7KK5ZhTGEykGSHjyA) | [Sapno Ko Pakad](https://open.spotify.com/album/7uTqt9ip5ddKGJw8CARyvb) | 1:27 |
 | 2662 | [Tomorrow](https://open.spotify.com/track/2F9bk7Ne1UaGDR5tmqJZTR) | [Saint Roswell](https://open.spotify.com/artist/1d7q2JyusDHbMFzyGLKBbT) | [Truly](https://open.spotify.com/album/3WsOHZH7bCCBtChpLWk85m) | 4:04 |
 | 2663 | [Round Trip](https://open.spotify.com/track/6U0NWTfNS4pW7LvDXf65Qs) | [Saint Roswell](https://open.spotify.com/artist/1d7q2JyusDHbMFzyGLKBbT) | [Truly](https://open.spotify.com/album/3WsOHZH7bCCBtChpLWk85m) | 4:20 |
+| 2664 | [Valkoinen](https://open.spotify.com/track/0Ed4f1QilCHbOayselkx2X) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 1:29 |
+| 2665 | [Kantajat](https://open.spotify.com/track/3143CpmEi2iPtHjDlmHbo5) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 4:08 |
+| 2666 | [Kieli](https://open.spotify.com/track/0sLdmlbCPOBul8dLIdw93P) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 1:39 |
+| 2667 | [Klovni](https://open.spotify.com/track/1qaQq08DMsCtUkW7Yag4iS) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 1:23 |
+| 2668 | [Harttu II](https://open.spotify.com/track/589ZiIQ0DjCiEwbjcu7aTE) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 0:30 |
+| 2669 | [Poikani Taulu](https://open.spotify.com/track/0VMjnlRIf2IM20taYr3W2r) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Poikani Taulu](https://open.spotify.com/album/7uhhI5QruDcHiLFlHP91YF) | 0:18 |
+| 2670 | [Van Dörf: Kivet](https://open.spotify.com/track/51AeIjqAQ38yeLtk4ofzhe) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 1:01 |
+| 2671 | [Vitilumeen](https://open.spotify.com/track/5UEv9CF3gsKlQro3OyT3E0) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Vitilumeen](https://open.spotify.com/album/4XrGrSFbwNYghVHb8AM3XS) | 1:25 |
+| 2672 | [Kahva Irti](https://open.spotify.com/track/6dumkwLzvrtSyBFxxsYOV0) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Vitilumeen](https://open.spotify.com/album/4XrGrSFbwNYghVHb8AM3XS) | 1:07 |
+| 2673 | [Kuulen Auton Pyyhkijät II](https://open.spotify.com/track/42QN72hLRRVUB7t29sgOt0) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 5:07 |
+| 2674 | [Luutava Huuta](https://open.spotify.com/track/3E1OfCHA1vL5E53HqJjSRU) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Potero](https://open.spotify.com/album/5nz3Ups0ZNHkjhGSXHWwJD) | 0:53 |
+| 2675 | [MATTE\-RED \(Instrumental\)](https://open.spotify.com/track/0fKKu5A3CjKVXj5QzvJMYN) | [Greekwavs](https://open.spotify.com/artist/1uy9ygfSTin85qer5XTMmD) | [MATTE\-RED \(Instrumental\)](https://open.spotify.com/album/0IMrlX0WkObZNYcH6DBb6L) | 3:15 |
+| 2676 | [Sleepwalking](https://open.spotify.com/track/6xNhkMIB2tswmMAOe7T1u2) | [Inside Trading](https://open.spotify.com/artist/6d9cVe6aUDxQpbclXVmzLw), [Mista Ed](https://open.spotify.com/artist/5QwfAuiGOyHkhKLAejUxGG) | [Sleepwalking](https://open.spotify.com/album/4p8UuK2DJphGhd9Avy2cts) | 2:33 |
+| 2677 | [Ladybug Illusion](https://open.spotify.com/track/1nafUJRFeJUKJkMkeonHYV) | [Behnam Zandieh](https://open.spotify.com/artist/6ozQpNxAqGVq4zSV8L1QCt), [Mohammad Ali Teimouri](https://open.spotify.com/artist/0SUHCSWRUzXxf9JFquUDPI), [Dara Teymoorifar](https://open.spotify.com/artist/6TLuzZkNkv98VJvJsbgMmJ) | [Jazzromad](https://open.spotify.com/album/5PWENPKLacCrmeTssVZMlu) | 6:35 |
+| 2678 | [Cosmic Shift](https://open.spotify.com/track/0bYu7x5K1cPZGgcqQygt5q) | [Dust Theory](https://open.spotify.com/artist/13X9i9cm8aXabbcvEbvy8k) | [Relapse](https://open.spotify.com/album/0hf9ijpMRP7M0SPvysxZFF) | 5:29 |
+| 2679 | [Vanha Lenkkari](https://open.spotify.com/track/4iLErev6kVGtxrI8jqc4gp) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Lappeenrannassa](https://open.spotify.com/album/2FLEpk7AtlJcAcPBBrM6Ow) | 1:52 |
+| 2680 | [Tie II](https://open.spotify.com/track/2Tgb6hQWLox0HPTeG2t3tC) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 0:37 |
+| 2681 | [Kulkeva](https://open.spotify.com/track/0DXUiBZRIBfN4KP7bVCHOw) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 4:07 |
+| 2682 | [Kokonainen Suomi](https://open.spotify.com/track/1MRn7RJZbIs31tkO9c4u2O) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Suomi](https://open.spotify.com/album/3nm8fkEI7XQ6E1olKEcXGo) | 1:32 |
+| 2683 | [Nivalan Kotijää](https://open.spotify.com/track/5lFez49N2SeYTNwg27m3HX) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Nivalan Kotijää](https://open.spotify.com/album/7JjZZIErFAJblGwotGI6E2) | 4:00 |
+| 2684 | [Kuminen Auto Kulkee](https://open.spotify.com/track/0BGETwoE6bytKd33LP3XPe) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 7:03 |
+| 2685 | [Bothered](https://open.spotify.com/track/40pIjeVPYUpmsftBpcNH7a) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Bothered](https://open.spotify.com/album/3JYZKFg6qkYMcCIKkSlzFM) | 3:04 |
+| 2686 | [Something New](https://open.spotify.com/track/7G9HfHhiTPYrvtu7hTRFJk) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Something New](https://open.spotify.com/album/5iVvaFMO6P1bQKWxRfWr8p) | 4:40 |
+| 2687 | [Mia danz ma zu an Glasl Wein](https://open.spotify.com/track/2YrLwazAHjiPusDIloEk9k) | [Da Miche](https://open.spotify.com/artist/53Fd3yx5vQQ9ANNSf2NqFL) | [Mia danz ma zu an Glasl Wein](https://open.spotify.com/album/4ct9NHIgNB1DUD005yRHPd) | 6:10 |
 
-Snapshot ID: `AAALaMdhuAzNc5+uE8+Jb0x/j27cZgBQ`
+Snapshot ID: `AAALgAcwvX4pD+6Bhrs8BPCyI+G0lSXf`

@@ -4,13 +4,13 @@
 
 > This is The Runaways\. The essential tracks, all in one playlist.
 
-37 songs - 2 hr 12 min
+38 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Right You Guys \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/2nRrFBDAMsB2SMrV55NsU1) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 3:30 | 2026-03-07 |  |
 | [Black Leather](https://open.spotify.com/track/2tLjF7R9BBYoWS9AkWfpEG) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 3:49 | 2026-03-07 |  |
-| [Blackmail](https://open.spotify.com/track/4OQSUXmadIEnu1zH0uKgiI) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:40 | 2026-03-07 |  |
+| [Blackmail](https://open.spotify.com/track/4OQSUXmadIEnu1zH0uKgiI) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:40 | 2026-03-07 | 2026-09-29 |
 | [C' Mon \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/4wCRQHZSGTfQ1evOYpaxGT) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 4:13 | 2026-03-07 |  |
 | [California Paradise](https://open.spotify.com/track/6FuB23mAkJHWLileCU2hqC) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Queens Of Noise](https://open.spotify.com/album/2PUPhJHGBmdiIjMQjM7Dgp) | 2:54 | 2026-03-07 |  |
 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 | 2026-03-07 |  |
@@ -40,6 +40,7 @@
 | [Rock N Roll](https://open.spotify.com/track/5dfDYizNZT5aL99pOxkRDC) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 3:16 | 2026-03-07 |  |
 | [Saturday Nite Special](https://open.spotify.com/track/4eoozcjvDmy5f5AmtV0fnc) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 3:39 | 2026-03-07 |  |
 | [School Days](https://open.spotify.com/track/2DwZAzU2SZmjmfEdWlT4tK) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 2:53 | 2026-03-07 |  |
+| [Thunder](https://open.spotify.com/track/2din1KjgWL2TZKkMJHq1B8) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:32 | 2026-09-29 |  |
 | [Trash Can Murders](https://open.spotify.com/track/4MZyqgbeAf9VdWdyak146s) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 3:16 | 2026-03-24 |  |
 | [Wait For Me](https://open.spotify.com/track/5nhDarZPg8pMoY0r2QnVpj) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 4:55 | 2026-03-07 | 2026-03-24 |
 | [Wasted](https://open.spotify.com/track/6PXUO3U78bz7ygA2jirvOE) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 3:26 | 2026-03-07 |  |

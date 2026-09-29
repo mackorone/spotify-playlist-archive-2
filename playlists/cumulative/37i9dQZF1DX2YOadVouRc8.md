@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['00 Nostalgia](https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Andrę Wolff](https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85) | [Mango Juice & Bad Decisions](https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL) | 2:41 | 2023-03-03 | 2023-10-27 |
-| [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:39 | 2026-09-25 |  |
+| [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:38 | 2026-09-25 |  |
 | [10 Kilo](https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 | 2025-05-16 | 2026-08-14 |
 | [2 Bad](https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [2 Bad](https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ) | 2:36 | 2023-03-10 | 2024-01-13 |
 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-17 | 2023-09-25 |

@@ -4,7 +4,7 @@
 
 > Dance remixes of popular songs!
 
-217 songs - 9 hr 40 min
+218 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 | 2026-01-08 |  |
 | [All the Things She Said](https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [All the Things She Said](https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l) | 2:45 | 2025-07-10 | 2026-01-15 |
 | [Alors On Danse](https://open.spotify.com/track/1W1q2zYXgpU8G96dnvMqdE) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Alors On Danse](https://open.spotify.com/album/19ktLYnDadlzzCNetj87mX) | 2:02 | 2025-07-10 | 2026-03-06 |
+| [Alors On Danse \(Estan Locas\) \[with Daddy Yankee\]](https://open.spotify.com/track/1A01zOjZzMLbUIMeZZXNqO) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Alors On Danse \(Estan Locas\) \[with Daddy Yankee\]](https://open.spotify.com/album/7sMks6FwTKv0nV4eHitusl) | 2:36 | 2026-09-28 |  |
 | [Another Love](https://open.spotify.com/track/4HEsO57Z3m7uPkyskmMwc4) | [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Milcon](https://open.spotify.com/artist/6YGG5WcDJgBcar9Ul3AlJk) | [Another Love](https://open.spotify.com/album/39ysxDnMvzhMNa4D0e3Wmk) | 1:48 | 2025-07-10 |  |
 | [Bailando](https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV) | 2:16 | 2025-07-10 |  |
 | [Bailando](https://open.spotify.com/track/5Zm0lM69GIVw45fXhaL167) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Bailando](https://open.spotify.com/album/5PXUWLnPxUVsaOt1gERTRx) | 2:15 | 2025-07-10 |  |
@@ -132,7 +133,7 @@
 | [No Air](https://open.spotify.com/track/5MHzqBhWNta6P2jqws2CbA) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [No Air](https://open.spotify.com/album/2VFS1Gyx1f9abu19Nf7kRd) | 3:17 | 2026-08-20 |  |
 | [Nothing Else Matters vs F\*CKING SOCIETY \- Hardwell Mashup](https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 3:09 | 2025-07-10 | 2025-09-05 |
 | [Now That We Found Love](https://open.spotify.com/track/4x69WSo9kpkp0okxcm5Yzh) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [CODE/RED](https://open.spotify.com/album/3Ui5ZMET9cIriFK29bh1xr) | 2:32 | 2025-12-11 | 2026-06-19 |
-| [On 2nite](https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [On 2nite](https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N) | 2:38 | 2026-08-20 |  |
+| [On 2nite](https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [On 2nite](https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N) | 2:38 | 2026-08-20 | 2026-09-29 |
 | [P.I.M.P](https://open.spotify.com/track/4aIJ6bMEK91amdy07Ap21o) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a) | [P.I.M.P](https://open.spotify.com/album/2obXOASaM8BX9vlhWW24Ts) | 1:57 | 2025-07-10 |  |
 | [Paparazzi](https://open.spotify.com/track/6aisjMfoTpJoDa8jeXddkz) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Emilio](https://open.spotify.com/artist/5ejQjLfm6RcKIVWYxxupYj) | [Paparazzi](https://open.spotify.com/album/3QZ9sm89waa7Jo6H0heRZR) | 2:22 | 2026-02-12 |  |
 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 | 2025-07-10 |  |

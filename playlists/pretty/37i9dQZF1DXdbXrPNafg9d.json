@@ -1,12 +1,12 @@
 {
   "description": "The BEST new music every Friday, by INDIE EDITORS Cover: Julia Jacklin",
-  "num_followers": 1288124,
+  "num_followers": 1288093,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJlFVsJFqp/zzE3iwWwwvGs2XhiA",
+  "snapshot_id": "AAAAAPy7iIc+VN6/EbYp7hZYOdHqdWcS",
   "tracks": [
     {
       "added_at": "2026-09-25 04:02:44",
@@ -303,6 +303,26 @@
       "duration_ms": 190371,
       "name": "How Can I Explain What She Does To Me?",
       "url": "https://open.spotify.com/track/2rO9UrvTUHIswSZzzG4hLi"
+    },
+    {
+      "added_at": "2026-09-28 21:47:00",
+      "album": {
+        "name": "THIS IS SPA TOWN!",
+        "url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf"
+      },
+      "artists": [
+        {
+          "name": "300SkullsAndCounting",
+          "url": "https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63"
+        },
+        {
+          "name": "Jenny Sparks",
+          "url": "https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf"
+        }
+      ],
+      "duration_ms": 193522,
+      "name": "The Ballad of St Nick's Park",
+      "url": "https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX"
     },
     {
       "added_at": "2026-09-25 04:02:44",

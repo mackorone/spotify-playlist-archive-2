@@ -1,6 +1,6 @@
 {
   "description": "Las m\u00e1s pegadas. Cover: Ricky Martin, Los \u00c1ngeles Azules & TINI",
-  "num_followers": 691091,
+  "num_followers": 691074,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-04-03 04:02:51",
       "album": {
-        "name": "Con otra",
-        "url": "https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 231016,
-      "name": "Con otra",
-      "url": "https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ"
-    },
-    {
-      "added_at": "2026-04-03 04:02:51",
-      "album": {
         "name": "Fabricando Fantas\u00edas",
         "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 272266,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
+    },
+    {
+      "added_at": "2026-04-03 04:02:51",
+      "album": {
+        "name": "Con otra",
+        "url": "https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 231016,
+      "name": "Con otra",
+      "url": "https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ"
     },
     {
       "added_at": "2026-04-03 04:02:51",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-04-03 04:02:51",
       "album": {
+        "name": "Brindo Con Agua",
+        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 281082,
+      "name": "Brindo Con Agua",
+      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
+    },
+    {
+      "added_at": "2026-04-03 04:02:51",
+      "album": {
         "name": "MALPORTADA",
         "url": "https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 219252,
       "name": "MALPORTADA",
       "url": "https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt"
-    },
-    {
-      "added_at": "2026-04-03 04:02:51",
-      "album": {
-        "name": "Brindo Con Agua",
-        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 281082,
-      "name": "Brindo Con Agua",
-      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
     },
     {
       "added_at": "2026-04-03 04:02:51",

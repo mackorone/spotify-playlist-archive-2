@@ -4,7 +4,7 @@
 
 > A soothing selection of music from Pokémon Sleep! ©Pokémon/Nintendo/CR/GF
 
-60 songs - 3 hr 33 min
+62 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,5 +68,7 @@
 | [睡眠導入サウンド 森林](https://open.spotify.com/track/2GT8six6OnMsPSpn5Kcdo7) | [Pokémon Sleep](https://open.spotify.com/artist/65As9pJfcWHUl7Rpp4T476), [景山将太](https://open.spotify.com/artist/1Yyx41KWDE5iDL5I4T8wZ0) | [Pokémon Sleep](https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH) | 3:34 | 2024-09-23 |  |
 | [睡眠導入サウンド 波音](https://open.spotify.com/track/0350LXDrHXyA9l3TQJLpXS) | [Pokémon Sleep](https://open.spotify.com/artist/65As9pJfcWHUl7Rpp4T476), [景山将太](https://open.spotify.com/artist/1Yyx41KWDE5iDL5I4T8wZ0) | [Pokémon Sleep](https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH) | 4:00 | 2024-09-23 |  |
 | [秘境リサーチ！ミュウツーをおいかけて 1](https://open.spotify.com/track/2pzILlrUXCS8kv3d6Xg3NL) | [Pokémon Sleep](https://open.spotify.com/artist/65As9pJfcWHUl7Rpp4T476), [景山将太](https://open.spotify.com/artist/1Yyx41KWDE5iDL5I4T8wZ0) | [Pokémon Sleep](https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ) | 3:14 | 2026-09-19 |  |
+| [秘境リサーチ！ミュウツーをおいかけて 2](https://open.spotify.com/track/4ezsf20ryzr0kLEvmfu26W) | [Pokémon Sleep](https://open.spotify.com/artist/65As9pJfcWHUl7Rpp4T476), [景山将太](https://open.spotify.com/artist/1Yyx41KWDE5iDL5I4T8wZ0) | [Pokémon Sleep](https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ) | 4:30 | 2026-09-28 |  |
+| [秘境リサーチ！ミュウツーをおいかけて 3](https://open.spotify.com/track/4uC7FGjveyR1NdEc5rVUdW) | [Pokémon Sleep](https://open.spotify.com/artist/65As9pJfcWHUl7Rpp4T476), [景山将太](https://open.spotify.com/artist/1Yyx41KWDE5iDL5I4T8wZ0) | [Pokémon Sleep](https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ) | 4:10 | 2026-09-28 |  |
 
 \*This playlist was first scraped on 2024-09-24. Prior content cannot be recovered.

@@ -3513,6 +3513,36 @@
     },
     {
       "album": {
+        "name": "Bhootni Ka (From \"Udta Teer\")",
+        "url": "https://open.spotify.com/album/712LWqPZYzJrTCULmpWZdW"
+      },
+      "artists": [
+        {
+          "name": "Kaka",
+          "url": "https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Twinkle Aggrwal",
+          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213904,
+      "name": "Bhootni Ka (From \"Udta Teer\")",
+      "url": "https://open.spotify.com/track/7jZWdcfiNU2vJHQAjLzHVd"
+    },
+    {
+      "album": {
         "name": "Ghamasaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4g514iKfOyssRktyJmxDcN"
       },
@@ -4898,6 +4928,32 @@
       "duration_ms": 226043,
       "name": "Daag.",
       "url": "https://open.spotify.com/track/3JQcP0Lf3FkVIP758wdkMX"
+    },
+    {
+      "album": {
+        "name": "Drishyam: The Conclusion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4OWLuM8E8AhOxPLuXUq8oe"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Aamil Keeyan Khan",
+          "url": "https://open.spotify.com/artist/0sZTLjtoeLphLluBNsTrbF"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252621,
+      "name": "Daastaan - E - Tabaahi",
+      "url": "https://open.spotify.com/track/7mOUFPpcuIkvkNigz1Swe5"
     },
     {
       "album": {
@@ -21498,7 +21554,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 192000,
       "name": "Sochun Main",
       "url": "https://open.spotify.com/track/0N1ASYZHim2Uhj0DSqxKQO"
@@ -22518,7 +22574,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 365294,
       "name": "Tera Mera Rishta - New Version (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/1MOqdEnMcD4r0zMYEmp9Ju"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: GABRIELLA",
-  "num_followers": 575149,
+  "num_followers": 575148,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
+        "name": "Yo Era Atea",
+        "url": "https://open.spotify.com/album/4wgMwN0diMssKu9PQxc4IA"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Yo Era Atea",
+      "url": "https://open.spotify.com/track/3NV0YhnuNzjnUuh6STABEC"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
         "name": "Se Me Olvid\u00f3 Otra Vez",
         "url": "https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 146511,
       "name": "Vatos",
       "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
-        "name": "Yo Era Atea",
-        "url": "https://open.spotify.com/album/4wgMwN0diMssKu9PQxc4IA"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Yo Era Atea",
-      "url": "https://open.spotify.com/track/3NV0YhnuNzjnUuh6STABEC"
     },
     {
       "added_at": "2026-09-25 06:00:15",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
-        "name": "Que Nadie Sepa Mi Sufrir",
-        "url": "https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
         "name": "Aunque Me Duela",
         "url": "https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 196573,
       "name": "Lo Nuestro Es un Error",
       "url": "https://open.spotify.com/track/0JuxfeKIDbAkWc7BLVsd8b"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
+        "name": "Que Nadie Sepa Mi Sufrir",
+        "url": "https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
     },
     {
       "added_at": "2026-09-25 06:00:15",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
-        "name": "No Vuelvas",
-        "url": "https://open.spotify.com/album/3vmOjzuvn1Pd95ObRtDaIj"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 226553,
-      "name": "No Vuelvas",
-      "url": "https://open.spotify.com/track/6OoshvH8ZH1QSz0E7yRih7"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
         "name": "Ven Dev\u00f3rame Otra Vez",
         "url": "https://open.spotify.com/album/3wM4VgceWvRdeRCrwRVjtj"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 192296,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/7pndz0K5oyVUb3n9N5r14i"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
+        "name": "No Vuelvas",
+        "url": "https://open.spotify.com/album/3vmOjzuvn1Pd95ObRtDaIj"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 226553,
+      "name": "No Vuelvas",
+      "url": "https://open.spotify.com/track/6OoshvH8ZH1QSz0E7yRih7"
     },
     {
       "added_at": "2026-09-25 06:00:15",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
         "name": "China De Los Ojos Negros",
         "url": "https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 154835,
       "name": "China De Los Ojos Negros",
       "url": "https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
     },
     {
       "added_at": "2026-09-25 06:00:15",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
-        "name": "Sin Fortuna",
-        "url": "https://open.spotify.com/album/6zRpq1pfg1Qrm4TfSzqQVH"
-      },
-      "artists": [
-        {
-          "name": "Briseyda Solis",
-          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
-        }
-      ],
-      "duration_ms": 204456,
-      "name": "Sin Fortuna",
-      "url": "https://open.spotify.com/track/3ibQh12GABJyqaBXlXhqeg"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
         "name": "Ya Te Amo",
         "url": "https://open.spotify.com/album/11oV3e0iLoIvmNkV2fvBb1"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 206043,
       "name": "Cielito Lindo - Live",
       "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
+        "name": "Sin Fortuna",
+        "url": "https://open.spotify.com/album/6zRpq1pfg1Qrm4TfSzqQVH"
+      },
+      "artists": [
+        {
+          "name": "Briseyda Solis",
+          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
+        }
+      ],
+      "duration_ms": 204456,
+      "name": "Sin Fortuna",
+      "url": "https://open.spotify.com/track/3ibQh12GABJyqaBXlXhqeg"
     },
     {
       "added_at": "2026-09-25 06:00:15",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
-        "name": "Brillas",
-        "url": "https://open.spotify.com/album/5Li0ZHB4FDvyDMT3lKaFrS"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 179302,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/4UI9aUs4mjVZIWte8bgxDD"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
         "name": "La Gran Se\u00f1ora (Banda)",
         "url": "https://open.spotify.com/album/2vpPlSBA12bNyT6cKenLvW"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 185121,
       "name": "No Llega El Olvido - Banda",
       "url": "https://open.spotify.com/track/6Z38kXQPJiFfxow9b1NKam"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
+        "name": "Brillas",
+        "url": "https://open.spotify.com/album/5Li0ZHB4FDvyDMT3lKaFrS"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 179302,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/4UI9aUs4mjVZIWte8bgxDD"
     },
     {
       "added_at": "2026-09-25 06:00:15",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
-        "name": "Regresa La Reina",
-        "url": "https://open.spotify.com/album/75RCyGZ5HERcnZcsCmDvsY"
-      },
-      "artists": [
-        {
-          "name": "Mariana Millan",
-          "url": "https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf"
-        }
-      ],
-      "duration_ms": 155375,
-      "name": "Regresa La Reina",
-      "url": "https://open.spotify.com/track/1oQXRz158qna5qpKmJFa5r"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 225770,
       "name": "Es Demasiado Tarde",
       "url": "https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
+        "name": "Regresa La Reina",
+        "url": "https://open.spotify.com/album/75RCyGZ5HERcnZcsCmDvsY"
+      },
+      "artists": [
+        {
+          "name": "Mariana Millan",
+          "url": "https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf"
+        }
+      ],
+      "duration_ms": 155375,
+      "name": "Regresa La Reina",
+      "url": "https://open.spotify.com/track/1oQXRz158qna5qpKmJFa5r"
     },
     {
       "added_at": "2026-09-25 06:00:15",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
-        "name": "T\u00fa Ser\u00e1s Mi Baby",
-        "url": "https://open.spotify.com/album/5Bi4HNvi7RkD35jLJqqObs"
-      },
-      "artists": [
-        {
-          "name": "Susana Zabaleta",
-          "url": "https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q"
-        }
-      ],
-      "duration_ms": 172944,
-      "name": "T\u00fa Ser\u00e1s Mi Baby",
-      "url": "https://open.spotify.com/track/5AyIzkvWCgH7IY8qCoJbYo"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
         "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
         "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+        "name": "T\u00fa Ser\u00e1s Mi Baby",
+        "url": "https://open.spotify.com/album/5Bi4HNvi7RkD35jLJqqObs"
       },
       "artists": [
         {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+          "name": "Susana Zabaleta",
+          "url": "https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q"
         }
       ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
+      "duration_ms": 172944,
+      "name": "T\u00fa Ser\u00e1s Mi Baby",
+      "url": "https://open.spotify.com/track/5AyIzkvWCgH7IY8qCoJbYo"
     },
     {
       "added_at": "2026-09-25 06:00:15",
@@ -1459,6 +1443,22 @@
       "duration_ms": 157317,
       "name": "Ya Pa' Que",
       "url": "https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
       "added_at": "2026-09-25 06:00:15",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
+        "name": "All\u00e1 Donde Vayas",
+        "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
+      },
+      "artists": [
+        {
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
+        }
+      ],
+      "duration_ms": 213316,
+      "name": "All\u00e1 Donde Vayas",
+      "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
         "name": "De Beso En Cuando",
         "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
       },
@@ -1651,38 +1667,6 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
-        "name": "All\u00e1 Donde Vayas",
-        "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
-      },
-      "artists": [
-        {
-          "name": "Angela Fonte",
-          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
-        }
-      ],
-      "duration_ms": 213316,
-      "name": "All\u00e1 Donde Vayas",
-      "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/3WdLKbUHPxNbHmJXe2BVeu"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 213237,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/2xyOmSHmjWQN1JrIIcZdpz"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/4M5aDPki2nzsQvjmqRvxkX"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 217735,
       "name": "Monarca",
       "url": "https://open.spotify.com/track/21EIwkVeaWPgqlyk7Af2CV"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/3WdLKbUHPxNbHmJXe2BVeu"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 213237,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/2xyOmSHmjWQN1JrIIcZdpz"
     },
     {
       "added_at": "2026-09-25 06:00:15",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2026-09-25 06:00:15",
       "album": {
+        "name": "Caminos De Michoacan (En Vivo)",
+        "url": "https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 363264,
+      "name": "Caminos De Michoacan - En Vivo",
+      "url": "https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD"
+    },
+    {
+      "added_at": "2026-09-25 06:00:15",
+      "album": {
         "name": "Vas De Salida",
         "url": "https://open.spotify.com/album/4xp1xzruof6D5oPPDTvcyU"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 211898,
       "name": "Vas De Salida",
       "url": "https://open.spotify.com/track/3D6Hf0GVInskiVwZ7e37eK"
-    },
-    {
-      "added_at": "2026-09-25 06:00:15",
-      "album": {
-        "name": "Caminos De Michoacan (En Vivo)",
-        "url": "https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 363264,
-      "name": "Caminos De Michoacan - En Vivo",
-      "url": "https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD"
     },
     {
       "added_at": "2026-09-25 06:00:15",

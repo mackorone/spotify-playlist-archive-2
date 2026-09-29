@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2026\-27 BABYMONSTER WORLD TOUR \[춤 \(CHOOM\)\] IN JAPAN』のセットリストをMCとあわせて公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,491 likes - 25 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,482 likes - 25 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

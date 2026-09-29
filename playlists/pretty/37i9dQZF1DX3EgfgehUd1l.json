@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 178993,
+  "num_followers": 179001,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Greatest Hits: Walking To New Orleans",
-        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
+        "name": "Saga All Stars: Be Bop a Lula / 1956",
+        "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Gene Vincent",
+          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
+        },
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
         }
       ],
-      "duration_ms": 143440,
-      "name": "Blueberry Hill - Remastered 2002",
-      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
+      "duration_ms": 156493,
+      "name": "Be Bop a Lula",
+      "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -207,22 +211,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Saga All Stars: Be Bop a Lula / 1956",
-        "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
+        "name": "Greatest Hits: Walking To New Orleans",
+        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
       },
       "artists": [
         {
-          "name": "Gene Vincent",
-          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
-        },
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
         }
       ],
-      "duration_ms": 156493,
-      "name": "Be Bop a Lula",
-      "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
+      "duration_ms": 143440,
+      "name": "Blueberry Hill - Remastered 2002",
+      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Music To Watch Girls By - The Classics",
+        "url": "https://open.spotify.com/album/02F3n1WpxDOwGNX6fLP6to"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 150573,
+      "name": "Mambo Italiano",
+      "url": "https://open.spotify.com/track/5fTLxkGtPTcqgEY88AeB5r"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Best of Don Cherry",
         "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 155066,
       "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
       "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Music To Watch Girls By - The Classics",
-        "url": "https://open.spotify.com/album/02F3n1WpxDOwGNX6fLP6to"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 150573,
-      "name": "Mambo Italiano",
-      "url": "https://open.spotify.com/track/5fTLxkGtPTcqgEY88AeB5r"
     },
     {
       "added_at": "2023-10-17 16:18:55",

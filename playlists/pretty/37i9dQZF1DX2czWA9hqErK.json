@@ -1,6 +1,6 @@
 {
   "description": "Soft edges and slow motion moments \ud83e\udeb4",
-  "num_followers": 1308930,
+  "num_followers": 1308840,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "FOREVER AGAIN",
-        "url": "https://open.spotify.com/album/0j9WkluXe8I6DNPWyYTevQ"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 160147,
-      "name": "FOREVER AGAIN",
-      "url": "https://open.spotify.com/track/3CVQG2E6CL91pTeggbJOSj"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "ROOM UNDER THE STAIRS",
         "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 232380,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "FOREVER AGAIN",
+        "url": "https://open.spotify.com/album/0j9WkluXe8I6DNPWyYTevQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 160147,
+      "name": "FOREVER AGAIN",
+      "url": "https://open.spotify.com/track/3CVQG2E6CL91pTeggbJOSj"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "No Way To Relax When You Are On Fire",
-        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "No Way To Relax When You Are On Fire",
-      "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Anyone In Love",
         "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 186990,
       "name": "Anyone In Love",
       "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "No Way To Relax When You Are On Fire",
+        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "No Way To Relax When You Are On Fire",
+      "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "Call Them And Tell Them You Love Them",
+        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "duration_ms": 191912,
+      "name": "Too Many Times",
+      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Falling Into Place (ft. Debbie)",
         "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 200000,
       "name": "Falling Into Place (ft. Debbie)",
       "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "Call Them And Tell Them You Love Them",
-        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
-      },
-      "artists": [
-        {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
-        }
-      ],
-      "duration_ms": 191912,
-      "name": "Too Many Times",
-      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "the minute you're gone",
-        "url": "https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ujXwurXPasKhBGQteD07z"
       },
       "artists": [
         {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
         }
       ],
-      "duration_ms": 183374,
-      "name": "the minute you're gone",
-      "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
+      "duration_ms": 155049,
+      "name": "Live First, Love Later",
+      "url": "https://open.spotify.com/track/3VpG43w5Cfmw7rLAfS2Ovx"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ujXwurXPasKhBGQteD07z"
+        "name": "the minute you're gone",
+        "url": "https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6"
       },
       "artists": [
         {
-          "name": "Sonny Tennet",
-          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
         }
       ],
-      "duration_ms": 155049,
-      "name": "Live First, Love Later",
-      "url": "https://open.spotify.com/track/3VpG43w5Cfmw7rLAfS2Ovx"
+      "duration_ms": 183374,
+      "name": "the minute you're gone",
+      "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
     },
     {
       "added_at": "2026-04-16 23:00:52",

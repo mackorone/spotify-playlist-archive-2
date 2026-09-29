@@ -4500,7 +4500,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 181500,
       "name": "Loveah Sollitalea (From \"Youth\")",
       "url": "https://open.spotify.com/track/5BeBUWnnEqOhIWKNA4ZcRe"
@@ -6593,6 +6593,24 @@
     },
     {
       "album": {
+        "name": "#Love (Songs from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0CI3kqQXa3TGRSKYVARvId"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238362,
+      "name": "Oru Kadhaley",
+      "url": "https://open.spotify.com/track/59si3TNZDqqTFIaLZRD5nU"
+    },
+    {
+      "album": {
         "name": "Oru Manam (From \"Dhruva Natchathiram\")",
         "url": "https://open.spotify.com/album/69MQlshE2Cveetu5T2b2JT"
       },
@@ -7150,7 +7168,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 252569,
       "name": "Pavazha Malli - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
@@ -8454,6 +8472,32 @@
       "duration_ms": 195250,
       "name": "Thaal - From \"Joshua Imai Pol Kaakha\"",
       "url": "https://open.spotify.com/track/6jW48mo3K5XoY8SevDYp2k"
+    },
+    {
+      "album": {
+        "name": "THAMARAI (From \"Enemy Of The Smuggler\")",
+        "url": "https://open.spotify.com/album/4LaZDv9hDPoZyoCqLacuZg"
+      },
+      "artists": [
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "T.Samaya Murali",
+          "url": "https://open.spotify.com/artist/4b96qp24vtTCk8dEDVAwm9"
+        },
+        {
+          "name": "Sam Daniel",
+          "url": "https://open.spotify.com/artist/5zm0HX6N1vEJx1pxBYM5lX"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "THAMARAI - From \"Enemy Of The Smuggler\"",
+      "url": "https://open.spotify.com/track/7hgdLYQXGpoAj0XlG7nsDu"
     },
     {
       "album": {

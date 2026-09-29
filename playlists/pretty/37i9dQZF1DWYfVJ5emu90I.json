@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26747,
+  "num_followers": 26754,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,26 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
+        "name": "POP KILLERS (feat. ralph)",
+        "url": "https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5"
+      },
+      "artists": [
+        {
+          "name": "C.O.S.A.",
+          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "duration_ms": 159620,
+      "name": "POP KILLERS (feat. ralph)",
+      "url": "https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
         "name": "New Stars Swag",
         "url": "https://open.spotify.com/album/78MusSj7gCs8daCm2CRfS1"
       },
@@ -983,54 +1003,26 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Best Way 2 Die (feat. Jin Dogg, LEX & YOUNGBONG)",
-        "url": "https://open.spotify.com/album/0IPHOMKradmfeCU67d5pSZ"
+        "name": "DEATH NOTE",
+        "url": "https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW"
       },
       "artists": [
         {
-          "name": "DJ CHARI",
-          "url": "https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p"
+          "name": "OVER KILL",
+          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
         },
         {
-          "name": "DJ TATSUKI",
-          "url": "https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5"
+          "name": "Pxrge Trxxxper",
+          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
         },
         {
-          "name": "Jin Dogg",
-          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
-        },
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
-        },
-        {
-          "name": "YOUNGBONG",
-          "url": "https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1"
+          "name": "NEMLAND",
+          "url": "https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j"
         }
       ],
-      "duration_ms": 214602,
-      "name": "Best Way 2 Die (feat. Jin Dogg, LEX & YOUNGBONG)",
-      "url": "https://open.spotify.com/track/1ZLqz5HjWXvx5Tjq8z8DZB"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
-        "name": "POP KILLERS (feat. ralph)",
-        "url": "https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5"
-      },
-      "artists": [
-        {
-          "name": "C.O.S.A.",
-          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
-        },
-        {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
-        }
-      ],
-      "duration_ms": 159620,
-      "name": "POP KILLERS (feat. ralph)",
-      "url": "https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC"
+      "duration_ms": 174081,
+      "name": "DEATH NOTE",
+      "url": "https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc"
     }
   ],
   "unique_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",

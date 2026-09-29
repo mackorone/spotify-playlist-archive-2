@@ -1775,6 +1775,36 @@
     },
     {
       "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/30TJyICimJnB20TfBMMhuZ"
+      },
+      "artists": [
+        {
+          "name": "Dj Novvas",
+          "url": "https://open.spotify.com/artist/5of4vDWRl3sfSXJ0lX28ew"
+        },
+        {
+          "name": "Turkin 062",
+          "url": "https://open.spotify.com/artist/1I7U6WoXEl5tcTt2H0O35a"
+        },
+        {
+          "name": "Ryan",
+          "url": "https://open.spotify.com/artist/7dEk4gbXVGtCqenZo5OVmF"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118624,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/151xd29Kfa7Q1JT6LnoiMY"
+    },
+    {
+      "album": {
         "name": "Novembro",
         "url": "https://open.spotify.com/album/2dv7uPquU801ROCydE2GPv"
       },
@@ -4168,7 +4198,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 140231,
       "name": "Soca Com Press\u00e3o",
       "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"

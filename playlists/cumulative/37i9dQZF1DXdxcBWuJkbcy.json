@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "ACID WASH",
+        "url": "https://open.spotify.com/album/7BOh0DLMDuozeT9jxYdVDD"
+      },
+      "artists": [
+        {
+          "name": "Albin Myers",
+          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150676,
+      "name": "ACID WASH - Radio Edit",
+      "url": "https://open.spotify.com/track/0WjbBbmuESaG9ML9ul31fx"
+    },
+    {
+      "album": {
         "name": "Adagio For Strings",
         "url": "https://open.spotify.com/album/59IsKUd2ZI99214VNwBN2Q"
       },
@@ -1812,7 +1830,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 169852,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
@@ -17610,7 +17628,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 204436,
       "name": "Satisfaction - Hardwell & Maddix Remix",
       "url": "https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD"
@@ -20460,6 +20478,32 @@
       "duration_ms": 169523,
       "name": "The Answer",
       "url": "https://open.spotify.com/track/1MmVr14SYu8xYt16ACPXQG"
+    },
+    {
+      "album": {
+        "name": "The Barrell",
+        "url": "https://open.spotify.com/album/3SFMKVfmtkgvNeqYUmYYeJ"
+      },
+      "artists": [
+        {
+          "name": "Nic Johnston",
+          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
+        },
+        {
+          "name": "Blaze U",
+          "url": "https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1"
+        },
+        {
+          "name": "Lionar",
+          "url": "https://open.spotify.com/artist/5JI5dFF3bRFbTHczPmII7a"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129171,
+      "name": "The Barrell",
+      "url": "https://open.spotify.com/track/2o9ZjWIN2Mg7dwozzbiXb3"
     },
     {
       "album": {

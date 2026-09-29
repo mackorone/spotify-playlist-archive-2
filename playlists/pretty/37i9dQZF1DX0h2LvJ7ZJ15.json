@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1660767,
+  "num_followers": 1660956,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,30 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
+        "name": "HEAVENLY JUMPSTYLE",
+        "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
+      },
+      "artists": [
+        {
+          "name": "TWXNY",
+          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
+        },
+        {
+          "name": "Sxilwix",
+          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
+        },
+        {
+          "name": "INNXCENCE",
+          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
+        }
+      ],
+      "duration_ms": 128477,
+      "name": "HEAVENLY JUMPSTYLE - Slowed",
+      "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
+    },
+    {
+      "added_at": "2026-08-04 14:05:45",
+      "album": {
         "name": "Black Out Days [Future Islands Remix (Slowed)]",
         "url": "https://open.spotify.com/album/51DQUyUCSwUuIErPPGUcFj"
       },
@@ -687,30 +711,6 @@
       "duration_ms": 214394,
       "name": "Black Out Days - Future Islands Remix (Slowed)",
       "url": "https://open.spotify.com/track/5tRnzF4v2KL72QQdCjopyt"
-    },
-    {
-      "added_at": "2026-08-04 14:05:45",
-      "album": {
-        "name": "HEAVENLY JUMPSTYLE",
-        "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
-      },
-      "artists": [
-        {
-          "name": "TWXNY",
-          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
-        },
-        {
-          "name": "Sxilwix",
-          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
-        },
-        {
-          "name": "INNXCENCE",
-          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
-        }
-      ],
-      "duration_ms": 128477,
-      "name": "HEAVENLY JUMPSTYLE - Slowed",
-      "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
     },
     {
       "added_at": "2026-08-04 14:05:45",

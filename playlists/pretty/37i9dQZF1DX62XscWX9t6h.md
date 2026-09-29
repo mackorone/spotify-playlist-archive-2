@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,305 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,339 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 81 | [Remotely Close: Silkyway](https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Elif Çağlar](https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv) | [Remotely Close: Silkyway](https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw) | 3:50 |
 | 82 | [Lam Phu Thai \# 1](https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr) | [Khun Narin](https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1) | [Khun Narin's Electric Phin Band](https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S) | 5:57 |
 | 83 | [Dejate Llevar](https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dejate Llevar](https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg) | 5:01 |
-| 84 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
-| 85 | [Enkaz](https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Enkaz](https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH) | 3:20 |
+| 84 | [Enkaz](https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Enkaz](https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH) | 3:20 |
+| 85 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
 | 86 | [Lele Yane](https://open.spotify.com/track/0ft5jkeELw5jdq6NZ9Bmh5) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV), [Irina Mikhailova](https://open.spotify.com/artist/2WJ3FV4yMhfoY9H5VOTscR) | [Up from the Dust](https://open.spotify.com/album/54RiFl146sDKcHQr5Poi58) | 6:15 |
 | 87 | [NO ME DABA CUENTA](https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [María José Luna](https://open.spotify.com/artist/3qWEWBaboJlhjWv3WwYiCR) | [NO ME DABA CUENTA](https://open.spotify.com/album/68uVa82hN3W52PvE3SeocK) | 3:29 |
 | 88 | [Makeda](https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 5:53 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 97 | [Jevâ](https://open.spotify.com/track/0RrJFJ8vcqBaVT5llKTOxt) | [Massimo Silverio](https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI) | [Hrudja](https://open.spotify.com/album/0CU9PwCpIpJ3gzRA3fhgpl) | 4:49 |
 | 98 | [Yere Faga \- Natureboy Flako Version](https://open.spotify.com/track/4NsD2JP8rYaEL1SMhDivVm) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Tony Allen](https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH) | [Mogoya Remixed](https://open.spotify.com/album/6TJC6eLskTBntkr9uP8O0x) | 5:00 |
 | 99 | [Ya Watan](https://open.spotify.com/track/3ArBO06WybP4GQCtwCwTgw) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Manara](https://open.spotify.com/album/39bOQIKF8BRXuf8zSh1yeG) | 2:50 |
-| 100 | [Viaje a Mictlán](https://open.spotify.com/track/2zDKV6f0kiFDOWeWRc25aE) | [Panamá Cha\-Cha](https://open.spotify.com/artist/43zjLsaqlPKLQV6uRJPLlG) | [Viaje a Mictlán](https://open.spotify.com/album/7eGs4bK1jQOVKdR53py0f3) | 4:14 |
+| 100 | [Touch Me Not](https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT) | [Dengue Fever](https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5) | [Ting Mong](https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E) | 4:22 |
 
 Snapshot ID: `AAAAAHnsmPyYqynrmX1iaREo89tE+fCa`

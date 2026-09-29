@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: KUKO
 
-409 songs - 1 day 3 hr 16 min
+410 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Eiskalt \- Short Mix](https://open.spotify.com/track/59K0LFhUnKtp5GsH76teI1) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Eiskalt \(Short Mix\)](https://open.spotify.com/album/4O2qkN2LQ9ayCb1n5exb6f) | 3:33 | 2024-04-09 | 2024-10-15 |
 | [El Diablo](https://open.spotify.com/track/3O6D5cApxzS6s9ppXbgrHK) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [hhunter](https://open.spotify.com/artist/5KH7MeHHmovSJL3Muoeqiw), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [El Diablo](https://open.spotify.com/album/0T3rcaSvtO45lQYGnrbBTR) | 2:53 | 2026-08-28 | 2026-09-16 |
 | [Endless Dance](https://open.spotify.com/track/0533WxWr8MQPiMoc9pXwxA) | [O‑NINEEIGHT](https://open.spotify.com/artist/07B2wRwMbnJLWUhjTFSpve), [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [Endless Dance EP](https://open.spotify.com/album/4UrgbHvuCZ9zm5Kwm9BV7m) | 2:36 | 2025-11-07 | 2026-09-25 |
+| [Energy](https://open.spotify.com/track/3nT21TJ7LMNnQSfNirrWhT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Ali James](https://open.spotify.com/artist/7dNoRVDPUpw2TTM1pQVGyE) | [Energy](https://open.spotify.com/album/7xR5qRPSosdcuXjqm5TCHj) | 4:33 | 2026-09-24 |  |
 | [Energy](https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Stisema](https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1), [Lulu Voxx](https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu) | [Energy](https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O) | 2:48 | 2025-03-19 |  |
 | [Enigma](https://open.spotify.com/track/7aJjuyJAZvQpk24yZc65Ok) | [Isabelle Beaucamp](https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz) | [Enigma](https://open.spotify.com/album/2hgRK4yXgaj2PYu3THxc7q) | 4:55 | 2025-04-04 | 2025-11-28 |
 | [ESSEM!NJO](https://open.spotify.com/track/4sm8GdxepC7g9P9PKPgf3t) | [Noneoftheabove](https://open.spotify.com/artist/3O02ateaX0BgRKwB3D53Oa), [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [TAR VARIOUS ARTISTS](https://open.spotify.com/album/1EcILTSariejjul2lWn1kl) | 6:30 | 2024-04-09 | 2024-04-19 |
@@ -291,7 +292,7 @@
 | [Posh & Scary](https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Parfait](https://open.spotify.com/artist/3tFRzplldDxib5z3YjQb6n) | [Various Artists 2 \- EP 1](https://open.spotify.com/album/2EryX3QueBkHLiomOEf6un) | 5:26 | 2024-04-09 | 2024-08-14 |
 | [Post Punk](https://open.spotify.com/track/0ENwCtcM4AMJMacQRSUjGl) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Elements of Dance EP](https://open.spotify.com/album/37vDo1xuSYq0krqPsEO75w) | 3:30 | 2025-04-25 | 2025-12-11 |
 | [Power](https://open.spotify.com/track/3pmVYUybrSXz79BBwL9RWW) | [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ), [AZYR](https://open.spotify.com/artist/1Ujj9Jh1Z4tDJ4j6qGRml8) | [Power](https://open.spotify.com/album/0Zd6ZxUrYlt4XpBDivljUO) | 4:14 | 2026-03-20 | 2026-04-13 |
-| [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-02 |  |
+| [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-02 | 2026-09-29 |
 | [Pressure \- Indira Paganotto Remix](https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Pressure \(Indira Paganotto Remix\)](https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf) | 4:29 | 2025-05-16 | 2025-07-31 |
 | [Pretty Face](https://open.spotify.com/track/1aODaFKkuiysjOQ9Y8shn2) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Pretty Face](https://open.spotify.com/album/16IW14hGqvrgYJksfwi0EF) | 3:27 | 2026-02-13 | 2026-04-01 |
 | [Prisoner](https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Prisoner](https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk) | 5:08 | 2024-07-05 | 2024-10-04 |

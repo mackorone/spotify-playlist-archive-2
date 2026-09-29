@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 230975,
+  "num_followers": 231052,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -739,18 +739,22 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+        "name": "El Pap\u00e1 De Los Amores",
+        "url": "https://open.spotify.com/album/4bDVM51RU9kfd1mKv8kMKl"
       },
       "artists": [
         {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
         }
       ],
-      "duration_ms": 297746,
-      "name": "Como duele el frio",
-      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
+      "duration_ms": 240520,
+      "name": "El Pap\u00e1 de los Amores",
+      "url": "https://open.spotify.com/track/1oeEXETl1l4PoJiJnH6rzL"
     },
     {
       "added_at": "2026-05-04 04:59:11",
@@ -771,22 +775,18 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "El Pap\u00e1 De Los Amores",
-        "url": "https://open.spotify.com/album/4bDVM51RU9kfd1mKv8kMKl"
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
       "artists": [
         {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
         }
       ],
-      "duration_ms": 240520,
-      "name": "El Pap\u00e1 de los Amores",
-      "url": "https://open.spotify.com/track/1oeEXETl1l4PoJiJnH6rzL"
+      "duration_ms": 297746,
+      "name": "Como duele el frio",
+      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
     },
     {
       "added_at": "2026-05-04 04:59:11",

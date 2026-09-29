@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,243 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,320 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 57 | [Ginger](https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Ginger](https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS) | 7:35 |
 | 58 | [For a Feeling \(feat\. RHODES\) \- Adam Sellouk & Y do I Remix](https://open.spotify.com/track/17g0qkplMw3ejgGpDd2GJj) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Dark Matter Remixes](https://open.spotify.com/album/63vQpCdklHB6wh13qeVVbz) | 4:00 |
 | 59 | [Empty Skies](https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Empty Skies](https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs) | 3:34 |
-| 60 | [Youth](https://open.spotify.com/track/2KHyZ8X8DEthDel9avvzLh) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Youth](https://open.spotify.com/album/6dYpy3x3WZdON98fZEVUOk) | 4:25 |
+| 60 | [No Rules](https://open.spotify.com/track/55CHDLmvvmU1WPKuHDYsFf) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [No Rules EP](https://open.spotify.com/album/1S28FFZL59GgcUChSBfZBl) | 3:50 |
 
 Snapshot ID: `AAAAANGHySu/Nrum/E9j70MBuC52t0a0`

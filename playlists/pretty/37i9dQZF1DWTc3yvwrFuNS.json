@@ -1,12 +1,12 @@
 {
   "description": "Videos from our studio and live sessions. Music videos available only on Premium. Cover: Kehlani",
-  "num_followers": 319,
+  "num_followers": 320,
   "original_name": "Spotify Studios Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4/1fBPLJGEn2QOXpquBMN9vbDz",
+  "snapshot_id": "AAAAAAWlVTjFWVD0A0MUcfl9b2hkwxNG",
   "tracks": [
     {
       "added_at": "2026-09-02 16:47:48",
@@ -71,6 +71,38 @@
       "duration_ms": 291433,
       "name": "Big Girls Don't Cry (Fergie Cover) [Spotify Live Room]",
       "url": "https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6"
+    },
+    {
+      "added_at": "2026-09-28 14:04:24",
+      "album": {
+        "name": "Spotify Live Room",
+        "url": "https://open.spotify.com/album/0F6WmHuS2Cohk0rnnOv879"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Do What\u2019s Right (Happy) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/7aFuo1wnHfOKRPhJpjNajO"
+    },
+    {
+      "added_at": "2026-09-28 14:04:24",
+      "album": {
+        "name": "Spotify Live Room",
+        "url": "https://open.spotify.com/album/0F6WmHuS2Cohk0rnnOv879"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 121285,
+      "name": "Rock Music (Charli xcx Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/4J62QmekihT148lFst657R"
     },
     {
       "added_at": "2026-07-22 18:10:33",

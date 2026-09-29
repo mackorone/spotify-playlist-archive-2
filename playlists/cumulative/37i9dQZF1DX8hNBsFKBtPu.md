@@ -2,7 +2,7 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> We got you! Den bedste nye pop er samlet her\. Emme Sehested Høeg på cover ☀️
+> We got you! Den bedste nye pop er samlet her\. dreng&piger på cover ☀️
 
 1,019 songs - 2 day 3 hr 58 min
 

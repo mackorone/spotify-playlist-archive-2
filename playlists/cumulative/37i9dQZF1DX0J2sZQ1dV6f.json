@@ -128,10 +128,32 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 164000,
       "name": "5D",
       "url": "https://open.spotify.com/track/4n3ZuOZyD5iqSunWxnT2UR"
+    },
+    {
+      "album": {
+        "name": "5D",
+        "url": "https://open.spotify.com/album/4GbOjag4HcSx0sFsU2u8Zd"
+      },
+      "artists": [
+        {
+          "name": "Moris",
+          "url": "https://open.spotify.com/artist/0FOLAubOdWPFIBTEUJsAYY"
+        },
+        {
+          "name": "Bastte",
+          "url": "https://open.spotify.com/artist/0OttQ9yg8WxFnpDui0se42"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "5D",
+      "url": "https://open.spotify.com/track/6Km87OtLoS2TB6ByTfskJo"
     },
     {
       "album": {
@@ -384,7 +406,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 132680,
       "name": "Aluc\u00edn",
       "url": "https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D"
@@ -402,7 +424,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 132680,
       "name": "Aluc\u00edn",
       "url": "https://open.spotify.com/track/6a4ZdbyvRIm7JMZdFne9Kw"
@@ -2940,10 +2962,32 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 154761,
       "name": "Descontrol",
       "url": "https://open.spotify.com/track/32P1jzQQ8K3zp97AirjLFG"
+    },
+    {
+      "album": {
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/6aoOHdMLH7CL6E6LgNCDni"
+      },
+      "artists": [
+        {
+          "name": "El Abelito",
+          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154761,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/3Uq9Pu7Bqc0PQjLxRBY8aI"
     },
     {
       "album": {
@@ -3780,6 +3824,28 @@
     {
       "album": {
         "name": "En La Ruta",
+        "url": "https://open.spotify.com/album/6vWECTSNk4sHuSfTANKdwF"
+      },
+      "artists": [
+        {
+          "name": "Baby Kintero",
+          "url": "https://open.spotify.com/artist/1DTvd5Qjpee91lOAtK1e73"
+        },
+        {
+          "name": "Joan LZ",
+          "url": "https://open.spotify.com/artist/7kyCaEo3MoxvuID38Dtgc3"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184634,
+      "name": "En La Ruta",
+      "url": "https://open.spotify.com/track/2v6d8SdiQP4mOFv8AvnDC0"
+    },
+    {
+      "album": {
+        "name": "En La Ruta",
         "url": "https://open.spotify.com/album/3DeG5lBgcm5LUu4uSDis8T"
       },
       "artists": [
@@ -3794,7 +3860,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 184640,
       "name": "En La Ruta",
       "url": "https://open.spotify.com/track/79UVZpaORXh1tTcbJ8Kb1L"
@@ -4826,7 +4892,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 139842,
       "name": "Guisao",
       "url": "https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ"
@@ -4856,7 +4922,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 139842,
       "name": "Guisao",
       "url": "https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe"
@@ -5378,10 +5444,40 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 155909,
       "name": "KATY PERRY",
       "url": "https://open.spotify.com/track/7F9wULTYG7mrp7bykMoU2K"
+    },
+    {
+      "album": {
+        "name": "JOTA EME",
+        "url": "https://open.spotify.com/album/7I0gZaEgQbS9lLwv2vqWSP"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Sheeno",
+          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155909,
+      "name": "KATY PERRY (feat. Sheeno)",
+      "url": "https://open.spotify.com/track/6cBYOENWkWOuExwx6AAaOj"
     },
     {
       "album": {
@@ -5850,10 +5946,36 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 157464,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU"
+    },
+    {
+      "album": {
+        "name": "La Ocasi\u00f3n",
+        "url": "https://open.spotify.com/album/1c1HaF1c4JdfyTySLkGKMl"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "angely2k",
+          "url": "https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157464,
+      "name": "La Ocasi\u00f3n",
+      "url": "https://open.spotify.com/track/5f7DjdNVytWPMaBiavTCmp"
     },
     {
       "album": {
@@ -7644,10 +7766,28 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 163627,
       "name": "Ni\u00f1a",
       "url": "https://open.spotify.com/track/4OdL91jpKqrQTg0ONo3xUV"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/2nZtXeWXYpJt45m0F4hYDZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163627,
+      "name": "Ni\u00f1a",
+      "url": "https://open.spotify.com/track/5iXNUZNHCH8GZmlytwIUhY"
     },
     {
       "album": {
@@ -8054,10 +8194,28 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 136653,
       "name": "PA PONERTE EN 4",
       "url": "https://open.spotify.com/track/6uw69uQninEQ3GLqc06Eu0"
+    },
+    {
+      "album": {
+        "name": "PA PONERTE EN 4",
+        "url": "https://open.spotify.com/album/1w6uZ1BEo0oVAEvU20UzYc"
+      },
+      "artists": [
+        {
+          "name": "El Belicoso",
+          "url": "https://open.spotify.com/artist/3E63mgo0ttd5t81GVt2e8h"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136854,
+      "name": "PA PONERTE EN 4",
+      "url": "https://open.spotify.com/track/13dVyDpqFcosOnGuRLcjp2"
     },
     {
       "album": {
@@ -8160,10 +8318,36 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 140000,
       "name": "Pacas y Pacas",
       "url": "https://open.spotify.com/track/0iutN9Rt2kmHhPVKBNfinY"
+    },
+    {
+      "album": {
+        "name": "Pacas y Pacas",
+        "url": "https://open.spotify.com/album/7MLYrL0ZjABTscKkcNskAG"
+      },
+      "artists": [
+        {
+          "name": "Hector Vargas",
+          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
+        },
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        },
+        {
+          "name": "Bruno Brunette",
+          "url": "https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Pacas y Pacas",
+      "url": "https://open.spotify.com/track/4u8A7aZzMVXEzy4mxgzGjW"
     },
     {
       "album": {
@@ -11898,6 +12082,28 @@
     {
       "album": {
         "name": "VIDA MALA",
+        "url": "https://open.spotify.com/album/14NrZo6dfYooWy1aViTvzv"
+      },
+      "artists": [
+        {
+          "name": "Kamacho",
+          "url": "https://open.spotify.com/artist/6cU0YzCDz7ODfb624W3Vn0"
+        },
+        {
+          "name": "EL PM",
+          "url": "https://open.spotify.com/artist/1hIECm6aiJRdSfkrcZsF5j"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162399,
+      "name": "VIDA MALA",
+      "url": "https://open.spotify.com/track/48bt7FD8HQ9OgYnKvXD1YI"
+    },
+    {
+      "album": {
+        "name": "VIDA MALA",
         "url": "https://open.spotify.com/album/0SQsja9IpYpiPRXU4k7d22"
       },
       "artists": [
@@ -11912,7 +12118,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 162399,
       "name": "VIDA MALA",
       "url": "https://open.spotify.com/track/4VzbpCvKz0RvcWvh7uMSMC"

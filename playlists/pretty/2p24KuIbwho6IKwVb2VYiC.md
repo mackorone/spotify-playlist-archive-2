@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: TyriqueOrDie
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 20,987 likes - 109 songs - 5 hr 36 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 20,984 likes - 111 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,5 +117,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 107 | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 |
 | 108 | [Hypnotic](https://open.spotify.com/track/1ulorUgFxDQdshBrtzgYRK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Hypnotic](https://open.spotify.com/album/4pYBgkBcpcqhEOfrLCBKWc) | 2:58 |
 | 109 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 |
+| 110 | [Movimiento](https://open.spotify.com/track/5CcmjQ1cZFvA63uoWwLVvt) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [ATLAC](https://open.spotify.com/artist/4zjApLlmv1DjwnM2Yrmp98) | [Movimiento](https://open.spotify.com/album/6oIHoEwrm6noktaEdvxod4) | 2:34 |
+| 111 | [TSUNAMI](https://open.spotify.com/track/1J6Lihuq84ZgMtxccyRG0o) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [TSUNAMI](https://open.spotify.com/album/2wBA1QqfIN3xXWMyo5xeXY) | 2:36 |
 
-Snapshot ID: `AAAh1Ww5Zm75ZDmaOCJhec3j+EFQElIP`
+Snapshot ID: `AAAh1/0RxuE1O7eUniLKcW+bYYAb62aA`

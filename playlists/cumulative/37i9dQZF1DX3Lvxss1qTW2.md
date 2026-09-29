@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#toomuchswag](https://open.spotify.com/track/1STZzSByzeHohDFEQbe7Vn) | [Zen Univrse](https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [\#flowstate](https://open.spotify.com/album/6MWeAxK9tsH3ozNCcy1lfH) | 1:52 | 2026-07-31 | 2026-08-14 |
-| [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:39 | 2026-09-25 |  |
+| [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:38 | 2026-09-25 |  |
 | [1 of 1](https://open.spotify.com/track/1BImbxAJo7PNDWdPMC7c8l) | [Txmmyily](https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa) | [1 of 1](https://open.spotify.com/album/007o96OdGuH17jGD1SSVV3) | 2:10 | 2026-08-21 | 2026-09-11 |
 | [10 Kilo](https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 | 2025-05-16 | 2025-05-30 |
 | [10 MINUTES](https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [10 MINUTES](https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT) | 2:35 | 2026-03-06 | 2026-08-28 |

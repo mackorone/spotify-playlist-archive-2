@@ -1,6 +1,6 @@
 {
   "description": "Los mejores lentos del rock. Foto: reybruja",
-  "num_followers": 172381,
+  "num_followers": 172396,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -1427,18 +1427,22 @@
     {
       "added_at": "2026-09-24 22:12:04",
       "album": {
-        "name": "SOLO POR HOY",
-        "url": "https://open.spotify.com/album/1NmWkRWCldn3E85eHBiDO5"
+        "name": "Certezas de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv"
       },
       "artists": [
         {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
         }
       ],
-      "duration_ms": 137661,
-      "name": "BUZIOS",
-      "url": "https://open.spotify.com/track/1SPPvEaqCuLFOkM9oVfJpS"
+      "duration_ms": 218499,
+      "name": "Certezas de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0"
     },
     {
       "added_at": "2026-09-24 22:12:04",
@@ -1459,22 +1463,18 @@
     {
       "added_at": "2026-09-24 22:12:04",
       "album": {
-        "name": "Certezas de Cart\u00f3n",
-        "url": "https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv"
+        "name": "SOLO POR HOY",
+        "url": "https://open.spotify.com/album/1NmWkRWCldn3E85eHBiDO5"
       },
       "artists": [
         {
-          "name": "El Bordo",
-          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
         }
       ],
-      "duration_ms": 218499,
-      "name": "Certezas de Cart\u00f3n",
-      "url": "https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0"
+      "duration_ms": 137661,
+      "name": "BUZIOS",
+      "url": "https://open.spotify.com/track/1SPPvEaqCuLFOkM9oVfJpS"
     },
     {
       "added_at": "2026-09-24 22:12:04",

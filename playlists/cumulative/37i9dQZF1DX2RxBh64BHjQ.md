@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0RRUXaSteOOZzo5gMCAeuX">Fatt Smaxk</a>
 
-3,051 songs - 5 day 13 hr 44 min
+3,052 songs - 5 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [ALOT](https://open.spotify.com/track/5d33a1PuO75Ic7xiJ1i3by) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc) | [ALOT](https://open.spotify.com/album/15ydb9ePJxvAaZiuxtDLE6) | 2:11 | 2025-07-11 | 2025-07-19 |
 | [Already Know](https://open.spotify.com/track/1ULXtm9lperZGjyVW8IYyB) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Angelica Vila](https://open.spotify.com/artist/4uGEwrSd2U7vy5jyEK5qLX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Already Know](https://open.spotify.com/album/4WzqoNvuz17jbj8dSg4quA) | 2:43 | 2023-03-10 | 2023-06-17 |
 | [Am I Wrong?](https://open.spotify.com/track/6XLW8iiuaGeSwHXoox3h2s) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Am I Wrong?](https://open.spotify.com/album/3uAQYZlvTqD0NdJKjc3gdU) | 2:39 | 2025-03-28 | 2025-04-19 |
+| [AMG](https://open.spotify.com/track/1f4QUcx471mKx3lOGq14FD) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o), [Aflacko](https://open.spotify.com/artist/4xGIy4hVil8DTVPnu5Auzs) | [AMG](https://open.spotify.com/album/6TexSEUgITnpxzAAaYA3hj) | 2:57 | 2026-09-28 |  |
 | [Anotha 1](https://open.spotify.com/track/746KwUCnhLYNK1Jz7XA5Ir) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz) | [Anotha 1](https://open.spotify.com/album/1e6ikk92FBJmOLkRwjLIpy) | 2:24 | 2022-09-30 | 2022-12-03 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-07 | 2025-08-02 |
 | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/album/60LPFmZ5vcbDBZRexNZ9c1) | 3:18 | 2023-06-30 | 2023-08-12 |

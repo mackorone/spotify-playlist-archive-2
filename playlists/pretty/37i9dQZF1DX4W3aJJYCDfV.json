@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Taylor Swift, BICEP, Madonna & Charli xcx and more! ",
-  "num_followers": 1038270,
+  "num_followers": 1038170,
   "original_name": "New Music Friday UK & Ireland",
   "owner": {
     "name": "Spotify",
@@ -1208,12 +1208,12 @@
       },
       "artists": [
         {
-          "name": "Clavish",
-          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
-        },
-        {
           "name": "163Margs",
           "url": "https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2"
+        },
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
         }
       ],
       "duration_ms": 193714,

@@ -1,35 +1,363 @@
 {
   "description": "<a href=\"spotify:artist:18JlbX3l0yzlwdnQVJrLsp\">Tripolism</a>'s favorite tracks. Updated regularly. Curated by Tripolism. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>",
-  "num_followers": 8964,
+  "num_followers": 8971,
   "original_name": "Tripolism's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAItQoCn0n+thcxVUZHKY3w1cgtWb",
+  "snapshot_id": "AAAAACXk59edUm7JTM2T+h6//xAf1qWa",
   "tracks": [
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
-        "name": "Flotando",
-        "url": "https://open.spotify.com/album/2Cf1aTm4Lq8W5Gus37qAsA"
+        "name": "TripoWah",
+        "url": "https://open.spotify.com/album/6o53JY5OuDMriGixegSSTZ"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
         },
         {
           "name": "Tripolism",
           "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
         }
       ],
-      "duration_ms": 235795,
-      "name": "Flotando",
-      "url": "https://open.spotify.com/track/58MWnFm9Hm6h84hh3bZz1E"
+      "duration_ms": 218506,
+      "name": "TripoWah",
+      "url": "https://open.spotify.com/track/7BzWIpEbBKKMBPez33o3jU"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Love.exe",
+        "url": "https://open.spotify.com/album/1gJyfKAvntI0MU18nrsQ2a"
+      },
+      "artists": [
+        {
+          "name": "Avangart Tabldot",
+          "url": "https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX"
+        }
+      ],
+      "duration_ms": 311605,
+      "name": "Computer Controlled (this is s.e.x)",
+      "url": "https://open.spotify.com/track/3o2AbXkYExiWOkAawtsrrR"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/6TllqIS8p7J9QVotQfbeoG"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        },
+        {
+          "name": "Hardt Antoine",
+          "url": "https://open.spotify.com/artist/3nJOVgthGYcDojzO7utIyA"
+        },
+        {
+          "name": "Nariman",
+          "url": "https://open.spotify.com/artist/2nfCSIlDMhDckP3xf3J0va"
+        }
+      ],
+      "duration_ms": 197416,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6LpbTB4QYX68oKwO0PCTWd"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "First Touch Archives 001",
+        "url": "https://open.spotify.com/album/4StlwVdqS7u8hTDCQLxbNP"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        },
+        {
+          "name": "Talons",
+          "url": "https://open.spotify.com/artist/0qiRTNQwfvA91BL30UBRu1"
+        }
+      ],
+      "duration_ms": 248148,
+      "name": "As We Proceed",
+      "url": "https://open.spotify.com/track/0i8TZwd2oux6VcJ2nrh7o1"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/38x5vDdA3GtJQY91vhrjPf"
+      },
+      "artists": [
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Radeckt",
+          "url": "https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL"
+        },
+        {
+          "name": "Deija",
+          "url": "https://open.spotify.com/artist/6V8OeO3acZYb6YvSEahsRu"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/1BqxSsZ3ZcA2UJMvLkSOXw"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Love Is The Dance (Ivory Remix)",
+        "url": "https://open.spotify.com/album/14cMUHRLUVpMGyBtp887Sc"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Ivory (IT)",
+          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+        }
+      ],
+      "duration_ms": 336289,
+      "name": "Love Is The Dance - Ivory Remix",
+      "url": "https://open.spotify.com/track/6vyUWwycrsoI92u0R5Rdyb"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Disk 11",
+        "url": "https://open.spotify.com/album/75NUwm4wMqnaOY64TmUJSY"
+      },
+      "artists": [
+        {
+          "name": "DiSKOP",
+          "url": "https://open.spotify.com/artist/3UUqMSwpudobpQeEq5ktVL"
+        }
+      ],
+      "duration_ms": 522069,
+      "name": "Beaton",
+      "url": "https://open.spotify.com/track/2CKUK0pzKhsmvKGtqVx6mt"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Delakufa",
+        "url": "https://open.spotify.com/album/20aEmw9ZXPhddycV490ObL"
+      },
+      "artists": [
+        {
+          "name": "JEWELS",
+          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "LE YORA",
+          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
+        },
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Delakufa",
+      "url": "https://open.spotify.com/track/6Ipr0DdH8VnsxjlBEmbFcB"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Adieu",
+        "url": "https://open.spotify.com/album/1XPsZ3AN62aI2zxNLx1fe0"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        }
+      ],
+      "duration_ms": 413333,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/53Us5C3wTQ2zi6ODWhmHMN"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Flying Away with You",
+        "url": "https://open.spotify.com/album/1FiNUDXtRm9FOOtWDhvCRv"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Flying Away with You",
+      "url": "https://open.spotify.com/track/0GxkWCaowNJxbaCdrcAPFe"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Cairo",
+        "url": "https://open.spotify.com/album/3mEXcid5SpglmqKyhDIeuT"
+      },
+      "artists": [
+        {
+          "name": "ReiRei",
+          "url": "https://open.spotify.com/artist/5kzMvGnNDZLNTaoblscITp"
+        },
+        {
+          "name": "Minoas Cirillo",
+          "url": "https://open.spotify.com/artist/4IpuSb0XIF8XEhLfJwurs6"
+        }
+      ],
+      "duration_ms": 337983,
+      "name": "Alf Youm",
+      "url": "https://open.spotify.com/track/68JJodRKWQFPDgJhrlK9UW"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "UUUU",
+        "url": "https://open.spotify.com/album/7hPLIz9XcsRngTp4xZWbDU"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 308570,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/7i04EIGhl9IUhHyUnJIMpJ"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Golden Times",
+        "url": "https://open.spotify.com/album/0nY9OsTZSgfi9QLapmHDua"
+      },
+      "artists": [
+        {
+          "name": "Aera",
+          "url": "https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk"
+        }
+      ],
+      "duration_ms": 353301,
+      "name": "Golden Times",
+      "url": "https://open.spotify.com/track/3zYov177mrCkeLZuDbxz3E"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "So Good (feat. Kuuda) [meera Remix]",
+        "url": "https://open.spotify.com/album/2JlYXU3rcE3Qr4b1xZfga1"
+      },
+      "artists": [
+        {
+          "name": "meera",
+          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+        },
+        {
+          "name": "CAMELPHAT",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Josh Gigante",
+          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+        },
+        {
+          "name": "Kuuda",
+          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+        }
+      ],
+      "duration_ms": 550819,
+      "name": "So Good (feat. Kuuda) - meera Remix",
+      "url": "https://open.spotify.com/track/3JVKMrRTealItIRjB6RhgN"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Smooth Operator",
+        "url": "https://open.spotify.com/album/04GwXxfAA528ebCJB6TliL"
+      },
+      "artists": [
+        {
+          "name": "Sitze",
+          "url": "https://open.spotify.com/artist/4Qeknu9i1Moo1oLAUZMEDu"
+        },
+        {
+          "name": "Convinzed",
+          "url": "https://open.spotify.com/artist/2HOr1gcgMNOdellmi8zuZx"
+        },
+        {
+          "name": "Matam (DE)",
+          "url": "https://open.spotify.com/artist/0CKC3ZSZyO8qtWs75HdvYM"
+        }
+      ],
+      "duration_ms": 198125,
+      "name": "Smooth Operator",
+      "url": "https://open.spotify.com/track/7J878s7yttfZmnHqcTsnNV"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Don't Talk To Me",
+        "url": "https://open.spotify.com/album/69kPOtxDscOsnApMUBucV3"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "CIOZ",
+          "url": "https://open.spotify.com/artist/43B3rN5TKnZLpfusky1fnp"
+        }
+      ],
+      "duration_ms": 211062,
+      "name": "Don't Talk To Me",
+      "url": "https://open.spotify.com/track/6oHqh8282e3XVMBA0XdB1S"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "The Lights",
+        "url": "https://open.spotify.com/album/33saesfjYMv6l540HqKxvg"
+      },
+      "artists": [
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        }
+      ],
+      "duration_ms": 425560,
+      "name": "Blckout",
+      "url": "https://open.spotify.com/track/6OzYWhQ1leEXywuoYxpAPK"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Whisper To Me",
         "url": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv"
@@ -49,7 +377,7 @@
       "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Love Somebody Else / Future Musik",
         "url": "https://open.spotify.com/album/4EXXe5Rgi6jRQDsCPYxfDA"
@@ -73,7 +401,7 @@
       "url": "https://open.spotify.com/track/6NVC5lahjsuyq7e4C48NGG"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Hate/Love",
         "url": "https://open.spotify.com/album/6P3Iq1U7F0zAjdUKktAKbJ"
@@ -93,7 +421,7 @@
       "url": "https://open.spotify.com/track/6SakgW4ZgZCPkbljBLm8BM"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/7Atp3qD02NoUDsGc88cu2I"
@@ -109,7 +437,27 @@
       "url": "https://open.spotify.com/track/2x4SQxAXRrf47y7LXQgo8v"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "From The Inside (Reznik Remix)",
+        "url": "https://open.spotify.com/album/0rdB3qNyyAjizqpXd1u93D"
+      },
+      "artists": [
+        {
+          "name": "Chasing Kurt",
+          "url": "https://open.spotify.com/artist/33LGsIXhR30imYNpjs2wRV"
+        },
+        {
+          "name": "Reznik",
+          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
+        }
+      ],
+      "duration_ms": 459391,
+      "name": "From The Inside - Reznik Extended Remix",
+      "url": "https://open.spotify.com/track/631V4ts2eFFVB56feDRDOI"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Darkest Nights (andhim Remix)",
         "url": "https://open.spotify.com/album/63zVgMTLTUMcTQD6RPFHjf"
@@ -133,7 +481,27 @@
       "url": "https://open.spotify.com/track/04fUL4OB03Zr8HD6zX1jef"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
+      "album": {
+        "name": "Flotando",
+        "url": "https://open.spotify.com/album/2Cf1aTm4Lq8W5Gus37qAsA"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "duration_ms": 235795,
+      "name": "Flotando",
+      "url": "https://open.spotify.com/track/58MWnFm9Hm6h84hh3bZz1E"
+    },
+    {
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Hamoumi",
         "url": "https://open.spotify.com/album/3gEVCuNnGocELYKIlzrqyQ"
@@ -149,7 +517,7 @@
       "url": "https://open.spotify.com/track/3piC5SMlo4TlIzy0CMGn0b"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/67I7NUskouz2Gar9Ckq7va"
@@ -173,7 +541,7 @@
       "url": "https://open.spotify.com/track/34rTpffllgZFnu6d2LjJnt"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "RITZ",
         "url": "https://open.spotify.com/album/4eai8F4RLUMtak4NwX3WzP"
@@ -189,27 +557,7 @@
       "url": "https://open.spotify.com/track/3VMI6UnnxERt2vnRW6SY3U"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
-      "album": {
-        "name": "Flying Away with You",
-        "url": "https://open.spotify.com/album/1FiNUDXtRm9FOOtWDhvCRv"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Flying Away with You",
-      "url": "https://open.spotify.com/track/0GxkWCaowNJxbaCdrcAPFe"
-    },
-    {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "I Want You to Know",
         "url": "https://open.spotify.com/album/4TKlOzp3tJiH34qFO81CjC"
@@ -225,7 +573,7 @@
       "url": "https://open.spotify.com/track/0qxBgHPahp5htdMAdDhyWC"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Ain't Got Nobody",
         "url": "https://open.spotify.com/album/0CnpJGHUkppixTZ0m841xO"
@@ -241,7 +589,7 @@
       "url": "https://open.spotify.com/track/0BvM4sh1rKdKKidamKdHH7"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "I Wanna Dance",
         "url": "https://open.spotify.com/album/0SdDRz729wGw1LyOepcjiS"
@@ -257,7 +605,7 @@
       "url": "https://open.spotify.com/track/3qMgbG186sIBS5E38Ze5WM"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Secret Weapons Part 18",
         "url": "https://open.spotify.com/album/0M57L6PgvtzR5ODxp5C9KS"
@@ -273,7 +621,7 @@
       "url": "https://open.spotify.com/track/12AHcoLHOZvHX5IkHZsSbO"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Dope Dance",
         "url": "https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k"
@@ -297,7 +645,7 @@
       "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Dorothy",
         "url": "https://open.spotify.com/album/7lJXrA1jzqGVpLUyLIYXLK"
@@ -313,7 +661,7 @@
       "url": "https://open.spotify.com/track/2GuIRSthEpYN5MO6PGD7Vx"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/3af6WRGqS4GxTuYrRGdDYw"
@@ -329,7 +677,7 @@
       "url": "https://open.spotify.com/track/6fqlMdgpOt9tE2sY4k89Oe"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Lola's Theme (Tripolism Remix)",
         "url": "https://open.spotify.com/album/75NCYiWBnt9eptrKPv13NX"
@@ -349,7 +697,7 @@
       "url": "https://open.spotify.com/track/4tDDGi78yN261vDDaOQlGD"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "I Don't Wanna Talk (feat. Joni)",
         "url": "https://open.spotify.com/album/6iO9DsqTmnvoqciKroKufj"
@@ -369,27 +717,7 @@
       "url": "https://open.spotify.com/track/4vVca3amJa03w3N6dmnQGo"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
-      "album": {
-        "name": "From The Inside (Reznik Remix)",
-        "url": "https://open.spotify.com/album/0rdB3qNyyAjizqpXd1u93D"
-      },
-      "artists": [
-        {
-          "name": "Chasing Kurt",
-          "url": "https://open.spotify.com/artist/33LGsIXhR30imYNpjs2wRV"
-        },
-        {
-          "name": "Reznik",
-          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
-        }
-      ],
-      "duration_ms": 270349,
-      "name": "From The Inside - Reznik Remix",
-      "url": "https://open.spotify.com/track/0JQxMTZJGcPzgREOob4LGp"
-    },
-    {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Cama Cama",
         "url": "https://open.spotify.com/album/59y5b3c0Nh8ZIAs28DSedv"
@@ -405,7 +733,7 @@
       "url": "https://open.spotify.com/track/6Do3BtYM87a365eg65y5ts"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/0LT1nWiaIHMWymZ97UOozl"
@@ -421,7 +749,7 @@
       "url": "https://open.spotify.com/track/2tjBjrHI6A8U1hPeVocoCa"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "I Get Deep (The Remixes)",
         "url": "https://open.spotify.com/album/1aSNWUMCvwgWH5BV2lvfqg"
@@ -441,7 +769,7 @@
       "url": "https://open.spotify.com/track/402cbcLmeUIQxwehh84Bki"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Spiralen & Wo\u00b4s Patric?!?",
         "url": "https://open.spotify.com/album/1S9fmm3qMb9BzJA9AjZewm"
@@ -457,7 +785,7 @@
       "url": "https://open.spotify.com/track/0SbwJZ37eiEaWIxIP7dS8c"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/4or2k3CTw8qjw28KErqScq"
@@ -473,7 +801,7 @@
       "url": "https://open.spotify.com/track/3pwCW5zb9CNcMlb55CvDVY"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Flying Away With You Remixes",
         "url": "https://open.spotify.com/album/4Wt02ELW10Qyj9OkWMjL6q"
@@ -497,7 +825,7 @@
       "url": "https://open.spotify.com/track/7pr3sX0AR5UazQ23qexRG5"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Blowin' Up The Spot",
         "url": "https://open.spotify.com/album/5xs0rOd6NzcSUe5GDuEpnW"
@@ -513,7 +841,7 @@
       "url": "https://open.spotify.com/track/4GkPIJwHF5JE3dywYYEOLz"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Warm Vibes",
         "url": "https://open.spotify.com/album/1J8JYqCBf5o9Sp9MAFXbze"
@@ -529,7 +857,7 @@
       "url": "https://open.spotify.com/track/7CKsgEdJNFTDqWgk3XD1XB"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml"
@@ -557,7 +885,7 @@
       "url": "https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Max (Tripolism Remix)",
         "url": "https://open.spotify.com/album/4uQz1idc9hg7qiZlJqoF9E"
@@ -577,7 +905,7 @@
       "url": "https://open.spotify.com/track/7uLvNGCt5gn51iOZXMlXgH"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "The 11th Hour",
         "url": "https://open.spotify.com/album/4yFsyBqcl6s8X1OyOv5LjF"
@@ -597,7 +925,7 @@
       "url": "https://open.spotify.com/track/5rsbEsAcHDNMS6HmWKvZ4m"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
@@ -617,7 +945,7 @@
       "url": "https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Flying Away With You Remixes",
         "url": "https://open.spotify.com/album/4Wt02ELW10Qyj9OkWMjL6q"
@@ -641,7 +969,7 @@
       "url": "https://open.spotify.com/track/44hSXkJy30LXwqWrZYoWca"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "My Life Is A Disco (In The Mix)",
         "url": "https://open.spotify.com/album/5Ewcwq6g95vO2qXiXN1AKc"
@@ -661,7 +989,7 @@
       "url": "https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Chica (Extended)",
         "url": "https://open.spotify.com/album/0vVc6L8XW8avoLJyrRoUNI"
@@ -681,7 +1009,7 @@
       "url": "https://open.spotify.com/track/1kQKx4quUZKvfvQRH2fK3T"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Runi",
         "url": "https://open.spotify.com/album/5r0y5EG6VrXH5s9lwh1ScG"
@@ -697,7 +1025,7 @@
       "url": "https://open.spotify.com/track/5RJQ2hrUhA3r8ZhuYe6fEt"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/2wPCzQEXLV1bmPzOkmgor4"
@@ -721,7 +1049,7 @@
       "url": "https://open.spotify.com/track/4pUsOhHb9btd7e0frfTCNA"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "I'm Tango",
         "url": "https://open.spotify.com/album/1OiRWYDvJBDwsPk8o24yzM"
@@ -737,7 +1065,7 @@
       "url": "https://open.spotify.com/track/0B6cQPlHYg5fJQBSRSgiMo"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "All Hearts Beat",
         "url": "https://open.spotify.com/album/7g7WPnrCEAnpvEVVriZRh5"
@@ -757,7 +1085,7 @@
       "url": "https://open.spotify.com/track/0398YEQ9aQ8AlPHkG8PEB1"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "I Wanna Dance",
         "url": "https://open.spotify.com/album/0SdDRz729wGw1LyOepcjiS"
@@ -773,7 +1101,7 @@
       "url": "https://open.spotify.com/track/4hMZq8PzRXHsXoskuSf59I"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Flying Away With You Remixes",
         "url": "https://open.spotify.com/album/4Wt02ELW10Qyj9OkWMjL6q"
@@ -797,7 +1125,7 @@
       "url": "https://open.spotify.com/track/4QCRvEMyYQi4Vs25hPe9ME"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "A State Nearby",
         "url": "https://open.spotify.com/album/2PZTYBMsuScUpoAK8g5tXk"
@@ -817,10 +1145,10 @@
       "url": "https://open.spotify.com/track/3X5UuINVOrl5HkZguMsoMr"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Shoki Remixed",
-        "url": "https://open.spotify.com/album/0tibmNTsC3OjUCQccck3uf"
+        "url": "https://open.spotify.com/album/3GDqSlhenMrJkFcOhFdlY3"
       },
       "artists": [
         {
@@ -834,10 +1162,10 @@
       ],
       "duration_ms": 444000,
       "name": "Victim Of Life - Dixon's AVDC Remix",
-      "url": "https://open.spotify.com/track/6WU1JAmNMeE4asUhbzM4mG"
+      "url": "https://open.spotify.com/track/2qAFf4YOUgYxI9dyneiOdK"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Uncanny Valley 50 YELLOW",
         "url": "https://open.spotify.com/album/2hywpYwe6v0SFmzeu6oqeA"
@@ -853,7 +1181,7 @@
       "url": "https://open.spotify.com/track/4lH5gha8A37wzZ4Kk50ULq"
     },
     {
-      "added_at": "2026-08-17 08:10:27",
+      "added_at": "2026-09-28 14:45:23",
       "album": {
         "name": "Apocalypse (Tripolism Remix)",
         "url": "https://open.spotify.com/album/2jSlFnFQ0sUQwV1YRxwFMn"

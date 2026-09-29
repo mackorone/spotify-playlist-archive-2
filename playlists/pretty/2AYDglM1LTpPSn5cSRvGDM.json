@@ -1,12 +1,12 @@
 {
   "description": "The best Progressive House in the scene. <a href=\"https://ffm.link/9o81evb/\">Instagram</a>, <a href=\"https://ffm.link/xjgmb7\">Website, </a><a href=\"https://ffm.link/bknqm1j\">Merch</a>",
-  "num_followers": 110958,
+  "num_followers": 110982,
   "original_name": "Progressive House 2026",
   "owner": {
     "name": "Enhanced Music",
     "url": "https://open.spotify.com/user/enhanced_music"
   },
-  "snapshot_id": "AABBDSxagFsqBhHGNrWNOPwSAgYXMx14",
+  "snapshot_id": "AABBD5obF77VsF7yUbwdRou2FP54JXCD",
   "tracks": [
     {
       "added_at": "2026-09-18 10:37:36",
@@ -145,6 +145,50 @@
       "url": "https://open.spotify.com/track/15YEaBIDjdkxxJ4PuVJKeK"
     },
     {
+      "added_at": "2026-09-28 13:44:22",
+      "album": {
+        "name": "Higher (Dosem Remix)",
+        "url": "https://open.spotify.com/album/4oWfPfA20vYj4kmMUMsyOH"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        },
+        {
+          "name": "Boxer",
+          "url": "https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG"
+        },
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Higher - Dosem Remix",
+      "url": "https://open.spotify.com/track/0vNmFDDzRgH2xqs3FIo7bL"
+    },
+    {
+      "added_at": "2026-09-16 08:27:23",
+      "album": {
+        "name": "Becoming",
+        "url": "https://open.spotify.com/album/3j09ujGiqVYzlxpzaLCCIH"
+      },
+      "artists": [
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        },
+        {
+          "name": "M\u00d8\u00d8NE",
+          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
+        }
+      ],
+      "duration_ms": 242910,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/2NWRMCOSEQ0Ad6zXKj0jrB"
+    },
+    {
       "added_at": "2026-08-28 06:23:21",
       "album": {
         "name": "Heartbeat (Estiva Remix)",
@@ -167,26 +211,6 @@
       "duration_ms": 246562,
       "name": "Heartbeat - Estiva Remix",
       "url": "https://open.spotify.com/track/18LJyRPtECmqZNxYWrhiZS"
-    },
-    {
-      "added_at": "2026-09-16 08:27:23",
-      "album": {
-        "name": "Becoming",
-        "url": "https://open.spotify.com/album/3j09ujGiqVYzlxpzaLCCIH"
-      },
-      "artists": [
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        },
-        {
-          "name": "M\u00d8\u00d8NE",
-          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
-        }
-      ],
-      "duration_ms": 242910,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/2NWRMCOSEQ0Ad6zXKj0jrB"
     },
     {
       "added_at": "2026-08-07 13:15:44",

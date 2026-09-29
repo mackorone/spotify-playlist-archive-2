@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 727933,
       "name": "Healing Circle",
       "url": "https://open.spotify.com/track/5YYQOMiPMTbw18fJj6rG4w"
@@ -602,6 +602,24 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320042,
+      "name": "Kumbatio la Tembo",
+      "url": "https://open.spotify.com/track/0lCFMJDQ2rqRD7qkB8TNVQ"
+    },
+    {
+      "album": {
+        "name": "What The Elephant Told",
+        "url": "https://open.spotify.com/album/7wK6o1HwwCezhZ45pjpv6n"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -730,7 +748,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 204320,
       "name": "Marfa Lights 2",
       "url": "https://open.spotify.com/track/5L31LhF5GL6VZCewuQz9AI"
@@ -766,7 +784,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 324426,
       "name": "Memories of an Angel",
       "url": "https://open.spotify.com/track/1FElYZpUQRiruS0KCVklO6"

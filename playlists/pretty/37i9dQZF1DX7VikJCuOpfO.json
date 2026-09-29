@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alberto Vazquez \ud83d\udcf8",
-  "num_followers": 368454,
+  "num_followers": 368445,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Esclavo y Amo (Live)",
-        "url": "https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 198675,
-      "name": "Esclavo y Amo - Live",
-      "url": "https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "D\u00f3nde y Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 163058,
       "name": "D\u00f3nde y Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "Esclavo y Amo (Live)",
+        "url": "https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 198675,
+      "name": "Esclavo y Amo - Live",
+      "url": "https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Ahora Si Quieres Querer",
-        "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
-      },
-      "artists": [
-        {
-          "name": "Irany",
-          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
-        }
-      ],
-      "duration_ms": 173391,
-      "name": "Ahora Si Quieres Querer",
-      "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "Cuando Llegue el D\u00eda",
         "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 238200,
       "name": "Cuando Llegue el D\u00eda",
       "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "Ahora Si Quieres Querer",
+        "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
+      },
+      "artists": [
+        {
+          "name": "Irany",
+          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
+        }
+      ],
+      "duration_ms": 173391,
+      "name": "Ahora Si Quieres Querer",
+      "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Despecho Puro (En Vivo)",
-        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
-      },
-      "artists": [
-        {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
-      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "Ay Amor",
         "url": "https://open.spotify.com/album/5iKkWymsKC6daUbogymJ2x"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 164457,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/0cDWTsuquJiwFq4PSXhssx"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "Despecho Puro (En Vivo)",
+        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
+      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
+        "name": "Angelito Sin Alas",
+        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
+      },
+      "artists": [
+        {
+          "name": "Las Posada",
+          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
+        }
+      ],
+      "duration_ms": 168238,
+      "name": "Angelito Sin Alas",
+      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
         "name": "Me Nace Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Angelito Sin Alas",
-        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g"
       },
       "artists": [
         {
-          "name": "Las Posada",
-          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
         }
       ],
-      "duration_ms": 168238,
-      "name": "Angelito Sin Alas",
-      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
+      "duration_ms": 426232,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -1055,22 +1071,6 @@
       "duration_ms": 210592,
       "name": "Esa Perra Ya Me Mordi\u00f3",
       "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 426232,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "La Noche de Mi Mal (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO"
-      },
-      "artists": [
-        {
-          "name": "Kaylanie Barrera",
-          "url": "https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN"
-        }
-      ],
-      "duration_ms": 240864,
-      "name": "La Noche de Mi Mal",
-      "url": "https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "Se\u00f1or Dios",
         "url": "https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 189162,
       "name": "Se\u00f1or Dios",
       "url": "https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "La Noche de Mi Mal (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO"
+      },
+      "artists": [
+        {
+          "name": "Kaylanie Barrera",
+          "url": "https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN"
+        }
+      ],
+      "duration_ms": 240864,
+      "name": "La Noche de Mi Mal",
+      "url": "https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD"
     },
     {
       "added_at": "2026-09-04 15:23:08",

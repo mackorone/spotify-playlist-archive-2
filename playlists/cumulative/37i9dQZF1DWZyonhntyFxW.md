@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: شاهين
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: أبيوسف
 
-497 songs - 1 day 0 hr 11 min
+498 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [MAGANEEN](https://open.spotify.com/track/128stPZbUIBhJU6cYiyNrU) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51) | [MAGANEEN](https://open.spotify.com/album/7qDjmgVN6jRPH2Kue0njD8) | 4:00 | 2023-09-09 | 2023-10-01 |
 | [Maged El Masry](https://open.spotify.com/track/29AFznq7V8b5C5w5fAaQTx) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ras Shitan](https://open.spotify.com/album/5xs1hPBH7vjLHf8UY7TxDY) | 3:38 | 2022-07-06 | 2022-10-11 |
 | [MAGHOOL](https://open.spotify.com/track/1gFRKxEsz8WalxCfNJkPic) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [MAGHOOL](https://open.spotify.com/album/5yX9hssUUeRlHmaQ8EGvaN) | 3:53 | 2023-08-24 | 2026-04-28 |
-| [Mahadesh Kbeer](https://open.spotify.com/track/3gzs6C45slKW0G97CQ9E9h) | [Oxide](https://open.spotify.com/artist/4U6F6k0qCNpCgAzlxIg93i) | [Mahadesh Kbeer](https://open.spotify.com/album/4mKAIpjuzvGqm7hyY33Ck8) | 2:43 | 2026-09-08 |  |
+| [Mahadesh Kbeer](https://open.spotify.com/track/3gzs6C45slKW0G97CQ9E9h) | [Oxide](https://open.spotify.com/artist/4U6F6k0qCNpCgAzlxIg93i) | [Mahadesh Kbeer](https://open.spotify.com/album/4mKAIpjuzvGqm7hyY33Ck8) | 2:43 | 2026-09-08 | 2026-09-29 |
 | [Malak?](https://open.spotify.com/track/2gq2s70XJpq2BMJAv9zXWf) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [EL MOQABLA](https://open.spotify.com/album/1mkhL6uNagvQRfa6vrkpcy) | 2:24 | 2025-08-12 | 2025-08-31 |
 | [Malaksh Da3wa](https://open.spotify.com/track/4RlYNdvL0xebVFp3YrxtSK) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [El Hob Ebn Wes5a](https://open.spotify.com/album/1ihjowlX2eqrd1SakZzqqu) | 3:15 | 2022-05-10 | 2022-09-15 |
 | [Maleesh Zay](https://open.spotify.com/track/6hR4F00fwdG8QFGV4bQDwt) | [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [Falta](https://open.spotify.com/album/5JuZlR6i3oxUFEfVewws68) | 3:28 | 2022-12-22 | 2023-01-17 |
@@ -382,6 +382,7 @@
 | [Star W Mayhemosh \(Freedom Music\)](https://open.spotify.com/track/0kK6Ew7B4FiS2LUrO9Uw1D) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk), [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C) | [Star W Mayhemosh \(Freedom Music\)](https://open.spotify.com/album/1dQbyN9XSJFNgxxiJsLEhX) | 3:01 | 2023-09-02 | 2023-10-01 |
 | [Stop \- Magnolia](https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Sonseyat](https://open.spotify.com/album/5tkqvkC0bmgC6qm1L46HpL) | 2:41 | 2022-06-06 | 2023-05-12 |
 | [STR3](https://open.spotify.com/track/7HUzfXz80MNyHvSs3JcJOP) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Intomymind](https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu) | [STR3](https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx) | 3:28 | 2022-12-17 | 2024-01-31 |
+| [Supreme](https://open.spotify.com/track/0ux9ahOLCr8BVREw1637ss) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY), [Coolpix](https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ) | [Supreme](https://open.spotify.com/album/1LBobRsBv6zG6GlvWoCo7F) | 2:21 | 2026-09-28 |  |
 | [Sutra](https://open.spotify.com/track/2CRvMCAXKFYKMZ1jmxAGPe) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Sutra](https://open.spotify.com/album/1utLviV8tlSBjtEmE8US9m) | 2:53 | 2023-01-31 | 2023-02-10 |
 | [Sutra](https://open.spotify.com/track/2cns6AtYN36k2N6T5zaXZD) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Sutra](https://open.spotify.com/album/1leaz6N1vTWJ9kp2KBIAgZ) | 2:53 | 2022-07-25 | 2023-02-08 |
 | [SWISSRA](https://open.spotify.com/track/0lGBH3NhfXHdOM1GswMqh3) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [BGD](https://open.spotify.com/album/3hQ9AVm4vx93ZKigdypD5Q) | 2:13 | 2025-02-05 |  |

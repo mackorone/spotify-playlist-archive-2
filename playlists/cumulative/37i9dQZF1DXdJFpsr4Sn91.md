@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,288 songs - 2 day 16 hr 24 min
+1,289 songs - 2 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1022,7 +1022,7 @@
 | [Sua Ei Oo \- WILLEM Remix](https://open.spotify.com/track/6POXTrTpf5usT9rrbU3L0r) | [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sua Ei Oo \(WILLEM Remix\)](https://open.spotify.com/album/1qo9NF4hD21s1tfdnudYmI) | 2:52 | 2025-10-20 | 2026-02-17 |
 | [Sukupuu](https://open.spotify.com/track/4WeLx4T2Q0CfmzjjhFu2ba) | [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Sukupuu](https://open.spotify.com/album/7DZEDJ2EFQlTDQeJAXhBem) | 3:05 | 2026-06-25 | 2026-08-28 |
 | [Sulhanen](https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT) | [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Sulhanen](https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30) | 2:42 | 2026-04-16 | 2026-09-04 |
-| [Sun kaa oon vapaa \(Huokausten silta\)](https://open.spotify.com/track/5vs0a2xxfdFTz3MCsbUnG5) | [AWA](https://open.spotify.com/artist/5HZjJPJYFK6te9ZeMv3VQP) | [Sun kaa oon vapaa \(Huokausten silta\)](https://open.spotify.com/album/0FEjMTIu9zFct7lRJ8tSa3) | 3:05 | 2026-09-10 |  |
+| [Sun kaa oon vapaa \(Huokausten silta\)](https://open.spotify.com/track/5vs0a2xxfdFTz3MCsbUnG5) | [AWA](https://open.spotify.com/artist/5HZjJPJYFK6te9ZeMv3VQP) | [Sun kaa oon vapaa \(Huokausten silta\)](https://open.spotify.com/album/0FEjMTIu9zFct7lRJ8tSa3) | 3:05 | 2026-09-10 | 2026-09-29 |
 | [Sun katu \(Vain elämää kausi 16\)](https://open.spotify.com/track/0bDl2EdfvCosADB8Vya5Gc) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Sun katu \(Vain elämää kausi 16\)](https://open.spotify.com/album/083cIrf5AiGD5ZneqWjj12) | 3:12 | 2025-10-23 | 2025-10-31 |
 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 | 2024-09-26 | 2025-01-31 |
 | [Sun takii](https://open.spotify.com/track/2QAGemdubaYwXgWYRvlBE1) | [whereismike](https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim) | [Sun takii](https://open.spotify.com/album/6ZFbAnqaJ6yJjKiWZTlIqu) | 2:23 | 2024-07-18 | 2024-08-16 |
@@ -1148,6 +1148,7 @@
 | [Tuut Tuut Tuut](https://open.spotify.com/track/1gWfhe6wPaJ4RyqDKEw584) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Tuut Tuut Tuut](https://open.spotify.com/album/7hXpnmRSq6msry9GVVwFEx) | 3:20 | 2025-11-28 | 2026-02-09 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-05-09 |
 | [Tyhjä](https://open.spotify.com/track/0cDiCLdv3DR0KObUE4L3Zm) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Tyhjä](https://open.spotify.com/album/3q3y3cfi1JhuksxXlEPyPv) | 3:21 | 2025-03-06 | 2025-03-28 |
+| [Tyhmä](https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5) | [leba](https://open.spotify.com/artist/329hEYn8r1SUGkRomjKqRP) | [Tyhmä](https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX) | 2:27 | 2026-09-24 |  |
 | [Tykkään](https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Make Trap Great Again](https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1) | 3:06 | 2026-01-09 | 2026-02-18 |
 | [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 | 2025-08-07 | 2025-11-14 |
 | [Tyttöystävä](https://open.spotify.com/track/1ZYdynsL0Js9Ha7C9h6XtW) | [Julia Rautio](https://open.spotify.com/artist/1Ir1beWTLsaUykUvzctvFj) | [Tyttöystävä](https://open.spotify.com/album/1mcb7p1hHgV85NyPZvPpyL) | 3:05 | 2024-11-07 | 2024-11-29 |

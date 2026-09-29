@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Northlane
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,537 likes - 162 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,677 likes - 162 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 7 | [Swallow](https://open.spotify.com/track/13T5HtRAEi0WufzsLOXm1Q) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Swallow](https://open.spotify.com/album/4ev1XrakdReSGteV9QTFx8) | 3:02 |
 | 8 | [WITH EYES TO SEE](https://open.spotify.com/track/5Zrhvr1qs2u7UduTaTHyvL) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [WITH EYES TO SEE](https://open.spotify.com/album/6G8QRgbECffS2dMFsihVqU) | 4:05 |
 | 9 | [Tales of Trees](https://open.spotify.com/track/02dR8GB1wcqc7ng8t3yZCN) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Tales Of Trees](https://open.spotify.com/album/1SXJJWU6eth3VAPnZZ2Kru) | 4:43 |
-| 10 | [Upperhand \- from CONTROL Resonant](https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Upperhand \(from CONTROL Resonant\)](https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb) | 4:09 |
+| 10 | [Upperhand \- from CONTROL Resonant](https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e), [CONTROL Resonant](https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l) | [Upperhand \(from CONTROL Resonant\)](https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb) | 4:09 |
 | 11 | [Make Your Exit](https://open.spotify.com/track/08ITA9gnwYlLKw31HuBqLu) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Make Your Exit](https://open.spotify.com/album/1mpX8Bbw4aoEWwx7MAAeAN) | 2:33 |
 | 12 | [The Hollowing Of Godflesh](https://open.spotify.com/track/1bIW488Zu2QiMthlsIqaIr) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [The Hollowing Of Godflesh](https://open.spotify.com/album/33QhXVyVMQmZ1MHf92a7Uw) | 2:59 |
 | 13 | [Shadows](https://open.spotify.com/track/66ZV6ECY7xwe5gzM1J7Uad) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Shadows](https://open.spotify.com/album/1CAF7kOyDJZKX6HDRQVHqm) | 2:37 |

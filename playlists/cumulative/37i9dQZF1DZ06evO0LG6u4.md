@@ -4,7 +4,7 @@
 
 > This is Éliane Radigue\. The essential tracks, all in one playlist.
 
-30 songs - 7 hr 10 min
+31 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Kailasha](https://open.spotify.com/track/2aSwsrvPkO86rrYIPSkLyO) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Trilogie De La Mort](https://open.spotify.com/album/2qLeLtVxS5N9A9B0qd1BC5) | 56:08 | 2026-03-12 |  |
 | [Koume](https://open.spotify.com/track/68yY905rINFVTKWAaTGQHm) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Trilogie De La Mort](https://open.spotify.com/album/2qLeLtVxS5N9A9B0qd1BC5) | 51:17 | 2026-03-12 |  |
 | [Kyema \(Intermediate States\)](https://open.spotify.com/track/6SrDGaMF5zeQVoujQq4Pap) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Trilogie De La Mort](https://open.spotify.com/album/2qLeLtVxS5N9A9B0qd1BC5) | 1:01:22 | 2026-03-12 |  |
-| [L'écoute](https://open.spotify.com/track/6MPGNBZtUTyFJ0wFHvRBnO) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 3:50 | 2026-05-19 |  |
+| [L'écoute](https://open.spotify.com/track/6MPGNBZtUTyFJ0wFHvRBnO) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 3:50 | 2026-05-19 | 2026-09-29 |
+| [La dimension de temps](https://open.spotify.com/track/0bLwUQaGUfwfJazgMC8YfI) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 3:36 | 2026-09-29 |  |
 | [La note](https://open.spotify.com/track/2ZpGWu0myOzQevbBpjcA8P) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:36 | 2026-03-13 |  |
 | [Labyrinthe sonore](https://open.spotify.com/track/6dvMR0jYWpUezTSrHV7zoI) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:25 | 2026-05-24 | 2026-08-15 |
 | [Le concert](https://open.spotify.com/track/3VBAIvsK3v4kLvOkaL7TD3) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Musique de notre temps \(1976\-1977\)](https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr) | 1:38 | 2026-05-09 | 2026-07-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Anakin Larios & Diferente Nivel en portada.",
-  "num_followers": 531959,
+  "num_followers": 531977,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "La Meta Es Ser",
-        "url": "https://open.spotify.com/album/01BRbJbk8itR8nCetRX16p"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "La Meta Es Ser",
-      "url": "https://open.spotify.com/track/6XXuLRprNFfcZjHLvOBBmh"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
         "name": "Dulce Amargo",
         "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "The Magic Man",
-        "url": "https://open.spotify.com/album/0x0LOk2wUSdCNmvqAbW8WV"
+        "name": "La Meta Es Ser",
+        "url": "https://open.spotify.com/album/01BRbJbk8itR8nCetRX16p"
       },
       "artists": [
         {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
         }
       ],
-      "duration_ms": 218235,
-      "name": "Mi Bonita",
-      "url": "https://open.spotify.com/track/7quwBiFkOey16ztjee9kSL"
+      "duration_ms": 170454,
+      "name": "La Meta Es Ser",
+      "url": "https://open.spotify.com/track/6XXuLRprNFfcZjHLvOBBmh"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -563,22 +547,34 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "Tu Culpa",
-        "url": "https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6"
+        "name": "The Magic Man",
+        "url": "https://open.spotify.com/album/0x0LOk2wUSdCNmvqAbW8WV"
       },
       "artists": [
         {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
         }
       ],
-      "duration_ms": 174641,
-      "name": "Tu Culpa",
-      "url": "https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm"
+      "duration_ms": 218235,
+      "name": "Mi Bonita",
+      "url": "https://open.spotify.com/track/7quwBiFkOey16ztjee9kSL"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
+        "name": "Y C\u00f3mo Es El",
+        "url": "https://open.spotify.com/album/2i5cRsYmyoF6CZBomPVjoA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exclusivo",
+          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
+        }
+      ],
+      "duration_ms": 269072,
+      "name": "Y C\u00f3mo Es El",
+      "url": "https://open.spotify.com/track/3J46mDOZWucrgrjb3JAyaP"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -599,18 +595,22 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "Y C\u00f3mo Es El",
-        "url": "https://open.spotify.com/album/2i5cRsYmyoF6CZBomPVjoA"
+        "name": "Tu Culpa",
+        "url": "https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6"
       },
       "artists": [
         {
-          "name": "Grupo Exclusivo",
-          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
         }
       ],
-      "duration_ms": 269072,
-      "name": "Y C\u00f3mo Es El",
-      "url": "https://open.spotify.com/track/3J46mDOZWucrgrjb3JAyaP"
+      "duration_ms": 174641,
+      "name": "Tu Culpa",
+      "url": "https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "Cartera Llena",
-        "url": "https://open.spotify.com/album/65jEOUenUxbkiSWHIQQe8l"
-      },
-      "artists": [
-        {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        }
-      ],
-      "duration_ms": 170573,
-      "name": "Cartera Llena",
-      "url": "https://open.spotify.com/track/2k3iQGrWNuStofUwJPkHwj"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
         "name": "Pluma Fina",
         "url": "https://open.spotify.com/album/5SJ6wwR1WRckUPNcIoNsie"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 201774,
       "name": "Para Ya Saben Quien",
       "url": "https://open.spotify.com/track/6qbN6LWApfySSYuOx6Emr0"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
+        "name": "Cartera Llena",
+        "url": "https://open.spotify.com/album/65jEOUenUxbkiSWHIQQe8l"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "duration_ms": 170573,
+      "name": "Cartera Llena",
+      "url": "https://open.spotify.com/track/2k3iQGrWNuStofUwJPkHwj"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
+        "name": "Desde El Ensayo Vol.1",
+        "url": "https://open.spotify.com/album/020HUblc2diWXTsCKgPrBn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 182917,
+      "name": "Desv\u00e9late conmigo",
+      "url": "https://open.spotify.com/track/0OjdgenD6rcxEt7quScAyc"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
         "name": "Viejos Tiempos",
         "url": "https://open.spotify.com/album/2kXVZ9atw5dK5SPUMUNmgy"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 207777,
       "name": "As\u00ed Es El Amor",
       "url": "https://open.spotify.com/track/6Xgy5U0hBUJsvhFaDodvJN"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
-        "name": "Desde El Ensayo Vol.1",
-        "url": "https://open.spotify.com/album/020HUblc2diWXTsCKgPrBn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 182917,
-      "name": "Desv\u00e9late conmigo",
-      "url": "https://open.spotify.com/track/0OjdgenD6rcxEt7quScAyc"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "Cuando No Estoy",
-        "url": "https://open.spotify.com/album/1LFdrxDKu84elIyzZR6TXg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Cuando No Estoy",
-      "url": "https://open.spotify.com/track/4uSbOaDtyIZIj0CUmmjbDk"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/2mSU9zlVPSWpGYbzw8IJ5N"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 185781,
       "name": "Millonario",
       "url": "https://open.spotify.com/track/0qZcNjtKS4bAJ7NllfVN4n"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
+        "name": "Cuando No Estoy",
+        "url": "https://open.spotify.com/album/1LFdrxDKu84elIyzZR6TXg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Cuando No Estoy",
+      "url": "https://open.spotify.com/track/4uSbOaDtyIZIj0CUmmjbDk"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "Mi Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 181098,
-      "name": "Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
         "name": "El Proximo Viernes",
         "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "LAS QUE SUENAN EN MI TROCA",
-        "url": "https://open.spotify.com/album/6xdYPEZELEEsQjuXIwaShL"
+        "name": "Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
         }
       ],
-      "duration_ms": 227488,
-      "name": "Entre Hierva Polvo y Plomo",
-      "url": "https://open.spotify.com/track/0hzxFetIXZjbF22Ays2ljq"
+      "duration_ms": 181098,
+      "name": "Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -1087,6 +1071,22 @@
       "duration_ms": 188665,
       "name": "Loco Jodido",
       "url": "https://open.spotify.com/track/0Fkc7mopyiSWLMQSYOhDMy"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
+        "name": "LAS QUE SUENAN EN MI TROCA",
+        "url": "https://open.spotify.com/album/6xdYPEZELEEsQjuXIwaShL"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 227488,
+      "name": "Entre Hierva Polvo y Plomo",
+      "url": "https://open.spotify.com/track/0hzxFetIXZjbF22Ays2ljq"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
+        "name": "FLOW ROCKSTAR",
+        "url": "https://open.spotify.com/album/5yhV4kzTrPhJV4qV2UbOzr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Privado",
+          "url": "https://open.spotify.com/artist/4KlSPzyPWa9JKOBsaOMKaA"
+        }
+      ],
+      "duration_ms": 176610,
+      "name": "FLOW ROCKSTAR",
+      "url": "https://open.spotify.com/track/03iYAVW5ACzBlLp7TcuIdi"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
         "name": "CHULA ELLA 59",
         "url": "https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 222143,
       "name": "El Tres Letras",
       "url": "https://open.spotify.com/track/56q9hFAx3NBeEFd42Kake2"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
-        "name": "FLOW ROCKSTAR",
-        "url": "https://open.spotify.com/album/5yhV4kzTrPhJV4qV2UbOzr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Privado",
-          "url": "https://open.spotify.com/artist/4KlSPzyPWa9JKOBsaOMKaA"
-        }
-      ],
-      "duration_ms": 176610,
-      "name": "FLOW ROCKSTAR",
-      "url": "https://open.spotify.com/track/03iYAVW5ACzBlLp7TcuIdi"
     },
     {
       "added_at": "2026-09-25 04:03:16",

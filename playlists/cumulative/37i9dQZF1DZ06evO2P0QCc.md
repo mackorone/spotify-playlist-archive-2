@@ -4,7 +4,7 @@
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-109 songs - 6 hr 44 min
+110 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Inspiracional](https://open.spotify.com/track/1iPLqMA51oVMzaATZrcZZ1) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:36 | 2023-01-14 | 2025-05-10 |
 | [La Tregua](https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 4:02 | 2023-09-09 |  |
 | [La Vida Es Una Cumbia](https://open.spotify.com/track/24drGwvENGtj91ZFUAciAG) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Ronda Bogotá](https://open.spotify.com/artist/7843pz6oKe2jtcPew109fr) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 4:03 | 2023-09-15 | 2023-10-11 |
-| [Lamba Do Ska](https://open.spotify.com/track/55GuTMWpBWHCNhPnES9ui8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Skannibal Party, Vol\. 14](https://open.spotify.com/album/5ILwBCaE089yrSqkTEREWn) | 3:48 | 2026-06-07 |  |
+| [Lamba Do Ska](https://open.spotify.com/track/55GuTMWpBWHCNhPnES9ui8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Skannibal Party, Vol\. 14](https://open.spotify.com/album/5ILwBCaE089yrSqkTEREWn) | 3:48 | 2026-06-07 | 2026-09-29 |
 | [Las Tijeras](https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:05 | 2023-01-14 |  |
 | [Las Tijeras \(Remastered Version 2024\)](https://open.spotify.com/track/5UQ590tNDsDGpVr9woC44o) | [The Magnetics](https://open.spotify.com/artist/122nF1f7d6nNfr39ZednVC), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Skangre Latino](https://open.spotify.com/album/5dGLfPbpabYLF6RWWQ0GCH) | 3:18 | 2024-08-14 | 2024-09-14 |
 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 | 2024-02-15 |  |
@@ -65,6 +65,7 @@
 | [Me Estoy Enamorando](https://open.spotify.com/track/3UlazqG94X2Zy6ENGKWiwx) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:57 | 2026-05-15 | 2026-05-30 |
 | [Me Estoy Enamorando \- Sonando desde el Auditorio Nacional](https://open.spotify.com/track/7HXcDZtdxoG2MwH8mJ03gh) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Me Estoy Enamorando \(Sonando desde el Auditorio Nacional\)](https://open.spotify.com/album/7uOVn6vtCUGhz89nvD9nL4) | 3:50 | 2025-09-28 | 2025-10-25 |
 | [My Girl](https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 2:52 | 2023-01-14 | 2026-06-08 |
+| [My Girl](https://open.spotify.com/track/0vDqVNO9oc8F2lKB1IzJn0) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta, Vol.1](https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E) | 2:53 | 2026-09-29 |  |
 | [Más Allá del Universo](https://open.spotify.com/track/6HUeXwT3LqfcEVYYc2Z9uv) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Paradise Has No Border](https://open.spotify.com/album/06suiN9OLq2uwkUc44FO1U) | 3:04 | 2023-01-14 | 2024-02-17 |
 | [No Piensa En Ti](https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:09 | 2023-01-14 |  |
 | [No Piensa En Ti \- Sonando Desde El Auditorio Nacional](https://open.spotify.com/track/5ZY4KPgjOVBMAzZXdUIGyH) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [No Piensa En Ti \(Sonando Desde El Auditorio Nacional\)](https://open.spotify.com/album/6RlTdExC3Yd0wIxL8MTpBw) | 3:37 | 2025-04-12 | 2025-05-10 |

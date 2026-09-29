@@ -4,7 +4,7 @@
 
 > De beste tunes op repeat\. Cover: Langa
 
-171 songs - 8 hr 3 min
+172 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Afterparty](https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Afterparty](https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU) | 2:35 | 2026-02-12 |  |
 | [AH TXE TXE](https://open.spotify.com/track/79wWpQPAcfqEeYCDjqGOVY) | [GIANT](https://open.spotify.com/artist/2YPBmmwBWiFzpoae8JQXIR), [TYSON](https://open.spotify.com/artist/4AMWsRQg1bTvWflaYNq713), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [AH TXE TXE](https://open.spotify.com/album/295XHZuwcQXO0iKMEdeiio) | 2:16 | 2025-07-17 | 2026-09-08 |
 | [Alsjeblieft](https://open.spotify.com/track/6EqWfORn8udIwOBx6NSktf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Alsjeblieft](https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr) | 3:20 | 2025-07-17 |  |
-| [Amaria](https://open.spotify.com/track/14E6VXR7nqhhdybb57asuu) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Amaria](https://open.spotify.com/album/2QDTlTSuwPiVmtTd2B9fYL) | 3:16 | 2026-06-11 |  |
+| [Amaria](https://open.spotify.com/track/14E6VXR7nqhhdybb57asuu) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Amaria](https://open.spotify.com/album/2QDTlTSuwPiVmtTd2B9fYL) | 3:16 | 2026-06-11 | 2026-09-29 |
 | [Amazin' \- Remix](https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Amazin’ \(Remix\)](https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h) | 2:55 | 2025-07-17 |  |
 | [AMG Met Matje](https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [AMG Met Matje](https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP) | 3:27 | 2026-08-14 | 2026-09-08 |
 | [Appel Mint Puur](https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Appel Mint Puur](https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ) | 3:27 | 2025-07-17 |  |
@@ -77,6 +77,7 @@
 | [Ik Kijk Soms Naar Jou](https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Kijk Soms Naar Jou](https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx) | 3:02 | 2025-10-15 |  |
 | [In De Nacht](https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy) | [Shah](https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13) | [In De Nacht](https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0) | 2:30 | 2025-07-17 |  |
 | [Je Bent Leuk](https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Je Bent Leuk](https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt) | 2:02 | 2025-07-17 |  |
+| [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 | 2026-09-28 |  |
 | [KANDE \(feat\. La Rouge\)](https://open.spotify.com/track/13c77IilGVzMcrOFO8rHlb) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [La Rouge](https://open.spotify.com/artist/0gHpIfv815XYSaH0m3X08y) | [GIOVANNI II](https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA) | 3:08 | 2026-01-29 |  |
 | [Kiki](https://open.spotify.com/track/7CqWn1gA0R9tCFTpTOcLLZ) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Love Doesn't Exist](https://open.spotify.com/album/4A2PB1hCtF2tcmUsaa9jYO) | 3:08 | 2026-08-14 | 2026-09-08 |
 | [KILLY MANJARO](https://open.spotify.com/track/4rcQuHo8PhGshmvEVJZ4T5) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6) | [KILLY MANJARO](https://open.spotify.com/album/2iYCjwIYCULB69wNmigHlg) | 2:26 | 2026-08-14 | 2026-09-08 |

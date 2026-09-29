@@ -4471,6 +4471,24 @@
     },
     {
       "album": {
+        "name": "feral heart",
+        "url": "https://open.spotify.com/album/7G8UGE0tLWr96toFCvlPjo"
+      },
+      "artists": [
+        {
+          "name": "Ha Vay",
+          "url": "https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197660,
+      "name": "feral heart",
+      "url": "https://open.spotify.com/track/20z8yDLhoR9Q8TbeH14x6x"
+    },
+    {
+      "album": {
         "name": "George",
         "url": "https://open.spotify.com/album/2WCrgpZ3OFFyNj8M0wRgz6"
       },

@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. EMJAY",
-  "num_followers": 874000,
+  "num_followers": 874052,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -185,7 +185,7 @@
         },
         {
           "name": "Baby Garo",
-          "url": "https://open.spotify.com/artist/0vNzeJ9CF6OIACPHhsump5"
+          "url": "https://open.spotify.com/artist/1v5jtZLPHmUo8VVxldEE9x"
         }
       ],
       "duration_ms": 163960,
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-09-25 06:00:11",
       "album": {
+        "name": "Querido\u2026",
+        "url": "https://open.spotify.com/album/4oxdXhWjJxcHitqQoCvE4d"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Arr\u00f3pame",
+      "url": "https://open.spotify.com/track/2tw0PxSHWMSI5Syb5AnIPW"
+    },
+    {
+      "added_at": "2026-09-25 06:00:11",
+      "album": {
         "name": "Chaparrita (Remix)",
         "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 266400,
       "name": "Chaparrita (Remix)",
       "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
-    },
-    {
-      "added_at": "2026-09-25 06:00:11",
-      "album": {
-        "name": "Querido\u2026",
-        "url": "https://open.spotify.com/album/4oxdXhWjJxcHitqQoCvE4d"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Arr\u00f3pame",
-      "url": "https://open.spotify.com/track/2tw0PxSHWMSI5Syb5AnIPW"
     },
     {
       "added_at": "2026-09-25 06:00:11",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-09-25 06:00:11",
       "album": {
-        "name": "T\u00fa Ni En Cuenta",
-        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 203801,
-      "name": "T\u00fa Ni En Cuenta",
-      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
-    },
-    {
-      "added_at": "2026-09-25 06:00:11",
-      "album": {
         "name": "CALLATE Y BESAME (Remix)",
         "url": "https://open.spotify.com/album/49ERZPyLhSiglGCl6QRXAO"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 206060,
       "name": "CALLATE Y BESAME - Remix",
       "url": "https://open.spotify.com/track/2qHxoRWVaOHTDlyHf3cjQn"
+    },
+    {
+      "added_at": "2026-09-25 06:00:11",
+      "album": {
+        "name": "T\u00fa Ni En Cuenta",
+        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 203801,
+      "name": "T\u00fa Ni En Cuenta",
+      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
     },
     {
       "added_at": "2026-09-25 06:00:11",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-09-25 06:00:11",
       "album": {
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 206485,
+      "name": "Callate y Besame",
+      "url": "https://open.spotify.com/track/2HyiD5iWkqbWSCMAu8lRG1"
+    },
+    {
+      "added_at": "2026-09-25 06:00:11",
+      "album": {
         "name": "Entre Compas",
         "url": "https://open.spotify.com/album/0Trve0GFSb3wp7VlQKFjSx"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 262269,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/4I9MoG4cjf4TsStLNiqSmk"
-    },
-    {
-      "added_at": "2026-09-25 06:00:11",
-      "album": {
-        "name": "Eso Si Es De Gangster",
-        "url": "https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 206485,
-      "name": "Callate y Besame",
-      "url": "https://open.spotify.com/track/2HyiD5iWkqbWSCMAu8lRG1"
     },
     {
       "added_at": "2026-09-25 06:00:11",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-09-25 06:00:11",
       "album": {
-        "name": "Andromeda",
-        "url": "https://open.spotify.com/album/5HbdBdN9DLLhzFor0lK7YR"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Bicho Alcaraz",
-          "url": "https://open.spotify.com/artist/49MiZFMAt1j5JNgxpYEaJe"
-        }
-      ],
-      "duration_ms": 135652,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/7ivfeI1loBTruF2nDSu5UP"
-    },
-    {
-      "added_at": "2026-09-25 06:00:11",
-      "album": {
         "name": "Portadas - RADAR M\u00e9xico",
         "url": "https://open.spotify.com/album/01VYAH8iyFwVUaNE56mIda"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 135428,
       "name": "Portadas - RADAR M\u00e9xico",
       "url": "https://open.spotify.com/track/7lEkG18Om4n4SJ8LzwQ0RL"
+    },
+    {
+      "added_at": "2026-09-25 06:00:11",
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/5HbdBdN9DLLhzFor0lK7YR"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Bicho Alcaraz",
+          "url": "https://open.spotify.com/artist/49MiZFMAt1j5JNgxpYEaJe"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/7ivfeI1loBTruF2nDSu5UP"
     },
     {
       "added_at": "2026-09-25 06:00:11",

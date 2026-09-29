@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAACVG9lOzMrZEMckxdPrTMZs",
+  "snapshot_id": "arhcgAAAAACeVExR5p/TOMLNrI2cREwp",
   "tracks": [
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 420800,
-      "name": "Gomni - with Ry Cooder",
-      "url": "https://open.spotify.com/track/1Rh5IPkuSCl17yPs9UiTtt"
+      "duration_ms": 446826,
+      "name": "Diaraby - with Ry Cooder",
+      "url": "https://open.spotify.com/track/5nK18JPh71fznLrmiDT2wo"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 446826,
-      "name": "Diaraby - with Ry Cooder",
-      "url": "https://open.spotify.com/track/5nK18JPh71fznLrmiDT2wo"
+      "duration_ms": 420800,
+      "name": "Gomni - with Ry Cooder",
+      "url": "https://open.spotify.com/track/1Rh5IPkuSCl17yPs9UiTtt"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 271280,
-      "name": "Allah Uya",
-      "url": "https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM"
+      "duration_ms": 325186,
+      "name": "Penda Yoro",
+      "url": "https://open.spotify.com/track/16SDv9fsauTzDBTOgNeDC9"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 325186,
-      "name": "Penda Yoro",
-      "url": "https://open.spotify.com/track/16SDv9fsauTzDBTOgNeDC9"
+      "duration_ms": 271280,
+      "name": "Allah Uya",
+      "url": "https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM"
     },
     {
       "added_at": null,

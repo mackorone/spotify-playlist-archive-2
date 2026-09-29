@@ -4,7 +4,7 @@
 
 > Solo rap da Napoli e dalla Campania\. DDM in cover.
 
-651 songs - 1 day 5 hr 16 min
+652 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Bandito](https://open.spotify.com/track/4TTJpJqCoG1HrXhnNENqAp) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Bandito](https://open.spotify.com/album/7aeDTh7h77f5hsLz6f7DrP) | 2:00 | 2026-06-18 |  |
 | [BANDITO](https://open.spotify.com/track/4wr8git78eXX2UYaEOsrUn) | [LIUAN](https://open.spotify.com/artist/4EWwWCzNKwF2hJMjNtldWt) | [BANDITO](https://open.spotify.com/album/65c96jqqVAvrtV8s3YwIll) | 2:54 | 2025-09-25 | 2025-10-24 |
 | [Bank Account](https://open.spotify.com/track/2wwhZI50NiSqVkBovf6HKz) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [Bank Account](https://open.spotify.com/album/59TvnbJggWTB2pVMIAvatS) | 2:08 | 2024-07-04 | 2024-07-19 |
+| [BATTISTA](https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ) | [BATTISTA](https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN) | [BATTISTA](https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW) | 2:37 | 2026-09-28 |  |
 | [BCN](https://open.spotify.com/track/4ZgHvRgiUoXyJAg6Zkb96b) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [BCN](https://open.spotify.com/album/2eFsshWElYwxAW8JYYO8p5) | 2:15 | 2022-05-10 | 2022-05-13 |
 | [BEE](https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:45 | 2024-01-22 |  |
 | [BELLAVITA](https://open.spotify.com/track/7HXMQNo9PAI263JuvzO2OG) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx) | [BELLAVITA](https://open.spotify.com/album/6YvPHTp4Ih9kxCRpBvREvw) | 2:36 | 2025-07-24 | 2025-08-08 |

@@ -6,382 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arCrwAAAAADdvpzH582Y14o15oM59fz5",
+  "snapshot_id": "arnmQAAAAABS4HxreFDl4ZyUpr89iD4C",
   "tracks": [
     {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Outer Wilds (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o"
-      },
-      "artists": [
-        {
-          "name": "Andrew Prahlow",
-          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
-        }
-      ],
-      "duration_ms": 125812,
-      "name": "Campfire Song",
-      "url": "https://open.spotify.com/track/6LReuuVDN1YAoRkdxUe1Cs"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Life Changing Moments Seem Minor in Pictures",
-        "url": "https://open.spotify.com/album/5SWxMRSMOgm5YE8VHuJa1Z"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Droopy Likes Ricochet",
-      "url": "https://open.spotify.com/track/7C9kMPZb3vs5p68yvTmyz1"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/1RBAbzXwliPqf3lMNzpGBc"
-      },
-      "artists": [
-        {
-          "name": "Alan Gogoll",
-          "url": "https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3"
-        }
-      ],
-      "duration_ms": 127352,
-      "name": "Pistachio Parrot",
-      "url": "https://open.spotify.com/track/5xuhCqcvgQSIIbDnoUabRt"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Avoidance",
-        "url": "https://open.spotify.com/album/2FFFMnIXakSCPAVqpGPqi5"
-      },
-      "artists": [
-        {
-          "name": "Andrew Gialanella",
-          "url": "https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Moving Mountains",
-      "url": "https://open.spotify.com/track/0Uqp53KpQKt2i4wI3GHzEL"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Sid Meier's Civilization VI (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/1JCtcMqTcc3WAP3NuXOIv2"
-      },
-      "artists": [
-        {
-          "name": "Geoff Knorr",
-          "url": "https://open.spotify.com/artist/1OFCjpSAsyIOWWzIAYb3OI"
-        },
-        {
-          "name": "Phill Boucher",
-          "url": "https://open.spotify.com/artist/1JB1qUF4dpRTDHmCmgppca"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "America (The Atomic Era)",
-      "url": "https://open.spotify.com/track/51xpzF2HwSkZDAJWf9t18X"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Frieren: Beyond Journey's End: Season 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7yrHm8E9uGZ5HnafkC9ujU"
-      },
-      "artists": [
-        {
-          "name": "Evan Call",
-          "url": "https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ"
-        }
-      ],
-      "duration_ms": 132560,
-      "name": "An Afternoon Date",
-      "url": "https://open.spotify.com/track/2p1uLa9BlVp0D3gaGN14lH"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Acoustic Guitar Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/3QIQXD2qMFfmRR2fu7A5LT"
-      },
-      "artists": [
-        {
-          "name": "Guus Dielissen",
-          "url": "https://open.spotify.com/artist/2lBxgKTiYd4kpfnAnFyI1P"
-        }
-      ],
-      "duration_ms": 218403,
-      "name": "Fireflies - Acoustic Instrumental",
-      "url": "https://open.spotify.com/track/4AOzlzurXcIJc6dfk2r6mf"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "The Wind Waker Orchestrated",
-        "url": "https://open.spotify.com/album/6N6jfTjyhTM3TMcLXumRBN"
-      },
-      "artists": [
-        {
-          "name": "The Marcus Hedges Trend Orchestra",
-          "url": "https://open.spotify.com/artist/123epI2OFu37F7VsnOBn9F"
-        }
-      ],
-      "duration_ms": 227860,
-      "name": "The Great Sea - From \"The Legend of Zelda: The Wind Waker\"",
-      "url": "https://open.spotify.com/track/1D644kNnetS59dp2wUoVMl"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Overlook",
-        "url": "https://open.spotify.com/album/5gezEdrRALSL6CZLjjvDrB"
-      },
-      "artists": [
-        {
-          "name": "The Cabin Tapes",
-          "url": "https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J"
-        }
-      ],
-      "duration_ms": 103146,
-      "name": "Overlook",
-      "url": "https://open.spotify.com/track/7ACFV24JsXLzovB97JJ3OR"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Radio: Lobby (Original Music from the Game \"Big Walk\")",
-        "url": "https://open.spotify.com/album/7ttSK3rqNUNUQF0EaeEeW0"
-      },
-      "artists": [
-        {
-          "name": "aksfx",
-          "url": "https://open.spotify.com/artist/54JDbvfqTodagkrN6adqIT"
-        }
-      ],
-      "duration_ms": 270014,
-      "name": "[12:00am] Motif - Original Music from the Game \"Big Walk\"",
-      "url": "https://open.spotify.com/track/1Gr9Fsumr4c1dkX2cuB7Pw"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Urban Driftwood",
-        "url": "https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Juvenescence",
-      "url": "https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 203146,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/7oDbHuNCEat0EoBaeMvn6x"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Luca (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/62coFwzQrIGBhkVFYv5xPa"
-      },
-      "artists": [
-        {
-          "name": "Dan Romer",
-          "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4"
-        }
-      ],
-      "duration_ms": 102120,
-      "name": "Vespa \u00e8 Libert\u00e0",
-      "url": "https://open.spotify.com/track/4EpVsgCRzsyLBvgzN51uEh"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/0diSQW7E7oX750ztxS9fdy"
-      },
-      "artists": [
-        {
-          "name": "The Arcadian Wild",
-          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
-        }
-      ],
-      "duration_ms": 152805,
-      "name": "Lara",
-      "url": "https://open.spotify.com/track/0eVzupbAPjgUkPyWyRGlBV"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Nickel Creek",
-        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "Robin And Marian",
-      "url": "https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "In Deepest Blue (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Instrumental",
-      "url": "https://open.spotify.com/track/1ljkJS3Fl6VgHcUgJ5i4B3"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "The Secret Life of Walter Mitty (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/2pLC40gyEsQljWWBV3zA1T"
-      },
-      "artists": [
-        {
-          "name": "Theodore Shapiro",
-          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
-        },
-        {
-          "name": "Mark Graham",
-          "url": "https://open.spotify.com/artist/2n2ZWyoCn0jr3I5rhDoFAw"
-        }
-      ],
-      "duration_ms": 163453,
-      "name": "Stationary Cycle",
-      "url": "https://open.spotify.com/track/3MZwaRLlfyvPSIP7qHpBO8"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Iridesce / Famous",
-        "url": "https://open.spotify.com/album/5nioohlHYXy7BwGbX4hfpg"
-      },
-      "artists": [
-        {
-          "name": "Hailaker",
-          "url": "https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy"
-        },
-        {
-          "name": "Lowswimmer",
-          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
-        },
-        {
-          "name": "Jemima Coulter",
-          "url": "https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/3qbToOWJKKc0HtruELjlE1"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "How To Train Your Dragon (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1kTnC045mQqurTQvGMGpmU"
-      },
-      "artists": [
-        {
-          "name": "John Powell",
-          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Where's Hiccup?",
-      "url": "https://open.spotify.com/track/6uS8yKTw6hHejlzFsqjmRf"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "brent iii",
-        "url": "https://open.spotify.com/album/35tILwApqYtN9fTJq2v7M3"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "five minutes",
-      "url": "https://open.spotify.com/track/0TL55nw4CORmbtU8I6KpG6"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "An Airplane Carried Me To Bed",
-        "url": "https://open.spotify.com/album/7GdjIv22xHMYk7usRFzW8M"
-      },
-      "artists": [
-        {
-          "name": "Sky Sailing",
-          "url": "https://open.spotify.com/artist/3uC7RGF9NH9DIJWq92UB6O"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "A Little Opera Goes A Long Way",
-      "url": "https://open.spotify.com/track/41V3zDIBNXxhl5wa19P214"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
-      "album": {
-        "name": "Through the Deep, Dark Valley",
-        "url": "https://open.spotify.com/album/26kBAsDf3wwT8pzlBB9M0R"
-      },
-      "artists": [
-        {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
-        }
-      ],
-      "duration_ms": 182779,
-      "name": "In Memoriam",
-      "url": "https://open.spotify.com/track/6JjhA3daw1LazyfyTWqQJz"
-    },
-    {
-      "added_at": "2026-09-21 04:00:00",
+      "added_at": "2026-09-28 04:00:00",
       "album": {
         "name": "The Cosmic Selector Vol. 1",
         "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
@@ -392,121 +20,473 @@
           "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 194831,
-      "name": "Digging Up The Past",
-      "url": "https://open.spotify.com/track/2fO2FwmBZkZ7F5saDuV3T6"
+      "duration_ms": 283192,
+      "name": "Is There Anybody Out There",
+      "url": "https://open.spotify.com/track/3QEe27NKG2TPtLzSz52Bcm"
     },
     {
-      "added_at": "2026-09-21 04:00:00",
+      "added_at": "2026-09-28 04:00:00",
       "album": {
-        "name": "The Music of Harry Potter and the Cursed Child - In Four Contemporary Suites",
-        "url": "https://open.spotify.com/album/3u8d398SStb00cPjVi58N5"
+        "name": "LIVE FROM FOREST HILLS",
+        "url": "https://open.spotify.com/album/3jVWNdXBnJZqjnfFE4QotN"
       },
       "artists": [
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
         }
       ],
-      "duration_ms": 114279,
-      "name": "Suite One: The Hogwarts Express - (From \"Harry Potter and the Cursed Child\")",
-      "url": "https://open.spotify.com/track/2NOKi5TO5iDgBBO0TDWFNt"
+      "duration_ms": 95785,
+      "name": "WONDERWALL - Live from Forest Hills",
+      "url": "https://open.spotify.com/track/5sKJRZ0mMKstVx0jvxCRqZ"
     },
     {
-      "added_at": "2026-09-21 04:00:00",
+      "added_at": "2026-09-28 04:00:00",
       "album": {
-        "name": "From the Window",
-        "url": "https://open.spotify.com/album/6dt7HNlsnq6cuaG0Kp3Zaj"
+        "name": "Go Farther In Lightness",
+        "url": "https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab"
       },
       "artists": [
         {
-          "name": "Sarah Houston",
-          "url": "https://open.spotify.com/artist/21FQhyoIhJ33J5hLcHhLbf"
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
         }
       ],
-      "duration_ms": 121000,
-      "name": "Introspection",
-      "url": "https://open.spotify.com/track/2z4IoVyn615TvQR9VzpvVH"
+      "duration_ms": 90000,
+      "name": "L'imaginaire",
+      "url": "https://open.spotify.com/track/4x3FNcUueqQyVCfw30Y7BY"
     },
     {
-      "added_at": "2026-09-21 04:00:00",
+      "added_at": "2026-09-28 04:00:00",
       "album": {
-        "name": "Star Wars: The Clone Wars - The Final Season (Episodes 9-12) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/6LqpJg7gedj71TlxZETgMj"
+        "name": "Every Shade of Blue",
+        "url": "https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB"
       },
       "artists": [
         {
-          "name": "Kevin Kiner",
-          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 136738,
-      "name": "Burying the Dead",
-      "url": "https://open.spotify.com/track/2EgVDzhE9yBHO7DgMdWCwk"
+      "duration_ms": 205293,
+      "name": "Virginia (Wind In The Night)",
+      "url": "https://open.spotify.com/track/3dDaJo3QS9Bohk8wrG5Pvv"
     },
     {
-      "added_at": "2026-09-21 04:00:00",
+      "added_at": "2026-09-28 04:00:00",
       "album": {
-        "name": "A Short Hike",
-        "url": "https://open.spotify.com/album/2JshDNPO0R0OrXRqO7oIIB"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/3I3XQFh31SjNb08YDqCZev"
       },
       "artists": [
         {
-          "name": "Mark Sparling",
-          "url": "https://open.spotify.com/artist/512N8AirvONRHLLZg5cjC0"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 192461,
-      "name": "Beach Buds (Short Hike)",
-      "url": "https://open.spotify.com/track/5gpfrWEwhsHhQcw6VjrZNp"
+      "duration_ms": 251788,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5leKOOnMx0lcX0ElZxeI3K"
     },
     {
-      "added_at": "2026-09-21 04:00:00",
+      "added_at": "2026-09-28 04:00:00",
       "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT"
+        "name": "The Walk Home (Acoustic)",
+        "url": "https://open.spotify.com/album/62FMuZekT30JDGBoGnQXmB"
       },
       "artists": [
         {
-          "name": "Cody Fry",
-          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
         }
       ],
-      "duration_ms": 170859,
-      "name": "A Little More",
-      "url": "https://open.spotify.com/track/4N9uifRGTJvHi62UwtDmYU"
+      "duration_ms": 174935,
+      "name": "The Walk Home - Acoustic",
+      "url": "https://open.spotify.com/track/2cvUaZZ05EldHnd51G4cME"
     },
     {
-      "added_at": "2026-09-21 04:00:00",
+      "added_at": "2026-09-28 04:00:00",
       "album": {
-        "name": "Tony (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6lLwEKs3XF53ApFGQOJro2"
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
       },
       "artists": [
         {
-          "name": "Jay McCarrol",
-          "url": "https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 120443,
-      "name": "Striper Run",
-      "url": "https://open.spotify.com/track/1jgCmWEkl7HBJ2vMciYz0m"
+      "duration_ms": 243040,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/5fkbOmiHN3RnG1qjzNFMyi"
     },
     {
-      "added_at": "2026-09-21 04:00:00",
+      "added_at": "2026-09-28 04:00:00",
       "album": {
-        "name": "White Water",
-        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
+        "name": "Empty Handed",
+        "url": "https://open.spotify.com/album/18t8asaVdG0YIqPyF4KrEG"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "The Redwood Twins",
+          "url": "https://open.spotify.com/artist/2peXW8Wsfv7PeQtOmpPuaY"
         }
       ],
-      "duration_ms": 233391,
-      "name": "White Water",
-      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
+      "duration_ms": 213504,
+      "name": "Empty Handed",
+      "url": "https://open.spotify.com/track/0G6vflgvnEdZrHUKkJcWr9"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "The Odd Life of Timothy Green",
+        "url": "https://open.spotify.com/album/4ANRTj6mOA9fM6UYjIctHw"
+      },
+      "artists": [
+        {
+          "name": "Geoff Zanelli",
+          "url": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "So Much Is Possible",
+      "url": "https://open.spotify.com/track/7qBlx5OH1yaab5LtfSxheo"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "NeverAlways (Vol. 2)",
+        "url": "https://open.spotify.com/album/3qE3tGZxXzTvhhI92csWfN"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 266946,
+      "name": "What\u2019s Always Been",
+      "url": "https://open.spotify.com/track/7sE7LtNCGaH9Df55imAuqq"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "Good Light",
+        "url": "https://open.spotify.com/album/4WXwjwVrr6TFi0HpE5QXq4"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 172213,
+      "name": "What Would I Do Without You",
+      "url": "https://open.spotify.com/track/11TK5KLtLZUdKr1C549bAw"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/3VlUqZCeXUssbRSb536N7C"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "This Room Is White",
+        "url": "https://open.spotify.com/album/5nnTXPFAg0Ckm8ZuRxfBIw"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/3Nl6eD5Jz6TLESdBx1Mpjo"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "A World Gone By",
+        "url": "https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 247289,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/61iHQQn1NT0nqvqLdO5jjY"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 233289,
+      "name": "Real Peach",
+      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "Stick Season: Piano Instrumentals",
+        "url": "https://open.spotify.com/album/631fk7HSSadDenUKV8kYM9"
+      },
+      "artists": [
+        {
+          "name": "Minnz Piano",
+          "url": "https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ"
+        }
+      ],
+      "duration_ms": 254821,
+      "name": "New Perspective",
+      "url": "https://open.spotify.com/track/04jOJp6cE35INW59xFMzIc"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "Islands",
+        "url": "https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "The Love We Stole",
+      "url": "https://open.spotify.com/track/64V4viXR5kJzCr9LnnUcnq"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "Ever-Shifting, Continual Blossoming",
+        "url": "https://open.spotify.com/album/2jHVzEpvZ8gV5zn5IywmRB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 196210,
+      "name": "The Mountain Is You",
+      "url": "https://open.spotify.com/track/3UN5BBwxoHbwFGxWNvaEj7"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/4eZPWN1BE2Mfmq2oWoLBhU"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/3fPvHz04TMMy7coyeX3bmr"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "When I Was Younger",
+        "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "Love Songs For Losers",
+        "url": "https://open.spotify.com/album/1InvtE9l0edXnOhz6ArUaB"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 276760,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1FaFvYaqcgG2PpVSz4slue"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 241194,
+      "name": "Surefire",
+      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 116289,
+      "name": "Short Story",
+      "url": "https://open.spotify.com/track/5gkXT32DgfW10RPN8cJoMX"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "Wound Up",
+        "url": "https://open.spotify.com/album/2fvm2wkdF7fOo7OUvkIi4p"
+      },
+      "artists": [
+        {
+          "name": "William Wild",
+          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
+        }
+      ],
+      "duration_ms": 195664,
+      "name": "Wound Up",
+      "url": "https://open.spotify.com/track/584ZFAwZoTv2OPVQHDfd7n"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "Austin Plaine",
+        "url": "https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN"
+      },
+      "artists": [
+        {
+          "name": "Austin Plaine",
+          "url": "https://open.spotify.com/artist/6AMV5iw09ZrX1h3o4x7uVN"
+        }
+      ],
+      "duration_ms": 196240,
+      "name": "Never Come Back Again",
+      "url": "https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "THE TAYLOR SWIFT SUITE",
+        "url": "https://open.spotify.com/album/6iXjQ6mWReF85VAHNtI8nf"
+      },
+      "artists": [
+        {
+          "name": "Steve Hackman",
+          "url": "https://open.spotify.com/artist/180C8ZQPSTjNQKXtM9HYEG"
+        }
+      ],
+      "duration_ms": 246640,
+      "name": "The Prophecy (String Orchestra)",
+      "url": "https://open.spotify.com/track/1CzpqMi1VKfzkd4OnP2H5K"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "Emily & Her Penthouse In The Sky",
+      "url": "https://open.spotify.com/track/37uueiDlminQMBDX4SvbMU"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "Andrew McMahon In The Wilderness",
+        "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 223879,
+      "name": "Cecilia And The Satellite",
+      "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "A Black Mile To The Surface",
+        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 273066,
+      "name": "The Gold",
+      "url": "https://open.spotify.com/track/3EytfC22ikoXM921cJbejn"
+    },
+    {
+      "added_at": "2026-09-28 04:00:00",
+      "album": {
+        "name": "The Wonderlands: Sunlight",
+        "url": "https://open.spotify.com/album/4SQIW4UzaNV5qvoc4gedpl"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "duration_ms": 248773,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/0QxkYlsWomAcv2MxjTdc6T"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21238,
+  "num_followers": 21240,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAAA6Qm1A15JkMZY3BRBzOOq9",
+  "snapshot_id": "arhcgAAAAAAvAjmkzV4E9Ms/MOUp4Ay1",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "To Be Worried",
+        "url": "https://open.spotify.com/album/7dBWtsYsTuctAU51lKiSWf"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 182303,
+      "name": "To Be Worried",
+      "url": "https://open.spotify.com/track/71fuwhvrbiuxfpBspkR93A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Private Room (feat. Rich Homie Quan) - Single",
         "url": "https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 197720,
       "name": "Private Room",
       "url": "https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Be Worried",
-        "url": "https://open.spotify.com/album/7dBWtsYsTuctAU51lKiSWf"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 182303,
-      "name": "To Be Worried",
-      "url": "https://open.spotify.com/track/71fuwhvrbiuxfpBspkR93A"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legacy of Hits",
+        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 188010,
+      "name": "Reloaded",
+      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Most - Single",
         "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 210409,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy of Hits",
-        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 188010,
-      "name": "Reloaded",
-      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
     },
     {
       "added_at": null,

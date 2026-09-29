@@ -4,7 +4,7 @@
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Julia Jacklin
 
-10,864 songs - 26 day 8 hr 50 min
+10,865 songs - 26 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9239,6 +9239,7 @@
 | [The Backwards Heart](https://open.spotify.com/track/3yXpfmDmEluup8pOyi0g25) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 4:06 | 2024-05-17 | 2024-06-22 |
 | [The Bad Ones](https://open.spotify.com/track/0iOaXKUTATIIOqdfIvC8cz) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Pan African Rockstar](https://open.spotify.com/album/2kA7NTDqESZM0B7COf3cfh) | 2:05 | 2023-09-22 | 2023-11-11 |
 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 | 2023-05-26 | 2023-07-01 |
+| [The Ballad of St Nick's Park](https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX) | [300SkullsAndCounting](https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63), [Jenny Sparks](https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf) | [THIS IS SPA TOWN!](https://open.spotify.com/album/621WlWIqOod29HG6km5Olf) | 3:13 | 2026-09-28 |  |
 | [The Ballad of the Hulk](https://open.spotify.com/track/6q4i9QAtKQLV8vxP5S8kHj) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest – Side 1](https://open.spotify.com/album/4oVCQiTtHe0fQptCkkXSal) | 4:04 | 2019-05-26\* | 2019-06-15 |
 | [The Band \(feat\. Liv.e\)](https://open.spotify.com/track/15REw9T9japDKAWH8yK0fR) | [Black Noi$e](https://open.spotify.com/artist/647PD9VO8BRYqib1oRPDfA), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [The Band \(feat\. Liv.e\)](https://open.spotify.com/album/5n0bD9e8mF4xzT5Lf3IzUM) | 1:43 | 2020-06-19 | 2020-07-03 |
 | [The Beach](https://open.spotify.com/track/0A4DniPQYwURoRs9jKm7j4) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [The Beach](https://open.spotify.com/album/3kEXFP8ZH9uCcnm1e6Cjck) | 3:03 | 2025-08-15 | 2025-09-20 |

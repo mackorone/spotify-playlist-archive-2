@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 50303,
+  "num_followers": 50305,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Fermata",
-        "url": "https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX"
-      },
-      "artists": [
-        {
-          "name": "YOUNGJAE",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Escape to Me",
-      "url": "https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
         "name": "2nd Mini Album 'Algorithm's Blossom'",
         "url": "https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 271293,
       "name": "Goodbye My Sadness",
       "url": "https://open.spotify.com/track/7BoC7eEStVxZSBeLtLSoHv"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
+        "name": "Fermata",
+        "url": "https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX"
+      },
+      "artists": [
+        {
+          "name": "YOUNGJAE",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Escape to Me",
+      "url": "https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Still the Same",
-        "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
-      },
-      "artists": [
-        {
-          "name": "KYUL",
-          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
-        }
-      ],
-      "duration_ms": 148002,
-      "name": "Still the Same",
-      "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 223933,
       "name": "Life goes on",
       "url": "https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
+        "name": "Still the Same",
+        "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
+      },
+      "artists": [
+        {
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+        }
+      ],
+      "duration_ms": 148002,
+      "name": "Still the Same",
+      "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
     },
     {
       "added_at": "2026-08-18 06:15:23",

@@ -1,6 +1,6 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 530689,
+  "num_followers": 530669,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Iceblink Luck",
-      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "Teen Dream",
         "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 348440,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Iceblink Luck",
+      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 213622,
       "name": "I Know There's Gonna Be (Good Times)",
       "url": "https://open.spotify.com/track/06UOL50QYtDR5l06ohu88m"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -1659,7 +1659,7 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Type of Girl",
+        "name": "type of girl",
         "url": "https://open.spotify.com/album/4HGw9M865EeOCeRUWnKeJd"
       },
       "artists": [
@@ -1669,7 +1669,7 @@
         }
       ],
       "duration_ms": 256000,
-      "name": "Type of Girl",
+      "name": "type of girl",
       "url": "https://open.spotify.com/track/4rzB3e4GvQUO5quMCKySp4"
     },
     {

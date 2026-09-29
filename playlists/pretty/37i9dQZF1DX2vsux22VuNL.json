@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Drik Barbosa",
-  "num_followers": 289146,
+  "num_followers": 289128,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,26 @@
     {
       "added_at": "2026-09-25 03:00:33",
       "album": {
+        "name": "Tons de Marrom",
+        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Corpo Suado",
+      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
+    },
+    {
+      "added_at": "2026-09-25 03:00:33",
+      "album": {
         "name": "Cintilante",
         "url": "https://open.spotify.com/album/4cMDOUCrWlntv3wlOtRgxR"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 144000,
       "name": "Passando as Horas",
       "url": "https://open.spotify.com/track/7JSziiXMmuMwX9yp5HnutR"
-    },
-    {
-      "added_at": "2026-09-25 03:00:33",
-      "album": {
-        "name": "Tons de Marrom",
-        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Corpo Suado",
-      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
     },
     {
       "added_at": "2026-09-25 03:00:33",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-09-25 03:00:33",
       "album": {
-        "name": "Beira Mar",
-        "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 180032,
-      "name": "Beira Mar",
-      "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
-    },
-    {
-      "added_at": "2026-09-25 03:00:33",
-      "album": {
         "name": "At\u00e9 virar saudade",
         "url": "https://open.spotify.com/album/4q6PPp2iRvhhxa8zaFei7x"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 207400,
       "name": "Deu um branco",
       "url": "https://open.spotify.com/track/3lEBZ2Yx6nQEUnMPFA0aPV"
+    },
+    {
+      "added_at": "2026-09-25 03:00:33",
+      "album": {
+        "name": "Beira Mar",
+        "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 180032,
+      "name": "Beira Mar",
+      "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
     },
     {
       "added_at": "2026-09-25 03:00:33",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-09-25 03:00:33",
       "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 199812,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
+    },
+    {
+      "added_at": "2026-09-25 03:00:33",
+      "album": {
         "name": "N\u00e3o Sei Lidar",
         "url": "https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 204210,
       "name": "meu particular (remix)",
       "url": "https://open.spotify.com/track/1PEWA9tWsSlFUsv0GG9IzA"
-    },
-    {
-      "added_at": "2026-09-25 03:00:33",
-      "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 199812,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
     },
     {
       "added_at": "2026-09-25 03:00:33",
@@ -459,6 +459,26 @@
     {
       "added_at": "2026-09-25 03:00:33",
       "album": {
+        "name": "Super Cr\u00f4nico",
+        "url": "https://open.spotify.com/album/6yCySIzI3Y6VUILLmck07D"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Sangue no Meu Jeans",
+      "url": "https://open.spotify.com/track/3MB0m2jaeXa64pgWs6uW92"
+    },
+    {
+      "added_at": "2026-09-25 03:00:33",
+      "album": {
         "name": "Arcano 19",
         "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
       },
@@ -503,26 +523,6 @@
     {
       "added_at": "2026-09-25 03:00:33",
       "album": {
-        "name": "Super Cr\u00f4nico",
-        "url": "https://open.spotify.com/album/6yCySIzI3Y6VUILLmck07D"
-      },
-      "artists": [
-        {
-          "name": "Cr\u00f4nicas de um Babaca",
-          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
-        },
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "Sangue no Meu Jeans",
-      "url": "https://open.spotify.com/track/3MB0m2jaeXa64pgWs6uW92"
-    },
-    {
-      "added_at": "2026-09-25 03:00:33",
-      "album": {
         "name": "2Hard2Love2",
         "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
       },
@@ -543,38 +543,6 @@
     {
       "added_at": "2026-09-25 03:00:33",
       "album": {
-        "name": "Am\u00e9frica",
-        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
-      },
-      "artists": [
-        {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
-        }
-      ],
-      "duration_ms": 207378,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
-    },
-    {
-      "added_at": "2026-09-25 03:00:33",
-      "album": {
-        "name": "MOSAICO",
-        "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "No Pain No Gain",
-      "url": "https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K"
-    },
-    {
-      "added_at": "2026-09-25 03:00:33",
-      "album": {
         "name": "Camisa Vintage",
         "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
       },
@@ -591,6 +559,22 @@
       "duration_ms": 144095,
       "name": "Camisa Vintage",
       "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
+    },
+    {
+      "added_at": "2026-09-25 03:00:33",
+      "album": {
+        "name": "Am\u00e9frica",
+        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "duration_ms": 207378,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
     },
     {
       "added_at": "2026-09-25 03:00:33",
@@ -619,6 +603,22 @@
       "duration_ms": 154105,
       "name": "O Despertar",
       "url": "https://open.spotify.com/track/33wlhom1u9DpjP28vbjj1u"
+    },
+    {
+      "added_at": "2026-09-25 03:00:33",
+      "album": {
+        "name": "MOSAICO",
+        "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "No Pain No Gain",
+      "url": "https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K"
     },
     {
       "added_at": "2026-09-25 03:00:33",
@@ -667,6 +667,26 @@
       "duration_ms": 192786,
       "name": "Pensando Em N\u00f3s",
       "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+    },
+    {
+      "added_at": "2026-09-25 03:00:33",
+      "album": {
+        "name": "Emocionado",
+        "url": "https://open.spotify.com/album/0gzjsFtw1iMalskL6MssB0"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Lopes",
+          "url": "https://open.spotify.com/artist/4boo6QjKCIEDrRdcns9lMy"
+        },
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        }
+      ],
+      "duration_ms": 145631,
+      "name": "Emocionado",
+      "url": "https://open.spotify.com/track/3yuSnVoP4ERDaMxOGqfk4i"
     },
     {
       "added_at": "2026-09-25 03:00:33",
@@ -731,26 +751,6 @@
       "duration_ms": 211764,
       "name": "Sempre Que Me V\u00ea",
       "url": "https://open.spotify.com/track/486dXyOiD0WKfEtSzUEWuj"
-    },
-    {
-      "added_at": "2026-09-25 03:00:33",
-      "album": {
-        "name": "Emocionado",
-        "url": "https://open.spotify.com/album/0gzjsFtw1iMalskL6MssB0"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Lopes",
-          "url": "https://open.spotify.com/artist/4boo6QjKCIEDrRdcns9lMy"
-        },
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        }
-      ],
-      "duration_ms": 145631,
-      "name": "Emocionado",
-      "url": "https://open.spotify.com/track/3yuSnVoP4ERDaMxOGqfk4i"
     },
     {
       "added_at": "2026-09-25 03:00:33",
@@ -879,6 +879,26 @@
     {
       "added_at": "2026-09-25 03:00:33",
       "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2026-09-25 03:00:33",
+      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/1xcUwnCCCJJon9Pd4XBKJE"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 166153,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/7EghrkAzBt8wtriekaK8wi"
-    },
-    {
-      "added_at": "2026-09-25 03:00:33",
-      "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2026-09-25 03:00:33",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2026-09-25 03:00:33",
       "album": {
+        "name": "Versos e Voos",
+        "url": "https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Tudo de Novo",
+      "url": "https://open.spotify.com/track/6vQIoINz0yzZoGCbC2NE5p"
+    },
+    {
+      "added_at": "2026-09-25 03:00:33",
+      "album": {
         "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
         "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 158293,
       "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
       "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
-    },
-    {
-      "added_at": "2026-09-25 03:00:33",
-      "album": {
-        "name": "Versos e Voos",
-        "url": "https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Tudo de Novo",
-      "url": "https://open.spotify.com/track/6vQIoINz0yzZoGCbC2NE5p"
     },
     {
       "added_at": "2026-09-25 03:00:33",
@@ -1523,30 +1523,6 @@
     {
       "added_at": "2026-09-25 03:00:33",
       "album": {
-        "name": "FRAGMENTADO",
-        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        },
-        {
-          "name": "Ramon Calixto",
-          "url": "https://open.spotify.com/artist/57LISFynxucEx3WF6Iqxq8"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "BASQUIAT",
-      "url": "https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0"
-    },
-    {
-      "added_at": "2026-09-25 03:00:33",
-      "album": {
         "name": "Inseguran\u00e7a",
         "url": "https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7"
       },
@@ -1567,6 +1543,30 @@
       "duration_ms": 190243,
       "name": "Inseguran\u00e7a",
       "url": "https://open.spotify.com/track/48a7MGZKXcq4MQCkXJBB0k"
+    },
+    {
+      "added_at": "2026-09-25 03:00:33",
+      "album": {
+        "name": "FRAGMENTADO",
+        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        },
+        {
+          "name": "Ramon Calixto",
+          "url": "https://open.spotify.com/artist/57LISFynxucEx3WF6Iqxq8"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "BASQUIAT",
+      "url": "https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0"
     },
     {
       "added_at": "2026-09-25 03:00:33",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-09-25 03:00:33",
       "album": {
+        "name": "COMO ELA VEM",
+        "url": "https://open.spotify.com/album/5GD0XJyxQ1XZ329MEHMDbe"
+      },
+      "artists": [
+        {
+          "name": "FERMI",
+          "url": "https://open.spotify.com/artist/6JZ3QLbC4COuCxfIecHyck"
+        }
+      ],
+      "duration_ms": 145151,
+      "name": "COMO ELA VEM",
+      "url": "https://open.spotify.com/track/0CUl44EpqRW4o4Age0ovZD"
+    },
+    {
+      "added_at": "2026-09-25 03:00:33",
+      "album": {
         "name": "O Que Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
-    },
-    {
-      "added_at": "2026-09-25 03:00:33",
-      "album": {
-        "name": "COMO ELA VEM",
-        "url": "https://open.spotify.com/album/5GD0XJyxQ1XZ329MEHMDbe"
-      },
-      "artists": [
-        {
-          "name": "FERMI",
-          "url": "https://open.spotify.com/artist/6JZ3QLbC4COuCxfIecHyck"
-        }
-      ],
-      "duration_ms": 145151,
-      "name": "COMO ELA VEM",
-      "url": "https://open.spotify.com/track/0CUl44EpqRW4o4Age0ovZD"
     },
     {
       "added_at": "2026-09-25 03:00:33",

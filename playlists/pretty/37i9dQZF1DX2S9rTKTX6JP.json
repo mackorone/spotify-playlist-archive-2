@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 768722,
+  "num_followers": 768755,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
+        "name": "I Think We're Alone Now",
+        "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
+      },
+      "artists": [
+        {
+          "name": "Billie Joe Armstrong",
+          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
+        },
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 134672,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
         "name": "The Girl With the Dragon Tattoo",
         "url": "https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 167508,
       "name": "Immigrant Song",
       "url": "https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
-        "name": "I Think We're Alone Now",
-        "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
-      },
-      "artists": [
-        {
-          "name": "Billie Joe Armstrong",
-          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
-        },
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 134672,
-      "name": "I Think We're Alone Now",
-      "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
       },
       "artists": [
         {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+      "duration_ms": 189248,
+      "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
+      "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
     }
   ],
   "unique_name": "Rock Covers",

@@ -125,6 +125,28 @@
     },
     {
       "album": {
+        "name": "ANTIDROGA (feat. Fabri Fibra)",
+        "url": "https://open.spotify.com/album/2ZfPIE8fqR06nRCrnCRjuv"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199553,
+      "name": "ANTIDROGA (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/36TnyBCBhUUSrSy1pTKasT"
+    },
+    {
+      "album": {
         "name": "Aria",
         "url": "https://open.spotify.com/album/57Ubg7dIiQ4wgRvUlSGuWS"
       },

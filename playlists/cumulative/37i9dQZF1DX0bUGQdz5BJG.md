@@ -4,7 +4,7 @@
 
 > Your ears on the ground in Music City\. Cover: Lauren Watkins
 
-4,479 songs - 10 day 0 hr 45 min
+4,480 songs - 10 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Call Me Up](https://open.spotify.com/track/6KkSL1VtQv2rERqEypDSpd) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [Call Me Up](https://open.spotify.com/album/6IBoRwj1rxzzJuyaWrXGaY) | 3:31 | 2024-05-17 | 2024-07-13 |
 | [Called It](https://open.spotify.com/track/6dYuef1LgfWOze15agxnJv) | [Brooke Lambert](https://open.spotify.com/artist/2YezjXIulGWNNZ4itDDQ7i) | [Called It](https://open.spotify.com/album/1QhnJ5OGZXLQ4gn88mOCMI) | 3:29 | 2023-09-15 | 2023-12-02 |
 | [Called It](https://open.spotify.com/track/1nQXPiybIIbskssvMhZmCy) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Called It](https://open.spotify.com/album/2elK9oNYsjGNjRUXD5Skmo) | 3:01 | 2025-11-14 | 2026-03-14 |
+| [Called It](https://open.spotify.com/track/1P0l3SrbgZFeyU6hGRx0QZ) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Can't Stay Here](https://open.spotify.com/album/2KRZZq6fs8YrVK0cTmoZEz) | 3:17 | 2026-09-28 |  |
 | [Calling Home](https://open.spotify.com/track/3HmTiX3KNygsH2vLjR2oPe) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Calling Home](https://open.spotify.com/album/7bWpVzGo9J76xQBWal7b2R) | 3:09 | 2025-09-12 | 2026-01-17 |
 | [Camouflage Town](https://open.spotify.com/track/6UenRuaDOW5tCsXTV353cE) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Camouflage Town](https://open.spotify.com/album/0zIln7BTY2ZuFSLLidfCEt) | 3:33 | 2024-12-13 | 2025-02-22 |
 | [Campdraft Queen](https://open.spotify.com/track/0TmTKYWgUlQMJf8GQw6U9a) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [Campdraft Queen](https://open.spotify.com/album/6mM8BIYzDO0m1l0LZX4v4D) | 3:33 | 2026-04-24 | 2026-05-30 |

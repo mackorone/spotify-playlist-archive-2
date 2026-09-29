@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 308907,
+  "num_followers": 308995,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,18 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Luces Fantasma",
-        "url": "https://open.spotify.com/album/59HfislZ5AH1pHZLUPy0Dm"
+        "name": "Millonario Sin Corona",
+        "url": "https://open.spotify.com/album/4T7ICgMnMPR72nLkQCEWE2"
       },
       "artists": [
         {
-          "name": "La Banda Baston",
-          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         }
       ],
-      "duration_ms": 273176,
-      "name": "Solo Como Amigos",
-      "url": "https://open.spotify.com/track/0BgY6O6G7EtsneY6dAKZeI"
+      "duration_ms": 209440,
+      "name": "Chingo de Cheve",
+      "url": "https://open.spotify.com/track/1GUK48Vm37ng2jwxWjWb4z"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -883,18 +879,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Millonario Sin Corona",
-        "url": "https://open.spotify.com/album/4T7ICgMnMPR72nLkQCEWE2"
+        "name": "Luces Fantasma",
+        "url": "https://open.spotify.com/album/59HfislZ5AH1pHZLUPy0Dm"
       },
       "artists": [
         {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+          "name": "La Banda Baston",
+          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
         }
       ],
-      "duration_ms": 209440,
-      "name": "Chingo de Cheve",
-      "url": "https://open.spotify.com/track/1GUK48Vm37ng2jwxWjWb4z"
+      "duration_ms": 273176,
+      "name": "Solo Como Amigos",
+      "url": "https://open.spotify.com/track/0BgY6O6G7EtsneY6dAKZeI"
     }
   ],
   "unique_name": "Hip-Hop Mexicano: Cl\u00e1sicos",

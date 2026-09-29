@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: Moss",
+  "description": "Nieuwe alternative & rock releases. Cover: Mood Bored",
   "name": "New Alternative",
   "tracks": [
+    {
+      "album": {
+        "name": "Stray Dogs",
+        "url": "https://open.spotify.com/album/4N31AIbwVZbbfDe48xbGnY"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246023,
+      "name": "#5",
+      "url": "https://open.spotify.com/track/4RPgsLbTlrpoLwXqEpkhQD"
+    },
     {
       "album": {
         "name": "12 to 12",
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 181840,
       "name": "Back of Your Neck",
       "url": "https://open.spotify.com/track/5eRGzmXhOC6vZnF6SugHve"
@@ -1552,6 +1570,24 @@
       "duration_ms": 245760,
       "name": "Bashville on the Sugar",
       "url": "https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1"
+    },
+    {
+      "album": {
+        "name": "Put A Smile On For Me",
+        "url": "https://open.spotify.com/album/3lNBELeJGdsWUJYYtv6aLB"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192990,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/2vQ2jaoKYz6651c4qwjy69"
     },
     {
       "album": {
@@ -2172,6 +2208,24 @@
       "duration_ms": 192365,
       "name": "Bowie's Pressure",
       "url": "https://open.spotify.com/track/4PtbohGrFopmXu8k4ve9Tp"
+    },
+    {
+      "album": {
+        "name": "Breakfast of Champions",
+        "url": "https://open.spotify.com/album/1UnxUzrZZf2WwEUfaSpRwF"
+      },
+      "artists": [
+        {
+          "name": "Library Card",
+          "url": "https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167472,
+      "name": "Breakfast of Champions",
+      "url": "https://open.spotify.com/track/2R9eh9mDaGH5eAlSHrA4Tu"
     },
     {
       "album": {
@@ -4321,6 +4375,24 @@
     },
     {
       "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/03KqYH5ZjTMhyhilRyUbqW"
+      },
+      "artists": [
+        {
+          "name": "Girls In Hawaii",
+          "url": "https://open.spotify.com/artist/1HRqqu7DoKzpIBvdU7Jjib"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305706,
+      "name": "Drifting In The Summer Rain",
+      "url": "https://open.spotify.com/track/3a8uAqfonQGbSqtjpN7lk6"
+    },
+    {
+      "album": {
         "name": "Driver",
         "url": "https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg"
       },
@@ -5828,7 +5900,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 168064,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/6DXC39Ake4iWZoLaUFYeCq"
@@ -6894,7 +6966,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 212875,
       "name": "Hours - 2026 Edition",
       "url": "https://open.spotify.com/track/2F6pTtsFHttSfPp4AliqU3"
@@ -6952,6 +7024,24 @@
       "duration_ms": 209340,
       "name": "How Does It Feel?",
       "url": "https://open.spotify.com/track/31xZUmO07AsiEtoZpy51vL"
+    },
+    {
+      "album": {
+        "name": "How Lonely",
+        "url": "https://open.spotify.com/album/0szH0V7q7wxhn47PBYQfVl"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "How Lonely",
+      "url": "https://open.spotify.com/track/4sjZn5XgFvFEilkZ2HbCvB"
     },
     {
       "album": {
@@ -10192,7 +10282,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 265696,
       "name": "Mr. Alligator",
       "url": "https://open.spotify.com/track/18EnWZ9wTjszmJjI3BgCuL"
@@ -10282,7 +10372,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 241784,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/0cXd3S61oCUi1IARCktE09"
@@ -10924,6 +11014,24 @@
       "duration_ms": 176810,
       "name": "Not Cool",
       "url": "https://open.spotify.com/track/6ZfXGI85ZmI5PV9sNAmwV1"
+    },
+    {
+      "album": {
+        "name": "Not That Deep",
+        "url": "https://open.spotify.com/album/6VdsRupAtI9jB2hngxJfrm"
+      },
+      "artists": [
+        {
+          "name": "Alice Mae",
+          "url": "https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217360,
+      "name": "Not That Deep",
+      "url": "https://open.spotify.com/track/4u0tXLPqbUcNTUWSznp4Dj"
     },
     {
       "album": {
@@ -12690,6 +12798,24 @@
     {
       "album": {
         "name": "Roses",
+        "url": "https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208331,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C"
+    },
+    {
+      "album": {
+        "name": "Roses",
         "url": "https://open.spotify.com/album/6KLw2Ua19k6fDT9z8AMkuI"
       },
       "artists": [
@@ -13691,6 +13817,24 @@
     },
     {
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/563CMIp8ZAf5khyI4Qc3ni"
+      },
+      "artists": [
+        {
+          "name": "Mood Bored",
+          "url": "https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/5DO3N2V9fGeP27QTmrRHXb"
+    },
+    {
+      "album": {
         "name": "Skincare",
         "url": "https://open.spotify.com/album/14iUEtih4o71XJKwNvIXlU"
       },
@@ -14591,6 +14735,24 @@
     },
     {
       "album": {
+        "name": "Sunset Riders",
+        "url": "https://open.spotify.com/album/0NniYegE3F5KGBXiHaazeT"
+      },
+      "artists": [
+        {
+          "name": "Ciao Lucifer",
+          "url": "https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "Sunset Riders",
+      "url": "https://open.spotify.com/track/29tUbgNqedcrAeZcEcwyqo"
+    },
+    {
+      "album": {
         "name": "SUPERPOWERS",
         "url": "https://open.spotify.com/album/2alYlwvRKwIy0w7nEpDnWY"
       },
@@ -14602,7 +14764,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 173240,
       "name": "SUPERPOWERS",
       "url": "https://open.spotify.com/track/0GJ9W1TSQzbxAgCCX2xc6d"
@@ -15236,7 +15398,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 131316,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/0ivNXNBIslaG7LeLfFaQ0T"
@@ -16495,6 +16657,24 @@
     },
     {
       "album": {
+        "name": "Even Light Gets Dark",
+        "url": "https://open.spotify.com/album/16ITlg0EubcE3eIo4mm5NQ"
+      },
+      "artists": [
+        {
+          "name": "Prize Collect",
+          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204850,
+      "name": "Torpedo",
+      "url": "https://open.spotify.com/track/3yYVNKMn10LaHHOFoC0u1h"
+    },
+    {
+      "album": {
         "name": "Trapped Under Nice",
         "url": "https://open.spotify.com/album/1pdIvCKWmGcg2a7HCJ8TQe"
       },
@@ -17057,6 +17237,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Coming To Save You",
+        "url": "https://open.spotify.com/album/0Fbl6tfN7XDyNutXNI3nlD"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180232,
+      "name": "Waiting For Fisher",
+      "url": "https://open.spotify.com/track/1i6RUTWpIoXKTdhcU1upVf"
+    },
+    {
+      "album": {
         "name": "21st Century Fiction",
         "url": "https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2"
       },
@@ -17468,6 +17666,24 @@
       "duration_ms": 180092,
       "name": "When You Are Around",
       "url": "https://open.spotify.com/track/7790DH8sb3lsz7hZgHHxsl"
+    },
+    {
+      "album": {
+        "name": "Where The Goth Girls At?",
+        "url": "https://open.spotify.com/album/6hfZz7yAgyqjqb1bSBgsoP"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "Where The Goth Girls At?",
+      "url": "https://open.spotify.com/track/5kPfThD8sI2AvIhTkf0nbs"
     },
     {
       "album": {

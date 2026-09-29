@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Mirella, Aliisa Syrjä, Vilma Jää..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,618 likes - 103 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,620 likes - 103 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 47 | [mia](https://open.spotify.com/track/1PpEfubvQvuFRkc7qYRuXj) | [vivian](https://open.spotify.com/artist/5mGgHBjw7fQeVUmZKzlKey) | [mia](https://open.spotify.com/album/6JBpojmVX6hAFuX4zJpf8v) | 3:02 |
 | 48 | [Cold In California \(2016 Demo\)](https://open.spotify.com/track/4A22LWVkhCKE7DvcRCfMdJ) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(10th Anniversary Edition\)](https://open.spotify.com/album/33NdfsbflGrwmKRMBq16Oz) | 4:04 |
 | 49 | [How Lonely](https://open.spotify.com/track/4sjZn5XgFvFEilkZ2HbCvB) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [How Lonely](https://open.spotify.com/album/0szH0V7q7wxhn47PBYQfVl) | 3:45 |
-| 50 | [Upperhand \- from CONTROL Resonant](https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Upperhand \(from CONTROL Resonant\)](https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb) | 4:09 |
+| 50 | [Upperhand \- from CONTROL Resonant](https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e), [CONTROL Resonant](https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l) | [Upperhand \(from CONTROL Resonant\)](https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb) | 4:09 |
 | 51 | [P.E.T.T.U.R.I.](https://open.spotify.com/track/7GfVF4E2gOyjkpgKHcsXAu) | [Huora](https://open.spotify.com/artist/2FK0OPnng20MwV4TCnm0Ei) | [P.E.T.T.U.R.I.](https://open.spotify.com/album/2lXNBIbEmxWzWoXVBo41V2) | 3:19 |
 | 52 | [DISCO DISCO DISCO](https://open.spotify.com/track/3xgFoZ5C2mpFkKwS0HQFiP) | [Kätfish](https://open.spotify.com/artist/2AlXNadhO0u0eK37N41bft) | [DISCO DISCO DISCO](https://open.spotify.com/album/5edeNut5zPgVoiZonES8MZ) | 2:19 |
 | 53 | [Blink Twice](https://open.spotify.com/track/5A8YVeEtelHwCxWodW6KrP) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Blink Twice](https://open.spotify.com/album/0bNqctvjXrsdGVdZ0hWnPe) | 3:20 |

@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Kes",
-  "num_followers": 138225,
+  "num_followers": 138245,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-08-20 14:00:40",
       "album": {
+        "name": "Soca Gold 2",
+        "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
+      },
+      "artists": [
+        {
+          "name": "Sparrow",
+          "url": "https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Doh Back Back",
+      "url": "https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq"
+    },
+    {
+      "added_at": "2026-08-20 14:00:40",
+      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 216730,
       "name": "N.O.W. (No One Waiting)",
       "url": "https://open.spotify.com/track/0dENBYxK7LjyqCC2fSN9tR"
-    },
-    {
-      "added_at": "2026-08-20 14:00:40",
-      "album": {
-        "name": "Soca Gold 2",
-        "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
-      },
-      "artists": [
-        {
-          "name": "Sparrow",
-          "url": "https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Doh Back Back",
-      "url": "https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq"
     },
     {
       "added_at": "2026-08-20 14:00:40",

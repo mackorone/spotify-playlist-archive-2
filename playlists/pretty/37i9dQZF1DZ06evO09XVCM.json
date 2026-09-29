@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 35457,
+  "num_followers": 35456,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAAAhZEdDQujvvFlT7432bu4a",
+  "snapshot_id": "arhcgAAAAABi6eik/ZSVtjT1P/QksrO7",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 288506,
-      "name": "A Lifetime",
-      "url": "https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk"
+      "duration_ms": 228506,
+      "name": "Love Is My Religion",
+      "url": "https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf"
     },
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Disney Reggae Club",
+        "url": "https://open.spotify.com/album/4TwY0yW17Tqf4qNcr6tVSg"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/36bNugatsCkXmPz3uJOdIx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs for the Saints",
         "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Disney Reggae Club",
-        "url": "https://open.spotify.com/album/4TwY0yW17Tqf4qNcr6tVSg"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/36bNugatsCkXmPz3uJOdIx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is My Religion",
         "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
       },
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Love Is My Religion",
-      "url": "https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf"
+      "duration_ms": 288506,
+      "name": "A Lifetime",
+      "url": "https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk"
     },
     {
       "added_at": null,

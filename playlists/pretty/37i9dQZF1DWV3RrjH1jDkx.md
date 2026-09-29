@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Julie Bergan, Metropolen,  Charli XCX & Madonna og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,341 likes - 102 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,329 likes - 102 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 77 | [Ocean Breeze](https://open.spotify.com/track/6z6uFihig7U0BUwXO4mnf9) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Ocean Breeze](https://open.spotify.com/album/6RPxy6llvzcHPr2DTluJtI) | 2:20 |
 | 78 | [Love = Art](https://open.spotify.com/track/1tWIQ6HgVTfQFD1f5WiiIc) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Love = Art](https://open.spotify.com/album/6BXl3jVVPoaoqPMqY4otjX) | 3:19 |
 | 79 | [FMTYLM](https://open.spotify.com/track/6RxY1X4Zzh1K3u8ihzbvrZ) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [FMTYLM](https://open.spotify.com/album/0WneMNIBST1b45Vl9HIbRP) | 3:01 |
-| 80 | [Upperhand \- from CONTROL Resonant](https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Upperhand \(from CONTROL Resonant\)](https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb) | 4:09 |
+| 80 | [Upperhand \- from CONTROL Resonant](https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e), [CONTROL Resonant](https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l) | [Upperhand \(from CONTROL Resonant\)](https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb) | 4:09 |
 | 81 | [Ecdysis](https://open.spotify.com/track/60onuYvRlC8JL0NFDAi5px) | [RÜ](https://open.spotify.com/artist/725jZTtXKFvIYhyWaeFaQI) | [Ecdysis](https://open.spotify.com/album/5vXmJAoDJWgy1Fj61iiYNc) | 3:11 |
 | 82 | [How Lonely](https://open.spotify.com/track/4sjZn5XgFvFEilkZ2HbCvB) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [How Lonely](https://open.spotify.com/album/0szH0V7q7wxhn47PBYQfVl) | 3:45 |
 | 83 | [2 TELEFONA](https://open.spotify.com/track/46xdhx2puJT54xZwSalgiJ) | [Doni Mula](https://open.spotify.com/artist/3fyfsTvQF9YE5lfRQFbVDf), [BLU](https://open.spotify.com/artist/2SNnJn1V6cR390YXIDEfoc) | [2 TELEFONA](https://open.spotify.com/album/4MneDTxFUkJIz3LZJys6fE) | 2:39 |

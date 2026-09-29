@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 57727,
+  "num_followers": 57733,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAACyLElhhmqSo1Xl39Xw69Yh",
+  "snapshot_id": "arhcgAAAAABxBoT3qX/YQhI7IvWD0gQM",
   "tracks": [
     {
       "added_at": null,
@@ -423,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+        "name": "Garage Palace (feat. Little Simz)",
+        "url": "https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU"
       },
       "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 317278,
-      "name": "No Merci",
-      "url": "https://open.spotify.com/track/552lBxKLGjerBDS8VYHOJn"
+      "duration_ms": 151400,
+      "name": "Garage Palace (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4"
     },
     {
       "added_at": null,
@@ -463,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 317278,
+      "name": "No Merci",
+      "url": "https://open.spotify.com/track/552lBxKLGjerBDS8VYHOJn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sugar Girl",
         "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
       },
@@ -483,28 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garage Palace (feat. Little Simz)",
-        "url": "https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "Garage Palace (feat. Little Simz)",
-      "url": "https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+        "name": "Drop 7",
+        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 393280,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/6eCxbfPngmMvJjnJxyBcDg"
+      "duration_ms": 87893,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 7",
-        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 87893,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs"
+      "duration_ms": 393280,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/6eCxbfPngmMvJjnJxyBcDg"
     },
     {
       "added_at": null,

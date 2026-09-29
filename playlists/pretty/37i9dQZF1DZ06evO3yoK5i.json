@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 254861,
+  "num_followers": 254884,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAACtuq7/VMRr6lwCvk6s5Bax",
+  "snapshot_id": "arhcgAAAAAA4gFYXjI3MJdYE/EAbFoIW",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calma Apparente",
-        "url": "https://open.spotify.com/album/5A5pws69LWyMgZ0iJlb3Nb"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "I Belong to You (feat. Anastacia)",
-      "url": "https://open.spotify.com/track/4RUoW6ewYFNsNzTbtvM99Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Of Pavarotti",
         "url": "https://open.spotify.com/album/4sZtLMwl4ga9aV73G1Nn8D"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 275733,
       "name": "Se Bastasse Una Canzone",
       "url": "https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calma Apparente",
+        "url": "https://open.spotify.com/album/5A5pws69LWyMgZ0iJlb3Nb"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "I Belong to You (feat. Anastacia)",
+      "url": "https://open.spotify.com/track/4RUoW6ewYFNsNzTbtvM99Y"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Mi d\u00eda preferido",
-      "url": "https://open.spotify.com/track/0Bv0IcbYrAhhYcN8cftQQF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 221293,
       "name": "Canzone per lei",
       "url": "https://open.spotify.com/track/66uYnF8Z5f56fGNC0Qp55F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Mi d\u00eda preferido",
+      "url": "https://open.spotify.com/track/0Bv0IcbYrAhhYcN8cftQQF"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Solo ieri",
+      "url": "https://open.spotify.com/track/5XnRtv5Iqyr7fNnM8j2Q7I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNA HISTORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
@@ -611,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
       "artists": [
         {
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 250760,
-      "name": "Solo ieri",
-      "url": "https://open.spotify.com/track/5XnRtv5Iqyr7fNnM8j2Q7I"
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
       "duration_ms": 265973,
       "name": "Amarti \u00e8 l'immenso per me",
       "url": "https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Un Segundo de Paz",
-      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "e2",
-        "url": "https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 222240,
-      "name": "No Estamos Solos",
-      "url": "https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNA STORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "e2",
+        "url": "https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 222240,
+      "name": "No Estamos Solos",
+      "url": "https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNA HISTORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 223451,
       "name": "Solo junto a ti",
       "url": "https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vita Ce N'\u00e8",
+        "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Vita Ce N'\u00e8",
+      "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
     },
     {
       "added_at": null,
@@ -867,22 +883,6 @@
       "duration_ms": 234920,
       "name": "Inevitabile (feat. Eros Ramazzotti)",
       "url": "https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vita Ce N'\u00e8",
-        "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Vita Ce N'\u00e8",
-      "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
     }
   ],
   "unique_name": "This Is Eros Ramazzotti",

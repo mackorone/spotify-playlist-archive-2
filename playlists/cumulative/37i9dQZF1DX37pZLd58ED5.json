@@ -7875,6 +7875,24 @@
     },
     {
       "album": {
+        "name": "Una bara per due",
+        "url": "https://open.spotify.com/album/6pdxHp0JBj86IkHaZ9BfH7"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286528,
+      "name": "Una bara per due",
+      "url": "https://open.spotify.com/track/570IsK8rePxeYM5SZpGCkW"
+    },
+    {
+      "album": {
         "name": "Una vita fa",
         "url": "https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl"
       },

@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Rits, Noah Ysp, Moony11 en meer..
+> Rits, Noah Ysp, C7EVN, Moony11 en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,328 likes - 66 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,328 likes - 66 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [De Hele Week](https://open.spotify.com/track/4risNF5w5hvxyrtphmcbBM) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [De Hele Week](https://open.spotify.com/album/2GaRJuSmBfVjseyrgrqlTG) | 2:22 |
 | 2 | [Pawsa](https://open.spotify.com/track/2UsJ1KOEvta9kRRyFSupxC) | [Noah Ysp](https://open.spotify.com/artist/6EXdAUuol3xlQgad9NEy9u) | [Pawsa](https://open.spotify.com/album/6j31tJ3NFgrDrqyfX7xRFI) | 1:53 |
-| 3 | [Mijn beurt](https://open.spotify.com/track/72DjmEMfK5t4J2BabL3kec) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [Mijn beurt](https://open.spotify.com/album/1JvAW4KIlghK0daaYDKhCw) | 2:03 |
-| 4 | [Olise](https://open.spotify.com/track/4ya0xoq0Y1F3M4Ou0cNj1X) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [Olise](https://open.spotify.com/album/1yOzFYtmkaehirg2DMndYk) | 2:03 |
+| 3 | [TOPFIT](https://open.spotify.com/track/6FLujRTgsyT07W57DzfziG) | [C7EVN](https://open.spotify.com/artist/1x3tuAfcbsouIU4tcaSKFw) | [TOPFIT](https://open.spotify.com/album/51IDT6haSxJgdBw0Ncp4ZV) | 1:17 |
+| 4 | [Mijn beurt](https://open.spotify.com/track/72DjmEMfK5t4J2BabL3kec) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [Mijn beurt](https://open.spotify.com/album/1JvAW4KIlghK0daaYDKhCw) | 2:03 |
 | 5 | [Ellende](https://open.spotify.com/track/6miYkbu7E39kKKPQ12dbjR) | [EG](https://open.spotify.com/artist/2VTbL6YnyCgkWwjhIK6bV4), [ATLouis](https://open.spotify.com/artist/2y2lLr1nFfcyDCSwNIZtWa) | [Ellende](https://open.spotify.com/album/5fTzkS5soYDnPWMEjBRG6T) | 2:42 |
 | 6 | [NET RODDY](https://open.spotify.com/track/7rXCqPlm0IeescN1N4AAiD) | [KV6](https://open.spotify.com/artist/5Ojlrj4iEOFt2ygzVY859Y), [ACHTKEER](https://open.spotify.com/artist/64074GCrdlmMFRW2R3kh6u) | [NET RODDY](https://open.spotify.com/album/36vPEThfy46ZKf25ZsU7Qg) | 2:25 |
 | 7 | [Eredivisie](https://open.spotify.com/track/1yUYyacxk8zgEgEXKegH9N) | [Hendriks](https://open.spotify.com/artist/5MXvJOVt68Xblvb81ZL2Ra) | [Eredivisie](https://open.spotify.com/album/2BJhlPvJofX61QoWTG1sim) | 2:51 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 65 | [Schietgevaar](https://open.spotify.com/track/2ERo7Qj9YtuD5RbhpPORvd) | [YSL](https://open.spotify.com/artist/2EnQOw92OmWXnytTX1ZaJG), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Schietgevaar](https://open.spotify.com/album/6o5gKX6TF7CySlwJNklALg) | 2:44 |
 | 66 | [Zomerblousje](https://open.spotify.com/track/29nZWbihJC0l6ijK7sJFkb) | [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX) | [Zomerblousje](https://open.spotify.com/album/1djXceTDm9c0k2MDP4nTTv) | 1:57 |
 
-Snapshot ID: `AAAAAGKU8isyZUUBqjK766KPeEm7Q659`
+Snapshot ID: `AAAAAOD6n8SSYQk517E+A6zFXlGNbLb+`

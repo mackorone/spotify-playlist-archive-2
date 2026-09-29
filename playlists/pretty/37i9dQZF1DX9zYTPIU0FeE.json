@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: vuyo viwe",
-  "num_followers": 14706,
+  "num_followers": 14710,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-09-24 22:01:03",
       "album": {
-        "name": "geza",
-        "url": "https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi"
-      },
-      "artists": [
-        {
-          "name": "vuyo viwe",
-          "url": "https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj"
-        }
-      ],
-      "duration_ms": 429019,
-      "name": "geza",
-      "url": "https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs"
-    },
-    {
-      "added_at": "2026-09-24 22:01:03",
-      "album": {
         "name": "Nguwe",
         "url": "https://open.spotify.com/album/1lbVmXMwuOaR7IGh4V47cQ"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 309303,
       "name": "Nguwe",
       "url": "https://open.spotify.com/track/0TqxXQxF11lNHNzpzQ8MCZ"
+    },
+    {
+      "added_at": "2026-09-24 22:01:03",
+      "album": {
+        "name": "geza",
+        "url": "https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi"
+      },
+      "artists": [
+        {
+          "name": "vuyo viwe",
+          "url": "https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj"
+        }
+      ],
+      "duration_ms": 429019,
+      "name": "geza",
+      "url": "https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs"
     },
     {
       "added_at": "2026-09-24 22:01:03",
@@ -583,6 +583,26 @@
     {
       "added_at": "2026-09-24 22:01:03",
       "album": {
+        "name": "The Y-Factor Project",
+        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
+      },
+      "artists": [
+        {
+          "name": "Billy Monama",
+          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
+        },
+        {
+          "name": "MoAfrika Wa Mokgathi",
+          "url": "https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs"
+        }
+      ],
+      "duration_ms": 258920,
+      "name": "Elusive Freedom",
+      "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
+    },
+    {
+      "added_at": "2026-09-24 22:01:03",
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/7EtFs3HiEq0a0hTd9ClMbx"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 384853,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8"
-    },
-    {
-      "added_at": "2026-09-24 22:01:03",
-      "album": {
-        "name": "The Y-Factor Project",
-        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
-      },
-      "artists": [
-        {
-          "name": "Billy Monama",
-          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
-        },
-        {
-          "name": "MoAfrika Wa Mokgathi",
-          "url": "https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs"
-        }
-      ],
-      "duration_ms": 258920,
-      "name": "Elusive Freedom",
-      "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
     },
     {
       "added_at": "2026-09-24 22:01:03",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-09-24 22:01:03",
       "album": {
-        "name": "Modeh Ani",
-        "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
-      },
-      "artists": [
-        {
-          "name": "Yosef Gutman",
-          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
-        }
-      ],
-      "duration_ms": 239107,
-      "name": "Modeh Ani",
-      "url": "https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8"
-    },
-    {
-      "added_at": "2026-09-24 22:01:03",
-      "album": {
         "name": "ZINZA",
         "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 298400,
       "name": "Sombhuluka",
       "url": "https://open.spotify.com/track/48jlBxbv2YX3l29ivsYn8t"
+    },
+    {
+      "added_at": "2026-09-24 22:01:03",
+      "album": {
+        "name": "Modeh Ani",
+        "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
+      },
+      "artists": [
+        {
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
+        }
+      ],
+      "duration_ms": 239107,
+      "name": "Modeh Ani",
+      "url": "https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8"
     },
     {
       "added_at": "2026-09-24 22:01:03",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-09-24 22:01:03",
       "album": {
-        "name": "A Semblance: Of Return",
-        "url": "https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl"
-      },
-      "artists": [
-        {
-          "name": "Asher Gamedze",
-          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
-        }
-      ],
-      "duration_ms": 393781,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk"
-    },
-    {
-      "added_at": "2026-09-24 22:01:03",
-      "album": {
         "name": "ZINZA",
         "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 270120,
       "name": "Ngeke!",
       "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
+    },
+    {
+      "added_at": "2026-09-24 22:01:03",
+      "album": {
+        "name": "A Semblance: Of Return",
+        "url": "https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "duration_ms": 393781,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk"
     }
   ],
   "unique_name": "Jazz NEXT",

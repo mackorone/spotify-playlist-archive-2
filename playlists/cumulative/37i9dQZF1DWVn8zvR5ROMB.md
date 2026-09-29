@@ -4,7 +4,7 @@
 
 > Country music's latest offerings featuring Kenny Chesney, Jordan Davis, Max McNown and more.
 
-14,012 songs - 31 day 22 hr 32 min
+14,014 songs - 31 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1881,6 +1881,7 @@
 | [Call Your Sister \- Sister Version](https://open.spotify.com/track/4buqFtGonvg2pTDZbuuDDg) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Call Your Sister \(Sister Version\)](https://open.spotify.com/album/6cjBjpVNxn8Zd7OoHANrTI) | 2:59 | 2022-09-09 | 2022-09-17 |
 | [Called Crazy](https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Called Crazy](https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8) | 3:19 | 2024-03-01 | 2024-03-09 |
 | [Called It](https://open.spotify.com/track/1nQXPiybIIbskssvMhZmCy) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Called It](https://open.spotify.com/album/2elK9oNYsjGNjRUXD5Skmo) | 3:01 | 2025-11-14 | 2025-11-22 |
+| [Called It](https://open.spotify.com/track/1P0l3SrbgZFeyU6hGRx0QZ) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Can't Stay Here](https://open.spotify.com/album/2KRZZq6fs8YrVK0cTmoZEz) | 3:17 | 2026-09-28 |  |
 | [Calling All Cars](https://open.spotify.com/track/4aXeyp35ykgK5nnmEWJaEz) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Calling All Cars](https://open.spotify.com/album/1NBfq8xwgn1Wveu8SJz3KT) | 3:24 | 2025-09-26 | 2025-10-04 |
 | [Calling For Rain](https://open.spotify.com/track/0aRtVCzteIR9O4yQSi0k5m) | [Avery Roberson](https://open.spotify.com/artist/1NFcvAjVEYtn0ExV1O17oU) | [Calling For Rain](https://open.spotify.com/album/0gf07a9d9UW6ID9aST33aJ) | 3:55 | 2024-08-30 | 2024-09-07 |
 | [Calling Home](https://open.spotify.com/track/3HmTiX3KNygsH2vLjR2oPe) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Calling Home](https://open.spotify.com/album/7bWpVzGo9J76xQBWal7b2R) | 3:09 | 2025-09-05 | 2025-09-13 |
@@ -1992,6 +1993,7 @@
 | [Carolina](https://open.spotify.com/track/4kbDxW3Ab5WhDUnIn57UbK) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Carolina](https://open.spotify.com/album/2myL0o2oHEd2PH54Lggl6q) | 3:54 | 2024-05-17 | 2024-05-25 |
 | [Carolina Blue](https://open.spotify.com/track/5SdAUf7GU8qtAMLoGcmorW) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Carolina Blue](https://open.spotify.com/album/55EvnthTq7gB7l0jn8gRqW) | 3:09 | 2022-03-11 | 2022-03-18 |
 | [Carolina Blue](https://open.spotify.com/track/4Ok1t0oV1cFAF86LCeaV1s) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Carolina Blue](https://open.spotify.com/album/6zboHj31g4ATQXXcv3xYqA) | 3:33 | 2023-11-10 | 2023-11-18 |
+| [Carolina Blue](https://open.spotify.com/track/5fnl4UANFeEyJellk7jbde) | [Faith Hopkins](https://open.spotify.com/artist/326PYQYslGD5zlF1gJVx2W) | [Carolina Blue](https://open.spotify.com/album/3iszOa3TzeFKshilZVXPen) | 3:26 | 2026-09-28 |  |
 | [Carolina Blue \- Acoustic](https://open.spotify.com/track/53f6bABkx3Mqo9yUl8lMRR) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Carolina Blue \(Acoustic\)](https://open.spotify.com/album/0JW4BmL35hXdCHH6zqZoOm) | 3:33 | 2023-12-08 | 2023-12-16 |
 | [Carolina Burns](https://open.spotify.com/track/4EJte0LIJJ9MEO6YuNNVRW) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Carolina Burns](https://open.spotify.com/album/3bUHbiGs3vDaJl57VtEieD) | 2:59 | 2023-09-01 | 2023-09-09 |
 | [Carolina Honey](https://open.spotify.com/track/7frjJZJQYBkL8gbs3udaew) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Carolina Honey](https://open.spotify.com/album/5iq5NAPyvNDUB6gdJD6LSb) | 4:10 | 2025-06-13 | 2025-06-21 |

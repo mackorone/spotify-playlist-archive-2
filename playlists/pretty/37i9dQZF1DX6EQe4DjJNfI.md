@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: THAMI, Luedji Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,904 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,916 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 58 | [MergulhoFundo](https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog) | [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl) | [Al\-Kimiya, Ato I](https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s) | 4:16 |
 | 59 | [Tempo Que Não Volta](https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8) | [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Tempo Que Não Volta](https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv) | 2:52 |
 | 60 | [Viu!?](https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf) | [Cyro Sampaio](https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g) | [Viu!?](https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM) | 3:05 |
-| 61 | [Sinais de Relevância](https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Visto por Último](https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg) | 1:58 |
-| 62 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
+| 61 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
+| 62 | [Sinais de Relevância](https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Visto por Último](https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg) | 1:58 |
 | 63 | [Se For Com Você](https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE) | [GAEL](https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr), [EVY](https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU) | [Se For Com Você](https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay) | 2:50 |
 | 64 | [TRATO](https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [TRATO](https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO) | 2:29 |
 | 65 | [Deixa Eu Te Amar](https://open.spotify.com/track/6lDXIuB0vevm5u5V4WGhvC) | [Drana](https://open.spotify.com/artist/7Iq6BvLAp3ew8oGoB1dNPu), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Deixa eu Te Amar](https://open.spotify.com/album/1vE08xjDnTZhGxNC5hBBm8) | 4:00 |

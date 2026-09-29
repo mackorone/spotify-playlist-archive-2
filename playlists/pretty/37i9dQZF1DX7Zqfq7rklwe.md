@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,119 likes - 106 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,113 likes - 106 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 3 | [supervillain](https://open.spotify.com/track/39yWeIKjw8NoVIHlZ0DEa5) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [supervillain](https://open.spotify.com/album/4uCFvVltDcqLz94JmChd9f) | 2:45 |
 | 4 | [In the Darkness](https://open.spotify.com/track/5vGBjM9bcD0zbgHHKaZHsQ) | [HOKKA](https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97) | [In the Darkness](https://open.spotify.com/album/3BJEaHhBQs3b2Q7zRLkIh9) | 3:15 |
 | 5 | [Techno Men](https://open.spotify.com/track/0HKZPZrPLe4mGQOIxfK3S2) | [ANGUS McSIX](https://open.spotify.com/artist/1NDBvJdsUcycpj4K8l0ooy), [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Techno Men](https://open.spotify.com/album/2fm2ov1SZmJjnz4ImjlmvL) | 4:43 |
-| 6 | [Upperhand \- from CONTROL Resonant](https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Upperhand \(from CONTROL Resonant\)](https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb) | 4:09 |
+| 6 | [Upperhand \- from CONTROL Resonant](https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e), [CONTROL Resonant](https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l) | [Upperhand \(from CONTROL Resonant\)](https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb) | 4:09 |
 | 7 | [Is This What You Wanted](https://open.spotify.com/track/3It1zcagzwnNCLm7sW9wR8) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [Is This What You Wanted](https://open.spotify.com/album/4SfDOZu15pVKIMmFAJ2hOL) | 3:32 |
 | 8 | [Amon\-Ra](https://open.spotify.com/track/7C2qbxfht0BwYtXUDFlL1p) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Amon\-Ra](https://open.spotify.com/album/5sKpjwVZpVGMUNzYyC2twD) | 3:40 |
 | 9 | [Karaoke\-queen](https://open.spotify.com/track/4Fb9MtfFlLlvXKVTAwFBFz) | [Maija Vilkkumaa](https://open.spotify.com/artist/4LhCodjo3UFI0Bu0ZYuOP5) | [Karaoke\-queen](https://open.spotify.com/album/51QT6Ylq6zjOobopc2tjPx) | 3:46 |

@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319701,
+  "num_followers": 319711,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,6 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
-        "name": "Vit\u00e3o",
-        "url": "https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 243020,
-      "name": "Embrasa",
-      "url": "https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
         "name": "N\u00e3o Esque\u00e7o",
         "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 185217,
       "name": "N\u00e3o Esque\u00e7o",
       "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
+        "name": "Vit\u00e3o",
+        "url": "https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 243020,
+      "name": "Embrasa",
+      "url": "https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT"
     },
     {
       "added_at": "2026-09-10 03:01:30",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
         "name": "Day",
         "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 161819,
       "name": "Clich\u00ea",
       "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
     },
     {
       "added_at": "2026-09-10 03:01:30",

@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Luister La Voz & Manuel Turizo",
-  "num_followers": 143116,
+  "num_followers": 143102,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -591,18 +591,22 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "ALOH ALOH",
-        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
       },
       "artists": [
         {
           "name": "Kapo",
           "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 136571,
-      "name": "ALOH ALOH",
-      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
+      "duration_ms": 216621,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -623,26 +627,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Por Vos",
-        "url": "https://open.spotify.com/album/5y4gn8YJaRqaN5JQLgCZ0n"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 185394,
-      "name": "Por Vos",
-      "url": "https://open.spotify.com/track/6pXo0WoRNLSid8mbpmJ4Wz"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "Quien Me Mand\u00f3?",
         "url": "https://open.spotify.com/album/5L5ZVe1zrpfV55B77qh06l"
       },
@@ -659,6 +643,26 @@
       "duration_ms": 204925,
       "name": "Quien Me Mand\u00f3?",
       "url": "https://open.spotify.com/track/7KTlGFaD6kwsY7oosqgs3i"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "Por Vos",
+        "url": "https://open.spotify.com/album/5y4gn8YJaRqaN5JQLgCZ0n"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 185394,
+      "name": "Por Vos",
+      "url": "https://open.spotify.com/track/6pXo0WoRNLSid8mbpmJ4Wz"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -687,22 +691,18 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "ILY",
-        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
+        "name": "ALOH ALOH",
+        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
       },
       "artists": [
         {
           "name": "Kapo",
           "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 216621,
-      "name": "ILY",
-      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+      "duration_ms": 136571,
+      "name": "ALOH ALOH",
+      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
     },
     {
       "added_at": "2026-09-04 04:01:49",

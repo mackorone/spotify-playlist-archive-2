@@ -4,7 +4,7 @@
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-146 songs - 11 hr 13 min
+147 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Coming Into Focus](https://open.spotify.com/track/7nHvcYaK0ZU53nafu8uiFD) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 5:02 | 2022-08-23 | 2022-08-25 |
 | [Coral](https://open.spotify.com/track/4f0dk1zybHCaFJcty6jKch) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Another Flower](https://open.spotify.com/album/0GCgYHArclb50oaAKxnVzv) | 4:25 | 2022-05-29 | 2025-07-07 |
 | [Dark Eyed Sister \- 2005 Digital Remaster](https://open.spotify.com/track/3EYY3nTXuPK2ALAaZoc8u3) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:42 | 2022-09-08 | 2022-09-10 |
+| [Dark Star](https://open.spotify.com/track/6lRyHOu3xxjwQq1xFMJATU) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Abandoned Cities](https://open.spotify.com/album/6Kc77g3UbExBOW98yQdKwt) | 20:01 | 2026-09-29 |  |
 | [Deva C](https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 3:51 | 2022-06-07 |  |
 | [Don't Go Where I Can't Find You](https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba) | [Eraldo Bernocchi](https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Winter Garden](https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH) | 4:53 | 2022-05-29 |  |
 | [Dream on](https://open.spotify.com/track/1zdF61aWVxqmQehEjYkfzf) | [Eraldo Bernocchi](https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Winter Garden](https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH) | 3:53 | 2022-05-31 | 2026-04-11 |
@@ -141,7 +142,7 @@
 | [The Whispers](https://open.spotify.com/track/4VH3rKj1tmhUZtX3U43jBq) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [In The Mist](https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS) | 2:43 | 2022-05-29 |  |
 | [The White Arcades](https://open.spotify.com/track/1RHWCbssogWYynyA7l0XsZ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The White Arcades](https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE) | 4:44 | 2022-05-29 | 2023-02-01 |
 | [The White Arcades](https://open.spotify.com/track/5Hteljp3KgrQJKSI86YXCL) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The White Arcades](https://open.spotify.com/album/4dYNNHW2lybWJTrWGdxhdN) | 4:44 | 2024-05-14 | 2024-07-28 |
-| [The White Arcades](https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 4:44 | 2025-02-16 |  |
+| [The White Arcades](https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 4:44 | 2025-02-16 | 2026-09-29 |
 | [Their Memories \- 2005 Digital Remaster](https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 2:57 | 2022-06-01 | 2026-01-02 |
 | [Through The Hill](https://open.spotify.com/track/1CQWBAOHnibwUJB3cDivvN) | [Andy Partridge](https://open.spotify.com/artist/4QeOiHDqIpzHpbfxz4dc9X), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Through The Hill](https://open.spotify.com/album/22TvJ8NyEoZzZeNWwuKyBg) | 4:05 | 2025-07-22 | 2025-07-30 |
 | [Two](https://open.spotify.com/track/2z5I9IJtjR3ADQsAwufbjs) | [Eraldo Bernocchi](https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Music for "Fragments from the Inside"](https://open.spotify.com/album/30li8VGO59nyojuX2rSTs4) | 8:32 | 2024-06-13 | 2024-06-24 |

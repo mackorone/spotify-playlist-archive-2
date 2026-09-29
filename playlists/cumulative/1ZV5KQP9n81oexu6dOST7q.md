@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-175 songs - 8 hr 51 min
+176 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Breathe](https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Breathe](https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH) | 2:48 | 2026-03-27 |  |
 | [Buckle Up](https://open.spotify.com/track/1frpuEhKCG0pUizK7vPa4Z) | [The Subs](https://open.spotify.com/artist/06h5xeeCDip3usS3go9zjI) | [Buckle Up](https://open.spotify.com/album/6uy7jH31wll2vUMnupco6a) | 3:23 | 2025-10-30 | 2026-08-25 |
 | [Collide](https://open.spotify.com/track/59lrjocxqKQiPbTyHiD9Oo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Collide](https://open.spotify.com/album/3c8ps31q7g5MBu8RsWQ7FJ) | 3:28 | 2026-09-25 |  |
+| [Commander](https://open.spotify.com/track/3nIrIytGbcXAK7huhwiXiW) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here I Am \(Int'l Version\)](https://open.spotify.com/album/0fqSVcXza5It71LS2BJdLR) | 3:38 | 2026-09-28 |  |
 | [Control Of Me \(feat\. Daecolm\)](https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Control Of Me \(feat\. Daecolm\)](https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm) | 3:15 | 2025-07-04 | 2025-09-13 |
 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 | 2025-07-04 | 2025-09-12 |
 | [Destiny](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Destiny](https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p) | 2:50 | 2025-10-17 | 2026-08-25 |

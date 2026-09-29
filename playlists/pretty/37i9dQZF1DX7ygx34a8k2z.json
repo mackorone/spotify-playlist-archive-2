@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 322839,
+  "num_followers": 322926,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Iceblink Luck",
-      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Transmissions From the Satellite Heart",
         "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Beautiful Freak",
-        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
       "artists": [
         {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 188693,
-      "name": "Novocaine For The Soul",
-      "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
+      "duration_ms": 198666,
+      "name": "Iceblink Luck",
+      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -847,6 +831,22 @@
       "duration_ms": 208266,
       "name": "No Distance Left to Run",
       "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Beautiful Freak",
+        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Novocaine For The Soul",
+      "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Pleased to Meet Me (Expanded)",
-        "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
-      },
-      "artists": [
-        {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "Can't Hardly Wait - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Stoned and Dethroned (Expanded Version)",
         "url": "https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 151960,
       "name": "Sometimes Always",
       "url": "https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Pleased to Meet Me (Expanded)",
+        "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Can't Hardly Wait - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Cure for Pain",
+        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+      },
+      "artists": [
+        {
+          "name": "Morphine",
+          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Cure for Pain",
+      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Siamese Dream (2011 - Remaster)",
         "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 252360,
       "name": "Human Behaviour",
       "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Cure for Pain",
-        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-      },
-      "artists": [
-        {
-          "name": "Morphine",
-          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Cure for Pain",
-      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Whip-Smart",
-        "url": "https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp"
-      },
-      "artists": [
-        {
-          "name": "Liz Phair",
-          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 284560,
       "name": "Car Wheels On A Gravel Road",
       "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Whip-Smart",
+        "url": "https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp"
+      },
+      "artists": [
+        {
+          "name": "Liz Phair",
+          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Rooney",
-        "url": "https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50"
-      },
-      "artists": [
-        {
-          "name": "Rooney",
-          "url": "https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "I'm Shakin'",
-      "url": "https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "The Power Out",
         "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 205666,
       "name": "Is This Desire?",
       "url": "https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Rooney",
+        "url": "https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50"
+      },
+      "artists": [
+        {
+          "name": "Rooney",
+          "url": "https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "I'm Shakin'",
+      "url": "https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq"
     },
     {
       "added_at": "2025-01-15 04:11:50",

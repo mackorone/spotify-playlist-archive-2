@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Son Volt",
-  "num_followers": 240155,
+  "num_followers": 240180,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "California Sober / In Your Ocean (Acoustic)",
-        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 200181,
-      "name": "California Sober",
-      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "The Tree",
         "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 222279,
       "name": "People Get Old",
       "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "California Sober / In Your Ocean (Acoustic)",
+        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 200181,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Am I Missing Out",
-        "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
-      },
-      "artists": [
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        }
-      ],
-      "duration_ms": 246858,
-      "name": "Am I Missing Out",
-      "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Servant of Love",
         "url": "https://open.spotify.com/album/5ISnw1aCUfzN5D3EVTQ77e"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 317213,
       "name": "Shine a Different Way",
       "url": "https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Am I Missing Out",
+        "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "duration_ms": 246858,
+      "name": "Am I Missing Out",
+      "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "The Me That Remains",
-        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 275346,
-      "name": "Please Don't Make Me Beg",
-      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 208453,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "The Me That Remains",
+        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 275346,
+      "name": "Please Don't Make Me Beg",
+      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Great Television",
-        "url": "https://open.spotify.com/album/7gBCrGIdA2KIp7BABfDa2l"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Cook",
-          "url": "https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s"
-        },
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        }
-      ],
-      "duration_ms": 215338,
-      "name": "The Easy Kind (feat. Wynonna)",
-      "url": "https://open.spotify.com/track/715T0aGuD1EewLmKYnog21"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "The River & The Thread (Deluxe)",
         "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
       },
@@ -1187,22 +1167,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Don\u2019t Look Back",
-        "url": "https://open.spotify.com/album/2l3s0hwnmxikBw8MaHOZv6"
+        "name": "Great Television",
+        "url": "https://open.spotify.com/album/7gBCrGIdA2KIp7BABfDa2l"
       },
       "artists": [
         {
-          "name": "Buddy Miller",
-          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+          "name": "Elizabeth Cook",
+          "url": "https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s"
         },
         {
-          "name": "Dan Penn",
-          "url": "https://open.spotify.com/artist/4Z8f0RlC4uuFPi8KD5JbvB"
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
         }
       ],
-      "duration_ms": 210540,
-      "name": "Don\u2019t Look Back",
-      "url": "https://open.spotify.com/track/5G87BJzH4ueDysXpopu2Mm"
+      "duration_ms": 215338,
+      "name": "The Easy Kind (feat. Wynonna)",
+      "url": "https://open.spotify.com/track/715T0aGuD1EewLmKYnog21"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1239,6 +1219,26 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "Don\u2019t Look Back",
+        "url": "https://open.spotify.com/album/2l3s0hwnmxikBw8MaHOZv6"
+      },
+      "artists": [
+        {
+          "name": "Buddy Miller",
+          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+        },
+        {
+          "name": "Dan Penn",
+          "url": "https://open.spotify.com/artist/4Z8f0RlC4uuFPi8KD5JbvB"
+        }
+      ],
+      "duration_ms": 210540,
+      "name": "Don\u2019t Look Back",
+      "url": "https://open.spotify.com/track/5G87BJzH4ueDysXpopu2Mm"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Strangers Here",
         "url": "https://open.spotify.com/album/6c6lwWAeINd3tR79Ew7ihw"
       },
@@ -1251,26 +1251,6 @@
       "duration_ms": 267648,
       "name": "Strangers Here",
       "url": "https://open.spotify.com/track/3eLPKY49y4mi29pjkpimkw"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "Picture In a Frame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
-      },
-      "artists": [
-        {
-          "name": "Kimmie Rhodes",
-          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 286069,
-      "name": "Love & Happiness",
-      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1307,6 +1287,26 @@
       "duration_ms": 272866,
       "name": "Desperados Waiting For A Train",
       "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Picture In a Frame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
+      },
+      "artists": [
+        {
+          "name": "Kimmie Rhodes",
+          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 286069,
+      "name": "Love & Happiness",
+      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
     },
     {
       "added_at": "2026-08-28 04:02:17",

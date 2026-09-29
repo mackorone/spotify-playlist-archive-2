@@ -2,9 +2,9 @@
 
 ### [Studenten Hits 2026](https://open.spotify.com/playlist/37i9dQZF1DX47uat5buwl0)
 
-> Banger na banger\. Cover: Nachtdienst & Amelie 🔥
+> Banger na banger\. Cover: Def 🔥
 
-234 songs - 10 hr 30 min
+235 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Diamanten 2026](https://open.spotify.com/track/44BiqiikZbn2FOz0iI48a5) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Diamanten 2026](https://open.spotify.com/album/0gOmmwZebd7qsHjSXWrtO9) | 2:06 | 2026-01-27 | 2026-03-24 |
 | [Dile](https://open.spotify.com/track/540cGIHNKg91y24aWqmPkW) | [Jody Bernal](https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa), [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Dile](https://open.spotify.com/album/5hljDLYEPTDkgtK0e9MzGV) | 2:37 | 2025-07-17 | 2025-11-07 |
 | [Diva](https://open.spotify.com/track/1rYH9P9TTlTXybJCtLGHJz) | [JIM & JAAF](https://open.spotify.com/artist/45jRKxB5cVjHKJrxAN3tQE) | [Diva](https://open.spotify.com/album/7jmbYMTS57ymh42Y8jWNPs) | 2:36 | 2025-07-17 | 2025-08-05 |
+| [DIXI](https://open.spotify.com/track/0Bkg6kTvoEpEvPXx3wBZAD) | [TOBI](https://open.spotify.com/artist/6T7plMrMcV7crSRxRRB3ZG) | [DIXI](https://open.spotify.com/album/2hSSSQZaJhaYVKNNxFRiKS) | 2:19 | 2026-09-28 |  |
 | [Do You Mind \- Crazy Cousinz Remix](https://open.spotify.com/track/5VnFXAOr6nLxbHuO3DjJBN) | [Paleface](https://open.spotify.com/artist/0qUCsTc5cWyv1svw2osJs8), [Crazy Cousins](https://open.spotify.com/artist/5RkMe6R9nx6zFIyBxZDGfr) | [Do You Mind \(Crazy Cousins Remix\)](https://open.spotify.com/album/0nAG55NlcJhwxHk7pF1DKx) | 7:15 | 2025-10-07 | 2025-12-12 |
 | [DOLCE & GABBANA](https://open.spotify.com/track/2J0t5MgGTaqvc16TyfWqK3) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [DOLCE & GABBANA](https://open.spotify.com/album/76Q7Qnr1qhU90Unkr9yL0t) | 1:57 | 2026-02-05 | 2026-08-21 |
 | [Donkerblauwe Deuntjes](https://open.spotify.com/track/6dXVnLOCoKZHjDhYm5Ayrx) | [Lustrum Triton](https://open.spotify.com/artist/4YJ3fLFKp9nTmz2rCt9Fq9), [MOMENTUM](https://open.spotify.com/artist/4hXjXth6uVMW3wugrbmFlM), [Laurence Koch](https://open.spotify.com/artist/07DcKIZlMlQhecgr0VG8Q8), [Marit van der Ploeg](https://open.spotify.com/artist/6mbOnW3YCIgiMB7U5p7I73) | [Donkerblauwe Deuntjes](https://open.spotify.com/album/73eYiVbNZ51AyTSHnoKYqD) | 2:21 | 2025-09-15 | 2026-06-09 |
@@ -134,7 +135,7 @@
 | [Likkie Likkie](https://open.spotify.com/track/5OA9135TYIuPvonDP6L52U) | [Timothy](https://open.spotify.com/artist/6v5JdXLpMDlN4PY3kdRQAS) | [Likkie Likkie](https://open.spotify.com/album/4KEpk6bIGB88xWWPUDnhDo) | 2:31 | 2026-09-21 |  |
 | [Lil Freakje](https://open.spotify.com/track/7tqg41RdA6MLUrUbcNrFoJ) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Lil Freakje](https://open.spotify.com/album/5qSSgAxAPQ4tfDeodFFc7A) | 3:34 | 2025-07-17 | 2026-01-16 |
 | [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 | 2026-07-07 | 2026-09-05 |
-| [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-08-29 |  |
+| [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-08-29 | 2026-09-29 |
 | [Lotje \- Lil Kleine Remix](https://open.spotify.com/track/7ps3LdQn8lKdaa2sbIKFTR) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Lotje \(Lil Kleine Remix\)](https://open.spotify.com/album/3YQU2E8ipf8HVHgHvMupSU) | 2:26 | 2025-07-17 | 2026-02-27 |
 | [Ma3lish](https://open.spotify.com/track/5jgJqp4mhsH71FF9BzwNK5) | [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Ma3lish](https://open.spotify.com/album/7aS8YWy94ntIBOiazPPbur) | 3:33 | 2026-06-17 | 2026-09-05 |
 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 | 2026-03-04 |  |

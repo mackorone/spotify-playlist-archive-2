@@ -2,9 +2,9 @@
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Rits, Noah Ysp, Moony11 en meer..
+> Rits, Noah Ysp, C7EVN, Moony11 en meer..
 
-770 songs - 1 day 9 hr 4 min
+771 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,7 +527,7 @@
 | [Oh Damn](https://open.spotify.com/track/0wFSMz19jZtriXJOH4RH7W) | [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Oh Damn](https://open.spotify.com/album/1Z5G8vtHA6A2ks4Xdo1EcJ) | 2:18 | 2026-01-15 | 2026-02-20 |
 | [Oh No](https://open.spotify.com/track/61AdYFHZbH7dvifVTLMy4y) | [Giegs](https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb), [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg) | [Oh No](https://open.spotify.com/album/2Ykc2AMdLf1KdudbeX7Jyq) | 2:23 | 2026-05-07 | 2026-07-10 |
 | [OKÉ](https://open.spotify.com/track/6QrW6eY5wkUpLslW8ROp4S) | [Jermaine Niffer](https://open.spotify.com/artist/2kN7bQzdCZkSBYhzF6k5lY), [Klemma](https://open.spotify.com/artist/1iL5mkCy8kbG1shtgGQY6i) | [OKÉ](https://open.spotify.com/album/1UYSHkineyo8RyV6aHXFCO) | 2:05 | 2026-02-19 | 2026-02-27 |
-| [Olise](https://open.spotify.com/track/4ya0xoq0Y1F3M4Ou0cNj1X) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [Olise](https://open.spotify.com/album/1yOzFYtmkaehirg2DMndYk) | 2:03 | 2026-09-24 |  |
+| [Olise](https://open.spotify.com/track/4ya0xoq0Y1F3M4Ou0cNj1X) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [Olise](https://open.spotify.com/album/1yOzFYtmkaehirg2DMndYk) | 2:03 | 2026-09-24 | 2026-09-29 |
 | [OMG](https://open.spotify.com/track/6BD3dau7YDcMG85eq8QbjN) | [Wouter](https://open.spotify.com/artist/7faVdEFUS3TRDLpSQyPzNN) | [OMG](https://open.spotify.com/album/7fNGurfAePiRiJubXVUXSH) | 2:43 | 2026-05-28 | 2026-08-15 |
 | [On This Side](https://open.spotify.com/track/7ddnPdetHROpmrnGtpQI5I) | [ASurvivor](https://open.spotify.com/artist/2jjgoE94Y5IaKK7Y5u8Tq6) | [On This Side](https://open.spotify.com/album/3vBCVNA2onuYFBeizByDXc) | 2:11 | 2025-07-17 | 2025-08-15 |
 | [Onbeleeft](https://open.spotify.com/track/65osXnlTmbQT8eknKOcgy7) | [Loontje Packs](https://open.spotify.com/artist/7zdCYb0tL9wzgtiZmo86yo) | [Onbeleeft](https://open.spotify.com/album/6Jq8sCYdjL1qrQp6hlmQ7U) | 2:20 | 2025-12-18 | 2026-01-30 |
@@ -669,6 +669,7 @@
 | [Too Far Gone](https://open.spotify.com/track/0uACfFXQKm8MCnAiQ2TC4H) | [QUiNNA](https://open.spotify.com/artist/22rDvoC9Ih125ORFkRXU1p) | [Broken Soul](https://open.spotify.com/album/5gtgBTI1E2EvuPfhSX5sLx) | 3:17 | 2026-04-16 | 2026-05-15 |
 | [Top Of The Game](https://open.spotify.com/track/0oxgyZjxq7u6UvWsdFJ0My) | [Miero YIC](https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ), [Lonewalker](https://open.spotify.com/artist/6Bm9NFs6gGm9PXRjetlQAS), [Seja](https://open.spotify.com/artist/6bpXMLFh4ytvCSiNa63gTo) | [Whoo's In Charge?](https://open.spotify.com/album/0y416rzwhbk0jETqdSmJGA) | 3:17 | 2026-04-02 | 2026-05-22 |
 | [Top tot Teen](https://open.spotify.com/track/67QJTYjnMBq6d2JJ3lqZlT) | [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Lvv](https://open.spotify.com/artist/34yOrI1coazP2WRpRBPPfY) | [Top tot Teen](https://open.spotify.com/album/1Mcar4APScn0Lthhf8FTJr) | 2:23 | 2025-11-06 | 2025-12-12 |
+| [TOPFIT](https://open.spotify.com/track/6FLujRTgsyT07W57DzfziG) | [C7EVN](https://open.spotify.com/artist/1x3tuAfcbsouIU4tcaSKFw) | [TOPFIT](https://open.spotify.com/album/51IDT6haSxJgdBw0Ncp4ZV) | 1:17 | 2026-09-28 |  |
 | [Toxic](https://open.spotify.com/track/3mBKRgw8M1OHdgwAslBC1o) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Toxic](https://open.spotify.com/album/2wfF5J2pyHe1E4FlArcD5m) | 2:51 | 2026-02-26 | 2026-04-17 |
 | [TOXIC FIGHT](https://open.spotify.com/track/7abfIdlVR9lOV1PzsE3VjH) | [JLYONN](https://open.spotify.com/artist/3Sr8yFID3x8uvwq89Hg0z5), [Casso](https://open.spotify.com/artist/1yIaBf7VXDKcoIDGLoTMae) | [TOXIC FIGHT](https://open.spotify.com/album/572NkUumEViHVAeqK0SrvZ) | 2:43 | 2026-01-08 | 2026-02-13 |
 | [Traangas](https://open.spotify.com/track/5qSMTV0h230E9fMdQSw5xn) | [247Loosey](https://open.spotify.com/artist/6uaH5YMYW84lVDWbBFWk2x) | [Traangas](https://open.spotify.com/album/709gHo2vPrViEzGyLCIVyc) | 2:16 | 2026-05-28 | 2026-08-15 |

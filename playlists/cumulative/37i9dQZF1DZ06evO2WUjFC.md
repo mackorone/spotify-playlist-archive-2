@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-173 songs - 9 hr 30 min
+174 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Cumbia Del Sol \(Live\)](https://open.spotify.com/track/4fFYHKUjGm1f8xH1XRCLGN) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Cumbia Style](https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5) | 4:29 | 2024-07-22 | 2025-02-28 |
 | [Cupido Loco](https://open.spotify.com/track/4a1J8YDX879u2KNNvXT7HW) | [grupo linea sierreña](https://open.spotify.com/artist/5Ar9OdmLFyuloqjh25NIri), [Impresionantes De Sinaloa](https://open.spotify.com/artist/2kvwWTIotgzIb7HmZrOVUG), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Cupido Loco](https://open.spotify.com/album/4cGbwXhx9SVsZvvjnuaGQg) | 2:13 | 2025-07-15 |  |
 | [De Cero](https://open.spotify.com/track/5UCOFCpcZuAqZhB3pwmA6X) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [AMEN](https://open.spotify.com/album/628Kex6bcmoIkHin6sdBS6) | 3:51 | 2024-01-29 |  |
-| [De Los Cerros La Escuela](https://open.spotify.com/track/1wYaJCv6agf7B6ZrxDBItf) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Los Cerros La Escuela](https://open.spotify.com/album/5EWHeFaUAITcGjIITQHteo) | 2:22 | 2025-08-17 |  |
+| [De Los Cerros La Escuela](https://open.spotify.com/track/1wYaJCv6agf7B6ZrxDBItf) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Los Cerros La Escuela](https://open.spotify.com/album/5EWHeFaUAITcGjIITQHteo) | 2:22 | 2025-08-17 | 2026-09-29 |
+| [De Los Cerros La Escuela](https://open.spotify.com/track/5dtb6BeGorsiOtszjGnASG) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Los Cerros La Escuela](https://open.spotify.com/album/3Ra8S09n1UGczcFP2AOMWl) | 2:22 | 2026-09-29 |  |
 | [DE MÉXICO SOY](https://open.spotify.com/track/5SWAFRGGudgYZ0hIgPzDfn) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:59 | 2025-11-03 |  |
 | [De Negra a Negra](https://open.spotify.com/track/2PJfn1KMAIupqjdHOvp1AY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [De Negra a Negra](https://open.spotify.com/album/7LCKyNYcDIA6pHGmGxxuGp) | 2:45 | 2024-01-29 | 2026-02-25 |
 | [De Verde Una Hectárea](https://open.spotify.com/track/4Epr5XuIyiVQhCC5SMVXtw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Verde Una Hectárea](https://open.spotify.com/album/0Ki6JrEdXYE7HqsQAktUYq) | 2:23 | 2024-01-29 | 2024-06-25 |

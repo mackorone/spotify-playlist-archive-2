@@ -6314,7 +6314,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 239825,
       "name": "Cut",
       "url": "https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp"
@@ -26740,6 +26740,24 @@
       "duration_ms": 205510,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/6UzucUj9dsD0wVwVd9hv5l"
+    },
+    {
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/1CAF7kOyDJZKX6HDRQVHqm"
+      },
+      "artists": [
+        {
+          "name": "Stray View",
+          "url": "https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157927,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/66ZV6ECY7xwe5gzM1J7Uad"
     },
     {
       "album": {

@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "BATTISTA",
+        "url": "https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW"
+      },
+      "artists": [
+        {
+          "name": "BATTISTA",
+          "url": "https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157989,
+      "name": "BATTISTA",
+      "url": "https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ"
+    },
+    {
+      "album": {
         "name": "BCN",
         "url": "https://open.spotify.com/album/2eFsshWElYwxAW8JYYO8p5"
       },

@@ -4421,6 +4421,28 @@
     },
     {
       "album": {
+        "name": "Time To Say Goodbye",
+        "url": "https://open.spotify.com/album/4cInccbKirET4XTxgDiiKu"
+      },
+      "artists": [
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246333,
+      "name": "Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/5Ur5EnREGkva7tIBnhaWwC"
+    },
+    {
+      "album": {
         "name": "Timeless EP",
         "url": "https://open.spotify.com/album/1bQSMFIWID72F4LIluCnB9"
       },

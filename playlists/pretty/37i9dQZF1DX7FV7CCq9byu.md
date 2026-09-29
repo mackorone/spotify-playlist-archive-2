@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,288 likes - 144 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,286 likes - 144 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Don't Have Any Problems](https://open.spotify.com/track/28lnAZtEMdyBW3IWYsqko5) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [I Don't Have Any Problems](https://open.spotify.com/album/0U4GusNemic0pIDqPiFmuj) | 2:03 |
-| 2 | [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 |
-| 3 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |
+| 1 | [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 |
+| 2 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |
+| 3 | [I Don't Have Any Problems](https://open.spotify.com/track/28lnAZtEMdyBW3IWYsqko5) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [I Don't Have Any Problems](https://open.spotify.com/album/0U4GusNemic0pIDqPiFmuj) | 2:03 |
 | 4 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
-| 5 | [Bara idioter](https://open.spotify.com/track/4CRDU0FEaoCGsuoPXnSPmf) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Bara idioter](https://open.spotify.com/album/7APzv34pRFOSUqXIPRnYra) | 2:04 |
+| 5 | [120\-säng](https://open.spotify.com/track/7D3ZwUS3PsFtOIk5pifgvy) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [120\-säng](https://open.spotify.com/album/5YPkGnfwd6g6CeoTGVVuCh) | 3:44 |
 | 6 | [Don't Wish You Well](https://open.spotify.com/track/3s8poasyHhFosMWpqjENtB) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [Don't Wish You Well](https://open.spotify.com/album/1lXzxwXWPaGerts26NjAiZ) | 2:52 |
 | 7 | [Danceteria Afterhours](https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Danceteria Afterhours](https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9) | 3:50 |
-| 8 | [120\-säng](https://open.spotify.com/track/7D3ZwUS3PsFtOIk5pifgvy) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [120\-säng](https://open.spotify.com/album/5YPkGnfwd6g6CeoTGVVuCh) | 3:44 |
-| 9 | [funny feeling](https://open.spotify.com/track/4qvR1iPYj6XZKtJnpcSELd) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [funny feeling](https://open.spotify.com/album/0jDeDHlr4rJduEYTa2zKsI) | 3:14 |
-| 10 | [Superman \(feat\. Pontus\)](https://open.spotify.com/track/47XWjDpf3JyAs6GIks6qIB) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Superman \(feat\. Pontus\)](https://open.spotify.com/album/2g4pbtA9omzcd8zxvWF2O4) | 2:47 |
+| 8 | [funny feeling](https://open.spotify.com/track/4qvR1iPYj6XZKtJnpcSELd) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [funny feeling](https://open.spotify.com/album/0jDeDHlr4rJduEYTa2zKsI) | 3:14 |
+| 9 | [Superman \(feat\. Pontus\)](https://open.spotify.com/track/47XWjDpf3JyAs6GIks6qIB) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Superman \(feat\. Pontus\)](https://open.spotify.com/album/2g4pbtA9omzcd8zxvWF2O4) | 2:47 |
+| 10 | [Love Economy](https://open.spotify.com/track/3juxxdQ5TckAecsfNgML9J) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [More Water Than Anything](https://open.spotify.com/album/32x9YOWWj9zqg2hqyWFhPM) | 2:53 |
 | 11 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
 | 12 | [Underdog](https://open.spotify.com/track/1bk7kzc39EOwMZRbyKSy0i) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Livsvittne](https://open.spotify.com/album/0u3GcW94CKFXCvO09lixj3) | 4:02 |
-| 13 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 |
-| 14 | [HULK](https://open.spotify.com/track/2VxAelqw7mN2YZ1Xjj41D0) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [HULK](https://open.spotify.com/album/5ozaJIBFtRRY2OljD9EG0X) | 2:39 |
-| 15 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |
-| 16 | [Love Economy](https://open.spotify.com/track/3juxxdQ5TckAecsfNgML9J) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [More Water Than Anything](https://open.spotify.com/album/32x9YOWWj9zqg2hqyWFhPM) | 2:53 |
+| 13 | [Bara idioter](https://open.spotify.com/track/4CRDU0FEaoCGsuoPXnSPmf) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Bara idioter](https://open.spotify.com/album/7APzv34pRFOSUqXIPRnYra) | 2:04 |
+| 14 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 |
+| 15 | [HULK](https://open.spotify.com/track/2VxAelqw7mN2YZ1Xjj41D0) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [HULK](https://open.spotify.com/album/5ozaJIBFtRRY2OljD9EG0X) | 2:39 |
+| 16 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |
 | 17 | [Cold In California \(2016 Demo\)](https://open.spotify.com/track/4A22LWVkhCKE7DvcRCfMdJ) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(10th Anniversary Edition\)](https://open.spotify.com/album/33NdfsbflGrwmKRMBq16Oz) | 4:04 |
 | 18 | [She’s Gonna Break My Heart](https://open.spotify.com/track/6FqoCnCIuNXNh4H6V7Aux3) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Groove Therapy](https://open.spotify.com/album/3xSvgav5fUUTKYFTLk9gMb) | 2:46 |
 | 19 | [Gul & Blå](https://open.spotify.com/track/7LvWt2SYsaj6p3e1ebSZzV) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Gul & Blå](https://open.spotify.com/album/4hJ8rC0GSt9kDREUjoTany) | 3:53 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 143 | [Länge Leve \(Sommaren\)](https://open.spotify.com/track/2CSftoMORIG7yvKRo4ijJ2) | [PA](https://open.spotify.com/artist/7lajTunyA5lTd0gKNKXrZn) | [Länge Leve \(Sommaren\)](https://open.spotify.com/album/32xYbPovjxwixEB2EAJ6Tu) | 2:12 |
 | 144 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
 
-Snapshot ID: `AAAAAH/VvtJplPsFy+6prXCyHusRAGTM`
+Snapshot ID: `AAAAACcDnqo5yY4eEiyDJoCYXiceqk4W`

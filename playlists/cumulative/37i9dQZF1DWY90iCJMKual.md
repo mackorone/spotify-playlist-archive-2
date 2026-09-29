@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Bert Symoun
 
-530 songs - 1 day 4 hr 51 min
+531 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [is it over?](https://open.spotify.com/track/2WjlTJqg6suHqqce5EVXFL) | [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [KXLE](https://open.spotify.com/artist/4fBrMkpNH1BKJzprol0cUg) | [walang diyos sa gabi](https://open.spotify.com/album/35VY5sx3yepu86Cj0dYgQP) | 2:42 | 2024-11-08 | 2025-10-25 |
 | [It's You](https://open.spotify.com/track/3ZP8wV15wdpidIbAR7X4Ft) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [It's You](https://open.spotify.com/album/69P3eeSa6ZHsjlpMhVqsNo) | 2:27 | 2023-07-28 | 2023-10-28 |
 | [julie pakipot](https://open.spotify.com/track/0mAzGN40qLHmKL5uMKV8Ht) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [bahay namin maliit lamang](https://open.spotify.com/album/5MgFxCKMfta2fQequyHHrt) | 2:15 | 2024-08-27 | 2025-05-28 |
+| [Kahit Na Umulan](https://open.spotify.com/track/43AjF7Xceu7Jr8hH2vriS1) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Kahit Na Umulan](https://open.spotify.com/album/3ox7wTdG2LreH3lsq8rSnG) | 4:02 | 2026-09-28 |  |
 | [Kahit Saglit](https://open.spotify.com/track/2xdQcpEQa9TgINvnoV1OwM) | [SV Squad](https://open.spotify.com/artist/3ahPeyV1LjlV6yLElntHXP), [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [SV3](https://open.spotify.com/artist/5xt5G0G86DWjAoVW3zmY54), [MSTRYOVERSE](https://open.spotify.com/artist/5UrbDafjmKdIIZirS8zM3I) | [Kahit Saglit](https://open.spotify.com/album/3CJM4TUV7T6a6XMxq5ohsm) | 3:10 | 2023-04-06 | 2023-11-18 |
 | [Kahit Umulan](https://open.spotify.com/track/4Efi0EsFc6GnTmEUg8sj2I) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx), [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29) | [Kahit Umulan](https://open.spotify.com/album/7hU6i1YfIz58xkrWufl2HW) | 2:41 | 2025-10-31 | 2025-12-04 |
 | [Kailangan](https://open.spotify.com/track/6T4S0dtryTeI5TOqhTYWHP) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Kailangan](https://open.spotify.com/album/6x8VAVkEo2VlH4ATAFhKgl) | 3:01 | 2023-07-18 | 2024-11-30 |
@@ -381,7 +382,7 @@
 | [Patid](https://open.spotify.com/track/4dOIWeYQpPI9NM6ThxRDWj) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Patid](https://open.spotify.com/album/3japR74Iy2UKN0ldaGf9em) | 4:07 | 2023-10-11 | 2024-01-16 |
 | [pelikula](https://open.spotify.com/track/0oJfnh4VKNasIDgzn9dUU6) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Pasakalye](https://open.spotify.com/album/6wsRiy69i3LW7LSRF2Wlrg) | 3:34 | 2026-02-02 | 2026-05-23 |
 | [Phases](https://open.spotify.com/track/0m1FSRVrQ4LEqFGicqjcDt) | [Aloura](https://open.spotify.com/artist/0kLp0sF2loscGK68sPESxQ) | [Phases](https://open.spotify.com/album/1B6czSiyIMwLWgPsCdXwc2) | 3:35 | 2022-10-12 | 2023-07-29 |
-| [Pilit Pinili](https://open.spotify.com/track/60o3NGP1Tj0eTv0Q5tOKFQ) | [Bugoy Drilon](https://open.spotify.com/artist/0kRAKgEOVI43Qkz9PLmPt8) | [Pilit Pinili](https://open.spotify.com/album/1wrSjJ6cWnolOVptINC7As) | 2:10 | 2026-03-24 |  |
+| [Pilit Pinili](https://open.spotify.com/track/60o3NGP1Tj0eTv0Q5tOKFQ) | [Bugoy Drilon](https://open.spotify.com/artist/0kRAKgEOVI43Qkz9PLmPt8) | [Pilit Pinili](https://open.spotify.com/album/1wrSjJ6cWnolOVptINC7As) | 2:10 | 2026-03-24 | 2026-09-29 |
 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 | 2022-10-12 | 2023-07-29 |
 | [Play](https://open.spotify.com/track/5tR2mt4gJ5JDMDfHg7EYTL) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Play](https://open.spotify.com/album/1WiZseSOEpGzkfxQlVTvAs) | 3:12 | 2026-05-22 |  |
 | [Play No Games](https://open.spotify.com/track/4LKMwbD4qi6dawvR5Ez6Ee) | [Ant$](https://open.spotify.com/artist/5Q071iT6WeDNP937gQF2FT) | [Play No Games](https://open.spotify.com/album/1GFIbb6O9Z7kbR4bXuT6zl) | 2:49 | 2023-07-28 | 2023-10-12 |

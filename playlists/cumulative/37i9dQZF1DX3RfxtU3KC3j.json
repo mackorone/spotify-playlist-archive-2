@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Olabilir!",
+  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: PERMA",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Bana Bi' Gece Daha Gel",
+        "url": "https://open.spotify.com/album/0pCjKMAt7cZmbV5dVIiXZA"
+      },
+      "artists": [
+        {
+          "name": "Kafamda Kurduklar\u0131m",
+          "url": "https://open.spotify.com/artist/7HQGBCT4R0yguqLR6IZvQj"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "Bana Bi' Gece Daha Gel",
+      "url": "https://open.spotify.com/track/0MuEOHbjlk1zuej4Bx1Baj"
+    },
+    {
+      "album": {
         "name": "Bana Bir Bak",
         "url": "https://open.spotify.com/album/7F0uQPWNR0vMcSxyiAJcGO"
       },
@@ -2713,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "Bir Biz Kalal\u0131m",
+        "url": "https://open.spotify.com/album/4Szqxkz5ypbsVg9JJKMSIb"
+      },
+      "artists": [
+        {
+          "name": "Konuya Frans\u0131z",
+          "url": "https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194430,
+      "name": "Bir Biz Kalal\u0131m",
+      "url": "https://open.spotify.com/track/3J4YN0nsXO2NhxzGy09Zi9"
+    },
+    {
+      "album": {
         "name": "D\u00fcnya Yalan S\u00f6yl\u00fcyor",
         "url": "https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7"
       },
@@ -3536,6 +3572,24 @@
       "duration_ms": 156874,
       "name": "Bug\u00fcn\u00fcn Yar\u0131n\u0131 Duvar",
       "url": "https://open.spotify.com/track/0o2A7kKACV4Uv5kh7P0jMM"
+    },
+    {
+      "album": {
+        "name": "Bulamazs\u0131n",
+        "url": "https://open.spotify.com/album/1e73nJRhj6dn6V7Blh08sM"
+      },
+      "artists": [
+        {
+          "name": "PERMA",
+          "url": "https://open.spotify.com/artist/4P4eANB9QIIM1hFAlG5mPt"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137704,
+      "name": "Bulamazs\u0131n",
+      "url": "https://open.spotify.com/track/0IZ2qKKg9xwYrur7N4kjyT"
     },
     {
       "album": {
@@ -5574,7 +5628,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 246857,
       "name": "Gecenin Ah\u0131 Var - Senfonik",
       "url": "https://open.spotify.com/track/3pbTksWc7Jd4lz0gFQZuhO"
@@ -8666,7 +8720,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 142279,
       "name": "kan d\u00f6kt\u00fcm kollar\u0131mdan",
       "url": "https://open.spotify.com/track/5ovR3UJwdZklUw5NgwOV0y"
@@ -10090,6 +10144,24 @@
       "duration_ms": 189201,
       "name": "K\u0131zkarde\u015flik \u015eark\u0131s\u0131",
       "url": "https://open.spotify.com/track/7qDMpdYSz8gaWJE44s26WJ"
+    },
+    {
+      "album": {
+        "name": "Lades",
+        "url": "https://open.spotify.com/album/6nTSTFhmExOt3VLqpWJSeK"
+      },
+      "artists": [
+        {
+          "name": "Mavi Gri",
+          "url": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Lades",
+      "url": "https://open.spotify.com/track/7dIUXQnExH6kwtokYRsdCx"
     },
     {
       "album": {
@@ -12134,7 +12206,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 210000,
       "name": "Sen",
       "url": "https://open.spotify.com/track/2wRLlUv9OSGWLAmJOarCe5"
@@ -14940,7 +15012,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 268421,
       "name": "Yar\u0131m A\u011f\u0131z",
       "url": "https://open.spotify.com/track/4THpoK0FWL57WctDNQxHc9"
@@ -15323,6 +15395,24 @@
     },
     {
       "album": {
+        "name": "Ya\u015famaya Mecbursun Original Soundtrack",
+        "url": "https://open.spotify.com/album/5wJiD9EFA6F6yGMbG2RPjS"
+      },
+      "artists": [
+        {
+          "name": "Bulutsuzluk \u00d6zlemi",
+          "url": "https://open.spotify.com/artist/1x59izw7Q1MpfZyzJpTfb4"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239636,
+      "name": "Ya\u015famaya Mecbursun",
+      "url": "https://open.spotify.com/track/0AGctQr9nLp1PJyBs7ncfM"
+    },
+    {
+      "album": {
         "name": "Ya\u015farsam E\u011fer",
         "url": "https://open.spotify.com/album/6mtSiHdYv7VkwjWYoYa242"
       },
@@ -15396,6 +15486,24 @@
       "duration_ms": 197384,
       "name": "Yedek Anahtar\u0131m",
       "url": "https://open.spotify.com/track/3nB1gam8gNpXkZLWkHlXa3"
+    },
+    {
+      "album": {
+        "name": "Yeni Ba\u015ftan",
+        "url": "https://open.spotify.com/album/17cPu29ylSucfgeD7UeUnm"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zge F\u0131\u015fk\u0131n",
+          "url": "https://open.spotify.com/artist/0acW6PhzqNwRvVcnRozzfB"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204096,
+      "name": "Yeni Ba\u015ftan",
+      "url": "https://open.spotify.com/track/6tGWydNQUB3lsEdaGO2K4q"
     },
     {
       "album": {
@@ -15724,7 +15832,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 162987,
       "name": "Yollar Bitmek Bilmez",
       "url": "https://open.spotify.com/track/24UJ9GyGffBaLKoaYpnjBf"
@@ -16576,7 +16684,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 248912,
       "name": "\u00d6l\u00fcr\u00fcm Daha \u0130yi",
       "url": "https://open.spotify.com/track/7AZFyg2bqG4lcxCWpXYfup"

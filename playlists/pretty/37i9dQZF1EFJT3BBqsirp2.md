@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4nbpc2ldpGh1THRHf14KsI">Finn Keane</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 96 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 309 likes - 96 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 66 | [BREEE!](https://open.spotify.com/track/14brgBBs15gxGHJ3JTraZC) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:17 |
 | 67 | [BE MY ANIME](https://open.spotify.com/track/298TUewHw03SSS79Z2Gien) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [CIVIL DISORDER](https://open.spotify.com/album/7MD9Chg0V5UIj5vyzZ0ebQ) | 3:29 |
 | 68 | [Forwards & Backwards](https://open.spotify.com/track/7Fg9PYY7z1MHvlOK6Z6z5H) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Forwards & Backwards](https://open.spotify.com/album/723y0nUwGHFFiScIqi0xGf) | 2:58 |
-| 69 | [Sentence](https://open.spotify.com/track/4tGtEGg2A20DKXGMZFpf0F) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:23 |
-| 70 | [Better Than Yesterday](https://open.spotify.com/track/2TBg5af1f7U0XIaNfGJOq4) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Little Omens EP](https://open.spotify.com/album/3EeJLfBgbl3xIOVVR5voFV) | 2:41 |
+| 69 | [Better Than Yesterday](https://open.spotify.com/track/2TBg5af1f7U0XIaNfGJOq4) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Little Omens EP](https://open.spotify.com/album/3EeJLfBgbl3xIOVVR5voFV) | 2:41 |
+| 70 | [Sentence](https://open.spotify.com/track/4tGtEGg2A20DKXGMZFpf0F) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:23 |
 | 71 | [Audio](https://open.spotify.com/track/2C4kl8zvhUwmdlofcRcbH3) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Audio](https://open.spotify.com/album/1MpGcRFAoTJi1e5fCEBoAd) | 3:31 |
 | 72 | [Don't Talk To Me](https://open.spotify.com/track/1agb9NWLC7o65Sl30INBJ6) | [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Don't Talk To Me](https://open.spotify.com/album/1MlsNdlcCbVP4anT8M1GPO) | 3:40 |
 | 73 | [Stranger](https://open.spotify.com/track/5cPJGZ6Xi1UutxSHgFx7LK) | [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Stranger](https://open.spotify.com/album/3monx2C6vmKX8nro8c7NIS) | 4:22 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 77 | [ARCHIVE MAMI](https://open.spotify.com/track/6SAN0s0zXbjy35HHZnhXlm) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 0:43 |
 | 78 | [No Body](https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:44 |
 | 79 | [Reign](https://open.spotify.com/track/4OQJXtEezYsScUaWoQJWtf) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:26 |
-| 80 | [Airhead](https://open.spotify.com/track/2CPrwdCQXQ8vRxYZwyJbNw) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Apple](https://open.spotify.com/album/6t1kxWGH4qa00TDKRvFzVW) | 4:37 |
-| 81 | [I'VE GOT THIS ALL UNDER CONTROL](https://open.spotify.com/track/6GoujmEItT7OTR0maQBwbY) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [The Zenosyne](https://open.spotify.com/album/3PZVM5uJoIWtsutUxNmlBp) | 2:36 |
+| 80 | [I'VE GOT THIS ALL UNDER CONTROL](https://open.spotify.com/track/6GoujmEItT7OTR0maQBwbY) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [The Zenosyne](https://open.spotify.com/album/3PZVM5uJoIWtsutUxNmlBp) | 2:36 |
+| 81 | [Airhead](https://open.spotify.com/track/2CPrwdCQXQ8vRxYZwyJbNw) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Apple](https://open.spotify.com/album/6t1kxWGH4qa00TDKRvFzVW) | 4:37 |
 | 82 | [Flail](https://open.spotify.com/track/44CaTdVpTYKFUqz6fxjvYa) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:35 |
 | 83 | [Shine A Light](https://open.spotify.com/track/6IbtGd7QJwRX3vhwytlUcc) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:25 |
 | 84 | [O Fortuna](https://open.spotify.com/track/4Y3fQQ38kNhYh0kFJFMgc8) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:15 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 95 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 96 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `AcddUgAAAAAuW+guaE1vqAOMXiTidQp8`
+Snapshot ID: `AcdjLgAAAAAkXANMEKWafKKwz7qEZTHK`

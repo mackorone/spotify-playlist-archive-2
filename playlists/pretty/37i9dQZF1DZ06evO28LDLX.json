@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAADnWKEEdjiSoR0TvYdQCjKp",
+  "snapshot_id": "arhcgAAAAACDjHZzgZEirvbX4J/iphos",
   "tracks": [
     {
       "added_at": null,
@@ -159,26 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mompou: M\u00fasica callada",
-        "url": "https://open.spotify.com/album/1beT6dgdmYDnIJViobuwib"
-      },
-      "artists": [
-        {
-          "name": "Federico Mompou",
-          "url": "https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 108693,
-      "name": "M\u00fasica callada I: No. 1, Angelico",
-      "url": "https://open.spotify.com/track/6O1k2LpVCOT2SDxL0EMKAu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schubert: Piano Sonata in A Major, D. 664; in E Minor, D. 769a; in G Major, D. 894",
         "url": "https://open.spotify.com/album/4OWWKtFGwUfc3lAKsf4bdG"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 231773,
       "name": "Piano Sonata No. 13 in A Major, D. 664: II. Andante",
       "url": "https://open.spotify.com/track/5tuH2Zko07tCoJvvcvrWBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mompou: M\u00fasica callada",
+        "url": "https://open.spotify.com/album/1beT6dgdmYDnIJViobuwib"
+      },
+      "artists": [
+        {
+          "name": "Federico Mompou",
+          "url": "https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 108693,
+      "name": "M\u00fasica callada I: No. 1, Angelico",
+      "url": "https://open.spotify.com/track/6O1k2LpVCOT2SDxL0EMKAu"
     },
     {
       "added_at": null,
@@ -279,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stephen Hough's Spanish Album",
+        "url": "https://open.spotify.com/album/2hUxiz4J02RVcQ60yu3vbv"
+      },
+      "artists": [
+        {
+          "name": "Isaac Alb\u00e9niz",
+          "url": "https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 318960,
+      "name": "Iberia, T. 105, Book 1: I. Evocaci\u00f3n",
+      "url": "https://open.spotify.com/track/5JPHyyUuPhQ4DeSJL8fMfk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mozart: Music for Piano and Wind Quintet",
         "url": "https://open.spotify.com/album/1fvnQvqlY5F93r99hsw7CK"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 355506,
       "name": "III. Allegretto",
       "url": "https://open.spotify.com/track/5NJNeLmAsfFc0YG3Nl85lW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stephen Hough's Spanish Album",
-        "url": "https://open.spotify.com/album/2hUxiz4J02RVcQ60yu3vbv"
-      },
-      "artists": [
-        {
-          "name": "Isaac Alb\u00e9niz",
-          "url": "https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 318960,
-      "name": "Iberia, T. 105, Book 1: I. Evocaci\u00f3n",
-      "url": "https://open.spotify.com/track/5JPHyyUuPhQ4DeSJL8fMfk"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Landscapes\": A Classical Soundtrack",
-        "url": "https://open.spotify.com/album/1LLVYFlUXDBEv1hXdKlwrz"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 58105,
-      "name": "La plus que lente, CD 128 - Excerpt",
-      "url": "https://open.spotify.com/track/2U5EpPYJWFJyb2C8TBWuVB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hummel: Piano Concertos",
         "url": "https://open.spotify.com/album/1D3iRke9l3eUb37KY5aBSc"
       },
@@ -675,22 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Album",
-        "url": "https://open.spotify.com/album/7feNtVabPanUXWWbq2SmBL"
+        "name": "\"Landscapes\": A Classical Soundtrack",
+        "url": "https://open.spotify.com/album/1LLVYFlUXDBEv1hXdKlwrz"
       },
       "artists": [
         {
-          "name": "Mischa Levitzki",
-          "url": "https://open.spotify.com/artist/42V9f8k71W0oF3pS5yPhzf"
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 290173,
-      "name": "Levitzki: The Enchanted Nymph",
-      "url": "https://open.spotify.com/track/3MbiuckD1ew5b6YF0VaaIp"
+      "duration_ms": 58105,
+      "name": "La plus que lente, CD 128 - Excerpt",
+      "url": "https://open.spotify.com/track/2U5EpPYJWFJyb2C8TBWuVB"
     },
     {
       "added_at": null,
@@ -715,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Piano Album",
+        "url": "https://open.spotify.com/album/7feNtVabPanUXWWbq2SmBL"
+      },
+      "artists": [
+        {
+          "name": "Mischa Levitzki",
+          "url": "https://open.spotify.com/artist/42V9f8k71W0oF3pS5yPhzf"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 290173,
+      "name": "Levitzki: The Enchanted Nymph",
+      "url": "https://open.spotify.com/track/3MbiuckD1ew5b6YF0VaaIp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Piano Album 1: Music by Paderewski, Godowsky, Dohn\u00e1nyi...",
         "url": "https://open.spotify.com/album/7EpprRSNyrDC5Mgh4CRk6a"
       },
@@ -731,6 +731,34 @@
       "duration_ms": 129386,
       "name": "Quilter: 3 Songs, Op. 3: No. 2, Now Sleeps the Crimson Petal (Arr. Hough for Piano)",
       "url": "https://open.spotify.com/track/1CvZunMt1k73dAtRltTo2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
+        "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        },
+        {
+          "name": "Bryden Thomson",
+          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
+        }
+      ],
+      "duration_ms": 44653,
+      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: I. Allegro maestoso, Pt. 2",
+      "url": "https://open.spotify.com/track/1twdkBmhBRRc4MaKXAXhNm"
     },
     {
       "added_at": null,
@@ -771,34 +799,6 @@
       "duration_ms": 82381,
       "name": "Lyric Pieces, Op. 65: From Early Years - Excerpt",
       "url": "https://open.spotify.com/track/3cfxcwgovcXYyttAJ27OXy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
-        "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        },
-        {
-          "name": "Bryden Thomson",
-          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
-        },
-        {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
-        }
-      ],
-      "duration_ms": 44653,
-      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: I. Allegro maestoso, Pt. 2",
-      "url": "https://open.spotify.com/track/1twdkBmhBRRc4MaKXAXhNm"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"A Collection of Classical Fragments\": Vol. I",
-        "url": "https://open.spotify.com/album/4XzGSsQQOydvHEJH7Wr2mF"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 137576,
-      "name": "Kreisleriana, Op. 16: Sehr innig und nicht zu rasch - Excerpt",
-      "url": "https://open.spotify.com/track/1eaEHhIYb99fmXe9oI4Rxz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
         "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
       },
@@ -983,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"A Collection of Classical Fragments\": Vol. I",
+        "url": "https://open.spotify.com/album/4XzGSsQQOydvHEJH7Wr2mF"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 137576,
+      "name": "Kreisleriana, Op. 16: Sehr innig und nicht zu rasch - Excerpt",
+      "url": "https://open.spotify.com/track/1eaEHhIYb99fmXe9oI4Rxz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stephen Hough's Piano Postcards",
         "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
       },
@@ -1023,26 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brahms: The Final Piano Pieces, Op. 116-119",
-        "url": "https://open.spotify.com/album/0zecLuGhn3F4Fne4ruUjxl"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 239293,
-      "name": "Intermezzos, Op. 117: No. 2 in B-Flat Minor. Andante non troppo e con molto espressione",
-      "url": "https://open.spotify.com/track/22AR0LumFEGmDhjH7j0vlc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chopin: Nocturnes (Complete)",
         "url": "https://open.spotify.com/album/4laomoW9n1HN2R2DRoFVCn"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 215933,
       "name": "Nocturne No. 6 in G Minor, Op. 15 No. 3",
       "url": "https://open.spotify.com/track/0S4FjVNIBHxynpe7o0SeeM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brahms: The Final Piano Pieces, Op. 116-119",
+        "url": "https://open.spotify.com/album/0zecLuGhn3F4Fne4ruUjxl"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "Intermezzos, Op. 117: No. 2 in B-Flat Minor. Andante non troppo e con molto espressione",
+      "url": "https://open.spotify.com/track/22AR0LumFEGmDhjH7j0vlc"
     },
     {
       "added_at": null,

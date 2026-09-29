@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 207809,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
@@ -2481,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "masomeno",
+        "url": "https://open.spotify.com/album/2tiZEczg3vtrI4i41DV25B"
+      },
+      "artists": [
+        {
+          "name": "Martin Oliver",
+          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155804,
+      "name": "masomeno",
+      "url": "https://open.spotify.com/track/3z28uJm41IkWHYKlAdHJRH"
+    },
+    {
+      "album": {
         "name": "Matilda",
         "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
       },
@@ -3386,6 +3404,24 @@
       "duration_ms": 183165,
       "name": "Quiero Mejor",
       "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
+    },
+    {
+      "album": {
+        "name": "Ra",
+        "url": "https://open.spotify.com/album/1j08kXvriBIn3woXfadz7N"
+      },
+      "artists": [
+        {
+          "name": "Seba Lyon",
+          "url": "https://open.spotify.com/artist/1YXGENljYCyF087tuDlGvj"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250992,
+      "name": "Ra",
+      "url": "https://open.spotify.com/track/4vQckAY3tUvQ1SyemklbZ5"
     },
     {
       "album": {

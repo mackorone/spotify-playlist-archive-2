@@ -4,7 +4,7 @@
 
 > De beste Nederlandse liedjes\. Cover: Yves Berendse
 
-532 songs - 1 day 3 hr 0 min
+534 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Altijd Al Beloofd](https://open.spotify.com/track/33PP2svLoyHP37hG5zChe0) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Altijd Al Beloofd](https://open.spotify.com/album/3y0c9HEcdDwFX29z1iWApy) | 2:46 | 2023-06-14 | 2023-09-29 |
 | [Altijd Onderweg](https://open.spotify.com/track/2510MF3xvG8LgOC1RVxF5U) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Altijd Onderweg](https://open.spotify.com/album/7K7CynIwvLxVkzLCmjxDbJ) | 2:57 | 2023-11-10 | 2024-07-10 |
 | [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 | 2023-10-05 | 2024-03-20 |
-| [Amour](https://open.spotify.com/track/5Ay67p6mGlkOyw7oFOYeYw) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Amour](https://open.spotify.com/album/2IuNeXrj4UdP0UEB8NLtlH) | 2:49 | 2025-10-02 |  |
+| [Amour](https://open.spotify.com/track/5Ay67p6mGlkOyw7oFOYeYw) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Amour](https://open.spotify.com/album/2IuNeXrj4UdP0UEB8NLtlH) | 2:49 | 2025-10-02 | 2026-09-29 |
 | [Amsterdam](https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Amsterdam](https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz) | 2:52 | 2023-02-24 | 2024-02-03 |
 | [Arcade](https://open.spotify.com/track/06q5OfzaRccXcFU6L7PrWd) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Arcade](https://open.spotify.com/album/5p4dNjuAzVPPM61pt4KQhK) | 3:16 | 2023-10-05 | 2024-02-03 |
 | [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 | 2023-10-05 | 2023-10-24 |
@@ -120,6 +120,7 @@
 | [De Stad](https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [De Stad](https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO) | 2:38 | 2025-03-12 | 2026-02-13 |
 | [Designertas](https://open.spotify.com/track/0fbTnbITwXNU5zpWre4xv8) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Designertas](https://open.spotify.com/album/2WXvF4oED8Ja7GoRjiYB93) | 2:24 | 2026-09-04 |  |
 | [Deze Avond!](https://open.spotify.com/track/1JaI4md1z1GSClwSM8nx59) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Deze Avond!](https://open.spotify.com/album/7tycJAQ5061GWLZvYmXsuD) | 2:55 | 2025-08-25 | 2026-02-13 |
+| [Dicht Bij Het Vuur](https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Dicht Bij Het Vuur](https://open.spotify.com/album/28hXQjFqMi1OVhV7YAVL1s) | 3:44 | 2026-09-28 |  |
 | [Diepe Dalen](https://open.spotify.com/track/106B2gp2qiLgO7V010oR66) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Astronaut](https://open.spotify.com/album/3OJUGbfMGKDOaja2AQilRu) | 3:20 | 2025-02-20 | 2025-07-04 |
 | [Discozwemmen](https://open.spotify.com/track/0VlQjCCBWiU6IbGDfKcF7u) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Unity](https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk) | 2:45 | 2025-02-27 | 2025-03-28 |
 | [Dit Is De Dag](https://open.spotify.com/track/5KzAMpIepQFFNQvj0gkxuU) | [Dwight Dissels](https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f) | [Dit Is De Dag](https://open.spotify.com/album/3lhTzgO1x5G48bqsOGG3Kn) | 2:53 | 2023-02-24 | 2023-04-07 |
@@ -312,7 +313,7 @@
 | [Met Of Zonder Jou](https://open.spotify.com/track/1seBaZOM4XeADlYWJ0ibEx) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Line De Dauw](https://open.spotify.com/artist/6gATtsf9uJYK3InnPmalWr) | [Met Of Zonder Jou](https://open.spotify.com/album/6OMjhZIPYMuaG5G6zVGK8g) | 2:54 | 2025-11-26 | 2025-12-17 |
 | [Met Of Zonder Jou](https://open.spotify.com/track/3xRjrioxJQIjfJmGYxtyKR) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Line De Dauw](https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX) | [Met Of Zonder Jou](https://open.spotify.com/album/6z9xi38DbqJntYApAwfhM5) | 2:54 | 2025-08-04 | 2025-11-27 |
 | [Met Of Zonder Jou](https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT) | 3:02 | 2025-06-16 |  |
-| [Midnight Cruiser](https://open.spotify.com/track/2zdZICJSfEfZVuiD5aXWdM) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [De Nachtwacht](https://open.spotify.com/album/6QTcUbIQ0VLethxET8iSah) | 2:51 | 2026-07-16 |  |
+| [Midnight Cruiser](https://open.spotify.com/track/2zdZICJSfEfZVuiD5aXWdM) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [De Nachtwacht](https://open.spotify.com/album/6QTcUbIQ0VLethxET8iSah) | 2:51 | 2026-07-16 | 2026-09-29 |
 | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq) | 2:42 | 2024-11-21 | 2025-01-29 |
 | [Mijn Kleine Presidentje](https://open.spotify.com/track/5Vrrxddu2CDh1wfysRPZJZ) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Mijn Kleine Presidentje](https://open.spotify.com/album/5lwBvsRmcXhtIVVWQFqDJh) | 3:22 | 2023-02-24 | 2023-09-02 |
 | [Mijn Liefste](https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Mijn Liefste](https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo) | 3:10 | 2026-02-26 |  |
@@ -367,6 +368,7 @@
 | [Onderweg](https://open.spotify.com/track/1nduf8eirAAiVLXoC1C7cz) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [De Stilte Voorbij](https://open.spotify.com/album/4NjZiNAFDFNtfbgyIHowGM) | 3:09 | 2024-02-13 | 2024-04-19 |
 | [Onderweg Naar Later](https://open.spotify.com/track/0MOlJGoax7nQOTUFrAdDou) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Onderweg Naar Later](https://open.spotify.com/album/7HeQ8ha8PXB1IUeJrLJmz7) | 2:57 | 2023-02-24 | 2023-06-15 |
 | [Onomkeerbaar](https://open.spotify.com/track/3dM16edUVofGFGO0Zwb11i) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Onomkeerbaar](https://open.spotify.com/album/5Ml2XiiPL0prhJVxS6240H) | 3:57 | 2025-06-02 | 2025-11-05 |
+| [Ons Liedje](https://open.spotify.com/track/3ZswpOEGoY6DTGwpR0pfrc) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Ons Liedje](https://open.spotify.com/album/3y91aOkt9yqjvxJKdSoe4U) | 3:02 | 2026-09-28 |  |
 | [Onweer In M'n Hoofd](https://open.spotify.com/track/6CQyZI2sh3sxSlKkDickO2) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:54 | 2024-10-24 | 2025-05-08 |
 | [Onweer In M'n Hoofd](https://open.spotify.com/track/7GyjwvMINxtagvYJN33O0p) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Onweer In M'n Hoofd](https://open.spotify.com/album/7DP9NG2p1qW5hgO2S87BT3) | 2:54 | 2024-09-26 | 2024-10-25 |
 | [Op Jou Heb Ik Gewacht](https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh), [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Op Jou Heb Ik Gewacht](https://open.spotify.com/album/2FNg6ZrAoDT0KxI1sy97b2) | 2:55 | 2025-01-23 | 2026-06-02 |

@@ -1057,6 +1057,28 @@
     },
     {
       "album": {
+        "name": "Annakiliye",
+        "url": "https://open.spotify.com/album/2KUCNoMvgUav6TtVv60Ab3"
+      },
+      "artists": [
+        {
+          "name": "Smith Asher",
+          "url": "https://open.spotify.com/artist/5XD5iyRb8Er9tN4bOynyFn"
+        },
+        {
+          "name": "Dheekshitha",
+          "url": "https://open.spotify.com/artist/25cuzCxjFsOQLMLEDLvjEo"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238369,
+      "name": "Annakiliye",
+      "url": "https://open.spotify.com/track/6z5rgilnfViBiGBqHAPxN9"
+    },
+    {
+      "album": {
         "name": "Annakkiliye - Giant Music India - Originals",
         "url": "https://open.spotify.com/album/20jo4olA3JTth10K4pRDU5"
       },
@@ -2726,10 +2748,32 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 151578,
       "name": "Devaloka Sundari",
       "url": "https://open.spotify.com/track/4MOeRGLM4SePdzJNJaRBTA"
+    },
+    {
+      "album": {
+        "name": "Dhandasoru",
+        "url": "https://open.spotify.com/album/5ytGU10zvSkafxZhEa1oJL"
+      },
+      "artists": [
+        {
+          "name": "Amit Bhargav",
+          "url": "https://open.spotify.com/artist/6F0M7hGso4d0FnGNmBz5c2"
+        },
+        {
+          "name": "Gana Vinoth",
+          "url": "https://open.spotify.com/artist/0MmchTAod9cNvsJgXVS6xz"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202115,
+      "name": "Dhandasoru",
+      "url": "https://open.spotify.com/track/1xdu1pMV6oSoCkC23ZOS9P"
     },
     {
       "album": {
@@ -3486,7 +3530,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 199864,
       "name": "En Pondatti Oorukku Poita",
       "url": "https://open.spotify.com/track/1NFrdhtRBfh6PjRqNWjymV"
@@ -10092,6 +10136,28 @@
       "duration_ms": 180580,
       "name": "Mudinjiriche Love-uh",
       "url": "https://open.spotify.com/track/5zZm5rkuV25us8HO8IS4ef"
+    },
+    {
+      "album": {
+        "name": "Munambu",
+        "url": "https://open.spotify.com/album/2rOEqyojpv3FtJmN2NAKp7"
+      },
+      "artists": [
+        {
+          "name": "Raaza Razaq",
+          "url": "https://open.spotify.com/artist/5ustb0rnxsWzd8G95USxs3"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253999,
+      "name": "Munambu",
+      "url": "https://open.spotify.com/track/5Fy434sSLrjq3Y0Hlv0pG1"
     },
     {
       "album": {

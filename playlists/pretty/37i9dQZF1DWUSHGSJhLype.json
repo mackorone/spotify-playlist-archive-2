@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grelo",
-  "num_followers": 763526,
+  "num_followers": 763534,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "Sign Of The Times",
+        "url": "https://open.spotify.com/album/6Yy19mVk13f6IvtHLx1TSB"
+      },
+      "artists": [
+        {
+          "name": "\u00cdkaro Mendes",
+          "url": "https://open.spotify.com/artist/1wwKPlc0xyhK6Z0gEITJpO"
+        }
+      ],
+      "duration_ms": 167737,
+      "name": "Sign Of The Times - Arrocha",
+      "url": "https://open.spotify.com/track/5lEwqFPxb3tfbFLJjD2szM"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
         "url": "https://open.spotify.com/album/0fCdf2W6IcPdWaFceqJMLo"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 176400,
       "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
       "url": "https://open.spotify.com/track/4YQ37NPJlIUMFo8Kq51heS"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "Sign Of The Times",
-        "url": "https://open.spotify.com/album/6Yy19mVk13f6IvtHLx1TSB"
-      },
-      "artists": [
-        {
-          "name": "\u00cdkaro Mendes",
-          "url": "https://open.spotify.com/artist/1wwKPlc0xyhK6Z0gEITJpO"
-        }
-      ],
-      "duration_ms": 167737,
-      "name": "Sign Of The Times - Arrocha",
-      "url": "https://open.spotify.com/track/5lEwqFPxb3tfbFLJjD2szM"
     },
     {
       "added_at": "2026-08-14 13:34:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Max McNown
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,472 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,469 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 5 | [Pouring](https://open.spotify.com/track/6x1RfhNMyXuopmGSCPcT4q) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [Pouring](https://open.spotify.com/album/4QQmW6sae4Zc48VoDFObQ5) | 3:34 |
 | 6 | [Finders Keepers](https://open.spotify.com/track/2h7n0HIRYmOvE5MvI9GzSz) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Signs](https://open.spotify.com/album/2WSyZvOGDRjPvhY6xUNZ71) | 3:43 |
 | 7 | [Can of Worms](https://open.spotify.com/track/18m5aSDgzYu18fWAGdQIRD) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK), [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Can of Worms](https://open.spotify.com/album/30LMtgFfBNLziQmAgSZOCd) | 4:14 |
-| 8 | [Ain’t Going Down \- Til the Sun Comes Up](https://open.spotify.com/track/681XdgnL0vhBhNyDvIc58O) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Steel Town \(Deluxe\)](https://open.spotify.com/album/4XPpgtY2stYfvC9QpSVcEy) | 4:16 |
+| 8 | [Ain’t Going Down \(Til the Sun Comes Up\)](https://open.spotify.com/track/681XdgnL0vhBhNyDvIc58O) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Steel Town \(Deluxe\)](https://open.spotify.com/album/4XPpgtY2stYfvC9QpSVcEy) | 4:16 |
 | 9 | [82 Chevy](https://open.spotify.com/track/0GBIruvIhleCfVPB1RhIg4) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [82 Chevy](https://open.spotify.com/album/7lpvYU3X8W9Ts0i1eVU4U1) | 2:51 |
 | 10 | [Headed Back To Austin](https://open.spotify.com/track/7cnI83ZwaVbJiWsgs6lUbO) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Ramblin'](https://open.spotify.com/album/2mLOKf5bL07b6un4DENa6U) | 3:45 |
 | 11 | [Made In A Bottle](https://open.spotify.com/track/3XxVB46IAWBOq4d4mjKFOQ) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Made In A Bottle](https://open.spotify.com/album/5UITiarbJBEceyWdo4gaR2) | 2:51 |

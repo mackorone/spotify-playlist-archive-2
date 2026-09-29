@@ -1,12 +1,12 @@
 {
   "description": "Get ready to party met deze ultieme DANCE Party Mix Playlist!",
-  "num_followers": 49880,
+  "num_followers": 49877,
   "original_name": "DANCE Party Mix | House Party",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA+2cg4l8XbzcpPbnCf99C7wTjI1TTZ",
+  "snapshot_id": "AAA+2jnxOtWx1YSyJ6MiRUPY7BBwNfAZ",
   "tracks": [
     {
       "added_at": "2026-09-04 08:01:40",
@@ -115,6 +115,26 @@
       "duration_ms": 142153,
       "name": "Tot Sluit",
       "url": "https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU"
+    },
+    {
+      "added_at": "2026-09-28 13:59:45",
+      "album": {
+        "name": "Here I Am (Int'l Version)",
+        "url": "https://open.spotify.com/album/0fqSVcXza5It71LS2BJdLR"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/3nIrIytGbcXAK7huhwiXiW"
     },
     {
       "added_at": "2026-08-21 08:40:57",

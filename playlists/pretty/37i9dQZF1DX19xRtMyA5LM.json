@@ -1,12 +1,12 @@
 {
   "description": "\u2757\ufe0fNieuwe tracks: Mula & Lijpe, Rits, Yade Lauren, Jiggy Dj\u00e9 en meer. ",
-  "num_followers": 702059,
+  "num_followers": 702041,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB3lb7PtnaRaor0oPm0a5mSiPtWy",
+  "snapshot_id": "AAAAAHPNlYZwNOe9AfVlwuqIbXDi8biN",
   "tracks": [
     {
       "added_at": "2026-09-24 22:01:19",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-09-24 22:01:19",
       "album": {
+        "name": "Komt Goed",
+        "url": "https://open.spotify.com/album/7huMpPzUuomxzqEUAIMOFl"
+      },
+      "artists": [
+        {
+          "name": "Philly",
+          "url": "https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj"
+        }
+      ],
+      "duration_ms": 165953,
+      "name": "Komt Goed",
+      "url": "https://open.spotify.com/track/4fAra1tnBDROPUAi9KNFUP"
+    },
+    {
+      "added_at": "2026-09-24 22:01:19",
+      "album": {
         "name": "Richard",
         "url": "https://open.spotify.com/album/2UatcdPXHsmDzv46YmNCEV"
       },
@@ -119,6 +135,26 @@
       "duration_ms": 141473,
       "name": "Al Blancocino",
       "url": "https://open.spotify.com/track/5xqYeSU1PxLW4Eh4f7Cq52"
+    },
+    {
+      "added_at": "2026-09-24 22:01:19",
+      "album": {
+        "name": "De Hele Week",
+        "url": "https://open.spotify.com/album/2GaRJuSmBfVjseyrgrqlTG"
+      },
+      "artists": [
+        {
+          "name": "Rits",
+          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
+        },
+        {
+          "name": "Avenue",
+          "url": "https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "De Hele Week",
+      "url": "https://open.spotify.com/track/4risNF5w5hvxyrtphmcbBM"
     },
     {
       "added_at": "2026-09-24 22:01:19",
@@ -167,22 +203,6 @@
       "duration_ms": 283227,
       "name": "Rare Guy",
       "url": "https://open.spotify.com/track/5g9wyDLn6CdjxPAiUZ39s5"
-    },
-    {
-      "added_at": "2026-09-24 22:01:19",
-      "album": {
-        "name": "Komt Goed",
-        "url": "https://open.spotify.com/album/7huMpPzUuomxzqEUAIMOFl"
-      },
-      "artists": [
-        {
-          "name": "Philly",
-          "url": "https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj"
-        }
-      ],
-      "duration_ms": 165953,
-      "name": "Komt Goed",
-      "url": "https://open.spotify.com/track/4fAra1tnBDROPUAi9KNFUP"
     },
     {
       "added_at": "2026-09-24 22:01:19",
@@ -239,26 +259,6 @@
       "duration_ms": 196000,
       "name": "STRAAT VAN HORMUZ",
       "url": "https://open.spotify.com/track/1EkX8cuRcpKKuAzUch3ALF"
-    },
-    {
-      "added_at": "2026-09-24 22:01:19",
-      "album": {
-        "name": "De Hele Week",
-        "url": "https://open.spotify.com/album/2GaRJuSmBfVjseyrgrqlTG"
-      },
-      "artists": [
-        {
-          "name": "Rits",
-          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
-        },
-        {
-          "name": "Avenue",
-          "url": "https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "De Hele Week",
-      "url": "https://open.spotify.com/track/4risNF5w5hvxyrtphmcbBM"
     },
     {
       "added_at": "2026-09-24 22:01:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,905 likes - 113 songs - 7 hr 16 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,905 likes - 119 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,5 +121,11 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 111 | [Paneka](https://open.spotify.com/track/68A3DFapZmoaBpNGPlD34O) | [HAYZEDMOANA](https://open.spotify.com/artist/1kfhQKG9G8nk9n5d7SGCSp) | [Paneka](https://open.spotify.com/album/73YbZ2e7RkFicCdu0GASfF) | 2:16 |
 | 112 | [Undignified](https://open.spotify.com/track/0ctBeZaxiKB4wLAhSRDtj6) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Undignified](https://open.spotify.com/album/0crFw9gXxbKoaykCmz9q7k) | 3:18 |
 | 113 | [Don't Put It On \(That Old Thirteen\)](https://open.spotify.com/track/6ChVIE2cew9oSQ15NTvQQA) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Old Thirteen](https://open.spotify.com/album/6rzdW8w12atEiYflApgM3z) | 3:37 |
+| 114 | [Wicked signal](https://open.spotify.com/track/4S1OjJEfufOBdizQ8svbES) | [Sun Ground](https://open.spotify.com/artist/2Cen5Ahjn2WerbImQDtygO) | [Exotic \-automatic](https://open.spotify.com/album/3d7kjv4ECBPjboeupDRA4S) | 3:29 |
+| 115 | [Tren a agua](https://open.spotify.com/track/0WPiwMGCT3pGH19dOLyx6K) | [Guillermo Gamiz](https://open.spotify.com/artist/7B4TghIWxDDaoRnfvFC2QT) | [Tren a agua](https://open.spotify.com/album/5u7zh7wqHDusVbpHpgNZlF) | 3:06 |
+| 116 | [Stretching Truths](https://open.spotify.com/track/2SXiVLAjzp7nd8wTGW6Vtq) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Stretching Truths](https://open.spotify.com/album/6CkVGxJ2owyJwDzYZvFJ9r) | 3:21 |
+| 117 | [Overcomplicated](https://open.spotify.com/track/3eLOJc6KBCDesldPeJdk7A) | [LUDIOSIS](https://open.spotify.com/artist/0clKpUY5LwTMTMRs9a3Gsp) | [Overcomplicated](https://open.spotify.com/album/5WRLyg0whosamP7wD8zX1E) | 4:30 |
+| 118 | [Torre Pendente](https://open.spotify.com/track/3kfznZr0BRYko86AjlFrPj) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ) | [Man Made Machine](https://open.spotify.com/album/52IsEG2HxMOefw8ES1hyyG) | 5:07 |
+| 119 | [B!tch Please](https://open.spotify.com/track/3CJ4WMgUzHORETqAURzj9N) | [Exzenya](https://open.spotify.com/artist/5xpe1fPWU3vzvhx9iJcUc0) | [B!tch Please](https://open.spotify.com/album/77WvyQUKNPJWYdULyxMLrw) | 3:24 |
 
-Snapshot ID: `AAAMnvlAf5S/1PRu/sHFdZ5MqEgQViOZ`
+Snapshot ID: `AAAMpAMQjBsGRInH8SSY7kqEHoJ2o78b`

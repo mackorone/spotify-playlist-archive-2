@@ -271,6 +271,24 @@
     },
     {
       "album": {
+        "name": "Chasing",
+        "url": "https://open.spotify.com/album/58oWp37uWSaFRbrrBSC1N7"
+      },
+      "artists": [
+        {
+          "name": "Ady Suleiman",
+          "url": "https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304920,
+      "name": "Ain't Your Song",
+      "url": "https://open.spotify.com/track/48EC9OPQp9kE7C6fz3uv7z"
+    },
+    {
+      "album": {
         "name": "Come Around EP",
         "url": "https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC"
       },
@@ -412,6 +430,58 @@
       "duration_ms": 228906,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/65N5mnAk0WOubXkCryAxEe"
+    },
+    {
+      "album": {
+        "name": "Another Way",
+        "url": "https://open.spotify.com/album/607zVWIhx7Qo3Km2wWHL5A"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        },
+        {
+          "name": "The Gallands",
+          "url": "https://open.spotify.com/artist/3V7kDBsTTCHub0FQBPCzMm"
+        },
+        {
+          "name": "St\u00e9phane Galland",
+          "url": "https://open.spotify.com/artist/1tj1I6guCFUOGJdhB3f5j6"
+        },
+        {
+          "name": "Elvin Galland",
+          "url": "https://open.spotify.com/artist/2cnAbjaRyAYlMqqhcvvppP"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254213,
+      "name": "Another Way",
+      "url": "https://open.spotify.com/track/2XK3hf4vp2hGE2V4bMVzVr"
+    },
+    {
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/1mIRqtzdijfQd7OSkEcRPx"
+      },
+      "artists": [
+        {
+          "name": "Patchwork Inc.",
+          "url": "https://open.spotify.com/artist/6Ay4LTevVm24IfC05fZNZH"
+        },
+        {
+          "name": "Lynda Dawn",
+          "url": "https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/1XLCwiOZqIBLOObrWxBJaE"
     },
     {
       "album": {
@@ -560,7 +630,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 155555,
       "name": "Backline",
       "url": "https://open.spotify.com/track/5Gy7Y76JiEIq9G8gFwhKzh"
@@ -734,6 +804,28 @@
       "duration_ms": 198730,
       "name": "Best Side Of You",
       "url": "https://open.spotify.com/track/0hWcGYJ8zeQ6TtiaTMEiOe"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190779,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ"
     },
     {
       "album": {
@@ -1052,7 +1144,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 184218,
       "name": "Catch",
       "url": "https://open.spotify.com/track/25Yv7YfWb4kDBVTR0ZUWKn"
@@ -1114,6 +1206,24 @@
       "duration_ms": 212000,
       "name": "Changes",
       "url": "https://open.spotify.com/track/2BRlr1GWfNxtZllyf5YB17"
+    },
+    {
+      "album": {
+        "name": "Tyber",
+        "url": "https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196908,
+      "name": "Changes Rising",
+      "url": "https://open.spotify.com/track/2jxyhYMmPCGtc5E656GRIW"
     },
     {
       "album": {
@@ -1303,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Comet Season",
+        "url": "https://open.spotify.com/album/2TnSyx3LsEhbDR1zhxulYf"
+      },
+      "artists": [
+        {
+          "name": "SMANDEM.",
+          "url": "https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387346,
+      "name": "Comet Season",
+      "url": "https://open.spotify.com/track/41eMPfTxUbqWovJAk73KQE"
+    },
+    {
+      "album": {
         "name": "Some Kind Of Wisdom",
         "url": "https://open.spotify.com/album/6uAMiLgcbEzp5gGfPuO419"
       },
@@ -1442,6 +1570,24 @@
       "duration_ms": 249996,
       "name": "DANCING IN THE SUN",
       "url": "https://open.spotify.com/track/43GWrCMgxLOH7lE1KrBGul"
+    },
+    {
+      "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264124,
+      "name": "Day To Night",
+      "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
     },
     {
       "album": {
@@ -1630,7 +1776,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 170386,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/0scJw0FWIuCIYmy1oyhVud"
@@ -1666,7 +1812,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 307415,
       "name": "eleven : eleven",
       "url": "https://open.spotify.com/track/6e0d1WSGymjzEc0MFBcxTU"
@@ -1986,7 +2132,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 199639,
       "name": "Fine Di Un'Era",
       "url": "https://open.spotify.com/track/3pOpZ3BStCHuixCYipeFyF"
@@ -2102,6 +2248,28 @@
       "duration_ms": 296080,
       "name": "Flower Moon",
       "url": "https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/3wAX2XoQdIO8oDEwakM00J"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/3rpwbUJ68uCIYVCJ0g8YnT"
     },
     {
       "album": {
@@ -2330,7 +2498,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 219349,
       "name": "Give You the World",
       "url": "https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG"
@@ -2534,6 +2702,28 @@
       "duration_ms": 205714,
       "name": "Grace",
       "url": "https://open.spotify.com/track/5RNALwTBXcWvRek9SFDsWM"
+    },
+    {
+      "album": {
+        "name": "Grandma's Wisdom",
+        "url": "https://open.spotify.com/album/7isfBCIfCSDvjdde0aAlz1"
+      },
+      "artists": [
+        {
+          "name": "S\u00e4m Wilder",
+          "url": "https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B"
+        },
+        {
+          "name": "SLOJAY",
+          "url": "https://open.spotify.com/artist/5HS4OHVUCSB0gbsbugOp7w"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181916,
+      "name": "Grandma's Wisdom",
+      "url": "https://open.spotify.com/track/2aPiOyvUJqi2IdiEN6SjAq"
     },
     {
       "album": {
@@ -2969,6 +3159,28 @@
     },
     {
       "album": {
+        "name": "I'll Never Say No",
+        "url": "https://open.spotify.com/album/4v62Z1xy3JgUDdkSX1o5uR"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        },
+        {
+          "name": "Aaron Childs",
+          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159581,
+      "name": "I'll Never Say No",
+      "url": "https://open.spotify.com/track/0W91VhI3jdzWeOy5rRlLA6"
+    },
+    {
+      "album": {
         "name": "Iconoclasts",
         "url": "https://open.spotify.com/album/0HCtHecb8UJYmlHER6fmwg"
       },
@@ -3060,6 +3272,24 @@
       "duration_ms": 308551,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/6TxasceeUTemPYb9odpm64"
+    },
+    {
+      "album": {
+        "name": "Tyber",
+        "url": "https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217797,
+      "name": "In Heaven",
+      "url": "https://open.spotify.com/track/6F6tAZylIYQbhAXbQkJn7n"
     },
     {
       "album": {
@@ -3314,6 +3544,28 @@
       "duration_ms": 194992,
       "name": "Just As Long As We're Together",
       "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
+    },
+    {
+      "album": {
+        "name": "Justify",
+        "url": "https://open.spotify.com/album/4tjx0hXqgKopu5upjgVX6y"
+      },
+      "artists": [
+        {
+          "name": "Robyn Florence",
+          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
+        },
+        {
+          "name": "DAVIES",
+          "url": "https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198075,
+      "name": "Justify",
+      "url": "https://open.spotify.com/track/26UzerN8SGvaDcPf7nPohb"
     },
     {
       "album": {
@@ -5202,7 +5454,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 365581,
       "name": "Rosa & Zion",
       "url": "https://open.spotify.com/track/54gMD3sNhVWpJR4gVK9MqI"
@@ -5220,7 +5472,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 188458,
       "name": "RULES",
       "url": "https://open.spotify.com/track/1xKdvCyGgf5fWY1DuGOb4V"
@@ -5772,6 +6024,28 @@
       "duration_ms": 237738,
       "name": "Still Broke - Keyon's Cocktail Mix",
       "url": "https://open.spotify.com/track/6sBYTq8zxSBhLv41bmFE9k"
+    },
+    {
+      "album": {
+        "name": "Stitch or Gantu",
+        "url": "https://open.spotify.com/album/08b5A9eIWVojq1GQATB6cl"
+      },
+      "artists": [
+        {
+          "name": "Carbonara Collective",
+          "url": "https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6"
+        },
+        {
+          "name": "ZYHH",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150754,
+      "name": "Stitch or Gantu",
+      "url": "https://open.spotify.com/track/3tt296QleD9BM59VWBPRq2"
     },
     {
       "album": {
@@ -6781,6 +7055,28 @@
     },
     {
       "album": {
+        "name": "Unchained Lovers",
+        "url": "https://open.spotify.com/album/0abl87Tcreemqx5m0VSkFT"
+      },
+      "artists": [
+        {
+          "name": "Tiwayo",
+          "url": "https://open.spotify.com/artist/0ntbMrwuIENLciux8Pid8S"
+        },
+        {
+          "name": "Kendra Morris",
+          "url": "https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179760,
+      "name": "Unchained Lovers",
+      "url": "https://open.spotify.com/track/3gYYAqlnXm6M8B4DehEUxy"
+    },
+    {
+      "album": {
         "name": "Undone",
         "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
       },
@@ -7193,6 +7489,24 @@
     },
     {
       "album": {
+        "name": "Whip The Wind",
+        "url": "https://open.spotify.com/album/7kFr4bhFs9b3fUuYRGbmrR"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263025,
+      "name": "Whip The Wind",
+      "url": "https://open.spotify.com/track/77nWzREV6lPcV6lSGFUpxN"
+    },
+    {
+      "album": {
         "name": "Whisper My Name",
         "url": "https://open.spotify.com/album/6ELf7lXd7luKkRCDjZ9wzg"
       },
@@ -7406,7 +7720,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 180173,
       "name": "Wither",
       "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
@@ -7428,7 +7742,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 259586,
       "name": "Wrapped in the Weight - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6KCtRNu75DNvDgrFMYlEqO"
@@ -7620,6 +7934,24 @@
       "duration_ms": 257186,
       "name": "You Know I'm No Good",
       "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
+    },
+    {
+      "album": {
+        "name": "You Went Away Too Long",
+        "url": "https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199081,
+      "name": "You Went Away Too Long",
+      "url": "https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz"
     },
     {
       "album": {

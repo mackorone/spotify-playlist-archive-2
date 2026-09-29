@@ -1,12 +1,12 @@
 {
   "description": "Meet the future of music around the world. Cover: Maia Reficco",
-  "num_followers": 88476,
+  "num_followers": 88519,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKipQbeO+Xnvh6WZVbYLPfb6BMqy",
+  "snapshot_id": "AAAAAOEFrWxQqY2HWS7X0xr0Qi0hqlc8",
   "tracks": [
     {
       "added_at": "2026-09-25 13:00:07",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
+        "name": "Perderte",
+        "url": "https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 184300,
+      "name": "Perderte",
+      "url": "https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
         "name": "HOME WAS ALWAYS ME",
         "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 171392,
       "name": "its not about me!",
       "url": "https://open.spotify.com/track/02UI5paChJe2PHsi0nikly"
-    },
-    {
-      "added_at": "2026-09-25 13:00:07",
-      "album": {
-        "name": "Perderte",
-        "url": "https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 184300,
-      "name": "Perderte",
-      "url": "https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij"
     },
     {
       "added_at": "2026-09-25 13:00:07",
@@ -343,6 +343,466 @@
       "duration_ms": 173593,
       "name": "Therapist's Daughter",
       "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "POWER HOUSE",
+        "url": "https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "duration_ms": 192095,
+      "name": "WHIP",
+      "url": "https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "over",
+        "url": "https://open.spotify.com/album/6RrUiVZgYqU7bdt7MWMMzZ"
+      },
+      "artists": [
+        {
+          "name": "quiet morning",
+          "url": "https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz"
+        }
+      ],
+      "duration_ms": 167234,
+      "name": "over",
+      "url": "https://open.spotify.com/track/7y9aCH44424t5XmTHIdli8"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "QU\u00c9 NOS PAS\u00d3?",
+        "url": "https://open.spotify.com/album/0WswLK7Vb1ceeDjNhtdZAC"
+      },
+      "artists": [
+        {
+          "name": "TOBIKA",
+          "url": "https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5"
+        }
+      ],
+      "duration_ms": 128450,
+      "name": "QU\u00c9 NOS PAS\u00d3?",
+      "url": "https://open.spotify.com/track/6nWrPaHLvdqIYeqPvydLFu"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "The Dealer",
+        "url": "https://open.spotify.com/album/18spRMEcgjPsyCgQPYzvgg"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "duration_ms": 189371,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/5llJpOgfpEjtVbl4STXtwy"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "Izinkan Aku Belajar Jatuh Sendiri",
+        "url": "https://open.spotify.com/album/0lRbwQsSKPIZYjiyNDjURw"
+      },
+      "artists": [
+        {
+          "name": "Mohsein Kush",
+          "url": "https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8"
+        }
+      ],
+      "duration_ms": 256438,
+      "name": "Izinkan Aku Belajar Jatuh Sendiri",
+      "url": "https://open.spotify.com/track/1L4JAfalGltZ5oZmpd5mOS"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "escuch\u00e1ndote",
+        "url": "https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        }
+      ],
+      "duration_ms": 136840,
+      "name": "escuch\u00e1ndote",
+      "url": "https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "chilling in my bathtub",
+        "url": "https://open.spotify.com/album/7xWjvCyfTkOyyp7FtWnvhX"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        }
+      ],
+      "duration_ms": 191842,
+      "name": "chilling in my bathtub",
+      "url": "https://open.spotify.com/track/4kU6toL3cyw5Tly52hCsqb"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 123375,
+      "name": "Camila",
+      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "BBB",
+        "url": "https://open.spotify.com/album/3UJPdlqJ2Di179mRPiTe0l"
+      },
+      "artists": [
+        {
+          "name": "XONE",
+          "url": "https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "BBB",
+      "url": "https://open.spotify.com/track/0uyPzNqlpKwijyTI21wI1B"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "WHAT CAN I TELL U",
+        "url": "https://open.spotify.com/album/3hbjx9QSXlYmizj5cSULSA"
+      },
+      "artists": [
+        {
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
+        }
+      ],
+      "duration_ms": 125024,
+      "name": "WRANGLER",
+      "url": "https://open.spotify.com/track/0DY8rIKn5G8rGyE8QMGGDQ"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "DON'T ASK!",
+        "url": "https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 182395,
+      "name": "DON'T ASK!",
+      "url": "https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "Bury It",
+        "url": "https://open.spotify.com/album/33W0mcGpZis0alt3swinMu"
+      },
+      "artists": [
+        {
+          "name": "Estelle Fly",
+          "url": "https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Bury It",
+      "url": "https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "Writing's on the Wall",
+        "url": "https://open.spotify.com/album/4eQpaHJCwEABol0LOS0m0G"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 183808,
+      "name": "Writing's on the Wall",
+      "url": "https://open.spotify.com/track/403zsZipYJ2eeG9V2TidRz"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "Context",
+        "url": "https://open.spotify.com/album/0BJVBckpNAfFH7qDSWnEqH"
+      },
+      "artists": [
+        {
+          "name": "DJ Jackum",
+          "url": "https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX"
+        }
+      ],
+      "duration_ms": 266277,
+      "name": "Floo",
+      "url": "https://open.spotify.com/track/1fgPVwPWvRDzI0yUKxFWzX"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "Hridhayam",
+        "url": "https://open.spotify.com/album/6voA6abUq7Jd8jmUfur0HB"
+      },
+      "artists": [
+        {
+          "name": "Raaza Razaq",
+          "url": "https://open.spotify.com/artist/5ustb0rnxsWzd8G95USxs3"
+        },
+        {
+          "name": "Iyyaamma",
+          "url": "https://open.spotify.com/artist/4iUJKDtuzHBEvlKTDuncmi"
+        }
+      ],
+      "duration_ms": 198072,
+      "name": "Hridhayam",
+      "url": "https://open.spotify.com/track/0gSgiwCwOhj2gi2RQczwWV"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "before",
+        "url": "https://open.spotify.com/album/5bxRIvb0FRhSB9SWZH6VEG"
+      },
+      "artists": [
+        {
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "before",
+      "url": "https://open.spotify.com/track/2Lq1w0xiEHoGAJ68vT21bp"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx"
+      },
+      "artists": [
+        {
+          "name": "Lewis Love",
+          "url": "https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "ENCANTO",
+        "url": "https://open.spotify.com/album/5M4QvzWkh0ElAWtoAratZy"
+      },
+      "artists": [
+        {
+          "name": "trouve feraud",
+          "url": "https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "ENCANTO",
+      "url": "https://open.spotify.com/track/7lXlnGWHUxSno197lsXnuz"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "ESPERANZAH.",
+        "url": "https://open.spotify.com/album/0mFyq5UNYqqXKta7zraEYI"
+      },
+      "artists": [
+        {
+          "name": "esperanzah.",
+          "url": "https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6"
+        }
+      ],
+      "duration_ms": 157492,
+      "name": "Nota de Voz",
+      "url": "https://open.spotify.com/track/414bekTP0wBQjE8juGHaC6"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/6Uel6cr5Fpp6WSlQDkbsxJ"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gordon",
+          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "AYER DIJISTE MA\u00d1ANA",
+        "url": "https://open.spotify.com/album/70YgRmVdUC5cJNrjYwSH4H"
+      },
+      "artists": [
+        {
+          "name": "BALTA",
+          "url": "https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ"
+        }
+      ],
+      "duration_ms": 184700,
+      "name": "TODA LA VIDA",
+      "url": "https://open.spotify.com/track/7fRUzowe7mqS8QkHzTMcJZ"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "Setiap Nafasku Kernamu",
+        "url": "https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2"
+      },
+      "artists": [
+        {
+          "name": "Intan Maya",
+          "url": "https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Setiap Nafasku Kernamu",
+      "url": "https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "waste your pain",
+        "url": "https://open.spotify.com/album/7xZM9auwP97hBo51OSYZ29"
+      },
+      "artists": [
+        {
+          "name": "Cruz Beckham",
+          "url": "https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD"
+        }
+      ],
+      "duration_ms": 143872,
+      "name": "waste your pain",
+      "url": "https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "Diablo Que Soy",
+        "url": "https://open.spotify.com/album/6Pw9t1res1r9hcqLFbtExZ"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "duration_ms": 167754,
+      "name": "Diablo Que Soy",
+      "url": "https://open.spotify.com/track/34spvmbaocIBAynTOD4h4y"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "HIJO DEL PA\u00cdS: EL ENSAYO",
+        "url": "https://open.spotify.com/album/42KYOYRQPlHkVAhmLtE5r2"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        },
+        {
+          "name": "trouve feraud",
+          "url": "https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o"
+        }
+      ],
+      "duration_ms": 241750,
+      "name": "MIGUELITO",
+      "url": "https://open.spotify.com/track/6OQljzrvco7di3t9tr48lO"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "finally out",
+        "url": "https://open.spotify.com/album/4oESUR3cDT50Gshm4Ef6jY"
+      },
+      "artists": [
+        {
+          "name": "NO TIME FOR SILENCE",
+          "url": "https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "finally out",
+      "url": "https://open.spotify.com/track/0bNofMXhvYKmjoWXucYVMM"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "The dirt pt. 2",
+        "url": "https://open.spotify.com/album/2GCJ2Q2vB526WoqL1q8O1e"
+      },
+      "artists": [
+        {
+          "name": "Pollyfromthedirt",
+          "url": "https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Blow my lid",
+      "url": "https://open.spotify.com/track/6dIqq1fS01fSAHxKuOXHsb"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/5SvoJKCjUAyLWTQESwuNqk"
+      },
+      "artists": [
+        {
+          "name": "deary",
+          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/5WDWSOm8Wa9jxt2XtRmbyb"
     }
   ],
   "unique_name": "RADAR Global",

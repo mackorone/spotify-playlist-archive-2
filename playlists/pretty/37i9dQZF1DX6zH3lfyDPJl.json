@@ -1,6 +1,6 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 13607,
+  "num_followers": 13624,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-09-08 13:24:58",
       "album": {
-        "name": "Model",
-        "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/6YVajR33kCWLhWpMVD8AGD"
-    },
-    {
-      "added_at": "2026-09-08 13:24:58",
-      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2026-09-08 13:24:58",
+      "album": {
+        "name": "Model",
+        "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/6YVajR33kCWLhWpMVD8AGD"
     },
     {
       "added_at": "2026-09-08 13:24:58",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-09-08 13:24:58",
       "album": {
-        "name": "Perfect Crown OST Part.8",
-        "url": "https://open.spotify.com/album/4SrWORwSxnQDx7g6luKMt9"
-      },
-      "artists": [
-        {
-          "name": "hrtz.wav",
-          "url": "https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "You Keep Me Here",
-      "url": "https://open.spotify.com/track/2a686rjbxnMQPFgXjhBxXM"
-    },
-    {
-      "added_at": "2026-09-08 13:24:58",
-      "album": {
         "name": "My blue wavy room",
         "url": "https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2026-09-08 13:24:58",
       "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+        "name": "Perfect Crown OST Part.8",
+        "url": "https://open.spotify.com/album/4SrWORwSxnQDx7g6luKMt9"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "hrtz.wav",
+          "url": "https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg"
         }
       ],
-      "duration_ms": 193425,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/2H28TK2PMVBeRZKelRJewg"
+      "duration_ms": 224000,
+      "name": "You Keep Me Here",
+      "url": "https://open.spotify.com/track/2a686rjbxnMQPFgXjhBxXM"
     },
     {
       "added_at": "2026-09-08 13:24:58",
@@ -803,18 +787,34 @@
     {
       "added_at": "2026-09-08 13:24:58",
       "album": {
-        "name": "Closely Far Away",
-        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
+        "name": "Love Hate Music Box",
+        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
       },
       "artists": [
         {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 194546,
-      "name": "Closely Far Away",
-      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
+      "duration_ms": 193425,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/2H28TK2PMVBeRZKelRJewg"
+    },
+    {
+      "added_at": "2026-09-08 13:24:58",
+      "album": {
+        "name": "Can We Please Have Fun",
+        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 207236,
+      "name": "M Television",
+      "url": "https://open.spotify.com/track/0F2d4rttCd24RQ0CA5enHl"
     }
   ],
   "unique_name": "\ubb3c \uba4d",

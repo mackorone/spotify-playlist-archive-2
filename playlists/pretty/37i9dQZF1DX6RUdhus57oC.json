@@ -1,6 +1,6 @@
 {
   "description": "Le sommeil, c'est la sant\u00e9, alors laissez-vous bercer. Photo : Alain Roche",
-  "num_followers": 34877,
+  "num_followers": 34889,
   "original_name": "Douce nuit",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-07-10 10:11:11",
       "album": {
+        "name": "Les Arbres Parlent",
+        "url": "https://open.spotify.com/album/2E1scdnYHnHAuYvJ30MGnr"
+      },
+      "artists": [
+        {
+          "name": "Edgar Paget",
+          "url": "https://open.spotify.com/artist/4j4neGVPluHx8NgYSs31Z8"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Les Arbres Parlent",
+      "url": "https://open.spotify.com/track/5OCUevB2d31fkcQEP56MxQ"
+    },
+    {
+      "added_at": "2026-07-10 10:11:11",
+      "album": {
         "name": "On Silver Hill",
         "url": "https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 170666,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/6O9AWPGehNHiSJ1sNcKgBg"
-    },
-    {
-      "added_at": "2026-07-10 10:11:11",
-      "album": {
-        "name": "Les Arbres Parlent",
-        "url": "https://open.spotify.com/album/2E1scdnYHnHAuYvJ30MGnr"
-      },
-      "artists": [
-        {
-          "name": "Edgar Paget",
-          "url": "https://open.spotify.com/artist/4j4neGVPluHx8NgYSs31Z8"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Les Arbres Parlent",
-      "url": "https://open.spotify.com/track/5OCUevB2d31fkcQEP56MxQ"
     },
     {
       "added_at": "2026-07-10 10:11:11",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-07-10 10:11:11",
       "album": {
-        "name": "Adoration",
-        "url": "https://open.spotify.com/album/495Axa6G5QO6M0NjP0zLD2"
-      },
-      "artists": [
-        {
-          "name": "Jacques Blanc",
-          "url": "https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "Adoration",
-      "url": "https://open.spotify.com/track/14wPl9Hv5LFqZZdz2AbwRL"
-    },
-    {
-      "added_at": "2026-07-10 10:11:11",
-      "album": {
         "name": "Beyond The Horizon",
         "url": "https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 180000,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT"
+    },
+    {
+      "added_at": "2026-07-10 10:11:11",
+      "album": {
+        "name": "Adoration",
+        "url": "https://open.spotify.com/album/495Axa6G5QO6M0NjP0zLD2"
+      },
+      "artists": [
+        {
+          "name": "Jacques Blanc",
+          "url": "https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "Adoration",
+      "url": "https://open.spotify.com/track/14wPl9Hv5LFqZZdz2AbwRL"
     },
     {
       "added_at": "2026-07-10 10:11:11",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-07-10 10:11:11",
       "album": {
-        "name": "But A Whisper",
-        "url": "https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r"
-      },
-      "artists": [
-        {
-          "name": "Vaughn Harrison",
-          "url": "https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8"
-        }
-      ],
-      "duration_ms": 147623,
-      "name": "But A Whisper",
-      "url": "https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw"
-    },
-    {
-      "added_at": "2026-07-10 10:11:11",
-      "album": {
         "name": "Une histoire d\u2019amour",
         "url": "https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 152780,
       "name": "Une histoire d\u2019amour",
       "url": "https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E"
+    },
+    {
+      "added_at": "2026-07-10 10:11:11",
+      "album": {
+        "name": "But A Whisper",
+        "url": "https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r"
+      },
+      "artists": [
+        {
+          "name": "Vaughn Harrison",
+          "url": "https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8"
+        }
+      ],
+      "duration_ms": 147623,
+      "name": "But A Whisper",
+      "url": "https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw"
     },
     {
       "added_at": "2026-07-10 10:11:11",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-10 10:11:11",
       "album": {
-        "name": "Old Friends New Friends",
-        "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 198584,
-      "name": "Late",
-      "url": "https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B"
-    },
-    {
-      "added_at": "2026-07-10 10:11:11",
-      "album": {
         "name": "Blue Water Floats",
         "url": "https://open.spotify.com/album/5pp6y9zMzwkqjKyiECnfxx"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 159000,
       "name": "Blue Water Floats",
       "url": "https://open.spotify.com/track/1valVbc0kxrTxrT4nf3x9t"
+    },
+    {
+      "added_at": "2026-07-10 10:11:11",
+      "album": {
+        "name": "Old Friends New Friends",
+        "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 198584,
+      "name": "Late",
+      "url": "https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B"
     },
     {
       "added_at": "2026-07-10 10:11:11",

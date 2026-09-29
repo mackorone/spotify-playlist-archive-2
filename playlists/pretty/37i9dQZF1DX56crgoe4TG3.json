@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 286906,
+  "num_followers": 286921,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Colors of the Wind",
-        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
-      },
-      "artists": [
-        {
-          "name": "Fancy Hagood",
-          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "Colors of the Wind",
-      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Aerials",
         "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 228490,
       "name": "Aerials",
       "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Colors of the Wind",
+        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Colors of the Wind",
+      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "(Don't Fear) The Reaper",
+        "url": "https://open.spotify.com/album/2TrowCdcNpYXinqitONN6r"
+      },
+      "artists": [
+        {
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+        }
+      ],
+      "duration_ms": 281600,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5m8QroOPHTfVhCNlgT7UEy"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Those Were the Days",
         "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 214453,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "(Don't Fear) The Reaper",
-        "url": "https://open.spotify.com/album/2TrowCdcNpYXinqitONN6r"
-      },
-      "artists": [
-        {
-          "name": "The Barefoot Movement",
-          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
-        }
-      ],
-      "duration_ms": 281600,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5m8QroOPHTfVhCNlgT7UEy"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Stuck in the Middle With You",
-        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stuck in the Middle With You",
-      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Stuck in the Middle With You",
+        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stuck in the Middle With You",
+      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -875,26 +875,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
+        "name": "Old Cane Back Rocker",
+        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
       "artists": [
         {
-          "name": "Daniel Grindstaff",
-          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
         },
         {
-          "name": "Paul Brewster",
-          "url": "https://open.spotify.com/artist/7nBOumt7hKimqNrAQHbQdq"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Darrell Scott String Band",
+          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4q2p4js4UgAxWfaWYjdtIT"
+      "duration_ms": 267690,
+      "name": "It's a Great Day to Be Alive",
+      "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -915,22 +911,26 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Old Cane Back Rocker",
-        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
       },
       "artists": [
         {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+          "name": "Daniel Grindstaff",
+          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
         },
         {
-          "name": "Darrell Scott String Band",
-          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
+          "name": "Paul Brewster",
+          "url": "https://open.spotify.com/artist/7nBOumt7hKimqNrAQHbQdq"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 267690,
-      "name": "It's a Great Day to Be Alive",
-      "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
+      "duration_ms": 228480,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4q2p4js4UgAxWfaWYjdtIT"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Shaken By A Low Sound",
-        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
-      },
-      "artists": [
-        {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Come On In My Kitchen",
-      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Pickin' on the 90s",
         "url": "https://open.spotify.com/album/3QB8bU45ibOECYMejZuVAi"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 198460,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/1gAj0rxRU8QK49emO77sjF"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Shaken By A Low Sound",
+        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Come On In My Kitchen",
+      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps"
-      },
-      "artists": [
-        {
-          "name": "Holler Choir",
-          "url": "https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw"
-        }
-      ],
-      "duration_ms": 265066,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/5IUxHfkYd9hl4NDE8ayShP"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Make Me Stay or Make Me Go",
         "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 191000,
       "name": "Make Me Stay or Make Me Go",
       "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps"
+      },
+      "artists": [
+        {
+          "name": "Holler Choir",
+          "url": "https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw"
+        }
+      ],
+      "duration_ms": 265066,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/5IUxHfkYd9hl4NDE8ayShP"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "YMCA b/w Rasputin",
-        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
-      },
-      "artists": [
-        {
-          "name": "Hayseed Dixie",
-          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
-        }
-      ],
-      "duration_ms": 281287,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Graceland (Live Session)",
         "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Norwegian Wood (This Bird Has Flown)",
-        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
+        "name": "YMCA b/w Rasputin",
+        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
       },
       "artists": [
         {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+          "name": "Hayseed Dixie",
+          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
         }
       ],
-      "duration_ms": 167827,
-      "name": "Norwegian Wood (This Bird Has Flown)",
-      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
+      "duration_ms": 281287,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1451,6 +1435,22 @@
       "duration_ms": 229000,
       "name": "All Will Be Well",
       "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Norwegian Wood (This Bird Has Flown)",
+        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 167827,
+      "name": "Norwegian Wood (This Bird Has Flown)",
+      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
     },
     {
       "added_at": "2026-08-21 04:02:18",

@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-280 songs - 13 hr 46 min
+281 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,9 +84,10 @@
 | [Don't Let Me Down \- Hardwell & Sephyx Remix](https://open.spotify.com/track/1JI70l1lE5IF2tgJm5TnMD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Don't Let Me Down \(Hardwell & Sephyx Remix\)](https://open.spotify.com/album/3oS6pMqcIiHaq3B47mDop5) | 2:42 | 2022-12-05 |  |
 | [Don't Stop Believin' \- Felix Harrer Remix](https://open.spotify.com/track/1RQAXREowlYVIu5T7t5cQb) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [Don't Stop Believin' \(Felix Harrer Remix\)](https://open.spotify.com/album/5hvmoQj2imO3EQBwVaK3gN) | 3:27 | 2024-06-14 |  |
 | [Don't You Worry Child \(Hardstyle\)](https://open.spotify.com/track/6KWQPUeFZj0Opa8JeZQuHe) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Don't You Worry Child \(Hardstyle\)](https://open.spotify.com/album/4VE1EUhKNGyUjFsKYMQCtP) | 2:19 | 2024-02-08 | 2024-03-22 |
+| [Dragostea din tei \(The Saints Remix\)](https://open.spotify.com/track/1yXWJiX8rBCN2TjMcXJHtU) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r), [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Dragostea din tei \(The Saints Remix\)](https://open.spotify.com/album/1JQNqgU0dU7bVZVLzIRSnh) | 2:39 | 2026-09-28 |  |
 | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/track/5FvdZ8gbPKr6qfen05303Q) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/album/634u94Ov4HnrF8mXT88Mt2) | 2:52 | 2023-01-26 | 2023-09-16 |
 | [Ecuador \(Hardstyle Mix\)](https://open.spotify.com/track/4PnRDsx6405Mn5DeY25J5t) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem) | [Ecuador \(Hardstyle Mix\)](https://open.spotify.com/album/4YpH7Q6JO3bCpWpsG6XlM7) | 2:10 | 2022-12-22 | 2023-03-04 |
-| [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 | 2023-02-09 |  |
+| [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 | 2023-02-09 | 2026-09-29 |
 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 | 2023-09-15 |  |
 | [Europapa \(DJ Paul Elstak Remix\)](https://open.spotify.com/track/0dSXcpeqmi6Wdq6bZWcuGC) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Europapa: Greatest Hits](https://open.spotify.com/album/7xyZRItvB1QLR3Sj83VDqx) | 3:01 | 2024-04-12 | 2025-03-21 |
 | [Everytime We Touch \- Sound Rush Remix](https://open.spotify.com/track/6HRQ2TCrIFhZpIdI9DyhEh) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Everytime We Touch \(Sound Rush Remix\)](https://open.spotify.com/album/48WmVfUVF8jCBCqFXB7Rkj) | 3:36 | 2022-12-05 |  |

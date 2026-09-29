@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 415269,
+  "num_followers": 415322,
   "original_name": "Energy Booster Rock",
   "owner": {
     "name": "Spotify",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Upright Animals",
-        "url": "https://open.spotify.com/album/4azfM2hspLuUo7yk4AQKG3"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 203290,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/5Q6SSsB53WpRJS2umerkIB"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Moments of Clarity",
         "url": "https://open.spotify.com/album/135Y92eWcCGg8GeFi5IF3v"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 230935,
       "name": "Moments Of Clarity",
       "url": "https://open.spotify.com/track/4T8GhH9Jz2ZAf8BnE7OXzi"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Upright Animals",
+        "url": "https://open.spotify.com/album/4azfM2hspLuUo7yk4AQKG3"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 203290,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/5Q6SSsB53WpRJS2umerkIB"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Courage",
-      "url": "https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Sugar Rush",
         "url": "https://open.spotify.com/album/5lft83Fx1Dth0Frg1ptTUE"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 245312,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Courage",
+      "url": "https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX"
     },
     {
       "added_at": "2024-11-14 18:42:17",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,670 songs - 4 day 0 hr 32 min
+1,671 songs - 4 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [Dust](https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:09 | 2026-05-16 | 2026-05-18 |
 | [DWBF](https://open.spotify.com/track/3Cdpq0qhrgiwPRkR720FZf) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [DWBF](https://open.spotify.com/album/2lWxtIbcRBLyKRm27Wa0b6) | 3:18 | 2021-03-31 | 2022-07-17 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-03-27\* | 2021-07-23 |
-| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-06-20 | 2026-09-23 |
+| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-06-20 |  |
 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-16 | 2025-04-08 |
 | [earthquake](https://open.spotify.com/track/1Ah8dQEPYpmtl7FRvXJOOU) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/3sozjvG7USuOB1C5ELDEXJ) | 3:10 | 2025-02-15 | 2025-04-07 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-20 | 2024-06-09 |
@@ -981,7 +981,7 @@
 | [The Fate of Ophelia](https://open.spotify.com/track/0VZvLbADBSQbwFfmvsNl6E) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc) | 3:46 | 2025-10-08 | 2025-10-10 |
 | [The Fate of Ophelia](https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 3:46 | 2025-10-09 | 2025-10-12 |
 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-04 | 2025-10-06 |
-| [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-05 |  |
+| [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-05 | 2026-09-29 |
 | [The Feels](https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/6bk3KlQjiXsRmGrzrNcS53) | 3:18 | 2021-10-03 | 2021-10-04 |
 | [The Feels](https://open.spotify.com/track/6pgqZ7Iw4LfHlfgWWaRFSY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/744iq6HcpYJixN85Egbvt9) | 3:18 | 2021-10-04 | 2021-10-17 |
 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-08-30 | 2023-09-01 |
@@ -1502,6 +1502,7 @@
 | [生若冰火 \(ViuTV 劇集冰上火花主題曲\)](https://open.spotify.com/track/0zEBpYDhSzcvAvypqOqm5G) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [生若冰火 \(ViuTV 劇集冰上火花主題曲\)](https://open.spotify.com/album/1siFw7GYzPnHXcGCR0fi0O) | 3:04 | 2023-11-03 | 2024-02-16 |
 | [用背脊唱情歌](https://open.spotify.com/track/1jQp4mCBDmXr8NMqsMpH8E) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [用背脊唱情歌](https://open.spotify.com/album/65RVRNqYKdkqVJOUOtAtF8) | 3:30 | 2025-06-10 | 2026-03-28 |
 | [用背脊唱情歌](https://open.spotify.com/track/56KAZ7TDmxSHw1L5gNvESi) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [THE PROTÉGÉ](https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X) | 3:30 | 2026-03-27 |  |
+| [甲乙丙丁Strangers](https://open.spotify.com/track/629FqLOdjtsXh5b45FTk43) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [甲乙丙丁Strangers](https://open.spotify.com/album/30zNYNia7OQ2MWqIDNzP0V) | 3:30 | 2026-09-28 |  |
 | [男人怎可以](https://open.spotify.com/track/7M0ZCvE0HcikCJUy4cTsAF) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [男人怎可以](https://open.spotify.com/album/7L7mQJGSbFFu9HEwHiQ1os) | 4:16 | 2026-05-29 |  |
 | [留一天與你喘息](https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [留一天與你喘息](https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj) | 4:18 | 2022-02-15 | 2024-04-27 |
 | [留下來的人](https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [人類世](https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V) | 4:04 | 2021-11-28 | 2023-01-04 |
@@ -1619,7 +1620,7 @@
 | [遇上你之前的我](https://open.spotify.com/track/0zKILlXrocz7TS4EJ16rPt) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [遇上你之前的我](https://open.spotify.com/album/4hLW7QtnkluNqvZv6nv8ZF) | 3:35 | 2024-04-13 | 2024-04-28 |
 | [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 | 2026-03-16 | 2026-03-20 |
 | [遊樂場](https://open.spotify.com/track/1N2OEC9c5RzlNeI8x6l8M3) | [Nicholas Tse](https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP) | [Viva](https://open.spotify.com/album/5caZ8R5AYtmv3djBNj4kUE) | 4:08 | 2025-04-26 | 2025-05-10 |
-| [遠在眼前](https://open.spotify.com/track/6BC8sFJBG0XIoFZLrlI1Rc) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Awaken](https://open.spotify.com/album/6OvcRanzVFg6qTmoydjzmn) | 4:05 | 2025-11-12 |  |
+| [遠在眼前](https://open.spotify.com/track/6BC8sFJBG0XIoFZLrlI1Rc) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Awaken](https://open.spotify.com/album/6OvcRanzVFg6qTmoydjzmn) | 4:05 | 2025-11-12 | 2026-09-29 |
 | [遲了悔改 \- ViuTV電視劇《太平紋身店》主題曲](https://open.spotify.com/track/0Os0RD1apkQsWOeF2cV5w2) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [遲了悔改 \(ViuTV電視劇《太平紋身店》主題曲\)](https://open.spotify.com/album/76CJR7OqDn0eP3YhY2efl8) | 4:24 | 2021-03-27\* | 2024-04-21 |
 | [遲眠劑](https://open.spotify.com/track/73NteZIJck8x3flUCCQoGq) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [遲眠劑](https://open.spotify.com/album/2kbXtzCCdtfuln5SVoiyn2) | 3:13 | 2026-07-24 | 2026-09-25 |
 | [遺忘了初心的我們](https://open.spotify.com/track/46Ntxwf4zWxhWHjtqWul6h) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [遺忘了初心的我們](https://open.spotify.com/album/1QLNBeaZlehK6srJjVg7VN) | 4:17 | 2023-04-25 | 2023-04-28 |

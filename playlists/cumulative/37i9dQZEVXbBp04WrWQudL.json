@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 242698,
       "name": "Borracho de Amor",
       "url": "https://open.spotify.com/track/7xYDdj5EpqjSG8gYjpfmQe"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 161702,
       "name": "Cadeira Cativa - Ao Vivo",
       "url": "https://open.spotify.com/track/1RWNER261dOJN0u2sp7nVF"
@@ -954,7 +954,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 250144,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6HcL9Jd6mcH8F9ebUl28J5"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -1142,10 +1142,32 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 569376,
       "name": "Falling Back - Extended Version",
       "url": "https://open.spotify.com/track/1UmERnfXBNJaVJKcUeWpDh"
+    },
+    {
+      "album": {
+        "name": "FIX UR FACE",
+        "url": "https://open.spotify.com/album/6lK5Wq5JOuoc41GnzYVm8b"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202460,
+      "name": "FIX UR FACE",
+      "url": "https://open.spotify.com/track/2AMlgxq2VMHrtSgULRt01F"
     },
     {
       "album": {
@@ -1422,6 +1444,24 @@
       "duration_ms": 167667,
       "name": "How To Pray",
       "url": "https://open.spotify.com/track/0oos01MKZkB4Wpo2HQcjkK"
+    },
+    {
+      "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/4h9OkJ7gLwCoJHl7Fh3Mxa"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215189,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/6qvD7UaO8kdyILbKJ4Vhib"
     },
     {
       "album": {
@@ -2014,7 +2054,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 187583,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/6KizolNUQTu8P0wLIhA6GC"
@@ -2054,6 +2094,24 @@
       "duration_ms": 274285,
       "name": "Move Like You Do",
       "url": "https://open.spotify.com/track/3mkiclDD4FKpWTAQLDHzBM"
+    },
+    {
+      "album": {
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/2052zJEV3BCKEHRr1OuFBt"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279445,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/6zbFKq8lMjRWmLf4iOzxKe"
     },
     {
       "album": {
@@ -2278,7 +2336,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 359659,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3cWbxSR8DZS4Zu8cGwYlPT"
@@ -2550,6 +2608,28 @@
       "duration_ms": 148202,
       "name": "Qu\u00e9 iron\u00eda",
       "url": "https://open.spotify.com/track/51QU6rgcaT0I8N7v01wawu"
+    },
+    {
+      "album": {
+        "name": "Raindance",
+        "url": "https://open.spotify.com/album/0BO0reXnVabwfCct68xrUR"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220960,
+      "name": "Raindance",
+      "url": "https://open.spotify.com/track/2hUHM9VqJRgxCCRuYYpk2v"
     },
     {
       "album": {
@@ -2972,7 +3052,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 184360,
       "name": "TALK",
       "url": "https://open.spotify.com/track/66JBsCovtPnF4iPx4rVHGE"
@@ -3080,10 +3160,28 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 228437,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/708fgISg1S1a6GT2Q3gxIH"
+    },
+    {
+      "album": {
+        "name": "TU SANCHO",
+        "url": "https://open.spotify.com/album/2GcbOw6CG4n17SIoOF5QHQ"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195520,
+      "name": "TU SANCHO",
+      "url": "https://open.spotify.com/track/2ODIsJE5Brg2BN3kMH7GQh"
     },
     {
       "album": {

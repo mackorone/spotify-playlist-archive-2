@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 107,059 likes - 101 songs - 4 hr 19 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 107,047 likes - 105 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reality](https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:39 |
-| 2 | [Come Closer](https://open.spotify.com/track/4FoFi2hgbJiC5wSHcRdyQB) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [Come Closer](https://open.spotify.com/album/5QI2Qd0N66uPA0kgcKOkvA) | 2:00 |
-| 3 | [Body Lover](https://open.spotify.com/track/1Jy2c9vswvFi3Vr72y89za) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [NASHUP](https://open.spotify.com/artist/39AOKEst7bTMFXv8kaYbdp), [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Body Lover](https://open.spotify.com/album/136yOMPYzyBXxl3ne2cAwx) | 2:27 |
-| 4 | [Stay A Little Longer](https://open.spotify.com/track/08eBCI8hasGMuQ6oPj0FKI) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Stay A Little Longer](https://open.spotify.com/album/5mxG2VhqYrmmkic41pQ1yb) | 2:13 |
-| 5 | [Talk About It](https://open.spotify.com/track/47aW8MyfXP2Dc7U3axh8Mu) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Talk About It](https://open.spotify.com/album/1nDFDxoIToR3VEtTwJUMzv) | 2:19 |
-| 6 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
+| 2 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
+| 3 | [Come Closer](https://open.spotify.com/track/4FoFi2hgbJiC5wSHcRdyQB) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [Come Closer](https://open.spotify.com/album/5QI2Qd0N66uPA0kgcKOkvA) | 2:00 |
+| 4 | [Body Lover](https://open.spotify.com/track/1Jy2c9vswvFi3Vr72y89za) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [NASHUP](https://open.spotify.com/artist/39AOKEst7bTMFXv8kaYbdp), [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Body Lover](https://open.spotify.com/album/136yOMPYzyBXxl3ne2cAwx) | 2:27 |
+| 5 | [Stay A Little Longer](https://open.spotify.com/track/08eBCI8hasGMuQ6oPj0FKI) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Stay A Little Longer](https://open.spotify.com/album/5mxG2VhqYrmmkic41pQ1yb) | 2:13 |
+| 6 | [Talk About It](https://open.spotify.com/track/47aW8MyfXP2Dc7U3axh8Mu) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Talk About It](https://open.spotify.com/album/1nDFDxoIToR3VEtTwJUMzv) | 2:19 |
 | 7 | [rockstar of the internet](https://open.spotify.com/track/6ogYgOEipekZGxEI9t7Kol) | [Contrecoeur](https://open.spotify.com/artist/1NeuXODbg5Bm85O2De0MjE) | [rockstar of the internet](https://open.spotify.com/album/2ZX3W6whFnJHpGtU3yWO0z) | 2:30 |
 | 8 | [Not Lost Anymore](https://open.spotify.com/track/4TUBlkQN1WSEObLOKvYcPt) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l) | [Not Lost Anymore](https://open.spotify.com/album/6sgYCJ7oSclbZUNxhcQpkq) | 2:06 |
 | 9 | [Lights](https://open.spotify.com/track/0rrFoR13Ww9ISIA3VgC65c) | [lone tide](https://open.spotify.com/artist/5pGUPcY0TlZkIySLIbsgWQ) | [Lights](https://open.spotify.com/album/7aZzs2sTXMOqlMrAZQDh8b) | 2:18 |
@@ -109,5 +109,9 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 99 | [Be Somewhere](https://open.spotify.com/track/7IddP0tIBe0Hh9oCYdtuyX) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv) | [Be Somewhere](https://open.spotify.com/album/19MWoDnXbNGz6hg1RL4Kuw) | 2:38 |
 | 100 | [oceanside](https://open.spotify.com/track/4OYaj9oxYWgXI4hNTaTEBb) | [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2), [Obren](https://open.spotify.com/artist/5fIoCFV71SATmK78w7MlyB) | [oceanside](https://open.spotify.com/album/4qirkYK6AfX1Fiub7GNw8t) | 3:02 |
 | 101 | [Starlight](https://open.spotify.com/track/5kTDyNCjGvKEt2J3oJVOMV) | [Ryamasu](https://open.spotify.com/artist/1OnLmUAkkoKFOAzL8NpWlQ) | [Starlight](https://open.spotify.com/album/6Cca5UjEDne3shjVJegzm2) | 2:34 |
+| 102 | [No Second Player](https://open.spotify.com/track/1IRV909ztfPe16hznXQ856) | [TEMP!E](https://open.spotify.com/artist/75TTHqbTvMOttu5BC9dare) | [No Second Player](https://open.spotify.com/album/4KEu2EUuycJ9LEwjs8M64n) | 2:40 |
+| 103 | [London](https://open.spotify.com/track/5zCJkDDoZW8eDbCv0itcy9) | [linequat](https://open.spotify.com/artist/49PsUQX8IbmpwcTWHG9OWy), [Pherick](https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe), [John Von Dusk](https://open.spotify.com/artist/4JeAtwRoOrbTED0kN8D4jz) | [London](https://open.spotify.com/album/0dz33md8SGTpNomFoVTETj) | 2:22 |
+| 104 | [Infinitely Falling](https://open.spotify.com/track/48Eg88wbu6IOuiOVktNWwn) | [linequat](https://open.spotify.com/artist/49PsUQX8IbmpwcTWHG9OWy), [Pherick](https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe) | [Infinitely Falling](https://open.spotify.com/album/4XIMUnvwGN2N2Ldia7PUfg) | 2:43 |
+| 105 | [Lifeline](https://open.spotify.com/track/70xlG6Nd42L0GRwlyHQebI) | [Zyrius](https://open.spotify.com/artist/7Iecolizo2sW1RpCrITIZ8) | [Lifeline](https://open.spotify.com/album/2zfzH05qNJG20cZJc7Hcjp) | 2:39 |
 
-Snapshot ID: `AAAnD2H+V28WRIdZepSMdU5jx2VrE/KL`
+Snapshot ID: `AAAnFp6fcwL5LRsEIq7Mbt0XUBf39NBJ`

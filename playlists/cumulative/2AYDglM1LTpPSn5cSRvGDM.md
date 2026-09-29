@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-290 songs - 16 hr 37 min
+291 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Hide and Seek](https://open.spotify.com/track/0SlhHeNYhm4I1EjqaPZ7pc) | [RUMPUS](https://open.spotify.com/artist/6UbKjDmDWrGKZdHNYxjveJ) | [Hide and Seek](https://open.spotify.com/album/6YrM7hgBq4ZIogV7ebUt4V) | 2:54 | 2026-01-12 | 2026-02-15 |
 | [High Hopes](https://open.spotify.com/track/6yVKpXTmnnj7hHdzCNqGfb) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [High Hopes](https://open.spotify.com/album/5MqJh7SqNjyPGgDAQ1l3gK) | 4:20 | 2026-07-10 |  |
 | [High Hopes \- Steerner Remix](https://open.spotify.com/track/1xxlGjCuMG86tFhOCjwNiO) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw), [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz) | [High Hopes \(Remixes\)](https://open.spotify.com/album/0gZku9jgxUsWqDbjsLiNd0) | 3:39 | 2026-07-29 |  |
+| [Higher \- Dosem Remix](https://open.spotify.com/track/0vNmFDDzRgH2xqs3FIo7bL) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV), [Boxer](https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG), [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Higher \(Dosem Remix\)](https://open.spotify.com/album/4oWfPfA20vYj4kmMUMsyOH) | 3:12 | 2026-09-28 |  |
 | [Hold Me Close](https://open.spotify.com/track/3TeV1sADwT0CO1xSMXYDDw) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Hold Me Close](https://open.spotify.com/album/0ZmQD2h7DSwmupbdDYtL5F) | 4:01 | 2026-02-27 | 2026-07-11 |
 | [Holding Me Back](https://open.spotify.com/track/63Vp4xgLP4zCaacuK1bXDP) | [DJ TISCO](https://open.spotify.com/artist/52g7ZWlWaf2yqLchy2XuTh) | [Holding Me Back](https://open.spotify.com/album/6qXO3OTiJ45OsKZ5cvxQ8L) | 3:08 | 2025-10-31 | 2025-11-29 |
 | [How Do I Feel](https://open.spotify.com/track/3TeYNx4ZZIml9wjRIImer3) | [Arielle](https://open.spotify.com/artist/6KltnIwOSDC583jsI2wxgE) | [How Do I Feel](https://open.spotify.com/album/0cqiyTJdZNVIrfoeGC7C0M) | 6:26 | 2025-07-11 | 2025-09-27 |

@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Apne mulk ki homegrown hits 🎶 Cover: Hamza Malik
+> Apne mulk ki homegrown hits 🎶 Cover: Izzchughtai, Hasan Raheem, Umair
 
-344 songs - 23 hr 25 min
+346 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [OBVIOUS \(feat\. Hasan Raheem\)](https://open.spotify.com/track/40MgoUXdjPRk27R1Fp7EAp) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:15 | 2024-12-28 |  |
 | [Oh Sahib \- Original Sountrack Of Abdullahpur Ka Devdas](https://open.spotify.com/track/6I8ImLg9xfoVRNmcV83mL6) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Oh Sahib \(Original Sountrack Of Abdullahpur Ka Devdas\)](https://open.spotify.com/album/29hYmprNyxMkCWXFDg15b7) | 3:14 | 2025-10-15 | 2026-07-09 |
 | [Over You](https://open.spotify.com/track/4owVDjd6lmgM1cV1E4Ic9v) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9) | [Over You](https://open.spotify.com/album/700ZlmqtXodluz8SUkpopv) | 2:57 | 2025-02-11 | 2025-03-29 |
+| [Pablo](https://open.spotify.com/track/1PLT6v3VhugzzLarvG76Ko) | [Hania Aamir](https://open.spotify.com/artist/0Mqyon2f1de1y9AcGbb1Jf) | [Pablo](https://open.spotify.com/album/41WcjlLxGl5uI9J325Ffyz) | 2:06 | 2026-09-28 |  |
 | [Paint](https://open.spotify.com/track/6iDZIZAMcX47BtsPXTW6d4) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [You paint me again “PURPLE”](https://open.spotify.com/album/0KUWZOvXO6Uvsih3zDpwYa) | 2:50 | 2025-12-12 | 2026-01-29 |
 | [Pal Pal](https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal](https://open.spotify.com/album/2PxW90KYw7dKSgRTwu45hS) | 2:27 | 2025-02-26 |  |
 | [Pal Pal \(with Talwiinder\)](https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal \(with Talwiinder\)](https://open.spotify.com/album/47HV1rQNbrAPcv15zgbTHy) | 3:28 | 2025-04-11 |  |
@@ -261,6 +262,7 @@
 | [Radha](https://open.spotify.com/track/0oOVxu88I7Bj9jjDnXVRus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Radha](https://open.spotify.com/album/7Jay27dyjhNA07vWwtjCoJ) | 3:39 | 2025-01-03 |  |
 | [Rang De](https://open.spotify.com/track/1mp9c72fxtSnNUCfDTWzTc) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Azaan](https://open.spotify.com/album/2VuBd6z3euJKhJuBNHpTNN) | 5:23 | 2023-11-13 | 2023-11-18 |
 | [Rangeen](https://open.spotify.com/track/5oR58bDC1H53YMEARuTQV6) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:41 | 2023-09-30 | 2023-10-12 |
+| [Rangeen \| Coke Studio Nu.WAV](https://open.spotify.com/track/7cO7GWk6vUGNcAUXMJ2Bdj) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Rangeen \| Coke Studio Nu.WAV](https://open.spotify.com/album/4aLu7Zndj5FQRV1Oh62Tgy) | 3:41 | 2026-09-28 |  |
 | [Ranjheya Ve](https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ranjheya Ve](https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1) | 4:38 | 2025-06-29 | 2026-07-09 |
 | [REFUNDS \(feat\. Rap Demon & KR$NA\)](https://open.spotify.com/track/0S8hbC2ki67o9X9NSK8v2I) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 4:16 | 2024-04-26 | 2024-05-07 |
 | [Regardless](https://open.spotify.com/track/1N5IwvKPg7PZeGi9Pvzvdo) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Regardless](https://open.spotify.com/album/6vbJkwWBaS7iKBHfQJM9ua) | 3:44 | 2025-06-29 |  |

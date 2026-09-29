@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 52699,
+  "num_followers": 52704,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAADDNkrEUN/CpS9dVpIl0XZa",
+  "snapshot_id": "arhcgAAAAACDmR80id5gSYzJgPuDW+DI",
   "tracks": [
     {
       "added_at": null,
@@ -218,11 +218,15 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Daniel O\u2019Brien",
+          "url": "https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL"
         }
       ],
-      "duration_ms": 99806,
-      "name": "Ice Cream (Waltz of the Flowers)",
-      "url": "https://open.spotify.com/track/3xs2MdbijxgVs0FdLSEw5i"
+      "duration_ms": 144125,
+      "name": "Alongside (Instrumental)",
+      "url": "https://open.spotify.com/track/190HNzzsBBgH7BmCtbzv6f"
     },
     {
       "added_at": null,
@@ -298,15 +302,11 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Daniel O\u2019Brien",
-          "url": "https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL"
         }
       ],
-      "duration_ms": 144125,
-      "name": "Alongside (Instrumental)",
-      "url": "https://open.spotify.com/track/190HNzzsBBgH7BmCtbzv6f"
+      "duration_ms": 99806,
+      "name": "Ice Cream (Waltz of the Flowers)",
+      "url": "https://open.spotify.com/track/3xs2MdbijxgVs0FdLSEw5i"
     },
     {
       "added_at": null,
@@ -428,13 +428,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "David Barber",
+          "url": "https://open.spotify.com/artist/1QHNRO6583iWucRIG2QB1i"
         }
       ],
-      "duration_ms": 202098,
-      "name": "Wagon Ride",
-      "url": "https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD"
+      "duration_ms": 157687,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/4gfxbgos8kfCZybOnMgmns"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rug Island (Full Version)",
-        "url": "https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        }
-      ],
-      "duration_ms": 244476,
-      "name": "Rug Island - Full Version",
-      "url": "https://open.spotify.com/track/5NuyJAjEhItkHFJ2l5pkWX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up Here (The Orchestral Album)",
         "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
       },
@@ -538,15 +518,11 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Daniel O\u2019Brien",
-          "url": "https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL"
         }
       ],
-      "duration_ms": 142557,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/3LsLh22du7Mq5IAnXOec1r"
+      "duration_ms": 218653,
+      "name": "Flat Pack",
+      "url": "https://open.spotify.com/track/7q18RAxFkjWQZs5HhdlafS"
     },
     {
       "added_at": null,

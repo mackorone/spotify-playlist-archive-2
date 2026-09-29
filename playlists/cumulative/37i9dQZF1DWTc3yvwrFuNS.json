@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Spotify Live Room",
+        "url": "https://open.spotify.com/album/0F6WmHuS2Cohk0rnnOv879"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "Do What\u2019s Right (Happy) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/7aFuo1wnHfOKRPhJpjNajO"
+    },
+    {
+      "album": {
         "name": "Drifting (Spotify OUTSIDE Version) - Live from West Hollywood, CA",
         "url": "https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc"
       },
@@ -536,6 +554,24 @@
       "duration_ms": 172716,
       "name": "RATHER BE - (Spotify OUTSIDE Version) - Live from the Mojave Desert",
       "url": "https://open.spotify.com/track/091jGhOpX0hLeA6Eb2Nx1p"
+    },
+    {
+      "album": {
+        "name": "Spotify Live Room",
+        "url": "https://open.spotify.com/album/0F6WmHuS2Cohk0rnnOv879"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121285,
+      "name": "Rock Music (Charli xcx Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/4J62QmekihT148lFst657R"
     },
     {
       "album": {

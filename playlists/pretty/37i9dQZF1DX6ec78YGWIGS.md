@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Lali
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,615 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,626 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [1Amor \(EN VIVO\)](https://open.spotify.com/track/4RBzomoRZLlMkKi7eQCGXL) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [1Amor \(EN VIVO\)](https://open.spotify.com/album/5XQPV37vXjc2dneQIiGzvv) | 1:52 |
+| 1 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 |
 | 2 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 | 3 | [Me Gusta](https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Gusta](https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg) | 2:37 |
 | 4 | [Berlín](https://open.spotify.com/track/1SUGOWZuixBXBUEDYN6hMu) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [Berlín](https://open.spotify.com/album/1AQmeupkRUvsHtKCRzg3Mh) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Solifican12](https://open.spotify.com/track/4fDmgQfKMY7GcAwp2nNoQ0) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 2:47 |
 | 100 | [SHEITE](https://open.spotify.com/track/7uAYxv8bvhC6S1cG2Meb1V) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [SHEITE](https://open.spotify.com/album/1bqLzseLTYvip4HTcqChsP) | 2:12 |
 
-Snapshot ID: `AAAAAHi7oWKkxGzMojufyUoGtJ19aJHM`
+Snapshot ID: `AAAAAGBKkqeB6B1BAKyHMxqAZ9se6JHy`

@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 146481,
+  "num_followers": 146486,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAACwiEYoGXsr3L62U9Bj9hGM",
+  "snapshot_id": "arhcgAAAAABeD8mLlMKRoFD1lyM2tvY1",
   "tracks": [
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 273400,
-      "name": "S\u00f3pleme usted primero",
-      "url": "https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp"
+      "duration_ms": 253173,
+      "name": "El enmascarado de l\u00e1tex",
+      "url": "https://open.spotify.com/track/7HyvbAo2u4mpPCc2qC8UtV"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 253173,
-      "name": "El enmascarado de l\u00e1tex",
-      "url": "https://open.spotify.com/track/7HyvbAo2u4mpPCc2qC8UtV"
+      "duration_ms": 273400,
+      "name": "S\u00f3pleme usted primero",
+      "url": "https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp"
     },
     {
       "added_at": null,

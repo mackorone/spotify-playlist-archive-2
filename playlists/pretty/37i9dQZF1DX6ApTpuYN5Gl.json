@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 242422,
+  "num_followers": 242417,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -975,18 +975,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7g2wZD8Data7oGSt3ElMRJ"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+        },
+        {
+          "name": "Ava June",
+          "url": "https://open.spotify.com/artist/31IfzLl0YTTkazic625UQV"
         }
       ],
-      "duration_ms": 198312,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
+      "duration_ms": 240066,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6AIMiXP9fD6e9JTc1hbcvy"
     }
   ],
   "unique_name": "melancholia",

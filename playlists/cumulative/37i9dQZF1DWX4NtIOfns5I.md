@@ -4,7 +4,7 @@
 
 > it's finally folk weather 🍂
 
-917 songs - 2 day 7 hr 17 min
+918 songs - 2 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 | 2025-03-21 | 2025-08-09 |
 | [feels like i'm changing](https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [juliet](https://open.spotify.com/album/3bO8aWJrQzvUZE4kaAvaWh) | 2:49 | 2024-09-06 | 2025-04-05 |
 | [Feet On The Sand](https://open.spotify.com/track/7BekKBRhD7H6rLgzZ0szIJ) | [Alice Costelloe](https://open.spotify.com/artist/1xbZZl0gYutFPyiUAXuJLy) | [Move On With The Year](https://open.spotify.com/album/5JMt8gvc13TSA5YCm9Hwe3) | 5:57 | 2026-02-06 | 2026-04-18 |
+| [feral heart](https://open.spotify.com/track/20z8yDLhoR9Q8TbeH14x6x) | [Ha Vay](https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt) | [feral heart](https://open.spotify.com/album/7G8UGE0tLWr96toFCvlPjo) | 3:17 | 2026-09-28 |  |
 | [Fingers and Clothes](https://open.spotify.com/track/4HHRljxDiaRgVKQBXEC7b0) | [Jake Minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [George](https://open.spotify.com/album/2WCrgpZ3OFFyNj8M0wRgz6) | 3:01 | 2025-12-01 | 2026-06-13 |
 | [Finish Line](https://open.spotify.com/track/4tGVYB2GmhidTUN7hv6Rwt) | [Sean Solomon](https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3) | [Finish Line](https://open.spotify.com/album/69yBujeTPGK2rC2qFcdS9X) | 3:20 | 2026-04-17 |  |
 | [First Date Conversations \(For the Healthy Young Professional\)](https://open.spotify.com/track/7E3gvkRgBkjsGQr2N4bjIq) | [Jake Bardin](https://open.spotify.com/artist/6au2CHviUD4hfqI9UAPLgo) | [First Date Conversations \(For the Healthy Young Professional\)](https://open.spotify.com/album/4v1cJPYanw5ODSVbsC9Oum) | 3:09 | 2023-10-06 | 2024-03-16 |

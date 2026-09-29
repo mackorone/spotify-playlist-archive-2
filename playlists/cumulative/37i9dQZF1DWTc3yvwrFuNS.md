@@ -4,7 +4,7 @@
 
 > Videos from our studio and live sessions\. Music videos available only on Premium\. Cover: Kehlani
 
-37 songs - 2 hr 8 min
+39 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Big Girls Don't Cry \(Fergie Cover\) \[Spotify Live Room\]](https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 4:51 | 2026-08-13 |  |
 | [Blackout Drunk \(Spotify OUTSIDE Version\) \- Live from Ojai, CA](https://open.spotify.com/track/4UNPiA1Fy8LCCXDjv1z4QG) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [SPOTIFY OUTSIDE](https://open.spotify.com/album/3hXNqpeNR603puVaRFMLfI) | 2:45 | 2026-05-08 |  |
 | [Buddy Holly \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 2:43 | 2026-05-08 |  |
+| [Do What’s Right \(Happy\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/7aFuo1wnHfOKRPhJpjNajO) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Spotify Live Room](https://open.spotify.com/album/0F6WmHuS2Cohk0rnnOv879) | 4:05 | 2026-09-28 |  |
 | [Drifting](https://open.spotify.com/track/0xOdxoAIMvT1xvOIodlKqO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Drifting \(Spotify OUTSIDE Version\) \- Live from West Hollywood, CA](https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc) | 4:23 | 2026-05-08 | 2026-05-16 |
 | [Drifting \- \(Spotify OUTSIDE Version\) \- Live from West Hollywood, CA](https://open.spotify.com/track/2PUXoqVN9bh9QEZaVsb8fe) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Drifting \(Spotify OUTSIDE Version\) \- Live from West Hollywood, CA](https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc) | 4:16 | 2026-05-15 |  |
 | [Día de Enero \- Spotify Anniversary Version](https://open.spotify.com/track/1tXZylFuEsD84CSVvswZJD) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 2:52 | 2026-05-08 |  |
@@ -37,6 +38,7 @@
 | [Pies Descalzos, Sueños Blancos \- Spotify Anniversary Version](https://open.spotify.com/track/6ehebXUTI8jx1kodxfE11a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:04 | 2026-05-08 |  |
 | [Play It Out \(Live\) \- Spotify Live Room](https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Wolf Alice \- Spotify Live Room](https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm) | 3:58 | 2026-05-08 |  |
 | [RATHER BE \- \(Spotify OUTSIDE Version\) \- Live from the Mojave Desert](https://open.spotify.com/track/091jGhOpX0hLeA6Eb2Nx1p) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify OUTSIDE](https://open.spotify.com/album/3syXCMQNzgnpvaHFG5QsoX) | 2:52 | 2026-05-08 |  |
+| [Rock Music \(Charli xcx Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/4J62QmekihT148lFst657R) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Spotify Live Room](https://open.spotify.com/album/0F6WmHuS2Cohk0rnnOv879) | 2:01 | 2026-09-28 |  |
 | [Say It Ain't So \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/5yNwnJeSPgDGSdvuCf44g0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 4:17 | 2026-05-08 |  |
 | [Solid Country Gold \- \(Spotify OUTSIDE Version\) \- Live From Austin, TX](https://open.spotify.com/track/6IDAnpCGdg8KUuJ3Ysz7LY) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Spotify OUTSIDE](https://open.spotify.com/album/7McukhbTTBeqoQXWH1kISF) | 3:00 | 2026-05-08 |  |
 | [Surf Wax America \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/6HHVEg2gVXgqPpDaE5sLVr) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 3:05 | 2026-05-08 |  |

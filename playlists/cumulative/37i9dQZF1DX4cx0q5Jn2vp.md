@@ -4,7 +4,7 @@
 
 > <3<3<3<3
 
-321 songs - 19 hr 3 min
+322 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-06-11 | 2024-07-03 |
 | [My Favorite Movie](https://open.spotify.com/track/4rogQcTh9fZvqH6aCUGxuB) | [Gilyan Saludes](https://open.spotify.com/artist/0O9bX2IzP7MxBcpAel5twJ) | [My Favorite Movie](https://open.spotify.com/album/12FgPn7XtNi0REhdTw4DMG) | 3:50 | 2022-04-04 | 2022-07-28 |
 | [My Favorite Notif](https://open.spotify.com/track/5XndcBTDPWVDc11EkHkS1L) | [UNO](https://open.spotify.com/artist/0ZidGKZEuWMKpVIlCAJOlt) | [My Favorite Notif](https://open.spotify.com/album/3Ib1iIvfwsJApPVxYCGhWk) | 3:12 | 2026-09-02 | 2026-09-26 |
+| [Na Para Bang](https://open.spotify.com/track/5U3UOiWDos9P2NWV7xTNwJ) | [Mariah Deborah](https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv) | [Na Para Bang](https://open.spotify.com/album/3PEV15iBgqpsdyUVT5pj4x) | 3:48 | 2026-09-29 |  |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-09-13 | 2024-04-19 |
 | [Nahuhulog](https://open.spotify.com/track/0R6lC6F082eap1AJd8W54d) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/07p7jUJyKz9qVwieHNpxs8) | 3:47 | 2023-08-09 | 2023-09-17 |
 | [Nahuhulog](https://open.spotify.com/track/2eKTYFbXJWS56VRiuFLp0a) | [JUSWA](https://open.spotify.com/artist/22yUwz3v65LeUJSHC3DeGs) | [Nahuhulog](https://open.spotify.com/album/2oPM69Xyu6aJUBWKJPzyMU) | 3:10 | 2025-12-08 | 2026-01-15 |
@@ -309,7 +310,7 @@
 | [Walang Aminan](https://open.spotify.com/track/17fq6LtVwn5AvyAkVZZL4z) | [huhsmile](https://open.spotify.com/artist/66jyWeUhy75IiWKCvAakuA) | [Walang Aminan](https://open.spotify.com/album/2vJjKU0dCcpILifHOCfTq9) | 2:34 | 2022-04-04 | 2022-06-17 |
 | [Walang Makakapigil](https://open.spotify.com/track/6oRmtR7rTj2Q1iBUznWAC6) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs) | [Walang Makakapigil](https://open.spotify.com/album/5Z0VcH5lbFKdi5YXISNa2u) | 3:09 | 2025-11-17 | 2025-12-02 |
 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 | 2026-09-25 |  |
-| [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2022-06-27 |  |
+| [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2022-06-27 | 2026-09-29 |
 | [What Am I](https://open.spotify.com/track/1HimGOB6BjOaCQYMIF1xtU) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [What Am I](https://open.spotify.com/album/6IEEEv0mmFYPjhATWKYZRE) | 3:04 | 2022-04-04 | 2022-07-27 |
 | [What U Need](https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [What U Need](https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U) | 2:49 | 2024-12-04 | 2024-12-17 |
 | [When I Met You](https://open.spotify.com/track/3lQZqPra1JlUu0y4FK8C09) | [Kyle Juliano](https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5) | [When I Met You](https://open.spotify.com/album/7ulGRpaGZeVAARXKPZCD6w) | 4:37 | 2022-06-27 | 2022-09-06 |

@@ -4,7 +4,7 @@
 
 > Lo más fresco de los corridones\. Equipo HC en portada.
 
-1,973 songs - 4 day 3 hr 56 min
+1,974 songs - 4 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1516,7 +1516,7 @@
 | [NO VAN A PODER](https://open.spotify.com/track/2sera6DORQyNvftXa0UhDL) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Va Pa Largo 2](https://open.spotify.com/album/2hUFEj13uquBzCLjj7zlAB) | 3:13 | 2025-08-15 | 2025-11-15 |
 | [No Van a Tumbarnos \- En Vivo](https://open.spotify.com/track/7hKyv8D74xbfSCzUQjuhks) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [No Van a Tumbarnos \(En Vivo\)](https://open.spotify.com/album/0dvPiQeIjisT1lUtGeiUpC) | 3:28 | 2023-04-07 | 2023-04-29 |
 | [No Voy Por Liebres](https://open.spotify.com/track/4CnivtlUhP5k87ktibg0Ct) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Kevin Lopez](https://open.spotify.com/artist/1xpWfwgZXW72L0odnGqZc0) | [No Voy Por Liebres](https://open.spotify.com/album/0l7lDWn6Hdj5dAJylWKxYB) | 3:34 | 2023-06-23 | 2023-07-08 |
-| [NOCTA](https://open.spotify.com/track/7pBnjUcDqKYbHOO071M2Ew) | [Chivo XVI](https://open.spotify.com/artist/518vS5pfFlwOFzzCxSqHFs), [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [NOCTA](https://open.spotify.com/album/5BKtbQ9TuX53d4nsCypQZZ) | 2:59 | 2026-07-03 |  |
+| [NOCTA](https://open.spotify.com/track/7pBnjUcDqKYbHOO071M2Ew) | [Chivo XVI](https://open.spotify.com/artist/518vS5pfFlwOFzzCxSqHFs), [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [NOCTA](https://open.spotify.com/album/5BKtbQ9TuX53d4nsCypQZZ) | 2:59 | 2026-07-03 | 2026-09-29 |
 | [Nomas Pa Que Sepan](https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [Nomas Pa Que Sepan](https://open.spotify.com/album/5d4Z3mg8EZCx5jwOSQJWpY) | 2:49 | 2026-03-27 | 2026-07-18 |
 | [Noruega](https://open.spotify.com/track/2tmFNOYiBXllSBmfdm6OF5) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Noruega](https://open.spotify.com/album/728gIavs2Kutq5E8FuiPCC) | 2:35 | 2023-10-27 | 2023-12-23 |
 | [Nos Dicen Los Alfreditos \(En Vivo\)](https://open.spotify.com/track/45yghJ5TkgBOacU5UIA7ME) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Nos Dicen Los Alfreditos \(En Vivo\)](https://open.spotify.com/album/7yv1jR6SDrCH3Ao5OxkmSe) | 2:55 | 2023-04-28 | 2023-06-03 |
@@ -1808,6 +1808,7 @@
 | [Soy Mariguano \- En Vivo](https://open.spotify.com/track/7rGfGH1rbUednj2PuOHAbf) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Soy Mariguano \(En Vivo\)](https://open.spotify.com/album/7htszKIYR8rgjTtf1hs9Y4) | 2:55 | 2023-06-16 | 2023-07-01 |
 | [Soy Nayarita](https://open.spotify.com/track/0YkJpBbsTm7oY7jfqrFZ6A) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Soy Nayarita](https://open.spotify.com/album/3DTxuAjvu0P7tZlEmdA6Pv) | 3:09 | 2022-12-09 | 2022-12-24 |
 | [Soy Rencoroso](https://open.spotify.com/track/5vmD1Wz4sXwlYdtRd991eB) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Soy Rencoroso](https://open.spotify.com/album/3C9p8aflFObx9nDH1hFYnR) | 3:33 | 2023-03-03 | 2023-04-09 |
+| [Soy Un Joven](https://open.spotify.com/track/2FlYT9gGYsfeRp3x6R1sdn) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [The Gemeliza](https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM) | 2:36 | 2026-09-28 |  |
 | [Soy VIP](https://open.spotify.com/track/4Kn7o7LfvnQS9khdDgm05a) | [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Soy VIP](https://open.spotify.com/album/3sIb7P0k12l1IaThmLPzkV) | 3:01 | 2024-05-24 | 2024-07-19 |
 | [SR\. SMITH](https://open.spotify.com/track/1qrhpxdnC4nUCyFefPVCDa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:41 | 2024-06-21 | 2024-12-07 |
 | [SRT](https://open.spotify.com/track/35Z5UYDKI5tyEfEsGMMRaz) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SRT](https://open.spotify.com/album/0NK19kHjoL1Akoyo234nVt) | 2:54 | 2024-12-06 | 2025-02-22 |

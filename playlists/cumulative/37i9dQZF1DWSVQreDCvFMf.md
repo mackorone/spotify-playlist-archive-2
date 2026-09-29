@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Mariah Deborah
 
-1,103 songs - 2 day 20 hr 15 min
+1,104 songs - 2 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Huli Na Ba Ang Lahat?](https://open.spotify.com/track/1KPwDC5T93NQsrqR5QXiKw) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Huli Na Ba Ang Lahat?](https://open.spotify.com/album/30HSXwqaY5H8BWofJok9PL) | 4:50 | 2026-02-20 | 2026-04-18 |
 | [Huling Pag\-Ibig](https://open.spotify.com/track/11glrCyEw3LnLxf1M6KB34) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Huling Pag\-Ibig](https://open.spotify.com/album/57Af2Iv4CAwiJmpD4ClLbi) | 3:56 | 2025-05-23 | 2025-10-25 |
 | [Huling Sandali](https://open.spotify.com/track/5leZwTgwMob3NysJNsfU1a) | [Kenan](https://open.spotify.com/artist/5MJysZm1qR5X7MmUe2QkB0) | [Huling Sandali](https://open.spotify.com/album/4bqt2PYRqVqupYG6ItVoSI) | 4:44 | 2025-12-05 | 2026-02-21 |
-| [hulog](https://open.spotify.com/track/3qIqMxhU45MJeXQ0mZVb7k) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [hulog](https://open.spotify.com/album/7xu1kdp7A9oUVx887hS1gp) | 2:51 | 2026-06-26 |  |
+| [hulog](https://open.spotify.com/track/3qIqMxhU45MJeXQ0mZVb7k) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [hulog](https://open.spotify.com/album/7xu1kdp7A9oUVx887hS1gp) | 2:51 | 2026-06-26 | 2026-09-29 |
 | [Humahalik](https://open.spotify.com/track/0zEn6vTXSk2is5l6kpDe0Z) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Humahalik](https://open.spotify.com/album/09gZvZkIXdW5mEmQwie7hF) | 3:55 | 2025-09-19 | 2025-11-29 |
 | [Hunyo '97](https://open.spotify.com/track/3D4qbZwiUGkWP4GayyvQ0t) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Hunyo '97](https://open.spotify.com/album/3ha1EK7hAQbQlGHow0HgQe) | 5:45 | 2025-01-01 | 2025-04-17 |
 | [Huwag Nalang Ako](https://open.spotify.com/track/1aJDaiFJE6gVDyUSswIf3e) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Echoes of Time](https://open.spotify.com/album/38jL04jbe3qr2cgjkrVSLb) | 3:18 | 2026-09-04 |  |
@@ -419,6 +419,7 @@
 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 | 2025-06-13 | 2025-10-25 |
 | [Kahit 1 month pa lang](https://open.spotify.com/track/4zx0T8X11XdeyHntqRPLeX) | [Hattus](https://open.spotify.com/artist/0jFhoFzinngkDsmalRO9mP), [Eunice Rain](https://open.spotify.com/artist/6bd7dF5PF46dezapDpHouS) | [Kahit 1 month pa lang](https://open.spotify.com/album/4lV3xMGinhtp7SEybSEZTe) | 2:27 | 2025-10-15 | 2026-02-14 |
 | [Kahit May Kilig](https://open.spotify.com/track/5t5hnWYT7KpZUVeBdclV12) | [Hi\-C](https://open.spotify.com/artist/0iFUpccD5oMiH6RUDr2gsx) | [Kahit May Kilig](https://open.spotify.com/album/6IRH4QvjByBTaxiPsapX0w) | 3:27 | 2026-02-07 | 2026-03-21 |
+| [Kahit Na Umulan](https://open.spotify.com/track/43AjF7Xceu7Jr8hH2vriS1) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Kahit Na Umulan](https://open.spotify.com/album/3ox7wTdG2LreH3lsq8rSnG) | 4:02 | 2026-09-28 |  |
 | [Kahit Ngayon Lang](https://open.spotify.com/track/6Ai5wV1nAp1n7wj3IfLtl4) | [Kael Guerrero](https://open.spotify.com/artist/3Lcxk1qxmoKXVMxKSR4aWQ) | [Kahit Ngayon Lang](https://open.spotify.com/album/56OUvAVJcymBwTXCDulFsD) | 3:41 | 2024-12-16 | 2025-03-01 |
 | [Kahit Sa Malayo](https://open.spotify.com/track/6p2tmmNiAp5G46HUvUI37C) | [Gloryen](https://open.spotify.com/artist/1ADf5He5TcWVOU2NLIuBbU) | [Kahit Sa Malayo](https://open.spotify.com/album/60lea1TaQxzH1hrddrnb7z) | 4:44 | 2025-06-20 | 2025-10-25 |
 | [Kahit Saglit](https://open.spotify.com/track/7GtJ65ONCbbcDYizn9T4lE) | [Similar Sky](https://open.spotify.com/artist/5v3Pm6onpGC3AHLCO6Da45) | [Kahit Saglit](https://open.spotify.com/album/7rMoGXai8iHlLPxzyvAGW5) | 3:33 | 2024-08-02 | 2024-11-09 |

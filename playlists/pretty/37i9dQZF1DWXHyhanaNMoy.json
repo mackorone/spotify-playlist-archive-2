@@ -1,12 +1,12 @@
 {
   "description": "Motion & good vibes! Cover: Issah",
-  "num_followers": 333988,
+  "num_followers": 333991,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE+eI7njJVi5FHWx4KdiY3RY1XDR",
+  "snapshot_id": "AAAAAFjt3VgnTqtaqa+che7doqMiSA4b",
   "tracks": [
     {
       "added_at": "2026-09-24 22:01:20",
@@ -23,6 +23,22 @@
       "duration_ms": 125536,
       "name": "BADDIES IN BELGICA",
       "url": "https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE"
+    },
+    {
+      "added_at": "2026-09-24 22:01:20",
+      "album": {
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 106909,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
     },
     {
       "added_at": "2026-09-24 22:01:20",
@@ -47,22 +63,6 @@
       "duration_ms": 142031,
       "name": "WASABi",
       "url": "https://open.spotify.com/track/0rGvB4wGVmJP2xJPH5BFDN"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "SLICK",
-        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 106909,
-      "name": "SLICK",
-      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
     },
     {
       "added_at": "2026-09-24 22:01:20",
@@ -159,6 +159,26 @@
     {
       "added_at": "2026-09-24 22:01:20",
       "album": {
+        "name": "VOODOO",
+        "url": "https://open.spotify.com/album/3ecBewVWWL3H9lmqD2Jh5I"
+      },
+      "artists": [
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 120920,
+      "name": "VOODOO",
+      "url": "https://open.spotify.com/track/1m6CMEuJPdFJolVZOyuuy8"
+    },
+    {
+      "added_at": "2026-09-24 22:01:20",
+      "album": {
         "name": "Sant\u00e9",
         "url": "https://open.spotify.com/album/61Nzzb8k9ZOw8Us2x2J1Rb"
       },
@@ -183,50 +203,22 @@
     {
       "added_at": "2026-09-24 22:01:20",
       "album": {
-        "name": "VOODOO",
-        "url": "https://open.spotify.com/album/3ecBewVWWL3H9lmqD2Jh5I"
+        "name": "CLUB IS BOM",
+        "url": "https://open.spotify.com/album/0Ny7MI5x5AJ28qfxxFjwM8"
       },
       "artists": [
         {
-          "name": "Carel",
-          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+          "name": "Babel-Ish",
+          "url": "https://open.spotify.com/artist/1fVUzi8EF2oGNzPuP7g7EG"
         },
         {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "LorryRast",
+          "url": "https://open.spotify.com/artist/5vjMyJWKTvMpRxR9XzQYqO"
         }
       ],
-      "duration_ms": 120920,
-      "name": "VOODOO",
-      "url": "https://open.spotify.com/track/1m6CMEuJPdFJolVZOyuuy8"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "K*tje Likken",
-        "url": "https://open.spotify.com/album/44ViY4CKKodbSNieEsV0qt"
-      },
-      "artists": [
-        {
-          "name": "IMMO",
-          "url": "https://open.spotify.com/artist/4u4FCKbVpmElVrIlqpBSjm"
-        },
-        {
-          "name": "TAVV",
-          "url": "https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM"
-        },
-        {
-          "name": "Beckie",
-          "url": "https://open.spotify.com/artist/26vgmDQj9sciypmPvShds8"
-        },
-        {
-          "name": "Ori",
-          "url": "https://open.spotify.com/artist/4yAg1949MQjAQD087hLdt1"
-        }
-      ],
-      "duration_ms": 128611,
-      "name": "K*tje Likken",
-      "url": "https://open.spotify.com/track/6LOI58zBN2myBRbygbnDMe"
+      "duration_ms": 105831,
+      "name": "CLUB IS BOM",
+      "url": "https://open.spotify.com/track/0QZ9NyYRgNwXqeVahHnxvD"
     },
     {
       "added_at": "2026-09-24 22:01:20",
@@ -267,30 +259,6 @@
       "duration_ms": 166159,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Ze zijn Jarig",
-        "url": "https://open.spotify.com/album/2HELeBYiib0RchcZZJ94Mj"
-      },
-      "artists": [
-        {
-          "name": "Elka $ava",
-          "url": "https://open.spotify.com/artist/0IXfAEtMWooymMr5x9TIs7"
-        },
-        {
-          "name": "Aptijt",
-          "url": "https://open.spotify.com/artist/0ELGXwQP9ojdXEwL8ZjkQn"
-        },
-        {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Ze zijn Jarig",
-      "url": "https://open.spotify.com/track/2zEOqCPT93dIwiCANEziZE"
     },
     {
       "added_at": "2026-09-24 22:01:20",
@@ -339,6 +307,34 @@
     {
       "added_at": "2026-09-24 22:01:20",
       "album": {
+        "name": "K*tje Likken",
+        "url": "https://open.spotify.com/album/44ViY4CKKodbSNieEsV0qt"
+      },
+      "artists": [
+        {
+          "name": "IMMO",
+          "url": "https://open.spotify.com/artist/4u4FCKbVpmElVrIlqpBSjm"
+        },
+        {
+          "name": "TAVV",
+          "url": "https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM"
+        },
+        {
+          "name": "Beckie",
+          "url": "https://open.spotify.com/artist/26vgmDQj9sciypmPvShds8"
+        },
+        {
+          "name": "Ori",
+          "url": "https://open.spotify.com/artist/4yAg1949MQjAQD087hLdt1"
+        }
+      ],
+      "duration_ms": 128611,
+      "name": "K*tje Likken",
+      "url": "https://open.spotify.com/track/6LOI58zBN2myBRbygbnDMe"
+    },
+    {
+      "added_at": "2026-09-24 22:01:20",
+      "album": {
         "name": "Baddies Club",
         "url": "https://open.spotify.com/album/7gzD8uQEkDLWRPzsNh4iPo"
       },
@@ -371,22 +367,26 @@
     {
       "added_at": "2026-09-24 22:01:20",
       "album": {
-        "name": "CLUB IS BOM",
-        "url": "https://open.spotify.com/album/0Ny7MI5x5AJ28qfxxFjwM8"
+        "name": "Ze zijn Jarig",
+        "url": "https://open.spotify.com/album/2HELeBYiib0RchcZZJ94Mj"
       },
       "artists": [
         {
-          "name": "Babel-Ish",
-          "url": "https://open.spotify.com/artist/1fVUzi8EF2oGNzPuP7g7EG"
+          "name": "Elka $ava",
+          "url": "https://open.spotify.com/artist/0IXfAEtMWooymMr5x9TIs7"
         },
         {
-          "name": "LorryRast",
-          "url": "https://open.spotify.com/artist/5vjMyJWKTvMpRxR9XzQYqO"
+          "name": "Aptijt",
+          "url": "https://open.spotify.com/artist/0ELGXwQP9ojdXEwL8ZjkQn"
+        },
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
         }
       ],
-      "duration_ms": 105831,
-      "name": "CLUB IS BOM",
-      "url": "https://open.spotify.com/track/0QZ9NyYRgNwXqeVahHnxvD"
+      "duration_ms": 179200,
+      "name": "Ze zijn Jarig",
+      "url": "https://open.spotify.com/track/2zEOqCPT93dIwiCANEziZE"
     },
     {
       "added_at": "2026-09-24 22:01:20",
@@ -447,6 +447,26 @@
       "duration_ms": 155294,
       "name": "Gun Me",
       "url": "https://open.spotify.com/track/4Aeb37AXzOxqP25gPREyQH"
+    },
+    {
+      "added_at": "2026-09-24 22:01:20",
+      "album": {
+        "name": "DJ ROFFA (LIVE @ FLEX FM)",
+        "url": "https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "duration_ms": 150941,
+      "name": "VONK",
+      "url": "https://open.spotify.com/track/272LHoUTjBH084rYEZ3X4T"
     },
     {
       "added_at": "2026-09-24 22:01:20",
@@ -515,26 +535,6 @@
     {
       "added_at": "2026-09-24 22:01:20",
       "album": {
-        "name": "DJ ROFFA (LIVE @ FLEX FM)",
-        "url": "https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        }
-      ],
-      "duration_ms": 150941,
-      "name": "VONK",
-      "url": "https://open.spotify.com/track/272LHoUTjBH084rYEZ3X4T"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
         "name": "Babacan",
         "url": "https://open.spotify.com/album/7djwdUEwFmuQMhDHjUnndN"
       },
@@ -575,6 +575,26 @@
       "duration_ms": 149760,
       "name": "DJ",
       "url": "https://open.spotify.com/track/4l8JVJZKAjvCd4Uo45ueiY"
+    },
+    {
+      "added_at": "2026-09-24 22:01:20",
+      "album": {
+        "name": "Stupid (Move It)",
+        "url": "https://open.spotify.com/album/6mw5Lz20a0Nrn0j18rc4pk"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 123573,
+      "name": "Stupid (Move It)",
+      "url": "https://open.spotify.com/track/6kfsiJ3wSS97qM0oQxey2n"
     },
     {
       "added_at": "2026-09-24 22:01:20",
@@ -695,26 +715,6 @@
       "duration_ms": 143076,
       "name": "Nala Flow",
       "url": "https://open.spotify.com/track/0pMjcIJm6NMsIIG2RBdnPj"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Stupid (Move It)",
-        "url": "https://open.spotify.com/album/6mw5Lz20a0Nrn0j18rc4pk"
-      },
-      "artists": [
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 123573,
-      "name": "Stupid (Move It)",
-      "url": "https://open.spotify.com/track/6kfsiJ3wSS97qM0oQxey2n"
     },
     {
       "added_at": "2026-09-24 22:01:20",
@@ -1055,74 +1055,6 @@
     {
       "added_at": "2026-09-24 22:01:20",
       "album": {
-        "name": "Destin\u00e9e Supremacy",
-        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 150511,
-      "name": "La p\u00e9tasse",
-      "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Spoilen",
-        "url": "https://open.spotify.com/album/6fDkEXhvO2ABPYGuRpsZYD"
-      },
-      "artists": [
-        {
-          "name": "Stanga",
-          "url": "https://open.spotify.com/artist/6cnlzMlMZJtZMKROe8wNwZ"
-        },
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/4fETIXsKMsonclRBVrUGe4"
-        },
-        {
-          "name": "Coldcase",
-          "url": "https://open.spotify.com/artist/3IYJJywEefHtO0WnPs5mkI"
-        }
-      ],
-      "duration_ms": 207857,
-      "name": "Spoilen",
-      "url": "https://open.spotify.com/track/1G6VgvEO8hQ1cDsoeIIutM"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
-        "name": "Ben Binnen",
-        "url": "https://open.spotify.com/album/700vt7p4iv203FNrCDRPyj"
-      },
-      "artists": [
-        {
-          "name": "Veertien",
-          "url": "https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo"
-        },
-        {
-          "name": "Elf",
-          "url": "https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0"
-        },
-        {
-          "name": "Topperig",
-          "url": "https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu"
-        },
-        {
-          "name": "Sanchoo",
-          "url": "https://open.spotify.com/artist/7lDLBZDvWODgYSWYG9ZiBI"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Ben Binnen",
-      "url": "https://open.spotify.com/track/0HIusHq6F43gP0Wc0xgnK1"
-    },
-    {
-      "added_at": "2026-09-24 22:01:20",
-      "album": {
         "name": "PLECHE",
         "url": "https://open.spotify.com/album/4f8HNZUBCy103UG6GPBOJu"
       },
@@ -1375,6 +1307,74 @@
       "duration_ms": 154455,
       "name": "Like That",
       "url": "https://open.spotify.com/track/3oIdq3dNLGB6sHUKPTYqmm"
+    },
+    {
+      "added_at": "2026-09-24 22:01:20",
+      "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 150511,
+      "name": "La p\u00e9tasse",
+      "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
+    },
+    {
+      "added_at": "2026-09-24 22:01:20",
+      "album": {
+        "name": "Spoilen",
+        "url": "https://open.spotify.com/album/6fDkEXhvO2ABPYGuRpsZYD"
+      },
+      "artists": [
+        {
+          "name": "Stanga",
+          "url": "https://open.spotify.com/artist/6cnlzMlMZJtZMKROe8wNwZ"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/4fETIXsKMsonclRBVrUGe4"
+        },
+        {
+          "name": "Coldcase",
+          "url": "https://open.spotify.com/artist/3IYJJywEefHtO0WnPs5mkI"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "Spoilen",
+      "url": "https://open.spotify.com/track/1G6VgvEO8hQ1cDsoeIIutM"
+    },
+    {
+      "added_at": "2026-09-24 22:01:20",
+      "album": {
+        "name": "Ben Binnen",
+        "url": "https://open.spotify.com/album/700vt7p4iv203FNrCDRPyj"
+      },
+      "artists": [
+        {
+          "name": "Veertien",
+          "url": "https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo"
+        },
+        {
+          "name": "Elf",
+          "url": "https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0"
+        },
+        {
+          "name": "Topperig",
+          "url": "https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu"
+        },
+        {
+          "name": "Sanchoo",
+          "url": "https://open.spotify.com/artist/7lDLBZDvWODgYSWYG9ZiBI"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Ben Binnen",
+      "url": "https://open.spotify.com/track/0HIusHq6F43gP0Wc0xgnK1"
     },
     {
       "added_at": "2026-09-24 22:01:20",

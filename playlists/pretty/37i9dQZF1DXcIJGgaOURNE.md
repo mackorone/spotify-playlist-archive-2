@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,537 likes - 48 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,071 likes - 48 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 47 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 |
 | 48 | [This is your Life](https://open.spotify.com/track/3Bq8lk2qUwEt7RK5B0nvta) | [ishi vu](https://open.spotify.com/artist/1YUA9X2dr5rzNXdMCUa5rH) | [La Luz](https://open.spotify.com/album/2utsontyjBT4r8eNc1a7qm) | 5:52 |
 
-Snapshot ID: `AAAAALnkGIojjxJjjwap8ZVIfDRWK7Mc`
+Snapshot ID: `AAAAAEPvR+blyw/DJ9E4Kf1bIabpmVT2`

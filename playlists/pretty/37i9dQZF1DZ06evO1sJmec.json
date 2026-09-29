@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2125115,
+  "num_followers": 2125206,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAABNbchaabmOJl0rmCcx1HOu",
+  "snapshot_id": "arhcgAAAAABYuohrFkySbGexEz/styZt",
   "tracks": [
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 477026,
-      "name": "All Nightmare Long",
-      "url": "https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Master Of Puppets (Remastered)",
         "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 477026,
+      "name": "All Nightmare Long",
+      "url": "https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u2026And Justice for All (Remastered)",
         "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 385986,
       "name": "Eye of the Beholder",
       "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S&M",
-        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 343200,
-      "name": "No Leaf Clover - Live",
-      "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 343200,
+      "name": "No Leaf Clover - Live",
+      "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u2026And Justice for All (Remastered)",
         "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
@@ -799,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
       },
       "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        },
         {
           "name": "Metallica",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 86906,
-      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
-      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
+      "duration_ms": 339880,
+      "name": "Leper Messiah",
+      "url": "https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu"
     }
   ],
   "unique_name": "This Is Metallica",

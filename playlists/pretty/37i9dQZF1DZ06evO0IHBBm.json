@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAAAlF6YnTONmgSVdO+EcHxCx",
+  "snapshot_id": "arhcgAAAAABeTWgHH8Zfjp4TqZjn8H52",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 294226,
-      "name": "Ressuscita",
-      "url": "https://open.spotify.com/track/62VvRM3T2IdsjbBYJI6oqI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Maior Trof\u00e9u",
         "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 260013,
       "name": "Sou Teu Deus",
       "url": "https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 294226,
+      "name": "Ressuscita",
+      "url": "https://open.spotify.com/track/62VvRM3T2IdsjbBYJI6oqI"
     },
     {
       "added_at": null,

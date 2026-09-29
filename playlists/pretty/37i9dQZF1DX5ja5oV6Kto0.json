@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro fusion music: BLNDE",
-  "num_followers": 114040,
+  "num_followers": 114052,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,6 @@
     {
       "added_at": "2026-09-25 00:01:36",
       "album": {
-        "name": "Okunkun",
-        "url": "https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe"
-      },
-      "artists": [
-        {
-          "name": "Solana",
-          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
-        },
-        {
-          "name": "Killertunes",
-          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Okunkun",
-      "url": "https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9"
-    },
-    {
-      "added_at": "2026-09-25 00:01:36",
-      "album": {
         "name": "Not Lacoco (Scotty\u2019s Interlude)",
         "url": "https://open.spotify.com/album/7kG7P6nRTJp37oiLpbD9Gf"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 106086,
       "name": "Not Lacoco (Scotty\u2019s Interlude)",
       "url": "https://open.spotify.com/track/1pNytZRpbjHOAhcSnz8d6C"
+    },
+    {
+      "added_at": "2026-09-25 00:01:36",
+      "album": {
+        "name": "Okunkun",
+        "url": "https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        },
+        {
+          "name": "Killertunes",
+          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Okunkun",
+      "url": "https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9"
     },
     {
       "added_at": "2026-09-25 00:01:36",
@@ -387,26 +387,18 @@
     {
       "added_at": "2026-09-25 00:01:36",
       "album": {
-        "name": "BADDIES <3 MOLIY",
-        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
+        "name": "OLORIN PACK",
+        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
       },
       "artists": [
         {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
         }
       ],
-      "duration_ms": 170078,
-      "name": "ACCRA GIRLS",
-      "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
+      "duration_ms": 114461,
+      "name": "DEELA",
+      "url": "https://open.spotify.com/track/5rsXxjz8FQ1SZMjj7QZiYG"
     },
     {
       "added_at": "2026-09-25 00:01:36",
@@ -455,18 +447,26 @@
     {
       "added_at": "2026-09-25 00:01:36",
       "album": {
-        "name": "OLORIN PACK",
-        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
+        "name": "BADDIES <3 MOLIY",
+        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
       },
       "artists": [
         {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
         }
       ],
-      "duration_ms": 114461,
-      "name": "DEELA",
-      "url": "https://open.spotify.com/track/5rsXxjz8FQ1SZMjj7QZiYG"
+      "duration_ms": 170078,
+      "name": "ACCRA GIRLS",
+      "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
     },
     {
       "added_at": "2026-09-25 00:01:36",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-09-25 00:01:36",
       "album": {
+        "name": "0pay",
+        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "0pay",
+      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
+    },
+    {
+      "added_at": "2026-09-25 00:01:36",
+      "album": {
         "name": "Tight Rope",
         "url": "https://open.spotify.com/album/2ZeOk9yRVQfQ7actJcV5Jt"
       },
@@ -543,8 +559,8 @@
     {
       "added_at": "2026-09-25 00:01:36",
       "album": {
-        "name": "the yabz .",
-        "url": "https://open.spotify.com/album/4Xexx4IL82AAPyMpIQLc6J"
+        "name": "Sam Loco",
+        "url": "https://open.spotify.com/album/7hxSqSEadUIaVI73BGpsOg"
       },
       "artists": [
         {
@@ -552,17 +568,13 @@
           "url": "https://open.spotify.com/artist/2w34rjWGumCU3vOiCVd3J6"
         },
         {
-          "name": "Zen Univrse",
-          "url": "https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 102240,
-      "name": "the yabz .",
-      "url": "https://open.spotify.com/track/7CX8ZUiOx53CbMtEH52E5S"
+      "duration_ms": 122448,
+      "name": "Sam Loco",
+      "url": "https://open.spotify.com/track/76TYCrrpDwUmj8PpleVcey"
     },
     {
       "added_at": "2026-09-25 00:01:36",
@@ -583,22 +595,6 @@
       "duration_ms": 117410,
       "name": "ar1gato 2 you",
       "url": "https://open.spotify.com/track/0F6r2VkKSiHn9i8p3tZJJS"
-    },
-    {
-      "added_at": "2026-09-25 00:01:36",
-      "album": {
-        "name": "0pay",
-        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "0pay",
-      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
     },
     {
       "added_at": "2026-09-25 00:01:36",
@@ -643,26 +639,6 @@
     {
       "added_at": "2026-09-25 00:01:36",
       "album": {
-        "name": "Sam Loco",
-        "url": "https://open.spotify.com/album/7hxSqSEadUIaVI73BGpsOg"
-      },
-      "artists": [
-        {
-          "name": "R33NZO",
-          "url": "https://open.spotify.com/artist/2w34rjWGumCU3vOiCVd3J6"
-        },
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 122448,
-      "name": "Sam Loco",
-      "url": "https://open.spotify.com/track/76TYCrrpDwUmj8PpleVcey"
-    },
-    {
-      "added_at": "2026-09-25 00:01:36",
-      "album": {
         "name": "International Collector / Oz.",
         "url": "https://open.spotify.com/album/3HEIDd1ULSIGXLySINdbaK"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 115470,
       "name": "International Collector",
       "url": "https://open.spotify.com/track/3loWkeEtVnG0RoJjkzm760"
+    },
+    {
+      "added_at": "2026-09-25 00:01:36",
+      "album": {
+        "name": "the yabz .",
+        "url": "https://open.spotify.com/album/4Xexx4IL82AAPyMpIQLc6J"
+      },
+      "artists": [
+        {
+          "name": "R33NZO",
+          "url": "https://open.spotify.com/artist/2w34rjWGumCU3vOiCVd3J6"
+        },
+        {
+          "name": "Zen Univrse",
+          "url": "https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "duration_ms": 102240,
+      "name": "the yabz .",
+      "url": "https://open.spotify.com/track/7CX8ZUiOx53CbMtEH52E5S"
     },
     {
       "added_at": "2026-09-25 00:01:36",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-09-25 00:01:36",
       "album": {
+        "name": "Love Stray",
+        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "duration_ms": 177968,
+      "name": "Deeper Than Love",
+      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
+    },
+    {
+      "added_at": "2026-09-25 00:01:36",
+      "album": {
         "name": "CHASE",
         "url": "https://open.spotify.com/album/1cg0O9A1WBH5AtojamA5r0"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 139856,
       "name": "CHASE",
       "url": "https://open.spotify.com/track/7zA485o80rElK5sOGJXHKv"
-    },
-    {
-      "added_at": "2026-09-25 00:01:36",
-      "album": {
-        "name": "Love Stray",
-        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 177968,
-      "name": "Deeper Than Love",
-      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
     },
     {
       "added_at": "2026-09-25 00:01:36",
@@ -911,30 +911,6 @@
     {
       "added_at": "2026-09-25 00:01:36",
       "album": {
-        "name": "JUNCTION",
-        "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        },
-        {
-          "name": "Winny",
-          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "WEEKEND",
-      "url": "https://open.spotify.com/track/5QFN7CeUL5B3a8gioAELdV"
-    },
-    {
-      "added_at": "2026-09-25 00:01:36",
-      "album": {
         "name": "A Street Kid's Diary",
         "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 223020,
       "name": "OTS",
       "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
+    },
+    {
+      "added_at": "2026-09-25 00:01:36",
+      "album": {
+        "name": "JUNCTION",
+        "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "WEEKEND",
+      "url": "https://open.spotify.com/track/5QFN7CeUL5B3a8gioAELdV"
     },
     {
       "added_at": "2026-09-25 00:01:36",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-09-25 00:01:36",
       "album": {
+        "name": "Ten Ten",
+        "url": "https://open.spotify.com/album/2S3DHXubpBKKAdlpz6VfCz"
+      },
+      "artists": [
+        {
+          "name": "Tmaro",
+          "url": "https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd"
+        }
+      ],
+      "duration_ms": 141250,
+      "name": "Ten Ten",
+      "url": "https://open.spotify.com/track/6o2i6XRwvtcan3Harp04Jw"
+    },
+    {
+      "added_at": "2026-09-25 00:01:36",
+      "album": {
         "name": "impossible",
         "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 121025,
       "name": "Dide",
       "url": "https://open.spotify.com/track/2wMklzdPVo20FNBwNB0Q6E"
-    },
-    {
-      "added_at": "2026-09-25 00:01:36",
-      "album": {
-        "name": "Ten Ten",
-        "url": "https://open.spotify.com/album/2S3DHXubpBKKAdlpz6VfCz"
-      },
-      "artists": [
-        {
-          "name": "Tmaro",
-          "url": "https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd"
-        }
-      ],
-      "duration_ms": 141250,
-      "name": "Ten Ten",
-      "url": "https://open.spotify.com/track/6o2i6XRwvtcan3Harp04Jw"
     },
     {
       "added_at": "2026-09-25 00:01:36",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-09-25 00:01:36",
       "album": {
-        "name": "Todo Bien",
-        "url": "https://open.spotify.com/album/3s2ZaTRY6eM2jsbyOo6MPv"
-      },
-      "artists": [
-        {
-          "name": "St. Seii",
-          "url": "https://open.spotify.com/artist/3WchDhIvtJqPB9zIVk48SV"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Todo Bien",
-      "url": "https://open.spotify.com/track/279MldTawVir8h259h43Mw"
-    },
-    {
-      "added_at": "2026-09-25 00:01:36",
-      "album": {
         "name": "LUCKY UU",
         "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 186818,
       "name": "The Midnight Wanderer",
       "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+    },
+    {
+      "added_at": "2026-09-25 00:01:36",
+      "album": {
+        "name": "Todo Bien",
+        "url": "https://open.spotify.com/album/3s2ZaTRY6eM2jsbyOo6MPv"
+      },
+      "artists": [
+        {
+          "name": "St. Seii",
+          "url": "https://open.spotify.com/artist/3WchDhIvtJqPB9zIVk48SV"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "Todo Bien",
+      "url": "https://open.spotify.com/track/279MldTawVir8h259h43Mw"
     },
     {
       "added_at": "2026-09-25 00:01:36",

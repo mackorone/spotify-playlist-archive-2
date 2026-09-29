@@ -4,7 +4,7 @@
 
 > mindful genieten 🌱\. Cover: Sarah Julia
 
-333 songs - 19 hr 53 min
+334 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2025-07-03 | 2025-11-21 |
 | [Anything He Was](https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Anything He Was](https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV) | 3:59 | 2026-07-07 |  |
 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 | 2024-06-27 | 2025-12-12 |
-| [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 | 2025-06-05 |  |
+| [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 | 2025-06-05 | 2026-09-29 |
 | [At The Doorstep](https://open.spotify.com/track/3evxjPveHGuE03icXo1iQu) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Robin Wander Smit](https://open.spotify.com/artist/64xvDazGTL9SE8nc7BVWJp) | [At The Doorstep](https://open.spotify.com/album/6OQOHKIJt0CZ7KB90i3or7) | 3:15 | 2024-06-27 | 2024-10-04 |
 | [Autopilot](https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Paradise Pop\. 10](https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU) | 3:24 | 2025-01-23 | 2025-02-24 |
 | [AWARDS SEASON](https://open.spotify.com/track/0QOs67pGVjeCdUpzato35p) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-07-03 |  |
@@ -215,6 +215,7 @@
 | [Old Fashioned Parade](https://open.spotify.com/track/4GF989jpzXhdUbDW8yGEO4) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [Old Fashioned Parade](https://open.spotify.com/album/2GnftziZGeLkdME4YYmzBR) | 3:18 | 2024-06-27 | 2025-01-24 |
 | [Old Fort Steel Trail](https://open.spotify.com/track/4kcsDPAER6xQl8WFyWP1gr) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Old Fort Steel Trail](https://open.spotify.com/album/7larsH6AfaDqGW4y4JBx5a) | 2:29 | 2025-12-11 |  |
 | [old friend](https://open.spotify.com/track/1qUeRctJ195WEm4fqVwBHQ) | [Roofman](https://open.spotify.com/artist/1OHs0NYmF2L7fL2ELOIvPu) | [old friend](https://open.spotify.com/album/0LX7BbebfFHpKPcp3Ky6ET) | 3:42 | 2024-06-27 | 2025-01-24 |
+| [Old Lovers \(feat\. The Lumineers\)](https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Old Lovers \(feat\. The Lumineers\)](https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR) | 3:33 | 2026-09-28 |  |
 | [One For You](https://open.spotify.com/track/35FQibrRmgzCYrAfr4zYLf) | [Johnny & the Dinosaurs](https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS), [Aidan & the Wild](https://open.spotify.com/artist/0sJ5myIh1plIK5zWWzkjXs) | [One For You](https://open.spotify.com/album/30FhQdB4IMOf8kLTzWX01k) | 4:03 | 2024-09-19 | 2025-02-04 |
 | [Our Kingdom](https://open.spotify.com/track/6hNK2xLiAZ139KFu8oRDFV) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [Morphosis](https://open.spotify.com/album/0lG4NpIgDXIStDeC0Q0MLE) | 3:01 | 2024-06-27 | 2024-11-23 |
 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 | 2025-01-23 | 2026-07-18 |

@@ -4,7 +4,7 @@
 
 > شجّع المنتَج المحلي\. الغلاف: ندى نادر
 
-1,817 songs - 4 day 4 hr 34 min
+1,820 songs - 4 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -800,6 +800,7 @@
 | [Mesh F Baly](https://open.spotify.com/track/5E27xke4riZmbg5oXB5CQr) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx) | [Mesh F Baly](https://open.spotify.com/album/5iw2Il7eUWVl4of6BJl5Vg) | 3:14 | 2024-05-02 | 2024-07-05 |
 | [Mesh Fady](https://open.spotify.com/track/5uofX6JUjnD5S0QmNdu0lx) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Mesh Fady](https://open.spotify.com/album/4osP2gbNUzdB16IRF7KNyT) | 2:37 | 2024-08-28 | 2024-10-11 |
 | [Mesh Haseebek](https://open.spotify.com/track/4I8OefmjRwiB55ARcX6wq1) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Mesh Haseebek](https://open.spotify.com/album/0U1uweT83VNR33pbuXf4xO) | 3:13 | 2024-09-26 | 2024-11-29 |
+| [Mesh Hases](https://open.spotify.com/track/0Ky27CnezvUg5apZ2DMVC6) | [TOTTI](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [Abdullah Aley](https://open.spotify.com/artist/3HQOgLwtrDCeY7OAnfsI2Y) | [Mesh Hases](https://open.spotify.com/album/0wKt90RR3VAgNh9DyDcs1R) | 4:12 | 2026-09-28 |  |
 | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/track/4Xix6C8Ny51e3l6ZGzFCBA) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/album/6IVMIrWOyWsjfLXBATH3Jb) | 2:50 | 2023-02-01 | 2023-03-10 |
 | [Mesh Mertah](https://open.spotify.com/track/7kNWssL8yRm4Swv8r3x0xB) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Mesh Mertah](https://open.spotify.com/album/4FSQtBsVSZfbVfg0suBYcS) | 2:49 | 2025-04-24 | 2025-06-10 |
 | [Mesh Nadman](https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mesh Nadman](https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy) | 2:55 | 2021-12-29 | 2022-03-10 |
@@ -1117,6 +1118,7 @@
 | [Ya Safeena](https://open.spotify.com/track/4ticYbFy3RxBbw94pMvHWj) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Ya Safeena](https://open.spotify.com/album/0l4tnmYwdmygeTEeNnDF5N) | 4:09 | 2023-09-06 | 2023-12-24 |
 | [Ya Sater](https://open.spotify.com/track/3NHYBkPCKgfkBSbMkDHfwm) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Ya Sater](https://open.spotify.com/album/6TSZl2sZNam45djO6xSaxF) | 2:42 | 2025-12-10 | 2026-07-10 |
 | [Ya Tayar](https://open.spotify.com/track/3lxUL4F9yaYupuTu3g9Byg) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Ya Tayar](https://open.spotify.com/album/4TgabhACfeYjXuaefflF5f) | 3:15 | 2023-08-01 | 2023-08-25 |
+| [Ya Weily](https://open.spotify.com/track/3WZMwBLGGbU24rmTkjgUH3) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [LouliPop](https://open.spotify.com/album/4Vulv2M3AiggpLd8h2BIcf) | 2:51 | 2026-09-28 |  |
 | [Ya Zaman](https://open.spotify.com/track/6X6GlCRDkjH1z0D97AA12X) | [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Ya Zaman](https://open.spotify.com/album/2EKIr683zS3Oj3wgnMZb6Z) | 3:02 | 2024-02-29 | 2024-03-07 |
 | [Yaah](https://open.spotify.com/track/70dKMd8vTYyNZ0UBbtrT00) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/1kOTpVpceIIpzMSoHgTOK9) | 4:10 | 2024-12-19 | 2025-03-13 |
 | [Yaba](https://open.spotify.com/track/79pLcKb0uJOaROzStukq0f) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 4:00 | 2023-02-16 | 2023-04-21 |
@@ -1234,6 +1236,7 @@
 | [الشيلة كاملة](https://open.spotify.com/track/2zcj3khSBeJMnSv50SFwHs) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [الشيلة كاملة](https://open.spotify.com/album/5vXeOyhnAJDwqJs9v6oHJv) | 3:54 | 2025-11-21 | 2026-04-23 |
 | [الشيله وقعت من مسلسل على كلاى](https://open.spotify.com/track/616hWRC1yQfaAQAwSqsqpz) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [الشيله وقعت من مسلسل على كلاى](https://open.spotify.com/album/1aBBCdL7IiSu6bpBCUZH2h) | 3:15 | 2026-04-01 | 2026-07-10 |
 | [الصدفة جمعتنا](https://open.spotify.com/track/2ej3s9OKCRpJndSk3EPf2k) | [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [الصدفة جمعتنا](https://open.spotify.com/album/0UmMo7jVmq1eQ8hRRQxYyb) | 2:16 | 2025-05-22 | 2025-07-11 |
+| [العالم الاخر](https://open.spotify.com/track/1djW8HoRLSgE8CukeNYUji) | [Beskawy](https://open.spotify.com/artist/0uevIHvLv8PQhOBSFRnQ43) | [العالم الاخر](https://open.spotify.com/album/35E2tWTGx2tvZoYvaAE6zH) | 2:06 | 2026-09-28 |  |
 | [العقارب](https://open.spotify.com/track/0dODre5JGRxBwT1hlzYIqF) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [العقارب](https://open.spotify.com/album/1yKwg31nGgocAAoqqFI5sn) | 4:29 | 2025-02-20 | 2025-05-16 |
 | [العقد](https://open.spotify.com/track/57Nvx4s6yYRyaIO1V6tF1R) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [العقد](https://open.spotify.com/album/5hgr34kHjft85noGjE7Ufp) | 3:38 | 2023-08-24 | 2023-12-14 |
 | [العمر كله](https://open.spotify.com/track/4hgBNlMh0PF4S2VE0ejaM6) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [العمر كله](https://open.spotify.com/album/3DY0Bt7zzSdaLx0i5VFZxh) | 4:20 | 2023-01-20 | 2023-03-01 |

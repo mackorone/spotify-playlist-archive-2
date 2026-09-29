@@ -3963,6 +3963,24 @@
     },
     {
       "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/3QAN1NLqV1vjIDp1Z2ZK7v"
+      },
+      "artists": [
+        {
+          "name": "S\u00f6nnefelt",
+          "url": "https://open.spotify.com/artist/38FDUny44xLWCsKHGWI9bo"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139385,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6r4iZChBco2spVAlrskTvQ"
+    },
+    {
+      "album": {
         "name": "Call You The Same",
         "url": "https://open.spotify.com/album/7lMFLhwWxTCBSCW54abbQq"
       },
@@ -9362,7 +9380,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 156864,
       "name": "Fitting Mainstream",
       "url": "https://open.spotify.com/track/4XVqH7oROREz47JbUnHkQz"
@@ -17298,7 +17316,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 171724,
       "name": "Loop Me In",
       "url": "https://open.spotify.com/track/5ruMC3RDay74xMXhW1bELf"
@@ -21101,6 +21119,24 @@
     },
     {
       "album": {
+        "name": "Not Lost Anymore",
+        "url": "https://open.spotify.com/album/6sgYCJ7oSclbZUNxhcQpkq"
+      },
+      "artists": [
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126774,
+      "name": "Not Lost Anymore",
+      "url": "https://open.spotify.com/track/4TUBlkQN1WSEObLOKvYcPt"
+    },
+    {
+      "album": {
         "name": "Not The Only One",
         "url": "https://open.spotify.com/album/5MOh0lvL0EuY9xoTqpx6rt"
       },
@@ -24726,7 +24762,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 128852,
       "name": "Say It",
       "url": "https://open.spotify.com/track/4YieescefhcQBuQ09i8lEn"
@@ -32512,7 +32548,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 193750,
       "name": "Why Do You Love Me",
       "url": "https://open.spotify.com/track/1mLjB8tOLEpPmEkoidt6uk"
@@ -33590,7 +33626,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 153305,
       "name": "Your Gravity",
       "url": "https://open.spotify.com/track/2awzTSQg8wqOQIt9IGp3It"

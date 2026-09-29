@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-420 songs - 1 day 6 hr 13 min
+421 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Constellation](https://open.spotify.com/track/2e5EegPzF24hgqv8gCTIXk) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Silent Rain \(Original Soundtrack\)](https://open.spotify.com/album/4STn2qItzwcUPQpl7IYf9B) | 4:08 | 2022-01-07 | 2023-04-22 |
 | [Constellation](https://open.spotify.com/track/5yEQvG85ZcngJiU8w97mgl) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Constellation](https://open.spotify.com/album/0JpWn8pgEvjasxIXUbzqdX) | 4:18 | 2026-01-09 | 2026-02-07 |
 | [Conversation 6](https://open.spotify.com/track/6a0PNajw3bf566IBpXaiYK) | [Alva Noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Conversation 6](https://open.spotify.com/album/2VGRLfVTiIRIB3rukwnnAT) | 7:26 | 2026-08-30 |  |
-| [Cosmology](https://open.spotify.com/track/5PezNVuaf9gjU1BHqLaU5x) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Cosmology](https://open.spotify.com/album/6Gk5jF93sKQxUu955R1Ktb) | 4:12 | 2025-12-12 | 2026-07-19 |
+| [Cosmology](https://open.spotify.com/track/5PezNVuaf9gjU1BHqLaU5x) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Cosmology](https://open.spotify.com/album/6Gk5jF93sKQxUu955R1Ktb) | 4:12 | 2025-12-12 |  |
 | [Cycle](https://open.spotify.com/track/23HQOR3hBeeLbXdmcPQA8m) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 3:52 | 2022-12-30 | 2025-03-07 |
 | [Daikai](https://open.spotify.com/track/2bHwzoWqNUR18TgPJM8877) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Hyogo](https://open.spotify.com/album/3QKWWbpKINycE4QcCpgoDr) | 7:48 | 2022-01-07 | 2023-09-23 |
 | [dama](https://open.spotify.com/track/4Xri8RbDoyznZ2HZeQaSlh) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Midori](https://open.spotify.com/album/1dSDUX6GkjFVeQtNjWYVKt) | 3:08 | 2022-01-07 | 2022-02-23 |
@@ -131,7 +131,7 @@
 | [FRAY](https://open.spotify.com/track/46BiNMQYYuCXHa9oQ4APFT) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [FRAY](https://open.spotify.com/album/4xTi5TepfTav3PbkX6Q7j0) | 2:23 | 2026-07-18 |  |
 | [From a Distance](https://open.spotify.com/track/7g8a6a2UGRgsW2b083IKr4) | [marucoporoporo](https://open.spotify.com/artist/0XkAhjSQrr02YRiKbKKIMk) | [Conceive the Sea](https://open.spotify.com/album/01gkrRbIagn2PbpTRe5hD1) | 3:19 | 2025-02-11 |  |
 | [Future Appearing Backwards](https://open.spotify.com/track/1rBDQSwbc8IYA0XTYJ8Yuf) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Future Appearing Backwards](https://open.spotify.com/album/5KX8lnfrAnuxE6Bdbht5nB) | 2:05 | 2026-02-10 | 2026-03-19 |
-| [Gallery window](https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Gallery window](https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq) | 3:31 | 2022-01-07 |  |
+| [Gallery window](https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Gallery window](https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq) | 3:31 | 2022-01-07 | 2026-09-29 |
 | [Glass Chattering](https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:56 | 2022-12-30 | 2025-03-22 |
 | [Glow Echoes](https://open.spotify.com/track/3OZzkDFsPq2YAc1W0oj0Fq) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Glow Echoes](https://open.spotify.com/album/0mS2ZCqn39ImH8V4xrIyD3) | 2:26 | 2025-08-20 |  |
 | [Gold Dust](https://open.spotify.com/track/7j1kjPYeQiGfk21JEk761r) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Idealism II](https://open.spotify.com/album/5lJI2Znj1TmTnlyGGHlmtk) | 3:16 | 2023-11-24 | 2025-02-11 |
@@ -223,7 +223,7 @@
 | [MIRAGE](https://open.spotify.com/track/0eVoDBK5Ye4KD7mAWCsvAG) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [MIRAGE](https://open.spotify.com/album/2Somw9fOnNGIQBbpWKUcPI) | 2:12 | 2026-01-31 | 2026-02-15 |
 | [Mirror\#1](https://open.spotify.com/track/0y6jbOUzzm5NuNOhsGijqb) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Reflections](https://open.spotify.com/album/22Nb42QDmyNSEsiAUBAo3c) | 6:01 | 2024-06-15 | 2026-04-27 |
 | [Mirrors of Still Light](https://open.spotify.com/track/3SWw83rPPkoTA2Vkg7GSiH) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Mirrors of Still Light](https://open.spotify.com/album/5yFNswrkN1lATKr3USIrW2) | 3:36 | 2025-08-20 | 2025-09-03 |
-| [Mist awaiting the light](https://open.spotify.com/track/0mmGwGuWrmSY85frP2kuHh) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0), [Daniel H Pereira](https://open.spotify.com/artist/3dvwZUIWhEpWyqP9hk1StN) | [Mist awaiting the light](https://open.spotify.com/album/1z5aR8r2hCX4BwNSiy9Zmn) | 3:35 | 2026-06-12 |  |
+| [Mist awaiting the light](https://open.spotify.com/track/0mmGwGuWrmSY85frP2kuHh) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0), [Daniel H Pereira](https://open.spotify.com/artist/3dvwZUIWhEpWyqP9hk1StN) | [Mist awaiting the light](https://open.spotify.com/album/1z5aR8r2hCX4BwNSiy9Zmn) | 3:35 | 2026-06-12 | 2026-09-29 |
 | [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 | 2023-01-20 | 2025-04-17 |
 | [Moon Dance in Tokyo](https://open.spotify.com/track/75gDBaEbluCQhtnEM8diCY) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Moon Dance in Tokyo](https://open.spotify.com/album/07BA8mB6Q7tC9uJ5ySSTPr) | 2:34 | 2026-01-23 | 2026-06-14 |
 | [morning dew](https://open.spotify.com/track/7ESmIsEJMeZryYQEG4JUky) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [morning dew](https://open.spotify.com/album/2pCZEibDB6sYdHPbAmvHzl) | 2:08 | 2026-01-23 | 2026-04-03 |
@@ -416,6 +416,7 @@
 | [光と水](https://open.spotify.com/track/2mYJCrSy6VLrDXLi5F28cx) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 4:35 | 2025-03-06 |  |
 | [光の塵](https://open.spotify.com/track/3vqINomEEpyG7nlUfqbd49) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Dustlight / 光の塵 / Afterglow](https://open.spotify.com/album/577opext6ZuqRDwowBmMdc) | 5:03 | 2023-10-13 |  |
 | [内観](https://open.spotify.com/track/04uCBal0XPvgFWMMAcQEUI) | [GOMA](https://open.spotify.com/artist/7fssmrQMryjWNuCLB7f3xg) | [ひかりの世界](https://open.spotify.com/album/7FZWjBCdsqHsvG7oazvHmN) | 20:12 | 2025-02-21 |  |
+| [揺蕩う日々に波](https://open.spotify.com/track/4LZx2cXjhOyZwCZhFCJDpK) | [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [揺蕩う日々に波](https://open.spotify.com/album/3u4Dh0WLlZKYQXhMha36us) | 4:24 | 2026-09-22 |  |
 | [月へ飛ぶ想ひ \(Love that Flies to the Moon\)](https://open.spotify.com/track/53WFf9EywSA4cuomIfGoLv) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [螺鈿の箱](https://open.spotify.com/album/18DILpcCu5BdTSPNhauurh) | 4:09 | 2024-11-30 | 2024-12-15 |
 | [森のざわめき](https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [メンタルトレーナーがすすめる不安解消、安眠ヒーリング 〜自然とつながる音楽〜](https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17) | 5:12 | 2022-03-25 |  |
 | [氷雨](https://open.spotify.com/track/76dAXmTFhZtxPP1ncZGzJM) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Rain Studies](https://open.spotify.com/album/074za5MLXcINIJSOlIxLpn) | 5:56 | 2022-01-07 | 2025-10-21 |

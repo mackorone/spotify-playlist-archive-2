@@ -2241,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/3DpTh1jikb6Fii2tigXlhF"
+      },
+      "artists": [
+        {
+          "name": "Byron's Brigades",
+          "url": "https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193696,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/3iVgzRqSQWwuDc1ArePq4i"
+    },
+    {
+      "album": {
         "name": "Wasted Years",
         "url": "https://open.spotify.com/album/3hFFq8P4RWlra9C8u2umVm"
       },

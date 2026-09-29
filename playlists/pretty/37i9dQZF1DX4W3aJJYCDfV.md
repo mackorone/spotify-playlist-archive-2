@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Taylor Swift, BICEP, Madonna & Charli xcx and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,270 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,170 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 67 | [Social Apocalypse](https://open.spotify.com/track/7LYrWNctGC55Ch60eU8AxK) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Social Apocalypse](https://open.spotify.com/album/6TBRv74cGwsNjrRWKx1pWk) | 3:59 |
 | 68 | [Confession](https://open.spotify.com/track/2nJa6C2eIDDcxESn7sS0cl) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Confession](https://open.spotify.com/album/0h0JpuuqCP71DuI9RBu777) | 2:28 |
 | 69 | [82 Chevy](https://open.spotify.com/track/0GBIruvIhleCfVPB1RhIg4) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [82 Chevy](https://open.spotify.com/album/7lpvYU3X8W9Ts0i1eVU4U1) | 2:51 |
-| 70 | [Ye](https://open.spotify.com/track/0oEhMEWHXOiYs58LP6ioC9) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Ye](https://open.spotify.com/album/3clavYvvQGYh01lciAx3t3) | 3:13 |
+| 70 | [Ye](https://open.spotify.com/track/0oEhMEWHXOiYs58LP6ioC9) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Ye](https://open.spotify.com/album/3clavYvvQGYh01lciAx3t3) | 3:13 |
 | 71 | [Jane](https://open.spotify.com/track/4szoLrDN83yNMMBPGh4nCo) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Jane](https://open.spotify.com/album/37jYqngzHIRHmAef9SWsFr) | 3:28 |
 | 72 | [Tough Love](https://open.spotify.com/track/1qeDiZrY4LBsycOVHSlYWI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Tough Love](https://open.spotify.com/album/7CiptkUx1T0sHuZgUcwxEq) | 3:15 |
 | 73 | [Dubplate](https://open.spotify.com/track/6teLHXGZ5l84bPoWtYVeDa) | [Arundel](https://open.spotify.com/artist/6iaTOGtvJed2OVFYAl9YEA) | [Dubplate](https://open.spotify.com/album/7I8CM36l0GLTHzvEPlN5N8) | 3:37 |

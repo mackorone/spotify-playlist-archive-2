@@ -2,9 +2,9 @@
 
 ### [Hot Hits Greece](https://open.spotify.com/playlist/37i9dQZF1DX0e5BFIQWSDG)
 
-> Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Ειδική Έκδοση Giorgos Mazonakis
+> Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Light
 
-630 songs - 1 day 7 hr 5 min
+631 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [An Den Ertheis Esy](https://open.spotify.com/track/54mHNj3cEF7WP8qa24uyrH) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [An Den Ertheis Esy](https://open.spotify.com/album/3itfbQABwddwhkDw6hg6YH) | 3:25 | 2025-06-09 | 2025-06-24 |
 | [An einai dinaton](https://open.spotify.com/track/0jCvKqzE6I0tZxxXYGUOod) | [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [ODYDOZE](https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ) | [MAVRI ELLADA](https://open.spotify.com/album/1VLERIT9MWXQGypnzYaTe9) | 3:58 | 2025-04-07 | 2025-04-23 |
 | [An Mia Mera](https://open.spotify.com/track/4I1x69jDnmCmCeGkPC1HcA) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Giorgos Orfanidis](https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh) | [Kingpin 2](https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O) | 2:28 | 2026-04-20 | 2026-05-14 |
+| [ANAMNISEIS](https://open.spotify.com/track/6nt2JfQgd1ruVkA4zdNzYC) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Hoodie No](https://open.spotify.com/artist/6tJ6x7j0z8rpLA4PXTTPeY), [Younggbeatz](https://open.spotify.com/artist/5jF0NtCmF4JWI7NxdcsHmE) | [ANAMNISEIS](https://open.spotify.com/album/5tAWfFFELLrkyX8H85UgjL) | 2:56 | 2026-09-28 |  |
 | [Anapse To Tsigaro \- 2025](https://open.spotify.com/track/0v8sRY5elDEomwDtWwiVvg) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Anapse To Tsigaro \(2025\)](https://open.spotify.com/album/4XfCS9y0XqRHe660yVmljb) | 2:26 | 2025-07-14 | 2025-07-22 |
 | [ANATOLI](https://open.spotify.com/track/1XaESunLfD5BmNNjSExrHq) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ANATOLI](https://open.spotify.com/album/484j2WHPth2DvEu14aBcUX) | 2:57 | 2024-12-09 | 2025-05-06 |
 | [Anexartiti](https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Anexartiti](https://open.spotify.com/album/7bgNFF9fzMFrSkzdDwUBa8) | 2:41 | 2025-04-07 | 2025-06-10 |
@@ -146,7 +147,7 @@
 | [CZ](https://open.spotify.com/track/2wTyM2gmuk3MdXVPDLNdmE) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Saxpas](https://open.spotify.com/artist/1IiQBASBfh603PVlAKUOaL) | [SINALOA](https://open.spotify.com/album/6uEfN3eghmQN8owe3jJrO1) | 2:25 | 2025-01-07 | 2025-03-25 |
 | [D%SCO](https://open.spotify.com/track/0BhZFH8Ub1Kvwu1EBMGzl8) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [D%SCO](https://open.spotify.com/album/63Adi92ztG4LthQWqp0OyO) | 2:27 | 2025-06-09 | 2025-10-21 |
 | [D&G](https://open.spotify.com/track/5VNBy5hm6VCbizFO2PkSBW) | [OZIR](https://open.spotify.com/artist/1hcTaXnmhLDc648WfjOCHh) | [D&G](https://open.spotify.com/album/0Sph4FCprKmpVlijDbqckP) | 2:26 | 2026-05-13 | 2026-05-26 |
-| [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-06-29 |  |
+| [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-06-29 | 2026-09-29 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-16 | 2024-10-01 |
 | [DANNY PHANTOM](https://open.spotify.com/track/2RrO7rBV3BpeXn04tc2Za4) | [Marzi](https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq), [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV), [GMBeaTz](https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz) | [DANNY PHANTOM](https://open.spotify.com/album/0SyY81pSlirz049SGjE1JN) | 2:27 | 2025-05-05 | 2025-07-01 |
 | [Dark Side Of The Moon](https://open.spotify.com/track/5XpEAg0ZT8OiJL2TDDDHlr) | [good job nicky](https://open.spotify.com/artist/2dFtLleECB8O3QgW40cuuY) | [Dark Side Of The Moon](https://open.spotify.com/album/3HFALlvX4aQfM02trBwelr) | 2:59 | 2026-02-23 | 2026-03-10 |

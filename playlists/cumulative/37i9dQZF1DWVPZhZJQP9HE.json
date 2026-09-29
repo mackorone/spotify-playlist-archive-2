@@ -9349,6 +9349,28 @@
     },
     {
       "album": {
+        "name": "Muppaattan Raagame",
+        "url": "https://open.spotify.com/album/7kB0BlQRAzdEAtD0udUtNe"
+      },
+      "artists": [
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Anthakudi Ilayaraja",
+          "url": "https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Muppaattan Raagame",
+      "url": "https://open.spotify.com/track/4rmcuACc8vlUQQab3NBgn8"
+    },
+    {
+      "album": {
         "name": "Muthu Pechi",
         "url": "https://open.spotify.com/album/1eKm9WrHW8wlDpB2qnscRg"
       },

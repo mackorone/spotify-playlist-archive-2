@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Marracash
 
-388 songs - 19 hr 45 min
+389 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Tutto Ok](https://open.spotify.com/track/5jzjIA5ygCPfRUCNvhT262) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Glocky vs Kiddo](https://open.spotify.com/album/53DRh8HCYyMHCyMF7HbHJe) | 2:34 | 2025-05-15 | 2025-07-04 |
 | [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 | 2023-06-08 |  |
 | [Un uomo](https://open.spotify.com/track/66a9KTb7xAkpnOoKBiuuYa) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Un uomo](https://open.spotify.com/album/6UIivOLqmMh6fzOxNo1HAJ) | 3:13 | 2025-10-03 | 2025-11-07 |
+| [Una bara per due](https://open.spotify.com/track/570IsK8rePxeYM5SZpGCkW) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Una bara per due](https://open.spotify.com/album/6pdxHp0JBj86IkHaZ9BfH7) | 4:46 | 2026-09-28 |  |
 | [Una vita fa](https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Una vita fa](https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl) | 2:23 | 2026-06-19 |  |
 | [Univers](https://open.spotify.com/track/2hL3IwpnKgRkM2M1yGiLmA) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:32 | 2022-04-28 | 2022-05-20 |
 | [UOMO CATTIVO \(feat\. Nabi\)](https://open.spotify.com/track/3nv625SWTqVVctz7AtecoY) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [PROGETTO X](https://open.spotify.com/album/7wnvQLGtbRN9Y4zpCVYxdX) | 3:16 | 2025-09-30 | 2025-12-12 |

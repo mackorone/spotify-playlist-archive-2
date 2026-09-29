@@ -679,6 +679,22 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
+        "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
+        "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
+      },
+      "artists": [
+        {
+          "name": "YOYOMI",
+          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
+        }
+      ],
+      "duration_ms": 218688,
+      "name": "\uc774 \uc624\ube60 \ubb50\uc57c",
+      "url": "https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD"
+    },
+    {
+      "added_at": "2026-09-15 08:10:20",
+      "album": {
         "name": "Love call center PART20",
         "url": "https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 199493,
       "name": "Together in the rain",
       "url": "https://open.spotify.com/track/3LWrzcBkiKaXNZSUKoCTlb"
-    },
-    {
-      "added_at": "2026-09-15 08:10:20",
-      "album": {
-        "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
-        "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
-      },
-      "artists": [
-        {
-          "name": "YOYOMI",
-          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
-        }
-      ],
-      "duration_ms": 218688,
-      "name": "\uc774 \uc624\ube60 \ubb50\uc57c",
-      "url": "https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD"
     },
     {
       "added_at": "2026-09-15 08:10:20",
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
-        "name": "Music Source of Mr. Trot3 final Best",
-        "url": "https://open.spotify.com/album/5xyACB0eKVNpErYIooVf2H"
+        "name": "Music Source of Mr. Trot3 TOP7 New song",
+        "url": "https://open.spotify.com/album/2AmJJUywYpDsV7Sgn5Z9Mx"
       },
       "artists": [
         {
@@ -1124,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi"
         }
       ],
-      "duration_ms": 288786,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/1l4RDlwyGBmbH8j9eS9InI"
+      "duration_ms": 207586,
+      "name": "The East sea and Mt. Baekdu",
+      "url": "https://open.spotify.com/track/4CnHFiXsytwfsjcCPwMnst"
     },
     {
       "added_at": "2026-09-15 08:10:20",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
-        "name": "Fire Trot Semi-Finals, Three Legends Round PART 2",
-        "url": "https://open.spotify.com/album/4fYhKUpf4TanrKk3XAQIIj"
-      },
-      "artists": [
-        {
-          "name": "Son Tae Jin",
-          "url": "https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS"
-        }
-      ],
-      "duration_ms": 288841,
-      "name": "A Million Roses",
-      "url": "https://open.spotify.com/track/4Hyzm7qybnozxFXiiHCgyi"
-    },
-    {
-      "added_at": "2026-09-15 08:10:20",
-      "album": {
         "name": "Best of Mr. Trot Preliminary",
         "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
       },
@@ -1195,8 +1179,24 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
-        "name": "Music Source of Mr. Trot3 TOP7 New song",
-        "url": "https://open.spotify.com/album/2AmJJUywYpDsV7Sgn5Z9Mx"
+        "name": "Fire Trot Semi-Finals, Three Legends Round PART 2",
+        "url": "https://open.spotify.com/album/4fYhKUpf4TanrKk3XAQIIj"
+      },
+      "artists": [
+        {
+          "name": "Son Tae Jin",
+          "url": "https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS"
+        }
+      ],
+      "duration_ms": 288841,
+      "name": "A Million Roses",
+      "url": "https://open.spotify.com/track/4Hyzm7qybnozxFXiiHCgyi"
+    },
+    {
+      "added_at": "2026-09-15 08:10:20",
+      "album": {
+        "name": "Music Source of Mr. Trot3 final Best",
+        "url": "https://open.spotify.com/album/5xyACB0eKVNpErYIooVf2H"
       },
       "artists": [
         {
@@ -1204,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi"
         }
       ],
-      "duration_ms": 207586,
-      "name": "The East sea and Mt. Baekdu",
-      "url": "https://open.spotify.com/track/4CnHFiXsytwfsjcCPwMnst"
+      "duration_ms": 288786,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/1l4RDlwyGBmbH8j9eS9InI"
     },
     {
       "added_at": "2026-09-15 08:10:20",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
-        "name": "Summer Nostalgia",
-        "url": "https://open.spotify.com/album/4eMk4d7TOYZo69TaCqjbJG"
-      },
-      "artists": [
-        {
-          "name": "Son Tae Jin",
-          "url": "https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "I Believe in Music",
-      "url": "https://open.spotify.com/track/3upRses06rg98T445QDmTh"
-    },
-    {
-      "added_at": "2026-09-15 08:10:20",
-      "album": {
         "name": "Love call center PART2",
         "url": "https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 188960,
       "name": "The Moon Represents My Heart",
       "url": "https://open.spotify.com/track/0kthpblMmkuZpmpT3hyqiV"
+    },
+    {
+      "added_at": "2026-09-15 08:10:20",
+      "album": {
+        "name": "Summer Nostalgia",
+        "url": "https://open.spotify.com/album/4eMk4d7TOYZo69TaCqjbJG"
+      },
+      "artists": [
+        {
+          "name": "Son Tae Jin",
+          "url": "https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "I Believe in Music",
+      "url": "https://open.spotify.com/track/3upRses06rg98T445QDmTh"
     },
     {
       "added_at": "2026-09-15 08:10:20",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
-        "name": "4\uc778\uc758 \uba85\ud488\uac00\uc655 \ubca0\uc2a4\ud2b8",
-        "url": "https://open.spotify.com/album/5py19ysNA0ATyqDdO5aXO0"
-      },
-      "artists": [
-        {
-          "name": "\ubb38\ud76c\uc625",
-          "url": "https://open.spotify.com/artist/0r8ZiqQdT7hMdaHbZY6a7E"
-        }
-      ],
-      "duration_ms": 181185,
-      "name": "\ud3c9\ud589\uc120",
-      "url": "https://open.spotify.com/track/3uDPEYcRxNVdflXOmraU1z"
-    },
-    {
-      "added_at": "2026-09-15 08:10:20",
-      "album": {
         "name": "Recall of love Remix",
         "url": "https://open.spotify.com/album/3Wp1cs1oVChBYkV1MvwHjc"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
-        "name": "Music Source of Miss Trot Threegether(3-gether) Special PART3",
-        "url": "https://open.spotify.com/album/6b8iPxwvFTDFcyGFwvai8C"
+        "name": "4\uc778\uc758 \uba85\ud488\uac00\uc655 \ubca0\uc2a4\ud2b8",
+        "url": "https://open.spotify.com/album/5py19ysNA0ATyqDdO5aXO0"
       },
       "artists": [
         {
-          "name": "Jung Seo Joo",
-          "url": "https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00"
+          "name": "\ubb38\ud76c\uc625",
+          "url": "https://open.spotify.com/artist/0r8ZiqQdT7hMdaHbZY6a7E"
         }
       ],
-      "duration_ms": 208880,
-      "name": "Flower wind",
-      "url": "https://open.spotify.com/track/3M0jMmAFTqv3XLDnAejVCT"
+      "duration_ms": 181185,
+      "name": "\ud3c9\ud589\uc120",
+      "url": "https://open.spotify.com/track/3uDPEYcRxNVdflXOmraU1z"
     },
     {
       "added_at": "2026-09-15 08:10:20",
@@ -1399,6 +1383,22 @@
       "duration_ms": 232533,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0R508Nla2JNywrIDgT2lv1"
+    },
+    {
+      "added_at": "2026-09-15 08:10:20",
+      "album": {
+        "name": "Music Source of Miss Trot Threegether(3-gether) Special PART3",
+        "url": "https://open.spotify.com/album/6b8iPxwvFTDFcyGFwvai8C"
+      },
+      "artists": [
+        {
+          "name": "Jung Seo Joo",
+          "url": "https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Flower wind",
+      "url": "https://open.spotify.com/track/3M0jMmAFTqv3XLDnAejVCT"
     },
     {
       "added_at": "2026-09-15 08:10:20",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
+        "name": "\ubc14\ubcf4 \uac19\uc740 \uc0ac\ub78c",
+        "url": "https://open.spotify.com/album/3XrJa2kkNDvkD0LMz7ECve"
+      },
+      "artists": [
+        {
+          "name": "YOYOMI",
+          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
+        }
+      ],
+      "duration_ms": 228172,
+      "name": "\ubc14\ubcf4 \uac19\uc740 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/1YGw2tcb8dsBtcIrZYlj5s"
+    },
+    {
+      "added_at": "2026-09-15 08:10:20",
+      "album": {
         "name": "Love call center PART9",
         "url": "https://open.spotify.com/album/1lAFblayoSOk4ZzgtqGT0I"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 268219,
       "name": "Scars deeper than love",
       "url": "https://open.spotify.com/track/6ZDGfuLzNSNYtuY3JETdaz"
-    },
-    {
-      "added_at": "2026-09-15 08:10:20",
-      "album": {
-        "name": "\ubc14\ubcf4 \uac19\uc740 \uc0ac\ub78c",
-        "url": "https://open.spotify.com/album/3XrJa2kkNDvkD0LMz7ECve"
-      },
-      "artists": [
-        {
-          "name": "YOYOMI",
-          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
-        }
-      ],
-      "duration_ms": 228172,
-      "name": "\ubc14\ubcf4 \uac19\uc740 \uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/1YGw2tcb8dsBtcIrZYlj5s"
     },
     {
       "added_at": "2026-09-15 08:10:20",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
-        "name": "Whether it's one way or another",
-        "url": "https://open.spotify.com/album/6lLphZSah5I2qmhEecSole"
-      },
-      "artists": [
-        {
-          "name": "Chu Hyuk Jin",
-          "url": "https://open.spotify.com/artist/5tti8ePomOrIlKx3LPvYl9"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "Whether it's one way or another",
-      "url": "https://open.spotify.com/track/7eY5qOYQOO9EfkR5iZIK6Y"
-    },
-    {
-      "added_at": "2026-09-15 08:10:20",
-      "album": {
         "name": "I'm coming to meet my love",
         "url": "https://open.spotify.com/album/1C1GGKEV6jAwVJkMrKA5dF"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 183173,
       "name": "I\u2032m coming to meet my love",
       "url": "https://open.spotify.com/track/0BtLojrw2PKirr3ViXmZ0j"
+    },
+    {
+      "added_at": "2026-09-15 08:10:20",
+      "album": {
+        "name": "Whether it's one way or another",
+        "url": "https://open.spotify.com/album/6lLphZSah5I2qmhEecSole"
+      },
+      "artists": [
+        {
+          "name": "Chu Hyuk Jin",
+          "url": "https://open.spotify.com/artist/5tti8ePomOrIlKx3LPvYl9"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "Whether it's one way or another",
+      "url": "https://open.spotify.com/track/7eY5qOYQOO9EfkR5iZIK6Y"
     },
     {
       "added_at": "2026-09-15 08:10:20",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
-        "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART2",
-        "url": "https://open.spotify.com/album/3AX4e6raYqfhN2ITaNbuH2"
+        "name": "Love call center PART27",
+        "url": "https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs"
       },
       "artists": [
         {
-          "name": "Shim Su Ho",
-          "url": "https://open.spotify.com/artist/32rwOf5UcF8jhIgBNyTF7J"
+          "name": "Jung Soo ra",
+          "url": "https://open.spotify.com/artist/0bRnVJF5HozBTl4o8etuos"
+        },
+        {
+          "name": "Lee Chanwon",
+          "url": "https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k"
         }
       ],
-      "duration_ms": 215973,
-      "name": "Like Adam and Eve",
-      "url": "https://open.spotify.com/track/2J4O4qJqDwpRSrKTWyP4PD"
+      "duration_ms": 314493,
+      "name": "Talks of Dream",
+      "url": "https://open.spotify.com/track/6K8ur6OKReOlZtx4lUaQMi"
     },
     {
       "added_at": "2026-09-15 08:10:20",
@@ -1727,22 +1731,18 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
-        "name": "Love call center PART27",
-        "url": "https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs"
+        "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART2",
+        "url": "https://open.spotify.com/album/3AX4e6raYqfhN2ITaNbuH2"
       },
       "artists": [
         {
-          "name": "Jung Soo ra",
-          "url": "https://open.spotify.com/artist/0bRnVJF5HozBTl4o8etuos"
-        },
-        {
-          "name": "Lee Chanwon",
-          "url": "https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k"
+          "name": "Shim Su Ho",
+          "url": "https://open.spotify.com/artist/32rwOf5UcF8jhIgBNyTF7J"
         }
       ],
-      "duration_ms": 314493,
-      "name": "Talks of Dream",
-      "url": "https://open.spotify.com/track/6K8ur6OKReOlZtx4lUaQMi"
+      "duration_ms": 215973,
+      "name": "Like Adam and Eve",
+      "url": "https://open.spotify.com/track/2J4O4qJqDwpRSrKTWyP4PD"
     },
     {
       "added_at": "2026-09-15 08:10:20",
@@ -1767,42 +1767,6 @@
       "duration_ms": 243333,
       "name": "You Raise me Up",
       "url": "https://open.spotify.com/track/73uZS2UmS5Jt2nFqtDLcBx"
-    },
-    {
-      "added_at": "2026-09-15 08:10:20",
-      "album": {
-        "name": "\ub123\uc5b4\ub46c",
-        "url": "https://open.spotify.com/album/2plrGXKgJMWFNhr6ksYl9o"
-      },
-      "artists": [
-        {
-          "name": "\uc2e0\uc7a5\ubbf8",
-          "url": "https://open.spotify.com/artist/57nltA13yKTbaEunhnPGiK"
-        },
-        {
-          "name": "EuReKa",
-          "url": "https://open.spotify.com/artist/1xgTEq2LdIRhSXUUdEKUQm"
-        }
-      ],
-      "duration_ms": 192659,
-      "name": "\ub123\uc5b4\ub46c",
-      "url": "https://open.spotify.com/track/0woJxJNpmmQxfDSwlqH6tz"
-    },
-    {
-      "added_at": "2026-09-15 08:10:20",
-      "album": {
-        "name": "Fire Trot Team Death Match PART 2 & 1:1 Rivals Round",
-        "url": "https://open.spotify.com/album/68ZlJBVje3ElmKCtmE2Nhi"
-      },
-      "artists": [
-        {
-          "name": "Min Soo Hyun",
-          "url": "https://open.spotify.com/artist/66Y6vpesHZsw3q8TfeoluG"
-        }
-      ],
-      "duration_ms": 226065,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/1Oc5OUV2gffp5XvTCqbwJm"
     },
     {
       "added_at": "2026-09-15 08:10:20",
@@ -1851,46 +1815,22 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
-        "name": "Spend all the money in my wallet (Feat. JEON WON JU)",
-        "url": "https://open.spotify.com/album/3QN9VjN4Nhk70uagoBB09X"
+        "name": "\ub123\uc5b4\ub46c",
+        "url": "https://open.spotify.com/album/2plrGXKgJMWFNhr6ksYl9o"
       },
       "artists": [
         {
-          "name": "Copychu",
-          "url": "https://open.spotify.com/artist/6Z1gtF3YEE2XvqMcS3aBBH"
+          "name": "\uc2e0\uc7a5\ubbf8",
+          "url": "https://open.spotify.com/artist/57nltA13yKTbaEunhnPGiK"
         },
         {
-          "name": "JEON WON JU",
-          "url": "https://open.spotify.com/artist/20iLEsY2WrXS3aWHZkZsxK"
+          "name": "EuReKa",
+          "url": "https://open.spotify.com/artist/1xgTEq2LdIRhSXUUdEKUQm"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Spend all the money in my wallet (Feat. JEON WON JU)",
-      "url": "https://open.spotify.com/track/2XmCbrwNoZQFwbnElr4Ero"
-    },
-    {
-      "added_at": "2026-09-15 08:10:20",
-      "album": {
-        "name": "MU-MYEONG JEONSEOL [Semifinals \u2013 Round 1: The Legend\u2019s Choice]",
-        "url": "https://open.spotify.com/album/7yqUgyXmnMv69qYrMfXmlE"
-      },
-      "artists": [
-        {
-          "name": "\uc2e0\uc720",
-          "url": "https://open.spotify.com/artist/5aEkvCedM3aS0mufV6qkNK"
-        },
-        {
-          "name": "\uc131\ub9ac",
-          "url": "https://open.spotify.com/artist/5IVkOA50lGCijRsdQ55bJq"
-        },
-        {
-          "name": "\ud558\ub8e8",
-          "url": "https://open.spotify.com/artist/2Nzzo4EZo7X2rxdzTk8LS9"
-        }
-      ],
-      "duration_ms": 303689,
-      "name": "Oh My Love, My Beloved",
-      "url": "https://open.spotify.com/track/3veve63PBy0N1fMKoTO85S"
+      "duration_ms": 192659,
+      "name": "\ub123\uc5b4\ub46c",
+      "url": "https://open.spotify.com/track/0woJxJNpmmQxfDSwlqH6tz"
     },
     {
       "added_at": "2026-09-15 08:10:20",
@@ -1927,6 +1867,42 @@
     {
       "added_at": "2026-09-15 08:10:20",
       "album": {
+        "name": "Fire Trot Team Death Match PART 2 & 1:1 Rivals Round",
+        "url": "https://open.spotify.com/album/68ZlJBVje3ElmKCtmE2Nhi"
+      },
+      "artists": [
+        {
+          "name": "Min Soo Hyun",
+          "url": "https://open.spotify.com/artist/66Y6vpesHZsw3q8TfeoluG"
+        }
+      ],
+      "duration_ms": 226065,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/1Oc5OUV2gffp5XvTCqbwJm"
+    },
+    {
+      "added_at": "2026-09-15 08:10:20",
+      "album": {
+        "name": "Spend all the money in my wallet (Feat. JEON WON JU)",
+        "url": "https://open.spotify.com/album/3QN9VjN4Nhk70uagoBB09X"
+      },
+      "artists": [
+        {
+          "name": "Copychu",
+          "url": "https://open.spotify.com/artist/6Z1gtF3YEE2XvqMcS3aBBH"
+        },
+        {
+          "name": "JEON WON JU",
+          "url": "https://open.spotify.com/artist/20iLEsY2WrXS3aWHZkZsxK"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Spend all the money in my wallet (Feat. JEON WON JU)",
+      "url": "https://open.spotify.com/track/2XmCbrwNoZQFwbnElr4Ero"
+    },
+    {
+      "added_at": "2026-09-15 08:10:20",
+      "album": {
         "name": "Bongsungah school PART15",
         "url": "https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt"
       },
@@ -1939,6 +1915,30 @@
       "duration_ms": 231946,
       "name": "Story of old couple in their 60s (guitar by Ham Chun Ho)",
       "url": "https://open.spotify.com/track/58UxdXUwclRKh0HbVOAtbS"
+    },
+    {
+      "added_at": "2026-09-15 08:10:20",
+      "album": {
+        "name": "MU-MYEONG JEONSEOL [Semifinals \u2013 Round 1: The Legend\u2019s Choice]",
+        "url": "https://open.spotify.com/album/7yqUgyXmnMv69qYrMfXmlE"
+      },
+      "artists": [
+        {
+          "name": "\uc2e0\uc720",
+          "url": "https://open.spotify.com/artist/5aEkvCedM3aS0mufV6qkNK"
+        },
+        {
+          "name": "\uc131\ub9ac",
+          "url": "https://open.spotify.com/artist/5IVkOA50lGCijRsdQ55bJq"
+        },
+        {
+          "name": "\ud558\ub8e8",
+          "url": "https://open.spotify.com/artist/2Nzzo4EZo7X2rxdzTk8LS9"
+        }
+      ],
+      "duration_ms": 303689,
+      "name": "Oh My Love, My Beloved",
+      "url": "https://open.spotify.com/track/3veve63PBy0N1fMKoTO85S"
     },
     {
       "added_at": "2026-09-15 08:10:20",

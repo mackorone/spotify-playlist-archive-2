@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 55648,
+  "num_followers": 55651,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAADbZADjK8YtyrzK/D9GaixD",
+  "snapshot_id": "arhcgAAAAAAGyX76VzQQhJkGfRsQfQeA",
   "tracks": [
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trampin'",
-        "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 309493,
-      "name": "Peaceable Kingdom",
-      "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
+      "duration_ms": 312440,
+      "name": "Citizen Ship",
+      "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+        "name": "Trampin'",
+        "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 312440,
-      "name": "Citizen Ship",
-      "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
+      "duration_ms": 309493,
+      "name": "Peaceable Kingdom",
+      "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Of Life",
         "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 246640,
       "name": "Looking for You (I Was)",
       "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
     },
     {
       "added_at": null,

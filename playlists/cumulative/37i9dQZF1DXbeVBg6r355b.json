@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Deep Work Brown",
+        "url": "https://open.spotify.com/album/70W171oLfKDIogvh13gPy9"
+      },
+      "artists": [
+        {
+          "name": "Thrumvale",
+          "url": "https://open.spotify.com/artist/1MamEXWc3rdmjek7ot9Loq"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157199,
+      "name": "Deep Work Brown",
+      "url": "https://open.spotify.com/track/7x2LM3WFcgd7cZBDaXIeea"
+    },
+    {
+      "album": {
         "name": "Delicate White Noise",
         "url": "https://open.spotify.com/album/4PwZOVcCvo0QkWtgTVEEIw"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 202137,
       "name": "Dreams & Noise",
       "url": "https://open.spotify.com/track/3BccWFMUmCnKeuOj9LWwga"
@@ -592,7 +610,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 201024,
       "name": "Dreamtide Sound",
       "url": "https://open.spotify.com/track/5jKnckdhOSIuO3OkuaeQLA"
@@ -1085,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Au Dessus Des Nuages",
+        "url": "https://open.spotify.com/album/51GknBjyAYx0BJOGKU6vK9"
+      },
+      "artists": [
+        {
+          "name": "Groundwater Gabriel",
+          "url": "https://open.spotify.com/artist/7D6h05H8UYNdbP6bE5OFoG"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152322,
+      "name": "Oc\u00e9an Profond",
+      "url": "https://open.spotify.com/track/7JPvyHVrW8RNGvW4uaY8H0"
+    },
+    {
+      "album": {
         "name": "Omni White Noise",
         "url": "https://open.spotify.com/album/2dO5DisQSVdB8K4obrFynd"
       },
@@ -1204,7 +1240,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 128126,
       "name": "Pure White Noise",
       "url": "https://open.spotify.com/track/7Fl8xrLFDKNI5QjUWFFFnH"
@@ -1262,6 +1298,24 @@
       "duration_ms": 333949,
       "name": "Recycled White Noise",
       "url": "https://open.spotify.com/track/7CJtFJZrKkgYQIm8GPBdRV"
+    },
+    {
+      "album": {
+        "name": "Relax In Noise",
+        "url": "https://open.spotify.com/album/1xkuWJZVCKAMWMXRADvb1Q"
+      },
+      "artists": [
+        {
+          "name": "The Art of Nature",
+          "url": "https://open.spotify.com/artist/1O9LwphbHD5aIvUVGxQqbR"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142680,
+      "name": "Relax In Noise",
+      "url": "https://open.spotify.com/track/31BytoFriZPWMUUbGUaknN"
     },
     {
       "album": {
@@ -1355,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Ruido Blanco Nocturno",
+        "url": "https://open.spotify.com/album/13kpO4RzD146X2mB03KZ5L"
+      },
+      "artists": [
+        {
+          "name": "James Burman",
+          "url": "https://open.spotify.com/artist/4Pkej3Ju2xHP32kAchyxG5"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175464,
+      "name": "Ruido Blanco Nocturno",
+      "url": "https://open.spotify.com/track/5WcouQwCyD9Akzap6u1wlj"
+    },
+    {
+      "album": {
         "name": "Ruido Blanco",
         "url": "https://open.spotify.com/album/7IrWdh3MEKgHrzgoQnHPCx"
       },
@@ -1438,7 +1510,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 195036,
       "name": "Sleep With White Noise",
       "url": "https://open.spotify.com/track/4GYPT9EGhQ5qvJ9vkubDLC"
@@ -1654,7 +1726,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 237837,
       "name": "Soothing White Noise Sleep",
       "url": "https://open.spotify.com/track/4VK0J7JmgVCdAvg7RFc0c9"
@@ -1834,7 +1906,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 200500,
       "name": "The Great White",
       "url": "https://open.spotify.com/track/3Eo2IpWMx8I3d3cZkFASJQ"
@@ -1874,6 +1946,24 @@
       "duration_ms": 180463,
       "name": "Tranquilo como el Mar",
       "url": "https://open.spotify.com/track/7nvvNwOAYHKLhW7zElLlGf"
+    },
+    {
+      "album": {
+        "name": "Twilight White Noise",
+        "url": "https://open.spotify.com/album/6QSpJ3ucsztH42H3GDFikL"
+      },
+      "artists": [
+        {
+          "name": "Spheres of Air",
+          "url": "https://open.spotify.com/artist/4ocFgSJFk2gM8GdSkAo3jv"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Twilight White Noise",
+      "url": "https://open.spotify.com/track/3KPQr2IbqUxqeqVtjZhuyA"
     },
     {
       "album": {
@@ -1960,7 +2050,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 178000,
       "name": "Whispering Noise",
       "url": "https://open.spotify.com/track/1dyEcO5r6Kq7if4dgKAEYr"
@@ -2032,7 +2122,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-29",
       "duration_ms": 165000,
       "name": "White Arctic Noise",
       "url": "https://open.spotify.com/track/7DbUDCoC1XwQ3Xq4R1Nf8T"
@@ -2360,6 +2450,24 @@
       "duration_ms": 158000,
       "name": "White Noise Mirage",
       "url": "https://open.spotify.com/track/5LTTifp8ImCoEaJMUKnlHo"
+    },
+    {
+      "album": {
+        "name": "White noise rejuvenator",
+        "url": "https://open.spotify.com/album/71ytZD8ms2k44q6lchONSF"
+      },
+      "artists": [
+        {
+          "name": "Bedtime Ritualz",
+          "url": "https://open.spotify.com/artist/7cyetHbzeUkAnblR9rRU3g"
+        }
+      ],
+      "date_added": "2026-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "White noise rejuvenator",
+      "url": "https://open.spotify.com/track/1AldXuRm0t5wY98d3MxViW"
     },
     {
       "album": {

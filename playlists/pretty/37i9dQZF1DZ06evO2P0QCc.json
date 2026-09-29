@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 126544,
+  "num_followers": 126558,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arcLAAAAAAARft4NSWnWSQiHnGItJzWy",
+  "snapshot_id": "arhcgAAAAACza/1Rv49d2GtsEX6+8OZT",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ska a La Carta, Vol.1",
+        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 208826,
+      "name": "Nunca Digas Que No",
+      "url": "https://open.spotify.com/track/0E5c793ucvH1dQnfmbi88v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 214000,
       "name": "Hoy Ser\u00e1 (feat. Natalia Ram\u00edrez)",
       "url": "https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ska a La Carta, Vol.1",
-        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "Nunca Digas Que No",
-      "url": "https://open.spotify.com/track/0E5c793ucvH1dQnfmbi88v"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skannibal Party, Vol. 14",
-        "url": "https://open.spotify.com/album/5ILwBCaE089yrSqkTEREWn"
+        "name": "Ska a La Carta, Vol.1",
+        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Lamba Do Ska",
-      "url": "https://open.spotify.com/track/55GuTMWpBWHCNhPnES9ui8"
+      "duration_ms": 173773,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/0vDqVNO9oc8F2lKB1IzJn0"
     }
   ],
   "unique_name": "This Is Inspector",

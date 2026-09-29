@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Young Jonn, Tiakola, Ayo Maff, Niniola, Shoday, Camidoh, Kabza de Small and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,070 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,164 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 3 | [CHE](https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [CHE](https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x) | 2:24 |
 | 4 | [Malaria](https://open.spotify.com/track/6JU5A8MFJcky0e0rb5prZh) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Malaria](https://open.spotify.com/album/0oEhRoZuwqGnloiOkkTT5R) | 2:51 |
 | 5 | [For Me](https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [For Me](https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo) | 2:20 |
-| 6 | [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:39 |
+| 6 | [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:38 |
 | 7 | [Tika](https://open.spotify.com/track/4YWqtagELt3giBdcMQYpC3) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Tika](https://open.spotify.com/album/3ZOZ1sNtwlbLj0fSPDIxhq) | 2:09 |
 | 8 | [Bahubali](https://open.spotify.com/track/2jSkGbyUK1VmBXE3hgJyBl) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Bahubali](https://open.spotify.com/album/3sg7XmCUiue0W7dW77hS0b) | 2:24 |
 | 9 | [Pami](https://open.spotify.com/track/6tlmpZuFncwBniCRkVuVeQ) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Pami](https://open.spotify.com/album/647NndPt3TbMUYlTojxes9) | 3:06 |

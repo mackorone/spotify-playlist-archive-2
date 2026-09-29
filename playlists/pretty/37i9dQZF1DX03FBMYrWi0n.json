@@ -1,6 +1,6 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: NOBRO",
-  "num_followers": 10105,
+  "num_followers": 10112,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "PROTOTYPE",
-        "url": "https://open.spotify.com/album/4l0IEz2k1Lb3RfmbbZ681o"
-      },
-      "artists": [
-        {
-          "name": "Madior",
-          "url": "https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b"
-        }
-      ],
-      "duration_ms": 136470,
-      "name": "PROTOTYPE",
-      "url": "https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
         "name": "Bad News",
         "url": "https://open.spotify.com/album/72jtXGWPmEACJ2fLqnBaND"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 187693,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/5axFVupg57hf7xoiUSiprW"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
+        "name": "PROTOTYPE",
+        "url": "https://open.spotify.com/album/4l0IEz2k1Lb3RfmbbZ681o"
+      },
+      "artists": [
+        {
+          "name": "Madior",
+          "url": "https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b"
+        }
+      ],
+      "duration_ms": 136470,
+      "name": "PROTOTYPE",
+      "url": "https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "Tastes like Filth",
-        "url": "https://open.spotify.com/album/2T7AmwXtrQaIssOzS50HsC"
+        "name": "White Claw Addict",
+        "url": "https://open.spotify.com/album/2VzRYpxNzoqq534enPB2RH"
       },
       "artists": [
         {
-          "name": "Beautiful Hotnes",
-          "url": "https://open.spotify.com/artist/3O7qHWRBG6Z6jlYMgYDXWD"
+          "name": "Brat Star",
+          "url": "https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8"
         }
       ],
-      "duration_ms": 139570,
-      "name": "Dah Bahs",
-      "url": "https://open.spotify.com/track/2LD4nLt5XuNcuvuEX3bmKz"
+      "duration_ms": 187384,
+      "name": "White Claw Addict",
+      "url": "https://open.spotify.com/track/3B4SgphwnsLtf1umaZVa0k"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -983,34 +983,18 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "White Claw Addict",
-        "url": "https://open.spotify.com/album/2VzRYpxNzoqq534enPB2RH"
+        "name": "Tastes like Filth",
+        "url": "https://open.spotify.com/album/2T7AmwXtrQaIssOzS50HsC"
       },
       "artists": [
         {
-          "name": "Brat Star",
-          "url": "https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8"
+          "name": "Beautiful Hotnes",
+          "url": "https://open.spotify.com/artist/3O7qHWRBG6Z6jlYMgYDXWD"
         }
       ],
-      "duration_ms": 187384,
-      "name": "White Claw Addict",
-      "url": "https://open.spotify.com/track/3B4SgphwnsLtf1umaZVa0k"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
-        "name": "Good Sport",
-        "url": "https://open.spotify.com/album/0UZd74pAgp2NFl8b2nBpYm"
-      },
-      "artists": [
-        {
-          "name": "Aidan Rex",
-          "url": "https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Good Sport",
-      "url": "https://open.spotify.com/track/3kORBU2wOUUbuyQ1WoN3iE"
+      "duration_ms": 139570,
+      "name": "Dah Bahs",
+      "url": "https://open.spotify.com/track/2LD4nLt5XuNcuvuEX3bmKz"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1031,6 +1015,22 @@
       "duration_ms": 213011,
       "name": "Shrala",
       "url": "https://open.spotify.com/track/1C97sB0JL8ANe6tczFSEvz"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
+        "name": "Good Sport",
+        "url": "https://open.spotify.com/album/0UZd74pAgp2NFl8b2nBpYm"
+      },
+      "artists": [
+        {
+          "name": "Aidan Rex",
+          "url": "https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Good Sport",
+      "url": "https://open.spotify.com/track/3kORBU2wOUUbuyQ1WoN3iE"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "Le vice et le culte",
-        "url": "https://open.spotify.com/album/4xh2GifjucHWM2RKWbQbQm"
-      },
-      "artists": [
-        {
-          "name": "zouz",
-          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
-        }
-      ],
-      "duration_ms": 177212,
-      "name": "Le vice et le culte",
-      "url": "https://open.spotify.com/track/3BM2r7uipntVCC8kLw6ghc"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
         "name": "Sofort, Si Fort",
         "url": "https://open.spotify.com/album/33GOfl5Ketn68EijWcLkFe"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 293613,
       "name": "Sofort, Si Fort",
       "url": "https://open.spotify.com/track/20P2z18pce5v5wPLtSYEfb"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
+        "name": "Le vice et le culte",
+        "url": "https://open.spotify.com/album/4xh2GifjucHWM2RKWbQbQm"
+      },
+      "artists": [
+        {
+          "name": "zouz",
+          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+        }
+      ],
+      "duration_ms": 177212,
+      "name": "Le vice et le culte",
+      "url": "https://open.spotify.com/track/3BM2r7uipntVCC8kLw6ghc"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1199,6 +1199,38 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
+        "name": "Where You Haunt Me: Part 2",
+        "url": "https://open.spotify.com/album/2LXonM7FX9YMTfSRASV2Rb"
+      },
+      "artists": [
+        {
+          "name": "Dear Youth",
+          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "I Can't Give You What You Want",
+      "url": "https://open.spotify.com/track/69vnX0jY8jLoTQ2fsJpoM9"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/1XjiogaRYttwHOaA0Y6QEd"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Cangiano",
+          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
+        }
+      ],
+      "duration_ms": 108136,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/6g637SZdJY7UM0kqFSu94k"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
         "name": "Nouveaux Langages",
         "url": "https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3"
       },
@@ -1235,38 +1267,6 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "Rotten",
-        "url": "https://open.spotify.com/album/35dIBCuPTe5tHzE03MVPTn"
-      },
-      "artists": [
-        {
-          "name": "Grace of Arc",
-          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Rotten",
-      "url": "https://open.spotify.com/track/0typVO5PXN4GAgmTx5mHip"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
-        "name": "Got It Bad",
-        "url": "https://open.spotify.com/album/1XjiogaRYttwHOaA0Y6QEd"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Cangiano",
-          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
-        }
-      ],
-      "duration_ms": 108136,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/6g637SZdJY7UM0kqFSu94k"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
         "name": "Unessential Oils",
         "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 334333,
       "name": "Overwhelmed and Unprepared",
       "url": "https://open.spotify.com/track/11y1l29W0zhq2c5Fv58kGs"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/35dIBCuPTe5tHzE03MVPTn"
+      },
+      "artists": [
+        {
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Rotten",
+      "url": "https://open.spotify.com/track/0typVO5PXN4GAgmTx5mHip"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1319,6 +1335,22 @@
       "duration_ms": 116163,
       "name": "suffering",
       "url": "https://open.spotify.com/track/6eVQyex4HewJ6YQbLIDG41"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/1pBrdXujAE8sqU6R0JQnZ5"
+      },
+      "artists": [
+        {
+          "name": "Les Shirley",
+          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
+        }
+      ],
+      "duration_ms": 158986,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/3RY2ZZ9CYeWh7spVMEABtZ"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1419,22 +1451,6 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/1pBrdXujAE8sqU6R0JQnZ5"
-      },
-      "artists": [
-        {
-          "name": "Les Shirley",
-          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
-        }
-      ],
-      "duration_ms": 158986,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/3RY2ZZ9CYeWh7spVMEABtZ"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
         "name": "LUNGS! LUNGS! LUNGS!",
         "url": "https://open.spotify.com/album/4758fSvElutPcrpl3FIGVp"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "sen",
-        "url": "https://open.spotify.com/album/0X00vseB24ES6tKNoFKopM"
-      },
-      "artists": [
-        {
-          "name": "Kee Avil",
-          "url": "https://open.spotify.com/artist/178F3Nm61BKsUtDP3egSoR"
-        }
-      ],
-      "duration_ms": 161061,
-      "name": "sen",
-      "url": "https://open.spotify.com/track/4QpXoIUglAyedO4arG8lin"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
         "name": "merci la vie",
         "url": "https://open.spotify.com/album/0nNlOWs8MzEJT5bPa0JZjX"
       },
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "Where You Haunt Me: Part 2",
-        "url": "https://open.spotify.com/album/2LXonM7FX9YMTfSRASV2Rb"
+        "name": "sen",
+        "url": "https://open.spotify.com/album/0X00vseB24ES6tKNoFKopM"
       },
       "artists": [
         {
-          "name": "Dear Youth",
-          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
+          "name": "Kee Avil",
+          "url": "https://open.spotify.com/artist/178F3Nm61BKsUtDP3egSoR"
         }
       ],
-      "duration_ms": 199320,
-      "name": "I Can't Give You What You Want",
-      "url": "https://open.spotify.com/track/69vnX0jY8jLoTQ2fsJpoM9"
+      "duration_ms": 161061,
+      "name": "sen",
+      "url": "https://open.spotify.com/track/4QpXoIUglAyedO4arG8lin"
     },
     {
       "added_at": "2026-09-25 04:04:07",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-09-25 04:04:07",
       "album": {
-        "name": "JENNY",
-        "url": "https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf"
-      },
-      "artists": [
-        {
-          "name": "Fyore",
-          "url": "https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk"
-        }
-      ],
-      "duration_ms": 185384,
-      "name": "JENNY",
-      "url": "https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc"
-    },
-    {
-      "added_at": "2026-09-25 04:04:07",
-      "album": {
         "name": "Saint Loreto",
         "url": "https://open.spotify.com/album/5hXcv9dclv6JAUmTmcha0W"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 183000,
       "name": "Saint Loreto",
       "url": "https://open.spotify.com/track/0v5558IQMhOWIInaVeb9wI"
+    },
+    {
+      "added_at": "2026-09-25 04:04:07",
+      "album": {
+        "name": "JENNY",
+        "url": "https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf"
+      },
+      "artists": [
+        {
+          "name": "Fyore",
+          "url": "https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk"
+        }
+      ],
+      "duration_ms": 185384,
+      "name": "JENNY",
+      "url": "https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc"
     },
     {
       "added_at": "2026-09-25 04:04:07",

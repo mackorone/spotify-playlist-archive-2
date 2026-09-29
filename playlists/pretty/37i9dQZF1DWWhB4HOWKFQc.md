@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: MASDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520,039 likes - 91 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,520,091 likes - 91 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

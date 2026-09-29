@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Descubre todo lo nuevo de la semana, El Malilla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,557 likes - 96 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,519 likes - 96 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 35 | [SUPER INTENSO \(with Hamilton\)](https://open.spotify.com/track/6mNe3iEDfjHYS5tvTVFikv) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [SUPER INTENSO \(with Hamilton\)](https://open.spotify.com/album/2vvsLhc2MTLzioJ2rQgxCk) | 2:48 |
 | 36 | [filo](https://open.spotify.com/track/7ohCuIYhXzHYCetS2kSQQv) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv) | [filo](https://open.spotify.com/album/6hUPD4zsXSEwQCOWeoBHjv) | 3:09 |
 | 37 | [En un segundo](https://open.spotify.com/track/6uMA3GVDprH8MxLh6agnOS) | [Natalia Siller](https://open.spotify.com/artist/1gxYKvMOU52wMnLqXXsglV), [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [En un segundo](https://open.spotify.com/album/6XBWWVHmmNZE6d6ENkout7) | 2:52 |
-| 38 | [Respira y ya](https://open.spotify.com/track/27BWtWPohMX3xWtcq2tKok) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Baby Garo](https://open.spotify.com/artist/0vNzeJ9CF6OIACPHhsump5) | [Respira y ya](https://open.spotify.com/album/0uOdaFxMU6wZXr760wSsaz) | 2:43 |
+| 38 | [Respira y ya](https://open.spotify.com/track/27BWtWPohMX3xWtcq2tKok) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Baby Garo](https://open.spotify.com/artist/1v5jtZLPHmUo8VVxldEE9x) | [Respira y ya](https://open.spotify.com/album/0uOdaFxMU6wZXr760wSsaz) | 2:43 |
 | 39 | [Estando Aquí](https://open.spotify.com/track/173nMkh4wmA5neXdJrZURV) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Estando Aquí](https://open.spotify.com/album/77zExM3AgGcfL2AqvRfrvV) | 4:08 |
 | 40 | [La Mala Del Cuento](https://open.spotify.com/track/1oWIAzB5i0IOkhRE9VqqFJ) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [La Mala Del Cuento](https://open.spotify.com/album/639DYLAvmcW9K9rLfIb9pw) | 2:39 |
 | 41 | [The Better Life](https://open.spotify.com/track/3aqhWlFrwzWbdifUKTfM0x) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [The Better Life](https://open.spotify.com/album/0cYi2gKf1KHy9cSUuE5QrX) | 4:29 |

@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Siri Xander
 
-817 songs - 2 day 0 hr 2 min
+818 songs - 2 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Mudhal Murai](https://open.spotify.com/track/4OviPeDTY1Vpms9qSF0HK5) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Dharrini Santhabavan](https://open.spotify.com/artist/5RgQJpUJIaouCA81goKiOW) | [Mudhal Murai](https://open.spotify.com/album/7ikAlqIH9VPsYdwwRyPglQ) | 2:42 | 2026-06-26 |  |
 | [Mudhal Parvai](https://open.spotify.com/track/5FxxAxh44uxHb6Zr8zXFWg) | [Alvin Bruno](https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC), [The Papori Harsh Project](https://open.spotify.com/artist/7GO5R5zKT9i36NqNMIQzVJ) | [Mudhal Parvai](https://open.spotify.com/album/7yo7xr8UUV6zI7n0ESV4sh) | 3:27 | 2023-01-06 | 2023-03-18 |
 | [Mugangal maarumo](https://open.spotify.com/track/6Z4aDnCzqR5fAs81hqyS6U) | [Ponkundram](https://open.spotify.com/artist/1oOMV1i6RXQag9uraVqkW3), [Shankara TPK](https://open.spotify.com/artist/2ZO9iDuD5fb8Cm57Ni7D8G) | [MOUNAM](https://open.spotify.com/album/3zrBiHKgxiZhjVCI8N7WfI) | 2:58 | 2022-06-17 | 2022-07-28 |
+| [Muppaattan Raagame](https://open.spotify.com/track/4rmcuACc8vlUQQab3NBgn8) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Anthakudi Ilayaraja](https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d) | [Muppaattan Raagame](https://open.spotify.com/album/7kB0BlQRAzdEAtD0udUtNe) | 3:37 | 2026-09-28 |  |
 | [Muthu Pechi](https://open.spotify.com/track/2jb91mkPf0mA7ENeqZtVEN) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Muthu Pechi](https://open.spotify.com/album/1eKm9WrHW8wlDpB2qnscRg) | 4:20 | 2022-05-23 | 2022-07-15 |
 | [Muttaama Muttikkittu](https://open.spotify.com/track/1UKzVUxQlgvCqYYgDfDZxt) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy) | [Muttaama Muttikkittu](https://open.spotify.com/album/3QXZKbzxulssdN6GieJDje) | 3:04 | 2024-04-29 | 2025-08-21 |
 | [Muttakannu Muniyamma](https://open.spotify.com/track/3ybSwFM2db15GxVltElgqX) | [GANA SUDHAKAR](https://open.spotify.com/artist/3EHS6onaVedl3OXWXJmlHq), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Karthick Devaraj](https://open.spotify.com/artist/3ddyHcnuLRbU4EhCOvEI1N), [Shruthika](https://open.spotify.com/artist/68OFF6t8p1M56tcmuamHsT) | [Muttakannu Muniyamma](https://open.spotify.com/album/6Vr7ctpI4FqTjFwq5BsGII) | 3:16 | 2023-03-31 | 2023-07-15 |

@@ -1,6 +1,6 @@
 {
   "description": "Suomen suurin ja paras rock-soittolista. ",
-  "num_followers": 120119,
+  "num_followers": 120113,
   "original_name": "VOLUME SUOMI",
   "owner": {
     "name": "Spotify",
@@ -106,6 +106,10 @@
         {
           "name": "Kalandra",
           "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        },
+        {
+          "name": "CONTROL Resonant",
+          "url": "https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l"
         }
       ],
       "duration_ms": 249784,

@@ -4,7 +4,7 @@
 
 > Giovane Drago in cover della playlist con il futuro del rap italiano 📈
 
-2,631 songs - 4 day 14 hr 49 min
+2,632 songs - 4 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [BATIMENT \#2 \(feat\. Baby Gang\)](https://open.spotify.com/track/3w0OOMArLZWeMitNkH6C4m) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [UNA BANDIERA](https://open.spotify.com/album/1WzvS4vSVa2YyzfzTYXm5U) | 2:41 | 2023-09-14 | 2023-11-03 |
 | [BATMAN \(feat\. Taxi B\)](https://open.spotify.com/track/7cLxlBFQVQeJw22itW3mv2) | [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE), [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [BATMAN \(feat\. Taxi B\)](https://open.spotify.com/album/6fUxnW94DLBaGJkP0YgVha) | 2:51 | 2024-01-04 | 2024-01-19 |
 | [Battere Cassa](https://open.spotify.com/track/75Ou9MlOFgsJMYaynRLPhm) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV) | [CODICE DA INCIS](https://open.spotify.com/album/3q4VZk659YiCdOoel7cdWY) | 2:01 | 2022-12-01 | 2023-01-20 |
+| [BATTISTA](https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ) | [BATTISTA](https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN) | [BATTISTA](https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW) | 2:37 | 2026-09-28 |  |
 | [Batto il piede giù](https://open.spotify.com/track/7B6YpmeNk6cl10ACUd0jIb) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK) | [Batto il piede giù](https://open.spotify.com/album/39inoBrpaaTTXTMY94qsKa) | 1:51 | 2024-06-13 | 2024-06-28 |
 | [BB](https://open.spotify.com/track/3hmYAR2dKvTWB4Foq5fCIq) | [ayo ally](https://open.spotify.com/artist/6Xa2PfSltPs34Bi5OP6nQR), [Rossella Essence](https://open.spotify.com/artist/5uw59dgrWXoss2sg9TC3HD) | [BB](https://open.spotify.com/album/1shsEZNDtYpU2WJbfCSqVy) | 2:00 | 2025-01-21 | 2025-02-21 |
 | [BBL \(feat\. Gojardi\)](https://open.spotify.com/track/50tvWz1CqRBtIE0Keezavo) | [Joejoe](https://open.spotify.com/artist/2SGdTSyPqPFhyv74y6WEiD), [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk) | [POV](https://open.spotify.com/album/0AEcAADmsQAR8U1hpilHte) | 2:12 | 2026-04-23 | 2026-05-01 |

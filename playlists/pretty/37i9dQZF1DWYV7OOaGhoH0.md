@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Humbird
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,682,379 likes - 130 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,682,244 likes - 130 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

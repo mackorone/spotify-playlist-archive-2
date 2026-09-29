@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 81726,
+  "num_followers": 81741,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
+        "name": "Dicht Bij Het Vuur",
+        "url": "https://open.spotify.com/album/28hXQjFqMi1OVhV7YAVL1s"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 224610,
+      "name": "Dicht Bij Het Vuur",
+      "url": "https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t"
+    },
+    {
+      "added_at": "2026-09-24 22:00:09",
+      "album": {
         "name": "Wat Als Ik Wat Mis",
         "url": "https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 165001,
       "name": "Wat Als Ik Wat Mis",
       "url": "https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ"
-    },
-    {
-      "added_at": "2026-09-24 22:00:09",
-      "album": {
-        "name": "Mijn Liefste",
-        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 190086,
-      "name": "Mijn Liefste",
-      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
-        "name": "Dicht Bij Het Vuur",
-        "url": "https://open.spotify.com/album/28hXQjFqMi1OVhV7YAVL1s"
+        "name": "Mijn Liefste",
+        "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
       },
       "artists": [
         {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
         }
       ],
-      "duration_ms": 224610,
-      "name": "Dicht Bij Het Vuur",
-      "url": "https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t"
+      "duration_ms": 190086,
+      "name": "Mijn Liefste",
+      "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
-        "name": "Ik Kom Weer Thuis",
-        "url": "https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk"
-      },
-      "artists": [
-        {
-          "name": "Isab\u00e8l Usher",
-          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
-        }
-      ],
-      "duration_ms": 183281,
-      "name": "Ik Kom Weer Thuis",
-      "url": "https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v"
-    },
-    {
-      "added_at": "2026-09-24 22:00:09",
-      "album": {
         "name": "Beste Zangers 2025 (KiKa aflevering)",
         "url": "https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 234101,
       "name": "Zo Stil",
       "url": "https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH"
+    },
+    {
+      "added_at": "2026-09-24 22:00:09",
+      "album": {
+        "name": "Ik Kom Weer Thuis",
+        "url": "https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "duration_ms": 183281,
+      "name": "Ik Kom Weer Thuis",
+      "url": "https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
+        "name": "Je weet dat ik zo ben",
+        "url": "https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr"
+      },
+      "artists": [
+        {
+          "name": "LOE.",
+          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
+        }
+      ],
+      "duration_ms": 182710,
+      "name": "Je weet dat ik zo ben",
+      "url": "https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a"
+    },
+    {
+      "added_at": "2026-09-24 22:00:09",
+      "album": {
         "name": "Ik Zeg Niets",
         "url": "https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 154752,
       "name": "Kingsize Bed",
       "url": "https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb"
-    },
-    {
-      "added_at": "2026-09-24 22:00:09",
-      "album": {
-        "name": "Je weet dat ik zo ben",
-        "url": "https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr"
-      },
-      "artists": [
-        {
-          "name": "LOE.",
-          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
-        }
-      ],
-      "duration_ms": 182710,
-      "name": "Je weet dat ik zo ben",
-      "url": "https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
-        "name": "Tijd Genoeg",
-        "url": "https://open.spotify.com/album/4siS27nBLU55Lq1yXkomP3"
-      },
-      "artists": [
-        {
-          "name": "Gers Pardoel",
-          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
-        }
-      ],
-      "duration_ms": 160692,
-      "name": "Tijd Genoeg",
-      "url": "https://open.spotify.com/track/42McJVUcfS9EsBiGKrGRf6"
-    },
-    {
-      "added_at": "2026-09-24 22:00:09",
-      "album": {
         "name": "Bemin Me Later (uit Liefde Voor Muziek)",
         "url": "https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 218906,
       "name": "Bemin Me Later (uit Liefde Voor Muziek)",
       "url": "https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM"
+    },
+    {
+      "added_at": "2026-09-24 22:00:09",
+      "album": {
+        "name": "Tijd Genoeg",
+        "url": "https://open.spotify.com/album/4siS27nBLU55Lq1yXkomP3"
+      },
+      "artists": [
+        {
+          "name": "Gers Pardoel",
+          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
+        }
+      ],
+      "duration_ms": 160692,
+      "name": "Tijd Genoeg",
+      "url": "https://open.spotify.com/track/42McJVUcfS9EsBiGKrGRf6"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
-        "name": "Zij Bij Mij",
-        "url": "https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD"
-      },
-      "artists": [
-        {
-          "name": "Leev",
-          "url": "https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy"
-        }
-      ],
-      "duration_ms": 132754,
-      "name": "Zij Bij Mij",
-      "url": "https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN"
-    },
-    {
-      "added_at": "2026-09-24 22:00:09",
-      "album": {
         "name": "Wegwerpliefde",
         "url": "https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 181823,
       "name": "Ik Heb Je Gemist",
       "url": "https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM"
+    },
+    {
+      "added_at": "2026-09-24 22:00:09",
+      "album": {
+        "name": "Zij Bij Mij",
+        "url": "https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD"
+      },
+      "artists": [
+        {
+          "name": "Leev",
+          "url": "https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy"
+        }
+      ],
+      "duration_ms": 132754,
+      "name": "Zij Bij Mij",
+      "url": "https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN"
     },
     {
       "added_at": "2026-09-24 22:00:09",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-09-24 22:00:09",
       "album": {
+        "name": "Wie houdt me dan vast",
+        "url": "https://open.spotify.com/album/27sC36Ql6ak1cjd1jAazDZ"
+      },
+      "artists": [
+        {
+          "name": "Fenster",
+          "url": "https://open.spotify.com/artist/6KsLhQA2hXRIkvBsoKWqsR"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Wie houdt me dan vast",
+      "url": "https://open.spotify.com/track/3MID4OtrctGYUjmechLmSH"
+    },
+    {
+      "added_at": "2026-09-24 22:00:09",
+      "album": {
         "name": "Tijd Genoeg",
         "url": "https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 171759,
       "name": "Tijd Genoeg",
       "url": "https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe"
-    },
-    {
-      "added_at": "2026-09-24 22:00:09",
-      "album": {
-        "name": "Wie houdt me dan vast",
-        "url": "https://open.spotify.com/album/27sC36Ql6ak1cjd1jAazDZ"
-      },
-      "artists": [
-        {
-          "name": "Fenster",
-          "url": "https://open.spotify.com/artist/6KsLhQA2hXRIkvBsoKWqsR"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Wie houdt me dan vast",
-      "url": "https://open.spotify.com/track/3MID4OtrctGYUjmechLmSH"
     },
     {
       "added_at": "2026-09-24 22:00:09",

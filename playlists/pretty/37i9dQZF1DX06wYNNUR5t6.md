@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 
 > Recent hits from all your favorite Christian Rock artists!  Cover: Skillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,724 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,755 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 49 | [Black Light](https://open.spotify.com/track/01cIqV4RrN3YoRNcnzVXSr) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Violence](https://open.spotify.com/album/1JEGmU4yqtuuFceHpVCvHK) | 5:02 |
 | 50 | [Great & Glorious](https://open.spotify.com/track/4mSVcERkW5b0xTXw0TXTiR) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Great & Glorious](https://open.spotify.com/album/2vTv7MptGPseAOXVpH9z8J) | 5:34 |
 
-Snapshot ID: `AAAAALwRJ0xmbJHhJ2C73mspyO4usIdo`
+Snapshot ID: `AAAAAMPE2/+BLoteJ1F2YGgiOULrdauJ`
