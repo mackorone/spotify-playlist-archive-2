@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Salma Salsabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,882 likes - 108 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,897 likes - 108 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 107 | [can i call you mine?](https://open.spotify.com/track/54VeIZq9gL5R2fWpM4PcbN) | [Alvin Jo](https://open.spotify.com/artist/3MnsmeScJneDmgu8u3OeNL), [Leona Zhen](https://open.spotify.com/artist/55AXEXlaTFIkcnIpAUuo7h) | [can i call you mine?](https://open.spotify.com/album/0YPiIAiraX4dYKEn68A64f) | 2:47 |
 | 108 | [Nikmatilah](https://open.spotify.com/track/6IMPesk9xNoUITOT47UDSL) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Bittersweet](https://open.spotify.com/album/2zMXIFOdoyOWgQ4YHccLfT) | 3:08 |
 
-Snapshot ID: `AAAAAD/banMLCwmRTm5Pa8ncT944o2vI`
+Snapshot ID: `AAAAAIE4aVx76DfjiZTMh2skm1hVeZES`

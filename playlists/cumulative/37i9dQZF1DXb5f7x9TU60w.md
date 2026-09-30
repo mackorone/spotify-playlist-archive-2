@@ -4,7 +4,7 @@
 
 > Light, uplifting acoustic Disney Guitar for calm starts, clear focus, and daily momentum.
 
-154 songs - 7 hr 42 min
+155 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Man or Muppet](https://open.spotify.com/track/1w18QEME2WDke5CCiI0Pws) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Break Time](https://open.spotify.com/album/3bpgROclnnWm7clCFgmweI) | 2:46 | 2024-04-19 |  |
 | [Married Life](https://open.spotify.com/track/4xAKENd9UiixhSKpn8faIJ) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Love](https://open.spotify.com/album/0cDO2axPuP9qdavq42rMug) | 1:54 | 2024-04-19 | 2026-04-24 |
 | [Movin' Right Along \- John Connearn Version](https://open.spotify.com/track/6Xq3Yt9diMVM0CqATEKvK3) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: The John Connearn Sessions](https://open.spotify.com/album/0s1MA78U1pEG2Bxcyg4n6u) | 2:58 | 2024-04-19 | 2026-04-24 |
+| [My Own Drum \(Guitar Version\)](https://open.spotify.com/track/4gkA94d9ybeQvFYco7IqJ9) | [IIya Toshinskiy](https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT) | [My Own Drum \(From "Camp Rock 3"\)](https://open.spotify.com/album/1o10daOaf70vpTVitEf1gc) | 3:43 | 2026-09-29 |  |
 | [Nothing Can Stop Us Now](https://open.spotify.com/track/28uyL3cnyhSjr2q3aekQNK) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: A Day at the Parks](https://open.spotify.com/album/5t3F8TDpF1IacaFLhYvjQP) | 2:23 | 2026-09-18 |  |
 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 | 2024-04-19 | 2026-04-24 |
 | [Once Upon a Dream](https://open.spotify.com/track/1jHNQodYIGvk187xrISw1i) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 1:49 | 2024-04-19 | 2026-09-16 |

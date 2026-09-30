@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Aziz Hedra
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,887 likes - 105 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,885 likes - 105 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 104 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 |
 | 105 | [Bae Bong Bong](https://open.spotify.com/track/62O3o65tOMEiMk7yDOIrDt) | [Tatiana](https://open.spotify.com/artist/516KmuU4W8i5m4eL06CfBH) | [Bae Bong Bong](https://open.spotify.com/album/1aF8NhjH7kkjfiDFYkGMWR) | 2:34 |
 
-Snapshot ID: `AAAAAAexb86Up1Z5gMfmgTDSIEJUPQ4Q`
+Snapshot ID: `AAAAACrfOhEqm4QUF9C2Phuwm1d81QWX`

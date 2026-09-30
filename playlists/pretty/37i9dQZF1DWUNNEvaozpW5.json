@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa con Kiko Veneno.",
-  "num_followers": 620337,
+  "num_followers": 620361,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPY0ZhR1f+EP6Xkm9d05TUI54gLV",
+  "snapshot_id": "AAAAAJjOMQsxx83Caji/17zITQE5GBH9",
   "tracks": [
     {
       "added_at": "2026-09-24 22:01:31",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-09-24 22:01:31",
       "album": {
-        "name": "La Ley Del Desierto",
-        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Escuela de Calor",
-      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
-    },
-    {
-      "added_at": "2026-09-24 22:01:31",
-      "album": {
         "name": "Ahora o nunca",
         "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 189600,
       "name": "Y volar (con los Caligaris)",
       "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
+    },
+    {
+      "added_at": "2026-09-24 22:01:31",
+      "album": {
+        "name": "La Ley Del Desierto",
+        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Escuela de Calor",
+      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
     },
     {
       "added_at": "2026-09-24 22:01:31",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-09-24 22:01:31",
       "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
-    },
-    {
-      "added_at": "2026-09-24 22:01:31",
-      "album": {
         "name": "Hecho En Tiempos De Paz",
         "url": "https://open.spotify.com/album/4exNBd0XUQ8bgkRf8G4awo"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 163316,
       "name": "Fuimos Felices Aqu\u00ed",
       "url": "https://open.spotify.com/track/3OPLIc4ivg0ccEV8KXLSE7"
+    },
+    {
+      "added_at": "2026-09-24 22:01:31",
+      "album": {
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
     },
     {
       "added_at": "2026-09-24 22:01:31",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-09-24 22:01:31",
       "album": {
-        "name": "La Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
-      },
-      "artists": [
-        {
-          "name": "La Frontera",
-          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "El Limite",
-      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
-    },
-    {
-      "added_at": "2026-09-24 22:01:31",
-      "album": {
         "name": "Hasta que me quede sin voz",
         "url": "https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 306861,
       "name": "Hasta que me quede sin voz",
       "url": "https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v"
+    },
+    {
+      "added_at": "2026-09-24 22:01:31",
+      "album": {
+        "name": "La Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
+      },
+      "artists": [
+        {
+          "name": "La Frontera",
+          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "El Limite",
+      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
     },
     {
       "added_at": "2026-09-24 22:01:31",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-09-24 22:01:31",
       "album": {
-        "name": "Corre Corre",
-        "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f1o",
-          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
-        }
-      ],
-      "duration_ms": 245440,
-      "name": "Sorprendente",
-      "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
-    },
-    {
-      "added_at": "2026-09-24 22:01:31",
-      "album": {
         "name": "Fugitivos De Paraiso",
         "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 231000,
       "name": "Corazon de Tango",
       "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
+    },
+    {
+      "added_at": "2026-09-24 22:01:31",
+      "album": {
+        "name": "Corre Corre",
+        "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f1o",
+          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
+        }
+      ],
+      "duration_ms": 245440,
+      "name": "Sorprendente",
+      "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
     },
     {
       "added_at": "2026-09-24 22:01:31",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-09-24 22:01:31",
       "album": {
+        "name": "Fitograf\u00eda",
+        "url": "https://open.spotify.com/album/4zSihveMwgYWHA5Bkw29Ug"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Por la boca vive el pez",
+      "url": "https://open.spotify.com/track/1mOOMcUSzzsyzKmlukM1m4"
+    },
+    {
+      "added_at": "2026-09-24 22:01:31",
+      "album": {
         "name": "Los Singles",
         "url": "https://open.spotify.com/album/4OHtmXevEbNgLl7nfa9IMG"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 245533,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
-    },
-    {
-      "added_at": "2026-09-24 22:01:31",
-      "album": {
-        "name": "20 a\u00f1os de canciones",
-        "url": "https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
     },
     {
       "added_at": "2026-09-24 22:01:31",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2026-09-24 22:01:31",
       "album": {
-        "name": "Fitograf\u00eda",
-        "url": "https://open.spotify.com/album/4zSihveMwgYWHA5Bkw29Ug"
+        "name": "20 a\u00f1os de canciones",
+        "url": "https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3"
       },
       "artists": [
         {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
         }
       ],
-      "duration_ms": 269373,
-      "name": "Por la boca vive el pez",
-      "url": "https://open.spotify.com/track/1mOOMcUSzzsyzKmlukM1m4"
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
     },
     {
       "added_at": "2026-09-24 22:01:31",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-09-24 22:01:31",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "Pacto Entre Caballeros",
-      "url": "https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5"
-    },
-    {
-      "added_at": "2026-09-24 22:01:31",
-      "album": {
         "name": "Punto de Colisi\u00f3n",
         "url": "https://open.spotify.com/album/5TgxyfEFys8acyZHPAi4w8"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 242005,
       "name": "Punto de Colisi\u00f3n",
       "url": "https://open.spotify.com/track/0W5WdG9xYM22G2GbJEanNd"
+    },
+    {
+      "added_at": "2026-09-24 22:01:31",
+      "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "Pacto Entre Caballeros",
+      "url": "https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5"
     },
     {
       "added_at": "2026-09-24 22:01:31",
@@ -1955,6 +1955,34 @@
     {
       "added_at": "2026-09-24 22:01:31",
       "album": {
+        "name": "Hey chaval",
+        "url": "https://open.spotify.com/album/561d8Vu5jtwni9WH0Tn58h"
+      },
+      "artists": [
+        {
+          "name": "Chiquita Movida",
+          "url": "https://open.spotify.com/artist/7chkUZGYVGXjl19G8Di1Rr"
+        },
+        {
+          "name": "Rayden",
+          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
+        },
+        {
+          "name": "Mediyama",
+          "url": "https://open.spotify.com/artist/4AvBrqytoNTLyrxvmmTR6o"
+        },
+        {
+          "name": "Skiz7",
+          "url": "https://open.spotify.com/artist/2v7G5QXX2BqCnHRil1IVKZ"
+        }
+      ],
+      "duration_ms": 263924,
+      "name": "Hey chaval",
+      "url": "https://open.spotify.com/track/0egCH56ZdxPxAwSdIkPk8s"
+    },
+    {
+      "added_at": "2026-09-24 22:01:31",
+      "album": {
         "name": "Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
       },
@@ -1999,34 +2027,6 @@
       "duration_ms": 173226,
       "name": "Pienso en Aquella Tarde",
       "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
-    },
-    {
-      "added_at": "2026-09-24 22:01:31",
-      "album": {
-        "name": "Hey chaval",
-        "url": "https://open.spotify.com/album/561d8Vu5jtwni9WH0Tn58h"
-      },
-      "artists": [
-        {
-          "name": "Chiquita Movida",
-          "url": "https://open.spotify.com/artist/7chkUZGYVGXjl19G8Di1Rr"
-        },
-        {
-          "name": "Rayden",
-          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
-        },
-        {
-          "name": "Mediyama",
-          "url": "https://open.spotify.com/artist/4AvBrqytoNTLyrxvmmTR6o"
-        },
-        {
-          "name": "Skiz7",
-          "url": "https://open.spotify.com/artist/2v7G5QXX2BqCnHRil1IVKZ"
-        }
-      ],
-      "duration_ms": 263924,
-      "name": "Hey chaval",
-      "url": "https://open.spotify.com/track/0egCH56ZdxPxAwSdIkPk8s"
     },
     {
       "added_at": "2026-09-24 22:01:31",

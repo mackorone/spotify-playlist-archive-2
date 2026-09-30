@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,000 likes - 216 songs - 11 hr 16 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,007 likes - 228 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,5 +224,17 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 214 | [MAX OUT](https://open.spotify.com/track/5pDkBCb5021OJNNTmtLfOV) | [dummy co.](https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF), [Kool Karlo](https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb) | [MAX OUT](https://open.spotify.com/album/4RHWCqUVZOGnbhYie712hF) | 3:12 |
 | 215 | [3310](https://open.spotify.com/track/3So0t6yWitZo8BHQRvwrYW) | [Medberg](https://open.spotify.com/artist/3qrpnEUKcDuV7MoR4gzyXf) | [3310](https://open.spotify.com/album/0yCf08eKIjClp2oQ6o9CoJ) | 2:30 |
 | 216 | [Destino](https://open.spotify.com/track/2q562ZRCVpakSKAzzTKIDE) | [Eleonora Bianchini](https://open.spotify.com/artist/2fGV2nlAbS9UleAqXgULrR) | [Destino](https://open.spotify.com/album/162Aa3hYQqEEBYsauAwlpj) | 2:55 |
+| 217 | [With This Melody](https://open.spotify.com/track/5031VzFl8hlPCeTBprfIb1) | [Olivia Paris](https://open.spotify.com/artist/09VWU7KJvYfViZDFL5r3PR) | [A Poet's Requiem](https://open.spotify.com/album/3mmYkYzMVQMPOLwDnhW8RI) | 3:02 |
+| 218 | [Like me](https://open.spotify.com/track/7FECnSzY3UEAOhx6YhnA8q) | [Kaylen Naicker](https://open.spotify.com/artist/1Szyc5NvqgejrLRPbEVFPv) | [NOT CLOSE ENOUGH](https://open.spotify.com/album/0Z7a3Q6jDa35xuZVEgeESa) | 1:45 |
+| 219 | [Emo Werewolf](https://open.spotify.com/track/4wOcrl7qs1uE0VAoAxCrBB) | [Velcro Scars](https://open.spotify.com/artist/51nu35m42ANVB85bNip6jy) | [Emo Werewolf](https://open.spotify.com/album/4l0mgZZIIXrbqTT9WjXmhi) | 3:17 |
+| 220 | [wonders](https://open.spotify.com/track/34uKFRh02q5fvoGrBFoX1o) | [Kashxsoul](https://open.spotify.com/artist/4VCgxk9tkWML9L2iqCorm9) | [wonders](https://open.spotify.com/album/6AZpxG1JLYNkvJEE3y3Eho) | 3:10 |
+| 221 | [Regret](https://open.spotify.com/track/530rThYsYL2cUYdnb2A3g2) | [BadCooliemuzik](https://open.spotify.com/artist/1YUwMm81z6Q8dV3dOlj2sY) | [Regret](https://open.spotify.com/album/1uOH1CmVGHE4960xH4n1rp) | 3:05 |
+| 222 | [720 Hours](https://open.spotify.com/track/0hMatB2kaGiRQt1J1Xp1sg) | [Sari](https://open.spotify.com/artist/0DYmUShcaeP46qeWK3JQfV) | [720 Hours](https://open.spotify.com/album/7Je3uwhFZko9q3TPCz3RCr) | 2:26 |
+| 223 | [Little Enemy](https://open.spotify.com/track/44Cp6SHZNlhYf6XeqFq7ub) | [mattioeu](https://open.spotify.com/artist/22YE4xyIXEfvJqVrrPRcl1) | [Little Enemy](https://open.spotify.com/album/0qKj08Li87EbsIl02i2ab0) | 2:01 |
+| 224 | [Blind Justitia](https://open.spotify.com/track/6xQNRfHMQSdYEek7lpB7Mz) | [Bardic Fae](https://open.spotify.com/artist/6MohN0N3a8BVjlFbmOskTo), [Ben Goheen](https://open.spotify.com/artist/09r7wwF94d053uyt23dk4d) | [Blind Justitia](https://open.spotify.com/album/2FZbKXX1nisMSgRCOj3aI1) | 2:49 |
+| 225 | [Ta robe ébène](https://open.spotify.com/track/55barqEyVqBwZzWzpZD0YV) | [Strophes noctambules](https://open.spotify.com/artist/0FeUdQgEKYZPq10H9JRPT4) | [Vers la nuit](https://open.spotify.com/album/6HMKEKXMgbVoWTdMVlZzPq) | 3:47 |
+| 226 | [Everything Dramatic](https://open.spotify.com/track/1WPyjalvNVFdsnR34F1mqS) | [meg\-mel](https://open.spotify.com/artist/7tzv6zqDYeq1KM706woy32) | [Everything Dramatic](https://open.spotify.com/album/0m077WZAMwuSNbt8jFujHT) | 3:07 |
+| 227 | [Fall](https://open.spotify.com/track/3rvISbWtHi8WbObVAgaqnd) | [Tom Morfitt\-White](https://open.spotify.com/artist/18WLf5Us2DdwwnPqSB9rSs) | [Love Me Now](https://open.spotify.com/album/27CzYYvZ5YrKosu2hFotI9) | 3:21 |
+| 228 | [One Second](https://open.spotify.com/track/68m82grIl5xEQijTlsPb2e) | [babybenny](https://open.spotify.com/artist/3AV1L6Ufi50ZkuY3bU9Fkq) | [One Second](https://open.spotify.com/album/1gixH6626pzWbq4MTRqPiT) | 1:32 |
 
-Snapshot ID: `AAA8pzjk1PvpBW+CU44UQwuqI6SivgtB`
+Snapshot ID: `AAA8s5QpmlcBaPRHfl0md037XvjPvRre`

@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 216714,
       "name": "bez ciebie",
       "url": "https://open.spotify.com/track/3Pfn5Rl7XmzhXiMaHWmreY"
@@ -10168,6 +10168,24 @@
       "duration_ms": 162000,
       "name": "Nie m\u00f3w",
       "url": "https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo"
+    },
+    {
+      "album": {
+        "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
+        "url": "https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK"
+      },
+      "artists": [
+        {
+          "name": "Larah",
+          "url": "https://open.spotify.com/artist/57LOwYXV6VIq1pMLQUwkjp"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174243,
+      "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
+      "url": "https://open.spotify.com/track/0d75CV33jqW9Bgv4ZGyw3v"
     },
     {
       "album": {

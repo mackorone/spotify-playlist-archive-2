@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,216 songs - 2 day 14 hr 52 min
+1,217 songs - 2 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [Les Boss](https://open.spotify.com/track/197DrQNZuJmXILLAx0iKYO) | [Lebouseuh](https://open.spotify.com/artist/66RsL7LgNRvHNp09UqdtTf), [Pidi](https://open.spotify.com/artist/1r1Ugmy3z4r3lrsxurxBDx) | [Les Boss](https://open.spotify.com/album/3qDOGxShfquBWe2bjUK4AH) | 2:57 | 2024-02-23 | 2024-03-23 |
 | [Les derniers marioles \(feat\. SCH\)](https://open.spotify.com/track/3aIH3DPcGwMDPlOl43Lufl) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Les derniers marioles \(feat\. SCH\)](https://open.spotify.com/album/4RzryyT7JcO6cwuT8Kjbeb) | 3:31 | 2023-07-07 | 2023-11-11 |
 | [Les filles désir](https://open.spotify.com/track/3Cc0xsYtoaPDjVZyiPHiQ4) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:16 | 2025-01-03 | 2025-03-20 |
+| [LES OUBLIETTES](https://open.spotify.com/track/4hiIaMYWpkB0xcWAZ2GuHU) | [Metah](https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF) | [LITTLE ITALY](https://open.spotify.com/album/7ofpw7I7KtFEF0AnL2Ehu5) | 2:49 | 2026-09-29 |  |
 | [Les rois du monde \- Roméo & Juliette, Les enfants de Vérone](https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb) | [Damien Sargue](https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO), [Cyril Niccolaï](https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm), [John Eyzen](https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J) | [Roméo Et Juliette, Les enfants de Vérone](https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46) | 3:25 | 2024-11-29 | 2025-01-04 |
 | [Let Him Go](https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Let Him Go](https://open.spotify.com/album/4kqyenhfePkTqSPqfPOOmg) | 2:24 | 2025-07-25 | 2025-09-11 |
 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 | 2023-12-01 | 2024-02-10 |
@@ -1054,7 +1055,7 @@
 | [Stars](https://open.spotify.com/track/4prkPuGjkzgYvdREsNw27F) | [Doums](https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Stars](https://open.spotify.com/album/4vtDzCPmcZMDJ1VgkUzzcx) | 3:09 | 2023-10-13 | 2024-04-20 |
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-01-30 | 2026-02-14 |
 | [Stay](https://open.spotify.com/track/1nZmAL8g00JnkTyKDkdwSy) | [Misdemeanor](https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu) | [Stay](https://open.spotify.com/album/7BZkRaAID4BE5UYine6H5W) | 3:14 | 2025-07-11 | 2025-08-24 |
-| [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 | 2026-09-17 |  |
+| [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 | 2026-09-17 | 2026-09-30 |
 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 | 2026-05-06 | 2026-05-30 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-08 | 2023-12-31 |
 | [STREET PLANT](https://open.spotify.com/track/6kH5188yKMm8ymTG6zdwiq) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [En attendant En Croix](https://open.spotify.com/album/5ydmahT8HXbCXBN20OtPOo) | 2:56 | 2026-03-27 | 2026-04-29 |

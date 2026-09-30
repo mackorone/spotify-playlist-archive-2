@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Hoodbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,595 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,637 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 49 | [Il ne s'agit que de ça](https://open.spotify.com/track/0EDRILx03sIkT0OdDv5coM) | [Dareal](https://open.spotify.com/artist/5OthBK5mStbcQ4oRNFLdma), [Stormz Kill It](https://open.spotify.com/artist/3UsoYEa3ZOJCJsNS8qjck8) | [Il ne s'agit que de ça](https://open.spotify.com/album/1942mfSy403xH37x8bfBFf) | 3:31 |
 | 50 | [Médaillon](https://open.spotify.com/track/7DTJxVjbo5Huz9nsStOiNt) | [FLOCKA ICE](https://open.spotify.com/artist/4GFpFNFM22K6DpBnLsJvrw) | [Médaillon](https://open.spotify.com/album/49nNj8EJpnFLbpp5BJXEiM) | 2:22 |
 
-Snapshot ID: `AAAAAIL63gFrSAYhjC2nw8bGNPNI1jsz`
+Snapshot ID: `AAAAAIir4ga9S8uFsyHZVP54xVahabXn`

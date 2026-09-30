@@ -1,12 +1,12 @@
 {
   "description": "Introducing the hottest classical music of 2026\ud83d\udd25",
-  "num_followers": 45854,
+  "num_followers": 45886,
   "original_name": "Classical Bangers 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABhwGHF5cRT7n0zAlOKX0a8wVyRI",
+  "snapshot_id": "AAAAAMLQ+9pI2G+RgK20/qRRsHQW470h",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:35",
@@ -2656,8 +2656,12 @@
       },
       "artists": [
         {
-          "name": "Rudy Wiedoeft & Domenico Savino",
-          "url": "https://open.spotify.com/artist/2nlt7LDKmHhcLKErVZoGXp"
+          "name": "Rudy Wiedoeft",
+          "url": "https://open.spotify.com/artist/1ObDFAlS2ZEJr303587dWG"
+        },
+        {
+          "name": "Domenico Savino",
+          "url": "https://open.spotify.com/artist/0VkOz8A6o6tI4SOqyLKESm"
         },
         {
           "name": "Chad Smith",
@@ -2666,10 +2670,18 @@
         {
           "name": "Lynette Wardle",
           "url": "https://open.spotify.com/artist/6pyX33g9OV6FNlMCowj1v5"
+        },
+        {
+          "name": "John Wilson",
+          "url": "https://open.spotify.com/artist/1Y6MR8p9QIPxDXS99IYmyh"
+        },
+        {
+          "name": "Sinfonia Of London",
+          "url": "https://open.spotify.com/artist/14WdLIrDMYGjtKZIrgQg4z"
         }
       ],
       "duration_ms": 238786,
-      "name": "Dans L\u2019Orient",
+      "name": "Dans l'orient (Arr. for Alto Saxophone & Harp by Lynette Wardle)",
       "url": "https://open.spotify.com/track/1RSHqgzv7qxksNDE9k8VTx"
     },
     {

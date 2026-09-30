@@ -5182,7 +5182,7 @@
       },
       "artists": [
         {
-          "name": "VCT",
+          "name": "V\u0169 C\u00e1t T\u01b0\u1eddng",
           "url": "https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A"
         }
       ],
@@ -21598,6 +21598,24 @@
       "duration_ms": 190213,
       "name": "Notting Hill",
       "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
+    },
+    {
+      "album": {
+        "name": "Do That Again",
+        "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219427,
+      "name": "Obsessica",
+      "url": "https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS"
     },
     {
       "album": {

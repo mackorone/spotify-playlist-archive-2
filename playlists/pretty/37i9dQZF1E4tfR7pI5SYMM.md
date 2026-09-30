@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4tfR7pI5SYMM.md) - [plain]
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With Autoimmune, The Dogs, MIK's Reaction and more
+> With The Dogs, Dan Fearon, The Charlie Marshall Effect and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 23 likes - 50 songs - 2 hr 55 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4tfR7pI5SYMM.md) - [plain]
 | 49 | [Don't put me in the microwave oven!](https://open.spotify.com/track/0mW28lsv520fpdpTCGvKrW) | [D.A.D.](https://open.spotify.com/artist/3dVcRUbt3Ss9kXhApqUjnW) | [D.A.D\. Dig and die](https://open.spotify.com/album/0wqA39u7ZzfbXqjnoaz7PH) | 2:52 |
 | 50 | [Alice Is Playing With Matches](https://open.spotify.com/track/5ucKU4NUCIu6nlHjAMK2VB) | [Vii\-Pii](https://open.spotify.com/artist/1yHisc887E51cW9ljgjnVZ) | [Dead Go Fast!](https://open.spotify.com/album/6MNu9bm0cws3oUkJKTwAm5) | 3:36 |
 
-Snapshot ID: `AAAAAFCIE8SzhP/eGuJstlPnvp6JM6uj`
+Snapshot ID: `AAAAAIyMfqqnoHFLHl+1MGbAn7I3V2K3`

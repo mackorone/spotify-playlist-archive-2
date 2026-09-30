@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: Sofía Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,457 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,459 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [Ya No Te Hago Falta](https://open.spotify.com/track/3bmIPzIMWc6gyyffBQUNUY) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Ya No Te Hago Falta](https://open.spotify.com/album/0xXzkv4Hpe6vCPTnU4yxop) | 2:48 |
 | 100 | [Niño Bosque](https://open.spotify.com/track/2iWOCZS5LTjTbRYDGtiD4y) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Niño Bosque](https://open.spotify.com/album/7ega2osbiK6lYmBFtPrHQd) | 2:56 |
 
-Snapshot ID: `AAAAABWqPZL09l6iGG4S5Pn33Tm6SR8M`
+Snapshot ID: `AAAAAMCaFWpumEDPf7QYB5eJmXk6/oEK`

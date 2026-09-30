@@ -3332,10 +3332,32 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 197324,
       "name": "Me vs. Us",
       "url": "https://open.spotify.com/track/1ZOZEC5MaEWsm6FkEUrYeI"
+    },
+    {
+      "album": {
+        "name": "Me vs. Us (Remixes)",
+        "url": "https://open.spotify.com/album/0b3cEOu6L3jjU8wN8oeFQN"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190146,
+      "name": "Me vs. Us - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/1LyKLfeH1HqEoYdunsLdmB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: El Bogueto
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,249 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,225 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 60 | [Palomino \- Remix](https://open.spotify.com/track/1IGc1w4X7LKjHbzU3svVXH) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Palomino \(Remix\)](https://open.spotify.com/album/5eK9c2t3ilEqEKR3F7mkQk) | 3:13 |
 | 61 | [Danceteria Afterhours](https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Danceteria Afterhours](https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9) | 3:50 |
 
-Snapshot ID: `AAAAAIOMqmKynmQUd4xt2ZZ94Y0iUw71`
+Snapshot ID: `AAAAALJZQO0WMW32qFn57WiAg7blkPi9`

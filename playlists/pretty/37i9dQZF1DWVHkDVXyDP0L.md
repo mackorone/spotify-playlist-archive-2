@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: EGOISM
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,979 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,980 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Kick in the Shins](https://open.spotify.com/track/49HPE6994YbBkPBZ2p88HJ) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Kick in the Shins](https://open.spotify.com/album/2uKLlmvupV6Kx6BheOIZcA) | 2:59 |
 | 100 | [Poles](https://open.spotify.com/track/0RUVO780hvunl7IZBgbc01) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Poles](https://open.spotify.com/album/2zjRFFrvL698MI1tk2NKow) | 3:38 |
 
-Snapshot ID: `AAAAAJVt5OuDvtjJIPNRxsrX43lDST0a`
+Snapshot ID: `AAAAAD0QR2i2bbllVVP44opA9emBt2tX`

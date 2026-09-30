@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes ♣️
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,512 likes - 150 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,604 likes - 150 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 149 | [Pulse](https://open.spotify.com/track/5g7gJzOgSt8iujy6DORM50) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [FLY](https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda) | [Pulse](https://open.spotify.com/album/78tirUQlTQeqiZpTyXdXkO) | 2:27 |
 | 150 | [Ancient Secrets](https://open.spotify.com/track/1ReUQBuR6rPojwvZJYyepT) | [Nyrus](https://open.spotify.com/artist/4K129VU520mAbin25QcKfH), [Serpentis](https://open.spotify.com/artist/7GDTaBQ5irjbkqAg8JIvbi) | [Ancient Secrets](https://open.spotify.com/album/1VWls87v6qVn7S9tXS0M1o) | 3:42 |
 
-Snapshot ID: `AAAAAPY6SN9B7P7tFEQFKQiLWzHvCmNk`
+Snapshot ID: `AAAAAFR6xvPYZYLwnFqXQb3FJvg0zcsM`

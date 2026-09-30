@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arhcgAAAAADJKnugZ6cV9BdQoKo4/HQY",
+  "snapshot_id": "armuAAAAAABlWvOv6a+zXQ3kCMesjA1e",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Princ\u00edpio e Fim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7iLSh4dOutEWR2qZO3NWtV"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 383913,
+      "name": "Princ\u00edpio e Fim - Ao Vivo",
+      "url": "https://open.spotify.com/track/7eaTivrbUG41ALipFdQYus"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vamos Cantar (Ao Vivo)",
         "url": "https://open.spotify.com/album/1xRXkUoEPB87tro7NXcAAe"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 368011,
       "name": "Vamos Cantar - Ao Vivo",
       "url": "https://open.spotify.com/track/28dhutzL2etPxNHo0nMWvp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Princ\u00edpio e Fim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7iLSh4dOutEWR2qZO3NWtV"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 383913,
-      "name": "Princ\u00edpio e Fim - Ao Vivo",
-      "url": "https://open.spotify.com/track/7eaTivrbUG41ALipFdQYus"
     },
     {
       "added_at": null,
@@ -527,26 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/3AAJ6ruUbzkffCCfPs1AOf"
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
       },
       "artists": [
-        {
-          "name": "Joe Vasconcelos",
-          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
-        },
-        {
-          "name": "Sing Church Worship",
-          "url": "https://open.spotify.com/artist/2gB9fUvjv7WdVt9sfqbd5J"
-        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 395773,
-      "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/2hZiJNnQTYL0qHgh4zIbNE"
+      "duration_ms": 304400,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
     },
     {
       "added_at": null,
@@ -571,18 +563,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+        "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/3AAJ6ruUbzkffCCfPs1AOf"
       },
       "artists": [
+        {
+          "name": "Joe Vasconcelos",
+          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
+        },
+        {
+          "name": "Sing Church Worship",
+          "url": "https://open.spotify.com/artist/2gB9fUvjv7WdVt9sfqbd5J"
+        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 304400,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+      "duration_ms": 395773,
+      "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/2hZiJNnQTYL0qHgh4zIbNE"
     },
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx"
+        "name": "Restaura o Teu Altar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7lIAe7WjmKuBrhiBYIUFbF"
       },
       "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 327866,
-      "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc"
+      "duration_ms": 418695,
+      "name": "Restaura o Teu Altar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4wrh7ga7os62COyIENj1mf"
     },
     {
       "added_at": null,
@@ -735,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restaura o Teu Altar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7lIAe7WjmKuBrhiBYIUFbF"
+        "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx"
       },
       "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 418695,
-      "name": "Restaura o Teu Altar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4wrh7ga7os62COyIENj1mf"
+      "duration_ms": 327866,
+      "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 320186,
+      "name": "Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Catedral (Ao Vivo)",
         "url": "https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 278186,
       "name": "Alvo Mais Que a Neve - Ao Vivo",
       "url": "https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 320186,
-      "name": "Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
     },
     {
       "added_at": null,

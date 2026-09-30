@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-09",
-  "description": "\u041d\u0430\u0439\u043b\u0456\u043f\u0448\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432\u0456\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0430\u0440\u0442\u0438\u0441\u0442\u0456\u0432-\u043f\u043e\u0447\u0430\u0442\u043a\u0456\u0432\u0446\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: SIAM\u00cdS",
+  "description": "\u041d\u0430\u0439\u043b\u0456\u043f\u0448\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432\u0456\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0430\u0440\u0442\u0438\u0441\u0442\u0456\u0432-\u043f\u043e\u0447\u0430\u0442\u043a\u0456\u0432\u0446\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u0414\u0435\u043d\u0438\u0441 \u0411\u043e\u0439\u043a\u043e",
   "name": "Fresh Finds \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -5001,6 +5001,24 @@
     },
     {
       "album": {
+        "name": "\u041b\u0406\u0422\u0410\u0419",
+        "url": "https://open.spotify.com/album/2HxYWOdAyjUGhMOHxp87Hk"
+      },
+      "artists": [
+        {
+          "name": "LIL GREENCH",
+          "url": "https://open.spotify.com/artist/2YF2USFp7I4ip2uGxTIPjl"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188977,
+      "name": "\u041b\u0406\u0422\u0410\u0419",
+      "url": "https://open.spotify.com/track/719JmWPj4LN8vrtYgXAnTv"
+    },
+    {
+      "album": {
         "name": "\u041c\u0430\u043b\u043e",
         "url": "https://open.spotify.com/album/1p58kN7iQHNOAasEdfzO7m"
       },
@@ -6651,6 +6669,24 @@
     },
     {
       "album": {
+        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u044f \u041d\u0456\u0447",
+        "url": "https://open.spotify.com/album/5CTVk85HpfoQV34TjCVQRH"
+      },
+      "artists": [
+        {
+          "name": "\u0414\u0436\u043e\u043d\u0456 \u0414\u0440\u0456\u043c\u0441",
+          "url": "https://open.spotify.com/artist/0g3VeAhHbZiuUWDijiXyju"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229195,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u044f \u041d\u0456\u0447",
+      "url": "https://open.spotify.com/track/2VqS1yoeezXbVUT3TiayBL"
+    },
+    {
+      "album": {
         "name": "\u043e\u0441\u0442\u0430\u043d\u043d\u044f \u0441\u043f\u0440\u043e\u0431\u0430",
         "url": "https://open.spotify.com/album/6aoLS1Jj9OmQVTJrxDUTZz"
       },
@@ -7292,6 +7328,24 @@
       "duration_ms": 248275,
       "name": "\u041f\u043e\u0440\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/41qmUxOz0oG5e5v5cbCrq1"
+    },
+    {
+      "album": {
+        "name": "\u041f\u043e\u0442\u044f\u0433",
+        "url": "https://open.spotify.com/album/4eSJTARn7yFl9KE1LUWZIp"
+      },
+      "artists": [
+        {
+          "name": "KOVA KAJI",
+          "url": "https://open.spotify.com/artist/2k8PaPfIdBT1AWPz3KPLig"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "\u041f\u043e\u0442\u044f\u0433",
+      "url": "https://open.spotify.com/track/4jso2Wnhm8UbPSWfHD3V7M"
     },
     {
       "album": {
@@ -10376,6 +10430,24 @@
       "duration_ms": 156064,
       "name": "\u0428\u0430\u0444\u0430",
       "url": "https://open.spotify.com/track/14JsetB2mB23yogKwBU48K"
+    },
+    {
+      "album": {
+        "name": "\u0448\u0438\u043f\u0438",
+        "url": "https://open.spotify.com/album/12oAI1gFqM80ByrJug44rG"
+      },
+      "artists": [
+        {
+          "name": "\u0414\u0435\u043d\u0438\u0441 \u0411\u043e\u0439\u043a\u043e",
+          "url": "https://open.spotify.com/artist/6WeOuFNrKka0uJRcCaJiIc"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113600,
+      "name": "\u0448\u0438\u043f\u0438",
+      "url": "https://open.spotify.com/track/70ELbbV59RRMCsQiKKVG0h"
     },
     {
       "album": {

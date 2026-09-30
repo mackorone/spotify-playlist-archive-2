@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Taylor Swift, Phoebe Bridgers, Madonna & Charli xcx, Tinashe, Karan Aujla, Josh Ross, Max McNown, Kardinal Offishall, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,338 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,321 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 67 | [Stay A Little Longer](https://open.spotify.com/track/1nItkcuBMQ0wwmUN6yznda) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Stay A Little Longer](https://open.spotify.com/album/2ZgIa3WC76TfZNP7rMT5gf) | 3:41 |
 | 68 | [cool](https://open.spotify.com/track/2JcMAbURj7oQ9krdqPMW3z) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [cool](https://open.spotify.com/album/6NdrJfXmCBgolsEN8KzNdf) | 3:42 |
 | 69 | [Carbon Copy](https://open.spotify.com/track/5RUg2cdiMIj4NLjIfsMmn6) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Carbon Copy](https://open.spotify.com/album/2yqzIiVXUMxFl95z4jGc8u) | 2:47 |
-| 70 | [This Time \(feat\. GloRilla\)](https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [This Time](https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS) | 2:46 |
+| 70 | [This Time \(with GloRilla\)](https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [This Time](https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS) | 2:46 |
 | 71 | [Razor Love \- Spotify Singles](https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Razor Love \- Spotify Singles](https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js) | 6:04 |
 | 72 | [Sailing Back to Souris](https://open.spotify.com/track/3lcThUtlyfFc4b6jgW4yGo) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Sailing Back to Souris](https://open.spotify.com/album/2aU33NZEZ6Zt5Do80Vuch8) | 4:04 |
 | 73 | [Can't Stop \(Loving You\)](https://open.spotify.com/track/1lNynrUM1jtHghMHxfTwED) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [R&Bounce Vol\. 1](https://open.spotify.com/album/7opf4mh9tyMErcvOkEiYUR) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Somebody Else](https://open.spotify.com/track/3ErRzbj5olXrzWln9IlOlO) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Somebody Else](https://open.spotify.com/album/2LnBwPL91WG3pElZdENv6O) | 3:01 |
 | 100 | [Avenues](https://open.spotify.com/track/07HD8w7oCyLxpZTkwfhBTA) | [John Fellner](https://open.spotify.com/artist/6UG9kN30jWV7MjmNr9qsPv) | [Avenues](https://open.spotify.com/album/2luuQD3P7KCG2fWyhLYbtQ) | 3:43 |
 
-Snapshot ID: `AAAAANf/cNjr4k0B7YQcO6KnS4RC59op`
+Snapshot ID: `AAAAAEPT9kVa0DwA2w3xMKpuAyWE2E/J`

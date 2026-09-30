@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Mariana Pereira
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,406 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,427 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [o amor existe](https://open.spotify.com/track/4xFAjC2SSS0q5gwVqvI75f) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [o amor existe](https://open.spotify.com/album/3CC2NCL8OSeMT1iBJGBixH) | 3:13 |
 | 70 | [ALÔ](https://open.spotify.com/track/368RNXKnoAUO91Yu20mUQ1) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch) | [ALÔ](https://open.spotify.com/album/0PrHwWJ0hp45UJQcq3WHvh) | 2:16 |
 
-Snapshot ID: `AAAAAPvAEmL1LECvMhbKr7Oxd0ADD23b`
+Snapshot ID: `AAAAAOCh7ct9c+AkoCqx3i6VuMxyFQqP`

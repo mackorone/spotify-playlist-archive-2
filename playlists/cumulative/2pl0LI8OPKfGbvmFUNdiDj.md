@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-587 songs - 1 day 9 hr 19 min
+589 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Il mio nome è Divoc](https://open.spotify.com/track/5C9onzUPqDPEa1bkicVEvH) | [Mantideatea](https://open.spotify.com/artist/5v1HMdsldVByS7yLgsL3aB) | [Vecchio Progresso](https://open.spotify.com/album/3r1infkoCbumrwUx4nBIEd) | 3:16 | 2025-11-24 | 2026-01-05 |
 | [Imagine](https://open.spotify.com/track/0qfZc2BEwvldx3YU55aBJy) | [ELEKTROWAN](https://open.spotify.com/artist/6PAHshSRQPQLC0UWb9v43v) | [Imagine](https://open.spotify.com/album/1GCezoHHagiknb2SwdHAdd) | 3:15 | 2025-11-10 | 2025-12-01 |
 | [IMAGINE](https://open.spotify.com/track/6aFfR4H9MMPSynCwltX6NS) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [IMAGINE](https://open.spotify.com/album/5BaVRC29U3cDAaz7pbBlAk) | 3:13 | 2026-06-24 | 2026-08-08 |
+| [In an Hour of Truth](https://open.spotify.com/track/4GehY9RxsnDzHe3SEhTeUF) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In an Hour of Truth](https://open.spotify.com/album/6pjoldpGadfEffunZF5XNe) | 4:11 | 2026-09-29 |  |
 | [In My Dreams](https://open.spotify.com/track/3bJmToSAKBi018GPh5dZk5) | [Emma Galanaki](https://open.spotify.com/artist/3uLWfPiygNLK6JFhj2gCG7) | [In My Dreams](https://open.spotify.com/album/0FFKptQv4URWBWRSJj8Vcx) | 3:45 | 2025-11-08 | 2025-12-01 |
 | [In My Life](https://open.spotify.com/track/2gGcCQt9wtPhaNHQi20hm5) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [In My Life](https://open.spotify.com/album/5oZEd7DEOSHVlLqvrZurla) | 1:56 | 2026-05-31 | 2026-07-02 |
 | [In My Lowrider](https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6) | [Willie of Wilshire](https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS) | [A Day in LA](https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1) | 2:52 | 2025-12-01 | 2026-01-05 |
@@ -478,6 +479,7 @@
 | [Surfing to Nowhere](https://open.spotify.com/track/6PN45BwdFZexnyNNPWkxyg) | [fabiano matiolla](https://open.spotify.com/artist/1gSEoElmqiR2xGnMtTTqes) | [Surfing to Nowhere](https://open.spotify.com/album/1nitwAEcNvb5ejMda2TESx) | 4:31 | 2026-06-16 | 2026-08-08 |
 | [Take A Lil' Time](https://open.spotify.com/track/1oVCeQADHIZKSb492xwk1S) | [Tristan Hutton](https://open.spotify.com/artist/6bXZTbs3GVfsdT6HyQVw2w) | [Take A Lil' Time](https://open.spotify.com/album/4RAQc3RTorlP1eLpWwmVFV) | 4:00 | 2026-05-08 | 2026-06-14 |
 | [Take Another Drag](https://open.spotify.com/track/148ES5Swi6aBxRxy1LIAeq) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Take Another Drag](https://open.spotify.com/album/0QujmIPiE087gdOoMYtBiX) | 4:12 | 2026-06-21 | 2026-08-08 |
+| [Take It Back](https://open.spotify.com/track/7t1BcudJWBTmceFz5Ysyd2) | [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU), [Ellie Rizoa](https://open.spotify.com/artist/6sRlVpjjeI0SCwmEr1ln6Q) | [Take It Back](https://open.spotify.com/album/1Y0Q205TSU0imtpxIDinzB) | 1:45 | 2026-09-29 |  |
 | [Take Me There](https://open.spotify.com/track/0T540jldrQIbUy0WuZplnX) | [J.Soul](https://open.spotify.com/artist/5jdVWEJI1micvPRupftugZ) | [Take Me There](https://open.spotify.com/album/7B9n80xlWR68UQlaKMyHrE) | 4:16 | 2025-12-23 | 2026-01-15 |
 | [Take My Love](https://open.spotify.com/track/0zuN03E9Htt59XaXxtJLZ5) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [Take my Love](https://open.spotify.com/album/0QzArOSouFTPACHH5cQd2z) | 3:32 | 2026-08-07 |  |
 | [Take What Is Left](https://open.spotify.com/track/3NnzCY51DZrwFBNjcUozBP) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 4:19 | 2026-05-26 | 2026-07-02 |

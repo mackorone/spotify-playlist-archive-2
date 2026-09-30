@@ -1,12 +1,12 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 33342,
+  "num_followers": 33371,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGB9ooxJgz1WWuCOPEPNt2F8QEjm",
+  "snapshot_id": "AAAAAIbEz10lwSl8dDJGEU647ybty/fw",
   "tracks": [
     {
       "added_at": "2026-09-22 16:44:58",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "duration_ms": 219207,
+      "name": "Conflicted",
+      "url": "https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
         "name": "Aioi",
         "url": "https://open.spotify.com/album/3Nmno9l7cr2Z4qoHQnqAbG"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 156800,
       "name": "Aioi",
       "url": "https://open.spotify.com/track/7EjgI1VC27npyNlZvZMagW"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
-        "name": "Contrast",
-        "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
-      },
-      "artists": [
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        }
-      ],
-      "duration_ms": 219207,
-      "name": "Conflicted",
-      "url": "https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
+        "name": "The Neighborhood",
+        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 100747,
+      "name": "NEIGHBORHOOD",
+      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
         "name": "Tayutau",
         "url": "https://open.spotify.com/album/2rDkaipWW2xf6MxZosufpd"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 154320,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/3zOoTfA801wwUrYiOWOv2u"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
-        "name": "The Neighborhood",
-        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 100747,
-      "name": "NEIGHBORHOOD",
-      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
-        "name": "Smrti",
-        "url": "https://open.spotify.com/album/2caE10cf8sk85D86ROCnwZ"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Kazuhiko Maeda",
-          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
-        }
-      ],
-      "duration_ms": 200109,
-      "name": "Smrti",
-      "url": "https://open.spotify.com/track/3sKJPbWulZzffOZXyfbPxd"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
         "name": "Stack Wave (feat. STUTS)",
         "url": "https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 271162,
       "name": "Stack Wave (feat. STUTS)",
       "url": "https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
+        "name": "Smrti",
+        "url": "https://open.spotify.com/album/2caE10cf8sk85D86ROCnwZ"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+        }
+      ],
+      "duration_ms": 200109,
+      "name": "Smrti",
+      "url": "https://open.spotify.com/track/3sKJPbWulZzffOZXyfbPxd"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -551,6 +551,30 @@
       "duration_ms": 188679,
       "name": "So Real (Instrumental)",
       "url": "https://open.spotify.com/track/7uKuva4zZIhpl9wfJ7pMTd"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
+        "name": "Hidden Shrine",
+        "url": "https://open.spotify.com/album/0CnkfHS7C6nimtwpdAhgOI"
+      },
+      "artists": [
+        {
+          "name": "HIDE\u00d7HIDE",
+          "url": "https://open.spotify.com/artist/618q3uBCcddItL9IPh5yRA"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "duration_ms": 131765,
+      "name": "Hidden Shrine",
+      "url": "https://open.spotify.com/track/4uciSF8VXH3ne7K4AFFfiV"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -607,50 +631,6 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
-        "name": "Hidden Shrine",
-        "url": "https://open.spotify.com/album/0CnkfHS7C6nimtwpdAhgOI"
-      },
-      "artists": [
-        {
-          "name": "HIDE\u00d7HIDE",
-          "url": "https://open.spotify.com/artist/618q3uBCcddItL9IPh5yRA"
-        },
-        {
-          "name": "Jikuru",
-          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        }
-      ],
-      "duration_ms": 131765,
-      "name": "Hidden Shrine",
-      "url": "https://open.spotify.com/track/4uciSF8VXH3ne7K4AFFfiV"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
-        "name": "Sasanqua",
-        "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
-      },
-      "artists": [
-        {
-          "name": "physis",
-          "url": "https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx"
-        },
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 134959,
-      "name": "Sasanqua",
-      "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
         "name": "Flow Motion",
         "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
       },
@@ -675,22 +655,22 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
-        "name": "Syn Fonia I",
-        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
+        "name": "Sasanqua",
+        "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
       },
       "artists": [
         {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+          "name": "physis",
+          "url": "https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx"
         },
         {
-          "name": "Kazuhiko Maeda",
-          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
         }
       ],
-      "duration_ms": 228750,
-      "name": "Space Orgazm",
-      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
+      "duration_ms": 134959,
+      "name": "Sasanqua",
+      "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -711,6 +691,26 @@
       "duration_ms": 193125,
       "name": "Raincoat (Paul Grant Remix)",
       "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
+        "name": "Syn Fonia I",
+        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Space Orgazm",
+      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -779,38 +779,6 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
-        "name": "#02 untitled",
-        "url": "https://open.spotify.com/album/7oYZpso12Z4cdhHJnztjlK"
-      },
-      "artists": [
-        {
-          "name": "JJJ",
-          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "#02 untitled",
-      "url": "https://open.spotify.com/track/6I8f22JQnIWwj8saOnuLuU"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 184372,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
         "name": "Light Breeze EP",
         "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 120000,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
+        "name": "#02 untitled",
+        "url": "https://open.spotify.com/album/7oYZpso12Z4cdhHJnztjlK"
+      },
+      "artists": [
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "duration_ms": 257695,
+      "name": "#02 untitled",
+      "url": "https://open.spotify.com/track/6I8f22JQnIWwj8saOnuLuU"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 200061,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
         "name": "Beat Theme",
         "url": "https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 221071,
       "name": "Please Think Twice",
       "url": "https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 184372,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
     },
     {
       "added_at": "2026-09-22 16:44:58",

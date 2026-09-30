@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Shakira, Maluma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,046 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,055 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Inglés En Miami](https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 3:22 |
 | 50 | [Flechazo](https://open.spotify.com/track/3Y0bm2psmsSji70OYz1EWm) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Kien me presta una guitarra?](https://open.spotify.com/album/4q4MIPjP96zPQVk6pVDPEp) | 2:02 |
 
-Snapshot ID: `AAAAAP/8GUzh2EBgDJbOILsJUGcSQD1H`
+Snapshot ID: `AAAAADD5NhaTEBUNy/gQ7o0LzX9WUNdV`

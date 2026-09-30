@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Rapsody",
-  "num_followers": 1552042,
+  "num_followers": 1551981,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO5D2M80uBeH7HCaEEQCCqmOGSqc",
+  "snapshot_id": "AAAAAI3O2S6RDnmllo+pjMc3s4EDRC7n",
   "tracks": [
     {
       "added_at": "2026-09-27 04:43:17",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-09-27 04:43:17",
       "album": {
+        "name": "Port Antonio",
+        "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 316235,
+      "name": "Port Antonio",
+      "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
+    },
+    {
+      "added_at": "2026-09-27 04:43:17",
+      "album": {
         "name": "Czarface Meets Frankie Pulitzer",
         "url": "https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 241320,
       "name": "Raw Forever",
       "url": "https://open.spotify.com/track/3tlDxxC7rsOUynaEiNlXRk"
-    },
-    {
-      "added_at": "2026-09-27 04:43:17",
-      "album": {
-        "name": "Port Antonio",
-        "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 316235,
-      "name": "Port Antonio",
-      "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
     },
     {
       "added_at": "2026-09-27 04:43:17",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-09-27 04:43:17",
       "album": {
-        "name": "Ca$ino",
-        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 205176,
-      "name": "I am not a Lyricist",
-      "url": "https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b"
-    },
-    {
-      "added_at": "2026-09-27 04:43:17",
-      "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 176253,
       "name": "The Fall-Off is Inevitable",
       "url": "https://open.spotify.com/track/3kUHIvjJ8p9UzeaeeqHkfg"
+    },
+    {
+      "added_at": "2026-09-27 04:43:17",
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 205176,
+      "name": "I am not a Lyricist",
+      "url": "https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b"
     },
     {
       "added_at": "2026-09-27 04:43:17",
@@ -743,26 +743,26 @@
     {
       "added_at": "2026-09-27 04:43:17",
       "album": {
-        "name": "DILLAGENCE II",
-        "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         },
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         },
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 261426,
-      "name": "This Woman (feat. D'Angelo)",
-      "url": "https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV"
+      "duration_ms": 222640,
+      "name": "Munyon Canyon",
+      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
     },
     {
       "added_at": "2026-09-27 04:43:17",
@@ -791,6 +791,30 @@
     {
       "added_at": "2026-09-27 04:43:17",
       "album": {
+        "name": "DILLAGENCE II",
+        "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "This Woman (feat. D'Angelo)",
+      "url": "https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV"
+    },
+    {
+      "added_at": "2026-09-27 04:43:17",
+      "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
       },
@@ -803,30 +827,6 @@
       "duration_ms": 118425,
       "name": "No Security",
       "url": "https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG"
-    },
-    {
-      "added_at": "2026-09-27 04:43:17",
-      "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Munyon Canyon",
-      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
     },
     {
       "added_at": "2026-09-27 04:43:17",
@@ -847,26 +847,22 @@
     {
       "added_at": "2026-09-27 04:43:17",
       "album": {
-        "name": "Talk Ya Shit",
-        "url": "https://open.spotify.com/album/6HZxZK3PQu9AkCL8HOWFa4"
+        "name": "IT'S BEEN AWFUL",
+        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
         },
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Julian Sintonia",
+          "url": "https://open.spotify.com/artist/0a4bUi9F2GFCQkOYBESJKY"
         }
       ],
-      "duration_ms": 145483,
-      "name": "Talk Ya Shit",
-      "url": "https://open.spotify.com/track/4cD4hLdmLands2EQaBlvz8"
+      "duration_ms": 182718,
+      "name": "DO I LOOK HIGH?",
+      "url": "https://open.spotify.com/track/0sSkIRZuqZWigJvUnPMdKL"
     },
     {
       "added_at": "2026-09-27 04:43:17",
@@ -895,22 +891,26 @@
     {
       "added_at": "2026-09-27 04:43:17",
       "album": {
-        "name": "IT'S BEEN AWFUL",
-        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
+        "name": "Talk Ya Shit",
+        "url": "https://open.spotify.com/album/6HZxZK3PQu9AkCL8HOWFa4"
       },
       "artists": [
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         },
         {
-          "name": "Julian Sintonia",
-          "url": "https://open.spotify.com/artist/0a4bUi9F2GFCQkOYBESJKY"
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 182718,
-      "name": "DO I LOOK HIGH?",
-      "url": "https://open.spotify.com/track/0sSkIRZuqZWigJvUnPMdKL"
+      "duration_ms": 145483,
+      "name": "Talk Ya Shit",
+      "url": "https://open.spotify.com/track/4cD4hLdmLands2EQaBlvz8"
     },
     {
       "added_at": "2026-09-27 04:43:17",

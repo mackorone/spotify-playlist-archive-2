@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6mxTL25Ms2.md) - [plain]
 
 > Enjoy music from "<br/>Umamusume: Pretty Derby! © Cygames, Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,154 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,171 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6mxTL25Ms2.md) - [plain]
 | 74 | [逃げ切りっ！Fallin' Love](https://open.spotify.com/track/3kwkK9EDGMbqBGprTVhIpB) | [サイレンススズカ \(CV\. 高野麻里佳\)](https://open.spotify.com/artist/4pYvIklxg2YALG0A8MLUXD), [スマートファルコン \(CV\. 大和田仁美\)](https://open.spotify.com/artist/083XOxhruihHWXyNpxX9bV), [ミホノブルボン \(CV\. 長谷川育美\)](https://open.spotify.com/artist/4640XyVEeNXwxenpk8Ilmt), [マルゼンスキー \(CV\. Lynn\)](https://open.spotify.com/artist/1paNo3kCz5gqipianX1AtZ), [アイネスフウジン \(CV\. 嶺内ともみ\)](https://open.spotify.com/artist/76FxVRGL0AJHXafuFZ1Rov) | [アニメ『うまよん』ミニアルバム](https://open.spotify.com/album/6BUvVP6tWptpIQFUxhaSjC) | 3:56 |
 | 75 | [鳥かごのロンリーバード \- 2021 Remastered Version](https://open.spotify.com/track/3rYvVarWEFg1RPEVj0kz3U) | [ヒシアマゾン \(CV\. 巽 悠衣子\)](https://open.spotify.com/artist/60uJpPl3obcx0b9l4Lh8fG) | [TVアニメ『ウマ娘 プリティーダービー』ANIMATION DERBY 06 \(2021 Remastered Version\)](https://open.spotify.com/album/0Mn8yOnH6DnwaIcgvC3rYK) | 3:42 |
 
-Snapshot ID: `AAAAALbXYgz5e6+ZlGGFbI41UlT2rE+x`
+Snapshot ID: `AAAAAHgQ9eYYot/byU3zv9fV+r4BV4r3`

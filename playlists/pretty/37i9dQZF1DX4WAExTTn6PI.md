@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Lawrence Rothman
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,321 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,342 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [All Day](https://open.spotify.com/track/5yxfccv96ZD2O8Sdj7oJ8D) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Feet On Fire](https://open.spotify.com/album/6tYkBHJ4XuFKmtHJbqcJ2Q) | 2:29 |
 | 100 | [Carry On](https://open.spotify.com/track/0xy3JGKV6Csj7d1CtE6NsG) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [Fault Lines](https://open.spotify.com/album/4zYnbk8DtlDi1zfkKLfke5) | 3:37 |
 
-Snapshot ID: `AAAAAO0ERK0pY43Vcb0KLx47ReLxjgMD`
+Snapshot ID: `AAAAAFIXbbnWHmZqddxwcOeiMEip6THE`

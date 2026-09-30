@@ -1,12 +1,12 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59510,
+  "num_followers": 59507,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHpPkCwuNyTe8TMzMESgEN7kZCaL",
+  "snapshot_id": "AAAAAGNt7aWvkwe4S5ZDxgRQtw82Bzrt",
   "tracks": [
     {
       "added_at": "2026-09-24 21:00:27",
@@ -539,6 +539,26 @@
     {
       "added_at": "2026-09-24 21:00:27",
       "album": {
+        "name": "Yksin",
+        "url": "https://open.spotify.com/album/78X9lcpGUp8iT210pk4SFx"
+      },
+      "artists": [
+        {
+          "name": "F",
+          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
+        },
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Yksin",
+      "url": "https://open.spotify.com/track/3PzFskVKU7F9GF48V0Nja3"
+    },
+    {
+      "added_at": "2026-09-24 21:00:27",
+      "album": {
         "name": "Santana",
         "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
       },
@@ -587,22 +607,18 @@
     {
       "added_at": "2026-09-24 21:00:27",
       "album": {
-        "name": "Yksin",
-        "url": "https://open.spotify.com/album/78X9lcpGUp8iT210pk4SFx"
+        "name": "M\u00c4KI OON",
+        "url": "https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18"
       },
       "artists": [
         {
-          "name": "F",
-          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
-        },
-        {
-          "name": "Asla Jo",
-          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+          "name": "LEWI",
+          "url": "https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J"
         }
       ],
-      "duration_ms": 203409,
-      "name": "Yksin",
-      "url": "https://open.spotify.com/track/3PzFskVKU7F9GF48V0Nja3"
+      "duration_ms": 116363,
+      "name": "M\u00c4KI OON",
+      "url": "https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383"
     },
     {
       "added_at": "2026-09-24 21:00:27",
@@ -619,6 +635,22 @@
       "duration_ms": 202280,
       "name": "Ruusunen",
       "url": "https://open.spotify.com/track/2tXRHusp7SiSnYTk1Kmbuz"
+    },
+    {
+      "added_at": "2026-09-24 21:00:27",
+      "album": {
+        "name": "Sori t\u00e4ti",
+        "url": "https://open.spotify.com/album/4v6Im6iFdS0C82jOSYvmCl"
+      },
+      "artists": [
+        {
+          "name": "TINA",
+          "url": "https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm"
+        }
+      ],
+      "duration_ms": 186052,
+      "name": "Sori t\u00e4ti",
+      "url": "https://open.spotify.com/track/0S7JHKWm7M11juyTnaIHcb"
     },
     {
       "added_at": "2026-09-24 21:00:27",
@@ -647,38 +679,6 @@
     {
       "added_at": "2026-09-24 21:00:27",
       "album": {
-        "name": "Sori t\u00e4ti",
-        "url": "https://open.spotify.com/album/4v6Im6iFdS0C82jOSYvmCl"
-      },
-      "artists": [
-        {
-          "name": "TINA",
-          "url": "https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm"
-        }
-      ],
-      "duration_ms": 186052,
-      "name": "Sori t\u00e4ti",
-      "url": "https://open.spotify.com/track/0S7JHKWm7M11juyTnaIHcb"
-    },
-    {
-      "added_at": "2026-09-24 21:00:27",
-      "album": {
-        "name": "M\u00c4KI OON",
-        "url": "https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18"
-      },
-      "artists": [
-        {
-          "name": "LEWI",
-          "url": "https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J"
-        }
-      ],
-      "duration_ms": 116363,
-      "name": "M\u00c4KI OON",
-      "url": "https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383"
-    },
-    {
-      "added_at": "2026-09-24 21:00:27",
-      "album": {
         "name": "Vaan yks sin\u00e4",
         "url": "https://open.spotify.com/album/3SItL7nVnnJwBE2IHdlnEH"
       },
@@ -691,6 +691,38 @@
       "duration_ms": 168947,
       "name": "Vaan yks sin\u00e4",
       "url": "https://open.spotify.com/track/5Vggd5ZMIRtC7n36f1HuPv"
+    },
+    {
+      "added_at": "2026-09-24 21:00:27",
+      "album": {
+        "name": "Lehmitytt\u00f6",
+        "url": "https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw"
+      },
+      "artists": [
+        {
+          "name": "Katariina Juselius",
+          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
+        }
+      ],
+      "duration_ms": 195564,
+      "name": "Lehmitytt\u00f6",
+      "url": "https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO"
+    },
+    {
+      "added_at": "2026-09-24 21:00:27",
+      "album": {
+        "name": "Lohtulauluja",
+        "url": "https://open.spotify.com/album/17ennUwc9eY9ZsNEuSlez5"
+      },
+      "artists": [
+        {
+          "name": "Aatulove",
+          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
+        }
+      ],
+      "duration_ms": 126708,
+      "name": "Kallio",
+      "url": "https://open.spotify.com/track/0fGlYL8OWJM8hxiZgyRcmQ"
     },
     {
       "added_at": "2026-09-24 21:00:27",
@@ -711,18 +743,18 @@
     {
       "added_at": "2026-09-24 21:00:27",
       "album": {
-        "name": "Lehmitytt\u00f6",
-        "url": "https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw"
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/5kviiiQHcdaCXnahu2a3nc"
       },
       "artists": [
         {
-          "name": "Katariina Juselius",
-          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
+          "name": "Mjay",
+          "url": "https://open.spotify.com/artist/4LyW2oFLhrNAMsNo7QzHE1"
         }
       ],
-      "duration_ms": 195564,
-      "name": "Lehmitytt\u00f6",
-      "url": "https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO"
+      "duration_ms": 150612,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6aW2HT07ejN6YFdKGyFONi"
     },
     {
       "added_at": "2026-09-24 21:00:27",
@@ -763,34 +795,22 @@
     {
       "added_at": "2026-09-24 21:00:27",
       "album": {
-        "name": "Lohtulauluja",
-        "url": "https://open.spotify.com/album/17ennUwc9eY9ZsNEuSlez5"
+        "name": "Yhteiset askeleet",
+        "url": "https://open.spotify.com/album/2b3r4ipLoU1rk0g6Z36aAS"
       },
       "artists": [
         {
-          "name": "Aatulove",
-          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
-        }
-      ],
-      "duration_ms": 126708,
-      "name": "Kallio",
-      "url": "https://open.spotify.com/track/0fGlYL8OWJM8hxiZgyRcmQ"
-    },
-    {
-      "added_at": "2026-09-24 21:00:27",
-      "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/5kviiiQHcdaCXnahu2a3nc"
-      },
-      "artists": [
+          "name": "Kielletty Ruusu",
+          "url": "https://open.spotify.com/artist/2sHFjyMe0EOZvnREwcgGSr"
+        },
         {
-          "name": "Mjay",
-          "url": "https://open.spotify.com/artist/4LyW2oFLhrNAMsNo7QzHE1"
+          "name": "Bahamo",
+          "url": "https://open.spotify.com/artist/2waFsMVhlxp6dyCD4YIEps"
         }
       ],
-      "duration_ms": 150612,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/6aW2HT07ejN6YFdKGyFONi"
+      "duration_ms": 188186,
+      "name": "Yhteiset askeleet (feat. Bahamo)",
+      "url": "https://open.spotify.com/track/6Tl8Ke5x96Mep4w2I2PMXA"
     },
     {
       "added_at": "2026-09-24 21:00:27",
@@ -831,26 +851,6 @@
       "duration_ms": 197100,
       "name": "Hiljaisuus",
       "url": "https://open.spotify.com/track/2fqyLRYWZZRcJRfWmqOoIn"
-    },
-    {
-      "added_at": "2026-09-24 21:00:27",
-      "album": {
-        "name": "Yhteiset askeleet",
-        "url": "https://open.spotify.com/album/2b3r4ipLoU1rk0g6Z36aAS"
-      },
-      "artists": [
-        {
-          "name": "Kielletty Ruusu",
-          "url": "https://open.spotify.com/artist/2sHFjyMe0EOZvnREwcgGSr"
-        },
-        {
-          "name": "Bahamo",
-          "url": "https://open.spotify.com/artist/2waFsMVhlxp6dyCD4YIEps"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "Yhteiset askeleet (feat. Bahamo)",
-      "url": "https://open.spotify.com/track/6Tl8Ke5x96Mep4w2I2PMXA"
     },
     {
       "added_at": "2026-09-24 21:00:27",

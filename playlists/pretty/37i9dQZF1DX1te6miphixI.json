@@ -1,12 +1,12 @@
 {
   "description": "Grandes temas del rock de ayer y de hoy.",
-  "num_followers": 856937,
+  "num_followers": 856946,
   "original_name": "Radio Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPXnUBE2RH2N5kAPrRB8vwkiVp2n",
+  "snapshot_id": "AAAAANaXJb5gfxsIvdPuMLO7TndQ5tYA",
   "tracks": [
     {
       "added_at": "2026-04-24 04:59:24",
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-04-24 04:59:24",
       "album": {
-        "name": "Mellow Gold",
-        "url": "https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj"
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge"
+      "duration_ms": 316717,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
     }
   ],
   "unique_name": "Radio Rock",

@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 187445,
+  "num_followers": 187464,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANZI0C8sCAXNXpcOYCYTmVS98J3o",
+  "snapshot_id": "AAAAAOWfllIe90akAnwZooX3+MZoOTXs",
   "tracks": [
     {
       "added_at": "2026-06-12 03:01:51",
@@ -299,38 +299,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Um Pedido",
-        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        }
-      ],
-      "duration_ms": 255568,
-      "name": "Um Pedido",
-      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "One Vision",
-        "url": "https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o"
-      },
-      "artists": [
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        }
-      ],
-      "duration_ms": 257586,
-      "name": "Far\u00e1 Outra Vez",
-      "url": "https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Piano e Voz, Amigos e Pertences 3a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF"
       },
@@ -351,6 +319,38 @@
       "duration_ms": 332160,
       "name": "Sossegai - Ao Vivo",
       "url": "https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "One Vision",
+        "url": "https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o"
+      },
+      "artists": [
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "Far\u00e1 Outra Vez",
+      "url": "https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Um Pedido",
+        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        }
+      ],
+      "duration_ms": 255568,
+      "name": "Um Pedido",
+      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
     },
     {
       "added_at": "2026-06-12 03:01:51",

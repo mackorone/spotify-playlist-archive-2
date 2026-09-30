@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 100 | [Ballet Pumps](https://open.spotify.com/track/3iAua4ZysTvqch8Uyt3lZ4) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Ballet Pumps](https://open.spotify.com/album/4FYcvhBdw8iyAwAhXfyDnv) | 3:18 |
 | 101 | [AFTERTHOUGHT](https://open.spotify.com/track/6WwzgQrldO6AHAoMscU3JM) | [MANÚ](https://open.spotify.com/artist/7BEmHb9jAPMHB3HwfTuPnh) | [AFTERTHOUGHT](https://open.spotify.com/album/6Vtkcg1zZntLw5hvXcSGcg) | 2:06 |
 
-Snapshot ID: `AAAIOpKQDeJ6GeaM8T6ySDsWzsxz+v5C`
+Snapshot ID: `AAAIPN3RBj7kz0mR+7HSflEo8bi9+CG4`

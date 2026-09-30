@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Taylor Swift, Dardan, Madonna, Berq, Charli xcx, Nico Santos & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,499 likes - 99 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,498 likes - 99 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 98 | [Make Me Love You](https://open.spotify.com/track/5V2IZZoO8p054tU9tQd44V) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Make Me Love You](https://open.spotify.com/album/02D1TfylQ6y4nrGBX6FR2c) | 3:34 |
 | 99 | [Weiter immer weiter \(feat\. Achim Petry & Giorgio Petry\)](https://open.spotify.com/track/0boNUDgB60tn8TbtqZrvlu) | [Wolfgang Petry](https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7), [Achim Petry](https://open.spotify.com/artist/7yLO4Ygbcf4YvYkcPupU9h), [Giorgio Petry](https://open.spotify.com/artist/4UwA4f4zLDR3GzmvtCJcF1) | [Ein Leben lang](https://open.spotify.com/album/7CF7QhrboSMiaEBzDN0Bf1) | 3:11 |
 
-Snapshot ID: `AAAAAJn1H/k+2KBDtvlkB4jI53ycxx2/`
+Snapshot ID: `AAAAAFrG3iJgQqxY+rn4HFUXJK5ImSYJ`

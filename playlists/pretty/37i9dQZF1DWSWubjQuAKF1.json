@@ -1,12 +1,12 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Sara James",
-  "num_followers": 26602,
+  "num_followers": 26610,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIAMUWZGXUJCBkYnmOmWu5HdlbIX",
+  "snapshot_id": "AAAAAB8ici8uDpHD3QF2S59mDTS0U1pA",
   "tracks": [
     {
       "added_at": "2026-09-24 22:01:52",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "Terapia dla par",
-        "url": "https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        },
-        {
-          "name": "Lor",
-          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
-        }
-      ],
-      "duration_ms": 241395,
-      "name": "Terapia dla par",
-      "url": "https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
         "name": "nie wierz\u0119 w bajki",
         "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
       },
@@ -475,18 +455,22 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "TRESURA",
-        "url": "https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ"
+        "name": "Terapia dla par",
+        "url": "https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De"
       },
       "artists": [
         {
-          "name": "Julia Rocka",
-          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        },
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
         }
       ],
-      "duration_ms": 190062,
-      "name": "TRESURA",
-      "url": "https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al"
+      "duration_ms": 241395,
+      "name": "Terapia dla par",
+      "url": "https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -511,6 +495,22 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
+        "name": "TRESURA",
+        "url": "https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "duration_ms": 190062,
+      "name": "TRESURA",
+      "url": "https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
         "name": "Ta\u0144cz i kochaj",
         "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 173454,
       "name": "Ta\u0144cz i kochaj",
       "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
-        "name": "Nie umiem kocha\u0107",
-        "url": "https://open.spotify.com/album/5vYyH9BSkDwWETMMswSbnO"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        }
-      ],
-      "duration_ms": 190879,
-      "name": "Nie umiem kocha\u0107",
-      "url": "https://open.spotify.com/track/11bRjv4HeXGINazFrkOdh4"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -563,6 +547,22 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
+        "name": "Nie umiem kocha\u0107",
+        "url": "https://open.spotify.com/album/5vYyH9BSkDwWETMMswSbnO"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "duration_ms": 190879,
+      "name": "Nie umiem kocha\u0107",
+      "url": "https://open.spotify.com/track/11bRjv4HeXGINazFrkOdh4"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
         "name": "Kafejka na Ochocie",
         "url": "https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 190500,
       "name": "Kafejka na Ochocie",
       "url": "https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "Pokochaj Mnie Ponownie",
+        "url": "https://open.spotify.com/album/2PcBuWrQnZKaDKORHCnhb6"
+      },
+      "artists": [
+        {
+          "name": "Natalia Muianga",
+          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Pokochaj Mnie Ponownie",
+      "url": "https://open.spotify.com/track/05s3rbRbHOk4gE3KOBixH5"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -595,22 +611,6 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "Nie za\u015bpiewam Twojej mamie",
-        "url": "https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh"
-      },
-      "artists": [
-        {
-          "name": "Briela",
-          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Nie za\u015bpiewam Twojej mamie",
-      "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
         "name": "Pick me baby",
         "url": "https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW"
       },
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "Pokochaj Mnie Ponownie",
-        "url": "https://open.spotify.com/album/2PcBuWrQnZKaDKORHCnhb6"
+        "name": "Nie za\u015bpiewam Twojej mamie",
+        "url": "https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh"
       },
       "artists": [
         {
-          "name": "Natalia Muianga",
-          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
+          "name": "Briela",
+          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Pokochaj Mnie Ponownie",
-      "url": "https://open.spotify.com/track/05s3rbRbHOk4gE3KOBixH5"
+      "duration_ms": 190506,
+      "name": "Nie za\u015bpiewam Twojej mamie",
+      "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
+        "name": "Po drugiej stronie szk\u0142a",
+        "url": "https://open.spotify.com/album/2QRmQC5t6mD4aXdUQuPfjV"
+      },
+      "artists": [
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        }
+      ],
+      "duration_ms": 158222,
+      "name": "Po drugiej stronie szk\u0142a",
+      "url": "https://open.spotify.com/track/7uyrqEix2UJUrCqOOFsnKf"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
         "name": "szpila",
         "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
       },
@@ -699,18 +715,34 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "Po drugiej stronie szk\u0142a",
-        "url": "https://open.spotify.com/album/2QRmQC5t6mD4aXdUQuPfjV"
+        "name": "just a girl",
+        "url": "https://open.spotify.com/album/6uXnAW9wHZ0gxPsivoAjHw"
       },
       "artists": [
         {
-          "name": "bryska",
-          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+          "name": "Manya",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
         }
       ],
-      "duration_ms": 158222,
-      "name": "Po drugiej stronie szk\u0142a",
-      "url": "https://open.spotify.com/track/7uyrqEix2UJUrCqOOFsnKf"
+      "duration_ms": 166161,
+      "name": "just a girl",
+      "url": "https://open.spotify.com/track/5j5FlA1FgfPBwgiFzenRh8"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "DOM\u00d3WKI",
+        "url": "https://open.spotify.com/album/4swvEJOb7IQJJJEj6pnMwd"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "DOM\u00d3WKI",
+      "url": "https://open.spotify.com/track/6P2a95GqnTr80Ii85GhroI"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -735,34 +767,18 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "DOM\u00d3WKI",
-        "url": "https://open.spotify.com/album/4swvEJOb7IQJJJEj6pnMwd"
+        "name": "Echo Echo",
+        "url": "https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI"
       },
       "artists": [
         {
-          "name": "Jan Marczewski",
-          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
         }
       ],
-      "duration_ms": 153253,
-      "name": "DOM\u00d3WKI",
-      "url": "https://open.spotify.com/track/6P2a95GqnTr80Ii85GhroI"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
-        "name": "just a girl",
-        "url": "https://open.spotify.com/album/6uXnAW9wHZ0gxPsivoAjHw"
-      },
-      "artists": [
-        {
-          "name": "Manya",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 166161,
-      "name": "just a girl",
-      "url": "https://open.spotify.com/track/5j5FlA1FgfPBwgiFzenRh8"
+      "duration_ms": 133987,
+      "name": "Echo Echo",
+      "url": "https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -779,22 +795,6 @@
       "duration_ms": 209999,
       "name": "boj\u0119 si\u0119 ba\u0107",
       "url": "https://open.spotify.com/track/43eOzsjLG1e4FilGVCeEGi"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
-        "name": "Echo Echo",
-        "url": "https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI"
-      },
-      "artists": [
-        {
-          "name": "bryska",
-          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
-        }
-      ],
-      "duration_ms": 133987,
-      "name": "Echo Echo",
-      "url": "https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
+        "name": "To nie koniec",
+        "url": "https://open.spotify.com/album/6IZLvM2ka8uyD2IeZTmytD"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 181547,
+      "name": "To nie koniec",
+      "url": "https://open.spotify.com/track/6ZDloO00D9Ir8p8nU90y8Y"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
         "name": "KID",
         "url": "https://open.spotify.com/album/3qGAK6Cn4Wky749uHNTPS1"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 162920,
       "name": "po co mi to???",
       "url": "https://open.spotify.com/track/4gEElM8YcYFk9YLNe2cGxn"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
-        "name": "To nie koniec",
-        "url": "https://open.spotify.com/album/6IZLvM2ka8uyD2IeZTmytD"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        }
-      ],
-      "duration_ms": 181547,
-      "name": "To nie koniec",
-      "url": "https://open.spotify.com/track/6ZDloO00D9Ir8p8nU90y8Y"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
+        "name": "t\u0142uk\u0119 si\u0119 o asfalt",
+        "url": "https://open.spotify.com/album/7pmBjZp0VrLY95tqdHdZxQ"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 178387,
+      "name": "t\u0142uk\u0119 si\u0119 o asfalt",
+      "url": "https://open.spotify.com/track/5FO3zFjF0Cp8QhQF7Bu91i"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
         "name": "SYRENY",
         "url": "https://open.spotify.com/album/3ayp6W3sexpcTIMl7RhBRU"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 194887,
       "name": "Korzenie",
       "url": "https://open.spotify.com/track/7zM4rMVqVVTH7ZsN57l6RB"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
-        "name": "t\u0142uk\u0119 si\u0119 o asfalt",
-        "url": "https://open.spotify.com/album/7pmBjZp0VrLY95tqdHdZxQ"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 178387,
-      "name": "t\u0142uk\u0119 si\u0119 o asfalt",
-      "url": "https://open.spotify.com/track/5FO3zFjF0Cp8QhQF7Bu91i"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "Unikat",
-        "url": "https://open.spotify.com/album/76Eyw4h31W2DsCPHT3Og5Y"
-      },
-      "artists": [
-        {
-          "name": "Oliwia Janusz",
-          "url": "https://open.spotify.com/artist/2gzylqKH4MMjL9FAMkULif"
-        }
-      ],
-      "duration_ms": 207511,
-      "name": "Unikat",
-      "url": "https://open.spotify.com/track/4traV6vOZ2ek6x85VDf2M8"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
         "name": "styropian",
         "url": "https://open.spotify.com/album/4lHXqMnEF9nr0ay377Menf"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 173043,
       "name": "styropian",
       "url": "https://open.spotify.com/track/5Spy3OEUnZyEGZSO2F2Ys8"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "Unikat",
+        "url": "https://open.spotify.com/album/76Eyw4h31W2DsCPHT3Og5Y"
+      },
+      "artists": [
+        {
+          "name": "Oliwia Janusz",
+          "url": "https://open.spotify.com/artist/2gzylqKH4MMjL9FAMkULif"
+        }
+      ],
+      "duration_ms": 207511,
+      "name": "Unikat",
+      "url": "https://open.spotify.com/track/4traV6vOZ2ek6x85VDf2M8"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "bez ciebie",
-        "url": "https://open.spotify.com/album/0FvXGWc2NK5USUqILWpdL7"
+        "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
+        "url": "https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK"
       },
       "artists": [
         {
-          "name": "zofia justy\u0144ska",
-          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
-        },
-        {
-          "name": "Kuba Folwarczny",
-          "url": "https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il"
+          "name": "Larah",
+          "url": "https://open.spotify.com/artist/57LOwYXV6VIq1pMLQUwkjp"
         }
       ],
-      "duration_ms": 216714,
-      "name": "bez ciebie",
-      "url": "https://open.spotify.com/track/3Pfn5Rl7XmzhXiMaHWmreY"
+      "duration_ms": 174243,
+      "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
+      "url": "https://open.spotify.com/track/0d75CV33jqW9Bgv4ZGyw3v"
     }
   ],
   "unique_name": "up next",

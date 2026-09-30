@@ -1,12 +1,12 @@
 {
   "description": "Light, uplifting acoustic Disney Guitar for calm starts, clear focus, and daily momentum.",
-  "num_followers": 78248,
+  "num_followers": 78278,
   "original_name": "Disney Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMxl2V8tZbDQtA4nwFVkZdbZ3KR6",
+  "snapshot_id": "AAAAABfQjxITJvdeAMr0LDQ5I30RqV2P",
   "tracks": [
     {
       "added_at": "2026-05-19 13:00:08",
@@ -1431,6 +1431,22 @@
       "duration_ms": 151527,
       "name": "I Just Can't Wait to Be King",
       "url": "https://open.spotify.com/track/46yB2LotvDgxV0zSYieQp1"
+    },
+    {
+      "added_at": "2026-09-29 14:25:08",
+      "album": {
+        "name": "My Own Drum (From \"Camp Rock 3\")",
+        "url": "https://open.spotify.com/album/1o10daOaf70vpTVitEf1gc"
+      },
+      "artists": [
+        {
+          "name": "IIya Toshinskiy",
+          "url": "https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT"
+        }
+      ],
+      "duration_ms": 223086,
+      "name": "My Own Drum (Guitar Version)",
+      "url": "https://open.spotify.com/track/4gkA94d9ybeQvFYco7IqJ9"
     },
     {
       "added_at": "2026-09-15 07:00:24",

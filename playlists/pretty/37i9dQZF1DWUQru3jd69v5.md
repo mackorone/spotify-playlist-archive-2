@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Giovane Drago in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,532 likes - 59 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,528 likes - 59 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 58 | [GIOVANE K](https://open.spotify.com/track/4dB7n000x0cP71A4BhWnAu) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [GIOVANE K](https://open.spotify.com/album/21D5q29NdDolvQzfTpJxYh) | 2:15 |
 | 59 | [Milano Keta Club](https://open.spotify.com/track/15ob0fBiNCCttWT5QbF7wP) | [Clamö](https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR) | [Milano Keta Club](https://open.spotify.com/album/2vzffd0pTE0KjZsBOuPBDc) | 2:03 |
 
-Snapshot ID: `AAAAAObyeQe7oSyNwslQkbi8TwokNtsp`
+Snapshot ID: `AAAAANMJxY9dmOSN8QOSkwIhTnyM+qQc`

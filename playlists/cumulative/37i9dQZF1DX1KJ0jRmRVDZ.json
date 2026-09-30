@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: Aogumo",
+  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: \u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
   "name": "Cloud Archive\uff5c\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
   "tracks": [
     {
@@ -572,6 +572,36 @@
       "duration_ms": 161571,
       "name": "All I need is love",
       "url": "https://open.spotify.com/track/4jt8JP9bjynArzKL58dEaC"
+    },
+    {
+      "album": {
+        "name": "EMERGE M\u2661DE MIKU",
+        "url": "https://open.spotify.com/album/3MdoJyoaOOzh2rDxxK6ehQ"
+      },
+      "artists": [
+        {
+          "name": "BEYOND BORDERs",
+          "url": "https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "jon-YAKITORY",
+          "url": "https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135363,
+      "name": "All Mine (with Hatsune Miku, MOLIY, & jon-YAKITORY)",
+      "url": "https://open.spotify.com/track/0q9RzA7nCzsa8fQX7myDYw"
     },
     {
       "album": {
@@ -2987,6 +3017,28 @@
     },
     {
       "album": {
+        "name": "DEMON'S SHOT",
+        "url": "https://open.spotify.com/album/2wdIBhWASWShjvCm9uzili"
+      },
+      "artists": [
+        {
+          "name": "Aiobahn +81",
+          "url": "https://open.spotify.com/artist/3Uyka21MjsQuDzxoOFgizr"
+        },
+        {
+          "name": "DEMONDICE",
+          "url": "https://open.spotify.com/artist/4IUqCINWiy7WQ6LrkhBmdt"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255238,
+      "name": "DEMON'S SHOT",
+      "url": "https://open.spotify.com/track/6NDdZaUIXJfto2riSCDQcQ"
+    },
+    {
+      "album": {
         "name": "dempatomatoma",
         "url": "https://open.spotify.com/album/7vjLswZafz9mXXKlBi0lcQ"
       },
@@ -3146,6 +3198,28 @@
       "duration_ms": 250390,
       "name": "DiVER",
       "url": "https://open.spotify.com/track/1y5Z6yXsbCgFlQI18PZZou"
+    },
+    {
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/0G0jXVhffbttASyJ6Ngxbz"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        },
+        {
+          "name": "KUROMI",
+          "url": "https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185032,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/6A4ooWBIeYjfb4Xd2ygUo1"
     },
     {
       "album": {
@@ -3738,7 +3812,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 149960,
       "name": "F.A.C.E.",
       "url": "https://open.spotify.com/track/4O8lyvjoKzrkkEmKiMkv5Q"
@@ -5024,7 +5098,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 127999,
       "name": "High Low",
       "url": "https://open.spotify.com/track/2WQ5Y7NfIkZdSXFP6wXS3p"
@@ -6559,6 +6633,24 @@
     },
     {
       "album": {
+        "name": "Rebreath",
+        "url": "https://open.spotify.com/album/1f4JpaeEu3eO9fEiaKCqwI"
+      },
+      "artists": [
+        {
+          "name": "IA",
+          "url": "https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218179,
+      "name": "Kyuujitsuno arekore",
+      "url": "https://open.spotify.com/track/6RnQW0CkiybPk8LqibYP9t"
+    },
+    {
+      "album": {
         "name": "LAG",
         "url": "https://open.spotify.com/album/1NYo3smB13y6hGWsU1HMi0"
       },
@@ -7620,7 +7712,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 130770,
       "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
       "url": "https://open.spotify.com/track/5nODPwKJIZ9gY8aBKN43zW"
@@ -7844,7 +7936,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 189500,
       "name": "Monstruo",
       "url": "https://open.spotify.com/track/2Sok9eIEfMOnxnSq5kI97u"
@@ -8522,7 +8614,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 208023,
       "name": "N\u00ffart Beat feat.Chogakusei",
       "url": "https://open.spotify.com/track/2MdwCSyA8I8rpIz2mAv42C"
@@ -10018,7 +10110,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 167166,
       "name": "Roger, Wilco.",
       "url": "https://open.spotify.com/track/53YyxYvNNkWtVzf4H3swKu"
@@ -12525,6 +12617,24 @@
     },
     {
       "album": {
+        "name": "New World Carnival \u301c\u3044\u3056\u9b45\u60d1\u306e\u5927\u6d77\u539f\u3078\u2661\u301c",
+        "url": "https://open.spotify.com/album/20EnhcUpTUGU6vLTTCyrDp"
+      },
+      "artists": [
+        {
+          "name": "\u5b9d\u9418\u30de\u30ea\u30f3",
+          "url": "https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206573,
+      "name": "UTAGE",
+      "url": "https://open.spotify.com/track/0m4iJI9opMgQmZbuqRirs4"
+    },
+    {
+      "album": {
         "name": "utahime(feat. Mao Sasagawa , yuigot, KBSNK, samayuzame & kumamiso)",
         "url": "https://open.spotify.com/album/0q9fyvxY9CAXIC67hHEl2e"
       },
@@ -14236,7 +14346,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 176652,
       "name": "\u304a\u3084\u3059\u307f\u30eb\u30fc\u30b7\u30fc",
       "url": "https://open.spotify.com/track/5h31BDH1JNzLxdI0ORkkrO"
@@ -14258,6 +14368,24 @@
       "duration_ms": 152000,
       "name": "\u304a\u5148\u771f\u3063\u767d",
       "url": "https://open.spotify.com/track/4g1vjVw7E6FTrxvLqvoeKH"
+    },
+    {
+      "album": {
+        "name": "\u304b\u3044\u3076\u3064\u306e\u5b50",
+        "url": "https://open.spotify.com/album/3TvfJP68AQIRhQMacNkBMh"
+      },
+      "artists": [
+        {
+          "name": "ZEZE.",
+          "url": "https://open.spotify.com/artist/0qFPVfhxeQph5fFhH2BFsD"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241935,
+      "name": "\u304b\u3044\u3076\u3064\u306e\u5b50",
+      "url": "https://open.spotify.com/track/2ApMOZhbXMAdB3YKGYwbJi"
     },
     {
       "album": {
@@ -15040,7 +15168,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 245000,
       "name": "\u3060\u3081\u3060\u306d",
       "url": "https://open.spotify.com/track/358prFN7ui9NKPmJOQCLjp"
@@ -17617,6 +17745,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30e1\u30e9\u30eb\u30c9",
+        "url": "https://open.spotify.com/album/4Aa7p5Ii6nCNESA0GRUGSX"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237517,
+      "name": "\u30a8\u30e1\u30e9\u30eb\u30c9",
+      "url": "https://open.spotify.com/track/6m93jhY37ewvEMkUu0rMh6"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30e9\u30fc\u30bd\u30f3\u30b0",
         "url": "https://open.spotify.com/album/3PXMyel7rAN5tA0EleVB2b"
       },
@@ -19902,6 +20048,24 @@
       "duration_ms": 194266,
       "name": "\u30bd\u30fc\u30a4\u30f3\u30b0\u30dc\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/76NhiCBPrYxaXfh0jeUBcD"
+    },
+    {
+      "album": {
+        "name": "\u30bf\u30a4\u30e0\u30b9\u30ed\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/3SPKKu15ZFtnWw645uWJZ4"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30e6\u30a4",
+          "url": "https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198113,
+      "name": "\u30bf\u30a4\u30e0\u30b9\u30ed\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/4xBizHGv03hBXz1Ad0zkqt"
     },
     {
       "album": {
@@ -24010,7 +24174,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 205746,
       "name": "\u30ea\u30f3\u30ab\u30eb\u30cd\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/0l4TebB4lfvI2pR0YB0BXu"
@@ -29044,6 +29208,24 @@
       "duration_ms": 107812,
       "name": "\u653e\u9001",
       "url": "https://open.spotify.com/track/14OXQziwIkpL3wGTCLBJiP"
+    },
+    {
+      "album": {
+        "name": "\u6545\u610f\u3068\u7834\u58ca\u3002",
+        "url": "https://open.spotify.com/album/4irkaA08FzXqEGJz8lsAyA"
+      },
+      "artists": [
+        {
+          "name": "Nakimushi",
+          "url": "https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263714,
+      "name": "\u6545\u610f\u3068\u7834\u58ca\u3002",
+      "url": "https://open.spotify.com/track/3NghbADEUZuKAuOKywjZas"
     },
     {
       "album": {

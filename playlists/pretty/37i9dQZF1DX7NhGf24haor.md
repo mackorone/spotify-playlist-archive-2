@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: LNY TNZ & Outsiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,529 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,590 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [i feel like i'm drowning](https://open.spotify.com/track/1bjudieUQfyqAjtLoGCLpq) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [i feel like i'm drowning](https://open.spotify.com/album/0BQufYKa5Lslf5gZxn5Pa3) | 2:42 |
 | 100 | [Finish It](https://open.spotify.com/track/5UrH5WAzR7zwDeaU0JtJWX) | [Digital Punk](https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv), [Nightcraft](https://open.spotify.com/artist/4IQIMZPSBfizEPPGdCmsXV) | [Finish It](https://open.spotify.com/album/3BIq9JVdYa2acMQAl0zBQP) | 3:06 |
 
-Snapshot ID: `AAAAAMdIOeXq+UAMp/yxLtA6QezHmcAH`
+Snapshot ID: `AAAAAO0CCYCNMQVTlwqag+y3OFlLUbLm`

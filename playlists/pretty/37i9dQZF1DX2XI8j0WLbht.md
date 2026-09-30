@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > una guitarra y mucho sentimiento para cantar\. Ed Maverick en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,637 likes - 71 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,629 likes - 71 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 70 | [Si te mentí](https://open.spotify.com/track/5wFWF4ykbDm9mXdLY5qmdc) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Si te mentí](https://open.spotify.com/album/1h5Ms3dB19s0Ne5bWT6Gqq) | 2:53 |
 | 71 | [Te Regalo](https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:02 |
 
-Snapshot ID: `AAAAAFodCto2ZNmJx8boABqiX6BwdsXq`
+Snapshot ID: `AAAAAN3mjrtgDgjbaFb0PIdPJH4PoGL7`

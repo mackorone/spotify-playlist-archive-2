@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : KAROL G, Judeline, rusowsky
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,184 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,187 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 |
 | 50 | [Cuál Es La Necesidad](https://open.spotify.com/track/1eIJVAmYYui2VHcQ1cmwR2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Cuál Es La Necesidad](https://open.spotify.com/album/5EumHLtbT0Jc90E3I8j0On) | 2:24 |
 
-Snapshot ID: `AAAAAI32wwyGhlu4va4+RgLXFPw2DPfh`
+Snapshot ID: `AAAAAHHXySRF3PLRIoABb0OK2I9pyUmK`

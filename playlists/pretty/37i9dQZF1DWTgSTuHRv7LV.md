@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Natanael Cano, Tito Double P, Victor Mendivil, Ovi
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,932 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,940 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 15 | [Violencia](https://open.spotify.com/track/6GJ4n1wYeoIRTMRrrnLXyw) | [H de Perra](https://open.spotify.com/artist/58IwebpCTUds8Ricp3zbTU), [MALEBO](https://open.spotify.com/artist/2S65E8yhw1Qbw0fc196FFW), [Teorema](https://open.spotify.com/artist/3oXB0SMPKC4ILFeiCQR3TA) | [Violencia](https://open.spotify.com/album/7ojU1LWWkRdh4wSpEnPvGj) | 4:06 |
 | 16 | [After](https://open.spotify.com/track/6xNVBgIRbb9cHKR1ipzIfm) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [TRAPPii 2](https://open.spotify.com/album/6edg9wy9YoB6Hr27gHmSCQ) | 2:47 |
 | 17 | [Contigo Na Más \- Remix \(feat\. Ozuna, Hades66, Jay Wheeler\)](https://open.spotify.com/track/4UjjHtqpIwH69uOlLc0VIY) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Contigo Na Más \- Remix \(feat\. Ozuna, Hades66, Jay Wheeler\)](https://open.spotify.com/album/6vwUSUBR0Hly5NATwN0RnT) | 7:46 |
-| 18 | [Pasión de Gavilanes](https://open.spotify.com/track/68oQNcwCj9dFWENNjOncCF) | [Sirio](https://open.spotify.com/artist/4eWZRxh8TrrKlTwFAkyopH), [Viyltracker](https://open.spotify.com/artist/2KRhS9zh3A1RZanO7V8Xxk), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [Culprits of Soul](https://open.spotify.com/album/5KV3vyteFoRaknC4bAIV66) | 2:53 |
+| 18 | [Pasión de Gavilanes](https://open.spotify.com/track/68oQNcwCj9dFWENNjOncCF) | [Sirio](https://open.spotify.com/artist/4eWZRxh8TrrKlTwFAkyopH), [Vinyltracker](https://open.spotify.com/artist/3C1LbhIokOcNVlfGF9k6Qz), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [Culprits of Soul](https://open.spotify.com/album/5KV3vyteFoRaknC4bAIV66) | 2:53 |
 | 19 | [TiramiSUUU](https://open.spotify.com/track/3wCjI0GFGyJAxR1NrQR0Oj) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [TiramiSUUU](https://open.spotify.com/album/2N2uXjxHjFC6yzG1JtUuWt) | 2:21 |
 | 20 | [REAL](https://open.spotify.com/track/3xrDsH3N8RmWEz36ktZ6cX) | [Trave](https://open.spotify.com/artist/19cvXyWjVRp9HJmmOAykvt), [Cecilio G.](https://open.spotify.com/artist/2Q2fYVYxFSmodq53BFyD6p) | [REAL](https://open.spotify.com/album/17J754nABBJNzmPWJ1NXyj) | 1:55 |
 | 21 | [Mas Mujeres](https://open.spotify.com/track/0nlCZbgwYS4DM2DIBKIOJV) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [La Casa Del Trap](https://open.spotify.com/album/4c6x92vxqC9HAp9E0ZSWAi) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 99 | [Pararrayo](https://open.spotify.com/track/6M8jsJwPGqzK3id58qLPte) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Oblivion's Mighty Trash](https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf), [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Pararrayo](https://open.spotify.com/album/62Co1Y58FelWgdoZCPp03v) | 4:14 |
 | 100 | [Aquella Noche](https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Inmortales](https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV) | 3:10 |
 
-Snapshot ID: `AAAAAJ6Si0KyNN7rBg4vZAPoCGGmBDL/`
+Snapshot ID: `AAAAAPac1IKl6V7iCKjgQd4z4NXfGcJ6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > The latest releases from bluegrass and string bands alike\. Cover: Jake Blount
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,026 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,023 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 99 | [Black Bird](https://open.spotify.com/track/12K1fspXetlrNt5nGdLcmb) | [Destinie Lynn](https://open.spotify.com/artist/06s9YMqa9jvRYKKE2qrLrb) | [Black Bird](https://open.spotify.com/album/2RDbuNxjXQ3q45FUgGuW2k) | 2:39 |
 | 100 | [Blind](https://open.spotify.com/track/63B7GNMc9PMqRDsEvJ49KX) | [Yonder Mountain String Band](https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO) | [Blind](https://open.spotify.com/album/0B88zHXjkSFUIGyYrnQGCc) | 3:20 |
 
-Snapshot ID: `AAAAAIUvoF1dmc7A3s0mGBaHA4JXFW+A`
+Snapshot ID: `AAAAAIaSL4CmMoKMMyP5ZGbpXMI67/fe`

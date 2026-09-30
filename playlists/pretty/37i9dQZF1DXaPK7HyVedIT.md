@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Curol
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,171,076 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,029 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [I Miss You \(Malafamah\)](https://open.spotify.com/track/4MTMpdpnJITYNSB8rMu8Yc) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [I Miss You \(Malafamah\)](https://open.spotify.com/album/0vZvexnVmgcwtrePekqXpa) | 2:57 |
 | 80 | [O DJ Te Convoca](https://open.spotify.com/track/72YWCeiJ2AD7GGX2aAStLr) | [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD) | [O DJ Te Convoca](https://open.spotify.com/album/5kELhdKyNdX06S5o7fSC7V) | 3:02 |
 
-Snapshot ID: `AAAAABsKfOyTixj5gzBMxvtfqTOMKgyq`
+Snapshot ID: `AAAAAJ6aYH4pE5OoSwYU4kY59pAuSYYT`

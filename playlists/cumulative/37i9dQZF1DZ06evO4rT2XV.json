@@ -618,6 +618,24 @@
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Gnossienne n\u00b0 1",
+      "url": "https://open.spotify.com/track/1X4P2r2UKT5HvruA8NkYNz"
+    },
+    {
+      "album": {
+        "name": "Erik Satie",
+        "url": "https://open.spotify.com/album/7lY1G1ERfl1VBTYCSCoLT7"
+      },
+      "artists": [
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 75920,
       "name": "Star-Cross'd Lovers: Act V: Romeo's Poison",
       "url": "https://open.spotify.com/track/09C7g6ngDxPpUYUBpp9Ey7"

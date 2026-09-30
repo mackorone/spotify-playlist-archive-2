@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1184,
+  "num_followers": 1183,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEY2jVd4pcYYkN8IOpBpSjOyYnNQ4G",
+  "snapshot_id": "AAAEZeG3hDSCbXmQVKFHc2wmLwqNnSzG",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1091,6 +1091,42 @@
       "duration_ms": 173785,
       "name": "All i ever wanted",
       "url": "https://open.spotify.com/track/5EyoH8vk6UZ23j6AuriG5S"
+    },
+    {
+      "added_at": "2026-09-29 23:06:17",
+      "album": {
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/1Y0Q205TSU0imtpxIDinzB"
+      },
+      "artists": [
+        {
+          "name": "Skiii",
+          "url": "https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU"
+        },
+        {
+          "name": "Ellie Rizoa",
+          "url": "https://open.spotify.com/artist/6sRlVpjjeI0SCwmEr1ln6Q"
+        }
+      ],
+      "duration_ms": 105512,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/7t1BcudJWBTmceFz5Ysyd2"
+    },
+    {
+      "added_at": "2026-09-29 23:10:47",
+      "album": {
+        "name": "In an Hour of Truth",
+        "url": "https://open.spotify.com/album/6pjoldpGadfEffunZF5XNe"
+      },
+      "artists": [
+        {
+          "name": "The Fuzes",
+          "url": "https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "In an Hour of Truth",
+      "url": "https://open.spotify.com/track/4GehY9RxsnDzHe3SEhTeUF"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 57733,
+  "num_followers": 57740,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arhcgAAAAABxBoT3qX/YQhI7IvWD0gQM",
+  "snapshot_id": "armuAAAAAAD8rac8ksChWzPK3uj5aizq",
   "tracks": [
     {
       "added_at": null,
@@ -391,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+        "name": "Garage Palace (feat. Little Simz)",
+        "url": "https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU"
       },
       "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 154986,
-      "name": "one life, might live",
-      "url": "https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E"
+      "duration_ms": 151400,
+      "name": "Garage Palace (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4"
     },
     {
       "added_at": null,
@@ -423,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garage Palace (feat. Little Simz)",
-        "url": "https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU"
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
       },
       "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 151400,
-      "name": "Garage Palace (feat. Little Simz)",
-      "url": "https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4"
+      "duration_ms": 154986,
+      "name": "one life, might live",
+      "url": "https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E"
     },
     {
       "added_at": null,

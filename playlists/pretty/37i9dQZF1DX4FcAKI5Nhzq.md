@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: CLOSE YOUR EYES\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,153 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,131 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 50 | [RULE \(feat\. Heize\)](https://open.spotify.com/track/29orq8DEeVBJr0f9KWncuJ) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RULE \(feat\. Heize\)](https://open.spotify.com/album/2UKxxzXiOJ1FBpQtjIBHTh) | 2:36 |
 | 51 | [Sunset](https://open.spotify.com/track/1hx4HkO3bYg1y94EsRSES7) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [On the Crest of a Wave](https://open.spotify.com/album/6LCY5x1exkVi5xkQaN9LWi) | 3:54 |
 
-Snapshot ID: `AAAAABvhCDo6uL5aCVxxr0nwvtB9n/fa`
+Snapshot ID: `AAAAAMvoML5ngVL40fh/ytZaB5CsUDnZ`

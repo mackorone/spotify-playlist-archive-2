@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Barak
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,274 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,314 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Yo Me Rindo a Él \(Si Te Tengo a Ti\)](https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Yo Me Rindo a Él \(Si Te Tengo a Ti\)](https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c) | 9:24 |
 | 100 | [Solo a Jesús](https://open.spotify.com/track/72kjGPa16wh2NB9566yC4Z) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0) | [Solo a Jesús](https://open.spotify.com/album/6irGTGNJxt2TtgrURznIvt) | 11:12 |
 
-Snapshot ID: `AAAAAEhDlDZaVf7IFK+TvO6i23S2LSeX`
+Snapshot ID: `AAAAABfQy5hljeKZdSHDg0QKPZnOYc90`

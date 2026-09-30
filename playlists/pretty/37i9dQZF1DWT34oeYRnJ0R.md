@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: benny blanco & Bb trickz
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,408 likes - 200 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,390 likes - 200 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 199 | [T O M A !](https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [T O M A !](https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI) | 2:40 |
 | 200 | [MI CHIMBITA](https://open.spotify.com/track/0Vx3Z5Lrr7smPKUwrok9xh) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [Private Suite \(Vol\. 4\)](https://open.spotify.com/album/1XSQ56Y0zCG0Aht3EvSHj4) | 6:22 |
 
-Snapshot ID: `AAAAAP9KvHTdKknD1BXvDJ6DlR8n6C2l`
+Snapshot ID: `AAAAALZpoqXLYYPGq8oFR3MrZ7IuTXQe`

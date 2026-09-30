@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Northlane
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,677 likes - 162 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,846 likes - 162 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 161 | [The Road Not Taken](https://open.spotify.com/track/4Dla04OWfwXUicRrMjAW0g) | [Godslave](https://open.spotify.com/artist/5xLkB61DNBnrx3GmQplSK2) | [Godslave](https://open.spotify.com/album/4qkQUQCqPdSyBaTIWr6iVx) | 4:52 |
 | 162 | [Mercy Dies With You](https://open.spotify.com/track/7LPAvJUfZGbH3PlPjGM29a) | [Echoes in Ashes](https://open.spotify.com/artist/5yj3leg0AWcDRTTZM2WMrc) | [Mercy Dies With You](https://open.spotify.com/album/00Cz026TAZ3bCbh4cI8GMM) | 3:21 |
 
-Snapshot ID: `AAAAAKaf0I3AL5GqVNiEeCBYxhm22ZK5`
+Snapshot ID: `AAAAAGm0lvVGkyRvVFtI+7MMkstazB1i`

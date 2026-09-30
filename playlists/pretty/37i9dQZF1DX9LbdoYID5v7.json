@@ -1,12 +1,12 @@
 {
   "description": "The iconic indie songs that defined an era. ",
-  "num_followers": 595262,
+  "num_followers": 595298,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPGm/4QHR2ht6wq+/FPIlRcrEbT",
+  "snapshot_id": "AAAAAKItJHZ2+OzhGC4wPShg7DKsiY4L",
   "tracks": [
     {
       "added_at": "2025-05-06 20:51:58",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-05-06 20:51:58",
       "album": {
-        "name": "The Bravery",
-        "url": "https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb"
-      },
-      "artists": [
-        {
-          "name": "The Bravery",
-          "url": "https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "An Honest Mistake",
-      "url": "https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX"
-    },
-    {
-      "added_at": "2025-05-06 20:51:58",
-      "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
+    },
+    {
+      "added_at": "2025-05-06 20:51:58",
+      "album": {
+        "name": "The Bravery",
+        "url": "https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb"
+      },
+      "artists": [
+        {
+          "name": "The Bravery",
+          "url": "https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "An Honest Mistake",
+      "url": "https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX"
     },
     {
       "added_at": "2025-05-06 20:51:58",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-05-06 20:51:58",
       "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/3DgNj1aYbSRVoVO8yX7DRt"
-    },
-    {
-      "added_at": "2025-05-06 20:51:58",
-      "album": {
         "name": "A Good Day",
         "url": "https://open.spotify.com/album/2y8fiUO036vTYKHM2gNSuW"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 211240,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02"
+    },
+    {
+      "added_at": "2025-05-06 20:51:58",
+      "album": {
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/3DgNj1aYbSRVoVO8yX7DRt"
     },
     {
       "added_at": "2025-05-06 20:51:58",

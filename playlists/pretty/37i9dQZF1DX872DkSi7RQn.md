@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 
 > The IDs that got us here\. \#Spotify20
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,292 likes - 95 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,297 likes - 95 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 50 | [Baby](https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:24 |
 | 51 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/4bojrlaIBAWtOntcIH29Kt) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrone Dee](https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog) | [Lucent](https://open.spotify.com/album/0zJPWuHZWvGyw8urFFcxxx) | 6:31 |
 | 52 | [Operator \- DJ Koze's Disco Edit](https://open.spotify.com/track/37ZDfygEHF7SMoYGDqM1uv) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Operator \(DJ Koze's 12 inch Extended Disco Versions\)](https://open.spotify.com/album/2k4POCag6LGhJ83pgcub52) | 5:08 |
-| 53 | [Full Circle](https://open.spotify.com/track/4XK1a9vdsiDmhvdkFzGCQh) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Fading Love](https://open.spotify.com/album/1v6BipCE7YBMOBcAN0j0EH) | 4:52 |
-| 54 | [Coma Cat \- Radio Edit](https://open.spotify.com/track/6QSyeJYrO2UHVZU46pMTkr) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Coma Cat](https://open.spotify.com/album/2sh7pth3akQwEILnbrgT9i) | 2:57 |
+| 53 | [Coma Cat \- Radio Edit](https://open.spotify.com/track/6QSyeJYrO2UHVZU46pMTkr) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Coma Cat](https://open.spotify.com/album/2sh7pth3akQwEILnbrgT9i) | 2:57 |
+| 54 | [Full Circle](https://open.spotify.com/track/4XK1a9vdsiDmhvdkFzGCQh) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Fading Love](https://open.spotify.com/album/1v6BipCE7YBMOBcAN0j0EH) | 4:52 |
 | 55 | [Bad Kingdom](https://open.spotify.com/track/52XjrfqvrxaMtjCDYEKkXN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv) | 4:22 |
 | 56 | [Sleepless \- Stephan Bodzin Remix](https://open.spotify.com/track/124AEdOhexxJZ517ESVlzy) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [The Other Remixes](https://open.spotify.com/album/3rC6OKru4QhBTOcSvS0G2a) | 9:00 |
 | 57 | [We Dance Again](https://open.spotify.com/track/2q1qOoQjYbqcr2WG8X9qQe) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Pieces Of Me](https://open.spotify.com/album/52vGsPczTADGUWxavc9S9q) | 7:26 |
 | 58 | [Hungry for the Power \- Jamie Jones Ridge Street Mix](https://open.spotify.com/track/0FHycpsDC6uJCFkGXq4kPw) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc) | [Hungry for the Power](https://open.spotify.com/album/2Mx9JygkHhf6juiAPLiODy) | 6:46 |
 | 59 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 |
-| 60 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 |
-| 61 | [Condition](https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [In Circles](https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr) | 3:36 |
+| 60 | [Condition](https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [In Circles](https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr) | 3:36 |
+| 61 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 |
 | 62 | [Forget](https://open.spotify.com/track/7aBOeUzDz8JIhBYYgKZJih) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Boxed Off](https://open.spotify.com/album/6KlT5wd8PMU5j2bzQ7L4bp) | 6:06 |
 | 63 | [Higher Ground](https://open.spotify.com/track/3PRPiS8XO5BDwtBePgAlVM) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [TNGHT](https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A) | 3:19 |
 | 64 | [This Old House Is All I Have](https://open.spotify.com/track/1C1cqpQ9UP24fQVHJPrEGA) | [Against All Logic](https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1) | [2012 \- 2017](https://open.spotify.com/album/66MpVM5Cdjt3Vglq83gIzf) | 3:38 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 81 | [Theme from Q](https://open.spotify.com/track/7Bzyr2VDVOAIU4o0KpSWnp) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Objekt \#4](https://open.spotify.com/album/1dMTbnutjku3NdjGjsN3zK) | 7:20 |
 | 82 | [Cutie](https://open.spotify.com/track/4JdUdTVkEDNFZtzyW8hBZH) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 6:24 |
 | 83 | [el cielo no es de nadie](https://open.spotify.com/track/6ZJdW1sZg4zATn9EKih013) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 4:21 |
-| 84 | [Duofade](https://open.spotify.com/track/18aVHbdnr0Uu0vDsTJfYwR) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Duofade](https://open.spotify.com/album/5JjxlBFREiVPgFpW1wP5mK) | 3:56 |
-| 85 | [Pura](https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Pura](https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c) | 2:51 |
+| 84 | [Pura](https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Pura](https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c) | 2:51 |
+| 85 | [Duofade](https://open.spotify.com/track/18aVHbdnr0Uu0vDsTJfYwR) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Duofade](https://open.spotify.com/album/5JjxlBFREiVPgFpW1wP5mK) | 3:56 |
 | 86 | [Roadkill](https://open.spotify.com/track/70bNn1Q83HtKuySvCTOh7M) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [HYBRID: A Decade Of Dubfire](https://open.spotify.com/album/6XMKjGOdmOQBAs1ogp4B0Y) | 8:16 |
 | 87 | [Give it to Me](https://open.spotify.com/track/1Wp6y19X585x9sujeZFCJ4) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Big Saldo's Chunker 002](https://open.spotify.com/album/7vCrMkN3vcD2SWfmZd3fYH) | 7:09 |
 | 88 | [Looney](https://open.spotify.com/track/5RBuQi41kgJO9qDdcMLof7) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Looney Talks](https://open.spotify.com/album/1ijBvXjoA3te20e27FfVGF) | 6:00 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 94 | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt) | 3:24 |
 | 95 | [Beg \- Hot Since 82 Future Mix](https://open.spotify.com/track/4RjnbnZ6xGHDYFbywiiQ3I) | [Yousef](https://open.spotify.com/artist/6qIx4vKCCV9aW1CvTR3GES), [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Beg](https://open.spotify.com/album/00Pe7GWhQLFpqv6Ir1zW86) | 6:50 |
 
-Snapshot ID: `AAAAAEUq8x9sAwRjmE/XC/AL7XpotihT`
+Snapshot ID: `AAAAALHtXbq50Bhmiap29gTpTp2gKRva`

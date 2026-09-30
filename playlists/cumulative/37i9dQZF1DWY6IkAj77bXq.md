@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-339 songs - 16 hr 34 min
+340 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Space Within a Space](https://open.spotify.com/track/37WWBXEkERdURM1S9SCuwW) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/3EVxBEAzWfSUuVDRZ8Qync) | 3:11 | 2022-07-05 | 2022-07-29 |
 | [A Space Within a Space](https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp) | 3:11 | 2022-09-02 | 2024-04-19 |
 | [A Special Place](https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [A Special Place](https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB) | 2:26 | 2024-06-10 |  |
-| [Above All Else](https://open.spotify.com/track/70UplT5viFgy9Ul5GGXIvo) | [Sir Edmund](https://open.spotify.com/artist/6rkmVXhzb4urpPOUeEnqtH) | [Above All Else](https://open.spotify.com/album/2uvqVzVwjdETh4Ri15e55A) | 2:55 | 2024-04-04 |  |
+| [Above All Else](https://open.spotify.com/track/70UplT5viFgy9Ul5GGXIvo) | [Sir Edmund](https://open.spotify.com/artist/6rkmVXhzb4urpPOUeEnqtH) | [Above All Else](https://open.spotify.com/album/2uvqVzVwjdETh4Ri15e55A) | 2:55 | 2024-04-04 | 2026-09-30 |
 | [Adrift](https://open.spotify.com/track/4oa2CP3x5ZTXAQdY7z1u4R) | [Fresh Inclinations](https://open.spotify.com/artist/0THmB0GAXHP7bJEB3XqT7c) | [Adrift](https://open.spotify.com/album/2P0rxtVZXCYUwrPPI92Rb8) | 2:43 | 2026-02-11 | 2026-09-10 |
 | [Aetheris](https://open.spotify.com/track/3qW4n7ZcKKdby0Hyp0tVma) | [Edge Of The Spiral](https://open.spotify.com/artist/71xo1rIlxbxkACPQgQpof8) | [Aetheris](https://open.spotify.com/album/2JDr7kXGdHPQQKgOdfGy6x) | 2:58 | 2024-06-10 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-07-05 |  |
@@ -66,6 +66,7 @@
 | [Close Together](https://open.spotify.com/track/4tpUdHveADtY3Zg6F7u38H) | [Claudio Manioli](https://open.spotify.com/artist/1gbOMArWIQTrXSFFD23ltq) | [Close Together](https://open.spotify.com/album/3teExejHX9gxm46crmLZam) | 3:08 | 2025-01-14 |  |
 | [Coastal Day](https://open.spotify.com/track/4anG3kAHgtrTnn8aZd444Q) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Coastal Day](https://open.spotify.com/album/46qfLAjD8zAQC5a2PlGwbX) | 2:31 | 2024-11-07 |  |
 | [Comforting Sunshine](https://open.spotify.com/track/5dZCZUc0WySvpgeaVuvVSr) | [Rose Wells](https://open.spotify.com/artist/3knchE3iZkUeX7Ja2Q1dEc) | [Comforting Sunshine](https://open.spotify.com/album/4s2EEf4zyAhEDY2G5rijuC) | 2:26 | 2024-07-19 | 2024-09-03 |
+| [Consonancy](https://open.spotify.com/track/0NxKFdWkGJMMP6sBID6Y4c) | [Fields Of Glory](https://open.spotify.com/artist/6QxOhf5TjFWZH818Pn54mi) | [Consonancy](https://open.spotify.com/album/66W7ed7C8ygwGiBs9kU6tu) | 2:52 | 2026-09-14 |  |
 | [Constellation](https://open.spotify.com/track/4rfarsda54eUg7P7dmM3VO) | [Renoir Rose](https://open.spotify.com/artist/5CAi5m67hzXUmCv1XtHjZZ) | [Constellation](https://open.spotify.com/album/60lIvdWv7SKv6G5IOXgq5D) | 2:34 | 2026-07-03 |  |
 | [Constellation](https://open.spotify.com/track/7mNsW1pk3uRfVag5Ma6iuV) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Constellation](https://open.spotify.com/album/7LQAlFRkuKMVvZAtPRrgS3) | 3:54 | 2026-09-14 |  |
 | [Continuazione](https://open.spotify.com/track/6U54VI00e276ucjOZTnfSU) | [Aamina Russo](https://open.spotify.com/artist/2tKHYULGYUqc688FyJRGxO) | [Continuazione](https://open.spotify.com/album/7Bzf2u6ikGeomuxaomzInT) | 2:16 | 2024-02-16 | 2025-03-22 |

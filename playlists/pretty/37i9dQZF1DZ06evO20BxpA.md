@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,654 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,654 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 37 | [My Beloved Spake](https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:10 |
 | 38 | [ISS](https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 2:53 |
 | 39 | [You Wanted a Drumstick](https://open.spotify.com/track/3M7sdV1gpPnProV5YYZGYD) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coyote vs\. Acme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7) | 2:35 |
-| 40 | [We Must Rewild The World](https://open.spotify.com/track/1oujzxcMf4yGV5Un4ErGYd) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:19 |
-| 41 | [Everything is Bathed in Sunlight](https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 3:51 |
-| 42 | [Help Us Please](https://open.spotify.com/track/1tT7y3J5ugafWIHmpNKKFw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:53 |
+| 40 | [Help Us Please](https://open.spotify.com/track/1tT7y3J5ugafWIHmpNKKFw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:53 |
+| 41 | [We Must Rewild The World](https://open.spotify.com/track/1oujzxcMf4yGV5Un4ErGYd) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:19 |
+| 42 | [Everything is Bathed in Sunlight](https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 3:51 |
 | 43 | [Katrina](https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [American Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d) | 4:33 |
 | 44 | [Our Eternal Sky](https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Eternal Sky](https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697) | 4:41 |
 | 45 | [I Should Tell You My Story Myself](https://open.spotify.com/track/5ei9JGRHRb4Yu9WNUnWslc) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 2:44 |
-| 46 | [My Client Is Innocent](https://open.spotify.com/track/0j0Yks4eVZokpRBv3h2nEL) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coyote vs\. Acme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7) | 2:52 |
-| 47 | [All Life Began in the Deep Blue Sea](https://open.spotify.com/track/7ufghGshBe2Tvk1ku68Msw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:19 |
+| 46 | [Thwarted Plans](https://open.spotify.com/track/4wFhANEbMntNIjreTlL4M7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coyote vs\. Acme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7) | 2:44 |
+| 47 | [The Shallow Seas](https://open.spotify.com/track/1vjuL6knzg5Xhh3bdaUUJ7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 1:51 |
 | 48 | [All at Sea](https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:49 |
 | 49 | [Dear Mr\. Killian](https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:21 |
-| 50 | [Thwarted Plans](https://open.spotify.com/track/4wFhANEbMntNIjreTlL4M7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coyote vs\. Acme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7) | 2:44 |
+| 50 | [My Client Is Innocent](https://open.spotify.com/track/0j0Yks4eVZokpRBv3h2nEL) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coyote vs\. Acme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7) | 2:52 |
 
-Snapshot ID: `arhcgAAAAADS+lfBUre/OIBDb+nx14LK`
+Snapshot ID: `armuAAAAAABgd8+aanlxMxgAj8DmImb5`

@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's. Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 149629,
+  "num_followers": 149631,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOoTrVAUOJWVjtNOUCBdbzKEY/GA",
+  "snapshot_id": "AAAAAIiUaJ4yH6bntS2ltYaluqX1MOnZ",
   "tracks": [
     {
       "added_at": "2026-02-11 22:46:25",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
+        "name": "The Merle Travis Story",
+        "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
       "artists": [
         {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
         }
       ],
-      "duration_ms": 178226,
-      "name": "So, Round, So Firm, So Fully Packed",
-      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
+      "duration_ms": 135933,
+      "name": "Divorce Me C.O.D.",
+      "url": "https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "The Merle Travis Story",
-        "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
       },
       "artists": [
         {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
         }
       ],
-      "duration_ms": 135933,
-      "name": "Divorce Me C.O.D.",
-      "url": "https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt"
+      "duration_ms": 178226,
+      "name": "So, Round, So Firm, So Fully Packed",
+      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "Heavy Traffic Ahead",
-      "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "The Columbia Singles Collection (1949-1964)",
         "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 172733,
       "name": "Candy Kisses",
       "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "Heavy Traffic Ahead",
+      "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
     },
     {
       "added_at": "2026-02-11 22:46:25",

@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 646859,
+  "num_followers": 647134,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACBvMhU1WXSeQPbVVFf/zL+ejR6g",
+  "snapshot_id": "AAAAAP2kCGuAjJqEL5hd5tTBsS3o9Cic",
   "tracks": [
     {
       "added_at": "2026-08-31 08:40:17",
@@ -247,22 +247,18 @@
     {
       "added_at": "2026-08-31 08:40:17",
       "album": {
-        "name": "The Brasil Project Vol. II",
-        "url": "https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7"
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
       "artists": [
         {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        },
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
         }
       ],
-      "duration_ms": 216360,
-      "name": "Samba de Orfeu",
-      "url": "https://open.spotify.com/track/0yO7Rg00ZJiMMb8pHiBojc"
+      "duration_ms": 128985,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp"
     },
     {
       "added_at": "2026-08-31 08:40:17",
@@ -283,18 +279,22 @@
     {
       "added_at": "2026-08-31 08:40:17",
       "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
+        "name": "The Brasil Project Vol. II",
+        "url": "https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7"
       },
       "artists": [
         {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        },
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
         }
       ],
-      "duration_ms": 128985,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp"
+      "duration_ms": 216360,
+      "name": "Samba de Orfeu",
+      "url": "https://open.spotify.com/track/0yO7Rg00ZJiMMb8pHiBojc"
     },
     {
       "added_at": "2026-08-31 08:40:17",

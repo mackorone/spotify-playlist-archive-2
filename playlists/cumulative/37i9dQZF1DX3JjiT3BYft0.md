@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-479 songs - 1 day 9 hr 59 min
+482 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Daylight \-デイライト\-](https://open.spotify.com/track/3Be9EL2AESBwcB6ZUYKwys) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight \-デイライト\-](https://open.spotify.com/album/2Djt9daRmOJ1MTliK7X0Gn) | 5:50 | 2022-09-20 | 2023-03-16 |
 | [Daylight \-デイライト\-](https://open.spotify.com/track/7Ld7ylkV7WdTviE5w3XAv9) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 5:50 | 2023-03-14 | 2024-04-19 |
 | [Daylight \-デイライト\-](https://open.spotify.com/track/7lbb1e459rAhDVp0EjLokE) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight \-デイライト\-](https://open.spotify.com/album/4cfIgVvrx4fzEx8LHNyhY9) | 5:50 | 2022-05-17 | 2022-07-17 |
-| [Dazzle the Destiny](https://open.spotify.com/track/36qqkkLRFAGZmaqR7C86du) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Dazzle the Destiny](https://open.spotify.com/album/5dizFHt1eoeW1ilnRmyikc) | 4:01 | 2025-05-07 |  |
+| [Dazzle the Destiny](https://open.spotify.com/track/36qqkkLRFAGZmaqR7C86du) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Dazzle the Destiny](https://open.spotify.com/album/5dizFHt1eoeW1ilnRmyikc) | 4:01 | 2025-05-07 | 2026-09-30 |
 | [DEAD HEAT BEAT](https://open.spotify.com/track/70oZ9paZhQYkYAd5nganwI) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [THE WAY OF LIFE](https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X) | 4:12 | 2024-03-23 |  |
 | [Dear Gleam](https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 4:13 | 2023-05-30 | 2025-03-27 |
 | [DISCOTHEQUE \- Cover](https://open.spotify.com/track/5FFBLmADzoKasxORMErCd4) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 4:03 | 2024-03-23 | 2026-09-26 |
@@ -117,7 +117,7 @@
 | [Hey\-day狂騒曲](https://open.spotify.com/track/74e82yQCZdXVsV9Xu5cSP1) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/album/3ZwXTeFex0cgJWCr4zk0RN) | 3:51 | 2022-06-23 | 2022-07-24 |
 | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/track/5hxe8V1SssFYZMCQvHxwvh) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e) | 3:53 | 2022-06-23 | 2022-10-02 |
 | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/track/1Dqda7294YgfixgAZnmtnX) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 3:53 | 2022-09-20 | 2024-04-19 |
-| [Hi\-Vision](https://open.spotify.com/track/0rNLITsnaH7Uanwqn4ZHqf) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [Hi\-Vision](https://open.spotify.com/album/7qOeisRofcVZijOX9dLQlJ) | 3:00 | 2025-04-29 |  |
+| [Hi\-Vision](https://open.spotify.com/track/0rNLITsnaH7Uanwqn4ZHqf) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [Hi\-Vision](https://open.spotify.com/album/7qOeisRofcVZijOX9dLQlJ) | 3:00 | 2025-04-29 | 2026-09-30 |
 | [Home Street](https://open.spotify.com/track/67h29qIYN9QnBIPUiFw85z) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [キズナミュージック♪](https://open.spotify.com/album/4mYniR7vYFUoalkROKInK8) | 3:48 | 2022-06-23 | 2022-07-26 |
 | [HOWLING AMBITION](https://open.spotify.com/track/2NYWu8xDb8g6Q8d6MxdmQV) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [HOWLING AMBITION](https://open.spotify.com/album/6Wt3DPGwFBzlG4wjrn6eaw) | 4:18 | 2025-06-13 |  |
 | [I knew it!](https://open.spotify.com/track/5dRxTWfQ3stQEMgyDu92dF) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:50 | 2022-05-17 | 2022-07-28 |
@@ -316,7 +316,7 @@
 | [ふわふわ☆ゆめいろサンドイッチ](https://open.spotify.com/track/54Gc8r0xsFazaZh5fXDmx9) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ハイファイブ∞あどべんちゃっ](https://open.spotify.com/album/2XhqMTZVFxbqrQAJzc7RsF) | 4:52 | 2022-06-23 | 2025-09-20 |
 | [ふわふわ時間](https://open.spotify.com/track/3inIDEYK6C287bLZFRqjv1) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:05 | 2022-05-17 | 2026-09-05 |
 | [ぽっぴん'しゃっふる](https://open.spotify.com/track/4oWEDswsb31s9ARNOu3Jhi) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「Yes! BanG\_Dream!」](https://open.spotify.com/album/3QZAIjdUw6CI8IEGJ2dADM) | 4:39 | 2022-05-17 | 2022-10-04 |
-| [ぽっぴん'どりーむ！](https://open.spotify.com/track/5339nA0dO3UqGj0TXGxC6J) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:30 | 2025-05-07 |  |
+| [ぽっぴん'どりーむ！](https://open.spotify.com/track/5339nA0dO3UqGj0TXGxC6J) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:30 | 2025-05-07 | 2026-09-30 |
 | [もういちど ルミナス](https://open.spotify.com/track/0kT66ZNn1rX0Qk9y9kw7Mv) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 4:20 | 2022-10-25 | 2023-08-31 |
 | [もういちど ルミナス](https://open.spotify.com/track/7eozLSbXAKoEFHHvt4yapB) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [もういちど ルミナス](https://open.spotify.com/album/4lS8Ob0Kt2Zui7LlcnRfPi) | 4:20 | 2022-05-17 | 2022-07-17 |
 | [ゆめゆめグラデーション](https://open.spotify.com/track/4UsN8CVre3rdUaBEAkGxbf) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [ゆめゆめグラデーション](https://open.spotify.com/album/4PYxuwefUqpr0T7xOq3X1m) | 4:44 | 2022-05-17 | 2022-07-29 |
@@ -374,6 +374,7 @@
 | [パッパレ☆人生！バーン万歳！](https://open.spotify.com/track/6WV66ZeRZ7nAGKYKjjaBQX) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 3:59 | 2023-05-30 | 2025-01-16 |
 | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/track/6fPkczUh0DSxfwxAz9WgOW) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/album/6ySP0mPO2c9WiCBDUkoREy) | 4:18 | 2022-05-17 |  |
 | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN) | 4:19 | 2022-09-20 | 2024-04-19 |
+| [ピースフル・ピーシーズ！](https://open.spotify.com/track/6zpZomZvQUmltErKnL5na9) | [一家Dumb Rock!](https://open.spotify.com/artist/36BahzMmQXSN4VjykiWUlH) | [ピースフル・ピーシーズ！](https://open.spotify.com/album/7uAmTjqqBSUki2T6LLPySt) | 4:03 | 2026-09-29 |  |
 | [フィクション \(Cover\)](https://open.spotify.com/track/2wWC6dAeGjsZCIZw8jBwqZ) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [フィクション \(Cover\)](https://open.spotify.com/album/1u4tdidxpevGAUIP3IYYCX) | 3:52 | 2025-03-26 | 2025-10-03 |
 | [ブルームブルーム](https://open.spotify.com/track/15FyEraTym0lgCFREa8VaU) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4xkv0qao5AVfWmeiIF6Zqk) | 4:36 | 2022-09-20 | 2023-03-18 |
 | [ブルームブルーム](https://open.spotify.com/track/4G7Wsp4nJNLg55Mp6RRU1s) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:36 | 2023-04-11 | 2023-11-16 |
@@ -412,6 +413,7 @@
 | [夏空 Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/2bUelKUEXJNjgLv3S8JjAX) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない！」](https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA) | 4:59 | 2022-09-20 | 2024-04-19 |
 | [夏空 SUN!SUN!SEVEN! \- Popipa Acoustic Ver.](https://open.spotify.com/track/4sHlUnnHjEEDJN7tBzVVBO) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/7uZ57BtKr2QWlsxC4T7fyH) | 5:00 | 2022-06-23 | 2022-07-24 |
 | [夢を撃ち抜く瞬間に!](https://open.spotify.com/track/58owpwr0vtowPGVouuO3rs) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [イニシャル/夢を撃ち抜く瞬間に! \(Special Edition\)](https://open.spotify.com/album/5Ou7gzfqsGIwhii2xYHYS3) | 4:40 | 2022-06-23 | 2022-07-17 |
+| [夢我夢中](https://open.spotify.com/track/1OEmJ2h1wJUzo3XrAzjUvo) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg) | [夢我夢中](https://open.spotify.com/album/2E4XpbsmmiHy4HrEzKpv8m) | 3:24 | 2026-09-29 |  |
 | [大好き！](https://open.spotify.com/track/1Xm7guybMM8AneKkie4HcP) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:07 | 2024-03-23 | 2024-04-24 |
 | [天下トーイツA to Z☆](https://open.spotify.com/track/5ok9My7hwKepg4oFta8P0o) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 3:38 | 2022-09-20 | 2024-04-19 |
 | [天下卜ーイツA to Z☆](https://open.spotify.com/track/5ZasKT10YVbrMx5CIyPwZp) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 3:38 | 2022-06-23 | 2022-10-02 |
@@ -486,6 +488,7 @@
 | [青春 To Be Continued](https://open.spotify.com/track/0ffbqaw7SgaVKZ4Wzyx01o) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:16 | 2023-05-30 | 2025-02-26 |
 | [音一会](https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 4:42 | 2023-04-11 | 2024-11-28 |
 | [魂のルフラン](https://open.spotify.com/track/5TwbVyG5JZj7vsbFshGdOS) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:29 | 2022-05-17 | 2022-07-29 |
+| [鳴らす](https://open.spotify.com/track/1xkkaCuqzGSC487Qo0AZKy) | [millsage](https://open.spotify.com/artist/7cBKwPovugxX15beVkPZGA) | [鳴らす](https://open.spotify.com/album/5zBhQcrx3Ut9Qh6XzSq6GS) | 3:52 | 2026-09-29 |  |
 | [Ｒ](https://open.spotify.com/track/3q6152nwxpjkzKFUOPe1EJ) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:45 | 2022-09-20 | 2023-08-28 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

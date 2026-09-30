@@ -4,7 +4,7 @@
 
 > Local artists you need to watch, handpicked by our editors\. Cover: Lewis Love
 
-623 songs - 1 day 9 hr 22 min
+624 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 | 2025-05-29 | 2025-08-22 |
 | [Euphoria](https://open.spotify.com/track/7F4p9HU836tGnUBLwJhHiu) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Newcomer](https://open.spotify.com/album/1sXxuN4YB7Fisgjmp96l9k) | 2:57 | 2022-08-15 | 2023-03-02 |
 | [Exit](https://open.spotify.com/track/3mOVlLxsQ5LHBqPJl4djqU) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Exit](https://open.spotify.com/album/0NM4Gbbp3Hz1dj6pulp9R6) | 2:15 | 2022-11-10 | 2023-10-06 |
+| [Extra Time](https://open.spotify.com/track/0UHNfLj6mQL2kz2qZT5mfC) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Extra Time](https://open.spotify.com/album/0qwtFpkWPaiMG2wh9Zf5yw) | 3:34 | 2026-09-29 |  |
 | [Ezinna](https://open.spotify.com/track/41UGPePAJSduundVw9xy6j) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [jamie](https://open.spotify.com/album/04aWIaxveChEP20zhtczHb) | 3:40 | 2021-10-15 | 2022-08-16 |
 | [F.M.D.](https://open.spotify.com/track/72VOW8X0ZgYdc9pQnIqur1) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B) | [F.M.D.](https://open.spotify.com/album/5dkihcNVD1NruzZQAKkyqL) | 3:09 | 2026-07-09 | 2026-08-28 |
 | [FAIR DINKUM](https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf), [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [FAIR DINKUM](https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO) | 2:36 | 2026-07-09 |  |
@@ -296,7 +297,7 @@
 | [Jenny](https://open.spotify.com/track/67zxIv3yivtuIG6riPQa3U) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Jenny](https://open.spotify.com/album/14PW20ySyvP27eGpXFC79K) | 3:06 | 2026-09-24 |  |
 | [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 | 2022-08-15 | 2023-03-02 |
 | [Jump](https://open.spotify.com/track/5P9d2eG2DJzQFDathA52FF) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [Jump](https://open.spotify.com/album/6HcV3NG1aOqzvESgojMTor) | 2:33 | 2025-04-03 | 2025-11-07 |
-| [Kick In The Teeth](https://open.spotify.com/track/7x5rRIvAk4uKNKnInTFbwD) | [Sesame Girl](https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX) | [Kick in the Teeth](https://open.spotify.com/album/7FxFm7EIMzI9Tg3hcDU1XK) | 2:48 | 2026-07-09 |  |
+| [Kick In The Teeth](https://open.spotify.com/track/7x5rRIvAk4uKNKnInTFbwD) | [Sesame Girl](https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX) | [Kick in the Teeth](https://open.spotify.com/album/7FxFm7EIMzI9Tg3hcDU1XK) | 2:48 | 2026-07-09 | 2026-09-30 |
 | [kill\[h\]er](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [kill\[h\]er](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 | 2023-03-02 | 2023-03-13 |
 | [King of Disappointment](https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [King of Disappointment](https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X) | 4:11 | 2023-06-22 | 2024-10-02 |
 | [Kiss Me Like You're Leaving](https://open.spotify.com/track/6rA5wCxRTEE5G2EWwrQY4e) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Kiss Me Like You're Leaving](https://open.spotify.com/album/4kStSM0UKjniVUclhDnieM) | 3:40 | 2025-05-29 | 2026-04-24 |

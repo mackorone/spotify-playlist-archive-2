@@ -1,12 +1,12 @@
 {
   "description": "In Gedenken an XATAR \ud83e\udd0d",
-  "num_followers": 666969,
+  "num_followers": 667007,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGWjr+G7z00kHr8weseIXL3iRs5G",
+  "snapshot_id": "AAAAAM6NGwAFdfPkmwLrVD+X9UhijYLo",
   "tracks": [
     {
       "added_at": "2025-12-19 20:12:08",
@@ -315,26 +315,6 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "New Dubby Conquerors",
-        "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
-      },
-      "artists": [
-        {
-          "name": "Seeed",
-          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
-        },
-        {
-          "name": "Black Kappa",
-          "url": "https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Dickes B (feat. Black Kappa)",
-      "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
         "name": "ALLES ODER NIX",
         "url": "https://open.spotify.com/album/5bhD7Kl3zfhdbnJiVVUXgx"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 220786,
       "name": "Ich will alles",
       "url": "https://open.spotify.com/track/3GsD3Dzap9dZrGGU9I3h0S"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
+        "name": "New Dubby Conquerors",
+        "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
+      },
+      "artists": [
+        {
+          "name": "Seeed",
+          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
+        },
+        {
+          "name": "Black Kappa",
+          "url": "https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Dickes B (feat. Black Kappa)",
+      "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
     },
     {
       "added_at": "2025-12-19 20:12:08",

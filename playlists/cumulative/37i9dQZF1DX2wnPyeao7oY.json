@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Freeze the Fall",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Sicksense",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 212400,
       "name": "Bonded By Blood",
       "url": "https://open.spotify.com/track/26JxnEEcpZPM693BqMdcLh"
@@ -4360,6 +4360,24 @@
       "duration_ms": 173413,
       "name": "Disputatious Malignancy",
       "url": "https://open.spotify.com/track/2JwCI7buFePo9kVh41tJYa"
+    },
+    {
+      "album": {
+        "name": "Dissolve",
+        "url": "https://open.spotify.com/album/6Geu19D7bKD8mOiChQ9zDQ"
+      },
+      "artists": [
+        {
+          "name": "Index",
+          "url": "https://open.spotify.com/artist/3MFhkrjjpTsfXVTOvz6Ovu"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169188,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/2GtLJ75gxcW5LYiIIGc9Wb"
     },
     {
       "album": {
@@ -8990,7 +9008,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 145428,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/3zgedOMMt7sgzUoKqKSyUR"
@@ -11733,6 +11751,28 @@
     },
     {
       "album": {
+        "name": "PARASITE",
+        "url": "https://open.spotify.com/album/3PCEtHHLigYETJmg8yiipo"
+      },
+      "artists": [
+        {
+          "name": "Without a Sin",
+          "url": "https://open.spotify.com/artist/1rEYZRLmcuq6HDNv91Gubk"
+        },
+        {
+          "name": "\u661f\u718a\u5357\u5deb",
+          "url": "https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169384,
+      "name": "PARASITE",
+      "url": "https://open.spotify.com/track/73pnl2Lzc5prMCpQAeKbNz"
+    },
+    {
+      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/0SXsdfDq8bGMHfMHQYuVmz"
       },
@@ -12278,7 +12318,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 372200,
       "name": "Psyche",
       "url": "https://open.spotify.com/track/3NiBX3eWRj1dKayryqoz5W"
@@ -13467,6 +13507,24 @@
     },
     {
       "album": {
+        "name": "Funerals",
+        "url": "https://open.spotify.com/album/2NaKnQEgDkcSg7ocIly1gH"
+      },
+      "artists": [
+        {
+          "name": "Sicksense",
+          "url": "https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203454,
+      "name": "Seller's Remorse",
+      "url": "https://open.spotify.com/track/5NR9i6BDwxseDn5fCOuCJo"
+    },
+    {
+      "album": {
         "name": "Sentinel Hill",
         "url": "https://open.spotify.com/album/4jENLu0wH5hYYqvJl0Bnfr"
       },
@@ -13714,6 +13772,24 @@
       "duration_ms": 164872,
       "name": "shadowboxing",
       "url": "https://open.spotify.com/track/2orFaBHBmDwjUOkSPptO3R"
+    },
+    {
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/1CAF7kOyDJZKX6HDRQVHqm"
+      },
+      "artists": [
+        {
+          "name": "Stray View",
+          "url": "https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157927,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/66ZV6ECY7xwe5gzM1J7Uad"
     },
     {
       "album": {
@@ -14328,6 +14404,24 @@
       "duration_ms": 317333,
       "name": "Sparrow",
       "url": "https://open.spotify.com/track/6LbqZon6XGnQZfGGJecds8"
+    },
+    {
+      "album": {
+        "name": "Speculum Bleed",
+        "url": "https://open.spotify.com/album/2k42fwNdsvWFJ572upQjxw"
+      },
+      "artists": [
+        {
+          "name": "BRAT",
+          "url": "https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214867,
+      "name": "Speculum Bleed",
+      "url": "https://open.spotify.com/track/1svOHHesmIxsUOpOQyfTk8"
     },
     {
       "album": {
@@ -14984,6 +15078,24 @@
       "duration_ms": 191801,
       "name": "SUPERSONIC",
       "url": "https://open.spotify.com/track/7IkdHSHAJRAiRbLBgNFgUC"
+    },
+    {
+      "album": {
+        "name": "supervillain",
+        "url": "https://open.spotify.com/album/4uCFvVltDcqLz94JmChd9f"
+      },
+      "artists": [
+        {
+          "name": "LUNA KILLS",
+          "url": "https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165692,
+      "name": "supervillain",
+      "url": "https://open.spotify.com/track/39yWeIKjw8NoVIHlZ0DEa5"
     },
     {
       "album": {
@@ -16628,7 +16740,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 172347,
       "name": "Trophy Hunting",
       "url": "https://open.spotify.com/track/7vJgAxi20sHY08Z0i0RQN0"
@@ -17426,7 +17538,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 227532,
       "name": "Watching Us Kiss",
       "url": "https://open.spotify.com/track/0kVZWOUCsONWxVBRw6eszc"
@@ -17766,7 +17878,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 163382,
       "name": "Willenlos",
       "url": "https://open.spotify.com/track/1ZsttjDd9Lk7qXCHAoYzqU"

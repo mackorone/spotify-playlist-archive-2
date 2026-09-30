@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,619 songs - 6 day 8 hr 50 min
+2,622 songs - 6 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,6 +535,7 @@
 | [Digan lo que digan](https://open.spotify.com/track/7oML2qtfJRhXRuuW2wv4rM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Digan lo que digan](https://open.spotify.com/album/07QcPjhWnCMPRScuBiMMgz) | 3:25 | 2026-04-12 |  |
 | [Digital Meadow](https://open.spotify.com/track/6ItfH8oY8zaLd0Hls0l8nl) | [White Latex](https://open.spotify.com/artist/5Ne2cH95chM7wgjsqPn0vM) | [Digital Meadow](https://open.spotify.com/album/4pxWl9BvQTZaK1yp9vpr5c) | 2:32 | 2025-05-06 |  |
 | [Dime Pa Que Vuelves](https://open.spotify.com/track/5cg0XaWG6LGo4aZuoOxcGV) | [Soy Loy](https://open.spotify.com/artist/0egXpDPsm0pFmdjfIfPHbn), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Dime Pa Que Vuelves](https://open.spotify.com/album/6iAT6bslz3QBSKfHxSqrgM) | 3:14 | 2026-07-05 |  |
+| [Dino](https://open.spotify.com/track/5Vq6OAlTw9ZsIrLwFbvapt) | [Erbomb](https://open.spotify.com/artist/1xmDZ27OFgWwJgGlLmaHZn) | [3](https://open.spotify.com/album/2voBAf4VAc6NzKDKRHpVqI) | 2:43 | 2026-09-29 |  |
 | [Dioses del Vudú](https://open.spotify.com/track/6mbTqEDd4nVWiFCCXfmDZA) | [José Biggs](https://open.spotify.com/artist/4Xcz7okpxQnOh6neuiauiO), [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Dioses del Vudú](https://open.spotify.com/album/0BCY4TqPnnqjTrcBzqAcpt) | 3:31 | 2025-12-18 |  |
 | [Directamente del Cielo](https://open.spotify.com/track/72a9t5mhsKriamVuPqDAJj) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Directamente del Cielo](https://open.spotify.com/album/2U6pc5ziwVV895tqWX47iz) | 3:52 | 2026-04-01 |  |
 | [Diruang yang sama](https://open.spotify.com/track/2X698x7ob5i98SSZFd5OC0) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Diruang yang sama](https://open.spotify.com/album/7DBBfmvVQJ4sTYxTZsz2wE) | 4:06 | 2026-07-09 |  |
@@ -1625,7 +1626,7 @@
 | [O Mundo Dá Voltas](https://open.spotify.com/track/5xo7bNlmrGYPCRRR4SnDWf) | [Benytz](https://open.spotify.com/artist/53SleZLdPaL20mpXmcawfm), [Marginal Zero](https://open.spotify.com/artist/0YjrhuK97iNarH3IsGI7al), [DJ Zonattão](https://open.spotify.com/artist/1wWANVAA56sHvzBLKFpnyS), [N'öturnö](https://open.spotify.com/artist/5wKcuFefOJMt4aoOOqKvMx) | [Metamorflow](https://open.spotify.com/album/0a2jNFFjjOC3zn3B31qUf4) | 2:48 | 2025-06-23 |  |
 | [O Porquê da Gente](https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [O Porquê da Gente](https://open.spotify.com/album/0F6WDXwR0QGoRrZQtdwtqW) | 3:54 | 2025-07-08 |  |
 | [obsessed with u \- Roberto Senchiu Remix](https://open.spotify.com/track/0E44JjLoTipMWa0fpxWAQS) | [nvrsench](https://open.spotify.com/artist/1ddVrWgnuFa6pNnWlcqpbr), [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [obsessed with u \(Roberto Senchiu Remix\)](https://open.spotify.com/album/6Wj9vRs13osgajEgzxj9QI) | 2:14 | 2026-03-23 |  |
-| [Odyssey](https://open.spotify.com/track/1nwjUYSbzhN050UZGEzHzE) | [ARBN](https://open.spotify.com/artist/1nVYJWThC8pLbjdniuPSfE) | [Odyssey](https://open.spotify.com/album/3zeVxRjNVV2l4cUMgTMNfy) | 3:02 | 2026-04-10 |  |
+| [Odyssey](https://open.spotify.com/track/1nwjUYSbzhN050UZGEzHzE) | [ARBN](https://open.spotify.com/artist/1nVYJWThC8pLbjdniuPSfE) | [Odyssey](https://open.spotify.com/album/3zeVxRjNVV2l4cUMgTMNfy) | 3:02 | 2026-04-10 | 2026-09-30 |
 | [Oh Boy, Gardening Tools.](https://open.spotify.com/track/4zMc33eSJ32q36cv1p1PiI) | [Boring Spies](https://open.spotify.com/artist/2iE5PkDbdVzASg92uEw7K3) | [Oh Boy, Gardening Tools.](https://open.spotify.com/album/3aHuhktFQcyJk3lJiI5B2s) | 3:34 | 2025-09-23 |  |
 | [Oh Jesus My Lord](https://open.spotify.com/track/3nUkU3GivXt6Dk1AoaNHBA) | [Lou Lollio](https://open.spotify.com/artist/3e4hlZjeNc6W5jnfFXGYgd) | [Oh Jesus My Lord](https://open.spotify.com/album/2JOmU41Qa1xAaKl7djQvSv) | 4:23 | 2025-10-02 |  |
 | [Oh Lord](https://open.spotify.com/track/7nQsw8bVgROT0QMji2y26g) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Oh Lord](https://open.spotify.com/album/295rLiiItLsAZr9m21M0b5) | 4:07 | 2024-03-10 |  |
@@ -1824,6 +1825,7 @@
 | [Reality](https://open.spotify.com/track/6uU7dvOorpAdzDS8BTcgQg) | [Ania](https://open.spotify.com/artist/0k8Wb3d9ypoJidDfDyuwOq) | [Reality](https://open.spotify.com/album/6wJ6dhY2PruWu7LcaeeIYj) | 3:22 | 2025-11-14 |  |
 | [Reason](https://open.spotify.com/track/573E32bqni3NxWteCmjc9G) | [The Hindmost](https://open.spotify.com/artist/2XN8CGl8vgjXz9lEB9AGnB) | [Bridges / Reason](https://open.spotify.com/album/6rANUuV7L6tnNjTl4zn2Id) | 3:11 | 2026-04-29 |  |
 | [Rebelsteppa \- Melodica Cut](https://open.spotify.com/track/23r7AgKxHSilNM2TX1tGD8) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 3:07 | 2024-05-01 |  |
+| [Recordandote](https://open.spotify.com/track/5KFU9ny7dmH3dJm49Kn5vv) | [djpanthe](https://open.spotify.com/artist/4tMzD6kKT4VcBQKBIZFW5i) | [Recordandote](https://open.spotify.com/album/18j993ovYdslUR5365bziS) | 6:13 | 2026-09-29 |  |
 | [RECUERDOS](https://open.spotify.com/track/5SHLlfVYiPSjq2RIlUPHJk) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [GOLDENSHADE](https://open.spotify.com/album/6BRnUAnUIw3LFyX2Tvbdt5) | 2:39 | 2025-11-13 |  |
 | [Recuerdos de la Alhambra](https://open.spotify.com/track/3i7Io50fY4jdbrOTLcn5Fi) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Recuerdos de la Alhambra](https://open.spotify.com/album/0jpkUpg8WHzZbAqmJ0UDlk) | 3:41 | 2026-02-16 |  |
 | [Redescubriéndote](https://open.spotify.com/track/55R6Dz3k0rg3K0PQhkqVPi) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 3:27 | 2026-03-15 |  |
@@ -2119,6 +2121,7 @@
 | [stuck](https://open.spotify.com/track/400k1Tx6nOzB6L8sPbEQY1) | [Sardlok](https://open.spotify.com/artist/59k90WLL5Q4uqQY6v4cfeH) | [Sardlok](https://open.spotify.com/album/4gCgN04XcgIQ4F11ONZrb5) | 2:38 | 2026-09-06 |  |
 | [Stuck in Your Honeytrap](https://open.spotify.com/track/25vaEn15pZWsRT5789M8ZY) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Stuck in Your Honeytrap](https://open.spotify.com/album/4nFVZE50cIHdYZzik5DSgx) | 4:14 | 2025-07-15 |  |
 | [Stylistic](https://open.spotify.com/track/51iZcgX4evi9xTatArievX) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Stylistic](https://open.spotify.com/album/0yq7btu8PMqTGafTxSWYrO) | 1:51 | 2026-02-05 |  |
+| [Stylistic](https://open.spotify.com/track/5XkMU1eSvMyQvKUQX2wSiH) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Stylistic](https://open.spotify.com/album/0igdGFQEo9rLlRCe1c7Cpg) | 1:51 | 2026-09-29 |  |
 | [Subsequent](https://open.spotify.com/track/2K1fj5qy2QK1cNLmYZPVmI) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Subsequent](https://open.spotify.com/album/4S0ChMFmLdoQZLId7Uc0Uv) | 2:25 | 2025-10-26 |  |
 | [Sueños](https://open.spotify.com/track/4NPc4VitZ7t65xPgse19PR) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [Groove Of Meditation](https://open.spotify.com/album/08YRGkqUUqKxOmijsGj271) | 5:13 | 2024-03-25 |  |
 | [Sueňos](https://open.spotify.com/track/4oHuaoF6L4Ya42NVKiGgsj) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [Sueňos](https://open.spotify.com/album/65etujVdTNuGmXe6F7VrsO) | 5:13 | 2024-03-17 |  |
@@ -2246,7 +2249,7 @@
 | [The Pendulum of Neon](https://open.spotify.com/track/2BnjZOBRRRRw3n7FPBOYSe) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [The Great Void's Echo](https://open.spotify.com/album/4iBlc0gBxnwL8xNHNTZXf5) | 4:38 | 2026-05-19 |  |
 | [The Phone Is Ringing](https://open.spotify.com/track/5RTZ39YVYROLnWXXDWnyNd) | [Abis](https://open.spotify.com/artist/6pFKneaoODjrgYVkBbfynT) | [Better Alone](https://open.spotify.com/album/2pdlJucE9OATbt5B0FD9Oi) | 2:45 | 2026-08-29 |  |
 | [The Rush](https://open.spotify.com/track/0PBz4H0I5zQOon1fKZbTiU) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Gardening Club](https://open.spotify.com/album/2Ij0ymbmxaUSdEbWCjgJhW) | 1:36 | 2026-05-01 |  |
-| [the same \- jersey club remix](https://open.spotify.com/track/4GBWvxSQkTXJDbywwIw8J7) | [Ni$ha Da Chef](https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB) | [the same \(jersey club remix\)](https://open.spotify.com/album/0aMKGY5QRIyR2Cdrhnal0N) | 2:05 | 2026-03-23 |  |
+| [the same \- jersey club remix](https://open.spotify.com/track/4GBWvxSQkTXJDbywwIw8J7) | [Ni$ha Da Chef](https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB) | [the same \(jersey club remix\)](https://open.spotify.com/album/0aMKGY5QRIyR2Cdrhnal0N) | 2:05 | 2026-03-23 | 2026-09-30 |
 | [The Search](https://open.spotify.com/track/2OKo7g3KfmCt3kyLvUAL0g) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/6w8mGg73sQl4QJEhpDUvpI) | 4:08 | 2025-02-15 |  |
 | [the sleeppin dead](https://open.spotify.com/track/7kCk3ACL37w1qHkFJkNjxv) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [At the down of the sleepindead](https://open.spotify.com/album/36dQNlJRtZQbZvBsaMxDmK) | 4:22 | 2025-10-02 |  |
 | [The Sound of the Sun](https://open.spotify.com/track/3gzqoyx1YrR8NKJL4kBhJj) | [Frank Sinutre](https://open.spotify.com/artist/6WtgiGqvqVma7Iiuo94SZp) | [Propositi per il Nuovo Anno Galattico](https://open.spotify.com/album/1IzWt1FwD4bU1k7ikBZeYZ) | 3:57 | 2026-07-07 |  |

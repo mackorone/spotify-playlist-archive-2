@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Harra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,324 likes - 102 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,325 likes - 102 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 101 | [Salah Tingkah](https://open.spotify.com/track/1EC83q6yiGuTWEaXZ0n9yK) | [Farrel Nugroho](https://open.spotify.com/artist/5fTEdlBvW2WQtX5CxPoVE5) | [Salah Tingkah](https://open.spotify.com/album/2v3m69kc35al7BiGTz7jPo) | 3:12 |
 | 102 | [Hilang Tanpa Bayang](https://open.spotify.com/track/1gs1Liji6gPbfHdypf728F) | [Pelipur](https://open.spotify.com/artist/3iAcNyICqpO7dz3tDf2Tpn) | [Hilang Tanpa Bayang](https://open.spotify.com/album/2r2s8HLQyHMmoSIoL9v0YU) | 5:26 |
 
-Snapshot ID: `AAAAALvz6GpgKpJzmM/tB0/uYOh35Fdi`
+Snapshot ID: `AAAAAHqzafAUL8zAdBU0t4poL/1WvJmG`

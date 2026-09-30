@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: t\-low, Miksu / Macloud
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,480 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,427 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 |
 | 100 | [mit anderen augen](https://open.spotify.com/track/4bEEO0oInGv3OYInricb0k) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [mit anderen augen](https://open.spotify.com/album/3vWSlcVRmnUZiJTBa7z42f) | 2:49 |
 
-Snapshot ID: `AAAAAJFHLuVVMDveIIhQH8wMUM6F5VMM`
+Snapshot ID: `AAAAAOijoMdAGgNFNYUjnUeCsD2z1Lp5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,378 likes - 30 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,449 likes - 30 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [B.A.B.E](https://open.spotify.com/track/6VrpRPh8KOfv9vkEEGN5HD) | [DEMS](https://open.spotify.com/artist/0UWqc9Fvugduq61I2eawnN), [Rory Kite](https://open.spotify.com/artist/0MpirHzAFrvcH1fB1iiVy2) | [B.A.B.E](https://open.spotify.com/album/6voJsQMmEudiH8zbCHnjAV) | 4:08 |
 | 30 | [Boa Sorte](https://open.spotify.com/track/4R6MeyHCBkjSsnirWvkYQR) | [Pietro](https://open.spotify.com/artist/6Siaha9DgQyX23Ph7pTHYG), [Kanu](https://open.spotify.com/artist/7qGg5f7GRoEEDsjhetcseQ) | [Boa Sorte](https://open.spotify.com/album/0JyI1OCkwxghasl4ZmFPbk) | 3:28 |
 
-Snapshot ID: `AAAAAFVRQpcet2Oda10trewilD+4V/rV`
+Snapshot ID: `AAAAAFhBcBv2scB9GGZ82DOfslYvI6Wv`

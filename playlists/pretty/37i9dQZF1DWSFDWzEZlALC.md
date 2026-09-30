@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: mathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,993 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,974 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Sucker Punch](https://open.spotify.com/track/70pIqegEtsCh9xjQ98v3sa) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Sucker Punch](https://open.spotify.com/album/3zvb7GVvCk9ecMd4BqCc83) | 2:27 |
 | 75 | [new york/berlin](https://open.spotify.com/track/03vj0V1FhDuKL3g1d9H7XJ) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [new york/berlin](https://open.spotify.com/album/7bC5lRxkwv8kFhgWmD0gz5) | 2:18 |
 
-Snapshot ID: `AAAAAJoVw1MgEhEygEybTYqs46uVKv9L`
+Snapshot ID: `AAAAAOd5ZTtHQlMUF7PhavRh3vVGjL25`

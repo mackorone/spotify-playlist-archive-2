@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,864 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,870 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 46 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/3I9urFJh4tp2KKXpCa2cXm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Essential Ella](https://open.spotify.com/album/0hgZSZX8Ri8Sd9JFaPDjSd) | 3:32 |
 | 47 | [\(When We Are Dancin'\) I Get Ideas \- Single Version](https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:24 |
 | 48 | [The Home Fire](https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:18 |
-| 49 | [Bill Bailey, Won't You Please Come Home \- Remastered 2004](https://open.spotify.com/track/2gDWI2UjKkhLiC8KsJNO46) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj) | [The Five Pennies \(Original Motion Picture Soundtrack / Remastered 2004\)](https://open.spotify.com/album/2gJsk4Wci5no1VZBhgWyOW) | 1:58 |
-| 50 | [I've Got The World On A String](https://open.spotify.com/track/4MSfbddZH4qfzwbubH4GED) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [I've Got The World On A String](https://open.spotify.com/album/0RBcFzJZaV8N40scKLyIpU) | 2:52 |
+| 49 | [I've Got The World On A String](https://open.spotify.com/track/4MSfbddZH4qfzwbubH4GED) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [I've Got The World On A String](https://open.spotify.com/album/0RBcFzJZaV8N40scKLyIpU) | 2:52 |
+| 50 | [Bill Bailey, Won't You Please Come Home \- Remastered 2004](https://open.spotify.com/track/2gDWI2UjKkhLiC8KsJNO46) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj) | [The Five Pennies \(Original Motion Picture Soundtrack / Remastered 2004\)](https://open.spotify.com/album/2gJsk4Wci5no1VZBhgWyOW) | 1:58 |
 
-Snapshot ID: `arhcgAAAAABrVJNS32uDTq4fUBgiWTPo`
+Snapshot ID: `armuAAAAAABl7pcj9+9tCYEq71ZH0ql9`

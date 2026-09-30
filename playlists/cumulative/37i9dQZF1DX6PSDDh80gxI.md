@@ -4,7 +4,7 @@
 
 > Anna Castiglia in cover di Indie Italia 🍓🍓🍓
 
-616 songs - 1 day 8 hr 57 min
+617 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [colpo di tosse](https://open.spotify.com/track/2npEqmXQJIjNXi1OvpJaFJ) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:09 | 2025-04-10 | 2026-06-05 |
 | [Come il pane](https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Come il pane](https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ) | 3:52 | 2024-11-28 | 2025-05-09 |
 | [Come no](https://open.spotify.com/track/10H2O7Rg5GdMjDXVcuxHXP) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Come no](https://open.spotify.com/album/2PjLX5cv86MOlpx7pI56gX) | 2:33 | 2024-06-27 | 2024-10-04 |
+| [Come volevi essere](https://open.spotify.com/track/2Ow7aIOUGhCsQyOoYS2CV4) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In Memoria Di](https://open.spotify.com/album/2G3KRxNG0HoaqNNja24Jx6) | 3:40 | 2026-09-29 |  |
 | [Coming back from Marte](https://open.spotify.com/track/4HU6nNHVABOEey5MQjO2V9) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Luna in acquario ascendente sagittario](https://open.spotify.com/album/0Npr04aGRYwjtvx4Udm8rS) | 2:14 | 2024-12-12 | 2025-02-12 |
 | [Con la faccia al sole e gli occhi chiusi](https://open.spotify.com/track/7dIdSjLWQDaRI9jAa5XcvK) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Con la faccia al sole e gli occhi chiusi](https://open.spotify.com/album/7zKDDlYZ1VVOFXWfC8EEB1) | 8:19 | 2025-03-13 | 2025-04-04 |
 | [Con la lingua](https://open.spotify.com/track/4NDoVeIP6mpA3r2M9BXYmc) | [MOBRICI](https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd) | [Con la lingua](https://open.spotify.com/album/1uTS39O1a3cpY1DbGMqSSm) | 3:19 | 2025-11-20 | 2026-01-15 |
@@ -485,7 +486,7 @@
 | [Roma di notte](https://open.spotify.com/track/4WwoOVG3xwCo6B14pCckm9) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [1998](https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa) | 3:21 | 2025-06-12 | 2025-12-12 |
 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 | 2024-09-13 | 2025-05-30 |
 | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/album/5qmAywH16FCK4UjPk1pnVD) | 3:17 | 2024-06-27 | 2026-01-16 |
-| [RÀRECHE](https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [RÀRECHE](https://open.spotify.com/album/5irYFPsqPMiV6ramtSx3al) | 2:51 | 2026-07-02 |  |
+| [RÀRECHE](https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [RÀRECHE](https://open.spotify.com/album/5irYFPsqPMiV6ramtSx3al) | 2:51 | 2026-07-02 | 2026-09-30 |
 | [Sabato sera](https://open.spotify.com/track/5r89XCDpwt6EEzycluccVt) | [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu) | [Sabato sera](https://open.spotify.com/album/5oaGasWzGMskHq7ZX3o7uj) | 3:10 | 2025-05-01 | 2025-05-16 |
 | [Sabato Sera \(feat\. Calcutta\)](https://open.spotify.com/track/5sfAT5zvEzBa4sX342cmKf) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Soli E Disperati Nel Mare Meraviglioso](https://open.spotify.com/album/4c5khiHeRg8ZMaCGKfxIJh) | 5:42 | 2025-09-25 | 2025-11-21 |
 | [SALSEDINE](https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [SALSEDINE](https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C) | 2:09 | 2024-06-27 | 2024-08-16 |

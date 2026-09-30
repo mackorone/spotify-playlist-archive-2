@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: The Volunteers)  (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: jisokuryClub)  (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -13644,7 +13644,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 172941,
       "name": "May, be",
       "url": "https://open.spotify.com/track/2EzW4c95YjAfy3tVQPawrl"
@@ -24314,6 +24314,24 @@
       "duration_ms": 244000,
       "name": "Willow tree",
       "url": "https://open.spotify.com/track/3uIAjCpqwBgqKiPas8HdRl"
+    },
+    {
+      "album": {
+        "name": "Koh Larn",
+        "url": "https://open.spotify.com/album/4ZRE5oaSYbvKidr72sDgmJ"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347784,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/7A6CwvIjT6zG7HdD2h4g8N"
     },
     {
       "album": {

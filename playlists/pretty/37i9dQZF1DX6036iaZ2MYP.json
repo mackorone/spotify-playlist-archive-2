@@ -1,12 +1,12 @@
 {
   "description": "Tracks popping off in the Afro scene. Cover: Didi B x Tayc",
-  "num_followers": 195359,
+  "num_followers": 195448,
   "original_name": "Afro Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACt7Mcu9/fngWDxUlGKizY/Ir3Vr",
+  "snapshot_id": "AAAAAE2B0Y2OGPoEU3L6fVcnpUrZarqt",
   "tracks": [
     {
       "added_at": "2026-09-24 22:00:17",
@@ -303,6 +303,26 @@
       "duration_ms": 138000,
       "name": "FRE$H",
       "url": "https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR"
+    },
+    {
+      "added_at": "2026-09-24 22:00:17",
+      "album": {
+        "name": "Ca Ne Marche Pas",
+        "url": "https://open.spotify.com/album/1FuzOcvIDwM2AsfdM0ry8H"
+      },
+      "artists": [
+        {
+          "name": "Joe Kingston",
+          "url": "https://open.spotify.com/artist/0XgZLJ4UKRBh6KdFQgnMmc"
+        },
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Ca Ne Marche Pas",
+      "url": "https://open.spotify.com/track/7eraMEp9CzCOEs4DnRsFVE"
     },
     {
       "added_at": "2026-09-24 22:00:17",

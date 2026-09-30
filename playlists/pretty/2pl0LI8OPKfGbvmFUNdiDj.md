@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,184 likes - 65 songs - 3 hr 41 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,183 likes - 67 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 63 | [Suicide Sugar](https://open.spotify.com/track/4SbP8W45yuDFNXWnjbC7Hz) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Suicide Sugar](https://open.spotify.com/album/1tcQBg0EwqqVlxr37XHKWd) | 3:51 |
 | 64 | [Hold On](https://open.spotify.com/track/3Focc6FvfV9uiv4K42FA9r) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [Hold On](https://open.spotify.com/album/4XELXp2l8b4kVxlz6bprXg) | 3:31 |
 | 65 | [All i ever wanted](https://open.spotify.com/track/5EyoH8vk6UZ23j6AuriG5S) | [Johnny Scott](https://open.spotify.com/artist/2Puyl7pb2WOipiBORyFKKH) | [Urban Legends](https://open.spotify.com/album/5Rl9408O7edQI7kXWQWfuH) | 2:53 |
+| 66 | [Take It Back](https://open.spotify.com/track/7t1BcudJWBTmceFz5Ysyd2) | [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU), [Ellie Rizoa](https://open.spotify.com/artist/6sRlVpjjeI0SCwmEr1ln6Q) | [Take It Back](https://open.spotify.com/album/1Y0Q205TSU0imtpxIDinzB) | 1:45 |
+| 67 | [In an Hour of Truth](https://open.spotify.com/track/4GehY9RxsnDzHe3SEhTeUF) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In an Hour of Truth](https://open.spotify.com/album/6pjoldpGadfEffunZF5XNe) | 4:11 |
 
-Snapshot ID: `AAAEY2jVd4pcYYkN8IOpBpSjOyYnNQ4G`
+Snapshot ID: `AAAEZeG3hDSCbXmQVKFHc2wmLwqNnSzG`

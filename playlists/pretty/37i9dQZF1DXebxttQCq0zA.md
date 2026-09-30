@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,294,060 likes - 272 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,294,303 likes - 272 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 271 | [Dreampond](https://open.spotify.com/track/3y6zsqmI648Rh3s357IgBb) | [Liv Joy](https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm) | [Dreampond](https://open.spotify.com/album/4zKTngM7GDkEr6VmFbyHUS) | 2:39 |
 | 272 | [Evidence of Light](https://open.spotify.com/track/7MRZ9beGeKCURYJPryjvNd) | [Tristan Wilde](https://open.spotify.com/artist/6xIYhnbWLOfDnbBlbQGX1Z) | [Evidence of Light](https://open.spotify.com/album/0OaGhlQnhH63cwtnNC4BOL) | 2:40 |
 
-Snapshot ID: `AAAAAL2JiG8A83mBJV/QnvzYU/0j4HM1`
+Snapshot ID: `AAAAABYbxmC3PdPLHK5LzHJtA+8P8QFD`

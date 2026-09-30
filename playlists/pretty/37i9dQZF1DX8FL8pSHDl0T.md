@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain]
 
 > Experience the world of STEINS;GATE from video game to TV anime series.\(C\)2009 MAGES./5pb./Nitroplus
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,714 likes - 44 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,722 likes - 44 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain]
 | 3 | [スカイクラッドの観測者](https://open.spotify.com/track/3Y0W7Lxg1X4cbyvtmdCHzL) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [ChaosAttractor](https://open.spotify.com/album/0yHtsepi9vEUIxuHq5ohz7) | 4:35 |
 | 4 | [萌える世界の幻想譚](https://open.spotify.com/track/6cNj8d9bP7otNUQjQ5Znbj) | [橋田 至（cv.関智一）](https://open.spotify.com/artist/2MVVY12TKfpKBwWnRPKJXt) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:38 |
 | 5 | [Hacking to the Gate](https://open.spotify.com/track/78dl9lfz8vogpSxpdpWQdl) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [TVアニメ『シュタインズ・ゲート』OPテーママキシシングル「Hacking to the Gate」](https://open.spotify.com/album/3dQ3C0NOeMqQT3mwWVivM2) | 4:16 |
-| 6 | [World\-Line](https://open.spotify.com/track/0gwwbyGuBZGSx4YYBFY0HU) | [今井麻美](https://open.spotify.com/artist/6Yy5HRdcdZR1r2A2YnEefb) | [World\-Line\(TVアニメ「シュタインズ・ゲート ゼロ」エンディングテーマ\)](https://open.spotify.com/album/1o7c244f5LyfGY9EKrdGDi) | 4:42 |
+| 6 | [World\-Line](https://open.spotify.com/track/0gwwbyGuBZGSx4YYBFY0HU) | [今井麻美](https://open.spotify.com/artist/6Yy5HRdcdZR1r2A2YnEefb) | [World\-Line\(TVアニメ「シュタインズ･ゲート ゼロ」エンディングテーマ\)](https://open.spotify.com/album/1o7c244f5LyfGY9EKrdGDi) | 4:42 |
 | 7 | [IF](https://open.spotify.com/track/1APLIq8Q54s9uJ4QUytiB1) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [IF\(「想定科学パチスロ シュタインズゲート 廻転世界のインダクタンス」オリジナルソング\)](https://open.spotify.com/album/76joFXwGG9sO4hFnDxgEws) | 4:23 |
 | 8 | [フェノグラム](https://open.spotify.com/track/1ZewccDOxvLIqtrmhEkttX) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [PS3&Xbox 360ソフト「STEINS;GATE 線形拘束のフェノグラム」OPテーマ「フェノグラム」](https://open.spotify.com/album/1FGsLvZ6TXpaUq7bWP2esP) | 4:58 |
 | 9 | [アニーの指輪](https://open.spotify.com/track/1Qtoq02RTZ4alrR7vJ4Lai) | [ファンタズム\(FES cv.榊原ゆい\)](https://open.spotify.com/artist/1kDTyOIQA33Xi1F7Q1Ox6y) | [アニーの指輪\(ゲーム「STEINS;GATE ELITE」EDテーマ\)](https://open.spotify.com/album/58bcyTNf5JZhUDfqFmExKS) | 5:41 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain]
 | 43 | [Hacking to the Gate \- symphonic ver.](https://open.spotify.com/track/7mMshfkGDVQTjn03tvSlwI) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [STEINS;GATE SYMPHONIC REUNION](https://open.spotify.com/album/7fv7frh9eQ3RWFdrX62InX) | 4:18 |
 | 44 | [星の奏でる歌 \-strings quartet\-](https://open.spotify.com/track/3qwkpLZ1GdEkdQZUEIRAzI) | [Nobuaki Nobusawa](https://open.spotify.com/artist/4q4tYjUtx81Sfmm17JkH5I) | [TVアニメ『シュタインズ・ゲート ゼロ』オリジナル・サウンドトラック](https://open.spotify.com/album/5k0XKbTOo7Lrv9neeC4Anv) | 1:48 |
 
-Snapshot ID: `AAAAALZZ4D7sljkPm3O1ACpDNKEGTTQk`
+Snapshot ID: `AAAAAGZg2ZiiUDukXOBm3j7sT0BPw1dR`

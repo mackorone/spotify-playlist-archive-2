@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cafres. The essential tracks, all in one playlist.",
-  "num_followers": 173962,
+  "num_followers": 173973,
   "original_name": "This Is Los Cafres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arhcgAAAAACmgXStsSUzq9Ux4GT1PMYV",
+  "snapshot_id": "armuAAAAAADK5fFM1CAF9Bigfq/P02sn",
   "tracks": [
     {
       "added_at": null,
@@ -92,7 +92,7 @@
       "added_at": null,
       "album": {
         "name": "Espejitos",
-        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
+        "url": "https://open.spotify.com/album/2HxfXuHuLRoWjffOWvziRa"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 257999,
+      "duration_ms": 258000,
       "name": "Aire",
-      "url": "https://open.spotify.com/track/2hkJ7fYPM5V27pjxiPG2gg"
+      "url": "https://open.spotify.com/track/6swf0lnBVi5nZIPPDhORqU"
     },
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Espejitos",
+        "url": "https://open.spotify.com/album/2HxfXuHuLRoWjffOWvziRa"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "De Mi Mente",
+      "url": "https://open.spotify.com/track/6zWNoKPrNtqVZQsNTeDgmZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfQui\u00e9n da M\u00e1s ?",
         "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 283000,
       "name": "Este Jard\u00edn",
       "url": "https://open.spotify.com/track/5UgPN09gWrOMI9zC2io8yC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Espejitos",
-        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 227999,
-      "name": "De Mi Mente",
-      "url": "https://open.spotify.com/track/1b8V0hvwAP8dO4xxrvvoXK"
     },
     {
       "added_at": null,
@@ -543,26 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espejitos",
-        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
       "artists": [
         {
           "name": "Los Cafres",
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        },
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 314491,
-      "name": "Waitin en Vano",
-      "url": "https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty"
+      "duration_ms": 309106,
+      "name": "Alas Canciones",
+      "url": "https://open.spotify.com/track/4f1q6kRlO1qyw7pZIPG3Tp"
     },
     {
       "added_at": null,
@@ -615,18 +607,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alas Canciones",
-        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+        "name": "Espejitos",
+        "url": "https://open.spotify.com/album/2HxfXuHuLRoWjffOWvziRa"
       },
       "artists": [
         {
           "name": "Los Cafres",
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        },
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 309106,
-      "name": "Alas Canciones",
-      "url": "https://open.spotify.com/track/4f1q6kRlO1qyw7pZIPG3Tp"
+      "duration_ms": 314493,
+      "name": "Waitin en Vano",
+      "url": "https://open.spotify.com/track/3xfnNo5Iol81SE3hTeg5Lc"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classic Lover Covers",
-        "url": "https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 205055,
-      "name": "Qued\u00e1ndote O Y\u00e9ndote",
-      "url": "https://open.spotify.com/track/2zH2SJsU74xiNq14SuhRKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alas Canciones",
         "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 294053,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/5noZB6CRuCQuvfwVVCphDR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classic Lover Covers",
+        "url": "https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 205055,
+      "name": "Qued\u00e1ndote O Y\u00e9ndote",
+      "url": "https://open.spotify.com/track/2zH2SJsU74xiNq14SuhRKz"
     },
     {
       "added_at": null,

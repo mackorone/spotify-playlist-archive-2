@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: CACO/CONCHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,717 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,682 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [No Lugar](https://open.spotify.com/track/1vhNRQZLL0PtdpkzLucwK0) | [Maia](https://open.spotify.com/artist/4lU6ZXW6wDgV02U4aPMU9u) | [No Lugar](https://open.spotify.com/album/1k6CBaapU4uoa4f1RgARjz) | 3:07 |
 | 75 | [Palavra de Amigo](https://open.spotify.com/track/1eceS7epAB4s1U4TRD1FyC) | [Chococorn and the Sugarcanes](https://open.spotify.com/artist/5CgAsoAS5lXLCxKtYGI93z) | [Palavra de Amigo](https://open.spotify.com/album/0nrRXmFg1ez4pjIWaEhVlv) | 3:30 |
 
-Snapshot ID: `AAAAAMQJFWqnsa9AQS4cNPKEKmydDu6p`
+Snapshot ID: `AAAAAG/RHyYG2kYae0POauAzTQz96OOQ`

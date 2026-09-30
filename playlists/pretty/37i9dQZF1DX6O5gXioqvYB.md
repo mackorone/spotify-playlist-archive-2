@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > tutte le migliori novità indie 🇮🇹  Lumiero in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,930 likes - 98 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,929 likes - 98 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 97 | [Nulla](https://open.spotify.com/track/4mv31ZehqffCkTw40Fcn62) | [Ciao Ragazzo](https://open.spotify.com/artist/48T8TQRNoU5VnsPNRultfF) | [Nulla](https://open.spotify.com/album/4LRZ5Bmsd53mr2zs2ko4mr) | 2:27 |
 | 98 | [Dia Apos Dia](https://open.spotify.com/track/2BlI8HlAds71wCi3ZL8xJp) | [TYTO](https://open.spotify.com/artist/0S59moEnRYKPvI5g5EvihU), [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m) | [Ora è Ora](https://open.spotify.com/album/3kJIQNs36pjPB5aFbaWEWr) | 4:42 |
 
-Snapshot ID: `AAAAANYOHzBjfMYOe+eHp450FG4oJAfq`
+Snapshot ID: `AAAAAK9plu+uRLOd28Mk8ZyAWyeot0ON`

@@ -4,7 +4,7 @@
 
 > Tu táta tu tatá..\. el beat del funk de Brasil para el mundo\. Cover: Zé Pequeña & 143Leti
 
-258 songs - 11 hr 15 min
+259 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [GiNGA](https://open.spotify.com/track/30jS2pH1jqAIHNB5MUGXyh) | [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [$kyhook](https://open.spotify.com/artist/0lxgPYvUjEApUKpZmr61IE) | [GiNGA](https://open.spotify.com/album/7onrXtU0ycpBhY7GPfYEp8) | 2:17 | 2024-06-07 | 2024-11-23 |
 | [GLOCK GLOCK](https://open.spotify.com/track/7oZcAU0FIzG3tP8bnZQLDP) | [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV), [Mc Jhaisy](https://open.spotify.com/artist/3V6oTlxe6J0sfChthKItqb), [Mi Trenda](https://open.spotify.com/artist/4447S2EcIpAJIGcr9vmwgH) | [GLOCK GLOCK](https://open.spotify.com/album/3EItfYjYSNtzOLkrgQgRHR) | 2:12 | 2026-07-31 |  |
 | [GUSTOSA](https://open.spotify.com/track/7H3kGnOJWMlPqBLQ0OEYBb) | [Chiko Alfa](https://open.spotify.com/artist/6fDFw5ZF2hKa52oH1enbks), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [GUSTOSA](https://open.spotify.com/album/2SVbUSjaglwqSugsqKtbEg) | 2:20 | 2023-12-15 | 2024-05-25 |
+| [ilusiones](https://open.spotify.com/track/6F10qCKcZIdnzXqn9XO8Pi) | [BALTA](https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ) | [AYER DIJISTE MAÑANA](https://open.spotify.com/album/70YgRmVdUC5cJNrjYwSH4H) | 3:12 | 2026-09-29 |  |
 | [iLUSÃO II](https://open.spotify.com/track/2ltTdQRvLbRaD5KxVWwEVe) | [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex) | [GINGA](https://open.spotify.com/album/57iM0Ss6kTZ1SxAzPR1K8Z) | 2:37 | 2024-06-28 | 2024-08-20 |
 | [Impacto](https://open.spotify.com/track/3aU874gGDR95UHGAT7FC4x) | [Indigo Jams](https://open.spotify.com/artist/71IY7h7bhtZ1kkPJl8IFpU) | [Impacto](https://open.spotify.com/album/6v5rp6oc7ysCMoSnkbYwfo) | 2:22 | 2024-03-15 | 2024-10-26 |
 | [Incondicional](https://open.spotify.com/track/6RQD547cATemjJkm1po7Fu) | [JeJu](https://open.spotify.com/artist/327inzZ3pipBVcHmQCki3n), [Tesla da cherry](https://open.spotify.com/artist/6l3JLPVk4cxum2ifkWHq4k) | [Incondicional](https://open.spotify.com/album/1fREsp6Tdv62sN0IO7UKgJ) | 2:35 | 2024-08-30 | 2024-11-16 |

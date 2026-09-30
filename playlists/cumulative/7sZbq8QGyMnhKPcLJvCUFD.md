@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-905 songs - 1 day 21 hr 1 min
+906 songs - 1 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Back To You](https://open.spotify.com/track/40ZIBWog1tqU5eaQH4Efdc) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Back To You](https://open.spotify.com/album/4oDFDTpIp2CQorDXd4nFsz) | 3:29 | 2022-11-25 | 2023-08-10 |
 | [Back2u!](https://open.spotify.com/track/1fJ851VI1oJXjHxaDCqpa9) | [Postcard](https://open.spotify.com/artist/5QpG84gIU4qExcd06OgLkw), [MNTRL](https://open.spotify.com/artist/5PafLxTRvveezuTtlfU0Rz), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Back2u!](https://open.spotify.com/album/71UtFr5ynmlfaDzCorPb7M) | 4:06 | 2026-04-28 |  |
 | [Backstreet Boy](https://open.spotify.com/track/6j3JSY4y4r4yMyoE3vBiYo) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Backstreet Boy](https://open.spotify.com/album/2pHO3gJwfCCnB9xcHJkJQA) | 3:28 | 2025-01-03 |  |
+| [backtoback](https://open.spotify.com/track/0H1BVpc9XdyZY71m4WBtK6) | [angelrot](https://open.spotify.com/artist/1PtxhGf5zAUnOucwf4fCIJ) | [backtoback](https://open.spotify.com/album/2QSz1zWy9IH3Hxtap9J6Z8) | 2:59 | 2026-09-29 |  |
 | [Bad Girl](https://open.spotify.com/track/6qmT8OZHUbYvwv1hKRK6Sl) | [LAADS](https://open.spotify.com/artist/4NBJ1qcdssZZRKNiVa1vKP) | [Bad Girl](https://open.spotify.com/album/1250FDbX6wRSmfM8wJk9Wv) | 2:44 | 2023-12-13 | 2024-04-17 |
 | [Bad Habit](https://open.spotify.com/track/39LleyvGIy48hCibZROiWD) | [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Bad Habit](https://open.spotify.com/album/3lq84tIwKgWOnx0GNg2w1B) | 2:27 | 2023-03-24 | 2023-08-10 |
 | [Bad Habit \- Phonk Version](https://open.spotify.com/track/2cxSqpXFAEa0VIZkDed4eM) | [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Bad Habit \(Phonk Version\)](https://open.spotify.com/album/2iG2ou48zBxOk3qH2vT1px) | 1:39 | 2023-04-13 | 2023-08-10 |

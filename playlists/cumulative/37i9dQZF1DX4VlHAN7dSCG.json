@@ -16517,6 +16517,24 @@
     },
     {
       "album": {
+        "name": "\u8070\u660e",
+        "url": "https://open.spotify.com/album/521QBZCuYA2qXLdtutrS6l"
+      },
+      "artists": [
+        {
+          "name": "\u8389\u8389\u5468\u5979\u8aaa Lily Chou-Chou Lied",
+          "url": "https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "\u8070\u660e",
+      "url": "https://open.spotify.com/track/02fAnBiiFKhBjpPVswbdQv"
+    },
+    {
+      "album": {
         "name": "\u80a5\u524d\u5c4b",
         "url": "https://open.spotify.com/album/4s7pRr7xtMXVHdEMaqER3w"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw?si=faac016da8a1436c\">Vuyina</a>. Artwork: Isu Kim. ",
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6?si=cD5Ju5xvQaKQNAAL1ywF-Q\">Earldridge</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -4975,6 +4975,24 @@
     },
     {
       "album": {
+        "name": "Club Penguin",
+        "url": "https://open.spotify.com/album/59EQZX3A2EIyoC28vjxeoU"
+      },
+      "artists": [
+        {
+          "name": "Ava like Lava",
+          "url": "https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169744,
+      "name": "Club Penguin",
+      "url": "https://open.spotify.com/track/4JE6WBVANQeJWVecqisf6D"
+    },
+    {
+      "album": {
         "name": "Cocoa Butter",
         "url": "https://open.spotify.com/album/0Me9ME4FJQhtk8bfUV6EgH"
       },
@@ -7974,7 +7992,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 189255,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4vTj1RvJpxFu6QHRchAcQx"
@@ -11588,7 +11606,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 143702,
       "name": "Huyu",
       "url": "https://open.spotify.com/track/5JAzcszRsbRkoL3nTccHCN"
@@ -11672,6 +11690,24 @@
       "duration_ms": 172384,
       "name": "I do not belong Here",
       "url": "https://open.spotify.com/track/7auwOWS23qjWn9RpCG3k5G"
+    },
+    {
+      "album": {
+        "name": "I Don't Expect You to Love Me",
+        "url": "https://open.spotify.com/album/3BZzg1VJaiicMJYdS8Ylxs"
+      },
+      "artists": [
+        {
+          "name": "Mia Lord",
+          "url": "https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233548,
+      "name": "I Don't Expect You to Love Me",
+      "url": "https://open.spotify.com/track/2rGGWBW3YlcifaOX4MThHk"
     },
     {
       "album": {
@@ -12286,7 +12322,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 116585,
       "name": "Ikeja (No Go Thief)",
       "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
@@ -13661,6 +13697,24 @@
     },
     {
       "album": {
+        "name": "Honeycomb Select",
+        "url": "https://open.spotify.com/album/4Up94oeiC2tCQRPoJXp3Lk"
+      },
+      "artists": [
+        {
+          "name": "Newing",
+          "url": "https://open.spotify.com/artist/1DymC8CFipJ2KVKOvou5RR"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137370,
+      "name": "Know what its bowt",
+      "url": "https://open.spotify.com/track/6Q2qgX9QIqEafPYyGd23cS"
+    },
+    {
+      "album": {
         "name": "Doing The Most",
         "url": "https://open.spotify.com/album/1QbK0bisBb1VNbxYymrfip"
       },
@@ -13774,7 +13828,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 196620,
       "name": "Kunsi",
       "url": "https://open.spotify.com/track/1xzH5d9JY29iODeluAJI3c"
@@ -18229,6 +18283,28 @@
     },
     {
       "album": {
+        "name": "Net Ek en Jy",
+        "url": "https://open.spotify.com/album/2yUHbH2SRbTSsmOaqs2cYY"
+      },
+      "artists": [
+        {
+          "name": "Donkerbaai",
+          "url": "https://open.spotify.com/artist/1ZOPflWBgVViEjUVgYJLnL"
+        },
+        {
+          "name": "Harry CBY",
+          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197739,
+      "name": "Net Ek en Jy",
+      "url": "https://open.spotify.com/track/21YKuvaq2BMxtcZkYjDUzP"
+    },
+    {
+      "album": {
         "name": "Never Fold",
         "url": "https://open.spotify.com/album/4AAQcNjPR29cFRduUBLG6T"
       },
@@ -18500,7 +18576,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 315048,
       "name": "Nipende",
       "url": "https://open.spotify.com/track/1E7zvR5rjAQ8iXUzusdjZl"
@@ -22398,6 +22474,24 @@
       "duration_ms": 169963,
       "name": "Run",
       "url": "https://open.spotify.com/track/06kJ2OCmock2wz7R1vyoSC"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/0tL973RQ3VFXGYf0gCnm13"
+      },
+      "artists": [
+        {
+          "name": "Tanaka",
+          "url": "https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240063,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2L7pQAlDVp4nrpDb8s37bk"
     },
     {
       "album": {

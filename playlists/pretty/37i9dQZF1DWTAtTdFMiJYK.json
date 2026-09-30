@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: OutStation",
-  "num_followers": 203856,
+  "num_followers": 203944,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALu4oygu6TPbOmCitIQ02VBRu6eg",
+  "snapshot_id": "AAAAAJUDGVToeK2DO0ZaqSfQvVbfCFx0",
   "tracks": [
     {
       "added_at": "2026-09-25 06:00:06",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-09-25 06:00:06",
       "album": {
-        "name": "Gira Gira",
-        "url": "https://open.spotify.com/album/62iSk44yQVg8v2wpSiCIK4"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        }
-      ],
-      "duration_ms": 210545,
-      "name": "Gira Gira",
-      "url": "https://open.spotify.com/track/7vwrPdFX2FNF6imTRXO4Pw"
-    },
-    {
-      "added_at": "2026-09-25 06:00:06",
-      "album": {
         "name": "Savera",
         "url": "https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 143472,
       "name": "Savera",
       "url": "https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt"
+    },
+    {
+      "added_at": "2026-09-25 06:00:06",
+      "album": {
+        "name": "Gira Gira",
+        "url": "https://open.spotify.com/album/62iSk44yQVg8v2wpSiCIK4"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        }
+      ],
+      "duration_ms": 210545,
+      "name": "Gira Gira",
+      "url": "https://open.spotify.com/track/7vwrPdFX2FNF6imTRXO4Pw"
     },
     {
       "added_at": "2026-09-25 06:00:06",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-09-25 06:00:06",
       "album": {
-        "name": "telusa",
-        "url": "https://open.spotify.com/album/0bWfpBPy796Tt50RL26Ewp"
-      },
-      "artists": [
-        {
-          "name": "ananya",
-          "url": "https://open.spotify.com/artist/44c9Q8uuQtb7BXQO4Um7Zc"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "telusa",
-      "url": "https://open.spotify.com/track/5PQQmD4ZfM8hNuqIlcQHkQ"
-    },
-    {
-      "added_at": "2026-09-25 06:00:06",
-      "album": {
         "name": "Naina",
         "url": "https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 138600,
       "name": "Naina",
       "url": "https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e"
+    },
+    {
+      "added_at": "2026-09-25 06:00:06",
+      "album": {
+        "name": "telusa",
+        "url": "https://open.spotify.com/album/0bWfpBPy796Tt50RL26Ewp"
+      },
+      "artists": [
+        {
+          "name": "ananya",
+          "url": "https://open.spotify.com/artist/44c9Q8uuQtb7BXQO4Um7Zc"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "telusa",
+      "url": "https://open.spotify.com/track/5PQQmD4ZfM8hNuqIlcQHkQ"
     },
     {
       "added_at": "2026-09-25 06:00:06",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-09-25 06:00:06",
       "album": {
-        "name": "NYC",
-        "url": "https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93"
-      },
-      "artists": [
-        {
-          "name": "Mary Ann Alexander",
-          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
-        },
-        {
-          "name": "Hunna G",
-          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA"
-    },
-    {
-      "added_at": "2026-09-25 06:00:06",
-      "album": {
         "name": "Le Jaa",
         "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 154015,
       "name": "Le Jaa",
       "url": "https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr"
+    },
+    {
+      "added_at": "2026-09-25 06:00:06",
+      "album": {
+        "name": "NYC",
+        "url": "https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        },
+        {
+          "name": "Hunna G",
+          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
+        }
+      ],
+      "duration_ms": 125714,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA"
     },
     {
       "added_at": "2026-09-25 06:00:06",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-09-25 06:00:06",
       "album": {
-        "name": "Tuu",
-        "url": "https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp"
-      },
-      "artists": [
-        {
-          "name": "Akanksha Bhandari",
-          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Tuu",
-      "url": "https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0"
-    },
-    {
-      "added_at": "2026-09-25 06:00:06",
-      "album": {
         "name": "Jhumki",
         "url": "https://open.spotify.com/album/6uqr7Jx77Vttq72IxpOO3B"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 168191,
       "name": "Jhumki",
       "url": "https://open.spotify.com/track/02TtzIxJej92ghL8hFJt6h"
+    },
+    {
+      "added_at": "2026-09-25 06:00:06",
+      "album": {
+        "name": "Tuu",
+        "url": "https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Tuu",
+      "url": "https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0"
     },
     {
       "added_at": "2026-09-25 06:00:06",

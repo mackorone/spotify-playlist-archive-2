@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Moon Sujin, GANGGA)",
-  "num_followers": 392389,
+  "num_followers": 392385,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANXJkrDjt1t6BhJuDCVSukB5wA5l",
+  "snapshot_id": "AAAAAEoWTCIChXc7bJ8i9JY2reYPKYdV",
   "tracks": [
     {
       "added_at": "2026-09-18 06:27:21",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-09-18 06:27:21",
       "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2026-09-18 06:27:21",
+      "album": {
         "name": "JONGHYUN The Collection \"Story Op.2\"",
         "url": "https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 244451,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH"
-    },
-    {
-      "added_at": "2026-09-18 06:27:21",
-      "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2026-09-18 06:27:21",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-09-18 06:27:21",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Small girl (feat. D.O.)",
-      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
-    },
-    {
-      "added_at": "2026-09-18 06:27:21",
-      "album": {
         "name": "Walk In The Night (Feat. Zion.T)",
         "url": "https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g"
       },
@@ -367,26 +347,6 @@
       "duration_ms": 185601,
       "name": "Walk In The Night (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK"
-    },
-    {
-      "added_at": "2026-09-18 06:27:21",
-      "album": {
-        "name": "A flower bookmark, Pt. 3",
-        "url": "https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Last Scene (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/6OPd1gGT2gRadClWhzcPit"
     },
     {
       "added_at": "2026-09-18 06:27:21",
@@ -411,22 +371,42 @@
     {
       "added_at": "2026-09-18 06:27:21",
       "album": {
-        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
+        "name": "A flower bookmark, Pt. 3",
+        "url": "https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         },
         {
-          "name": "SUNG HAN BIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Luv Luv Luv",
-      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
+      "duration_ms": 243000,
+      "name": "Last Scene (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/6OPd1gGT2gRadClWhzcPit"
+    },
+    {
+      "added_at": "2026-09-18 06:27:21",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
       "added_at": "2026-09-18 06:27:21",
@@ -447,6 +427,26 @@
       "duration_ms": 213000,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn"
+    },
+    {
+      "added_at": "2026-09-18 06:27:21",
+      "album": {
+        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        },
+        {
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Luv Luv Luv",
+      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
     },
     {
       "added_at": "2026-09-18 06:27:21",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-09-18 06:27:21",
       "album": {
-        "name": "Like Spring",
-        "url": "https://open.spotify.com/album/2YcxpSvWg2MFfXeI50bE5V"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        },
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Like Spring",
-      "url": "https://open.spotify.com/track/67YLguFMT7wbJl2dSXeNGE"
-    },
-    {
-      "added_at": "2026-09-18 06:27:21",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 215000,
       "name": "Always",
       "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
+    },
+    {
+      "added_at": "2026-09-18 06:27:21",
+      "album": {
+        "name": "Like Spring",
+        "url": "https://open.spotify.com/album/2YcxpSvWg2MFfXeI50bE5V"
+      },
+      "artists": [
+        {
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        },
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Like Spring",
+      "url": "https://open.spotify.com/track/67YLguFMT7wbJl2dSXeNGE"
     },
     {
       "added_at": "2026-09-18 06:27:21",
@@ -615,6 +615,26 @@
     {
       "added_at": "2026-09-18 06:27:21",
       "album": {
+        "name": "Whats wrong with secretary kim OST Part.4",
+        "url": "https://open.spotify.com/album/52fLYrQxllSI9fJOp0lS3I"
+      },
+      "artists": [
+        {
+          "name": "JINHO",
+          "url": "https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0"
+        },
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 204628,
+      "name": "A little bit more",
+      "url": "https://open.spotify.com/track/7zQfolCu9NJF1M8rwPOERI"
+    },
+    {
+      "added_at": "2026-09-18 06:27:21",
+      "album": {
         "name": "Teenieping: Legend of the Whale Heartstone Special, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/22zTuvEyfwSfaJjTddc9ur"
       },
@@ -635,22 +655,22 @@
     {
       "added_at": "2026-09-18 06:27:21",
       "album": {
-        "name": "Whats wrong with secretary kim OST Part.4",
-        "url": "https://open.spotify.com/album/52fLYrQxllSI9fJOp0lS3I"
+        "name": "Rain Drops (Feat. Chodan of QWER)",
+        "url": "https://open.spotify.com/album/1iXiGFFMTl4uirqoakd53U"
       },
       "artists": [
         {
-          "name": "JINHO",
-          "url": "https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0"
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
         },
         {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+          "name": "Chodan",
+          "url": "https://open.spotify.com/artist/2QKtHEMLWgiXDE2tivddkc"
         }
       ],
-      "duration_ms": 204628,
-      "name": "A little bit more",
-      "url": "https://open.spotify.com/track/7zQfolCu9NJF1M8rwPOERI"
+      "duration_ms": 183529,
+      "name": "Rain Drops (Feat. Chodan of QWER)",
+      "url": "https://open.spotify.com/track/0mJ95hBlmJ7FOdPDTBs7RD"
     },
     {
       "added_at": "2026-09-18 06:27:21",
@@ -695,22 +715,22 @@
     {
       "added_at": "2026-09-18 06:27:21",
       "album": {
-        "name": "Rain Drops (Feat. Chodan of QWER)",
-        "url": "https://open.spotify.com/album/1iXiGFFMTl4uirqoakd53U"
+        "name": "Because we loved",
+        "url": "https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s"
       },
       "artists": [
         {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+          "name": "KANG MINKYUNG",
+          "url": "https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4"
         },
         {
-          "name": "Chodan",
-          "url": "https://open.spotify.com/artist/2QKtHEMLWgiXDE2tivddkc"
+          "name": "CHOI JUNG HOON of JANNABI",
+          "url": "https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Rain Drops (Feat. Chodan of QWER)",
-      "url": "https://open.spotify.com/track/0mJ95hBlmJ7FOdPDTBs7RD"
+      "duration_ms": 221906,
+      "name": "Because we loved",
+      "url": "https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA"
     },
     {
       "added_at": "2026-09-18 06:27:21",
@@ -731,26 +751,6 @@
       "duration_ms": 178862,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/1rpitVTCgfqKNyLtjuHuZh"
-    },
-    {
-      "added_at": "2026-09-18 06:27:21",
-      "album": {
-        "name": "Because we loved",
-        "url": "https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s"
-      },
-      "artists": [
-        {
-          "name": "KANG MINKYUNG",
-          "url": "https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4"
-        },
-        {
-          "name": "CHOI JUNG HOON of JANNABI",
-          "url": "https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "Because we loved",
-      "url": "https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA"
     },
     {
       "added_at": "2026-09-18 06:27:21",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-09-18 06:27:21",
       "album": {
-        "name": "love me not (feat. Wonstein)",
-        "url": "https://open.spotify.com/album/7KpCgT23aD7sF3B1gKJfos"
-      },
-      "artists": [
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "love me not (feat. Wonstein)",
-      "url": "https://open.spotify.com/track/5wwLEmOTkShwvkzu621069"
-    },
-    {
-      "added_at": "2026-09-18 06:27:21",
-      "album": {
         "name": "LOVE CATCHER",
         "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 166000,
       "name": "Question Marks (Feat. Paul Kim)",
       "url": "https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC"
+    },
+    {
+      "added_at": "2026-09-18 06:27:21",
+      "album": {
+        "name": "love me not (feat. Wonstein)",
+        "url": "https://open.spotify.com/album/7KpCgT23aD7sF3B1gKJfos"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "love me not (feat. Wonstein)",
+      "url": "https://open.spotify.com/track/5wwLEmOTkShwvkzu621069"
     },
     {
       "added_at": "2026-09-18 06:27:21",

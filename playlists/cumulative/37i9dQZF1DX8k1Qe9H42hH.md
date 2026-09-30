@@ -4,7 +4,7 @@
 
 > From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment.
 
-136 songs - 6 hr 21 min
+137 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Beauty and the Beast](https://open.spotify.com/track/2xS0Aybg4e8cQ8xiv3DeoH) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/36UFyDENKnCucYx2zwcaea) | 2:46 | 2024-03-01 |  |
 | [Best of Friends](https://open.spotify.com/track/1t5aiAaQncdO7IY64ZQfDs) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Fall Songs](https://open.spotify.com/album/4Qg3W6O6ljPzlibXwTyZ5y) | 2:04 | 2025-09-05 |  |
 | [Bringing This Baby Home](https://open.spotify.com/track/3iYjMwH7KXoVU2gFVUC5kz) | [Rob Cantor For Kids!](https://open.spotify.com/artist/0sEDLWlvde4D2GLUFufjSO) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:21 | 2024-03-01 |  |
+| [Bundle of Joy](https://open.spotify.com/track/2161Op90HUoKwnJ7pJtknw) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Deep Focus](https://open.spotify.com/album/2qO0pbZco75616ASWjgIsG) | 3:03 | 2026-09-29 |  |
 | [Bundle of Joy](https://open.spotify.com/track/3eTgg18rKBD30Hef1gv0wz) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 2:48 | 2024-03-01 |  |
 | [Can You Feel the Love Tonight \- End Title](https://open.spotify.com/track/5joPSVJVSia57UIt9Orymt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King Reo Māori \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hHY5pxU9pAkDrFtVFCkwa) | 4:01 | 2024-03-01 | 2025-06-21 |
 | [Countin' Sheep](https://open.spotify.com/track/28XSzkV1wEJdPfMkxNkQoa) | [Paige Morehead](https://open.spotify.com/artist/2VUhAdBwFY2AoEZsnzQdTF) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 2:14 | 2024-03-01 |  |

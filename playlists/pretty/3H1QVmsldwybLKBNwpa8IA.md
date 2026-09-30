@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain](/playlists/plain/3H1QVmsldwybLKBNwpa8IA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3H1QVmsldwybLKBNwpa8IA)
 
-### [christmas songs 2025 🎄holiday music](https://open.spotify.com/playlist/3H1QVmsldwybLKBNwpa8IA)
+### [christmas songs 2026 🎄holiday music](https://open.spotify.com/playlist/3H1QVmsldwybLKBNwpa8IA)
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,352 likes - 152 songs - 8 hr 10 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,351 likes - 152 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 151 | [The Rebel Jesus](https://open.spotify.com/track/1fEyQ3bU4ubd2HtAxinjg6) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Full Rainbow of Light \(Deluxe Edition\)](https://open.spotify.com/album/3PTp8AB3JTppmkaUBBR3GY) | 4:09 |
 | 152 | [Santa Slide](https://open.spotify.com/track/0FOBjG6E1MUNmdnBbVsPNM) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Santa Slide](https://open.spotify.com/album/2cWjMJQ1AnWc6ofqTGYHCG) | 4:04 |
 
-Snapshot ID: `AAAFLI8mI26dc/nR1YLk1hT5NZyMVA6l`
+Snapshot ID: `AAAFLds7NltqUyvxDsfxKs+mUhRayz8C`

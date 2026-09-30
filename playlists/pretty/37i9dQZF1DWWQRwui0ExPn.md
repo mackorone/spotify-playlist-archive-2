@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,517,434 likes - 229 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,517,607 likes - 229 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 228 | [Sora](https://open.spotify.com/track/3jzUS5ot7khHwdyb8r25nq) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Sora](https://open.spotify.com/album/4WWF7UE00XFzAwEXI1vPJt) | 1:54 |
 | 229 | [Soft Echo](https://open.spotify.com/track/3T4KBGHaMeLyLfzekgBCl9) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Soft Echo](https://open.spotify.com/album/4wLXH7Evimg18pGTEWowlA) | 2:18 |
 
-Snapshot ID: `AAAAAC0379zuX+5Y42YFZPKhmkEyVm3E`
+Snapshot ID: `AAAAAG00s1bnFo8FwF9I1botzqMtx5Ge`

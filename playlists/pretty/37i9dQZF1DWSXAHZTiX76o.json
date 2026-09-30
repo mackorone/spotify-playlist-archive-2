@@ -1,12 +1,12 @@
 {
   "description": "Las mujeres que la rompieron este a\u00f1o con su m\u00fasica. Mon Laferte en portada.",
-  "num_followers": 343900,
+  "num_followers": 343875,
   "original_name": "Mujeres latinas del 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO7PEMMIsbbq5c2Hd+TJimiYY2G2",
+  "snapshot_id": "AAAAALEKYwG71eHFG36PZntZNdnID+qt",
   "tracks": [
     {
       "added_at": "2025-12-03 13:14:43",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
-        "name": "NO ME OLVIDES",
-        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 173453,
-      "name": "FAVORITA",
-      "url": "https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
         "name": "Quiero +",
         "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 128487,
       "name": "Quiero +",
       "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
+        "name": "NO ME OLVIDES",
+        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "FAVORITA",
+      "url": "https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u"
     },
     {
       "added_at": "2025-12-03 13:14:43",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
-        "name": "Manifiesto",
-        "url": "https://open.spotify.com/album/1nomRKKXgBtpXACb0XaV6o"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Terremoto",
-          "url": "https://open.spotify.com/artist/0aGlsoZeW2Z37G9soO3TEd"
-        }
-      ],
-      "duration_ms": 206263,
-      "name": "Mira\u00edta - Rumba, Libertad",
-      "url": "https://open.spotify.com/track/7usG61jjbWDQ66lyxT17Z5"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
         "name": "la de arca",
         "url": "https://open.spotify.com/album/6SrlJq78kG6BQmUYdcq3Mu"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 149712,
       "name": "la de arca",
       "url": "https://open.spotify.com/track/4qIMKCnsasl6wE7aT6YZDi"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
+        "name": "Manifiesto",
+        "url": "https://open.spotify.com/album/1nomRKKXgBtpXACb0XaV6o"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Terremoto",
+          "url": "https://open.spotify.com/artist/0aGlsoZeW2Z37G9soO3TEd"
+        }
+      ],
+      "duration_ms": 206263,
+      "name": "Mira\u00edta - Rumba, Libertad",
+      "url": "https://open.spotify.com/track/7usG61jjbWDQ66lyxT17Z5"
     },
     {
       "added_at": "2025-12-03 13:14:43",

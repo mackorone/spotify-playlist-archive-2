@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 945896,
+  "num_followers": 945897,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFBWDNZmbJsTKcB53wGcZApBtvI+",
+  "snapshot_id": "AAAAALsAnJmqIkXZifWjIAxNvYh/kx/f",
   "tracks": [
     {
       "added_at": "2026-09-18 15:44:07",
@@ -287,6 +287,26 @@
     {
       "added_at": "2026-09-18 15:44:07",
       "album": {
+        "name": "Me Leva Pra Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TZD2wHncHxrfovghumTIm"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "duration_ms": 230165,
+      "name": "Me Leva Pra Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Ae6RpDX15PH0nY4qpwBfx"
+    },
+    {
+      "added_at": "2026-09-18 15:44:07",
+      "album": {
         "name": "Ensaio (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
       },
@@ -299,22 +319,6 @@
       "duration_ms": 165074,
       "name": "Na Conta Da Loucura - Ao Vivo",
       "url": "https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P"
-    },
-    {
-      "added_at": "2026-09-18 15:44:07",
-      "album": {
-        "name": "Querosene e o Viol\u00e3o",
-        "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 161403,
-      "name": "Infarto",
-      "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
     },
     {
       "added_at": "2026-09-18 15:44:07",
@@ -351,22 +355,18 @@
     {
       "added_at": "2026-09-18 15:44:07",
       "album": {
-        "name": "Me Leva Pra Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TZD2wHncHxrfovghumTIm"
+        "name": "Querosene e o Viol\u00e3o",
+        "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
         }
       ],
-      "duration_ms": 230165,
-      "name": "Me Leva Pra Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Ae6RpDX15PH0nY4qpwBfx"
+      "duration_ms": 161403,
+      "name": "Infarto",
+      "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
     },
     {
       "added_at": "2026-09-18 15:44:07",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-09-18 15:44:07",
       "album": {
+        "name": "Bagun\u00e7a Minha Vida (Ao Vivo Em Goi\u00e2nia / 2019)",
+        "url": "https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        }
+      ],
+      "duration_ms": 145197,
+      "name": "Bagun\u00e7a Minha Vida - Ao Vivo Em Goi\u00e2nia / 2019",
+      "url": "https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj"
+    },
+    {
+      "added_at": "2026-09-18 15:44:07",
+      "album": {
         "name": "Facas (Ao Vivo)",
         "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 196379,
       "name": "Facas - Ao Vivo",
       "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
-    },
-    {
-      "added_at": "2026-09-18 15:44:07",
-      "album": {
-        "name": "Bagun\u00e7a Minha Vida (Ao Vivo Em Goi\u00e2nia / 2019)",
-        "url": "https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        }
-      ],
-      "duration_ms": 145197,
-      "name": "Bagun\u00e7a Minha Vida - Ao Vivo Em Goi\u00e2nia / 2019",
-      "url": "https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj"
     },
     {
       "added_at": "2026-09-18 15:44:07",
@@ -707,6 +707,26 @@
     {
       "added_at": "2026-09-18 15:44:07",
       "album": {
+        "name": "Enquanto o Sol Brilhar (Naiara 15 - Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/02jmthjJMKaEhxMyxJXBu2"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Matogrosso & Mathias",
+          "url": "https://open.spotify.com/artist/5he1UTofdFOcdbKqnLixko"
+        }
+      ],
+      "duration_ms": 240272,
+      "name": "Enquanto o Sol Brilhar - Naiara 15 - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1fJpDOEtoymkXkxZv93eg9"
+    },
+    {
+      "added_at": "2026-09-18 15:44:07",
+      "album": {
         "name": "Intensamente Hoje!",
         "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 192799,
       "name": "Tail\u00e2ndia - Ao Vivo",
       "url": "https://open.spotify.com/track/3e5sfAnEtKRn0Uhi5uHbVv"
-    },
-    {
-      "added_at": "2026-09-18 15:44:07",
-      "album": {
-        "name": "Enquanto o Sol Brilhar (Naiara 15 - Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/02jmthjJMKaEhxMyxJXBu2"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Matogrosso & Mathias",
-          "url": "https://open.spotify.com/artist/5he1UTofdFOcdbKqnLixko"
-        }
-      ],
-      "duration_ms": 240272,
-      "name": "Enquanto o Sol Brilhar - Naiara 15 - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1fJpDOEtoymkXkxZv93eg9"
     },
     {
       "added_at": "2026-09-18 15:44:07",

@@ -1,12 +1,12 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 231052,
+  "num_followers": 231124,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOvjgQpH0gXCHqhZ7JfQDHqPOKdb",
+  "snapshot_id": "AAAAACwjz+rHVM3lcDCDwAiahx4qHwqy",
   "tracks": [
     {
       "added_at": "2026-05-04 04:59:11",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+    },
+    {
+      "added_at": "2026-05-04 04:59:11",
+      "album": {
         "name": "Una Leyenda - Los Chiches Vallenatos",
         "url": "https://open.spotify.com/album/03XL7CFgk3mkfzwvJm6Wlw"
       },
@@ -739,6 +755,22 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
+        "name": "Los 3 Amigos",
+        "url": "https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof"
+      },
+      "artists": [
+        {
+          "name": "Nelson Velasquez",
+          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "Ajena - En Vivo Version",
+      "url": "https://open.spotify.com/track/54wv2En7qrGKMwvbgMvuxi"
+    },
+    {
+      "added_at": "2026-05-04 04:59:11",
+      "album": {
         "name": "El Pap\u00e1 De Los Amores",
         "url": "https://open.spotify.com/album/4bDVM51RU9kfd1mKv8kMKl"
       },
@@ -759,22 +791,6 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Los 3 Amigos",
-        "url": "https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof"
-      },
-      "artists": [
-        {
-          "name": "Nelson Velasquez",
-          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "Ajena - En Vivo Version",
-      "url": "https://open.spotify.com/track/54wv2En7qrGKMwvbgMvuxi"
-    },
-    {
-      "added_at": "2026-05-04 04:59:11",
-      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 298986,
-      "name": "Quiero Que Seas Mi Estrella",
-      "url": "https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p"
-    },
-    {
-      "added_at": "2026-05-04 04:59:11",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
@@ -816,9 +816,25 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+      "duration_ms": 283853,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
+    },
+    {
+      "added_at": "2026-05-04 04:59:11",
+      "album": {
+        "name": "S\u00f3lo Clasicos",
+        "url": "https://open.spotify.com/album/3S5zHT8Grf9yHPq2hvP6gm"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Dime C\u00f3mo Te Olvido",
+      "url": "https://open.spotify.com/track/3eY3uh3Rj7AkUM6A0qWnYt"
     },
     {
       "added_at": "2026-05-04 04:59:11",
@@ -875,22 +891,6 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn"
-    },
-    {
-      "added_at": "2026-05-04 04:59:11",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Historia Musical de Los Embajadores Vallenatos",
-        "url": "https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS"
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
       },
       "artists": [
         {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 258218,
-      "name": "Se Le Moja la Canoa (La Canoa)",
-      "url": "https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl"
+      "duration_ms": 298986,
+      "name": "Quiero Que Seas Mi Estrella",
+      "url": "https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Vallenato",

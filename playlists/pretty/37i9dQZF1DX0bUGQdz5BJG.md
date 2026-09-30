@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Lauren Watkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,325 likes - 176 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,353 likes - 176 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 175 | [Beach Fire Embers](https://open.spotify.com/track/599TFLHeKErarQkqOIvlSF) | [Colin Lynch](https://open.spotify.com/artist/05SVbHynbrctQGdx22K45Z) | [Beach Fire Embers](https://open.spotify.com/album/0FZkzLqlDvDjkUPL3Zc4xH) | 3:05 |
 | 176 | [High Water](https://open.spotify.com/track/5ltXSLSagc9mlHsVNV6TEp) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Suede](https://open.spotify.com/album/1G4oYWXbw8Yji0qNRcXnWO) | 3:31 |
 
-Snapshot ID: `AAAAANIsJTb2QjvYUWDD3pLsJ8qXwFpX`
+Snapshot ID: `AAAAAIN9rvdkM3g56zbLzRRsS40m7Ban`

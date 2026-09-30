@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,962 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,978 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 23 | [Bass Go Boom](https://open.spotify.com/track/7Iy0uVPtplh8WsntcIXP0J) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Bass Go Boom](https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk) | 2:40 |
 | 24 | [Voices In My Head](https://open.spotify.com/track/1Wh4d4pQj9LXkTb02OYbQA) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Voices In My Head](https://open.spotify.com/album/7KpN5YOLMSR9L1BZEjTtD8) | 3:08 |
 | 25 | [Dark Smile](https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [IMHAPPY](https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB) | [Dark Smile](https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc) | 3:36 |
-| 26 | [Round My Mind](https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Round My Mind](https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI) | 3:36 |
-| 27 | [Hardcore Bass](https://open.spotify.com/track/4EChaoF30M64Bb43eSyGFt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Hardcore Bass](https://open.spotify.com/album/1vTB6AtM6rfXboi0YylIhh) | 2:48 |
+| 26 | [Hardcore Bass](https://open.spotify.com/track/4EChaoF30M64Bb43eSyGFt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Hardcore Bass](https://open.spotify.com/album/1vTB6AtM6rfXboi0YylIhh) | 2:48 |
+| 27 | [Round My Mind](https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Round My Mind](https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI) | 3:36 |
 | 28 | [Burn Out](https://open.spotify.com/track/1nN8uMR9h1pk6wvXYuLG5R) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl) | [Burn Out](https://open.spotify.com/album/0qTZSwiA8pCbsKxbWOSE7w) | 2:41 |
 | 29 | [PSSY MTHRFCKRZ \- Chaos Project & Sakyra Remix](https://open.spotify.com/track/6wFYX9fvq5uWbcixgRxRUz) | [Endymion](https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT), [Sakyra](https://open.spotify.com/artist/2GR3DT7wsxRnjNckRcNMpD) | [PSSY MTHRFCKRZ \(Chaos Project & Sakyra Remix\)](https://open.spotify.com/album/7j1R300leutDGel6DS2Jxc) | 2:42 |
 | 30 | [EAT SLEEP NOISE REPEAT](https://open.spotify.com/track/7L5a90A4haEoeWnzmcRYAr) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [EAT SLEEP NOISE REPEAT](https://open.spotify.com/album/0z7tHHoZuhYoY48G9vOzo6) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 49 | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \- Satirized & Noxiouz Remix](https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \(Satirized & Noxiouz Remix\)](https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5) | 3:10 |
 | 50 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 |
 
-Snapshot ID: `AAAAAEuLfeWRAuxd1Hkvdl7vblFlNkgk`
+Snapshot ID: `AAAAAHkoFbLnSqEIEZSKezm0TBcPkPD2`

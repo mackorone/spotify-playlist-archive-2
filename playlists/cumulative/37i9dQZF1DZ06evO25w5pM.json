@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 727933,
       "name": "Healing Circle",
       "url": "https://open.spotify.com/track/5YYQOMiPMTbw18fJj6rG4w"
@@ -1062,6 +1062,24 @@
       "duration_ms": 508733,
       "name": "Olive Grove",
       "url": "https://open.spotify.com/track/7G6SLZYw7lEBgvzVWEM4H7"
+    },
+    {
+      "album": {
+        "name": "What The Elephant Told",
+        "url": "https://open.spotify.com/album/7wK6o1HwwCezhZ45pjpv6n"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422514,
+      "name": "Pollen Path",
+      "url": "https://open.spotify.com/track/27adqxzlyV0GoX805frftH"
     },
     {
       "album": {

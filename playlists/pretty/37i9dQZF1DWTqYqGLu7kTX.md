@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > Best of Punjabi Hip\-Hop! Cover:  Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,810 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,967 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 74 | [What Is This](https://open.spotify.com/track/3w4NKE09YE2rWeUwwHM6FK) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Mechanic](https://open.spotify.com/album/2L1Hx3rS3Hz3VGdEdQU2qB) | 2:41 |
 | 75 | [Map](https://open.spotify.com/track/1qMLmdxbkHE2zeCYu63Gn9) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Majhaestic](https://open.spotify.com/album/0Rfydlvsbf9JRARoPfaj3v) | 3:46 |
 
-Snapshot ID: `AAAAALIckMc58xcrSexiY5gqZ5FH3mdo`
+Snapshot ID: `AAAAALi95V3MrNvwE6kOjQ8+vw0J8Z5U`

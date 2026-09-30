@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,344 likes - 103 songs - 15 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,414 likes - 103 songs - 15 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 102 | [Acoustic Worship Medley \(Recorded Live at ‘The Epiphany’, V1\)](https://open.spotify.com/track/1vFoYxBAvdUHykCWCiI9Mc) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW) | [Acoustic Worship Medley \(Recorded Live at ‘The Epiphany’, V1\)](https://open.spotify.com/album/4wzpW58kU9MLOUMxxWYKv2) | 7:55 |
 | 103 | [Revelations 7 \- Live](https://open.spotify.com/track/2MiUaD8WJxxCWt30Q2FPYa) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Abike Adesida](https://open.spotify.com/artist/2wIsKcvptr39PMISxnIy1s) | [Revelations 7 \(Live\)](https://open.spotify.com/album/6JJh5T65NZDCP5RGSTa9V2) | 12:36 |
 
-Snapshot ID: `AAAAAHa7PcXwCQxpQwWFoaZToxu00C7o`
+Snapshot ID: `AAAAAEyyajnIWKrkzYV3wyBxQnH2BuAc`

@@ -4831,6 +4831,28 @@
     },
     {
       "album": {
+        "name": "Ca Ne Marche Pas",
+        "url": "https://open.spotify.com/album/1FuzOcvIDwM2AsfdM0ry8H"
+      },
+      "artists": [
+        {
+          "name": "Joe Kingston",
+          "url": "https://open.spotify.com/artist/0XgZLJ4UKRBh6KdFQgnMmc"
+        },
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Ca Ne Marche Pas",
+      "url": "https://open.spotify.com/track/7eraMEp9CzCOEs4DnRsFVE"
+    },
+    {
+      "album": {
         "name": "Ca Va Aller",
         "url": "https://open.spotify.com/album/4glCGjUMMpuDJCHJZPAGov"
       },

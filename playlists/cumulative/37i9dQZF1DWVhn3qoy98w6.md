@@ -2,9 +2,9 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Todos los miércoles, lo nuevo de la escena independiente española\. Foto: julia de arco.
+> Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Construimos Escaleras.
 
-8,592 songs - 18 day 5 hr 36 min
+8,594 songs - 18 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,6 +623,7 @@
 | [Ansiedad Social](https://open.spotify.com/track/0uf3yBVaoyMthJiiu2dZez) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Ansiedad Social](https://open.spotify.com/album/2mirnr7ex2EUk3xXjNz5dn) | 2:47 | 2025-11-11 | 2025-11-19 |
 | [ansiedazZz](https://open.spotify.com/track/1yuSbDae3xH89XaSsrbUoV) | [Gervás](https://open.spotify.com/artist/1YyvmryhubmWDYYLIzkvdW) | [ansiedazZz](https://open.spotify.com/album/1K9hNKVU0EuS8GF02HCba2) | 3:56 | 2024-04-16 | 2024-04-24 |
 | [Antaratma](https://open.spotify.com/track/5XF4weeyEg9sXyhNWAfgcg) | [Rodri Jimenez](https://open.spotify.com/artist/3K7XyoEV1ixhYKPSEnEN6z), [Deeperbeats](https://open.spotify.com/artist/4cBniWkcC4P7oO5rGvfcPg) | [Antaratma](https://open.spotify.com/album/0AFnzg2bSIgsxL67ELM3xG) | 2:19 | 2024-04-30 | 2024-05-09 |
+| [ANTARES](https://open.spotify.com/track/33gCwdW4OeYA672RSHrmvA) | [Aldhara](https://open.spotify.com/artist/5Na7xWRc8FmFmdZJYUx12L) | [ANTARES](https://open.spotify.com/album/0CNKAqWGgKXC7IVdhirTCg) | 2:58 | 2026-09-29 |  |
 | [Anteayer](https://open.spotify.com/track/3KaNtPdgiuHI2YLaCEjgoc) | [Mentaguay](https://open.spotify.com/artist/3zLvahtWhs82T6FLAjsX7n) | [Anteayer](https://open.spotify.com/album/3EROm5MyoS40k4KAZisFjM) | 3:26 | 2023-06-27 | 2023-07-06 |
 | [Antes](https://open.spotify.com/track/18WzoUbL6w0bcefeIHKLGf) | [Paul Cortez](https://open.spotify.com/artist/4VqN4jcfKS9gW3dhYjN3bS), [ELUVE](https://open.spotify.com/artist/5vgkWhP4HQTncMrL5OhJd8), [Rydez](https://open.spotify.com/artist/0ZBxVxamZWcOWqnBXB1bXG) | [Antes](https://open.spotify.com/album/5hTtVIW9Q2j6hogwG8k1Ec) | 2:35 | 2024-04-09 | 2024-04-17 |
 | [ANTES](https://open.spotify.com/track/53O5P9BcSZkquK9YKYn3MX) | [PEINETTA](https://open.spotify.com/artist/5u1qOR5LToCn0Zi0Y0kfY4) | [ANTES](https://open.spotify.com/album/5Ect6PbQ88Ho8spMEbznhx) | 3:49 | 2022-06-29 | 2023-01-04 |
@@ -1933,7 +1934,7 @@
 | [De tu panal](https://open.spotify.com/track/0zStdTFY7x3oi8pHZBhPhE) | [Caro Raro](https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP), [Papaya Club](https://open.spotify.com/artist/40tfI19XPizQqSuf0nfuIX) | [De tu panal](https://open.spotify.com/album/5ROYO3ZzeJGeH54ndY9eDc) | 3:17 | 2024-01-09 | 2024-01-24 |
 | [De una forma diferente](https://open.spotify.com/track/38TVjqHqfDJvy705ShB6ka) | [Leblanc](https://open.spotify.com/artist/25H3Jsd9aQK2MGTtIeNzhQ) | [Otro Día En La Tierra](https://open.spotify.com/album/6UGagYmCo0X5BI0Vjcp0cK) | 3:49 | 2022-03-29 | 2022-04-20 |
 | [DE VACACIONES](https://open.spotify.com/track/3tp9yxPxLDutHchejp1rkB) | [Mentaguay](https://open.spotify.com/artist/3zLvahtWhs82T6FLAjsX7n) | [DE VACACIONES](https://open.spotify.com/album/2wAHWXlT5cceaN5T6YXBAO) | 2:28 | 2024-07-23 | 2024-07-31 |
-| [De vacaciones](https://open.spotify.com/track/0mvnYTPZKJ157m6JosQP9M) | [Patronato](https://open.spotify.com/artist/2VQIzOxFnYy0bNOwjevel2) | [De vacaciones](https://open.spotify.com/album/2EbXHI9HCDHUPeRmOUz2MQ) | 2:35 | 2026-07-07 |  |
+| [De vacaciones](https://open.spotify.com/track/0mvnYTPZKJ157m6JosQP9M) | [Patronato](https://open.spotify.com/artist/2VQIzOxFnYy0bNOwjevel2) | [De vacaciones](https://open.spotify.com/album/2EbXHI9HCDHUPeRmOUz2MQ) | 2:35 | 2026-07-07 | 2026-09-30 |
 | [de vdd \(on god\)](https://open.spotify.com/track/5JtvptNOrzXLbcTEHphhaS) | [SUOB](https://open.spotify.com/artist/5uLRssoTItOawD6NZKvGnH) | [de vdd \(on god\)](https://open.spotify.com/album/1q5nGFUX5hvyXzHCrOfgKl) | 2:31 | 2024-07-30 | 2024-08-07 |
 | [De Verdad](https://open.spotify.com/track/3G4XwEQIsSUXzoIxdeBhkR) | [Amor Tempura](https://open.spotify.com/artist/2hfRJk93mhi0GJ2ow56h0t) | [De Verdad](https://open.spotify.com/album/7wWxk7ePWL8NbZUE699ahq) | 2:01 | 2024-03-19 | 2024-03-27 |
 | [de verde y olivo](https://open.spotify.com/track/2HtKZcrj4zJbgYEzr7g1yZ) | [MANVA NEGRA](https://open.spotify.com/artist/4kMQxuSx3x4lNG6BLGmv6w), [JORGE IBIZA CORTÉS](https://open.spotify.com/artist/66OjjFcrQkZUiuUcbvSKrb) | [de verde y olivo](https://open.spotify.com/album/47Vqb4Cs78Rdn6AWM8hsNI) | 3:08 | 2024-09-17 | 2024-09-25 |
@@ -2089,7 +2090,7 @@
 | [Di Que No](https://open.spotify.com/track/4aUiw5iu3lqaUEEoyJP0oi) | [Naer](https://open.spotify.com/artist/3dXTgjqRlZ3oQWfGUC9EAH) | [Di Que No](https://open.spotify.com/album/5yWlOjSN61lOxiqSBMv2YZ) | 3:15 | 2022-01-04 | 2022-01-27 |
 | [Dia estrany \(Diòptries relativament altes\)](https://open.spotify.com/track/2KwhBzu199jVaiBeZ1d1TT) | [Minibús Intergalàctic](https://open.spotify.com/artist/0bb1xWIXzK22TxjHYHpowl) | [Meditacions des dels Miratges Mercúrics](https://open.spotify.com/album/1Pi0wfeBOGgKKjLCwAqPjG) | 6:34 | 2024-04-16 | 2024-04-24 |
 | [Diablo](https://open.spotify.com/track/1iMtKD4BMMyatztZvwG6MO) | [Blue Lacey](https://open.spotify.com/artist/7FV117P1Xq7hl9jQkCkWs8), [Rodricc](https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw) | [Diablo](https://open.spotify.com/album/6vM6RckhESO878IoZFRTq3) | 1:40 | 2024-02-27 | 2024-03-06 |
-| [Diablo](https://open.spotify.com/track/1lFPFd6M6X7IWpeNH1AYrf) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [Diablo](https://open.spotify.com/album/7fO6USOF62EnuRGS0X4VxL) | 2:27 | 2026-08-04 |  |
+| [Diablo](https://open.spotify.com/track/1lFPFd6M6X7IWpeNH1AYrf) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [Diablo](https://open.spotify.com/album/7fO6USOF62EnuRGS0X4VxL) | 2:27 | 2026-08-04 | 2026-09-30 |
 | [Diablo0o](https://open.spotify.com/track/3n2rrdLXL9e259xlMup5NO) | [Blue Lacey](https://open.spotify.com/artist/7FV117P1Xq7hl9jQkCkWs8), [Rodricc](https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw) | [Diablo0o](https://open.spotify.com/album/3QiJ5l7kcBzGxMQM3BvvJl) | 2:03 | 2024-01-16 | 2024-01-24 |
 | [Diamante](https://open.spotify.com/track/2KAOp6SYU35LsYQHdZSiNs) | [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Diamante](https://open.spotify.com/album/6Cja92IEMyfcHSDPVZCjTG) | 3:03 | 2024-05-08 | 2024-05-15 |
 | [DIAMANTE](https://open.spotify.com/track/5YyOkKQTLmxTQ0CNwEPyTk) | [Sorroxxe](https://open.spotify.com/artist/0zxxL9BwUqEZ0YMRT5Cezy), [Myto](https://open.spotify.com/artist/2ef17EiY2Ya4O84s2H024G) | [ETERNIDAD](https://open.spotify.com/album/6eUNCAg2oRgLd5spsrHZ8E) | 2:07 | 2024-05-21 | 2024-05-29 |
@@ -6614,6 +6615,7 @@
 | [Referent II](https://open.spotify.com/track/1fo1rWyUBg9nPByhHfhIUz) | [VITTARA](https://open.spotify.com/artist/0RHElWsaFy1T4FiqxxekFk), [GUINEU](https://open.spotify.com/artist/71LogL8lYEei6YssB4RyVD) | [Referent II](https://open.spotify.com/album/49N4fiEVyj3PbNeKlAEiXN) | 2:39 | 2024-03-26 | 2024-04-03 |
 | [Reflejar](https://open.spotify.com/track/7aO7xs4T67mrhacQTAdUe0) | [Paula Espinosa](https://open.spotify.com/artist/4HZuCuYzorflOMVbFeOGtn) | [Reflejar](https://open.spotify.com/album/3vNf0QO6EqD9pZCSSWSyJA) | 3:28 | 2024-05-28 | 2024-06-05 |
 | [Reflejo](https://open.spotify.com/track/6rY1AgB7hPpnHERNPPPP1Z) | [Coco Wine](https://open.spotify.com/artist/3HG6ymY7xTt0Ac0Ve93uNj) | [Reflejo](https://open.spotify.com/album/5a3vuDAQjzTplPC9LzfZr3) | 3:09 | 2023-01-10 | 2023-01-18 |
+| [Reflejo](https://open.spotify.com/track/6eKf2CBWRUsxtUP2P0rwsN) | [Gazella](https://open.spotify.com/artist/1wmWQx4d3FD5M1FjIrk3wH) | [Reflejo](https://open.spotify.com/album/7HWj12XgMvVoW4x9uZs8ay) | 3:22 | 2026-09-29 |  |
 | [Reflexiones por la Autovía](https://open.spotify.com/track/0JGTUoKBq5Ene14vmUkPah) | [Detergente Líquido](https://open.spotify.com/artist/58bow5nUiEheB4uxuIiaXJ) | [Reflexiones por la Autovía](https://open.spotify.com/album/462xUH7h4plcsh9WyYhVcm) | 3:52 | 2022-07-26 | 2022-08-18 |
 | [Refuerzo intermitente](https://open.spotify.com/track/5VGtzg8ItpLJYsuCHTEQ22) | [aroa ay](https://open.spotify.com/artist/11VTXvScf8D82FdfeUp8UC) | [Refuerzo intermitente](https://open.spotify.com/album/2MfMysgQ1tZrVp6uslmu55) | 3:16 | 2022-01-26 | 2022-02-09 |
 | [Refugio](https://open.spotify.com/track/39ahOc4LqfkqOw7Y8uJ6rP) | [Beta Máximo](https://open.spotify.com/artist/365RFaJ5rIVgB8JkNSLN0M), [Ariadna Punsetes](https://open.spotify.com/artist/6FYsATaUMLDD3F7SVCWXNY) | [En lugares abandonados](https://open.spotify.com/album/1ydwPECR0m3smUpTb5XnIJ) | 2:50 | 2023-05-02 | 2023-05-17 |

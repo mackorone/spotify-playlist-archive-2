@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,350 likes - 160 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,359 likes - 160 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 159 | [Flowers](https://open.spotify.com/track/4jw9EqCh2FGyTwpCWf1j1a) | [Sombra Azul](https://open.spotify.com/artist/4EYXyORAJ8gvI1cZVeSEoc) | [Flowers](https://open.spotify.com/album/4ljnXhfFOCzhg1DIsfs4ty) | 1:53 |
 | 160 | [Mondello](https://open.spotify.com/track/0P8M2AcRc1Am3BYI7GGph8) | [Oldofredi](https://open.spotify.com/artist/2o1RrTh4ndGzk8CvWLvv0l) | [Mondello](https://open.spotify.com/album/3cPaf60UYpe1c22HMbLBf8) | 2:06 |
 
-Snapshot ID: `AAAAAH2dWQpHw0KNqcXmzBHH0kX/ptNZ`
+Snapshot ID: `AAAAACAhu8yzqPAWUFDVI8EfDcogIcqf`

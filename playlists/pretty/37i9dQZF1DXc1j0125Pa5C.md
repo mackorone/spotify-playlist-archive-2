@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thais Macedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,385 likes - 75 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,396 likes - 75 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Fato Consumado / Amanhã / Ponto Final \- Ao Vivo](https://open.spotify.com/track/5lhjF7ABlNFGi8Vyr5tyPf) | [Robinho](https://open.spotify.com/artist/0FKMbv813ULLLmjFPZ19wp), [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Fato Consumado / Amanhã / Ponto Final \(Ao Vivo\)](https://open.spotify.com/album/7486zmaQ7r1DlbALOzkCvc) | 4:46 |
 | 75 | [Tudo Pode Acontecer / Vai Me Dando Corda / A Casa Caiu \- Ao Vivo](https://open.spotify.com/track/16lHwvxBdG8gp8iJAcxgjT) | [Grupo Bom Astral](https://open.spotify.com/artist/7nqAVYCMjEMcKe1TP4nkJb) | [Bom Astral À Vontade \(Audiovisual, Ao Vivo\)](https://open.spotify.com/album/5A1B1bSJzKzmpFBGCgoYcw) | 4:40 |
 
-Snapshot ID: `AAAAAP24hhGrPgc1KRxVULYxk7OJ1cbr`
+Snapshot ID: `AAAAAIYa6hi0S6hnAHRe2zS9DXYv2gNq`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:6FAlvEp5DpXRSGN9GOe8l1\">emilianoakario</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"`spotify:artist:6vqyGm4tSHrerJwKwQm7jo`\">Primo Amore</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -936,6 +936,28 @@
       "duration_ms": 145217,
       "name": "3000KCAL",
       "url": "https://open.spotify.com/track/52y7p60kakvlLexOgrZW8P"
+    },
+    {
+      "album": {
+        "name": "305",
+        "url": "https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi"
+      },
+      "artists": [
+        {
+          "name": "1nine08",
+          "url": "https://open.spotify.com/artist/6i84sqAjyq8cxizf6MaI4H"
+        },
+        {
+          "name": "LUMI",
+          "url": "https://open.spotify.com/artist/2OCu6MqAaZZDHCefmYnBxP"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185634,
+      "name": "305",
+      "url": "https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj"
     },
     {
       "album": {
@@ -4391,6 +4413,24 @@
     },
     {
       "album": {
+        "name": "BATTISTA",
+        "url": "https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW"
+      },
+      "artists": [
+        {
+          "name": "BATTISTA",
+          "url": "https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157989,
+      "name": "BATTISTA",
+      "url": "https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ"
+    },
+    {
+      "album": {
         "name": "Battito Polemico",
         "url": "https://open.spotify.com/album/4Qjs0qnJ4NiyO7gCbbX4ub"
       },
@@ -7700,7 +7740,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 302068,
       "name": "Cianite",
       "url": "https://open.spotify.com/track/2TIH7mdB2p9U4rorlD5p7l"
@@ -8304,6 +8344,24 @@
       "duration_ms": 264347,
       "name": "Come facciamo noi",
       "url": "https://open.spotify.com/track/5ve1uJ5fmYkrgPj6kc29mS"
+    },
+    {
+      "album": {
+        "name": "Niente in ordine",
+        "url": "https://open.spotify.com/album/2mkYiHZvFWL5O5ZngZPKPl"
+      },
+      "artists": [
+        {
+          "name": "Primo Amore",
+          "url": "https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182168,
+      "name": "Come Fai Tu Con Me",
+      "url": "https://open.spotify.com/track/7GJANoNC3m6IrLp3D9rJaB"
     },
     {
       "album": {
@@ -15476,7 +15534,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 185500,
       "name": "Godi",
       "url": "https://open.spotify.com/track/2jGCZAwJYrBWOzJlOdvY6q"
@@ -15614,7 +15672,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 232500,
       "name": "Grafite",
       "url": "https://open.spotify.com/track/70nuCyay8tkxeDpGJcw8YT"
@@ -19946,7 +20004,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 209000,
       "name": "Lady",
       "url": "https://open.spotify.com/track/1KVxYJxw07tvB42lPYKH22"
@@ -22270,7 +22328,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 216410,
       "name": "mammamidicesempre",
       "url": "https://open.spotify.com/track/3YIubuSWUY5uX5SO8wt9SI"
@@ -25324,6 +25382,24 @@
       "duration_ms": 76191,
       "name": "NIENTE HA SENSO",
       "url": "https://open.spotify.com/track/5YxnT6Tcn1H7DABdH16EEJ"
+    },
+    {
+      "album": {
+        "name": "Niente \u00e8 poi cos\u00ec cambiato",
+        "url": "https://open.spotify.com/album/1JNd2HeaxsFmEHCQhPneVv"
+      },
+      "artists": [
+        {
+          "name": "Gaia Morelli",
+          "url": "https://open.spotify.com/artist/3tgCaL6JQGlCnLmNyjs84B"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294440,
+      "name": "Niente \u00e8 poi cos\u00ec cambiato",
+      "url": "https://open.spotify.com/track/7LgDApofNA5T779BRZt3oJ"
     },
     {
       "album": {
@@ -29612,7 +29688,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 190000,
       "name": "Pezzo di Te",
       "url": "https://open.spotify.com/track/2IMhdu29rZM8Swmb7VUFAB"
@@ -32544,6 +32620,28 @@
       "duration_ms": 221886,
       "name": "Rimedio D'amore",
       "url": "https://open.spotify.com/track/2iGxhQIkhHZ2PQiVlckF34"
+    },
+    {
+      "album": {
+        "name": "rinascere a settembre",
+        "url": "https://open.spotify.com/album/141SPyDy9F6CjhYUYDTtFr"
+      },
+      "artists": [
+        {
+          "name": "sottovoce",
+          "url": "https://open.spotify.com/artist/2Ak2nmstSKLX5WjPcDRhLw"
+        },
+        {
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155060,
+      "name": "rinascere a settembre",
+      "url": "https://open.spotify.com/track/3arW5jieW30EdEs4NlCBE4"
     },
     {
       "album": {
@@ -37928,7 +38026,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 125513,
       "name": "Tao (esiste solo Adesso)",
       "url": "https://open.spotify.com/track/0OjKr7PuNJ2eiEtqWysf5I"
@@ -39667,6 +39765,24 @@
     },
     {
       "album": {
+        "name": "turnista x sempre",
+        "url": "https://open.spotify.com/album/56dLjdfwcQrE8Zc7GV6P84"
+      },
+      "artists": [
+        {
+          "name": "Julie Ant",
+          "url": "https://open.spotify.com/artist/2ecKh1gxMGEkFqC18Q0njR"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113313,
+      "name": "turnista x sempre",
+      "url": "https://open.spotify.com/track/6AEquNwb03Q2E8qn0hL2Fy"
+    },
+    {
+      "album": {
         "name": "ypsilon",
         "url": "https://open.spotify.com/album/34ccA3nkdc9F1OBWXWYyE1"
       },
@@ -39722,6 +39838,24 @@
       "duration_ms": 189618,
       "name": "Tutte crudelt\u00e0",
       "url": "https://open.spotify.com/track/5JM4FfE1CWa0sveUVJP1IU"
+    },
+    {
+      "album": {
+        "name": "Meccanica Quasica",
+        "url": "https://open.spotify.com/album/2un4jWuejVdejIFtct0MQG"
+      },
+      "artists": [
+        {
+          "name": "VIOLETOVYY BEZ",
+          "url": "https://open.spotify.com/artist/2VqV1IfoZc8W7epfuvgM5F"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Tutte le volte",
+      "url": "https://open.spotify.com/track/2sDdprCxCrjOCws9nERY5o"
     },
     {
       "album": {
@@ -41984,6 +42118,24 @@
       "duration_ms": 156864,
       "name": "Vortice",
       "url": "https://open.spotify.com/track/2vtLLqXrIBIP0cjc93sT7T"
+    },
+    {
+      "album": {
+        "name": "soneca",
+        "url": "https://open.spotify.com/album/3IVLhipOtLBNDziVU8l6CI"
+      },
+      "artists": [
+        {
+          "name": "Lembrete",
+          "url": "https://open.spotify.com/artist/6IfnY1i1ReRAZD3Spl7JCm"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171480,
+      "name": "vou",
+      "url": "https://open.spotify.com/track/7lyvCKr8ABKYPJ0nwZItD8"
     },
     {
       "album": {

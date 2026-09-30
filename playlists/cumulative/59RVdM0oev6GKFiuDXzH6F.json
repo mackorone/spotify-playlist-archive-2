@@ -7607,6 +7607,24 @@
     },
     {
       "album": {
+        "name": "Girl, WYA!?",
+        "url": "https://open.spotify.com/album/5aNHAeuAT4abqiHlT4aq7o"
+      },
+      "artists": [
+        {
+          "name": "CVNTS",
+          "url": "https://open.spotify.com/artist/6OOF9nSZbNw4etK0InqtEZ"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134847,
+      "name": "Girl, WYA!?",
+      "url": "https://open.spotify.com/track/3hmAG2fhaaCvXvtPBFMZUt"
+    },
+    {
+      "album": {
         "name": "Girls Just Wanna Have Fun",
         "url": "https://open.spotify.com/album/3RAfb3xCWXRVo9m77hFwqQ"
       },

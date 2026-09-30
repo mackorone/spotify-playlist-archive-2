@@ -329,6 +329,28 @@
     },
     {
       "album": {
+        "name": "Disney Peaceful Piano: Deep Focus",
+        "url": "https://open.spotify.com/album/2qO0pbZco75616ASWjgIsG"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183417,
+      "name": "Bundle of Joy",
+      "url": "https://open.spotify.com/track/2161Op90HUoKwnJ7pJtknw"
+    },
+    {
+      "album": {
         "name": "Inside Out (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 > ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,638 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,644 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 49 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 |
 | 50 | [รู้ตัวอีกที](https://open.spotify.com/track/7kiPXq1mQ8yakcIYmqrw6t) | [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ) | [รู้ตัวอีกที](https://open.spotify.com/album/4r1iXiLyOrHnfn0v3NADld) | 3:10 |
 
-Snapshot ID: `AAAAALn6DnahLZ0lMQfz7TUt/gWcN94d`
+Snapshot ID: `AAAAALqQJBFRRd6Uee8HOr39Lmj1GJ6X`

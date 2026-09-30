@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Grupo Firme, Herencia de Grandes 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,781 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,852 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 51 | [Noviembre sin ti](https://open.spotify.com/track/7BLtU3BR7EK4QgRVIps6mB) | [Banda Kora](https://open.spotify.com/artist/7MukpbtV1qwZVPXNO0VpEW) | [Noviembre sin ti](https://open.spotify.com/album/6m2rTjYrkwyVMen5cI8Z5R) | 3:19 |
 | 52 | [La Playa \- En Vivo](https://open.spotify.com/track/4zM2huXe11EMZ40RU59Ddk) | [Pablito Osorio](https://open.spotify.com/artist/1ZhRNCRp4k0fGK6p8OPV9t) | [La Playa \(En Vivo\)](https://open.spotify.com/album/2e0ZoCE6CVBp8ggiXyutWr) | 3:30 |
 
-Snapshot ID: `AAAAAMRy9rCKHyoLlR1pqyPL7TgWLPFX`
+Snapshot ID: `AAAAADxQpecUlh8AQMc11Ov8BSfsao1T`

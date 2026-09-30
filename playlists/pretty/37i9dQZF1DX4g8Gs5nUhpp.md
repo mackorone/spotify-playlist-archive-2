@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Dangrangto
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,193 likes - 51 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,216 likes - 51 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 24 | [Bông Hoa Đẹp Nhất](https://open.spotify.com/track/4TyQKEifYDWTfTSRwpxlYI) | [Quân A.P](https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi) | [Bông Hoa Đẹp Nhất](https://open.spotify.com/album/1cHE0AXSVDsr6SHZxMh3cd) | 5:15 |
 | 25 | [Từng Là Của Nhau](https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt) | [Bảo Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Từng Là Của Nhau](https://open.spotify.com/album/59xrACzg1Ip2ellb2JSzCN) | 4:29 |
 | 26 | [Đã Lỡ Yêu Em Nhiều](https://open.spotify.com/track/3J3nv18iIrOhca1ZWNeuyW) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [Đã Lỡ Yêu Em Nhiều](https://open.spotify.com/album/2iJcC4EmfOE36Z2gS5OiSp) | 4:21 |
-| 27 | [Người Bình Thường](https://open.spotify.com/track/1fFvYVg1v3rpUSqKNCUh7b) | [VCT](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Người Bình Thường](https://open.spotify.com/album/3a6PHMBJmFYQtjkFU7hP6e) | 4:44 |
+| 27 | [Người Bình Thường](https://open.spotify.com/track/1fFvYVg1v3rpUSqKNCUh7b) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Người Bình Thường](https://open.spotify.com/album/3a6PHMBJmFYQtjkFU7hP6e) | 4:44 |
 | 28 | [Ai Ngoài Anh](https://open.spotify.com/track/6GM4ZOBDcDroldUxI8GZ2B) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [Triệu \(Phase 1 of 3\)](https://open.spotify.com/album/4P4Hymi1F14y3jj1wM9Zlo) | 3:19 |
 | 29 | [Người Đầu Tiên](https://open.spotify.com/track/5DB1UwivnS4gmcZ27TiYnE) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Người Đầu Tiên](https://open.spotify.com/album/785BxPJDvSZKiduXG0P1Cq) | 3:35 |
 | 30 | [DANCING IN THE DARK](https://open.spotify.com/track/6cc5PzJUddXskJGHJINw9F) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [BẬT NÓ LÊN](https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi) | 3:47 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 50 | [Em \(feat\. SOOBIN\)](https://open.spotify.com/track/0a32EBPjqAe47cYDPE5Ia5) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [Gặp Lại](https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4) | 4:56 |
 | 51 | [Người Im Lặng Gặp Người Hay Nói](https://open.spotify.com/track/0wvpRHXXuImyrccNEPAXBo) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Người Im Lặng Gặp Người Hay Nói](https://open.spotify.com/album/2E1SVr2mWpBXenivjz5cIh) | 4:16 |
 
-Snapshot ID: `AAAAAAuAGX9bgrXs2oli1nv+x3/qxdIk`
+Snapshot ID: `AAAAAJVaaqMkI2J60jnXixnl4pLmDCbf`

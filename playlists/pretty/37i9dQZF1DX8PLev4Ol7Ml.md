@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: RAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,991 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,995 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [光の花](https://open.spotify.com/track/1an3ReVTm0zkQATPiNQuTc) | [ラストシーン](https://open.spotify.com/artist/2KErwgsyc5OZjSdgpqcshy) | [Prologue](https://open.spotify.com/album/0Ayqn00mrn18pvB31oedJ0) | 4:06 |
 | 50 | [Daydreamers](https://open.spotify.com/track/5ZLpUUxnObw0NjCN1Q8a0A) | [Quubi](https://open.spotify.com/artist/0PcqeH6fXBeoIoQ0met7Zb) | [Daydreamers](https://open.spotify.com/album/5fyrLWwG319n9zy7ndildk) | 3:52 |
 
-Snapshot ID: `AAAAAAO7QrLgidwP3unO16erSfpq3GYS`
+Snapshot ID: `AAAAAIkICLIce5jjuQmayC0PFelr7UZf`

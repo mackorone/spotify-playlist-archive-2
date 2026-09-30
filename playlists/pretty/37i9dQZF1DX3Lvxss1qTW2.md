@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: T Dollar
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,784 likes - 79 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,830 likes - 79 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 78 | [Masculine Love](https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [On The Road](https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa) | 3:05 |
 | 79 | [Massacre The Show](https://open.spotify.com/track/49dafbmuBNj0DJEqdokKBv) | [Fergiee](https://open.spotify.com/artist/75yvKMzpIeYGyw5ElkoLYw), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Massacre The Show](https://open.spotify.com/album/3mF34OMq5P0rGAE6bCDBFd) | 2:13 |
 
-Snapshot ID: `AAAAAGVUIASEvuA4Zvn0t92f42V1tksO`
+Snapshot ID: `AAAAAAIwHbajvA3rgYvAtWbcemFdJa1/`

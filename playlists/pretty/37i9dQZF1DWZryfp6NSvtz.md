@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,890 likes - 198 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,115 likes - 198 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 197 | [Let Me Die \(Curled In Your Arms\)](https://open.spotify.com/track/37NKZWPHvDqPTS85cl5t74) | [Tough Cookie](https://open.spotify.com/artist/7uLaDKp4v0Ne2AAJjJZ1ZQ) | [Let Me Die \(Curled In Your Arms\)](https://open.spotify.com/album/3ug7nkRQFoALUm5h8OcOn5) | 3:56 |
 | 198 | [Shuteye](https://open.spotify.com/track/4YGTlrBgXFtaoTiPbu5DJN) | [Cheem](https://open.spotify.com/artist/2bRu14RxwtT4Uu9uZI3vdH) | [Shuteye](https://open.spotify.com/album/1dqKKacy1y8bo5b3ih81gQ) | 3:21 |
 
-Snapshot ID: `AAAAAJkYTpvd0GHUpKfM6/fQW0UW9xPE`
+Snapshot ID: `AAAAANVYwlEXD91W3AmJrLyZSeM+9lUd`

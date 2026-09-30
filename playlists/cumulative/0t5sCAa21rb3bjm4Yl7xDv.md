@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/0t5sCAa21rb3bjm4Yl7xDv.md) - cumulative - [plain](/playlists/plain/0t5sCAa21rb3bjm4Yl7xDv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0t5sCAa21rb3bjm4Yl7xDv)
 
-### [pop girl summer](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
+### [Pop Hits 2026](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
-> pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>.
+> pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Taylor Swift
 
 694 songs - 1 day 12 hr 47 min
 

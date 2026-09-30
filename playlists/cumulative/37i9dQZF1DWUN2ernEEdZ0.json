@@ -2092,8 +2092,12 @@
       },
       "artists": [
         {
-          "name": "Rudy Wiedoeft & Domenico Savino",
-          "url": "https://open.spotify.com/artist/2nlt7LDKmHhcLKErVZoGXp"
+          "name": "Rudy Wiedoeft",
+          "url": "https://open.spotify.com/artist/1ObDFAlS2ZEJr303587dWG"
+        },
+        {
+          "name": "Domenico Savino",
+          "url": "https://open.spotify.com/artist/0VkOz8A6o6tI4SOqyLKESm"
         },
         {
           "name": "Chad Smith",
@@ -2102,13 +2106,21 @@
         {
           "name": "Lynette Wardle",
           "url": "https://open.spotify.com/artist/6pyX33g9OV6FNlMCowj1v5"
+        },
+        {
+          "name": "John Wilson",
+          "url": "https://open.spotify.com/artist/1Y6MR8p9QIPxDXS99IYmyh"
+        },
+        {
+          "name": "Sinfonia Of London",
+          "url": "https://open.spotify.com/artist/14WdLIrDMYGjtKZIrgQg4z"
         }
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 238786,
-      "name": "Dans L\u2019Orient",
+      "name": "Dans l'orient (Arr. for Alto Saxophone & Harp by Lynette Wardle)",
       "url": "https://open.spotify.com/track/1RSHqgzv7qxksNDE9k8VTx"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "it's finally folk weather \ud83c\udf42",
-  "num_followers": 151938,
+  "num_followers": 151999,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANnBDpFv57nnws8VdAaEXpJJQgYa",
+  "snapshot_id": "AAAAAGe0Kbyk+xOmKGL7TaB8qoY6Whvq",
   "tracks": [
     {
       "added_at": "2026-09-22 04:00:41",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
     },
     {
+      "added_at": "2026-09-29 19:32:25",
+      "album": {
+        "name": "Mercy Kill (Schr\u00f6dinger's Cat)",
+        "url": "https://open.spotify.com/album/53Vg1kYw2p14ClsJkdXBMu"
+      },
+      "artists": [
+        {
+          "name": "Shallow Alcove",
+          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Mercy Kill (Schr\u00f6dinger's Cat)",
+      "url": "https://open.spotify.com/track/2wjE1Fc8Q3RsAohwZsVoyY"
+    },
+    {
       "added_at": "2026-09-22 12:26:44",
       "album": {
         "name": "I see them, I see me",
@@ -71,22 +87,6 @@
       "duration_ms": 193293,
       "name": "When You Look at Me",
       "url": "https://open.spotify.com/track/4vzmREv8I7PDPC95mK8t6V"
-    },
-    {
-      "added_at": "2026-09-25 04:02:34",
-      "album": {
-        "name": "Knots",
-        "url": "https://open.spotify.com/album/0yWiOlhHvZK3Hlwufafknq"
-      },
-      "artists": [
-        {
-          "name": "Dogs on Shady Lane",
-          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
-        }
-      ],
-      "duration_ms": 217738,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/5nuQm6FfSRHl5AFXAG63G0"
     },
     {
       "added_at": "2026-09-22 04:00:41",
@@ -105,7 +105,23 @@
       "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
     },
     {
-      "added_at": "2026-09-22 12:26:44",
+      "added_at": "2026-09-25 04:02:34",
+      "album": {
+        "name": "Knots",
+        "url": "https://open.spotify.com/album/0yWiOlhHvZK3Hlwufafknq"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "duration_ms": 217738,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/5nuQm6FfSRHl5AFXAG63G0"
+    },
+    {
+      "added_at": "2026-09-29 19:32:25",
       "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
@@ -116,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 229264,
-      "name": "Anybody's fool",
-      "url": "https://open.spotify.com/track/3rzwGm27A4GmgYKFUPJijZ"
+      "duration_ms": 235440,
+      "name": "A car wash and a new pair of pants",
+      "url": "https://open.spotify.com/track/2YgS9Lstqqrr8mo1KH2amW"
     },
     {
       "added_at": "2026-09-25 04:02:34",
@@ -231,6 +247,22 @@
       "duration_ms": 265912,
       "name": "True Feeling",
       "url": "https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ"
+    },
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 281544,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
     },
     {
       "added_at": "2026-09-18 14:01:21",
@@ -593,22 +625,6 @@
       "url": "https://open.spotify.com/track/7LmMHENSDglEpVEySzwz1y"
     },
     {
-      "added_at": "2026-08-14 04:01:50",
-      "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 281544,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
-    },
-    {
       "added_at": "2026-08-07 04:00:10",
       "album": {
         "name": "Officially",
@@ -639,6 +655,22 @@
       "duration_ms": 224595,
       "name": "The light in the painting",
       "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
+    },
+    {
+      "added_at": "2026-09-22 12:26:44",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 229264,
+      "name": "Anybody's fool",
+      "url": "https://open.spotify.com/track/3rzwGm27A4GmgYKFUPJijZ"
     },
     {
       "added_at": "2026-08-14 04:01:50",

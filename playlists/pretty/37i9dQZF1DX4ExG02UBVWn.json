@@ -1,12 +1,12 @@
 {
   "description": "for the late nights",
-  "num_followers": 20948,
+  "num_followers": 20950,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALRELvymWSKGXHxAy0iTQgSQ7Ezz",
+  "snapshot_id": "AAAAAFJvGhpeI3gATgHPGvOKDB9LjCeX",
   "tracks": [
     {
       "added_at": "2025-08-07 15:52:15",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Life's a Bitch, I Just Need an Early Night",
+        "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "Paradise Pending",
+      "url": "https://open.spotify.com/track/5eIoAHYIchR8fy07BIU5lF"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Mac Wetha & Friends",
         "url": "https://open.spotify.com/album/7ujjNbAACA0oxsQUjsLCuK"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 103953,
       "name": "Ode To Mumma",
       "url": "https://open.spotify.com/track/4wCgFIFfMoTcdb0JfMFbwd"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Life's a Bitch, I Just Need an Early Night",
-        "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 282773,
-      "name": "Paradise Pending",
-      "url": "https://open.spotify.com/track/5eIoAHYIchR8fy07BIU5lF"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Raining Colours",
-        "url": "https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN"
-      },
-      "artists": [
-        {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "Raining Colours",
-      "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Mountains",
         "url": "https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 157586,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Raining Colours",
+        "url": "https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN"
+      },
+      "artists": [
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "Raining Colours",
+      "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -927,26 +927,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY"
+        "name": "Elevator Music",
+        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
       },
       "artists": [
         {
-          "name": "MANIK MC",
-          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
-        },
-        {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
-        },
-        {
-          "name": "R-Kay",
-          "url": "https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2"
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu"
+      "duration_ms": 138775,
+      "name": "Babybrown",
+      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -971,6 +963,30 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY"
+      },
+      "artists": [
+        {
+          "name": "MANIK MC",
+          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
+        },
+        {
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
+        },
+        {
+          "name": "R-Kay",
+          "url": "https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Golden House",
         "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 162644,
       "name": "Golden House",
       "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Elevator Music",
-        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
-      },
-      "artists": [
-        {
-          "name": "KhakiKid",
-          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
-        }
-      ],
-      "duration_ms": 138775,
-      "name": "Babybrown",
-      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "money",
-        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 178536,
-      "name": "money",
-      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 207830,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "money",
+        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "money",
+      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "give it to me",
-        "url": "https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt"
-      },
-      "artists": [
-        {
-          "name": "Akemi Fox",
-          "url": "https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f"
-        }
-      ],
-      "duration_ms": 165148,
-      "name": "give it to me",
-      "url": "https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/2pRZiqyUIv3HdjRcf6jq9Y"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 203883,
       "name": "Please",
       "url": "https://open.spotify.com/track/5ozpzvONlBPM02tapw1ue6"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "give it to me",
+        "url": "https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt"
+      },
+      "artists": [
+        {
+          "name": "Akemi Fox",
+          "url": "https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f"
+        }
+      ],
+      "duration_ms": 165148,
+      "name": "give it to me",
+      "url": "https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Be My Friend",
-        "url": "https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt"
-      },
-      "artists": [
-        {
-          "name": "Sol Paradise",
-          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
-        }
-      ],
-      "duration_ms": 207759,
-      "name": "Be My Friend",
-      "url": "https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "honey lemon tea",
         "url": "https://open.spotify.com/album/694WwGLnOXDg8Mh44e4FbT"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Be My Friend",
+        "url": "https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt"
+      },
+      "artists": [
+        {
+          "name": "Sol Paradise",
+          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+        }
+      ],
+      "duration_ms": 207759,
+      "name": "Be My Friend",
+      "url": "https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "26% MIXTAPE",
         "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
       },
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Makin' You Mine/WHATCHUNEED",
-        "url": "https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin"
-      },
-      "artists": [
-        {
-          "name": "Kaesu",
-          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9"
-        }
-      ],
-      "duration_ms": 138916,
-      "name": "Makin' You Mine",
-      "url": "https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "\u2605SLEEPY\u2605",
         "url": "https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 134437,
       "name": "\u2605SLEEPY\u2605",
       "url": "https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Makin' You Mine/WHATCHUNEED",
+        "url": "https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin"
+      },
+      "artists": [
+        {
+          "name": "Kaesu",
+          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9"
+        }
+      ],
+      "duration_ms": 138916,
+      "name": "Makin' You Mine",
+      "url": "https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "New Hands/Writers Block",
-        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
-      },
-      "artists": [
-        {
-          "name": "Liv Walker",
-          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
-        }
-      ],
-      "duration_ms": 174015,
-      "name": "New Hands/Writers Block",
-      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Intertwined",
         "url": "https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 352999,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "New Hands/Writers Block",
+        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
+      },
+      "artists": [
+        {
+          "name": "Liv Walker",
+          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
+        }
+      ],
+      "duration_ms": 174015,
+      "name": "New Hands/Writers Block",
+      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "iwtwbaigwap",
+        "url": "https://open.spotify.com/album/01qWaldD9EFvYQ2s8sqomL"
+      },
+      "artists": [
+        {
+          "name": "Leo Chavez",
+          "url": "https://open.spotify.com/artist/6npO5NDb1R8inkVKOF67Xv"
+        }
+      ],
+      "duration_ms": 235374,
+      "name": "iwtwbaigwap",
+      "url": "https://open.spotify.com/track/3lUc5HxGOxHH4muIZSeOp6"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Truth and Desire",
         "url": "https://open.spotify.com/album/4gwEhu0t5psIePibLNyxQP"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 162565,
       "name": "Helicopter",
       "url": "https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "LONG TERM PARKING",
-        "url": "https://open.spotify.com/album/0PT0jL8kzWpJs43y2oWMzu"
-      },
-      "artists": [
-        {
-          "name": "Luke RV",
-          "url": "https://open.spotify.com/artist/4q7ILdeeWJ4NqBtYp0l7Yd"
-        }
-      ],
-      "duration_ms": 162797,
-      "name": "LONG TERM PARKING",
-      "url": "https://open.spotify.com/track/1oG8QZlA2QqBHWsen9oM6e"
     }
   ],
   "unique_name": "the night bus",

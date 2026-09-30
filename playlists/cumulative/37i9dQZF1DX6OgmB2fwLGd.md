@@ -4,7 +4,7 @@
 
 > beautysleep\_hyper\_sleaze.electro\_glitch\_ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢\_\[FINAL\]\_\[REAL\]\_\_coverartist.janeremover
 
-1,475 songs - 2 day 13 hr 31 min
+1,476 songs - 2 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [a gentle gigg...](https://open.spotify.com/track/1goQhPlu2xq4GT8ZM2eiu7) | [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp), [Jake Chapman](https://open.spotify.com/artist/61vqterkbDdQxQ1IO0Oybx) | [a gentle gigg...](https://open.spotify.com/album/2dKS8Oj7T9u7U3UzAtVbJk) | 1:54 | 2024-04-30 | 2024-05-22 |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2023-12-18 | 2024-03-09 |
 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-08 | 2025-03-28 |
+| [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/track/265m78JMXBWdUIft3ch7Ez) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/album/2sjKZOLNyQl0Glf0sev6Ie) | 3:00 | 2026-09-29 |  |
 | [ADDICTIONZ](https://open.spotify.com/track/1IUwqTUTXQ1ZWlEf1t9tVN) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [ADDICTIONZ](https://open.spotify.com/album/0ZcCz3lNq2kMdvY4oqnCyX) | 3:15 | 2026-02-07 | 2026-03-21 |
 | [ADHD](https://open.spotify.com/track/2NnYebjJbFNce6q7vVYRsc) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [ADHD](https://open.spotify.com/album/3gRHDUqZGMb4wnHBPvk5OL) | 2:30 | 2023-04-12 | 2023-08-05 |
 | [Adventure Time \(racks on my body\)](https://open.spotify.com/track/1ct9U5KUpvDWXnzNIvi8B4) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Adventure Time \(racks on my body\)](https://open.spotify.com/album/6W6ApdMUtenHgAPV61Wmpt) | 3:14 | 2024-02-16 | 2024-10-26 |
@@ -1309,7 +1310,7 @@
 | [The One](https://open.spotify.com/track/758C6C3KdPkzKWW7ADobsA) | [Suzy Sheer](https://open.spotify.com/artist/50p44UTSqyTs7BBHCeQq2V), [DJH](https://open.spotify.com/artist/3WgUHWrtChAtmsFqAIgkiF), [Chandler Moss](https://open.spotify.com/artist/5FiliBgMxSJfakDN7xcxvC) | [The One](https://open.spotify.com/album/4gcRKXDe7AfqNTvz5py455) | 2:29 | 2026-04-03 | 2026-06-13 |
 | [The Peace \- Frost Children Remix](https://open.spotify.com/track/5JYnDZ4TbzXbWeKu7gkVTj) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Unlimited Love b/w The Peace \(Frost Children Remix\)](https://open.spotify.com/album/2tP52mdSGd9kBtAlzevo4E) | 3:56 | 2026-08-28 |  |
 | [the Rake \(can’t complain\)](https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF) | 3:01 | 2023-09-22 | 2024-02-03 |
-| [The Recorded Message \- A Message](https://open.spotify.com/track/0TgX2xB8t0aXZeRCAcs4TZ) | [Sacred holes](https://open.spotify.com/artist/3ArVB9NfEWxfdbDmYdGWdK), [wackoes](https://open.spotify.com/artist/39WfM43xs5qbVCrSkBeOFW) | [From There To There...](https://open.spotify.com/album/3R16VwJkbU8M5NWncfdDtf) | 2:13 | 2026-09-04 |  |
+| [The Recorded Message \- A Message](https://open.spotify.com/track/0TgX2xB8t0aXZeRCAcs4TZ) | [Sacred holes](https://open.spotify.com/artist/3ArVB9NfEWxfdbDmYdGWdK), [wackoes](https://open.spotify.com/artist/39WfM43xs5qbVCrSkBeOFW) | [From There To There...](https://open.spotify.com/album/3R16VwJkbU8M5NWncfdDtf) | 2:13 | 2026-09-04 | 2026-09-30 |
 | [The Viper](https://open.spotify.com/track/2JapCT0xikq6Fy1PQiJz1C) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Viper](https://open.spotify.com/album/3cQR7hyzZEbwAESuPEu8qR) | 2:30 | 2024-10-25 | 2026-02-08 |
 | [theclubrock](https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3) | [Benny Bellson](https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6) | [theclubrock](https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc) | 2:02 | 2026-02-20 | 2026-03-21 |
 | [They Know](https://open.spotify.com/track/3CTNbg25Mg58J1jJbuWILY) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Just Tired 2](https://open.spotify.com/album/3jiS4FdWQFwnitsYQ5Gwwb) | 2:24 | 2024-01-05 | 2024-05-22 |

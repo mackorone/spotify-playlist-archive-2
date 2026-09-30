@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1593825,
+  "num_followers": 1593911,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMO4NEFuYAt14h0Ew3d5K1MfGlo9",
+  "snapshot_id": "AAAAADEA1wDeUePslzD2BfUTbx/YuE13",
   "tracks": [
     {
       "added_at": "2026-09-25 04:02:07",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-09-25 04:02:07",
       "album": {
-        "name": "GOD flow.",
-        "url": "https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 209302,
-      "name": "GOD flow.",
-      "url": "https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl"
-    },
-    {
-      "added_at": "2026-09-25 04:02:07",
-      "album": {
         "name": "Resurrection",
         "url": "https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 233226,
       "name": "Photographic Memories (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/3RRjRfsNJ4A5Y3qAgQgAjD"
+    },
+    {
+      "added_at": "2026-09-25 04:02:07",
+      "album": {
+        "name": "GOD flow.",
+        "url": "https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 209302,
+      "name": "GOD flow.",
+      "url": "https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl"
     },
     {
       "added_at": "2026-09-25 04:02:07",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-09-25 04:02:07",
       "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/2RnwESL833DuPq9ch1pkD7"
+      },
+      "artists": [
+        {
+          "name": "ICXN",
+          "url": "https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 184335,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG"
+    },
+    {
+      "added_at": "2026-09-25 04:02:07",
+      "album": {
         "name": "About Time",
         "url": "https://open.spotify.com/album/0WscwmldrRO4vgFQchLPIV"
       },
@@ -1027,46 +1047,6 @@
     {
       "added_at": "2026-09-25 04:02:07",
       "album": {
-        "name": "PAELLA!",
-        "url": "https://open.spotify.com/album/748mYgp3r7ovOvtIuZ6NSJ"
-      },
-      "artists": [
-        {
-          "name": "Stoic",
-          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
-        },
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 152142,
-      "name": "PAY NO MIND",
-      "url": "https://open.spotify.com/track/3SFUGati8EkaLj6rO3iXMt"
-    },
-    {
-      "added_at": "2026-09-25 04:02:07",
-      "album": {
-        "name": "NOBODY",
-        "url": "https://open.spotify.com/album/2RnwESL833DuPq9ch1pkD7"
-      },
-      "artists": [
-        {
-          "name": "ICXN",
-          "url": "https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj"
-        },
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 184335,
-      "name": "NOBODY",
-      "url": "https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG"
-    },
-    {
-      "added_at": "2026-09-25 04:02:07",
-      "album": {
         "name": "Escape Music",
         "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 236759,
       "name": "SOS",
       "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
+    },
+    {
+      "added_at": "2026-09-25 04:02:07",
+      "album": {
+        "name": "PAELLA!",
+        "url": "https://open.spotify.com/album/748mYgp3r7ovOvtIuZ6NSJ"
+      },
+      "artists": [
+        {
+          "name": "Stoic",
+          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 152142,
+      "name": "PAY NO MIND",
+      "url": "https://open.spotify.com/track/3SFUGati8EkaLj6rO3iXMt"
     },
     {
       "added_at": "2026-09-25 04:02:07",
@@ -1547,30 +1547,6 @@
     {
       "added_at": "2026-09-25 04:02:07",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/0I4rNrQwJ8Ckk5iaShqjx7"
-      },
-      "artists": [
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Termanology",
-          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
-        },
-        {
-          "name": "Bun B",
-          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
-        }
-      ],
-      "duration_ms": 236913,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/7xZ4p4vVt6m8pXIYuH0pMv"
-    },
-    {
-      "added_at": "2026-09-25 04:02:07",
-      "album": {
         "name": "Madvillainy Demos",
         "url": "https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ"
       },
@@ -1591,6 +1567,30 @@
       "duration_ms": 166016,
       "name": "Just for Kicks (\u201cMeat Grinder\u201d demo)",
       "url": "https://open.spotify.com/track/0xSGp6VPeckr3Inxz3IrA9"
+    },
+    {
+      "added_at": "2026-09-25 04:02:07",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/0I4rNrQwJ8Ckk5iaShqjx7"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Termanology",
+          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "duration_ms": 236913,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/7xZ4p4vVt6m8pXIYuH0pMv"
     },
     {
       "added_at": "2026-09-25 04:02:07",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-09-25 04:02:07",
       "album": {
+        "name": "Dont Wanna C Me Rich",
+        "url": "https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 141172,
+      "name": "Dont Wanna C Me Rich",
+      "url": "https://open.spotify.com/track/3D1fiZW2BZf7QpbqhgFtwb"
+    },
+    {
+      "added_at": "2026-09-25 04:02:07",
+      "album": {
         "name": "Piece of Mind",
         "url": "https://open.spotify.com/album/1nCfFkzf3lCuIrJV1K6HNR"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 187267,
       "name": "Piece of Mind",
       "url": "https://open.spotify.com/track/4u9cC6bAuMqvyOsLHLJlBy"
-    },
-    {
-      "added_at": "2026-09-25 04:02:07",
-      "album": {
-        "name": "Dont Wanna C Me Rich",
-        "url": "https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu"
-      },
-      "artists": [
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 141172,
-      "name": "Dont Wanna C Me Rich",
-      "url": "https://open.spotify.com/track/3D1fiZW2BZf7QpbqhgFtwb"
     },
     {
       "added_at": "2026-09-25 04:02:07",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-09-25 04:02:07",
       "album": {
-        "name": "WHY EQUALS SELF",
-        "url": "https://open.spotify.com/album/0lFmnxm54U0HeJTbeWm1bN"
-      },
-      "artists": [
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        }
-      ],
-      "duration_ms": 242787,
-      "name": "THE LIVING LIGHT",
-      "url": "https://open.spotify.com/track/6YTO8NQvqaTXUOiycutghC"
-    },
-    {
-      "added_at": "2026-09-25 04:02:07",
-      "album": {
         "name": "PRiNCE GEORGE",
         "url": "https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 165853,
       "name": "PRiNCE GEORGE",
       "url": "https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ"
+    },
+    {
+      "added_at": "2026-09-25 04:02:07",
+      "album": {
+        "name": "WHY EQUALS SELF",
+        "url": "https://open.spotify.com/album/0lFmnxm54U0HeJTbeWm1bN"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        }
+      ],
+      "duration_ms": 242787,
+      "name": "THE LIVING LIGHT",
+      "url": "https://open.spotify.com/track/6YTO8NQvqaTXUOiycutghC"
     },
     {
       "added_at": "2026-09-25 04:02:07",
@@ -1867,6 +1867,30 @@
     {
       "added_at": "2026-09-25 04:02:07",
       "album": {
+        "name": "FRIENDLY FIRE",
+        "url": "https://open.spotify.com/album/51Sff7vFg9shG3eRSRPE50"
+      },
+      "artists": [
+        {
+          "name": "PARTYOF2",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "FRIENDLY FIRE (with Jadagrace and SWIM)",
+      "url": "https://open.spotify.com/track/7EefaTBcP8s9qH7JvEXwoR"
+    },
+    {
+      "added_at": "2026-09-25 04:02:07",
+      "album": {
         "name": "Love N Drugs",
         "url": "https://open.spotify.com/album/06WRkCTuAtCNqckOGrrksm"
       },
@@ -1891,26 +1915,22 @@
     {
       "added_at": "2026-09-25 04:02:07",
       "album": {
-        "name": "FRIENDLY FIRE",
-        "url": "https://open.spotify.com/album/51Sff7vFg9shG3eRSRPE50"
+        "name": "Boulangerie Deux",
+        "url": "https://open.spotify.com/album/5CZtgilZ3n33w3UYcZb8IZ"
       },
       "artists": [
         {
-          "name": "PARTYOF2",
-          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
         },
         {
-          "name": "Jadagrace",
-          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
-        },
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 191826,
-      "name": "FRIENDLY FIRE (with Jadagrace and SWIM)",
-      "url": "https://open.spotify.com/track/7EefaTBcP8s9qH7JvEXwoR"
+      "duration_ms": 151578,
+      "name": "More Colour Money",
+      "url": "https://open.spotify.com/track/3qKdA6xmnt3mW5yMHgseq9"
     },
     {
       "added_at": "2026-09-25 04:02:07",
@@ -1951,22 +1971,6 @@
       "duration_ms": 139073,
       "name": "Calamari",
       "url": "https://open.spotify.com/track/3nL8tfuOypFqXE3oy4fnvb"
-    },
-    {
-      "added_at": "2026-09-25 04:02:07",
-      "album": {
-        "name": "Quiet Miles",
-        "url": "https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "Blueberry",
-      "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
     },
     {
       "added_at": "2026-09-25 04:02:07",

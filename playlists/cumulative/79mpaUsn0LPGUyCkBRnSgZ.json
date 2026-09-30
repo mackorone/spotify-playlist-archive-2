@@ -8275,6 +8275,24 @@
     },
     {
       "album": {
+        "name": "Cooked",
+        "url": "https://open.spotify.com/album/0rqyaE19Aj47roRdxNDixw"
+      },
+      "artists": [
+        {
+          "name": "Oren Ambarchi",
+          "url": "https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1301186,
+      "name": "Hidden Tableau",
+      "url": "https://open.spotify.com/track/3i8wZgyyGnieoRknDKk2yU"
+    },
+    {
+      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
@@ -19292,6 +19310,24 @@
       "duration_ms": 126000,
       "name": "The Age of Innocence",
       "url": "https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs"
+    },
+    {
+      "album": {
+        "name": "Pugnello",
+        "url": "https://open.spotify.com/album/5pTvVhdMVV24CQep4GA38F"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210645,
+      "name": "The Angelus",
+      "url": "https://open.spotify.com/track/4A0QHu28PMx55INweuMMN9"
     },
     {
       "album": {

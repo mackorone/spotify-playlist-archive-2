@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Relaxing sounds for a pampering spa experience
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,879 likes - 165 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,920 likes - 165 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 | 164 | [Soulful](https://open.spotify.com/track/2JGwdGQjQN3fmpjmuyZekd) | [La Luce](https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz) | [Soulful](https://open.spotify.com/album/3D4g9Z3kQK5Tneeo67C2YS) | 2:43 |
 | 165 | [Into Gold](https://open.spotify.com/track/44OwVouutuSeFOI0lTijcC) | [Anna Murakami](https://open.spotify.com/artist/2kEfDMbRORDJWTJQhAxbws) | [Into Gold](https://open.spotify.com/album/65gVreMJNWcRNI6dQyQD5X) | 2:49 |
 
-Snapshot ID: `AAAAAAdvDU23zrKN0ghHaXfMn9ftRgEK`
+Snapshot ID: `AAAAALhPftVxv7Eu0xcDFiCHp/2yXIrd`

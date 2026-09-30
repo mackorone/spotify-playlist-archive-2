@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > SETTEMBRE in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,295 likes - 96 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,289 likes - 96 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 95 | [Kissing you away](https://open.spotify.com/track/1bMBYi2vwf7zDhbakuH9KO) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Kissing you away](https://open.spotify.com/album/0OUFRebnrsegnjiN0bfM2n) | 3:18 |
 | 96 | [Don't Leave Me](https://open.spotify.com/track/2ffnJc4c1n5qeOCh8DFYyz) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y) | [Don't Leave Me](https://open.spotify.com/album/2gr4bV7obIqVAFkpwfE2ma) | 3:14 |
 
-Snapshot ID: `AAAAAE6T6sdK4WBXucKs7ijPVjAfwjaT`
+Snapshot ID: `AAAAAN40d64QgnC2uUjWf/541cmTY1ba`

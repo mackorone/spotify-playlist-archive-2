@@ -4,7 +4,7 @@
 
 > The Ultimate EA SPORTS FC Playlist: a celebration of The World's Game, curated specially for you.
 
-387 songs - 22 hr 54 min
+388 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Splitting The Atom](https://open.spotify.com/track/1r9mGafUiSgumJoRqyLrSt) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 5:16 | 2022-11-07 | 2026-06-06 |
 | [Still a Soldier](https://open.spotify.com/track/0NnrJX6bPLIIEhH1XHcmsN) | [Ancient Astronauts](https://open.spotify.com/artist/09JW90QIws2Z3H8hxL5fFN) | [Into Bass and Time](https://open.spotify.com/album/0ZZIJm9W5fNszT2PC4dI7z) | 3:48 | 2026-06-26 | 2026-07-04 |
 | [Stop This Flame](https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Stop This Flame](https://open.spotify.com/album/2dgxfbASZ7HDFEGFRNwbTr) | 3:29 | 2026-06-12 | 2026-06-20 |
+| [STORM I](https://open.spotify.com/track/75kRRY9tR1RsymoFSbTFJB) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 3:29 | 2026-09-22 |  |
 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 | 2026-09-10 |  |
 | [Subida](https://open.spotify.com/track/3h0MdHT5y596qK1sOOVqKf) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [Subida](https://open.spotify.com/album/46G9ZcNtZG7ghmJrW5eibY) | 2:37 | 2026-06-19 | 2026-06-27 |
 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 | 2022-11-07 |  |
@@ -354,7 +355,7 @@
 | [Una Sola Voz](https://open.spotify.com/track/0w8Cl2ZUpE4uoOVNZ5DYVD) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [El Murmullo Del Fuego](https://open.spotify.com/album/74IZPV6CB1eAWgm1e7TBgq) | 3:26 | 2026-07-10 | 2026-07-18 |
 | [Untouched](https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37) | 4:15 | 2026-06-05 |  |
 | [Upset & Aggressive](https://open.spotify.com/track/2IaME6ZbdnNc2CvDeRFhhj) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:31 | 2026-06-12 | 2026-06-20 |
-| [UYUNI](https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 2:37 | 2026-06-05 |  |
+| [UYUNI](https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 2:37 | 2026-06-05 | 2026-09-30 |
 | [Vem](https://open.spotify.com/track/2Ga6DGCB9Lt5b8ls5UCSNp) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Vem](https://open.spotify.com/album/4DOhTRGHx7Y3xoIRgbFyAR) | 2:55 | 2026-06-19 | 2026-06-27 |
 | [Vem com tudo](https://open.spotify.com/track/3mTMQ4ceGNWhfnH5IYKpkO) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Vem com tudo](https://open.spotify.com/album/4TfLV1HjFS4uh08o8ZlsaE) | 3:14 | 2026-06-19 | 2026-06-27 |
 | [Verstrahlt](https://open.spotify.com/track/3FPodJpdg8fO5549WBcBIC) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Zum Glück in die Zukunft \(Premium Version\)](https://open.spotify.com/album/0UQKjFvWFL1FLA32Dc8BXp) | 3:54 | 2026-06-26 | 2026-07-04 |

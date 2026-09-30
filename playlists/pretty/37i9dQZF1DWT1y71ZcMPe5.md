@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,193,896 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,193,792 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [bed you made](https://open.spotify.com/track/15oRJuG8nxJ08GadsZZ0m9) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [bed you made](https://open.spotify.com/album/67qkK2JfRlV4OSW72X5gAa) | 3:22 |
 | 50 | [Blingy](https://open.spotify.com/track/0EOAaYE4KAVp67jwtQvbmB) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [BLINGY \- The 7th Album](https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120) | 3:21 |
 
-Snapshot ID: `AAAAAMLIuOtyO4tId6FaO5/MLZYBOEJZ`
+Snapshot ID: `AAAAAN25uASJE4OzIVspjnBZYtwYTaHT`

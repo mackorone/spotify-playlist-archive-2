@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166912,
+  "num_followers": 166915,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJqTcXAPuFHJy6W3YpSSxsiyanj1",
+  "snapshot_id": "AAAAAHRCwhudSEyYdfiUkS9wfAReKnA7",
   "tracks": [
     {
       "added_at": "2026-09-17 23:01:00",
@@ -339,6 +339,26 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
+        "name": "Lose It All",
+        "url": "https://open.spotify.com/album/5i8IP4wrPsUYEI3bQISNMe"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        },
+        {
+          "name": "Kaya Vitalis",
+          "url": "https://open.spotify.com/artist/2JlV6S5ko0BCkx0BxG7SGP"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Lose It All",
+      "url": "https://open.spotify.com/track/0Zq2IfabhVry15laf5Irtk"
+    },
+    {
+      "added_at": "2026-09-17 23:01:00",
+      "album": {
         "name": "Touchdown",
         "url": "https://open.spotify.com/album/2JbAFeht78XUXee4bk7w5F"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 176000,
       "name": "Flex It",
       "url": "https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm"
-    },
-    {
-      "added_at": "2026-09-17 23:01:00",
-      "album": {
-        "name": "Lose It All",
-        "url": "https://open.spotify.com/album/5i8IP4wrPsUYEI3bQISNMe"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        },
-        {
-          "name": "Kaya Vitalis",
-          "url": "https://open.spotify.com/artist/2JlV6S5ko0BCkx0BxG7SGP"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Lose It All",
-      "url": "https://open.spotify.com/track/0Zq2IfabhVry15laf5Irtk"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -447,26 +447,18 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
-        "name": "Bodybag",
-        "url": "https://open.spotify.com/album/2RTt2Rls9gk9Li1XRfKg6T"
+        "name": "Godzilla",
+        "url": "https://open.spotify.com/album/2E2jt5kAro9LBfauaoynM6"
       },
       "artists": [
         {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
         }
       ],
-      "duration_ms": 170057,
-      "name": "Bodybag",
-      "url": "https://open.spotify.com/track/3z4PR5rouZvYh7QSOVflts"
+      "duration_ms": 223912,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/1pUBYFaXLMURNA6Slof9Mm"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -487,6 +479,30 @@
       "duration_ms": 203294,
       "name": "fondofme",
       "url": "https://open.spotify.com/track/0vAFaI4Dx0qdhRR1WmlIU7"
+    },
+    {
+      "added_at": "2026-09-17 23:01:00",
+      "album": {
+        "name": "Bodybag",
+        "url": "https://open.spotify.com/album/2RTt2Rls9gk9Li1XRfKg6T"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/3z4PR5rouZvYh7QSOVflts"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -539,18 +555,22 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
-        "name": "Godzilla",
-        "url": "https://open.spotify.com/album/2E2jt5kAro9LBfauaoynM6"
+        "name": "Through The Pain (feat. Pozer)",
+        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
       },
       "artists": [
         {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
         }
       ],
-      "duration_ms": 223912,
-      "name": "Godzilla",
-      "url": "https://open.spotify.com/track/1pUBYFaXLMURNA6Slof9Mm"
+      "duration_ms": 180520,
+      "name": "Through The Pain (feat. Pozer)",
+      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -575,26 +595,6 @@
       "duration_ms": 192000,
       "name": "Ya Mind",
       "url": "https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog"
-    },
-    {
-      "added_at": "2026-09-17 23:01:00",
-      "album": {
-        "name": "Through The Pain (feat. Pozer)",
-        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Pozer",
-          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Through The Pain (feat. Pozer)",
-      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -739,30 +739,6 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/2OtAdGwLY73ChCSO8IWOiR"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        },
-        {
-          "name": "Sudley",
-          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
-        },
-        {
-          "name": "Hedara",
-          "url": "https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/323rqeIcQxJCc0gZjYegUN"
-    },
-    {
-      "added_at": "2026-09-17 23:01:00",
-      "album": {
         "name": "Strong Like Lion",
         "url": "https://open.spotify.com/album/2Cs03yrg3fBzjMlw2YTv4x"
       },
@@ -787,6 +763,30 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/2OtAdGwLY73ChCSO8IWOiR"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        },
+        {
+          "name": "Hedara",
+          "url": "https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/323rqeIcQxJCc0gZjYegUN"
+    },
+    {
+      "added_at": "2026-09-17 23:01:00",
+      "album": {
         "name": "One Last Tear",
         "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
       },
@@ -799,6 +799,30 @@
       "duration_ms": 140232,
       "name": "One Last Tear",
       "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
+    },
+    {
+      "added_at": "2026-09-17 23:01:00",
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/0coZoi5RIGHl1myhhZLZi6"
+      },
+      "artists": [
+        {
+          "name": "Loboski",
+          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
+        },
+        {
+          "name": "T-Lex",
+          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/4owdWOLUOV9GuYxaTRIcdu"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -835,30 +859,6 @@
       "duration_ms": 266742,
       "name": "Forever",
       "url": "https://open.spotify.com/track/09FPGnR2R4t3v1FgIBGBJD"
-    },
-    {
-      "added_at": "2026-09-17 23:01:00",
-      "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/0coZoi5RIGHl1myhhZLZi6"
-      },
-      "artists": [
-        {
-          "name": "Loboski",
-          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
-        },
-        {
-          "name": "T-Lex",
-          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/4owdWOLUOV9GuYxaTRIcdu"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
-        "name": "King of the Dancefloor",
-        "url": "https://open.spotify.com/album/0n1SKP7iUYc8oNjRPVlqQm"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 227657,
-      "name": "King of the Dancefloor",
-      "url": "https://open.spotify.com/track/7EQXA9lc7yRI3ZUQbPBYgT"
-    },
-    {
-      "added_at": "2026-09-17 23:01:00",
-      "album": {
         "name": "What Ya Got 4 Me",
         "url": "https://open.spotify.com/album/2XSkX0vlcgxhUQ34vH6eHw"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
-        "name": "Under The Lights",
-        "url": "https://open.spotify.com/album/72TndTrZxl1QgXR4dXbnbi"
+        "name": "King of the Dancefloor",
+        "url": "https://open.spotify.com/album/0n1SKP7iUYc8oNjRPVlqQm"
       },
       "artists": [
         {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
         }
       ],
-      "duration_ms": 200228,
-      "name": "Under The Lights",
-      "url": "https://open.spotify.com/track/1lgVrLUtXVVOdRNwqyViYv"
+      "duration_ms": 227657,
+      "name": "King of the Dancefloor",
+      "url": "https://open.spotify.com/track/7EQXA9lc7yRI3ZUQbPBYgT"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -999,6 +983,22 @@
       "duration_ms": 168000,
       "name": "Thriller in Manila",
       "url": "https://open.spotify.com/track/2ir9VrFfUFq1AdOqKSKLPS"
+    },
+    {
+      "added_at": "2026-09-17 23:01:00",
+      "album": {
+        "name": "Under The Lights",
+        "url": "https://open.spotify.com/album/72TndTrZxl1QgXR4dXbnbi"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Under The Lights",
+      "url": "https://open.spotify.com/track/1lgVrLUtXVVOdRNwqyViYv"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
-        "name": "Shots",
-        "url": "https://open.spotify.com/album/6sMdtZ7XvgQkKXLN8GOaYJ"
-      },
-      "artists": [
-        {
-          "name": "Doctor P",
-          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
-        }
-      ],
-      "duration_ms": 165633,
-      "name": "Shots",
-      "url": "https://open.spotify.com/track/6n2dsqVfYlSCAcTqOkS61R"
-    },
-    {
-      "added_at": "2026-09-17 23:01:00",
-      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/2eZH1iX2yegT5rtfqf8mIc"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 195899,
       "name": "SKULL",
       "url": "https://open.spotify.com/track/7sfD7PUvDp0TmvJTTz7KTi"
+    },
+    {
+      "added_at": "2026-09-17 23:01:00",
+      "album": {
+        "name": "Shots",
+        "url": "https://open.spotify.com/album/6sMdtZ7XvgQkKXLN8GOaYJ"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "duration_ms": 165633,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/6n2dsqVfYlSCAcTqOkS61R"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
+        "name": "Check 2 (feat. Paul Stephan)",
+        "url": "https://open.spotify.com/album/4OC9mwcMzU06jQNYoqYJpc"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Paul Stephan",
+          "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF"
+        }
+      ],
+      "duration_ms": 157288,
+      "name": "Check 2 (feat. Paul Stephan)",
+      "url": "https://open.spotify.com/track/0sodHuvSUwDegzgyM9xy1c"
+    },
+    {
+      "added_at": "2026-09-17 23:01:00",
+      "album": {
         "name": "Frequency",
         "url": "https://open.spotify.com/album/170iWlGXwwBb1eAX0tnqqS"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 198428,
       "name": "I\u2019m Confused",
       "url": "https://open.spotify.com/track/23IMx0AeVBouS72DfACGQt"
-    },
-    {
-      "added_at": "2026-09-17 23:01:00",
-      "album": {
-        "name": "Check 2 (feat. Paul Stephan)",
-        "url": "https://open.spotify.com/album/4OC9mwcMzU06jQNYoqYJpc"
-      },
-      "artists": [
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "Paul Stephan",
-          "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF"
-        }
-      ],
-      "duration_ms": 157288,
-      "name": "Check 2 (feat. Paul Stephan)",
-      "url": "https://open.spotify.com/track/0sodHuvSUwDegzgyM9xy1c"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
+        "name": "Got 2 Feel",
+        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "Got 2 Feel",
+      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
+    },
+    {
+      "added_at": "2026-09-17 23:01:00",
+      "album": {
         "name": "Do You",
         "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
       },
@@ -1311,38 +1327,22 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
-        "name": "Metaphors",
-        "url": "https://open.spotify.com/album/0gIYJrVFV8irAL4CQcZBio"
+        "name": "Onslaught",
+        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
       },
       "artists": [
         {
-          "name": "Benny L",
-          "url": "https://open.spotify.com/artist/5l4uVbRaFx2kxzudLXO2H0"
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
         },
         {
-          "name": "Cleveland Watkiss",
-          "url": "https://open.spotify.com/artist/4O3uTQDgtY11QKfX4VJruc"
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
         }
       ],
-      "duration_ms": 570514,
-      "name": "Metaphors",
-      "url": "https://open.spotify.com/track/0RajrHrYkr0zHJMqyrvdSF"
-    },
-    {
-      "added_at": "2026-09-17 23:01:00",
-      "album": {
-        "name": "Got 2 Feel",
-        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "Got 2 Feel",
-      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
+      "duration_ms": 181718,
+      "name": "Onslaught",
+      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -1367,22 +1367,22 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
-        "name": "Onslaught",
-        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
+        "name": "Metaphors",
+        "url": "https://open.spotify.com/album/0gIYJrVFV8irAL4CQcZBio"
       },
       "artists": [
         {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+          "name": "Benny L",
+          "url": "https://open.spotify.com/artist/5l4uVbRaFx2kxzudLXO2H0"
         },
         {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+          "name": "Cleveland Watkiss",
+          "url": "https://open.spotify.com/artist/4O3uTQDgtY11QKfX4VJruc"
         }
       ],
-      "duration_ms": 181718,
-      "name": "Onslaught",
-      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
+      "duration_ms": 570514,
+      "name": "Metaphors",
+      "url": "https://open.spotify.com/track/0RajrHrYkr0zHJMqyrvdSF"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -1563,6 +1563,34 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
+        "name": "Take Out Your Team",
+        "url": "https://open.spotify.com/album/0bN4b10nR6LqR49LBx6GJP"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        },
+        {
+          "name": "Diligent Fingers",
+          "url": "https://open.spotify.com/artist/7fhR0zu3yR5uXhOUQxByvd"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 179524,
+      "name": "Take Out Your Team",
+      "url": "https://open.spotify.com/track/77IBgCz11N1VGdh4gkZr1H"
+    },
+    {
+      "added_at": "2026-09-17 23:01:00",
+      "album": {
         "name": "Ring Doorbell",
         "url": "https://open.spotify.com/album/0FRunFsZtqZ4TPely2oAWI"
       },
@@ -1595,34 +1623,6 @@
       "duration_ms": 141257,
       "name": "Ring Doorbell",
       "url": "https://open.spotify.com/track/0wu99QsiUQoR9coj3qY8Pa"
-    },
-    {
-      "added_at": "2026-09-17 23:01:00",
-      "album": {
-        "name": "Take Out Your Team",
-        "url": "https://open.spotify.com/album/0bN4b10nR6LqR49LBx6GJP"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        },
-        {
-          "name": "Diligent Fingers",
-          "url": "https://open.spotify.com/artist/7fhR0zu3yR5uXhOUQxByvd"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 179524,
-      "name": "Take Out Your Team",
-      "url": "https://open.spotify.com/track/77IBgCz11N1VGdh4gkZr1H"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -1983,26 +1983,6 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
-        "name": "Vigilante Kru",
-        "url": "https://open.spotify.com/album/1P7FPeseMqPGKZqK8Co3Jf"
-      },
-      "artists": [
-        {
-          "name": "Mandidextrous",
-          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
-        },
-        {
-          "name": "Samurai Breaks",
-          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Vigilante Kru",
-      "url": "https://open.spotify.com/track/1j4acW0PPOmjeiSEXzM2Cy"
-    },
-    {
-      "added_at": "2026-09-17 23:01:00",
-      "album": {
         "name": "Snakebite",
         "url": "https://open.spotify.com/album/6VtiEiTYQ29acY098UhKrG"
       },
@@ -2019,6 +1999,26 @@
       "duration_ms": 223542,
       "name": "Snakebite",
       "url": "https://open.spotify.com/track/2qU8YCJQbCxPayPa8CZGHE"
+    },
+    {
+      "added_at": "2026-09-17 23:01:00",
+      "album": {
+        "name": "Vigilante Kru",
+        "url": "https://open.spotify.com/album/1P7FPeseMqPGKZqK8Co3Jf"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        },
+        {
+          "name": "Samurai Breaks",
+          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Vigilante Kru",
+      "url": "https://open.spotify.com/track/1j4acW0PPOmjeiSEXzM2Cy"
     }
   ],
   "unique_name": "Proper Naughty ",

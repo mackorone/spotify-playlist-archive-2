@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: 7ebra
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,611 likes - 200 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,617 likes - 200 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 8 | [Bless the Telephone \- Spotify Singles](https://open.spotify.com/track/61OLbx1bhsaYJAlkpxb2Xj) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [Bless the Telephone \- Spotify Singles](https://open.spotify.com/album/4xBa5tQ9IJNWVoq482z3c2) | 2:18 |
 | 9 | [No One Calls](https://open.spotify.com/track/5EuUiUYPMzE6Th5JFdxiNC) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [No One Calls](https://open.spotify.com/album/0FAMpkTEOBHFLspcPmCG6h) | 2:35 |
 | 10 | [Stretch Under Strain](https://open.spotify.com/track/20rACpe5bqNfaqvX2F1xO3) | [Lowly](https://open.spotify.com/artist/721bfjbiX9Koqt2rO8PWOY) | [Stretch Under Strain](https://open.spotify.com/album/4Ylky0LPNiNUci7r3wi9ba) | 3:26 |
-| 11 | [Do u wanna have dinner? \(feat\. Haley Bridge\)](https://open.spotify.com/track/3HVclijsxOzi5yuZ6SMmPS) | [Sthlm Royalty](https://open.spotify.com/artist/3TL3k8pfLwQH5GUx4T6K38), [aka Hugo](https://open.spotify.com/artist/2B6Ekx8gNUrAhJWVkFjGT3), [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos), [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Do u wanna have dinner? \(feat\. Haley Bridge\)](https://open.spotify.com/album/44jhTWPjEDNkjEZ8jtw29t) | 2:46 |
+| 11 | [Do u wanna have dinner?](https://open.spotify.com/track/3HVclijsxOzi5yuZ6SMmPS) | [Sthlm Royalty](https://open.spotify.com/artist/3TL3k8pfLwQH5GUx4T6K38), [aka Hugo](https://open.spotify.com/artist/2B6Ekx8gNUrAhJWVkFjGT3), [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos), [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Do u wanna have dinner?](https://open.spotify.com/album/44jhTWPjEDNkjEZ8jtw29t) | 2:46 |
 | 12 | [INFINITE SUMMER](https://open.spotify.com/track/5fmUi1YDDi6vTVjpwGGwDK) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [INFINITE SUMMER](https://open.spotify.com/album/1nup1cxvdRqRbjET5V2YuB) | 2:46 |
 | 13 | [If I Had The Hand Of God](https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [If I Had The Hand Of God](https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b) | 2:41 |
 | 14 | [LIGHT DESIGN: BLOOD ORANGE VERSION](https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 2:48 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 199 | [Depreshmode](https://open.spotify.com/track/5AMv82UWh8QC7dA6dTNYn9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Depreshmode](https://open.spotify.com/album/1GSOOLlwoBDAStBgRuVIXd) | 4:14 |
 | 200 | [Händer](https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 4:25 |
 
-Snapshot ID: `AAAAAMGSW6PqvbNsiKmCRwF7Whz+LhmR`
+Snapshot ID: `AAAAAGDXvQ6jNPc6Do6FuH/hpxFW2Ipp`

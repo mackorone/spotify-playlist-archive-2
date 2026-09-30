@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,456 likes - 115 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,492 likes - 115 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 114 | [Only You](https://open.spotify.com/track/5bKRpBxsrcsJYZ2K9o4nSa) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Lapel J Datpastorboi](https://open.spotify.com/artist/1XAFWrXyu7iWY0ZixxUYL6) | [Only You](https://open.spotify.com/album/5fs2RETOQhsDuBUUalf4ZY) | 2:41 |
 | 115 | [Yesu Zo](https://open.spotify.com/track/2H1NNsPwGDt9yHJ3Unt3KR) | [Jennifer Ahonen](https://open.spotify.com/artist/2qDngxRoJC05fBkcOhDyq9), [Amasah](https://open.spotify.com/artist/5DU8wR9tw3qrWX1GJuCju1) | [Yesu Zo](https://open.spotify.com/album/1kuzURR3iwERa90A2D5Vgn) | 4:04 |
 
-Snapshot ID: `AAAAAFrCPkQHUhiCeM2TOjcEZlNZnHV9`
+Snapshot ID: `AAAAAAHnNRefWpQ4wC7h9Eqivz9Yxeei`

@@ -2,7 +2,7 @@
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With Autoimmune, The Dogs, MIK's Reaction and more
+> With The Dogs, Dan Fearon, The Charlie Marshall Effect and more
 
 1,057 songs - 2 day 23 hr 26 min
 

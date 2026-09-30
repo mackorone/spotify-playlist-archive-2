@@ -2,9 +2,9 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Grasu XXL
+> Cele mai de succes 50 de hituri în România\. Cover: AdelinMM
 
-367 songs - 17 hr 25 min
+369 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [CALIFORNIA](https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [CALIFORNIA](https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy) | 2:19 | 2025-04-14 | 2025-09-30 |
 | [CAND VINE NOAPTEA](https://open.spotify.com/track/6yCcirPq6fJkF1fUlBNvgY) | [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [CAND VINE NOAPTEA](https://open.spotify.com/album/7iKCZwND2QWSLmztc5MeJN) | 2:28 | 2025-12-09 |  |
 | [Caraibe](https://open.spotify.com/track/1fhlMbJa5XtxbGiqxmRYq8) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq), [Florin Cercel](https://open.spotify.com/artist/7ytY1ayTCI2l2tiSPjks8z) | [Caraibe](https://open.spotify.com/album/4NCAqlS9ACyWLD2KtpIzwh) | 2:17 | 2025-08-19 | 2025-11-04 |
-| [CARAIBE](https://open.spotify.com/track/25aZ8v8QmMRHQFrpG5BftI) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [CARAIBE](https://open.spotify.com/album/0KMPfUlLGJN71fzyuBxRfY) | 2:20 | 2026-08-31 |  |
+| [CARAIBE](https://open.spotify.com/track/25aZ8v8QmMRHQFrpG5BftI) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [CARAIBE](https://open.spotify.com/album/0KMPfUlLGJN71fzyuBxRfY) | 2:20 | 2026-08-31 | 2026-09-30 |
 | [CATEL](https://open.spotify.com/track/2RsYwpXpP0fPAfnbFhf2pF) | [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ) | [CATEL](https://open.spotify.com/album/7wjFm3J6t0Qx3s6WGh1j0i) | 2:40 | 2026-01-19 | 2026-05-12 |
 | [Cateodata](https://open.spotify.com/track/5zYHomneLIlzBbexs7coaY) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 | 2025-02-10 | 2025-06-17 |
 | [CATWALK](https://open.spotify.com/track/1e4njXWgyhXbD1Yb7BEzaR) | [AdelinMM](https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU) | [CATWALK](https://open.spotify.com/album/3EsNYn0zNhPXDLScyyUvxr) | 3:12 | 2025-10-22 | 2026-02-17 |
@@ -167,7 +167,7 @@
 | [Hazolina](https://open.spotify.com/track/5NMilcHFhhivtUCwqoASI0) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Hazolina](https://open.spotify.com/album/4upj57p63IS1nFebjr0S3E) | 2:32 | 2026-08-31 |  |
 | [HELICOPTER](https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:40 | 2026-01-19 | 2026-02-24 |
 | [HONEY](https://open.spotify.com/track/0Pm9kcvU60oxwVndjcnQ1f) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [HONEY](https://open.spotify.com/album/5gu7kZwSWpk7IgcnMcit1b) | 1:51 | 2025-04-07 | 2025-06-17 |
-| [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 | 2026-08-17 |  |
+| [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 | 2026-08-17 | 2026-09-30 |
 | [Hora fetelor](https://open.spotify.com/track/4axfTALAQ2kM35X35fCnc7) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Hora fetelor](https://open.spotify.com/album/580phVNDwAGjBZvhc19gwO) | 2:24 | 2025-09-15 | 2025-12-23 |
 | [HOT \- From Miami Bici 2 The Movie](https://open.spotify.com/track/03Lzl2Twhog0E0JKj4f1zE) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Andrei G](https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [HOT \(From Miami Bici 2 The Movie\)](https://open.spotify.com/album/0LxezMVWpLVvfGEV79DXIW) | 2:50 | 2024-07-01 | 2024-08-06 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-01 | 2024-07-23 |
@@ -177,6 +177,7 @@
 | [Iarta\-ma Mamo](https://open.spotify.com/track/2i0DSjfHPgz3dQUcRbMhag) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Iarta\-ma Mamo](https://open.spotify.com/album/3s7obFL6LtELRmf9XTpHxL) | 2:31 | 2025-04-23 | 2025-12-10 |
 | [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 | 2025-02-17 | 2025-06-04 |
 | [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-15 | 2026-08-04 |
+| [ISABEL MARANT](https://open.spotify.com/track/3LVhWsxMk8WTCf4yaASm2G) | [AdelinMM](https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU) | [ISABEL MARANT](https://open.spotify.com/album/6lFhPL3dSlcuqklYdYmr01) | 2:37 | 2026-09-29 |  |
 | [ishh](https://open.spotify.com/track/24acrQtUSgDEIsuzGtjREy) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [IDCASH](https://open.spotify.com/album/2zukLJzpwHRvFCYetUv5nc) | 2:50 | 2026-06-01 | 2026-06-23 |
 | [Iubire in Rate](https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Iubire in Rate](https://open.spotify.com/album/6iMotwXkWDRigOW0ZHgRpU) | 2:29 | 2024-07-01 | 2024-08-27 |
 | [Izabela](https://open.spotify.com/track/6TJF9CvKYwbgOC2GcHbLUp) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Izabela](https://open.spotify.com/album/7gGvvDd2j9GHeBn99YHLuR) | 2:26 | 2026-04-27 | 2026-09-09 |
@@ -247,6 +248,7 @@
 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-09-21 |  |
 | [Noaptea](https://open.spotify.com/track/3oXWlk7N7M6pOq2BkMBUZc) | [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE) | [Noaptea](https://open.spotify.com/album/0UmWqIkPaJp3vmURbUY45n) | 2:46 | 2026-04-27 | 2026-06-16 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-01 | 2024-09-24 |
+| [Nu răsăriți stele](https://open.spotify.com/track/3VJgRYPFOnDdhfqWGuUPib) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Nu răsăriți stele](https://open.spotify.com/album/2ZdyAFBaYBs4EUsGp1oB7L) | 2:45 | 2026-09-29 |  |
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-13 | 2026-08-04 |
 | [O sa vina ziua](https://open.spotify.com/track/0UQXbAOLooNOYq5Pw1aWCu) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [O sa vina ziua](https://open.spotify.com/album/2N2FAUAuIwxXMIQhYARMWu) | 2:27 | 2026-06-22 | 2026-07-14 |
 | [O să regreți](https://open.spotify.com/track/1RK4fhDFMGqndDf05EivR3) | [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ), [Alex Bittman](https://open.spotify.com/artist/7bUZ8Ldf1LQgtmRAC8jzZA) | [O să regreți](https://open.spotify.com/album/50mi0Zgpsu7y9RVUXHI2Qn) | 3:21 | 2026-09-14 |  |

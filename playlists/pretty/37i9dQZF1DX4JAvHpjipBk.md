@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Taylor Swift, Phoebe Bridgers, Madonna and Charli xcx  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,636,356 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,636,217 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 46 | [Funny Valentine](https://open.spotify.com/track/4XC89rK67OK1QYOmW8dSK1) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9) | [Stick & Poke](https://open.spotify.com/album/2YjIySTMZwioMcXTyAcdbW) | 3:54 |
 | 47 | [hasty!](https://open.spotify.com/track/0yuPdnuIWmLFqme2kdYGsO) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [hasty!](https://open.spotify.com/album/738OhgTOyuNqjZXwc1wzWv) | 2:28 |
 | 48 | [Blood Bank \- Spotify Singles](https://open.spotify.com/track/3UAB5IGVkLgBHxn5vzEn2w) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Blood Bank \(Spotify Singles\)](https://open.spotify.com/album/78fVJQuJUToifqbMGHH8Jw) | 5:05 |
-| 49 | [This Time \(feat\. GloRilla\)](https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [This Time](https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS) | 2:46 |
+| 49 | [This Time \(with GloRilla\)](https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [This Time](https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS) | 2:46 |
 | 50 | [Warlord](https://open.spotify.com/track/4WOvLGtZgRTQX3aCx9btnJ) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Warlord](https://open.spotify.com/album/6tYSvopvMK6JbxwjGDwTSh) | 3:13 |
 | 51 | [ready or noT](https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [ready or noT](https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK) | 4:02 |
 | 52 | [I Can't \(feat\. OC Chris\)](https://open.spotify.com/track/0yWIsHUaRNEKRSVmG4m9eh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [OC Chris](https://open.spotify.com/artist/3dFWCaBy7JxiA7uHPQeLZh) | [I Can't \(feat\. OC Chris\)](https://open.spotify.com/album/5mkVZv62nIYyV4s9GYGFsV) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [CARIÑO](https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk) | [LOS CISNES](https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk) | 2:57 |
 | 100 | [Sorta, kinda](https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Isn't That Sweet?](https://open.spotify.com/album/3wqrUSyblqilEKanMoRpWw) | 3:56 |
 
-Snapshot ID: `AAAAAALuxG+fYBWrugT0zykEzTs+kQBn`
+Snapshot ID: `AAAAAHIZZfjlRwSIA6bgE7ngoqWxaeN+`

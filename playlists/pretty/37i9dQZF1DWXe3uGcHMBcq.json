@@ -1,12 +1,12 @@
 {
   "description": "Rock out to the *perfect* songs from all your favorite Disney Channel shows and movies!",
-  "num_followers": 123222,
+  "num_followers": 123231,
   "original_name": "Disney Channel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKWxkhDr4ZL8XudfXCH6fhOlYGt/",
+  "snapshot_id": "AAAAAHrlvm+jIEfgjUCqHFypE5OvVmh6",
   "tracks": [
     {
       "added_at": "2026-07-14 07:00:09",
@@ -1505,6 +1505,22 @@
       "url": "https://open.spotify.com/track/1GzbaOHvaMnsMO2dhUMb45"
     },
     {
+      "added_at": "2026-09-29 20:52:51",
+      "album": {
+        "name": "Let the Monster Out (From \"Vampirina: Teenage Vampire: Season 2\")",
+        "url": "https://open.spotify.com/album/2lRjxCAJVruF9E5bIkoY1Z"
+      },
+      "artists": [
+        {
+          "name": "Kenzi Richardson",
+          "url": "https://open.spotify.com/artist/6EUKdXuvTAln2S223FL9RX"
+        }
+      ],
+      "duration_ms": 125915,
+      "name": "Let the Monster Out - From \"Vampirina: Teenage Vampire: Season 2\"",
+      "url": "https://open.spotify.com/track/2H9XwyEd4yrPkB22MeiM5s"
+    },
+    {
       "added_at": "2026-08-21 07:00:10",
       "album": {
         "name": "My Kind of Monster (From \"Under Wraps 2\")",
@@ -2427,30 +2443,6 @@
     {
       "added_at": "2026-07-14 07:00:09",
       "album": {
-        "name": "High School Musical 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
-      },
-      "artists": [
-        {
-          "name": "Sharpay Evans",
-          "url": "https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt"
-        },
-        {
-          "name": "Lucas Grabeel",
-          "url": "https://open.spotify.com/artist/0Ybn7NBu1okFzrFdrhzZs4"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Fabulous",
-      "url": "https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
         "name": "Wildside (From \"Adventures in Babysitting\")",
         "url": "https://open.spotify.com/album/4hWifUINe2aRCLtbqczRKB"
       },
@@ -2575,34 +2567,6 @@
     {
       "added_at": "2026-07-14 07:00:09",
       "album": {
-        "name": "ZOMBIES (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
-      },
-      "artists": [
-        {
-          "name": "Meg Donnelly",
-          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
-        },
-        {
-          "name": "Trevor Tordjman",
-          "url": "https://open.spotify.com/artist/4cCKeV2O9AE36tLDYlyVZt"
-        },
-        {
-          "name": "ZOMBIES \u2013 Cast",
-          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 223496,
-      "name": "Stand",
-      "url": "https://open.spotify.com/track/1CF5oUdUrWSGddOr1PBoqs"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
         "name": "High School Musical 3: Senior Year",
         "url": "https://open.spotify.com/album/6j8k5gIeWzXapGKTVaZzER"
       },
@@ -2671,46 +2635,6 @@
     {
       "added_at": "2026-07-14 07:00:09",
       "album": {
-        "name": "StarStruck",
-        "url": "https://open.spotify.com/album/3FmqQtzrqovhBNjJfqTjsx"
-      },
-      "artists": [
-        {
-          "name": "Christopher Wilde",
-          "url": "https://open.spotify.com/artist/533HtQP5btWIZcKlHJtEWK"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Starstruck",
-      "url": "https://open.spotify.com/track/03teNQu8rWlFnNzF1ULXIq"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
-        "name": "High School Musical",
-        "url": "https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci"
-      },
-      "artists": [
-        {
-          "name": "Lucas Grabeel",
-          "url": "https://open.spotify.com/artist/0Ybn7NBu1okFzrFdrhzZs4"
-        },
-        {
-          "name": "Sharpay Evans",
-          "url": "https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 123826,
-      "name": "What I've Been Looking For",
-      "url": "https://open.spotify.com/track/40RcMOyjymXFKBxlMuQJnA"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
         "name": "Teen Beach 2 (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/1g0o05ehdpvoEYfhMXvW9P"
       },
@@ -2755,30 +2679,6 @@
     {
       "added_at": "2026-07-14 07:00:09",
       "album": {
-        "name": "Lemonade Mouth",
-        "url": "https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ"
-      },
-      "artists": [
-        {
-          "name": "Adam Hicks",
-          "url": "https://open.spotify.com/artist/3dctbbXhrRgigX1icexnws"
-        },
-        {
-          "name": "Bridgit Mendler",
-          "url": "https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 172853,
-      "name": "Here We Go",
-      "url": "https://open.spotify.com/track/2GYOC7EBfXulEeezqHzhfZ"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
         "name": "Disney Channel Playlist",
         "url": "https://open.spotify.com/album/3f4bhDIvXL4xOnM4elWNmK"
       },
@@ -2795,22 +2695,6 @@
       "duration_ms": 180960,
       "name": "One and the Same - From \"Princess Protection Program\"",
       "url": "https://open.spotify.com/track/1QkJBQnCv81ef7gyWMDL3Q"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
-        "name": "Teen Beach 2 (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/1g0o05ehdpvoEYfhMXvW9P"
-      },
-      "artists": [
-        {
-          "name": "Jordan Fisher",
-          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Wanna Be With You",
-      "url": "https://open.spotify.com/track/0RgB5UvByavOCtTrMPz3kg"
     },
     {
       "added_at": "2026-07-14 07:00:09",
@@ -2931,26 +2815,6 @@
     {
       "added_at": "2026-07-14 07:00:09",
       "album": {
-        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 101176,
-      "name": "Start of Something New - Nini Version",
-      "url": "https://open.spotify.com/track/2JAE25n5JDyb3rp2ti0ql8"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
         "name": "Descendants 2 (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
       },
@@ -3047,38 +2911,6 @@
       "duration_ms": 198106,
       "name": "Determinate - From \"Lemonade Mouth\"",
       "url": "https://open.spotify.com/track/4qEoqyPbLYnLOii6mKlIjI"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
-        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
-      },
-      "artists": [
-        {
-          "name": "Chandler Kinney",
-          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
-        },
-        {
-          "name": "Pearce Joza",
-          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
-        },
-        {
-          "name": "Ariel Martin",
-          "url": "https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42"
-        },
-        {
-          "name": "ZOMBIES \u2013 Cast",
-          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 150792,
-      "name": "We Own the Night",
-      "url": "https://open.spotify.com/track/3n1lJB7m8iNDToXJVzIHD2"
     },
     {
       "added_at": "2026-07-14 07:00:09",

@@ -4,11 +4,11 @@
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-131 songs - 12 hr 9 min
+132 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\[Even\] Closer](https://open.spotify.com/track/5XRDnSK6UoJ3god6QzlPCA) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Closer](https://open.spotify.com/album/7ug3T3uwftsFJqZiUhqYlH) | 3:54 | 2026-04-02 |  |
+| [\[Even\] Closer](https://open.spotify.com/track/5XRDnSK6UoJ3god6QzlPCA) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Closer](https://open.spotify.com/album/7ug3T3uwftsFJqZiUhqYlH) | 3:54 | 2026-04-02 | 2026-09-30 |
 | [Agnus Dei \- Live](https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 1:25 | 2022-10-10 |  |
 | [All Authority \- LIVE](https://open.spotify.com/track/7sr8oiWn2rhtA2rj06J89R) | [Woman Evolve Worship](https://open.spotify.com/artist/3WBfPh9zlMVP06nhky0VYN), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [All Authority \(LIVE\)](https://open.spotify.com/album/5kYO5bBkw7crmqnI2feBXn) | 9:12 | 2025-10-25 |  |
 | [Already Good \(Tasha Slide\)](https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Already Good \(Tasha Slide\)](https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF) | 3:42 | 2025-05-18 |  |
@@ -52,6 +52,7 @@
 | [Great I Am \(feat\. Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 9:12 | 2024-08-08 |  |
 | [Hallelujah \(You Get The Glory\) \- Live](https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Intercession \(Live\)](https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62) | 2:44 | 2022-09-14 | 2026-02-14 |
 | [Happy \- Live](https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 5:18 | 2022-09-14 |  |
+| [Happy / Without You](https://open.spotify.com/track/2BSGCuYb275hRAqK9Sl5Wg) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Enrique Holmes](https://open.spotify.com/artist/3xTWAKdAdeyps7FrNnltly) | [Tasha Unscripted](https://open.spotify.com/album/6L1U8qma9G36efdBtGja86) | 6:09 | 2026-09-30 |  |
 | [He Is Lord \- Live](https://open.spotify.com/track/6IBwHO3idGE5V01APsbpUB) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Intercession \(Live\)](https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62) | 3:36 | 2022-09-14 | 2026-07-16 |
 | [Heart Of Worship \- Live/Remastered](https://open.spotify.com/track/6fsiAydZosjrpbRlFmIOCP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Smile \(Live\)](https://open.spotify.com/album/6isLvIzyH6R6ptQcrrAPjI) | 7:53 | 2022-09-16 | 2022-09-19 |
 | [Heaven \- Live](https://open.spotify.com/track/1WySz0JXkimGVBJw1DYwMS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Purpose Worship](https://open.spotify.com/artist/6H7rRqK9JkWBGHB2W8WTCH) | [Believe \(Live\)](https://open.spotify.com/album/2BdsKcBcGGjDzw80RCBaW4) | 11:19 | 2024-05-12 | 2024-05-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Catalina Ammaturo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,697 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,683 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Dejame de Joder](https://open.spotify.com/track/7edfsFmsbjrcKKsCxxQzBE) | [SOFA](https://open.spotify.com/artist/1qq6GushnQDP09yNO9VcEX) | [Dejame de Joder](https://open.spotify.com/album/0tw7URjGOJqmjdH55c1zu6) | 2:26 |
 | 100 | [Lo mejor](https://open.spotify.com/track/0Td9WHs518oXpjuOemBmFj) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [LOS DIOSES SE TIENEN QUE VESTIR](https://open.spotify.com/album/0djTV4RsUYQohJ9QIFhCpk) | 3:25 |
 
-Snapshot ID: `AAAAAPl+r+yWfvw12lPCmXU9T+kK729Q`
+Snapshot ID: `AAAAAI0iC0Ht5N8QNUrIva7sMoGO1Fhx`

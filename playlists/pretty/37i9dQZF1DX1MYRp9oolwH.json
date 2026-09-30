@@ -1,13 +1,41 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : The Paradise",
-  "num_followers": 171707,
+  "description": "Bringing out the best of latest love tracks\nCover : Emo Emo Idi",
+  "num_followers": 171726,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADDAtagTZZBt1BBkM1OxqkXxwzDM",
+  "snapshot_id": "AAAAAK/prOPyRnKbM8IrNCQuuKy189Z2",
   "tracks": [
+    {
+      "added_at": "2026-09-29 07:37:16",
+      "album": {
+        "name": "Emo Emo Idi (From \"Emo Emo Idi\")",
+        "url": "https://open.spotify.com/album/3RY1PEs7TFZ2ZQMQViU2MV"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 244941,
+      "name": "Emo Emo Idi (From \"Emo Emo Idi\")",
+      "url": "https://open.spotify.com/track/5xLWhJbkmFsvkKn7FVtT93"
+    },
     {
       "added_at": "2026-09-21 15:02:16",
       "album": {
@@ -235,6 +263,58 @@
       "duration_ms": 203883,
       "name": "Bomma Bomma (From \"Sri Sri\") (Telugu)",
       "url": "https://open.spotify.com/track/1YSeWKOStGQM4kvvD4J5Af"
+    },
+    {
+      "added_at": "2026-09-29 07:37:16",
+      "album": {
+        "name": "Premante Manadhe Antu (From \"Thellakaagitham\")",
+        "url": "https://open.spotify.com/album/510FVyIVtb17uWrohMLq0t"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Premante Manadhe Antu (From \"Thellakaagitham\")",
+      "url": "https://open.spotify.com/track/7KZyQzZjnpo8H39q2kF9EA"
+    },
+    {
+      "added_at": "2026-09-29 07:37:16",
+      "album": {
+        "name": "Ekavali (From \"Renigunta 2\") (Telugu)",
+        "url": "https://open.spotify.com/album/28v0h5sjpkRRtzZQcLaXzP"
+      },
+      "artists": [
+        {
+          "name": "Manu Ravichandran",
+          "url": "https://open.spotify.com/artist/0NLYyExvd65GY4HepMwfFR"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Dr.Challa Bhagyalakshmi",
+          "url": "https://open.spotify.com/artist/05CNJEHXgy7DNAmtQYjZPf"
+        }
+      ],
+      "duration_ms": 258993,
+      "name": "Ekavali (From \"Renigunta 2\") (Telugu)",
+      "url": "https://open.spotify.com/track/3ufm8RSxvH5ZHPRIsL4WUT"
     },
     {
       "added_at": "2026-09-07 07:00:41",

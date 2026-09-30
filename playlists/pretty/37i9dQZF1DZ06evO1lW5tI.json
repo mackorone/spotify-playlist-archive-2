@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 266652,
+  "num_followers": 266687,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arhcgAAAAAAjh1CQ2n8LUfl0YebP1WVn",
+  "snapshot_id": "armuAAAAAAAn3LCOw9nEQvMvPxBPoVCE",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,26 @@
       "duration_ms": 410900,
       "name": "Friday Morning",
       "url": "https://open.spotify.com/track/2M45IIrFLjMgsNSSxee31h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 355321,
+      "name": "Tamalla",
+      "url": "https://open.spotify.com/track/5S0Svnt0xGuu7QFShZNolJ"
     },
     {
       "added_at": null,

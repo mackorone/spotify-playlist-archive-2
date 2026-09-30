@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Joel Lwaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,342 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,397 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 59 | [Searching for Love](https://open.spotify.com/track/0nkrOVuEuIXmTeM20SfPeA) | [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI) | [Searching for Love](https://open.spotify.com/album/7EgruAjgY7cV4YEbn4zZbK) | 2:50 |
 | 60 | [Kama Sio](https://open.spotify.com/track/6S920U14Kw9v5dedojzQLA) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Kama Sio](https://open.spotify.com/album/3jlIsMfVbLH2l8aS8EgDvJ) | 3:14 |
 
-Snapshot ID: `AAAAAOvyXOopE3F8OdXAqCSJxq4Clh0J`
+Snapshot ID: `AAAAAPh4bCWQ1aFhnFOKHcAxpM/2qfvs`

@@ -1,12 +1,12 @@
 {
   "description": "To everything there is a season so let these faith-filled songs be the soundtrack to your Fall!",
-  "num_followers": 34259,
+  "num_followers": 34266,
   "original_name": "Fall Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPK9JVvv1uoOqCJ8Mr4inVU0jtaj",
+  "snapshot_id": "AAAAABe7b0+tZYSv7Wfsn0vm0wsdlxtQ",
   "tracks": [
     {
       "added_at": "2025-11-16 03:48:58",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K"
     },
     {
-      "added_at": "2026-09-18 04:00:32",
-      "album": {
-        "name": "saturday",
-        "url": "https://open.spotify.com/album/0UaGwKMT19eb7ai6Y1KAZs"
-      },
-      "artists": [
-        {
-          "name": "Destiny Barber",
-          "url": "https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq"
-        }
-      ],
-      "duration_ms": 210684,
-      "name": "saturday",
-      "url": "https://open.spotify.com/track/6lXrSyrS4HVSCafgBLh79j"
-    },
-    {
       "added_at": "2025-11-16 03:48:58",
       "album": {
         "name": "More of You",
@@ -755,6 +739,22 @@
       "duration_ms": 138400,
       "name": "back to life",
       "url": "https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu"
+    },
+    {
+      "added_at": "2026-09-18 04:00:32",
+      "album": {
+        "name": "saturday",
+        "url": "https://open.spotify.com/album/0UaGwKMT19eb7ai6Y1KAZs"
+      },
+      "artists": [
+        {
+          "name": "Destiny Barber",
+          "url": "https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq"
+        }
+      ],
+      "duration_ms": 210684,
+      "name": "saturday",
+      "url": "https://open.spotify.com/track/6lXrSyrS4HVSCafgBLh79j"
     },
     {
       "added_at": "2025-11-16 03:48:58",
@@ -1219,8 +1219,8 @@
     {
       "added_at": "2025-11-16 03:48:58",
       "album": {
-        "name": "This Is My Father's World",
-        "url": "https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p"
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/2eshaNGGqJ5FB3BL1pHRAg"
       },
       "artists": [
         {
@@ -1232,9 +1232,9 @@
           "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
         }
       ],
-      "duration_ms": 217746,
-      "name": "This Is My Father's World",
-      "url": "https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC"
+      "duration_ms": 205146,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/2Kn4wjte701baKkC1IeF4S"
     },
     {
       "added_at": "2025-11-16 03:48:58",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2025-11-16 03:48:58",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/2eshaNGGqJ5FB3BL1pHRAg"
+        "name": "This Is My Father's World",
+        "url": "https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p"
       },
       "artists": [
         {
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
         }
       ],
-      "duration_ms": 205146,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/2Kn4wjte701baKkC1IeF4S"
+      "duration_ms": 217746,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC"
     }
   ],
   "unique_name": "Fall Spirit",

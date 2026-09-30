@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 207386,
       "name": "Always You (A State of Trance 2026 ELEVATION Anthem)",
       "url": "https://open.spotify.com/track/0J53OaOuSp7RARHjj1wMTh"
@@ -24740,6 +24740,24 @@
       "duration_ms": 209250,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/3Yt7MqHIi1c5C4TKBAxsjm"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
     },
     {
       "album": {

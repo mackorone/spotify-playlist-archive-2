@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: SOYEON)",
+  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: NiziU)",
   "name": "KimBops!",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 186000,
       "name": "11\uc6d4 11\uc77c (November 11th)",
       "url": "https://open.spotify.com/track/4hKJbXryLm1oQKE4pJj23B"
@@ -7736,7 +7736,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 211574,
       "name": "I\u2019m gonna TOESA (Narr. KIAN84)",
       "url": "https://open.spotify.com/track/5kaHfldTiM58rL3yOpBqfO"
@@ -13540,6 +13540,24 @@
       "duration_ms": 196540,
       "name": "Sour Grapes",
       "url": "https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M"
+    },
+    {
+      "album": {
+        "name": "Sour Grapes",
+        "url": "https://open.spotify.com/album/729nYTZf06SmsurxE4CCCL"
+      },
+      "artists": [
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173292,
+      "name": "Sour Grapes",
+      "url": "https://open.spotify.com/track/1KsepZzgtbOdZG3sHfAvB3"
     },
     {
       "album": {

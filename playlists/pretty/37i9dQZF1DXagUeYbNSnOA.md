@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Lilly Yan\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,716 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,733 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Moon](https://open.spotify.com/track/3QP07HJQ0MLnjwP9OUhECY) | [Bohemios del Metro](https://open.spotify.com/artist/5Lcmmt7w5MNhx4tHBzqYYX) | [Moon](https://open.spotify.com/album/5evtYWaskybmPxMdpX1ywH) | 3:09 |
 | 50 | [Mujer de Nadie](https://open.spotify.com/track/0gVdIUEgaM5VrVZcTEOxsg) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Mujer de Nadie](https://open.spotify.com/album/2T9dB5gKYKVHb2kYY141yf) | 3:11 |
 
-Snapshot ID: `AAAAADk/4NCx8oBp3cs9BcxwpjMAMAg4`
+Snapshot ID: `AAAAANW43la8BikZRipK9GJkdZDrxdCW`

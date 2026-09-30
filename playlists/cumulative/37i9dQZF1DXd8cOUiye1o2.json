@@ -3235,6 +3235,36 @@
     },
     {
       "album": {
+        "name": "Beqadra",
+        "url": "https://open.spotify.com/album/3NVAA6gx9baPPUyOEPcmP6"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Shanya Kashyap",
+          "url": "https://open.spotify.com/artist/2En4ppmO51pQ7t4MXSmw2D"
+        },
+        {
+          "name": "Hyder Dar",
+          "url": "https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt"
+        },
+        {
+          "name": "Najiullah",
+          "url": "https://open.spotify.com/artist/2efMQKG3r8jlS2Z3sIMTdW"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182017,
+      "name": "Beqadra",
+      "url": "https://open.spotify.com/track/5GqbGWo9GxRz2cKQGi7iCI"
+    },
+    {
+      "album": {
         "name": "Bewafa (From\"Ilzaam 2.0\")",
         "url": "https://open.spotify.com/album/73ahWMm2g5hpwYijQUPgg0"
       },
@@ -4350,6 +4380,32 @@
       "duration_ms": 302896,
       "name": "Chalte Chalte",
       "url": "https://open.spotify.com/track/00rt0FfY3DqP5ZVydn5DcB"
+    },
+    {
+      "album": {
+        "name": "Chammo Deewani",
+        "url": "https://open.spotify.com/album/3f86QKltHGHmzvOLSpaKco"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Poorvi Koutish",
+          "url": "https://open.spotify.com/artist/2TmWCKfrFiN6j5eBcIA13p"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "Chammo Deewani",
+      "url": "https://open.spotify.com/track/2taGFv9IJZG9t2vPw9ovmo"
     },
     {
       "album": {
@@ -5510,8 +5566,8 @@
           "url": "https://open.spotify.com/artist/15QUOLMCzfGtMtkQn6IaTG"
         },
         {
-          "name": "Sahil Aditya Ratan",
-          "url": "https://open.spotify.com/artist/7EbmUi8VoSEDOIxe7gZtXX"
+          "name": "Sahil Aditya Ratna",
+          "url": "https://open.spotify.com/artist/6uYFffctl9mJiNAfUiYMgV"
         },
         {
           "name": "Vishal Chaturvedi",
@@ -9234,7 +9290,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 212076,
       "name": "Hum Rahein Na Rahein",
       "url": "https://open.spotify.com/track/716NCXVZcFjZgM5opcmCh2"
@@ -10701,6 +10757,28 @@
     },
     {
       "album": {
+        "name": "Jai Ambe Bol (From \"Yeh Prem Mol Liya\")",
+        "url": "https://open.spotify.com/album/62TuS7QoXVkOHV5c4wAyt1"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348866,
+      "name": "Jai Ambe Bol - From \"Yeh Prem Mol Liya\"",
+      "url": "https://open.spotify.com/track/1330tlLKwl2PLzQoiBGqWt"
+    },
+    {
+      "album": {
         "name": "Jai Jai Ram (From \"Ramayana\")",
         "url": "https://open.spotify.com/album/1vgA0OMWlZrFsnza2ql0IZ"
       },
@@ -10828,7 +10906,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 252587,
       "name": "Jalwa E Jaanaan - Maati S2",
       "url": "https://open.spotify.com/track/3Ada7FIi6rNhh5sXeGiypb"
@@ -11874,7 +11952,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 158446,
       "name": "Kaare Bhaware",
       "url": "https://open.spotify.com/track/6uNgMz4aJ04H3ZY2kcPOra"
@@ -12968,7 +13046,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 286312,
       "name": "Khwaab - From \"Last Man in Tower\"",
       "url": "https://open.spotify.com/track/64nV4mGkUfJvVIrhkVLS1L"
@@ -14433,6 +14511,28 @@
     },
     {
       "album": {
+        "name": "Main Baavri",
+        "url": "https://open.spotify.com/album/31KwG9Yk42lUQf3kmQIFIV"
+      },
+      "artists": [
+        {
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222586,
+      "name": "Main Baavri",
+      "url": "https://open.spotify.com/track/1DceX8Q6yDVg3DWH6qhnPT"
+    },
+    {
+      "album": {
         "name": "Main Hoon (From \"Maatrubhumi: May War Rest in Peace\")",
         "url": "https://open.spotify.com/album/5qpdWXHQOdj4xP4bWW8NUz"
       },
@@ -15738,7 +15838,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 166092,
       "name": "Milta Nahi Hai",
       "url": "https://open.spotify.com/track/6wza6SdUG6VOiyxS4zcx9J"
@@ -17470,6 +17570,32 @@
       "duration_ms": 174715,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0uSD4VGvyMwgijCNuZfIAi"
+    },
+    {
+      "album": {
+        "name": "Paagal (From \"Bhoomi 2026\")",
+        "url": "https://open.spotify.com/album/119zXXmaA6FzWyt4y5R2W3"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Paagal (From \"Bhoomi 2026\")",
+      "url": "https://open.spotify.com/track/1r4penjayxIYbFXBrUI3Bt"
     },
     {
       "album": {
@@ -23370,7 +23496,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 321664,
       "name": "Tham Jaa",
       "url": "https://open.spotify.com/track/6pUuLW4SsEWg6KSFUQdTwC"
@@ -24856,6 +24982,28 @@
       "duration_ms": 331764,
       "name": "Tumhare Saath",
       "url": "https://open.spotify.com/track/63mEzNpzKSQyw652hOUBNc"
+    },
+    {
+      "album": {
+        "name": "Tumhein Bhi Humse (From \"Tum Mere Ho\")",
+        "url": "https://open.spotify.com/album/1nylUZYeeoVigbRpqe63gW"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205597,
+      "name": "Tumhein Bhi Humse (From \"Tum Mere Ho\")",
+      "url": "https://open.spotify.com/track/14YG60YYNNkscuUde8WG4M"
     },
     {
       "album": {

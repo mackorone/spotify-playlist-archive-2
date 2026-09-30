@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Yeri Mua en portada \u2728",
-  "num_followers": 96434,
+  "num_followers": 96452,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANE2J4bJhCATkrnE3KIQjsz2yQyG",
+  "snapshot_id": "AAAAAN2LY6xbqx+GqPDp67pjrcGSmvm6",
   "tracks": [
     {
       "added_at": "2026-09-25 06:00:10",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
-        "name": "Tu Falta De Querer",
-        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
-    },
-    {
-      "added_at": "2026-09-25 06:00:10",
-      "album": {
         "name": "Si T\u00fa Te Vas",
         "url": "https://open.spotify.com/album/1jxKltNf8xeT9pb1NmX8CV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 193437,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/3qh9SrScSV7wEzIccdECR8"
+    },
+    {
+      "added_at": "2026-09-25 06:00:10",
+      "album": {
+        "name": "Tu Falta De Querer",
+        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
     },
     {
       "added_at": "2026-09-25 06:00:10",
@@ -711,38 +711,6 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
-        "name": "Mismo Equipo",
-        "url": "https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        }
-      ],
-      "duration_ms": 280733,
-      "name": "Mismo Equipo",
-      "url": "https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD"
-    },
-    {
-      "added_at": "2026-09-25 06:00:10",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
-    },
-    {
-      "added_at": "2026-09-25 06:00:10",
-      "album": {
         "name": "as\u00ed eres t\u00fa",
         "url": "https://open.spotify.com/album/1HRPSK8c5x45irt5w5fJUa"
       },
@@ -763,6 +731,22 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
+    },
+    {
+      "added_at": "2026-09-25 06:00:10",
+      "album": {
         "name": "i Music Listen",
         "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 203865,
       "name": "cu\u00eddame de mi",
       "url": "https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F"
+    },
+    {
+      "added_at": "2026-09-25 06:00:10",
+      "album": {
+        "name": "Mismo Equipo",
+        "url": "https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        }
+      ],
+      "duration_ms": 280733,
+      "name": "Mismo Equipo",
+      "url": "https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD"
     },
     {
       "added_at": "2026-09-25 06:00:10",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
+        "name": "Tengamos Pasado",
+        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 180648,
+      "name": "Tengamos Pasado",
+      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
+    },
+    {
+      "added_at": "2026-09-25 06:00:10",
+      "album": {
         "name": "VIGENTE",
         "url": "https://open.spotify.com/album/5DAgbaRJwSxH1EiTAa0JRx"
       },
@@ -1047,26 +1063,6 @@
       "duration_ms": 200125,
       "name": "Lo Que Por Ti Yo Siento",
       "url": "https://open.spotify.com/track/2ZPxOkXzHTULbQk5qv4B9s"
-    },
-    {
-      "added_at": "2026-09-25 06:00:10",
-      "album": {
-        "name": "Gui\u00f1o Gui\u00f1o",
-        "url": "https://open.spotify.com/album/0iRbsjP7p4EtdUyfYMxu5O"
-      },
-      "artists": [
-        {
-          "name": "Las Alucines",
-          "url": "https://open.spotify.com/artist/1bP3HDPA5fjo45A3AUwX8M"
-        },
-        {
-          "name": "Daniela Rodrice",
-          "url": "https://open.spotify.com/artist/56jP9Fhdpiyxk0TKlx9w34"
-        }
-      ],
-      "duration_ms": 95398,
-      "name": "Gui\u00f1o Gui\u00f1o",
-      "url": "https://open.spotify.com/track/0vSnh9kyamcH5fOXIA4gTz"
     },
     {
       "added_at": "2026-09-25 06:00:10",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
-        "name": "Tengamos Pasado",
-        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
+        "name": "Gui\u00f1o Gui\u00f1o",
+        "url": "https://open.spotify.com/album/0iRbsjP7p4EtdUyfYMxu5O"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Las Alucines",
+          "url": "https://open.spotify.com/artist/1bP3HDPA5fjo45A3AUwX8M"
+        },
+        {
+          "name": "Daniela Rodrice",
+          "url": "https://open.spotify.com/artist/56jP9Fhdpiyxk0TKlx9w34"
         }
       ],
-      "duration_ms": 180648,
-      "name": "Tengamos Pasado",
-      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
+      "duration_ms": 95398,
+      "name": "Gui\u00f1o Gui\u00f1o",
+      "url": "https://open.spotify.com/track/0vSnh9kyamcH5fOXIA4gTz"
     },
     {
       "added_at": "2026-09-25 06:00:10",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
-        "name": "\u00bfEs En Serio?",
-        "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 193342,
-      "name": "\u00bfEs En Serio?",
-      "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
-    },
-    {
-      "added_at": "2026-09-25 06:00:10",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 172013,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj"
+    },
+    {
+      "added_at": "2026-09-25 06:00:10",
+      "album": {
+        "name": "\u00bfEs En Serio?",
+        "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 193342,
+      "name": "\u00bfEs En Serio?",
+      "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
     },
     {
       "added_at": "2026-09-25 06:00:10",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-09-25 06:00:10",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
-        "url": "https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
-      "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"
-    },
-    {
-      "added_at": "2026-09-25 06:00:10",
-      "album": {
         "name": "Desde Antes De Nacer",
         "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 166104,
       "name": "Desde Antes De Nacer",
       "url": "https://open.spotify.com/track/36aZuiCE3UhgUJXrSeVDKf"
+    },
+    {
+      "added_at": "2026-09-25 06:00:10",
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+        "url": "https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+      "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"
     },
     {
       "added_at": "2026-09-25 06:00:10",

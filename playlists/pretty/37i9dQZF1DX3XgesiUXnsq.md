@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,574 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,609 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Harley Quinn](https://open.spotify.com/track/4GafbArl4iLP6YnSWbf4t3) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK) | [Perdu in Peru 2](https://open.spotify.com/album/1P6bw8Niw8cMbsvgMLEQol) | 2:31 |
 | 100 | [MIROIR](https://open.spotify.com/track/5FfXM1nteZWgTetnDZQJem) | [Nahlé](https://open.spotify.com/artist/4bckn9wOQswhAmiUunNqKO), [Avian](https://open.spotify.com/artist/5gvfHg3GsPE9GHaD3SnHiP) | [MIROIR](https://open.spotify.com/album/5F1TZOFKyNPC5dswz3P0Fm) | 1:29 |
 
-Snapshot ID: `AAAAAAnbdnhgVtvmQDG/fMw4SwF2Vof2`
+Snapshot ID: `AAAAAMzXw3eLHQnsftm69IqZ4mZ0CTMu`

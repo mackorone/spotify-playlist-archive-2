@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 209480,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/6Srj2NoAIGgBFORh6r5Whs"
@@ -3792,7 +3792,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 164307,
       "name": "Chinay",
       "url": "https://open.spotify.com/track/64yMq9uyHZKSxaM4eRIrv1"
@@ -12590,10 +12590,28 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 294816,
       "name": "Mahal Magmahal",
       "url": "https://open.spotify.com/track/0D5huw4lFGtUfCkf91rGvQ"
+    },
+    {
+      "album": {
+        "name": "Mahal Magmahal",
+        "url": "https://open.spotify.com/album/5Bai2MfbjMYpeAbOaqXWQ3"
+      },
+      "artists": [
+        {
+          "name": "Esremborak",
+          "url": "https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296128,
+      "name": "Mahal Magmahal",
+      "url": "https://open.spotify.com/track/2bUvJywMOR7c56E9xdioMm"
     },
     {
       "album": {
@@ -14044,7 +14062,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 247071,
       "name": "Naiilang",
       "url": "https://open.spotify.com/track/7L3NGwcJsvMe0yODfWsFUe"
@@ -15334,7 +15352,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 280828,
       "name": "Pag-ibig ng Ikaw at Ako",
       "url": "https://open.spotify.com/track/2DABJpDDPUaCWqZ9nMgkw4"
@@ -16068,7 +16086,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -17064,7 +17082,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 250058,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/7o1BMqnl3zLTd7RrF4oVTg"
@@ -18286,7 +18304,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 280426,
       "name": "Sino",
       "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
@@ -19884,7 +19902,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 195428,
       "name": "Tahanan",
       "url": "https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A"

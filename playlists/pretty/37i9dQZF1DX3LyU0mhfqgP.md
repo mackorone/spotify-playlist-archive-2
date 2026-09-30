@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Jodie Harsh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066,868 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,066,867 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [TÍMIDA, SANTA Y PELIGROSA](https://open.spotify.com/track/6yhlBas06D4GJ7hLWod9gH) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [TÍMIDA, SANTA Y PELIGROSA](https://open.spotify.com/album/5Mc458p3XeHN1pljpu8rUY) | 2:06 |
 | 50 | [Eu Quero Likes](https://open.spotify.com/track/6nNfRFyM7xPVUD4pJIN6mp) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Era Uma Vez o Amanhã](https://open.spotify.com/album/3qK39wEZFlXd28eOMtj9Ox) | 2:47 |
 
-Snapshot ID: `AAAAAGzJyMUVZCtnerY78g8pySr7/n70`
+Snapshot ID: `AAAAAOckaiCj7lVL+ZmXmp/tKWAKdqnT`

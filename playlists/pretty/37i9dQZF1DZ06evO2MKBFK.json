@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 635803,
+  "num_followers": 635842,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arhcgAAAAAChpxNgRrcrYdDrxuwit1zm",
+  "snapshot_id": "armuAAAAAAC1WraXDZhIobpr5zxADFDS",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "What Is Right",
-      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radar de \u00c9xitos: K-Pop",
         "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 245013,
       "name": "Tell Me Goodbye",
       "url": "https://open.spotify.com/track/44Xatq1sgo3DsmjV5l6ZFx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "What Is Right",
+      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radar de \u00c9xitos: K-Pop",
         "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 223746,
       "name": "Beautiful Hangover",
       "url": "https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
     },
     {
       "added_at": null,

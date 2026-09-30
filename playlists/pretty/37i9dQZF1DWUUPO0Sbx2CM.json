@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 240263,
+  "num_followers": 240294,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALydLzQonp/sJxfOaNqyRRjqjvyv",
+  "snapshot_id": "AAAAAAyDwqBmOwS3WsuujDsY6sgDdmHQ",
   "tracks": [
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Untitled (God)",
-        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 293916,
-      "name": "Love Is All I Know",
-      "url": "https://open.spotify.com/track/4d5gbYm8K71x49mNZ9AotT"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Church Doors",
         "url": "https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns"
       },
@@ -1539,22 +1523,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
       },
       "artists": [
         {
-          "name": "Civilized Creature",
-          "url": "https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907"
-        },
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 178764,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
+      "duration_ms": 293916,
+      "name": "Love Is All I Know",
+      "url": "https://open.spotify.com/track/4d5gbYm8K71x49mNZ9AotT"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1571,6 +1551,26 @@
       "duration_ms": 174240,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
+      },
+      "artists": [
+        {
+          "name": "Civilized Creature",
+          "url": "https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 178764,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
-      },
-      "artists": [
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        },
-        {
-          "name": "Fredrik Ferrier",
-          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
-        }
-      ],
-      "duration_ms": 232802,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "GRACE OF GOD",
         "url": "https://open.spotify.com/album/49ckozfEQnoxWzqcYvZMKc"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 164000,
       "name": "GRACE OF GOD - GOSPEL AMAPIANO",
       "url": "https://open.spotify.com/track/6wWkqH634OUM6Hm2bwDtli"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        },
+        {
+          "name": "Fredrik Ferrier",
+          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+        }
+      ],
+      "duration_ms": 232802,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "You Ain't",
+        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "You Ain't",
+      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/407AveS1NrLvzxwqB2UQPI"
       },
@@ -1755,18 +1771,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "You Ain't",
-        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
+        "name": "HOLY",
+        "url": "https://open.spotify.com/album/4f4tqDPM23OYNrYO0sUBuR"
       },
       "artists": [
         {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+          "name": "Ki Alexis",
+          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
         }
       ],
-      "duration_ms": 201680,
-      "name": "You Ain't",
-      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
+      "duration_ms": 181671,
+      "name": "HOLY",
+      "url": "https://open.spotify.com/track/5h4hjkImb5c9ewpOiZIkU6"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1783,22 +1799,6 @@
       "duration_ms": 200433,
       "name": "Deliver (Higher)",
       "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "HOLY",
-        "url": "https://open.spotify.com/album/4f4tqDPM23OYNrYO0sUBuR"
-      },
-      "artists": [
-        {
-          "name": "Ki Alexis",
-          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
-        }
-      ],
-      "duration_ms": 181671,
-      "name": "HOLY",
-      "url": "https://open.spotify.com/track/5h4hjkImb5c9ewpOiZIkU6"
     },
     {
       "added_at": "2026-08-18 23:12:48",

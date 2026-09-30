@@ -1,12 +1,12 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1235976,
+  "num_followers": 1235924,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOIrDOFJJ8jZebI6nZwNxpTvM+YE",
+  "snapshot_id": "AAAAAJHj+nvWj5guFoYScXzgOzEDtvk2",
   "tracks": [
     {
       "added_at": "2024-07-12 17:56:50",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
+        "name": "Heavy Cross",
+        "url": "https://open.spotify.com/album/6iKQraIqR247eFKjdTMoDR"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 242786,
+      "name": "Heavy Cross",
+      "url": "https://open.spotify.com/track/4N6R6yqkFUTyF3AYOdR0T7"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
         "name": "No More Lies",
         "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
-        "name": "Heavy Cross",
-        "url": "https://open.spotify.com/album/6iKQraIqR247eFKjdTMoDR"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 242786,
-      "name": "Heavy Cross",
-      "url": "https://open.spotify.com/track/4N6R6yqkFUTyF3AYOdR0T7"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
+        "name": "Carnavas",
+        "url": "https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 354360,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
-        "name": "Carnavas",
-        "url": "https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 354360,
-      "name": "Lazy Eye",
-      "url": "https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW"
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 241546,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7zkDEBSxkcBVsStS4qBFpK"
+      "duration_ms": 201693,
+      "name": "Here Comes Your Man",
+      "url": "https://open.spotify.com/track/0cs671lxX2eoDzr2KMuo3N"
     }
   ],
   "unique_name": "Indiespensables",

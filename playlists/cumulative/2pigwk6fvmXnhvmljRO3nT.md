@@ -4,7 +4,7 @@
 
 > 
 
-8,867 songs - 22 day 13 hr 37 min
+8,868 songs - 22 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [Ayano No Koufukuriron](https://open.spotify.com/track/4jcyxykbZGgu72DY7zl2vu) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [Okui Aki](https://open.spotify.com/artist/0D1vK3SxxPezAurBjxzMOZ) | [Mekakucity M's 1 ～Mekakucity Actors Vocal & Sound Collection～](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 5:37 | 2025-08-26 |  |
 | [Azucar](https://open.spotify.com/track/1mAEQbdq0dZQWfujWG6rCd) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Some Rap Songs](https://open.spotify.com/album/66at85wgO2pu5CccvqUF6i) | 1:25 | 2025-01-03 |  |
 | [A・NO・NE \- 2021 Remastered Version](https://open.spotify.com/track/08iEcb8JEhae8ZKWUUKKqI) | [ゴールドシチー \(CV\. 香坂さき\)](https://open.spotify.com/artist/1gu7ycwyjZTGDnGLBJt1w2), [セイウンスカイ \(CV\. 鬼頭明里\)](https://open.spotify.com/artist/62QH6q2fSLNOCCiKLaKG1p), [ユキノビジン \(CV\. 山本希望\)](https://open.spotify.com/artist/28aGgD6eA22kgOEJKL29x4) | [『ウマ娘 プリティーダービー』STARTING GATE 08 \(2021 Remastered Version\)](https://open.spotify.com/album/2PwRTECfEFYb5Kqk5TzUT5) | 3:45 | 2026-07-29 |  |
+| [B's On The Table \(feat\. 21 Savage\)](https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 2:17 | 2026-09-29 |  |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2025-01-03 |  |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2025-04-21 |  |
 | [B.B\. King Freestyle \(with Drake\)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B\. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 | 2025-03-07 |  |
@@ -4104,7 +4105,7 @@
 | [Lovers](https://open.spotify.com/track/3pwe5YS438tETO53DSfTnl) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [アンサーパレード](https://open.spotify.com/album/5lJimkMYpfxbkZqCXykrxN) | 4:10 | 2026-02-20 |  |
 | [Lovers Rock](https://open.spotify.com/track/1H7zdcRD0gLGQY0w5ejGgX) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/6WrxgVbi9Q96gV8tZMq3FH) | 3:33 | 2025-01-15 |  |
 | [Lovers' Oath](https://open.spotify.com/track/0KOCCyZ2P4rBaPBtnS09i9) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Shimmering Voyage \(Original Game Soundtrack\)](https://open.spotify.com/album/3Zw9PiPgAvNtNUnusZAcva) | 1:19 | 2025-03-23 |  |
-| [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2024-12-10 |  |
+| [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2024-12-10 | 2026-09-30 |
 | [LoveSickness](https://open.spotify.com/track/0J8oWLQ8wp3xparv98OJsa) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 1:54 | 2025-01-03 |  |
 | [Lovin' Me](https://open.spotify.com/track/6gxPrE5NCrmrwQr8j0OrqH) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5W30YJavMoHwG64cPD4L9C) | 3:09 | 2025-03-17 |  |
 | [Loving Machine](https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:47 | 2025-01-15 |  |

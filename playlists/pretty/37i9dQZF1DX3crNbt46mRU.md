@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Taylor Swift, Dardan, Madonna, Charli xcx, EAZ, XEN, Tiakola & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,638 likes - 104 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,637 likes - 104 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 103 | [A Different World \(from the Netflix Series\)](https://open.spotify.com/track/1WyAfSf0oMZuxB31HBlnoB) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [A Different World \(from the Netflix Series\)](https://open.spotify.com/album/6eXLezqrd8vyh3pLYD1Wzo) | 1:37 |
 | 104 | [f.m.k.](https://open.spotify.com/track/5Z5NjgTfv0vYCJhcy3wwzc) | [duna](https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz) | [f.m.k\. / jura](https://open.spotify.com/album/1yNxdbAPxGyR93gkGNZ3oJ) | 1:35 |
 
-Snapshot ID: `AAAAAKPahZBzss3s7xumL6L4T9uJebjr`
+Snapshot ID: `AAAAANTo9j1u+g11Wg3qys//6S0Ed0/l`

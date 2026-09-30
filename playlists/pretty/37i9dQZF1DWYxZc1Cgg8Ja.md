@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Osmán Música
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,627 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,623 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 | 19 | [Flaka](https://open.spotify.com/track/12iY3g6aGopgjMoDo0hb8H) | [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Flaka](https://open.spotify.com/album/3rjGjvLB8Kb3H2NGgZ3CrY) | 3:37 |
 | 20 | [TOTOTO \(+4\)](https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TOTOTO \(+4\)](https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab) | 2:18 |
 | 21 | [X TI](https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 3:35 |
-| 22 | [SE SUPONE](https://open.spotify.com/track/62QcYAIRQ9VGJ7eyS1S3ek) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [SE SUPONE](https://open.spotify.com/album/5mHD4ryfrB2GKXGh2v0VxP) | 2:44 |
+| 22 | [SE SUPONE](https://open.spotify.com/track/62QcYAIRQ9VGJ7eyS1S3ek) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx), [Dimelo Jara](https://open.spotify.com/artist/3vaR5ABG3KMni1aLtC4hms) | [SE SUPONE](https://open.spotify.com/album/5mHD4ryfrB2GKXGh2v0VxP) | 2:44 |
 | 23 | [KORAZONG](https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [KORAZONG](https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM) | 2:54 |
 | 24 | [lençóis maranhenses](https://open.spotify.com/track/111uhRMDaHfXYFygLW3Zc3) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [lençóis maranhenses](https://open.spotify.com/album/1jWDSryfstq5Jt82QB7Dew) | 2:39 |
 | 25 | [LA DESPEDIDA \(feat\. DFZM\)](https://open.spotify.com/track/4mUrsqPbNeeIqsNwvpsKkm) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 | 69 | [SIN SEÑAL](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SIN SEÑAL](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 |
 | 70 | [Andando](https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:21 |
 
-Snapshot ID: `AAAAAIh1obM6cgqyN6LnSiHd6DVMtc8a`
+Snapshot ID: `AAAAAPWyTCoyEbVB19FX4b/wZA17GSpx`

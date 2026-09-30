@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: suzuro
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,643 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,651 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [ささくれ](https://open.spotify.com/track/2ooP5Cy1B5zgt2Y0xspqOh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ささくれ](https://open.spotify.com/album/7Li9ecAIGzliHx0rcUGAQc) | 4:58 |
 | 80 | [Lens, 2026](https://open.spotify.com/track/4tQZdteOtHoTRqMJX3tmxd) | [ENBASE](https://open.spotify.com/artist/0bJv2ZvmBgnluJuNGftNER) | [Lens, 2026](https://open.spotify.com/album/4cCmubgFFMmaMoBirUgJ6S) | 3:19 |
 
-Snapshot ID: `AAAAAD1tRWWi0/uksIPA0bqawzUm+I62`
+Snapshot ID: `AAAAAAKRxVDU9ZKY1x51otA3vWhSFoSP`

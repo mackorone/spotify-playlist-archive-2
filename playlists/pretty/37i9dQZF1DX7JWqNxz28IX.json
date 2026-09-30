@@ -1,12 +1,12 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47099,
+  "num_followers": 47094,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALeTbxEK+3gKiSoXMwlLKGSN5Xu0",
+  "snapshot_id": "AAAAABYSs0ecS0W8c2uHiwBrAcxkyOnp",
   "tracks": [
     {
       "added_at": "2026-07-30 22:02:52",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "\u00c8 Andata Cos\u00ec",
-        "url": "https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B"
-      },
-      "artists": [
-        {
-          "name": "Aiden",
-          "url": "https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "\u00c8 Andata Cos\u00ec",
-      "url": "https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "La mia stanza",
         "url": "https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 203360,
       "name": "Male",
       "url": "https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "\u00c8 Andata Cos\u00ec",
+        "url": "https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B"
+      },
+      "artists": [
+        {
+          "name": "Aiden",
+          "url": "https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "\u00c8 Andata Cos\u00ec",
+      "url": "https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -791,22 +791,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Resta Vivo",
-        "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
+        "name": "FIORI MORTI",
+        "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
       },
       "artists": [
         {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+          "name": "PSICOLOGI",
+          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
         }
       ],
-      "duration_ms": 176259,
-      "name": "Resta Vivo",
-      "url": "https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX"
+      "duration_ms": 136313,
+      "name": "FIORI MORTI",
+      "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -827,18 +823,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "FIORI MORTI",
-        "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
+        "name": "Resta Vivo",
+        "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
       },
       "artists": [
         {
-          "name": "PSICOLOGI",
-          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
         }
       ],
-      "duration_ms": 136313,
-      "name": "FIORI MORTI",
-      "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
+      "duration_ms": 176259,
+      "name": "Resta Vivo",
+      "url": "https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "te non ci 6",
-        "url": "https://open.spotify.com/album/4QfRRjyC5y0b421M248kB5"
+        "name": "Campi Elisi",
+        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
       },
       "artists": [
         {
-          "name": "Gioac",
-          "url": "https://open.spotify.com/artist/4vA9K7BZzkqFAh9hQfXwiD"
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
         }
       ],
-      "duration_ms": 131500,
-      "name": "te non ci 6",
-      "url": "https://open.spotify.com/track/1DfOGGwDiLYPJVcdvXYV4H"
+      "duration_ms": 177931,
+      "name": "Campi Elisi",
+      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Campi Elisi",
-        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
+        "name": "te non ci 6",
+        "url": "https://open.spotify.com/album/4QfRRjyC5y0b421M248kB5"
       },
       "artists": [
         {
-          "name": "FRERO",
-          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+          "name": "Gioac",
+          "url": "https://open.spotify.com/artist/4vA9K7BZzkqFAh9hQfXwiD"
         }
       ],
-      "duration_ms": 177931,
-      "name": "Campi Elisi",
-      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
+      "duration_ms": 131500,
+      "name": "te non ci 6",
+      "url": "https://open.spotify.com/track/1DfOGGwDiLYPJVcdvXYV4H"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "polvere da sparo",
-        "url": "https://open.spotify.com/album/1r3J6DtlIIYPLigj8H2xJZ"
+        "name": "sfacciati",
+        "url": "https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD"
       },
       "artists": [
         {
-          "name": "Chakra",
-          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+          "name": "UNK",
+          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
         }
       ],
-      "duration_ms": 177756,
-      "name": "polvere da sparo",
-      "url": "https://open.spotify.com/track/0i5vfMC6xACRZXFxQQOWgp"
+      "duration_ms": 145500,
+      "name": "sfacciati",
+      "url": "https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "sfacciati",
-        "url": "https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD"
+        "name": "polvere da sparo",
+        "url": "https://open.spotify.com/album/1r3J6DtlIIYPLigj8H2xJZ"
       },
       "artists": [
         {
-          "name": "UNK",
-          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
         }
       ],
-      "duration_ms": 145500,
-      "name": "sfacciati",
-      "url": "https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX"
+      "duration_ms": 177756,
+      "name": "polvere da sparo",
+      "url": "https://open.spotify.com/track/0i5vfMC6xACRZXFxQQOWgp"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Atlantico",
-        "url": "https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 196726,
-      "name": "Atlantico",
-      "url": "https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "nostalgia liquida",
         "url": "https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 151858,
       "name": "pensieri brutti",
       "url": "https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Atlantico",
+        "url": "https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 196726,
+      "name": "Atlantico",
+      "url": "https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
+        "name": "CONFESSIONE",
+        "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "duration_ms": 144187,
+      "name": "ALESSIA",
+      "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
         "name": "Ceramica",
         "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
@@ -1527,26 +1547,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "CONFESSIONE",
-        "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
-      },
-      "artists": [
-        {
-          "name": "Sally Cruz",
-          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
-        }
-      ],
-      "duration_ms": 144187,
-      "name": "ALESSIA",
-      "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "Hasta la Muerte",
         "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 151013,
       "name": "Winston Blue",
       "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1611,34 +1627,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
       },
       "artists": [
         {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "Ci siamo fatti male",
-        "url": "https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58"
-      },
-      "artists": [
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
         {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
         }
       ],
-      "duration_ms": 170095,
-      "name": "Ci siamo fatti male",
-      "url": "https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4"
+      "duration_ms": 174549,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1659,6 +1663,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
+        "name": "Ci siamo fatti male",
+        "url": "https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "Ci siamo fatti male",
+      "url": "https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
         "name": "Sotto lo zero",
         "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 180278,
       "name": "Sotto lo zero",
       "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        },
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
-        }
-      ],
-      "duration_ms": 174549,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
     },
     {
       "added_at": "2026-07-30 22:02:52",

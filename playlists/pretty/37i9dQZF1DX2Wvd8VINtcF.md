@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Murex✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,485 likes - 231 songs - 12 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,488 likes - 231 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 6 | [Bubble Treasure](https://open.spotify.com/track/3rSIlr1dFubbFvuFs8HqMo) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Bubble Treasure](https://open.spotify.com/album/2Np10xTQlbyO23QDEMaZzk) | 2:35 |
 | 7 | [Touch Down](https://open.spotify.com/track/2XKZ5W59VSHtEVWJ4XOQXZ) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Touch Down](https://open.spotify.com/album/2PlxFO6Ea3T8phJzH31r1e) | 2:13 |
 | 8 | [Little Little Voice](https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Tyber](https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT) | 4:08 |
-| 9 | [Do u wanna have dinner? \(feat\. Haley Bridge\)](https://open.spotify.com/track/3HVclijsxOzi5yuZ6SMmPS) | [Sthlm Royalty](https://open.spotify.com/artist/3TL3k8pfLwQH5GUx4T6K38), [aka Hugo](https://open.spotify.com/artist/2B6Ekx8gNUrAhJWVkFjGT3), [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos), [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Do u wanna have dinner? \(feat\. Haley Bridge\)](https://open.spotify.com/album/44jhTWPjEDNkjEZ8jtw29t) | 2:46 |
+| 9 | [Do u wanna have dinner?](https://open.spotify.com/track/3HVclijsxOzi5yuZ6SMmPS) | [Sthlm Royalty](https://open.spotify.com/artist/3TL3k8pfLwQH5GUx4T6K38), [aka Hugo](https://open.spotify.com/artist/2B6Ekx8gNUrAhJWVkFjGT3), [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos), [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Do u wanna have dinner?](https://open.spotify.com/album/44jhTWPjEDNkjEZ8jtw29t) | 2:46 |
 | 10 | [Pure Vice](https://open.spotify.com/track/2NF2GJ8rSAbirBnzBiF2ri) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW) | [My World](https://open.spotify.com/album/5OCJBzbEAE30YLojP5Pgo9) | 4:19 |
 | 11 | [LIGHT DESIGN: OKLOU VERSION](https://open.spotify.com/track/72Mduxm5q1vXtwYatvPGW2) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 2:46 |
 | 12 | [How About That](https://open.spotify.com/track/2qquV8qrtYzfB66nXjLrke) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [How About That](https://open.spotify.com/album/0LYzl2YhTk47S769bRMWA8) | 3:16 |
@@ -240,4 +240,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 230 | [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 |
 | 231 | [I Had a Dream She Took My Hand](https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [I Had a Dream She Took My Hand](https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw) | 3:40 |
 
-Snapshot ID: `AAAAAH7HoX2Yb6MCaOsbw5GULrUUItBW`
+Snapshot ID: `AAAAAFxIT5vqTY2uMdFlDwi20EqdT4hk`

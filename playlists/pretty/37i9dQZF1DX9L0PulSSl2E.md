@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 > Sit back, thand rakho te Chill Karlo with Parmish Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,251 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,293 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 | 49 | [WEEKEND](https://open.spotify.com/track/48etPdlHxXdmOEVB7xf334) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [WEEKEND](https://open.spotify.com/album/5CbFlQymrBrU41FMAhMhrR) | 1:58 |
 | 50 | [Chacha](https://open.spotify.com/track/2tKAXlASKQjzo0SJJvO9Yj) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [36](https://open.spotify.com/album/11NyVFBpwIuBZz5Ia1ZcsA) | 3:00 |
 
-Snapshot ID: `AAAAAOI/b0+GMGoyPwbws2U7kAqUhOfW`
+Snapshot ID: `AAAAAKi7WouUaTDbqMNGG4Bv0+Ib40rb`

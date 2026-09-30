@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ Meltt
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,451 likes - 86 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,447 likes - 86 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 85 | [fear of missing out](https://open.spotify.com/track/6DjEVNA5xJESxFfmYako8N) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [fear of missing out](https://open.spotify.com/album/7tpR10hyk5R2CfJM26xg0Y) | 2:58 |
 | 86 | [Here & Now](https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ), [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [Some Kind Of Life](https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3) | 3:16 |
 
-Snapshot ID: `AAAAAMi3whedP+KFA+J9dhxheAJMdnJX`
+Snapshot ID: `AAAAAMIUZKeDmnSgAnsUwUE5lEMEuP31`

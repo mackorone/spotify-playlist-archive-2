@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Louis\-Jean Cormier, Lydia Képinski, K!RA Oji, Bleu Jeans Bleu, Tiakola, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,255 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,253 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 98 | [Sortilèges](https://open.spotify.com/track/3x4dGL6rGFbgsSyPUX4jx8) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Karaté Cœur](https://open.spotify.com/album/3Xb1FVGER8V42o5NuV4Qey) | 2:53 |
 | 99 | [UPS](https://open.spotify.com/track/0LCIMxOqW5qSqH4g0OcjKQ) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [UPS](https://open.spotify.com/album/7u2H1uMSralWWuMjA0z3qg) | 2:35 |
 
-Snapshot ID: `AAAAADEyR+4Lg+LP8vo7diU7K5Se4S6U`
+Snapshot ID: `AAAAAJ8ip/65kUU0jD6QqV4I2lK5+YYd`

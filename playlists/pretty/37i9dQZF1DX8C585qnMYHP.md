@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. The Nightclubs on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,442 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,505 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 74 | [Terra Sigillata](https://open.spotify.com/track/4nBo834VksEonZPymzdOpb) | [Secret Bisous](https://open.spotify.com/artist/4SdvkIy4PnLyLMQLrb3QvF) | [Terra Sigillata](https://open.spotify.com/album/3GIWCJRQGMZUTvt7C4EDKh) | 3:30 |
 | 75 | [EVIDENT 2 ME](https://open.spotify.com/track/0B9QzxPp0lKpcyp95YIOOu) | [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3), [Jide](https://open.spotify.com/artist/6EDGpM5rVt6GsOh5ypS04Y) | [EVIDENT 2 ME](https://open.spotify.com/album/5lD6KCEMPfl1trVAGNkfQ7) | 1:50 |
 
-Snapshot ID: `AAAAADgsJ9nr9VuuN5h4biDZoc3mfjGo`
+Snapshot ID: `AAAAAGZVKSCM1N7aHXr90cO4eiJK/qo8`

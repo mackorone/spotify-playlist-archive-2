@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > KÖFN ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,629 likes - 122 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,645 likes - 122 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 41 | [Bitmedi İnadın](https://open.spotify.com/track/6oAndqHhDHmlyRRDxhgvK9) | [Damla Arıcan](https://open.spotify.com/artist/0dPbg17KH7QHtsztkBO7eV) | [Bitmedi İnadın](https://open.spotify.com/album/1v20qpfPwF7oKljK3CO71O) | 3:00 |
 | 42 | [elimde değil](https://open.spotify.com/track/4WSPjzEyurN1Mpl7MKvlaD) | [Ayça Özefe](https://open.spotify.com/artist/01GsQzZqKa4M0j3CJ9BF13) | [elimde değil](https://open.spotify.com/album/7sAZF2m0stuL73G5ckwwfr) | 2:56 |
 | 43 | [yanlış anla beni](https://open.spotify.com/track/4qIEQF6EZGSAWbNIPKet4c) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [yanlış anla beni](https://open.spotify.com/album/4CTtgAtCWOWwBghc7B9vaE) | 1:39 |
-| 44 | [I Want to Know What Love Is](https://open.spotify.com/track/45GBS4shUWBo3V8qkK73LD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [I Want to Know What Love Is](https://open.spotify.com/album/6MB8OonnULWOmlcIgUZyMv) | 3:53 |
+| 44 | [I Want to Know What Love Is \- Lab Edition](https://open.spotify.com/track/45GBS4shUWBo3V8qkK73LD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [I Want to Know What Love Is \(Lab Edition\)](https://open.spotify.com/album/6MB8OonnULWOmlcIgUZyMv) | 3:53 |
 | 45 | [Confession](https://open.spotify.com/track/2nJa6C2eIDDcxESn7sS0cl) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Confession](https://open.spotify.com/album/0h0JpuuqCP71DuI9RBu777) | 2:28 |
 | 46 | [Blink Twice](https://open.spotify.com/track/5A8YVeEtelHwCxWodW6KrP) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Blink Twice](https://open.spotify.com/album/0bNqctvjXrsdGVdZ0hWnPe) | 3:20 |
 | 47 | [Seninim Yalnız](https://open.spotify.com/track/6simgOzJ41EqcDOm8bNKwg) | [Furkan Halıcı](https://open.spotify.com/artist/6W1El4pLfVxwgMnAqfX4O7) | [Seninim Yalnız](https://open.spotify.com/album/1JFjk7d3mxbuImfU5NG6BE) | 3:00 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 121 | [Dönme Dolap](https://open.spotify.com/track/0rbHlAlyhaoMHVDDQcF5li) | [Zeynep Aslan](https://open.spotify.com/artist/7hklQgYBqBrfd9ahBNHBWf) | [Dönme Dolap](https://open.spotify.com/album/7wUvYPvl1TO31BghHAIdRQ) | 3:02 |
 | 122 | [Restarted](https://open.spotify.com/track/7zF2mGxfSqa2Ibu6OK2kTm) | [BARTU](https://open.spotify.com/artist/3JdQhWwTZX5L1j9sFu41yn) | [Restarted](https://open.spotify.com/album/11EuGSvz1Z6bq1gGoF6s2Y) | 2:44 |
 
-Snapshot ID: `AAAAAJHFPvRbcyxQTmoIaLTgqIqPw48P`
+Snapshot ID: `AAAAAJS/00lqWtMMc8yLA20okFx48AI3`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-471 songs - 1 day 6 hr 18 min
+472 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [New Direction](https://open.spotify.com/track/13pCHTVZCepwmAF3lXR3Jd) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [New Direction](https://open.spotify.com/album/5bf5gnimLUAysx41VMNiV8) | 4:17 | 2025-03-28 | 2025-08-10 |
 | [New Highs](https://open.spotify.com/track/0S4JMWDEgUIhDVyhmoiNvB) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [New Highs](https://open.spotify.com/album/0lwUMyyqQX3KxuTV8TdYyj) | 3:52 | 2026-05-15 |  |
 | [No More Stress](https://open.spotify.com/track/6WVaITvyrPXuDjVthu95As) | [NOCUI](https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV) | [No More Stress](https://open.spotify.com/album/1duw7hSkfz60Ar7A5iQkyl) | 3:29 | 2024-11-15 | 2025-01-14 |
+| [Norway](https://open.spotify.com/track/7Im3WV5PgWf9BxARvEhkPz) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Norway](https://open.spotify.com/album/367htatgPzE9MuBKhFZyZ3) | 3:58 | 2026-09-25 |  |
 | [Not Enough](https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Not Enough](https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg) | 3:42 | 2025-05-02 |  |
 | [Nothing Is Forever](https://open.spotify.com/track/26E5NPwV30kG0lYLrUhAK5) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Kosta G](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Nothing Is Forever](https://open.spotify.com/album/14NTbIECS6DX5hBvtPoyS9) | 3:32 | 2025-07-11 | 2026-09-26 |
 | [Nothing Is Forever \- Yuksek Remix](https://open.spotify.com/track/42STKSJGBYfCJsTqlpq3XA) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Kosta G](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Nothing Is Forever \(Yuksek Remix\)](https://open.spotify.com/album/6M9fbOzo9coxn3qO3Qxl7E) | 4:55 | 2026-05-15 | 2026-07-16 |
@@ -431,7 +432,7 @@
 | [Trippin'](https://open.spotify.com/track/2FAQPu3Qs2XP0UPwhSHxVL) | [Love Frequency](https://open.spotify.com/artist/0AM5V32NmtacB4VJ3NNYa7) | [Trippin'](https://open.spotify.com/album/2hnv06seVFLdrsoycHwCqS) | 2:38 | 2026-09-04 |  |
 | [Tropics](https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropics](https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG) | 2:29 | 2024-08-16 | 2025-07-11 |
 | [Turn Back Time](https://open.spotify.com/track/442bwi2jfJTT739AT4Hfde) | [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Turn Back Time](https://open.spotify.com/album/5XSLcgf6JSnl5DIkAR5cAR) | 3:24 | 2026-05-08 |  |
-| [Turn Up The Love \- Roosevelt Remix](https://open.spotify.com/track/6PoriAHnwpIM3EDFUAZNSI) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Turn Up The Love \(Roosevelt Remix\)](https://open.spotify.com/album/71wq1IxTjclhzDx1PUlkU1) | 3:45 | 2025-08-08 |  |
+| [Turn Up The Love \- Roosevelt Remix](https://open.spotify.com/track/6PoriAHnwpIM3EDFUAZNSI) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Turn Up The Love \(Roosevelt Remix\)](https://open.spotify.com/album/71wq1IxTjclhzDx1PUlkU1) | 3:45 | 2025-08-08 | 2026-09-30 |
 | [Turning My Heart Blue](https://open.spotify.com/track/4gIfhN6xTKfPDupplMF5xu) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Turning My Heart Blue](https://open.spotify.com/album/7fIfDMV8cMkrikHlLyt93R) | 3:54 | 2024-06-14 | 2026-09-05 |
 | [Turning Onto You \- HNNY Remix](https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Turning Onto You \(HNNY Remix\)](https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2) | 3:30 | 2023-09-15 | 2026-05-16 |
 | [Turning Point](https://open.spotify.com/track/7acNNBB5PObjYKnRNLH9vR) | [Pandar](https://open.spotify.com/artist/2zZ1SrHD5FqPVXgBIH7Xe1) | [Turning Point](https://open.spotify.com/album/6J5pC5wdHx2ODTdnKlKF0z) | 6:35 | 2022-06-20 | 2023-07-07 |

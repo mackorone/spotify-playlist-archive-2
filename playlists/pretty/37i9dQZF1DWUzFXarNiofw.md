@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,577 likes - 260 songs - 13 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,581 likes - 260 songs - 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 259 | [Sweet n’ Sour](https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Sweet n’ Sour](https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh) | 2:37 |
 | 260 | [To Want Someone Badly](https://open.spotify.com/track/6f6EdKXS6CRFGIk6hW8qjS) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Want Someone Badly](https://open.spotify.com/album/1RCqDfERqTPoW669sQdYWA) | 2:57 |
 
-Snapshot ID: `AAAAACDjvXjdOVGNU9Qf+Cs8npyA78a/`
+Snapshot ID: `AAAAAGTzPZ6ILj623OFPv6T/1kGZ7iYq`

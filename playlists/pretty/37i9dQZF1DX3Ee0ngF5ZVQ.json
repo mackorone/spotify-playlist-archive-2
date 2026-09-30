@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 398874,
+  "num_followers": 398861,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMTYtcOo8EBVjsxZGsTK4DANyMa/",
+  "snapshot_id": "AAAAANvxtC+VXvv3XmCUb+YzuVyH6kp2",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Fan of You",
-        "url": "https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 221816,
-      "name": "Fan of You",
-      "url": "https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Live From Cheatham Street",
         "url": "https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 254013,
       "name": "All Of My Exes (Still Make Me Breakfast) - Live From Cheatham Street",
       "url": "https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Fan of You",
+        "url": "https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 221816,
+      "name": "Fan of You",
+      "url": "https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Where 90's Meets Now",
-        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
-      },
-      "artists": [
-        {
-          "name": "Jake Bush",
-          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
-        }
-      ],
-      "duration_ms": 203861,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Never Again One More Time",
         "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 178284,
       "name": "Never Again One More Time",
       "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Where 90's Meets Now",
+        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
+      },
+      "artists": [
+        {
+          "name": "Jake Bush",
+          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
+        }
+      ],
+      "duration_ms": 203861,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
     },
     {
       "added_at": "2026-08-07 04:01:44",

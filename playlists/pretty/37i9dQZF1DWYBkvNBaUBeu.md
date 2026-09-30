@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Madonna, Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,879 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,873 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 | 79 | [Ravers](https://open.spotify.com/track/5oVbId7tF4pAwQYN9t4v0B) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Ravers](https://open.spotify.com/album/4jLIjmfkRz1jIZinv6BtFU) | 3:26 |
 | 80 | [Baby Girl](https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Baby Girl](https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU) | 2:57 |
 
-Snapshot ID: `AAAAAAHtclKlOzqLoyLpkWpoKMYwFZHU`
+Snapshot ID: `AAAAAFDxfHixf2D6Ca88icvvwixgqeAm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Sijya
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,936 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,054 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Tu Na Aayi](https://open.spotify.com/track/5gsovysICg6TJVRUf0ZM16) | [Sahil Joshi](https://open.spotify.com/artist/7gp4BOQuRrBqOkCZr32tVf), [Snehil Jain](https://open.spotify.com/artist/4NomYUWemetc7nCw28G5HF) | [Tu Na Aayi](https://open.spotify.com/album/1hD581ohlD9YwRxzky1YpR) | 3:16 |
 | 50 | [I'm In Love](https://open.spotify.com/track/18cZRZyMpNqI6VQxodCXz9) | [Shreya Karmakar](https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F) | [I'm In Love](https://open.spotify.com/album/34F4oGQLAwchtuiU5mZD0i) | 3:19 |
 
-Snapshot ID: `AAAAAOXitIuriS78QeVIzZnFDppw3M4L`
+Snapshot ID: `AAAAAAenoCvaz/zfOJ/RagPqTtVX2/W1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,090 likes - 210 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,144 likes - 210 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 209 | [Portofino Days](https://open.spotify.com/track/3xpTZ9vVRDyYIFAR9jCKdk) | [Coco Siesta](https://open.spotify.com/artist/3iq6zztZJw1Ma8yHOEUYj5) | [Portofino Days](https://open.spotify.com/album/74tP8A3DA0bw1mmhPVeKd5) | 2:34 |
 | 210 | [Dream about us](https://open.spotify.com/track/1vpvFDx2fhhL8JSsFei0UT) | [Cedar Room](https://open.spotify.com/artist/1Wew13xlDH4ylTaJI75vw8) | [Dream about us](https://open.spotify.com/album/7HufHka466JcOtJXSGlbE5) | 2:33 |
 
-Snapshot ID: `AAAAAKVsTA2keKP6y5tMqERFb6UIkgDV`
+Snapshot ID: `AAAAAAeOR+1MpyBMq/ukB9unxjt/hoCj`

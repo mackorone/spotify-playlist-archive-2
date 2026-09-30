@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,380 songs - 5 day 3 hr 29 min
+2,381 songs - 5 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Bananas](https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [Bananas](https://open.spotify.com/album/6LF5cslZo6GaeqLQc4bC4b) | 2:33 | 2022-02-05 | 2022-04-25 |
 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 | 2024-06-13 | 2024-08-16 |
 | [Bara du är där \(feat\. Von Disco\)](https://open.spotify.com/track/3No7Damf9LQeDkxQwW7NmM) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp), [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Bara du är där \(feat\. Von Disco\)](https://open.spotify.com/album/6ipXmZ7rwqcrKf6ZZcb3Bo) | 2:51 | 2026-02-12 |  |
+| [Bara idioter](https://open.spotify.com/track/4CRDU0FEaoCGsuoPXnSPmf) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Bara idioter](https://open.spotify.com/album/7APzv34pRFOSUqXIPRnYra) | 2:04 | 2026-09-28 |  |
 | [Bara kom](https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Du & jag & mera tid](https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6) | 2:54 | 2026-01-08 | 2026-05-24 |
 | [Bara mellan oss](https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Bara mellan oss](https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn) | 3:41 | 2026-03-26 | 2026-06-27 |
 | [Bara vi, bara jag, bara du](https://open.spotify.com/track/1fncAFDynLDnSIPg7h2mp3) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bara vi, bara jag, bara du](https://open.spotify.com/album/21zpZFBvL9oiNdXMSVQEyN) | 2:25 | 2025-04-10 | 2025-09-05 |
@@ -1161,7 +1162,7 @@
 | [Komma över dig](https://open.spotify.com/track/3nnq5v3pPs5WUAFL5TqLk9) | [Linus Kajman](https://open.spotify.com/artist/481GuwBdWn7VytCBh3BDjb) | [Slitna Hjärtan](https://open.spotify.com/album/7GZNaSTVttqQPKnqcU0TaM) | 2:34 | 2025-01-16 | 2025-02-23 |
 | [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/album/32HVqxhJDc732q8O1TeapO) | 3:08 | 2022-05-05 | 2023-02-18 |
 | [Konfetti](https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Konfetti](https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR) | 3:14 | 2025-05-23 | 2026-01-15 |
-| [Konsten att leva](https://open.spotify.com/track/4DW1djy1y82mTdTcyAioUB) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Konsten att leva](https://open.spotify.com/album/0uV4gLRea8tuc1vSvKYpLa) | 3:02 | 2026-03-19 |  |
+| [Konsten att leva](https://open.spotify.com/track/4DW1djy1y82mTdTcyAioUB) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Konsten att leva](https://open.spotify.com/album/0uV4gLRea8tuc1vSvKYpLa) | 3:02 | 2026-03-19 | 2026-09-30 |
 | [Konstgjord Andning](https://open.spotify.com/track/3pd4j3vcLAvjJFw2ijxTMx) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70), [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7) | [Konstgjord Andning](https://open.spotify.com/album/08mcQrbpnUx1IWwVRBOREr) | 2:21 | 2026-09-28 |  |
 | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/track/23CTXfKqXyz4QkEwCGONhz) | [Ella Hedström](https://open.spotify.com/artist/2yZOGE9w5XZPTWF9e6wYEr) | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/album/3wGLhdFwuUVEpkuswcM5km) | 2:54 | 2022-05-05 | 2022-07-22 |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-05-16 | 2024-06-14 |

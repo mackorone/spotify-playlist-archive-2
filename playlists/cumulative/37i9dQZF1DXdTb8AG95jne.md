@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Volunteers\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: jisokuryClub\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,402 songs - 3 day 12 hr 52 min
+1,403 songs - 3 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,7 +736,7 @@
 | [Mattress](https://open.spotify.com/track/7f5P2kfP16dELU9TOB53pL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Mattress](https://open.spotify.com/album/0w3iZw82n1QCdMq6H4BKBZ) | 2:50 | 2022-03-31 | 2022-04-16 |
 | [May](https://open.spotify.com/track/5UEpIKEVFExPkB7CiRKvAo) | [WINee](https://open.spotify.com/artist/64a5GQVxMxmTZkTynKykHE) | [May](https://open.spotify.com/album/2onzUozBjKro4XIAwVYMOm) | 3:06 | 2022-04-12 | 2022-04-17 |
 | [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 | 2025-04-28 | 2025-08-12 |
-| [May, be](https://open.spotify.com/track/2EzW4c95YjAfy3tVQPawrl) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [May, be](https://open.spotify.com/album/1IDOtELn8WbIs33bBSQOlC) | 2:52 | 2026-05-20 |  |
+| [May, be](https://open.spotify.com/track/2EzW4c95YjAfy3tVQPawrl) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [May, be](https://open.spotify.com/album/1IDOtELn8WbIs33bBSQOlC) | 2:52 | 2026-05-20 | 2026-09-30 |
 | [Maybe Okay](https://open.spotify.com/track/3yaog9HA9UgGjDYrg5MtEP) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Maybe Okay](https://open.spotify.com/album/62eRlfMDaG6jb0vdeSVSgw) | 3:00 | 2026-04-20 | 2026-07-23 |
 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 | 2022-03-31 | 2025-07-23 |
 | [Mayday!](https://open.spotify.com/track/1UD0ZI6X92zIX6qDKu79CG) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Mayday!](https://open.spotify.com/album/2s0xl8Qls0YViDvHtWmtvX) | 3:07 | 2026-04-10 | 2026-06-13 |
@@ -1308,6 +1308,7 @@
 | [Who’s with me?](https://open.spotify.com/track/2YEFyXyF1zG78qwLcZrHAg) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [Who’s with me?](https://open.spotify.com/album/0gwUIHdPdLUJLPtWI4ZLQA) | 2:58 | 2022-04-12 | 2022-04-17 |
 | [Willow Tree](https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Willow Tree](https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B) | 4:39 | 2022-09-05 | 2022-09-21 |
 | [Willow tree](https://open.spotify.com/track/3uIAjCpqwBgqKiPas8HdRl) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [30](https://open.spotify.com/album/3AyTlFtrzM1uD9d5xmQQiJ) | 4:04 | 2024-02-15 | 2024-05-10 |
+| [Wind](https://open.spotify.com/track/7A6CwvIjT6zG7HdD2h4g8N) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Koh Larn](https://open.spotify.com/album/4ZRE5oaSYbvKidr72sDgmJ) | 5:47 | 2026-09-30 |  |
 | [Wings](https://open.spotify.com/track/3ieVRTL0jHyZD6AAjcoeQa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Wings](https://open.spotify.com/album/42nmm0ZdjkbfsROkjqJx1c) | 3:15 | 2025-04-11 | 2025-08-07 |
 | [Wings](https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Wings](https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC) | 3:15 | 2021-12-12 | 2024-06-30 |
 | [Winter](https://open.spotify.com/track/3tqUaq6JjHcN34WZb70FyY) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation](https://open.spotify.com/album/6BS3zt0gQalEc1R6hVuFP6) | 3:52 | 2025-04-11 | 2025-07-24 |

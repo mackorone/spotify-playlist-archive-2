@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Taylor Swift, Madonna, Charli xcx, Rizky Febian, Salma Salsabil, Jackson Wang, Rex Orange County dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,639 likes - 111 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,630 likes - 111 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 10 | [UGLY](https://open.spotify.com/track/4ClSiMGtA2denDmLUh9ZvU) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [UGLY](https://open.spotify.com/album/3O4hU56kWL3AyyORVwmPFH) | 2:18 |
 | 11 | [Can't Stop Won't Stop](https://open.spotify.com/track/6DgSaqiCxtZUeZBfF9HIa8) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [Can't Stop Won't Stop](https://open.spotify.com/album/7zFvxLmlFUbV0SZtvGNB2c) | 2:38 |
 | 12 | [Like Me \(feat\. Jay Park\)](https://open.spotify.com/track/2jCh0Xaz6NQwCTB2PeFIZo) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Like Me \(feat\. Jay Park\)](https://open.spotify.com/album/11su08u4jWbdzZL60bAvoP) | 3:42 |
-| 13 | [Change](https://open.spotify.com/track/3uGBIAD7oz5rSBOVBHrATQ) | [VCT](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Change](https://open.spotify.com/album/5Kip3tzC2TuLVIgAvY6YgL) | 3:52 |
+| 13 | [Change](https://open.spotify.com/track/3uGBIAD7oz5rSBOVBHrATQ) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Change](https://open.spotify.com/album/5Kip3tzC2TuLVIgAvY6YgL) | 3:52 |
 | 14 | [Fireflies](https://open.spotify.com/track/18ZScFhFloaJJxJcnrLezb) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Fireflies](https://open.spotify.com/album/7E7ldaTtHThRPsE6uQaPqR) | 3:02 |
 | 15 | [On Video](https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Primetime \(Original Soundtrack\)](https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX) | 3:31 |
 | 16 | [SURPRISE SURPRISE!](https://open.spotify.com/track/7jbV9eFuXrjWCTnNTaxtys) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [SURPRISE SURPRISE!](https://open.spotify.com/album/5zM58zp4yUunTHA1DcwN4x) | 2:50 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 110 | [Chapter 4](https://open.spotify.com/track/7wsi6doEPUrUlFJYylmApv) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Chapter 4](https://open.spotify.com/album/7iVISoawYt4py8izsqOdq7) | 3:17 |
 | 111 | [Natural High](https://open.spotify.com/track/2ltTipWlzX9L8ofFKJioJi) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Natural High](https://open.spotify.com/album/7JLoQup5FmnWodYaoFfpBt) | 5:45 |
 
-Snapshot ID: `AAAAAPof06N3PgFXvFPa4zbV+zHWvmy1`
+Snapshot ID: `AAAAAEcZTA9AQsdrIqxvyu3o24/MQ6e7`

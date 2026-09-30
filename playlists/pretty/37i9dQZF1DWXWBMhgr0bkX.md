@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: Cara Delevingne
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,535 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,538 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 79 | [French Kiss](https://open.spotify.com/track/2LC05eWnoUgeQaTK7mGZgp) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [French Kiss](https://open.spotify.com/album/704OaJFjAJpcWmraZTxgZo) | 2:48 |
 | 80 | [Biggest Fan](https://open.spotify.com/track/3TvzWGbGv29XwXqmXO3AdE) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Biggest Fan](https://open.spotify.com/album/4Pd6Ujgk89QcWteQGRDZ2f) | 2:53 |
 
-Snapshot ID: `AAAAAGmByl3ZhZmoGwolUPv8ePpYgbYk`
+Snapshot ID: `AAAAALZvlXzNKZXtwQ+AxT/h5D3PlJZG`

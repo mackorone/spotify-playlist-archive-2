@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 21364,
+  "num_followers": 21368,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIS2h/R39oHsMkdiAIP0O2TNAF02",
+  "snapshot_id": "AAAAAPe+GkicO0NvQ9fiBtLVV7ucE+vy",
   "tracks": [
     {
       "added_at": "2026-07-03 07:32:57",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
+        "name": "Love Part 1",
+        "url": "https://open.spotify.com/album/5erBmgThxgKG4bhsraVOTX"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "You don't need my love?",
+      "url": "https://open.spotify.com/track/51bYu6E40GyZRu6ce6DVEB"
+    },
+    {
+      "added_at": "2026-07-03 07:32:57",
+      "album": {
         "name": "4444",
         "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 214773,
       "name": "Happy Alone (feat. B.I)",
       "url": "https://open.spotify.com/track/5m69aowedG1gR6ZsVVEA1f"
-    },
-    {
-      "added_at": "2026-07-03 07:32:57",
-      "album": {
-        "name": "Love Part 1",
-        "url": "https://open.spotify.com/album/5erBmgThxgKG4bhsraVOTX"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "You don't need my love?",
-      "url": "https://open.spotify.com/track/51bYu6E40GyZRu6ce6DVEB"
     },
     {
       "added_at": "2026-07-03 07:32:57",

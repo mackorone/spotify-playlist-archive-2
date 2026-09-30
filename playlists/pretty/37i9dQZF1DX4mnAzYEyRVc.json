@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: Massendefekt\n",
-  "num_followers": 73241,
+  "num_followers": 73247,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAINb3Nox0YkgnBH5f27NAZSdpx7s",
+  "snapshot_id": "AAAAAIx8/EmjlXAx6neoNhaSIoQhPg9F",
   "tracks": [
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Si Oh !",
-        "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Puntos",
-          "url": "https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P"
-        }
-      ],
-      "duration_ms": 151013,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Return Of The Ugly",
         "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 182600,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Si Oh !",
+        "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Puntos",
+          "url": "https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P"
+        }
+      ],
+      "duration_ms": 151013,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Zombiler",
         "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 206129,
       "name": "Zombiler",
       "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2026-08-21 06:00:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2026\-27 BABYMONSTER WORLD TOUR \[춤 \(CHOOM\)\] IN JAPAN』のセットリストをMCとあわせて公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,482 likes - 25 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,461 likes - 25 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 24 | [BATTER UP \[Remix\]](https://open.spotify.com/track/5HOqEc8PVJCe2N865YHMn3) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS), [DEE.P](https://open.spotify.com/artist/578frpgY5Upl3yUyRXxNFF) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:46 |
 | 25 | [See You MONSTEIZ](https://open.spotify.com/track/5tOVFpwwYIX5rqP9FP4g1g) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [2026\-27 BABYMONSTER WORLD TOUR \[춤 \(CHOOM\)\] IN JAPAN – AUDIO LINERS](https://open.spotify.com/album/5cLJF9GtA8mPHnVg3oL2h6) | 0:59 |
 
-Snapshot ID: `AAAAAO1h7NK7pQMJXea+WLaQqQIthFw2`
+Snapshot ID: `AAAAAEa4Pe39Y3nGBXa2VXDJa6eqcGKg`

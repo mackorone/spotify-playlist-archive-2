@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 49 | [Bandolero](https://open.spotify.com/track/4Mxxo5gQcfVHY88DZU4Hpl) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Focus](https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz) | 2:48 |
 | 50 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
 
-Snapshot ID: `AAAAACxRbhYRdnEwfl96j0IMJJHwccLK`
+Snapshot ID: `AAAAAHCEZTDIHwxOqh/MHsGA27fcHvTV`

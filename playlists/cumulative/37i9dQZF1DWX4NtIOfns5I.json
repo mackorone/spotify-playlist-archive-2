@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235440,
+      "name": "A car wash and a new pair of pants",
+      "url": "https://open.spotify.com/track/2YgS9Lstqqrr8mo1KH2amW"
+    },
+    {
+      "album": {
         "name": "Face The Feeling",
         "url": "https://open.spotify.com/album/0nbOE96i0mvngykkXaQew0"
       },
@@ -9010,6 +9028,24 @@
       "duration_ms": 335380,
       "name": "Meaning",
       "url": "https://open.spotify.com/track/41S0JSa52kSmDUFsKEBaiB"
+    },
+    {
+      "album": {
+        "name": "Mercy Kill (Schr\u00f6dinger's Cat)",
+        "url": "https://open.spotify.com/album/53Vg1kYw2p14ClsJkdXBMu"
+      },
+      "artists": [
+        {
+          "name": "Shallow Alcove",
+          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228186,
+      "name": "Mercy Kill (Schr\u00f6dinger's Cat)",
+      "url": "https://open.spotify.com/track/2wjE1Fc8Q3RsAohwZsVoyY"
     },
     {
       "album": {

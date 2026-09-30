@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 129048,
       "name": "Auf jeden Blick",
       "url": "https://open.spotify.com/track/2KKkqUuYfHkGsrXQAauCkG"
@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 165390,
       "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
       "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 114705,
       "name": "Garten vorm Haus",
       "url": "https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI"
@@ -4912,7 +4912,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 154601,
       "name": "Mein Type",
       "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
@@ -5456,6 +5456,24 @@
       "duration_ms": 161212,
       "name": "Nie wieder sehen",
       "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
+    },
+    {
+      "album": {
+        "name": "Niemals",
+        "url": "https://open.spotify.com/album/2IvEPPD2QMrGkCTc6Qo3SM"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Niemals",
+      "url": "https://open.spotify.com/track/4sQLcCNICsrx3eJCRzIkDM"
     },
     {
       "album": {
@@ -6055,6 +6073,32 @@
     },
     {
       "album": {
+        "name": "Rauchen ist t\u00f6dlich",
+        "url": "https://open.spotify.com/album/30sIHHJSi2CSG3WsAEQGNV"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "FINJA",
+          "url": "https://open.spotify.com/artist/6FZKD8kAyVIHpXkdhzxUvk"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168674,
+      "name": "Rauchen ist t\u00f6dlich",
+      "url": "https://open.spotify.com/track/7d5PNefuRb3KAtiveUT4fw"
+    },
+    {
+      "album": {
         "name": "RED CUPS (feat. Paula Hartmann)",
         "url": "https://open.spotify.com/album/5w6vzpDKAOE0zEihBK6DYT"
       },
@@ -6605,6 +6649,28 @@
     },
     {
       "album": {
+        "name": "Sera",
+        "url": "https://open.spotify.com/album/2kWyLXF7bVqnbVGWGQBKha"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        },
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149553,
+      "name": "Sera",
+      "url": "https://open.spotify.com/track/3C24jbcbotdNpyDUqNIJEi"
+    },
+    {
+      "album": {
         "name": "Shawty",
         "url": "https://open.spotify.com/album/4Qjtz9UiZQybB6Y5TZa5Ck"
       },
@@ -7078,7 +7144,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 188500,
       "name": "TIEFPUNKT",
       "url": "https://open.spotify.com/track/58O70zSrgckp8Kli3kSqXn"
@@ -7796,7 +7862,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 150880,
       "name": "Wegen dir",
       "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
@@ -8158,6 +8224,24 @@
       "duration_ms": 169360,
       "name": "Wo willst du hin",
       "url": "https://open.spotify.com/track/5LQWQfkGvMS73vYd3JMCP5"
+    },
+    {
+      "album": {
+        "name": "WOKE",
+        "url": "https://open.spotify.com/album/55CiMJcX0f7ry0OMs4f818"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157720,
+      "name": "WOKE",
+      "url": "https://open.spotify.com/track/2rcUsgC2Op6lXRWJqXwUNL"
     },
     {
       "album": {

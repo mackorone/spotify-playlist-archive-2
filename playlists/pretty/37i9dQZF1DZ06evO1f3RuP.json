@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 341,
+  "num_followers": 342,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arhcgAAAAAB4YdeV7pteYIW6NQldIxtn",
+  "snapshot_id": "armuAAAAAACydxtPf24ZUxV4HRpDJADA",
   "tracks": [
     {
       "added_at": null,
@@ -183,18 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "not safe",
-        "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC"
       },
       "artists": [
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Sophie Gray",
+          "url": "https://open.spotify.com/artist/7rWhuhHP5WNIhzek4JVVfS"
         }
       ],
-      "duration_ms": 136686,
-      "name": "not safe",
-      "url": "https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37"
+      "duration_ms": 154213,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ"
     },
     {
       "added_at": null,
@@ -231,22 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTH",
-        "url": "https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC"
+        "name": "not safe",
+        "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
       },
       "artists": [
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "Sophie Gray",
-          "url": "https://open.spotify.com/artist/7rWhuhHP5WNIhzek4JVVfS"
         }
       ],
-      "duration_ms": 154213,
-      "name": "BOTH",
-      "url": "https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ"
+      "duration_ms": 136686,
+      "name": "not safe",
+      "url": "https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "stories from new york",
+        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 137104,
+      "name": "say it back",
+      "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 130057,
       "name": "demon time (with BAYLI)",
       "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "stories from new york",
-        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 137104,
-      "name": "say it back",
-      "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet As Kept, F.O.G. (Extended Cut)",
-        "url": "https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL"
-      },
-      "artists": [
-        {
-          "name": "Kai Whiston",
-          "url": "https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 262928,
-      "name": "Kissing Practise",
-      "url": "https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fade on Back",
         "url": "https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 185000,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet As Kept, F.O.G. (Extended Cut)",
+        "url": "https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL"
+      },
+      "artists": [
+        {
+          "name": "Kai Whiston",
+          "url": "https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 262928,
+      "name": "Kissing Practise",
+      "url": "https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7"
     }
   ],
   "unique_name": "This Is BAYLI",

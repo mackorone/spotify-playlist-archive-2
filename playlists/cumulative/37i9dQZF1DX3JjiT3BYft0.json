@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 241166,
       "name": "Dazzle the Destiny",
       "url": "https://open.spotify.com/track/36qqkkLRFAGZmaqR7C86du"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 180500,
       "name": "Hi-Vision",
       "url": "https://open.spotify.com/track/0rNLITsnaH7Uanwqn4ZHqf"
@@ -5764,7 +5764,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 270626,
       "name": "\u307d\u3063\u3074\u3093'\u3069\u308a\u30fc\u3080\uff01",
       "url": "https://open.spotify.com/track/5339nA0dO3UqGj0TXGxC6J"
@@ -6861,6 +6861,24 @@
     },
     {
       "album": {
+        "name": "\u30d4\u30fc\u30b9\u30d5\u30eb\u30fb\u30d4\u30fc\u30b7\u30fc\u30ba\uff01",
+        "url": "https://open.spotify.com/album/7uAmTjqqBSUki2T6LLPySt"
+      },
+      "artists": [
+        {
+          "name": "\u4e00\u5bb6Dumb Rock!",
+          "url": "https://open.spotify.com/artist/36BahzMmQXSN4VjykiWUlH"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243306,
+      "name": "\u30d4\u30fc\u30b9\u30d5\u30eb\u30fb\u30d4\u30fc\u30b7\u30fc\u30ba\uff01",
+      "url": "https://open.spotify.com/track/6zpZomZvQUmltErKnL5na9"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30a3\u30af\u30b7\u30e7\u30f3 (Cover)",
         "url": "https://open.spotify.com/album/1u4tdidxpevGAUIP3IYYCX"
       },
@@ -7586,6 +7604,28 @@
       "duration_ms": 280533,
       "name": "\u5922\u3092\u6483\u3061\u629c\u304f\u77ac\u9593\u306b!",
       "url": "https://open.spotify.com/track/58owpwr0vtowPGVouuO3rs"
+    },
+    {
+      "album": {
+        "name": "\u5922\u6211\u5922\u4e2d",
+        "url": "https://open.spotify.com/album/2E4XpbsmmiHy4HrEzKpv8m"
+      },
+      "artists": [
+        {
+          "name": "\u5922\u9650\u5927\u307f\u3085\u30fc\u305f\u3044\u3077",
+          "url": "https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK"
+        },
+        {
+          "name": "Hidefumi Kenmochi",
+          "url": "https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204866,
+      "name": "\u5922\u6211\u5922\u4e2d",
+      "url": "https://open.spotify.com/track/1OEmJ2h1wJUzo3XrAzjUvo"
     },
     {
       "album": {
@@ -8934,6 +8974,24 @@
       "duration_ms": 269300,
       "name": "\u9b42\u306e\u30eb\u30d5\u30e9\u30f3",
       "url": "https://open.spotify.com/track/5TwbVyG5JZj7vsbFshGdOS"
+    },
+    {
+      "album": {
+        "name": "\u9cf4\u3089\u3059",
+        "url": "https://open.spotify.com/album/5zBhQcrx3Ut9Qh6XzSq6GS"
+      },
+      "artists": [
+        {
+          "name": "millsage",
+          "url": "https://open.spotify.com/artist/7cBKwPovugxX15beVkPZGA"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232611,
+      "name": "\u9cf4\u3089\u3059",
+      "url": "https://open.spotify.com/track/1xkkaCuqzGSC487Qo0AZKy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Leo Middea
 
-1,284 songs - 3 day 2 hr 44 min
+1,285 songs - 3 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -843,6 +843,7 @@
 | [Papel Machê](https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Orquestra Ouro Preto](https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt) | [João Bosco e Orquestra Ouro Preto: Gênesis](https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C) | 5:19 | 2022-05-10 | 2024-03-19 |
 | [Para Lennon e McCartney / Citação: O Vento](https://open.spotify.com/track/5wWVluHjM6PUU68gNSkbYm) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Para Lennon e McCartney / Citação: O Vento](https://open.spotify.com/album/6XN1f9w4y3OuBqu0t2Qwe2) | 3:48 | 2022-12-09 | 2023-04-29 |
 | [Para o Nosso Amor Amém](https://open.spotify.com/track/2JzctJz35x79GVDgjZwcuB) | [Renato Teixeira](https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI), [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [Almir Sater](https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP) | [Naturezas](https://open.spotify.com/album/7vsSH5ujda9MmGXcFraGqm) | 3:40 | 2022-05-20 | 2022-06-18 |
+| [Parabelo da Existência \- Ao Vivo](https://open.spotify.com/track/7mHbSSMb2B3VPMEWQVKAiP) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s), [Orquestra Sesiminas](https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1) | [3° Ato \(Ao Vivo\)](https://open.spotify.com/album/5yKxd23TajUzOHj7WAzQXu) | 4:15 | 2026-09-25 |  |
 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 | 2022-07-22 | 2023-07-15 |
 | [Partilhar](https://open.spotify.com/track/6GfRv9IRF7rcJLss3kEw6d) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/76ASoWg3gEXhmElT2oJXLJ) | 4:22 | 2021-12-24 | 2022-07-29 |
 | [Partir](https://open.spotify.com/track/6QEGJF1lDMEEqxbEQVNi34) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Partir](https://open.spotify.com/album/28blWY8Yr3w6LBtZru0uIR) | 1:34 | 2025-08-15 | 2025-09-30 |
@@ -1177,7 +1178,7 @@
 | [Tudo Maré](https://open.spotify.com/track/578lk0KGacSMilzFXofE2L) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Tudo Maré](https://open.spotify.com/album/0cXPOyHcHeHGmmqnnMbSsB) | 4:02 | 2024-11-01 | 2025-03-08 |
 | [Tudo o Que Há](https://open.spotify.com/track/20xpcYxXHpAO773tN1fCr5) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm) | [Tudo o Que Há](https://open.spotify.com/album/0DcgYTjGPHKqnT96UH6qN8) | 3:38 | 2025-08-25 | 2025-09-20 |
 | [Tudo Que Eu Quero](https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Tudo Que Eu Quero](https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig) | 2:02 | 2023-10-20 | 2024-01-13 |
-| [Tudo Que Se Tem](https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B) | [MOMO.](https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM) | [Tum Tum Tum](https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q) | 4:10 | 2026-06-26 |  |
+| [Tudo Que Se Tem](https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B) | [MOMO.](https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM) | [Tum Tum Tum](https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q) | 4:10 | 2026-06-26 | 2026-09-30 |
 | [Tudo Que é Mais Lindo](https://open.spotify.com/track/5RmyRocpulyEBy6xbS9iDQ) | [Almério](https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW) | [Tudo Que é Mais Lindo](https://open.spotify.com/album/0eW2mqE0xKqascEZACvnkv) | 3:08 | 2025-05-30 | 2025-06-21 |
 | [Tudo Vai Conspirar](https://open.spotify.com/track/4mwrmRsKZBwzdTCKdB50Sc) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai), [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl) | [Tudo Vai Conspirar](https://open.spotify.com/album/43Vh4wyKdRXNjHWLi1IZHk) | 3:04 | 2025-10-04 | 2026-05-30 |
 | [Tudo Vai Dar Certo](https://open.spotify.com/track/3P382EPA2uASutnTSOWcvq) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Tudo Vai Dar Certo](https://open.spotify.com/album/0GnrDJ5s5l8WAeVuDdsUiW) | 3:31 | 2022-02-11 | 2022-04-16 |

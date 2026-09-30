@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Francois van Coke, Hunter Kennedy, Franja Du Plessis, Juan Boucher, Tasché en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,547 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,549 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 59 | [Tree Terug](https://open.spotify.com/track/7MRxb8LoyblUUqnNVGtiQe) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX), [Net Francois](https://open.spotify.com/artist/6ZRHHVXgxYnvQHn1VNcHmk) | [Tree Terug](https://open.spotify.com/album/2yPn88G3X2ZdTBaiEoTYKn) | 3:40 |
 | 60 | [Stadig](https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Stadig](https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy) | 3:27 |
 
-Snapshot ID: `AAAAAPwZySOLegmqaf4YJX40lzloEGpB`
+Snapshot ID: `AAAAACDFZHxEk5I2otA5hvcY6t1DEZYY`

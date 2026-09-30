@@ -1,12 +1,12 @@
 {
-  "description": "With Yeat, Cuo Zay, Autumn! and more",
+  "description": "With Yeat, Autumn!, Cuo Zay and more",
   "num_followers": 1,
   "original_name": "Taewitdak Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADED++oDfZ7I/yhtz4yK2bO0G0yS",
+  "snapshot_id": "AAAAAKmVgov9BB42TMiZC8piZp7FLR6s",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OTB",
+        "url": "https://open.spotify.com/album/0NRSl9Co78mAedta6G2126"
+      },
+      "artists": [
+        {
+          "name": "kappaa!",
+          "url": "https://open.spotify.com/artist/59qj4dTLo3tVzjVGNTvgPu"
+        }
+      ],
+      "duration_ms": 120140,
+      "name": "AIN'T HEARD KAP!",
+      "url": "https://open.spotify.com/track/3ZgxCyTqQFZFT71N0Y3jW6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "american idol",
         "url": "https://open.spotify.com/album/1cgfs6PLBZ51NXRLb6ai1O"
       },
@@ -79,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sanity Evaded",
-        "url": "https://open.spotify.com/album/5CkmOdUGDcPcdJvH3sVcIv"
-      },
-      "artists": [
-        {
-          "name": "YFG FATSO",
-          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
-        }
-      ],
-      "duration_ms": 151722,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/6BQtUSJ3vfkcM53gdXscgB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "not enn a diss",
         "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
       },
@@ -107,6 +107,22 @@
       "duration_ms": 81176,
       "name": "not enn a diss",
       "url": "https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sanity Evaded",
+        "url": "https://open.spotify.com/album/5CkmOdUGDcPcdJvH3sVcIv"
+      },
+      "artists": [
+        {
+          "name": "YFG FATSO",
+          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
+        }
+      ],
+      "duration_ms": 151722,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/6BQtUSJ3vfkcM53gdXscgB"
     },
     {
       "added_at": null,
@@ -175,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art Of Hooping",
-        "url": "https://open.spotify.com/album/4W7vILQjCKfwo7uXbFvliQ"
-      },
-      "artists": [
-        {
-          "name": "Reemo",
-          "url": "https://open.spotify.com/artist/1ytfDr5Kx6uRKsHTD31OzE"
-        }
-      ],
-      "duration_ms": 165015,
-      "name": "Hard To Stay Mad\u2026",
-      "url": "https://open.spotify.com/track/3LeV2aYr66AdjEw7UEeqjp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "!?",
         "url": "https://open.spotify.com/album/6Q8NissAQlvTJKlqpzm5R4"
       },
@@ -203,22 +203,6 @@
       "duration_ms": 125267,
       "name": "sick",
       "url": "https://open.spotify.com/track/6IP5h91yInTxUqDBb9Buy3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "peace does not reside on my end",
-        "url": "https://open.spotify.com/album/53UX0XsKynszKaz5kb570e"
-      },
-      "artists": [
-        {
-          "name": "TopOppGen",
-          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
-        }
-      ],
-      "duration_ms": 126040,
-      "name": "scrimmage",
-      "url": "https://open.spotify.com/track/63W9vpUPPWerUd96x3nx8c"
     },
     {
       "added_at": null,
@@ -239,6 +223,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "peace does not reside on my end",
+        "url": "https://open.spotify.com/album/53UX0XsKynszKaz5kb570e"
+      },
+      "artists": [
+        {
+          "name": "TopOppGen",
+          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
+        }
+      ],
+      "duration_ms": 126040,
+      "name": "scrimmage",
+      "url": "https://open.spotify.com/track/63W9vpUPPWerUd96x3nx8c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spanglish",
+        "url": "https://open.spotify.com/album/0XLRt7IitLolNkwQkZtHSg"
+      },
+      "artists": [
+        {
+          "name": "novanitys",
+          "url": "https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP"
+        }
+      ],
+      "duration_ms": 222898,
+      "name": "Spanglish",
+      "url": "https://open.spotify.com/track/6bhvLg6wcFib7jHDJwenEk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me & Mine, Pt. 1",
         "url": "https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono"
       },
@@ -255,18 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aliv\u00eb",
-        "url": "https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My"
+        "name": "The Art Of Hooping",
+        "url": "https://open.spotify.com/album/4W7vILQjCKfwo7uXbFvliQ"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Reemo",
+          "url": "https://open.spotify.com/artist/1ytfDr5Kx6uRKsHTD31OzE"
         }
       ],
-      "duration_ms": 153208,
-      "name": "WAR 1",
-      "url": "https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA"
+      "duration_ms": 165015,
+      "name": "Hard To Stay Mad\u2026",
+      "url": "https://open.spotify.com/track/3LeV2aYr66AdjEw7UEeqjp"
     },
     {
       "added_at": null,
@@ -287,18 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spanglish",
-        "url": "https://open.spotify.com/album/0XLRt7IitLolNkwQkZtHSg"
+        "name": "Aliv\u00eb",
+        "url": "https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My"
       },
       "artists": [
         {
-          "name": "novanitys",
-          "url": "https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 222898,
-      "name": "Spanglish",
-      "url": "https://open.spotify.com/track/6bhvLg6wcFib7jHDJwenEk"
+      "duration_ms": 153208,
+      "name": "WAR 1",
+      "url": "https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA"
     },
     {
       "added_at": null,
@@ -367,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "splat!",
-        "url": "https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk"
-      },
-      "artists": [
-        {
-          "name": "Marwick",
-          "url": "https://open.spotify.com/artist/7pmKCgWtiOC7rzCRS3W2x1"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "splat!",
-      "url": "https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LORD",
         "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 143112,
       "name": "Which 1 / Klueless",
       "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "splat!",
+        "url": "https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk"
+      },
+      "artists": [
+        {
+          "name": "Marwick",
+          "url": "https://open.spotify.com/artist/7pmKCgWtiOC7rzCRS3W2x1"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "splat!",
+      "url": "https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "catastrophe",
-        "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 130422,
-      "name": "catastrophe",
-      "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UP!",
         "url": "https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud"
       },
@@ -447,18 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Advance",
-        "url": "https://open.spotify.com/album/01nJqm7zhHdkuZc19VxNpv"
+        "name": "catastrophe",
+        "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
       },
       "artists": [
         {
-          "name": "Cl4pers",
-          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 110243,
-      "name": "Advance",
-      "url": "https://open.spotify.com/track/5s0cZYHGaWUEhn6mF4BEjC"
+      "duration_ms": 130422,
+      "name": "catastrophe",
+      "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
     },
     {
       "added_at": null,
@@ -495,22 +495,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "2high",
-        "url": "https://open.spotify.com/album/2ILSr2xQkOORnjsZgUjcJ6"
+        "name": "Leftovr Drugz",
+        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
       },
       "artists": [
         {
-          "name": "SeptembersRich",
-          "url": "https://open.spotify.com/artist/2AXsnwUyL9eMUy3y0ly2si"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "sixsick",
+          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
         }
       ],
-      "duration_ms": 192040,
-      "name": "Been Off (feat. Yeat)",
-      "url": "https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L"
+      "duration_ms": 165009,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Advance",
+        "url": "https://open.spotify.com/album/01nJqm7zhHdkuZc19VxNpv"
+      },
+      "artists": [
+        {
+          "name": "Cl4pers",
+          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+        }
+      ],
+      "duration_ms": 110243,
+      "name": "Advance",
+      "url": "https://open.spotify.com/track/5s0cZYHGaWUEhn6mF4BEjC"
     },
     {
       "added_at": null,
@@ -527,6 +539,26 @@
       "duration_ms": 165575,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2high",
+        "url": "https://open.spotify.com/album/2ILSr2xQkOORnjsZgUjcJ6"
+      },
+      "artists": [
+        {
+          "name": "SeptembersRich",
+          "url": "https://open.spotify.com/artist/2AXsnwUyL9eMUy3y0ly2si"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "Been Off (feat. Yeat)",
+      "url": "https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L"
     },
     {
       "added_at": null,
@@ -563,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boy (with Young Thug)",
-        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 157355,
-      "name": "Bad Boy (with Young Thug)",
-      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ronehl Season, VOL 1",
         "url": "https://open.spotify.com/album/3vCW4QqTYC0RdqYpyJC065"
       },
@@ -595,6 +607,22 @@
       "duration_ms": 131664,
       "name": "Life Sentences",
       "url": "https://open.spotify.com/track/02xKoruItxM6WIMasMuhrC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/7dku9VTD8d1MWrztu1dsF7"
+      },
+      "artists": [
+        {
+          "name": "takemeback",
+          "url": "https://open.spotify.com/artist/4paXfz4X44FEgQ4l6zVL4C"
+        }
+      ],
+      "duration_ms": 182650,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/0nxOutkvYuKvhviyIQ1QMx"
     },
     {
       "added_at": null,
@@ -631,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leftovr Drugz",
-        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
-      },
-      "artists": [
-        {
-          "name": "sixsick",
-          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
-        }
-      ],
-      "duration_ms": 165009,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIG 3",
         "url": "https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu"
       },
@@ -671,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Love Freaks",
+        "url": "https://open.spotify.com/album/1P9yQpoQrOW2LX9683Aepu"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        }
+      ],
+      "duration_ms": 101198,
+      "name": "I Love Freaks",
+      "url": "https://open.spotify.com/track/13HuPBcqaL4iHzZiWyjLl6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
         "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
       },
@@ -683,22 +711,6 @@
       "duration_ms": 152893,
       "name": "Hat\u00ebr",
       "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Man Down",
-        "url": "https://open.spotify.com/album/7dku9VTD8d1MWrztu1dsF7"
-      },
-      "artists": [
-        {
-          "name": "takemeback",
-          "url": "https://open.spotify.com/artist/4paXfz4X44FEgQ4l6zVL4C"
-        }
-      ],
-      "duration_ms": 182650,
-      "name": "Man Down",
-      "url": "https://open.spotify.com/track/0nxOutkvYuKvhviyIQ1QMx"
     },
     {
       "added_at": null,
@@ -739,34 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": ">Music",
-        "url": "https://open.spotify.com/album/1qSTmkNLnqc42ysyt43cba"
+        "name": "Bad Boy (with Young Thug)",
+        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
       },
       "artists": [
         {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        }
-      ],
-      "duration_ms": 156815,
-      "name": "Straight Forward",
-      "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Intervals",
-        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
-      },
-      "artists": [
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
         {
-          "name": "\u0141ee",
-          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 143775,
-      "name": "Intervals",
-      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
+      "duration_ms": 157355,
+      "name": "Bad Boy (with Young Thug)",
+      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
     },
     {
       "added_at": null,
@@ -787,6 +787,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Intervals",
+        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
+      },
+      "artists": [
+        {
+          "name": "\u0141ee",
+          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
+        }
+      ],
+      "duration_ms": 143775,
+      "name": "Intervals",
+      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": ">Music",
+        "url": "https://open.spotify.com/album/1qSTmkNLnqc42ysyt43cba"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 156815,
+      "name": "Straight Forward",
+      "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Teen X",
         "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
       },
@@ -799,38 +831,6 @@
       "duration_ms": 106533,
       "name": "Yale",
       "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz"
-      },
-      "artists": [
-        {
-          "name": "Desire",
-          "url": "https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3"
-        }
-      ],
-      "duration_ms": 122298,
-      "name": "Outta Time",
-      "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "heartpacing",
-        "url": "https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z"
-      },
-      "artists": [
-        {
-          "name": "jaydes",
-          "url": "https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv"
-        }
-      ],
-      "duration_ms": 102738,
-      "name": "drama queen",
-      "url": "https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Josie Edwards",
-  "num_followers": 65716,
+  "num_followers": 65714,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH62ko0DA8H/9vp3tr2V5RxEpepw",
+  "snapshot_id": "AAAAAPHAxkSGQwO9chNKREN3Fj1+yTc/",
   "tracks": [
     {
       "added_at": "2026-09-21 15:36:44",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-09-21 15:36:44",
       "album": {
+        "name": "only one way to know",
+        "url": "https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 166378,
+      "name": "only one way to know",
+      "url": "https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P"
+    },
+    {
+      "added_at": "2026-09-21 15:36:44",
+      "album": {
         "name": "The World Keeps Spinning",
         "url": "https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 135306,
       "name": "The World Keeps Spinning",
       "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
-    },
-    {
-      "added_at": "2026-09-21 15:36:44",
-      "album": {
-        "name": "only one way to know",
-        "url": "https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 166378,
-      "name": "only one way to know",
-      "url": "https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P"
     },
     {
       "added_at": "2026-09-21 15:36:44",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-09-21 15:36:44",
       "album": {
-        "name": "Heart Has To Work So Hard",
-        "url": "https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Heart Has To Work So Hard",
-      "url": "https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK"
-    },
-    {
-      "added_at": "2026-09-21 15:36:44",
-      "album": {
         "name": "Daddy Died",
         "url": "https://open.spotify.com/album/7ExVxwux2kmiRMyDnrCDNp"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 252656,
       "name": "Daddy Died",
       "url": "https://open.spotify.com/track/3O1yYh4gvBxaYSmkTFGnWV"
+    },
+    {
+      "added_at": "2026-09-21 15:36:44",
+      "album": {
+        "name": "Heart Has To Work So Hard",
+        "url": "https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Heart Has To Work So Hard",
+      "url": "https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK"
     },
     {
       "added_at": "2026-09-21 15:36:44",

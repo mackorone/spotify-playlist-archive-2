@@ -1,12 +1,12 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Periphery",
-  "num_followers": 571750,
+  "num_followers": 571758,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAb7cfEGSeBT6e0KiQZeCDeh0qBv",
+  "snapshot_id": "AAAAANs4Nmu3I/WbQ2H51Vlux33RX+wd",
   "tracks": [
     {
       "added_at": "2026-05-15 04:02:10",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Holocene",
+        "url": "https://open.spotify.com/album/1JS5Xf3DiLfVAb904ZGlyT"
+      },
+      "artists": [
+        {
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+        }
+      ],
+      "duration_ms": 304440,
+      "name": "Preboreal",
+      "url": "https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "Every Sound Has A Color In The Valley Of Night",
         "url": "https://open.spotify.com/album/6vcoKJhkNPj3HeTOudcRLO"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Holocene",
-        "url": "https://open.spotify.com/album/1JS5Xf3DiLfVAb904ZGlyT"
+        "name": "The Wounds We Share",
+        "url": "https://open.spotify.com/album/4T5J6ZKt8f8ofDr5nYwU0V"
       },
       "artists": [
         {
-          "name": "The Ocean",
-          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+          "name": "A Sense of Purpose",
+          "url": "https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM"
         }
       ],
-      "duration_ms": 304440,
-      "name": "Preboreal",
-      "url": "https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I"
+      "duration_ms": 194893,
+      "name": "The Wounds We Share",
+      "url": "https://open.spotify.com/track/3iXz5NVmYv1TQHvDHawB28"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -947,22 +963,6 @@
       "duration_ms": 167200,
       "name": "Diluted Dreams",
       "url": "https://open.spotify.com/track/4yDiN4Ak4T47JUAoXsTHQp"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "The Wounds We Share",
-        "url": "https://open.spotify.com/album/4T5J6ZKt8f8ofDr5nYwU0V"
-      },
-      "artists": [
-        {
-          "name": "A Sense of Purpose",
-          "url": "https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "The Wounds We Share",
-      "url": "https://open.spotify.com/track/3iXz5NVmYv1TQHvDHawB28"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Ophelia (feat. SHAOLIN G)",
-        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
-      },
-      "artists": [
-        {
-          "name": "Tulip",
-          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
-        }
-      ],
-      "duration_ms": 288018,
-      "name": "Ophelia - feat. SHAOLIN G",
-      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "War Of Being",
         "url": "https://open.spotify.com/album/32xlRHSOQrN0gaLNRmesGd"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 448853,
       "name": "Abode of the Perfect Soul",
       "url": "https://open.spotify.com/track/6RrUexWtOLbuU8K3YxF7oh"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Ophelia (feat. SHAOLIN G)",
+        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "duration_ms": 288018,
+      "name": "Ophelia - feat. SHAOLIN G",
+      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Glass",
-        "url": "https://open.spotify.com/album/65p0SUPb3ZLo9BBgxHAcoc"
-      },
-      "artists": [
-        {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/6JQlRaRd38T5DhUaDnR5yG"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Terror Management Theory",
         "url": "https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 421601,
       "name": "Through the Sands of Time",
       "url": "https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Glass",
+        "url": "https://open.spotify.com/album/65p0SUPb3ZLo9BBgxHAcoc"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/6JQlRaRd38T5DhUaDnR5yG"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "OXYGEN!",
-        "url": "https://open.spotify.com/album/7sEkwo3nFDzAILuvSvCzf8"
-      },
-      "artists": [
-        {
-          "name": "Evergrey",
-          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
-        }
-      ],
-      "duration_ms": 380480,
-      "name": "OXYGEN!",
-      "url": "https://open.spotify.com/track/01OuTCfQH5RKwMDaVvNEZ1"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
         "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 377773,
       "name": "Vasgy\u00e1r",
       "url": "https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "OXYGEN!",
+        "url": "https://open.spotify.com/album/7sEkwo3nFDzAILuvSvCzf8"
+      },
+      "artists": [
+        {
+          "name": "Evergrey",
+          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
+        }
+      ],
+      "duration_ms": 380480,
+      "name": "OXYGEN!",
+      "url": "https://open.spotify.com/track/01OuTCfQH5RKwMDaVvNEZ1"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/01QMzREgm6tyZsydu4mL1U"
-      },
-      "artists": [
-        {
-          "name": "Stellar Circuits",
-          "url": "https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV"
-        }
-      ],
-      "duration_ms": 162100,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/6nKHKZgspXY4ng3exvTXGD"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Chasing Sunsets",
         "url": "https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 256453,
       "name": "Chasing Sunsets",
       "url": "https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/01QMzREgm6tyZsydu4mL1U"
+      },
+      "artists": [
+        {
+          "name": "Stellar Circuits",
+          "url": "https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV"
+        }
+      ],
+      "duration_ms": 162100,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/6nKHKZgspXY4ng3exvTXGD"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "How's The Heart? (Bonus Version)",
-        "url": "https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo"
-      },
-      "artists": [
-        {
-          "name": "Bloodred Hourglass",
-          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
-        }
-      ],
-      "duration_ms": 229975,
-      "name": "Only When I'm Breathing",
-      "url": "https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/1fXw2enARWsT5TnLyEOFn5"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 309448,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4WJTFDW2Z1PY3H88uBB540"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "How's The Heart? (Bonus Version)",
+        "url": "https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo"
+      },
+      "artists": [
+        {
+          "name": "Bloodred Hourglass",
+          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
+        }
+      ],
+      "duration_ms": 229975,
+      "name": "Only When I'm Breathing",
+      "url": "https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Enter the City",
-        "url": "https://open.spotify.com/album/5EFHnhXAwF6eYy6u0lmNgh"
-      },
-      "artists": [
-        {
-          "name": "Devin Townsend",
-          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "Enter the City",
-      "url": "https://open.spotify.com/track/58npauGm62yQgWgS5X2nd6"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Innocence Was Long Forgotten",
         "url": "https://open.spotify.com/album/59i8Qqzatwq6dKpHDsrjcU"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 260013,
       "name": "Innocence Was Long Forgotten",
       "url": "https://open.spotify.com/track/38xswHmNWqoAFznp81djgj"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Enter the City",
+        "url": "https://open.spotify.com/album/5EFHnhXAwF6eYy6u0lmNgh"
+      },
+      "artists": [
+        {
+          "name": "Devin Townsend",
+          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "Enter the City",
+      "url": "https://open.spotify.com/track/58npauGm62yQgWgS5X2nd6"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Nyetflix and Chill",
-        "url": "https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe"
-      },
-      "artists": [
-        {
-          "name": "Nuclear Power Trio",
-          "url": "https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev"
-        }
-      ],
-      "duration_ms": 203670,
-      "name": "Nyetflix and Chill",
-      "url": "https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "The Deceivers (Instrumental)",
         "url": "https://open.spotify.com/album/2xs01qTwDQ0BkreOq75GQT"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 267813,
       "name": "Purified by Vengeance (Instrumental) [feat. Mark Holcomb, Periphery & Mick Gordon]",
       "url": "https://open.spotify.com/track/39TLRxXsT5Ar1vM0q7JZS2"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Nyetflix and Chill",
+        "url": "https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe"
+      },
+      "artists": [
+        {
+          "name": "Nuclear Power Trio",
+          "url": "https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev"
+        }
+      ],
+      "duration_ms": 203670,
+      "name": "Nyetflix and Chill",
+      "url": "https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/4OsCLyDn92nl4vJp7FH41u"
-      },
-      "artists": [
-        {
-          "name": "Port Noir",
-          "url": "https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Noir",
-      "url": "https://open.spotify.com/track/7L3ocnzkhY2BXKKWBd7xOY"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Silence In a Room of Lies",
         "url": "https://open.spotify.com/album/6m6dLM7QETJrvypCfGlH98"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 194909,
       "name": "Silence In a Room of Lies",
       "url": "https://open.spotify.com/track/7zNDwzq2oLj35hN3LqIYud"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/4OsCLyDn92nl4vJp7FH41u"
+      },
+      "artists": [
+        {
+          "name": "Port Noir",
+          "url": "https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/7L3ocnzkhY2BXKKWBd7xOY"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "From Nothing",
+        "url": "https://open.spotify.com/album/6NBzyj5wkRF2ILEoAaIQRQ"
+      },
+      "artists": [
+        {
+          "name": "Benthos",
+          "url": "https://open.spotify.com/artist/0A7v88d7h8uYeGaBhflb45"
+        }
+      ],
+      "duration_ms": 341480,
+      "name": "From Nothing",
+      "url": "https://open.spotify.com/track/3nr4oL6HxiQjged4NWngEs"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "humAnIty",
         "url": "https://open.spotify.com/album/27UpDVJhVwusFYfSomvS2j"
       },
@@ -2079,18 +2095,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "From Nothing",
-        "url": "https://open.spotify.com/album/6NBzyj5wkRF2ILEoAaIQRQ"
+        "name": "ARE YOU AFRAID?",
+        "url": "https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og"
       },
       "artists": [
         {
-          "name": "Benthos",
-          "url": "https://open.spotify.com/artist/0A7v88d7h8uYeGaBhflb45"
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
         }
       ],
-      "duration_ms": 341480,
-      "name": "From Nothing",
-      "url": "https://open.spotify.com/track/3nr4oL6HxiQjged4NWngEs"
+      "duration_ms": 202105,
+      "name": "ARE YOU AFRAID?",
+      "url": "https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2107,22 +2123,6 @@
       "duration_ms": 193800,
       "name": "A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
       "url": "https://open.spotify.com/track/6RxNy0WXVOya0HvyYyFBZ5"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "ARE YOU AFRAID?",
-        "url": "https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og"
-      },
-      "artists": [
-        {
-          "name": "Chaosbay",
-          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "ARE YOU AFRAID?",
-      "url": "https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2239,22 +2239,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "\u8607\u9192 II: Frailty",
-        "url": "https://open.spotify.com/album/3Qqr84sZDMRNuDeIdqIbMH"
+        "name": "Beyond Obsidian Euphoria",
+        "url": "https://open.spotify.com/album/2PoczEqH999hvznpNC5TMs"
       },
       "artists": [
         {
-          "name": "OU",
-          "url": "https://open.spotify.com/artist/3jErOJR4avnhfZuyHogWRb"
-        },
-        {
-          "name": "Devin Townsend",
-          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+          "name": "T\u00f3mar\u00fam",
+          "url": "https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ"
         }
       ],
-      "duration_ms": 302094,
-      "name": "\u6de8\u5316 Purge (feat. Devin Townsend)",
-      "url": "https://open.spotify.com/track/1ghjSbOICxweO2X9toPij4"
+      "duration_ms": 422773,
+      "name": "Shallow Ecstasy",
+      "url": "https://open.spotify.com/track/1aFu1TSeBdfx4eknxNWTB9"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2275,18 +2271,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Beyond Obsidian Euphoria",
-        "url": "https://open.spotify.com/album/2PoczEqH999hvznpNC5TMs"
+        "name": "\u8607\u9192 II: Frailty",
+        "url": "https://open.spotify.com/album/3Qqr84sZDMRNuDeIdqIbMH"
       },
       "artists": [
         {
-          "name": "T\u00f3mar\u00fam",
-          "url": "https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ"
+          "name": "OU",
+          "url": "https://open.spotify.com/artist/3jErOJR4avnhfZuyHogWRb"
+        },
+        {
+          "name": "Devin Townsend",
+          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
         }
       ],
-      "duration_ms": 422773,
-      "name": "Shallow Ecstasy",
-      "url": "https://open.spotify.com/track/1aFu1TSeBdfx4eknxNWTB9"
+      "duration_ms": 302094,
+      "name": "\u6de8\u5316 Purge (feat. Devin Townsend)",
+      "url": "https://open.spotify.com/track/1ghjSbOICxweO2X9toPij4"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2415,6 +2415,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Traverse The Bealach",
+        "url": "https://open.spotify.com/album/4kYj0QKl8LsfhFuLwMJx3P"
+      },
+      "artists": [
+        {
+          "name": "Sg\u00e0ile",
+          "url": "https://open.spotify.com/artist/0kTaZFlAaJlbEkeNTjOYe1"
+        }
+      ],
+      "duration_ms": 562000,
+      "name": "Lamentations By The Lochan",
+      "url": "https://open.spotify.com/track/4fKscys0eDaqU6K3KCF2en"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "Last Words",
         "url": "https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr"
       },
@@ -2447,22 +2463,6 @@
       "duration_ms": 214000,
       "name": "PANIK",
       "url": "https://open.spotify.com/track/3cETXA1GfQYdAajbUDohJZ"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Hotel Sphinx",
-        "url": "https://open.spotify.com/album/4BhW8SgM0s7j5e4fG2nXVu"
-      },
-      "artists": [
-        {
-          "name": "Imperial Triumphant",
-          "url": "https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO"
-        }
-      ],
-      "duration_ms": 289466,
-      "name": "Hotel Sphinx",
-      "url": "https://open.spotify.com/track/0I4KEXWHq6jgx2VC0yq2ut"
     },
     {
       "added_at": "2026-05-15 04:02:10",

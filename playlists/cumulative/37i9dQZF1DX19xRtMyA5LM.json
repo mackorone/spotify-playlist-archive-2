@@ -5135,6 +5135,28 @@
     },
     {
       "album": {
+        "name": "Baranka Music Promo Tape (26)",
+        "url": "https://open.spotify.com/album/0eeTdND0Ua4KK9PceETEHK"
+      },
+      "artists": [
+        {
+          "name": "Fresku",
+          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
+        },
+        {
+          "name": "Baranka Music",
+          "url": "https://open.spotify.com/artist/4MsbmsHz9pKww3ey2OjC0d"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179451,
+      "name": "Ik Droom",
+      "url": "https://open.spotify.com/track/4RlwjDq7AmFnn9QfY6AW34"
+    },
+    {
+      "album": {
         "name": "Ik Kan Niet Op Niks Zijn",
         "url": "https://open.spotify.com/album/2x6w8WIpWTWlNptFxiEklE"
       },
@@ -8372,7 +8394,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 200618,
       "name": "Osso",
       "url": "https://open.spotify.com/track/05HjN1JDMU4avSiOAQa8Cz"

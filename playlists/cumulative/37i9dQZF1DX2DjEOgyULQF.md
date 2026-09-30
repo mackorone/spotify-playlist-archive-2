@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-524 songs - 1 day 0 hr 45 min
+525 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,7 @@
 | [Thankful](https://open.spotify.com/track/2UXjwMD5scjJzBh3nmQAX8) | [Regentum](https://open.spotify.com/artist/6gfKfJS89ZAy4mSAlwTXvc) | [Thankful](https://open.spotify.com/album/73ZOqAI2ARO0Chn2Vg3wrw) | 3:14 | 2023-04-28 | 2024-08-24 |
 | [The Birds' Lullaby](https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 3:35 | 2023-04-28 | 2025-05-22 |
 | [The Body Softens](https://open.spotify.com/track/1G0KYHvwfoumBGOkK168SS) | [Quiet Draft](https://open.spotify.com/artist/6Qsq7Ue7mRKBWacCbRlXuO) | [The Body Softens](https://open.spotify.com/album/41Edg0QgS42otx7r9ulC0z) | 2:42 | 2026-08-19 |  |
-| [The Breath of Nature](https://open.spotify.com/track/4GHPUQVr1NfdjncydcknUo) | [Ruttik Dhakate](https://open.spotify.com/artist/4vPlN4GEfqIPoiwwsCxZl3) | [The Breath of Nature](https://open.spotify.com/album/5BbpXR8Ykj4OSdagECn29J) | 2:52 | 2026-08-19 |  |
+| [The Breath of Nature](https://open.spotify.com/track/4GHPUQVr1NfdjncydcknUo) | [Ruttik Dhakate](https://open.spotify.com/artist/4vPlN4GEfqIPoiwwsCxZl3) | [The Breath of Nature](https://open.spotify.com/album/5BbpXR8Ykj4OSdagECn29J) | 2:52 | 2026-08-19 | 2026-09-30 |
 | [The Breathing Woods](https://open.spotify.com/track/72xNutGVljPsyIjn0GiODR) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Live from Nature](https://open.spotify.com/album/7LZsm151E7Nj3W74AIsw9p) | 2:13 | 2025-10-02 | 2026-05-28 |
 | [The Brook](https://open.spotify.com/track/4DxtQrlRQrlS4WVaFYtL4n) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [The Brook](https://open.spotify.com/album/2mKQeiAHIjQU3MeiauWQeM) | 2:58 | 2023-04-28 | 2026-02-24 |
 | [The Danish Waterfall](https://open.spotify.com/track/3Himlq10H1TMaLquCj26HS) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [The Danish Waterfall](https://open.spotify.com/album/5gtlJrqr9VuRQbPPRpcDXu) | 3:00 | 2023-04-28 | 2024-08-24 |
@@ -490,6 +490,7 @@
 | [Undiscovered](https://open.spotify.com/track/1GzLMPydK2QU21dcTsYOsZ) | [Elements Of Matter](https://open.spotify.com/artist/2msV34nEca2EAuKzEUp2Ef) | [Undiscovered](https://open.spotify.com/album/7dXoaFvmWQH9M5lSSoKBn9) | 2:58 | 2025-03-19 | 2026-04-04 |
 | [Universal Flow](https://open.spotify.com/track/2EnUrCq7Dqvxvx1k3TxVaT) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Universal Flow](https://open.spotify.com/album/5Gk6erdt0eQwJv4Mt6OFLZ) | 2:48 | 2024-06-03 | 2025-12-18 |
 | [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2023-04-28 | 2025-02-18 |
+| [Valley Drift](https://open.spotify.com/track/4DhputU3HbL8GnnKMwPWAs) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Valley Drift](https://open.spotify.com/album/3M5aT3MglwYmIS7EYO5M9D) | 3:06 | 2026-09-21 |  |
 | [Vedana](https://open.spotify.com/track/4Bz2Y5mv3GEtxrlHQzheMB) | [Kamamatsu](https://open.spotify.com/artist/2MXArrDWK0b0kaxFz4OtCQ) | [Vedana](https://open.spotify.com/album/35JiT2cKAXYsielBXaC5Cz) | 2:23 | 2023-04-28 | 2023-07-29 |
 | [Veil of Sylva](https://open.spotify.com/track/0deuii5DgfxodJswCQicZb) | [Far North](https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P) | [Veil of Sylva](https://open.spotify.com/album/2pvacHIi2kDaYoIxREZo79) | 2:22 | 2026-04-03 |  |
 | [Veilwood](https://open.spotify.com/track/7fhsIOV0wfMkkR3s5cs8qS) | [Elysian Woods](https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi) | [Veilwood](https://open.spotify.com/album/7B7tdmFyDvO6iwzvrKsKuO) | 2:33 | 2025-09-10 | 2025-12-18 |

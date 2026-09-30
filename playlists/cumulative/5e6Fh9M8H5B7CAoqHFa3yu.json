@@ -10119,6 +10119,24 @@
     },
     {
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/2voBAf4VAc6NzKDKRHpVqI"
+      },
+      "artists": [
+        {
+          "name": "Erbomb",
+          "url": "https://open.spotify.com/artist/1xmDZ27OFgWwJgGlLmaHZn"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163376,
+      "name": "Dino",
+      "url": "https://open.spotify.com/track/5Vq6OAlTw9ZsIrLwFbvapt"
+    },
+    {
+      "album": {
         "name": "Dioses del Vud\u00fa",
         "url": "https://open.spotify.com/album/0BCY4TqPnnqjTrcBzqAcpt"
       },
@@ -30770,7 +30788,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 182919,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/1nwjUYSbzhN050UZGEzHzE"
@@ -34518,6 +34536,24 @@
       "duration_ms": 187720,
       "name": "Rebelsteppa - Melodica Cut",
       "url": "https://open.spotify.com/track/23r7AgKxHSilNM2TX1tGD8"
+    },
+    {
+      "album": {
+        "name": "Recordandote",
+        "url": "https://open.spotify.com/album/18j993ovYdslUR5365bziS"
+      },
+      "artists": [
+        {
+          "name": "djpanthe",
+          "url": "https://open.spotify.com/artist/4tMzD6kKT4VcBQKBIZFW5i"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373940,
+      "name": "Recordandote",
+      "url": "https://open.spotify.com/track/5KFU9ny7dmH3dJm49Kn5vv"
     },
     {
       "album": {
@@ -40107,6 +40143,24 @@
     },
     {
       "album": {
+        "name": "Stylistic",
+        "url": "https://open.spotify.com/album/0igdGFQEo9rLlRCe1c7Cpg"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111658,
+      "name": "Stylistic",
+      "url": "https://open.spotify.com/track/5XkMU1eSvMyQvKUQX2wSiH"
+    },
+    {
+      "album": {
         "name": "Subsequent",
         "url": "https://open.spotify.com/album/4S0ChMFmLdoQZLId7Uc0Uv"
       },
@@ -42520,7 +42574,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 125518,
       "name": "the same - jersey club remix",
       "url": "https://open.spotify.com/track/4GBWvxSQkTXJDbywwIw8J7"

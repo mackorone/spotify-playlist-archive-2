@@ -1,12 +1,12 @@
 {
   "description": "For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.",
-  "num_followers": 412400,
+  "num_followers": 412600,
   "original_name": "Disney Lullaby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAHbVAsuUqBBnBfvpzyC5UnlGPeO",
+  "snapshot_id": "AAAAAAjVGK3Z5PrYOUQvCem4RKbV5nts",
   "tracks": [
     {
       "added_at": "2026-06-26 13:00:32",
@@ -183,6 +183,26 @@
       "duration_ms": 165319,
       "name": "Colombia, Mi Encanto",
       "url": "https://open.spotify.com/track/5NO96KkIVx6AdOTV77C4Ck"
+    },
+    {
+      "added_at": "2026-09-29 14:26:42",
+      "album": {
+        "name": "Disney Peaceful Piano: Deep Focus",
+        "url": "https://open.spotify.com/album/2qO0pbZco75616ASWjgIsG"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 183417,
+      "name": "Bundle of Joy",
+      "url": "https://open.spotify.com/track/2161Op90HUoKwnJ7pJtknw"
     },
     {
       "added_at": "2026-06-26 13:00:32",

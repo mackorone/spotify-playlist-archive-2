@@ -2,9 +2,9 @@
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> The best new music by independent artists and labels\. Cover: Half/Angel
+> The best new music by independent artists and labels\. Cover: Kiridox
 
-4,630 songs - 10 day 15 hr 25 min
+4,634 songs - 10 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,6 +842,7 @@
 | [COOLAID](https://open.spotify.com/track/3gzU9BgGq1EUdtiqnsaJ9K) | [coolthekid](https://open.spotify.com/artist/72VGlD2XP1a2eGhsZx2VaE) | [COOLAID](https://open.spotify.com/album/25H8ho70NGeKXFYC0IYm1A) | 2:59 | 2024-02-02 | 2024-04-09 |
 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 | 2022-08-24 | 2022-09-09 |
 | [Coordinate](https://open.spotify.com/track/1jtrEdMO5GJy7bP96eoPL6) | [H3rizon](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Coordinate](https://open.spotify.com/album/3DPaDnyWkKn5HDAkFHor8t) | 2:50 | 2023-07-19 | 2023-08-10 |
+| [Corners](https://open.spotify.com/track/5z1zXPPIULsMBirZzLXIqL) | [BURDS100](https://open.spotify.com/artist/6eTlzGW7GoQoNspbM8C3Ta), [DHEM](https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK) | [Corners](https://open.spotify.com/album/2etsmPG6swRyPzqMvzhQ9B) | 2:43 | 2026-09-29 |  |
 | [Cosy Comfy](https://open.spotify.com/track/5hmGn4fCrl34WKNjxpf1Jp) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Cosy Comfy](https://open.spotify.com/album/1m05oNo7TbXqTH6krGas8v) | 5:08 | 2025-08-12 | 2025-10-29 |
 | [Cotton Candy](https://open.spotify.com/track/4uA2YqAL6Pm2u8ECRUNJU8) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Cotton Candy](https://open.spotify.com/album/4hn9fzp2FQfVWbWi9LXje6) | 2:16 | 2021-12-28 | 2022-01-13 |
 | [Cotton Mouth](https://open.spotify.com/track/0bL1roUjcKiJH3ReN9s6e8) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Cotton Mouth](https://open.spotify.com/album/5QdUJQ0MYLiuIJDQnzJitj) | 4:08 | 2025-03-25 | 2025-05-14 |
@@ -1147,6 +1148,7 @@
 | [Drive Carefully](https://open.spotify.com/track/6743qULo3SoDUKjGC3Dju2) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Drive Carefully](https://open.spotify.com/album/2e3AwzwENq3TQwHcWMWvyi) | 3:28 | 2023-10-04 | 2023-10-27 |
 | [Drive Thru](https://open.spotify.com/track/4WvpnhljGX2eSEMeE3rrhz) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [r.em.edy](https://open.spotify.com/artist/2zimfjugiCq53nziN8cenP) | [Drive Thru](https://open.spotify.com/album/6YXkNx8ja2YzuZAn3yeve1) | 3:13 | 2022-06-29 | 2022-07-20 |
 | [Driveway](https://open.spotify.com/track/0NDWhFxtRmakSLuxdvkIp4) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Driveway](https://open.spotify.com/album/67ruOPjGPhLFmplqqnuf1D) | 3:26 | 2024-11-19 | 2025-02-12 |
+| [driving](https://open.spotify.com/track/3WOgGxMVB3IK4etsxuzU1n) | [Grace Robinson](https://open.spotify.com/artist/42iynDMKx9qg3N6mgwq54S) | [driving](https://open.spotify.com/album/0ZTgd6h3mJLVjubBXtjptW) | 3:56 | 2026-09-29 |  |
 | [Driving Home](https://open.spotify.com/track/459i1iK7QehIvYQTMHXvIQ) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6) | [Driving Home](https://open.spotify.com/album/5JVpAaWPJiOteo0YH4ymsi) | 2:21 | 2022-03-30 | 2022-04-27 |
 | [DROWNING IN MY ROOM](https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [DROWNING IN MY ROOM](https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR) | 2:29 | 2025-01-29 | 2025-03-26 |
 | [Drug Store](https://open.spotify.com/track/4p9Crg5bBCfCTJFHKTRlRT) | [WYATT](https://open.spotify.com/artist/6mBJScOnNxP0MjgHlKi6Gw), [BENTLE](https://open.spotify.com/artist/4fM0KqoGH8b2iTi2okBzaE) | [Drug Store](https://open.spotify.com/album/2FWu0jvVRlIb2BllgX8ShV) | 3:08 | 2023-08-23 | 2023-09-14 |
@@ -1526,7 +1528,7 @@
 | [GASSED Freestyle](https://open.spotify.com/track/2U8RI72hObjPc3jMIR52Dw) | [Lavelle](https://open.spotify.com/artist/4o9bhJJJrtz9xp8x3iTm0z), [Daunt](https://open.spotify.com/artist/5M4z4oXjlM7T1Bpj23qHQj) | [GASSED Freestyle](https://open.spotify.com/album/4t37tpwOl4URUReMq4I7aj) | 1:52 | 2023-03-29 | 2023-04-13 |
 | [Gatekeep](https://open.spotify.com/track/78WLXqaqyu9PeUbMjvF5iQ) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Big Modern](https://open.spotify.com/album/07Grit2srI4QYHsXbE0zIX) | 1:06 | 2025-11-18 | 2026-03-18 |
 | [Gazed](https://open.spotify.com/track/7hYTdFI4zqoQX4FxE7bowi) | [Ace Wiz](https://open.spotify.com/artist/3vu2OdZDpwUIzbAebEm7YW) | [Gazed](https://open.spotify.com/album/3tOsYoUgrWDWpW8IajLIia) | 3:16 | 2022-02-09 | 2022-03-10 |
-| [Geminii](https://open.spotify.com/track/3NT1oWgSG5QzkUdsZjJiaO) | [Shewita](https://open.spotify.com/artist/17kdM7888D5U2JJI05GqsH) | [Geminii](https://open.spotify.com/album/1nlOzzzKBCAWpjKMen0gWr) | 3:05 | 2026-05-26 |  |
+| [Geminii](https://open.spotify.com/track/3NT1oWgSG5QzkUdsZjJiaO) | [Shewita](https://open.spotify.com/artist/17kdM7888D5U2JJI05GqsH) | [Geminii](https://open.spotify.com/album/1nlOzzzKBCAWpjKMen0gWr) | 3:05 | 2026-05-26 | 2026-09-30 |
 | [Generational](https://open.spotify.com/track/5RpnBwhlUctvDeCZz1YWeb) | [Rya Park](https://open.spotify.com/artist/6enouLeosev4RicD8Zz9iA) | [Generational](https://open.spotify.com/album/7cttcUFuw0YASWF7ZhzoMv) | 2:53 | 2022-03-01 | 2022-03-24 |
 | [Get 'Em Up](https://open.spotify.com/track/3WJXMqyJTVUoZbe73wDjYw) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Get 'Em Up](https://open.spotify.com/album/7kZnK7Or40Hoe7unZcfZMJ) | 2:51 | 2025-06-10 | 2025-08-06 |
 | [GET ACTIVE](https://open.spotify.com/track/6xB1AUeisuqI0B0OohTlU6) | [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [minutiae](https://open.spotify.com/album/4hvmH8nz28FE4vT9XXDq6I) | 2:23 | 2025-06-03 | 2025-07-09 |
@@ -3050,6 +3052,7 @@
 | [OY](https://open.spotify.com/track/7kZAxmGF7mp4dSB5O6dPSG) | [King Ivy](https://open.spotify.com/artist/62nhtMbfF8zR4MC1FirUAJ) | [OY](https://open.spotify.com/album/6LHqOPLTrUnxoVz53k0MtF) | 2:29 | 2023-11-22 | 2023-11-30 |
 | [Oyster Cuts](https://open.spotify.com/track/5FGdJ7NebnagkGLRjsY2ja) | [Quivers](https://open.spotify.com/artist/0YUqHKQEwFgGaDVSaHTS55) | [Oyster Cuts](https://open.spotify.com/album/53U20PunzeKXI8EmanVRE9) | 4:20 | 2024-06-04 | 2024-08-07 |
 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2022-03-16 | 2023-01-13 |
+| [P.F.S.](https://open.spotify.com/track/2mJo3MePpbyTMyjKVdF72Z) | [Kiridox](https://open.spotify.com/artist/5saO9EqfTzOo033Mzdyzmo), [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [P.F.S.](https://open.spotify.com/album/3jjAsBP8jJNU1xhVYPhQr8) | 2:33 | 2026-09-29 |  |
 | [Pace](https://open.spotify.com/track/1czoi7DbGAcAnbXEwF60ud) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [Pace](https://open.spotify.com/album/7KhrkIe7BPlFGeDLwKsvSh) | 3:28 | 2025-10-07 | 2026-01-28 |
 | [Pacific Ocean](https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Pacific Ocean](https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25) | 2:33 | 2025-05-20 | 2025-07-02 |
 | [Pack It Up](https://open.spotify.com/track/1ep21tPRym5uPslwwVwNVV) | [CHEEKY LEASH](https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL) | [The Burrow](https://open.spotify.com/album/0Da6mJ7GIXB91ybJn1b22k) | 3:17 | 2025-03-11 | 2025-04-30 |
@@ -3234,7 +3237,7 @@
 | [Pulse](https://open.spotify.com/track/6LLvkAyDL6Yv6gHI8SF7Bw) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Pulse](https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf) | 4:55 | 2023-06-07 | 2023-07-20 |
 | [Punch Drunk Love](https://open.spotify.com/track/03cjN1tRrUtpgvXTvdFFVa) | [Angeles](https://open.spotify.com/artist/6rxQ2Ki8x6She8CbMIEMFV) | [Punch Drunk Love](https://open.spotify.com/album/2UAXdzHB87Fq4MwKTP4DxJ) | 4:23 | 2022-11-23 | 2022-12-01 |
 | [Punch The Shark](https://open.spotify.com/track/16FtGOyBxXdM16zvjbmlDM) | [Sweetie](https://open.spotify.com/artist/2oE9iKDAQnylK5wWR5Ldcs) | [Punch The Shark](https://open.spotify.com/album/51JPaXYTksxhj0dv4OatVY) | 3:05 | 2023-05-30 | 2023-06-23 |
-| [Punish](https://open.spotify.com/track/4o4QEtyFluglGxzRG114We) | [The Engine](https://open.spotify.com/artist/5i3cjWes0xYvWVPH6R2Fah) | [Punish / Years of Carnival](https://open.spotify.com/album/367LnvzdH5f3SXfq3EFBBF) | 4:00 | 2026-06-30 |  |
+| [Punish](https://open.spotify.com/track/4o4QEtyFluglGxzRG114We) | [The Engine](https://open.spotify.com/artist/5i3cjWes0xYvWVPH6R2Fah) | [Punish / Years of Carnival](https://open.spotify.com/album/367LnvzdH5f3SXfq3EFBBF) | 4:00 | 2026-06-30 | 2026-09-30 |
 | [Pure Shores](https://open.spotify.com/track/44gRWW1BODLc8vbVssq34g) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [Pure Shores](https://open.spotify.com/album/7jJYJc9SQ6oAKNPQQD48sE) | 2:45 | 2022-01-25 | 2022-02-24 |
 | [Pursuit](https://open.spotify.com/track/5ClnDTIsRgBs1E8w7ExW6c) | [Rob the Bank](https://open.spotify.com/artist/71j9zpBeJVBnPLE5kIzJrE), [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp) | [Pursuit](https://open.spotify.com/album/00YDuoqAxSsytLVnXqVZVl) | 2:24 | 2024-06-18 | 2024-07-17 |
 | [Push Start](https://open.spotify.com/track/0AWWq2PcKq64cQCjOHpqai) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Push Start](https://open.spotify.com/album/2klbRjJcP5jnYCC9jGJzev) | 1:54 | 2023-07-06 | 2023-07-27 |
@@ -3740,7 +3743,7 @@
 | [SPETA](https://open.spotify.com/track/7f9YEwrmfVGHkmZP72Py9l) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [SPETA](https://open.spotify.com/album/2HOXUFzQ5fEtnCuYlJyzUL) | 2:52 | 2022-07-19 | 2022-08-25 |
 | [Spicy](https://open.spotify.com/track/1wREiSBcsWyXXxE3cDtYsc) | [WHERIKO](https://open.spotify.com/artist/6cu3FZbEHlwvbt6H5yPSDV) | [Spicy](https://open.spotify.com/album/43QGhrnXNdtFLc9RgYz26o) | 3:18 | 2023-07-19 | 2023-08-10 |
 | [Spiders](https://open.spotify.com/track/1gwRiU3xxw6OLmQX0cSLPH) | [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [Spiders](https://open.spotify.com/album/5KlEko7BdpjiElJG6FcmLB) | 2:15 | 2022-03-16 | 2022-04-27 |
-| [Spiders](https://open.spotify.com/track/5EoIK57x7sJBb88exsyc6R) | [Trophy Wyfe](https://open.spotify.com/artist/6wIZ4daFx49ebqoHMkYlfm) | [Spiders](https://open.spotify.com/album/1yCvyXDSSfx8l11wvfJDPn) | 4:16 | 2026-06-16 |  |
+| [Spiders](https://open.spotify.com/track/5EoIK57x7sJBb88exsyc6R) | [Trophy Wyfe](https://open.spotify.com/artist/6wIZ4daFx49ebqoHMkYlfm) | [Spiders](https://open.spotify.com/album/1yCvyXDSSfx8l11wvfJDPn) | 4:16 | 2026-06-16 | 2026-09-30 |
 | [Spiderweb](https://open.spotify.com/track/7kWd9l6xNc9A6lIgQfkIu8) | [Jannah Beth](https://open.spotify.com/artist/6eC2CFvVSX6FZRJqTqXwZh) | [Spiderweb](https://open.spotify.com/album/3kFrJuoQvX4f0mTmqnWAUI) | 3:23 | 2026-03-17 | 2026-07-08 |
 | [SPIT!](https://open.spotify.com/track/2nsjNpfLiDpsWbVJijara3) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [SPIT!](https://open.spotify.com/album/0yEo2sSFG39I0dYb1aCMPs) | 2:41 | 2023-08-30 | 2023-09-14 |
 | [Split](https://open.spotify.com/track/0eQ1ZwnZeAJcccQMPrz6OV) | [Georgia Mulligan](https://open.spotify.com/artist/4tXhvq7trzNGSORS5pAB9o) | [Split](https://open.spotify.com/album/3Cl9Ty5YQoEEb3ISXHsIaY) | 3:57 | 2025-08-12 | 2025-10-01 |
@@ -3881,7 +3884,7 @@
 | [Swallower](https://open.spotify.com/track/7uRaqlsYfQhUQXm2Qtr8t0) | [Voiid](https://open.spotify.com/artist/5k1Hr3VeI3TXHwBh9ohm0b) | [Watering Dead Flowers](https://open.spotify.com/album/0mIsPTnAqyN5H1S1rDsKUG) | 3:58 | 2023-05-03 | 2023-05-24 |
 | [Swan Dive](https://open.spotify.com/track/3o9mrUdJAc06MGFtBrvdBL) | [Hayku Kyah](https://open.spotify.com/artist/70b7TMBCkhzP7KgM1qc3Q8) | [Swan Dive](https://open.spotify.com/album/2UzVHhSE2QqaNmGQsS3QOg) | 3:39 | 2023-10-04 | 2023-10-20 |
 | [sway](https://open.spotify.com/track/503gLddG5seJR59iM2BLi7) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [sway](https://open.spotify.com/album/5WAigjDSeooWIyiPLb1ra2) | 1:48 | 2024-02-22 | 2024-04-09 |
-| [Sweet Boy](https://open.spotify.com/track/24UKgQDbtPkNseU4T0oejv) | [d.b\. longing](https://open.spotify.com/artist/3Q6vER5P17ZxRJqLZJSK8X) | [Sweet Boy](https://open.spotify.com/album/7GGo7ibPtVoc31llggZIgU) | 5:03 | 2026-05-26 |  |
+| [Sweet Boy](https://open.spotify.com/track/24UKgQDbtPkNseU4T0oejv) | [d.b\. longing](https://open.spotify.com/artist/3Q6vER5P17ZxRJqLZJSK8X) | [Sweet Boy](https://open.spotify.com/album/7GGo7ibPtVoc31llggZIgU) | 5:03 | 2026-05-26 | 2026-09-30 |
 | [Sweet Connection](https://open.spotify.com/track/59GxhR9onPbGsPmEGRLvey) | [Elizabeth](https://open.spotify.com/artist/4PeDuiJ3tM8So1Ai7c5szN) | [Sweet Connection](https://open.spotify.com/album/4S13i7GzBhv4zx3FBwPTOz) | 3:05 | 2022-08-10 | 2022-09-09 |
 | [Sweet Home Mulga Bore](https://open.spotify.com/track/5yg2drfJx6Z7RYHr9yO2Xx) | [Mulga Bore Hard Rock](https://open.spotify.com/artist/20UoU6pOqBHVcSRITcRIzl) | [Sweet Home Mulga Bore](https://open.spotify.com/album/4D4d3DogwfkcbWcCefXi5T) | 3:10 | 2025-03-11 | 2025-04-02 |
 | [Sweet One](https://open.spotify.com/track/1IJr2iSVIayK6coEJRUPUO) | [Elie G](https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd), [Verbb](https://open.spotify.com/artist/5W54k3Jf0X9uBRCdW8EEXO) | [Sweet One](https://open.spotify.com/album/78y891HPIrNnSixK5sPQtD) | 3:27 | 2022-08-24 | 2022-09-01 |
@@ -4331,6 +4334,7 @@
 | [Waiting On You](https://open.spotify.com/track/7htqT7oKhLs8GAgRjI0avD) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Waiting On You](https://open.spotify.com/album/7oZI8GhYM3Voskx6pp4TdA) | 2:50 | 2022-08-31 | 2022-10-13 |
 | [Waiting Room](https://open.spotify.com/track/6LE83kMa6t2lF26XWRHefs) | [Hag](https://open.spotify.com/artist/0sfOldQlfT7CjziiNZbLxP), [Hati](https://open.spotify.com/artist/3CGJ7eC4KINcfIpFZCgLvP) | [Gap Creek Falls](https://open.spotify.com/album/53z6QTbgJcoTidi8HLg5pw) | 2:46 | 2026-04-28 | 2026-09-23 |
 | [Waiting Room](https://open.spotify.com/track/3FAQF1viWT74bByKb3LK6d) | [Kat Edwards](https://open.spotify.com/artist/08i7j3DXn5p7I5PrdVd5bV) | [Waiting Room](https://open.spotify.com/album/7ne79T4gn6ceOTX2XYWI5N) | 2:57 | 2024-06-04 | 2024-07-24 |
+| [WAITING ROOMS](https://open.spotify.com/track/28jYAVkqHCn2pxIjS2lsqc) | [Seren Emyr](https://open.spotify.com/artist/1wxFYrRDqTs82B6ZpurSBy) | [WAITING ROOMS](https://open.spotify.com/album/0rcOfLKMHIdOEaeIxGPU8q) | 3:00 | 2026-09-29 |  |
 | [Wake Me Up](https://open.spotify.com/track/2srRJNpS5BS4RdXMPZdmYk) | [LNG](https://open.spotify.com/artist/7tMtMsEW1G2k66Mr7FPlWT) | [Wake Me Up](https://open.spotify.com/album/42US2GS14nuceti3G6g8tB) | 2:54 | 2022-08-16 | 2022-09-01 |
 | [Wake Me Up](https://open.spotify.com/track/0gJfMJKBhvClIkBV6AmHvs) | [MorningMaxwell](https://open.spotify.com/artist/0kvwtYUiypCDaaKKhTD2Pp), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [Wake Me Up](https://open.spotify.com/album/3SGXMMIGMnIUzzmLV3gcf6) | 4:11 | 2023-03-15 | 2023-04-05 |
 | [WAKE UP](https://open.spotify.com/track/0rU2CSS0gSDz2tIcQMyLJM) | [JARR](https://open.spotify.com/artist/11B2AqK702ODWqCVyuWd61) | [WAKE UP](https://open.spotify.com/album/6rJwCrUsNN9P8HD89mYXqi) | 3:53 | 2025-05-20 | 2025-07-23 |

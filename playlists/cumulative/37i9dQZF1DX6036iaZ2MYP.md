@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: Didi B x Tayc
 
-1,392 songs - 2 day 16 hr 39 min
+1,393 songs - 2 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [C'est mon BB \(feat\. Chily\)](https://open.spotify.com/track/2WC22k0LeiZMaAjLsTBhPj) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [C'est mon BB \(feat\. Chily\)](https://open.spotify.com/album/1EGsiCAKg0HrWXfg3AoFde) | 2:28 | 2025-06-05 | 2025-06-13 |
 | [C'EST QUI C'EST NOUS](https://open.spotify.com/track/10BMsgQMdhtybASU9SE8GD) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [C'EST QUI C'EST NOUS](https://open.spotify.com/album/6tVSD6o5et2tMaBGGpRHy0) | 2:12 | 2026-06-18 | 2026-08-28 |
 | [C'est ton jour](https://open.spotify.com/track/6Y8hafOUvX1ChbtYBC5m5D) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [C'est ton jour](https://open.spotify.com/album/6aymrO43D14WwGcyc0Imd9) | 2:46 | 2024-08-08 | 2024-09-20 |
+| [Ca Ne Marche Pas](https://open.spotify.com/track/7eraMEp9CzCOEs4DnRsFVE) | [Joe Kingston](https://open.spotify.com/artist/0XgZLJ4UKRBh6KdFQgnMmc), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Ca Ne Marche Pas](https://open.spotify.com/album/1FuzOcvIDwM2AsfdM0ry8H) | 2:15 | 2026-09-24 |  |
 | [Ca Va Aller](https://open.spotify.com/track/5mwgVC4dkhvVBO46to8w0w) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ca Va Aller](https://open.spotify.com/album/4glCGjUMMpuDJCHJZPAGov) | 3:47 | 2024-11-21 | 2025-01-31 |
 | [Ca va pour nous \(feat\. MadeInParis\)](https://open.spotify.com/track/4pbBuWsjjItsAuIm3OcC2j) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Ca va pour nous \(feat\. MadeInParis\)](https://open.spotify.com/album/25E4LriKEiGJQLwB7D2CbD) | 2:14 | 2024-04-25 | 2024-05-17 |
 | [Cadeau](https://open.spotify.com/track/5H3QQGofiILSdRvB8AJgYL) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Cadeau](https://open.spotify.com/album/55mAmiJ6Bcfv7ewTwZuGy3) | 2:06 | 2024-12-12 | 2025-01-24 |

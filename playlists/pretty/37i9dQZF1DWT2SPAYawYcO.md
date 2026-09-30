@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Taylor Swift, Tinashe, Julia Jacklin, Madonna, Charli xcx, Leon Bridges + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,046 likes - 103 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,055 likes - 103 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 102 | [Never Know You Again](https://open.spotify.com/track/24o7pX77mu9MffqdePkzM3) | [Piper Butcher](https://open.spotify.com/artist/43AU8Hi9juJbA4UDNnmBps) | [Never Know You Again](https://open.spotify.com/album/0ZptqgHYdjdGfsq0QiVRDh) | 3:27 |
 | 103 | [Older](https://open.spotify.com/track/6W95YxMYIHwzlZkcVfg21j) | [Shannon Noll](https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG) | [The Road In Front Of Me](https://open.spotify.com/album/2bxrOUquJKuUWkqVuEvxwf) | 3:02 |
 
-Snapshot ID: `AAAAADJgz30cQEkK90+QVKzrOWctk/0+`
+Snapshot ID: `AAAAAJjxukONdQeZw6+yhlLCKOqL0k3T`

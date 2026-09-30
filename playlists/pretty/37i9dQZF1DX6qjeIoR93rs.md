@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > 🇵🇸
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,434 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,450 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SABAH EL WARD / صباح الورد](https://open.spotify.com/track/1xavkNqFWGuEMb3N3ZXbbG) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [SABAH EL WARD / صباح الورد](https://open.spotify.com/album/1q3WLPEx8Gozu40Yq71UJ1) | 3:10 |
 | 2 | [kollo lena \- كله لينا](https://open.spotify.com/track/5jeSen7p7VP3x7x7ZrLUME) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [AWDA \- عودة](https://open.spotify.com/album/3hXBH2apQYcgAzJ4abv5Aj) | 3:42 |
-| 3 | [Dammi Falastini](https://open.spotify.com/track/1ktQqi6cHDbNnFvuyfIQ3t) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE), [Exgeist](https://open.spotify.com/artist/4kkznifrxfvX0vtk2FLddV) | [Dammi Falastini](https://open.spotify.com/album/6UX1P1XSu0TQXnp0SNQQI0) | 4:00 |
+| 3 | [Dammi Falastini](https://open.spotify.com/track/1ktQqi6cHDbNnFvuyfIQ3t) | [Mohammed Assaf](https://open.spotify.com/artist/5A9UhpgElhMFohpvsjFQJk), [Exgeist](https://open.spotify.com/artist/4kkznifrxfvX0vtk2FLddV) | [Dammi Falastini](https://open.spotify.com/album/6UX1P1XSu0TQXnp0SNQQI0) | 4:00 |
 | 4 | [Lazim Ahkeelak](https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Lazim Ahkeelak](https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG) | 3:18 |
 | 5 | [Ya Tal3een](https://open.spotify.com/track/1lUBzm6GAUlY9kovZifP9G) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Ya Tal3een](https://open.spotify.com/album/1P4QHZ8SJmX3ZXYP4w4E5F) | 3:23 |
 | 6 | [Deira](https://open.spotify.com/track/6FS0BYsjoCqgwg8azaRGlx) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [DEIRA](https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d) | 2:48 |
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 11 | [asli ana \- أصلي أنا](https://open.spotify.com/track/0eqH5SceGkvfbxDXu7KaNZ) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [7arrir 3aqlak / Asli Ana](https://open.spotify.com/album/1JDKhvGNRFZSPXm1uVzTME) | 2:51 |
 | 12 | [Take me to Palestine](https://open.spotify.com/track/4TaK7UsTGX6hExOaF7cEPC) | [El\-Funoun Palestinian Popular Dance Troupe](https://open.spotify.com/artist/6VH1HRNwtjHE2txVKksXtm) | [Zajel](https://open.spotify.com/album/7xGzgL3s8YWHnqqIDoTpro) | 4:10 |
 | 13 | [فلسطيني](https://open.spotify.com/track/5XVJRGIoMGf2wp0oL3JNFw) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [فلسطيني](https://open.spotify.com/album/5P2ypwyHbXRZat8f5bD0la) | 3:16 |
-| 14 | [سلام لغزة](https://open.spotify.com/track/3c5p7TOw0z7Q6Udhwz4e9e) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [سلام لغزة](https://open.spotify.com/album/0SmNSigHgjszyYYywxCaH7) | 5:36 |
+| 14 | [سلام لغزة](https://open.spotify.com/track/3c5p7TOw0z7Q6Udhwz4e9e) | [Mohammed Assaf](https://open.spotify.com/artist/5A9UhpgElhMFohpvsjFQJk) | [سلام لغزة](https://open.spotify.com/album/0SmNSigHgjszyYYywxCaH7) | 5:36 |
 | 15 | [هي هي يا فلسطين](https://open.spotify.com/track/1zsKbHOR6lSDw8dpJayCOK) | [Rola Azar](https://open.spotify.com/artist/17WvUHY56BGNm6i6uTqyj1) | [هي هي يا فلسطين](https://open.spotify.com/album/5Mb9scc6xbyCcmOlAFCCcn) | 1:32 |
 | 16 | [Helwa Ya Baladi حلوة يا بلدي \- Cover](https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He) | [Lina Sleibi](https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz) | [Helwa Ya Baladi حلوة يا بلدي \(Cover\)](https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667) | 3:24 |
 | 17 | [دبكتنا فلسطينية](https://open.spotify.com/track/3ybO2gZVOKWCC0YckaPV21) | [Zain Daqqa](https://open.spotify.com/artist/7McV699B2B8toDcWE1tf2A) | [دبكتنا فلسطينية](https://open.spotify.com/album/1wv0KO8pIHd8Fb1H1fyERz) | 5:07 |
-| 18 | [Alyi El Kofiya \- علي الكوفية](https://open.spotify.com/track/6Zxyz6lCVj37TBtS9LCsBh) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Alyi El Kofiya \(علي الكوفية\)](https://open.spotify.com/album/3cK94klWwlCe4rGu4IyUFK) | 4:32 |
-| 19 | [متمسك بيكي](https://open.spotify.com/track/4IlVp3aRJjFaXJN1CuHNnV) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [عساف](https://open.spotify.com/album/4hLQnN3M5nTYN4NU4NG6NM) | 3:33 |
+| 18 | [Alyi El Kofiya \- علي الكوفية](https://open.spotify.com/track/6Zxyz6lCVj37TBtS9LCsBh) | [Mohammed Assaf](https://open.spotify.com/artist/5A9UhpgElhMFohpvsjFQJk) | [Alyi El Kofiya \(علي الكوفية\)](https://open.spotify.com/album/3cK94klWwlCe4rGu4IyUFK) | 4:32 |
+| 19 | [متمسك بيكي](https://open.spotify.com/track/4IlVp3aRJjFaXJN1CuHNnV) | [Mohammed Assaf](https://open.spotify.com/artist/5A9UhpgElhMFohpvsjFQJk) | [عساف](https://open.spotify.com/album/4hLQnN3M5nTYN4NU4NG6NM) | 3:33 |
 | 20 | [Falastin Taj 3al Rass](https://open.spotify.com/track/14OYhSOWxVYipT1JcezpfS) | [Muhannad Khalaf](https://open.spotify.com/artist/7dhc5bHorRHHPuM5SvCKIt), [Maher Halabi](https://open.spotify.com/artist/71IwshggZ6W2w83V1b0rTC) | [Falastin Taj 3al Rass](https://open.spotify.com/album/1xXtdNvp2ILwyr1Pc3SrON) | 4:37 |
 | 21 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 |
 | 22 | [Mayel ya Ghuzayel](https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9) | [Ensemble Musical De Palestine](https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz) | [Gaza \- Tradition musicale palestinienne](https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt) | 4:49 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 36 | [Allah Yihmeeki](https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [DEIRA](https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d) | 2:43 |
 | 37 | [DALOONA](https://open.spotify.com/track/3T3Adrn9WH7Y4cQWzu5JlM) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge), [Shadi Alborini](https://open.spotify.com/artist/0e2hg47c3PW58E4QdVHbWk), [Qasem AlNajjar](https://open.spotify.com/artist/4pxSnrz2fBrAkZP3GlaqV3) | [DALOONA](https://open.spotify.com/album/2NdKMb8NdKebxSf4S5Nb75) | 2:50 |
 | 38 | [Ya Jabal Ma Yhezak Reeh](https://open.spotify.com/track/5XFUBHR0UH955h6LOb6MsB) | [Omar Alabdallat](https://open.spotify.com/artist/3zbimX3Z591csbDHH2Iuxc) | [Ya Jabal Ma Yhezak Reeh](https://open.spotify.com/album/0DEi4PcVnH1h0ru4LTuCV5) | 4:04 |
-| 39 | [الله يمسيكم بالخير](https://open.spotify.com/track/3ZiF41dt4apzv5HVC2cQ6n) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [الله يمسيكم بالخير](https://open.spotify.com/album/5xezbmxE5Vzeo1bQdG0BlE) | 9:27 |
+| 39 | [الله يمسيكم بالخير](https://open.spotify.com/track/3ZiF41dt4apzv5HVC2cQ6n) | [Mohammed Assaf](https://open.spotify.com/artist/5A9UhpgElhMFohpvsjFQJk) | [الله يمسيكم بالخير](https://open.spotify.com/album/5xezbmxE5Vzeo1bQdG0BlE) | 9:27 |
 | 40 | [Maktub](https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [96 Miles From Bethlehem](https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O) | 3:28 |
 | 41 | [Ya Zareef Atool](https://open.spotify.com/track/43eHSEgb8hTjGsKeOWqRWB) | [Maher Halabi](https://open.spotify.com/artist/71IwshggZ6W2w83V1b0rTC) | [Shamyat](https://open.spotify.com/album/4z9zJi5x3i5Nb28vgNH41R) | 6:24 |
 | 42 | [Ann Alawan](https://open.spotify.com/track/4lc5YWcDJhk4hFTc00jino) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Mouthakerti](https://open.spotify.com/album/4bS80nF6fc85gq8MBsWLGW) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 49 | [Ll Abad](https://open.spotify.com/track/3qvSGDv3FfrAMIaCEO2p0y) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/4ShkzqUhBTAiPYj4bEaWEL) | 3:32 |
 | 50 | [Asfur](https://open.spotify.com/track/6vuMqisW5jWBMNgh2EzAdd) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Amal](https://open.spotify.com/album/5Lx6Qo1efOKGYOLRc5u76S) | 5:24 |
 
-Snapshot ID: `AAAAAG4ozl7aUvWhAipVM3ggC1GXEeLd`
+Snapshot ID: `AAAAAIwzRemuHw3MtZKCRkkHhc12kQnh`

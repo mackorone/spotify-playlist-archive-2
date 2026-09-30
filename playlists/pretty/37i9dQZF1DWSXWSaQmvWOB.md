@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Aaron Frazer
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,511 likes - 110 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,530 likes - 110 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 109 | [Do Whatchu Gotta](https://open.spotify.com/track/62BJVIeKG6pyFvJJKflaHi) | [Jarrod Lawson](https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f) | [Do Whatchu Gotta](https://open.spotify.com/album/7ah6GnmzfDb4WWe1uFm8tq) | 3:38 |
 | 110 | [Until My Last Breath](https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Until My Last Breath](https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT) | 2:57 |
 
-Snapshot ID: `AAAAADRgUYLhF1gLHmxSURNFH+dF2lyg`
+Snapshot ID: `AAAAAFxf7rJ35lohdwogXjXUONu12lXF`

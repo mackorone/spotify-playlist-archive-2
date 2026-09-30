@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a Mannda Lym e mais mulheres incr\u00edveis no volume m\u00e1ximo! Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:78WvOgIBo2emAnJLbv7nXO\">Mannda Lym</a>",
-  "num_followers": 196329,
+  "num_followers": 196328,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHybW8h/CLwQ5mxsAv7wwpc4Y8zW",
+  "snapshot_id": "AAAAALXZjCbRNGiJP39QE8iGZo5QReIG",
   "tracks": [
     {
       "added_at": "2026-07-06 16:39:02",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
+        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 235875,
+      "name": "Voc\u00ea Sempre Ser\u00e1 / N\u00e3o D\u00e1 Pra Resistir - Ao Vivo",
+      "url": "https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
         "name": "Melhor Amiga do Tempo (com Maru2D)",
         "url": "https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 150618,
       "name": "Melhor Amiga do Tempo (com Maru2D)",
       "url": "https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
-        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 235875,
-      "name": "Voc\u00ea Sempre Ser\u00e1 / N\u00e3o D\u00e1 Pra Resistir - Ao Vivo",
-      "url": "https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT"
     },
     {
       "added_at": "2026-07-06 16:39:02",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
-        "name": "Mulher no Espelho",
-        "url": "https://open.spotify.com/album/5yJSXtMCcTBXL5nPjpSpcj"
-      },
-      "artists": [
-        {
-          "name": "Riane Mascarenhas",
-          "url": "https://open.spotify.com/artist/6VVAOpIvLkd1NemCaCqvao"
-        },
-        {
-          "name": "N\u00fabia",
-          "url": "https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "Mulher no Espelho",
-      "url": "https://open.spotify.com/track/1IaB94N2QjtCPz0h1pueLH"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
         "name": "Amor e Sacanagem",
         "url": "https://open.spotify.com/album/1iTyN8AAXQrc7Wgv2OCZS9"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 169762,
       "name": "Amor e Sacanagem",
       "url": "https://open.spotify.com/track/4vMXqanPNss6OW1gn5plyz"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
+        "name": "Mulher no Espelho",
+        "url": "https://open.spotify.com/album/5yJSXtMCcTBXL5nPjpSpcj"
+      },
+      "artists": [
+        {
+          "name": "Riane Mascarenhas",
+          "url": "https://open.spotify.com/artist/6VVAOpIvLkd1NemCaCqvao"
+        },
+        {
+          "name": "N\u00fabia",
+          "url": "https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "Mulher no Espelho",
+      "url": "https://open.spotify.com/track/1IaB94N2QjtCPz0h1pueLH"
     },
     {
       "added_at": "2026-07-06 16:39:02",

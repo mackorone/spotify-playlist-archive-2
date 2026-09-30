@@ -2087,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "In Memoria Di",
+        "url": "https://open.spotify.com/album/2G3KRxNG0HoaqNNja24Jx6"
+      },
+      "artists": [
+        {
+          "name": "Lamante",
+          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220596,
+      "name": "Come volevi essere",
+      "url": "https://open.spotify.com/track/2Ow7aIOUGhCsQyOoYS2CV4"
+    },
+    {
+      "album": {
         "name": "Luna in acquario ascendente sagittario",
         "url": "https://open.spotify.com/album/0Npr04aGRYwjtvx4Udm8rS"
       },
@@ -9058,7 +9076,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 171360,
       "name": "R\u00c0RECHE",
       "url": "https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169"

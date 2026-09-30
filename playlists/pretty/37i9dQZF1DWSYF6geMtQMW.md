@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: רואי אדם
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,512 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,564 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [תקופה חרא](https://open.spotify.com/track/3tT0AuW2Xjykbx5TcYv64j) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 4:03 |
 | 50 | [7 לילות](https://open.spotify.com/track/0qYTdtFha4PIKFgDMprRlk) | [ליאם גולן](https://open.spotify.com/artist/5Rp2o61i7NiMPtSuDj5IRX) | [7 לילות](https://open.spotify.com/album/4GMT744MWqBw1VHyLykRtb) | 2:53 |
 
-Snapshot ID: `AAAAAJH5Ad/lP1JpoLt42NZtKrbe/wSr`
+Snapshot ID: `AAAAANMYgjNspCxDkIhbLQl2wWFqPgQR`

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-02-04",
-  "description": "Enjoy the  NCT 127 4TH TOUR [NEO CITY \u2013 THE MOMENTUM] LIVE SET including the voices of them on stage! (NCT 127\uc758 \ubb34\ub300 \uba58\ud2b8\uc640 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c [NEO CITY \u2013 THE MOMENTUM] \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "name": "NCT 127 4TH TOUR [NEO CITY \u2013 THE MOMENTUM]",
+  "description": "Enjoy NCT 127's 5TH TOUR 'NEO CITY - THE REDLINE' LIVE SET including their voices from the stage! (NCT 127\uc758 \ubb34\ub300 \uba58\ud2b8\uc640 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c 'NEO CITY - THE REDLINE' \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": " NCT 127 5TH TOUR 'NEO CITY - THE REDLINE'",
   "tracks": [
+    {
+      "album": {
+        "name": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203721,
+      "name": "0 Mile",
+      "url": "https://open.spotify.com/track/7BR3N1IbXTjEJffLd8aics"
+    },
     {
       "album": {
         "name": "2 Baddies - The 4th Album",
@@ -16,10 +34,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 230293,
       "name": "2 Baddies",
       "url": "https://open.spotify.com/track/1OXO0Onox9F26Pp732HnsI"
+    },
+    {
+      "album": {
+        "name": "2 Baddies - The 4th Album",
+        "url": "https://open.spotify.com/album/6PMZEFLrGOUBBn4BtLBp0F"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230293,
+      "name": "2 Baddies",
+      "url": "https://open.spotify.com/track/7035sowF3NNYDfRUO8GF9H"
     },
     {
       "album": {
@@ -34,10 +70,64 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 383560,
       "name": "Amp Up with NCT 127",
       "url": "https://open.spotify.com/track/2zkJsjpebOCf1S7jmtZbvd"
+    },
+    {
+      "album": {
+        "name": "Ay-Yo - The 4th Album Repackage",
+        "url": "https://open.spotify.com/album/06piaqPGZekE8n3BpSjHlP"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "Ay-Yo",
+      "url": "https://open.spotify.com/track/3ePLUHZ0wpewHpAg6P3wUE"
+    },
+    {
+      "album": {
+        "name": "BLINGY - The 7th Album",
+        "url": "https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Blingy",
+      "url": "https://open.spotify.com/track/0EOAaYE4KAVp67jwtQvbmB"
+    },
+    {
+      "album": {
+        "name": "Sticker - The 3rd Album",
+        "url": "https://open.spotify.com/album/7sf7G0C6NuW8GjQbWwJlGk"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222160,
+      "name": "Bring The Noize",
+      "url": "https://open.spotify.com/track/6ItCueFMTt3KOgCnISTDr8"
     },
     {
       "album": {
@@ -52,7 +142,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 222160,
       "name": "Bring The Noize",
       "url": "https://open.spotify.com/track/7tszCv2XB51GCoTeTBuTPt"
@@ -70,7 +160,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 185480,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/2HSFH4Q2lOUBHKbTbnIPxM"
@@ -88,10 +178,46 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 223600,
       "name": "Chain - Korean Version",
       "url": "https://open.spotify.com/track/4yzHOucbzNABkX4yb5USVl"
+    },
+    {
+      "album": {
+        "name": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236667,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58"
+    },
+    {
+      "album": {
+        "name": "BLINGY - The 7th Album",
+        "url": "https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Day After Day",
+      "url": "https://open.spotify.com/track/3gQ8mrkh4nyDPFYRmcnESB"
     },
     {
       "album": {
@@ -106,7 +232,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 237080,
       "name": "Designer",
       "url": "https://open.spotify.com/track/6Vih18q7cmkuZyJrIPwWy3"
@@ -124,7 +250,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 225560,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/5JyxRQMXpyqnqhUGfTxdcN"
@@ -142,10 +268,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 184653,
       "name": "Fact Check",
       "url": "https://open.spotify.com/track/2nNBdv2vcJZuWOZ06nNF62"
+    },
+    {
+      "album": {
+        "name": "Fact Check - The 5th Album",
+        "url": "https://open.spotify.com/album/4TUYG0oaiFCP03hYlE5Exw"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Fact Check",
+      "url": "https://open.spotify.com/track/5H46gVYLDwpxbsIgPoihO4"
     },
     {
       "album": {
@@ -160,7 +304,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 216573,
       "name": "Far",
       "url": "https://open.spotify.com/track/0u2HqG96xQS4w1x0NPpwWM"
@@ -178,7 +322,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 170626,
       "name": "Faster",
       "url": "https://open.spotify.com/track/1x2XSSONFLur7bKxjc1LC0"
@@ -196,7 +340,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 749320,
       "name": "Fueled by NCTzen, Forever in Motion 1",
       "url": "https://open.spotify.com/track/2ptJV0jc5UUsH6YAOGNomQ"
@@ -214,7 +358,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 790160,
       "name": "Fueled by NCTzen, Forever in Motion 2",
       "url": "https://open.spotify.com/track/0mYz9IzpecUhI5JxmGBrIZ"
@@ -232,7 +376,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 202200,
       "name": "Gas",
       "url": "https://open.spotify.com/track/6G3VATpoJDkikZRI9eETih"
@@ -250,10 +394,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 627040,
       "name": "Gear Up with NCT 127",
       "url": "https://open.spotify.com/track/68SrtId3jRQrp6u2xUdTs5"
+    },
+    {
+      "album": {
+        "name": "BLINGY - The 7th Album",
+        "url": "https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/3EsDU1SpxFr7FEKNRunSLQ"
     },
     {
       "album": {
@@ -268,10 +430,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 249613,
       "name": "Gold Dust",
       "url": "https://open.spotify.com/track/19SGPUM7EDXqbl9LhIHSuV"
+    },
+    {
+      "album": {
+        "name": "BLINGY - The 7th Album",
+        "url": "https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "IKR",
+      "url": "https://open.spotify.com/track/2dlhfguK5lPKgzOdIPKGoz"
     },
     {
       "album": {
@@ -286,10 +466,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 151680,
       "name": "Intro: Wall to Wall",
       "url": "https://open.spotify.com/track/3JMJC7sEGKzKFEnYlFzDwI"
+    },
+    {
+      "album": {
+        "name": "NCT #127 Neo Zone - The 2nd Album",
+        "url": "https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233013,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/0yFq4GHDqLfeceyAs63B3W"
     },
     {
       "album": {
@@ -304,10 +502,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 233013,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/3ZtATjifj77MvRJbJQYJIt"
+    },
+    {
+      "album": {
+        "name": "BLINGY - The 7th Album",
+        "url": "https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/4mxr7X0oynGQkzn4FkXdwN"
     },
     {
       "album": {
@@ -322,10 +538,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 190066,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/1j3WkiX4n6xAAPqZnwpwL5"
+    },
+    {
+      "album": {
+        "name": "Sticker - The 3rd Album",
+        "url": "https://open.spotify.com/album/7sf7G0C6NuW8GjQbWwJlGk"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/21C8u2VFhCC8NAyoaR6rVC"
     },
     {
       "album": {
@@ -340,10 +574,100 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 167746,
       "name": "Meaning of Love",
       "url": "https://open.spotify.com/track/69zKW3IQ1PXMGmceaDtXBG"
+    },
+    {
+      "album": {
+        "name": "NCT 127 5TH TOUR [NEO CITY - THE REDLINE]",
+        "url": "https://open.spotify.com/album/3ZhndA3PAhJYMrb5QUONIV"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94828,
+      "name": "MENT 1",
+      "url": "https://open.spotify.com/track/0L4rfrqaXYyy9kg95K0pPu"
+    },
+    {
+      "album": {
+        "name": "NCT 127 5TH TOUR [NEO CITY - THE REDLINE]",
+        "url": "https://open.spotify.com/album/3ZhndA3PAhJYMrb5QUONIV"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34534,
+      "name": "MENT 2",
+      "url": "https://open.spotify.com/track/4WsRSFz2D9z9RuOMq2SBlH"
+    },
+    {
+      "album": {
+        "name": "NCT 127 5TH TOUR [NEO CITY - THE REDLINE]",
+        "url": "https://open.spotify.com/album/3ZhndA3PAhJYMrb5QUONIV"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71938,
+      "name": "MENT 3",
+      "url": "https://open.spotify.com/track/2vt9kFf7uFxejqlSRlwLr8"
+    },
+    {
+      "album": {
+        "name": "NCT 127 5TH TOUR [NEO CITY - THE REDLINE]",
+        "url": "https://open.spotify.com/album/3ZhndA3PAhJYMrb5QUONIV"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142609,
+      "name": "MENT 4",
+      "url": "https://open.spotify.com/track/7fcMSD2NegDY58ukH1FLCQ"
+    },
+    {
+      "album": {
+        "name": "NCT 127 5TH TOUR [NEO CITY - THE REDLINE]",
+        "url": "https://open.spotify.com/album/3ZhndA3PAhJYMrb5QUONIV"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40974,
+      "name": "MENT 5",
+      "url": "https://open.spotify.com/track/1zSR91KJB4PprYFtkkhnW1"
     },
     {
       "album": {
@@ -358,7 +682,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 454160,
       "name": "NCT 127 - Full Momentum Ahead",
       "url": "https://open.spotify.com/track/5rfwaMXdFashiTI7tIeFiE"
@@ -376,7 +700,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 105640,
       "name": "NCT 127 - No Limits, No Stops",
       "url": "https://open.spotify.com/track/1jZWve9H5SxT6Nkb6BQd2C"
@@ -394,7 +718,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 193920,
       "name": "No Clue",
       "url": "https://open.spotify.com/track/5QYZFw2APleZsjOJ2Qe7tK"
@@ -412,10 +736,46 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 297746,
       "name": "No Longer",
       "url": "https://open.spotify.com/track/629NRMzA7LTXSuzwG7R1Ag"
+    },
+    {
+      "album": {
+        "name": "NCT #127 Neo Zone: The Final Round \u2013 The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/0DPNn9SKfwd7rJiiJFLwee"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204706,
+      "name": "NonStop",
+      "url": "https://open.spotify.com/track/2mAimBqtgLqzwxcQgaap6x"
+    },
+    {
+      "album": {
+        "name": "NCT #127 Neo Zone - The 2nd Album",
+        "url": "https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225173,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/26jI9TGHvFIR0alFLMuJMr"
     },
     {
       "album": {
@@ -430,7 +790,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 30480,
       "name": "One More Lap with NCT 127",
       "url": "https://open.spotify.com/track/76IGe9tCGDszC6XRAbdfTx"
@@ -448,10 +808,46 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 206013,
       "name": "Orange Seoul",
       "url": "https://open.spotify.com/track/4AXpwywPtr5GWS7kjePJyF"
+    },
+    {
+      "album": {
+        "name": "NCT #127 WE ARE SUPERHUMAN - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224013,
+      "name": "Paper Plane",
+      "url": "https://open.spotify.com/track/6Y8l3DrSGCJnei8EiudfZA"
+    },
+    {
+      "album": {
+        "name": "BLINGY - The 7th Album",
+        "url": "https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Pi\u00f1ata",
+      "url": "https://open.spotify.com/track/0qqJdEzeuAgPU21ge3SiWK"
     },
     {
       "album": {
@@ -466,7 +862,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 178013,
       "name": "Pricey",
       "url": "https://open.spotify.com/track/40sNOl9behvXu4wrwzUUYl"
@@ -484,10 +880,46 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 211160,
       "name": "Promise You",
       "url": "https://open.spotify.com/track/689hwd8nPdfPGTYjPD8Ga3"
+    },
+    {
+      "album": {
+        "name": "Sticker - The 3rd Album",
+        "url": "https://open.spotify.com/album/7sf7G0C6NuW8GjQbWwJlGk"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Promise You",
+      "url": "https://open.spotify.com/track/6NgnzFTrGz9jINgUmZiqfx"
+    },
+    {
+      "album": {
+        "name": "NCT #127 Neo Zone: The Final Round \u2013 The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/0DPNn9SKfwd7rJiiJFLwee"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Punch",
+      "url": "https://open.spotify.com/track/7LXW05QcQi9ri7ZBYqGhPJ"
     },
     {
       "album": {
@@ -502,7 +934,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 175106,
       "name": "Rain Drop",
       "url": "https://open.spotify.com/track/4xDjeOpTMV3CkhrPrFXhVQ"
@@ -520,10 +952,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 217706,
       "name": "Regular - Korean Version",
       "url": "https://open.spotify.com/track/2lAxhE5s3x7OS9sfhsgT1F"
+    },
+    {
+      "album": {
+        "name": "NCT #127 Regulate - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/5iJsCigDROOTMgUpJ6ex2S"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199773,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/1zedfw5iu7XzKJT8CupEIP"
     },
     {
       "album": {
@@ -538,10 +988,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 236466,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/0o1p1FxsEUwSDR3SrCcLyH"
+    },
+    {
+      "album": {
+        "name": "BLINGY - The 7th Album",
+        "url": "https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Step Up",
+      "url": "https://open.spotify.com/track/66AvchkvKKmZ9crMlRXaM1"
     },
     {
       "album": {
@@ -556,10 +1024,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 227773,
       "name": "Sticker",
       "url": "https://open.spotify.com/track/48CZ9AqqrDIGHDdCyGrZ39"
+    },
+    {
+      "album": {
+        "name": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217697,
+      "name": "Summer 127",
+      "url": "https://open.spotify.com/track/7tQTOyhv9BAjKoMoegHncb"
     },
     {
       "album": {
@@ -574,7 +1060,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 176626,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/5qNj35lBR2CByHRfCitWol"
@@ -614,10 +1100,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 191826,
       "name": "Walk",
       "url": "https://open.spotify.com/track/5ThXW5oGbAfQU2QTPicMd9"
+    },
+    {
+      "album": {
+        "name": "WALK - The 6th Album",
+        "url": "https://open.spotify.com/album/1awTeiNvKPg5ZIVHrK0QML"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191826,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/5o5mfjvxzxRChb45hbWuuw"
     },
     {
       "album": {
@@ -632,10 +1136,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 201658,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/2iPxDFeN27VrKgGdZ0AIKw"
+    },
+    {
+      "album": {
+        "name": "NCT #127 - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178565,
+      "name": "\uc18c\ubc29\ucc28 Fire Truck",
+      "url": "https://open.spotify.com/track/5hHlmrSV6d9LFMsDA1lamE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTyD0Dn3MQUS"

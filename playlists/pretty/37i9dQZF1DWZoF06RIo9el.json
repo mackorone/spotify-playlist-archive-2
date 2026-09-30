@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de septiembre 2026. Cover: ARIA VEGA",
-  "num_followers": 1541505,
+  "num_followers": 1541447,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANkkVg39uZgg4PeJNrYRKWjzdy8w",
+  "snapshot_id": "AAAAAE60UdRJPFxCAlguhFqEubl1zBA8",
   "tracks": [
     {
       "added_at": "2026-09-28 21:57:32",
@@ -91,6 +91,34 @@
     {
       "added_at": "2026-09-28 21:57:32",
       "album": {
+        "name": "OLIVIA LA FLAKA",
+        "url": "https://open.spotify.com/album/76WozPiPKgbo1IS52geqP2"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "OLIVIA LA FLAKA",
+      "url": "https://open.spotify.com/track/6756nr1dYiw5aNLSgIHNOI"
+    },
+    {
+      "added_at": "2026-09-28 21:57:32",
+      "album": {
         "name": "ENTRE TU Y YO",
         "url": "https://open.spotify.com/album/0j2ddnXXH8srvVx8A9s1op"
       },
@@ -163,34 +191,6 @@
     {
       "added_at": "2026-09-28 21:57:32",
       "album": {
-        "name": "OLIVIA LA FLAKA",
-        "url": "https://open.spotify.com/album/76WozPiPKgbo1IS52geqP2"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "OLIVIA LA FLAKA",
-      "url": "https://open.spotify.com/track/6756nr1dYiw5aNLSgIHNOI"
-    },
-    {
-      "added_at": "2026-09-28 21:57:32",
-      "album": {
         "name": "Macacoa 2000 (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-09-28 21:57:32",
       "album": {
-        "name": "tokyo",
-        "url": "https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 206030,
-      "name": "tokyo",
-      "url": "https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO"
-    },
-    {
-      "added_at": "2026-09-28 21:57:32",
-      "album": {
         "name": "Mar Azul",
         "url": "https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 221082,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
+    },
+    {
+      "added_at": "2026-09-28 21:57:32",
+      "album": {
+        "name": "tokyo",
+        "url": "https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 206030,
+      "name": "tokyo",
+      "url": "https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO"
     },
     {
       "added_at": "2026-09-28 21:57:32",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-09-28 21:57:32",
       "album": {
-        "name": "Para Cuando Sean Mayores",
-        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 159528,
-      "name": "For Eva",
-      "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
-    },
-    {
-      "added_at": "2026-09-28 21:57:32",
-      "album": {
         "name": "After (feat. Young Miko)",
         "url": "https://open.spotify.com/album/7IvDBWhqyMPoSZcmcEI6Eq"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 189697,
       "name": "After (feat. Young Miko)",
       "url": "https://open.spotify.com/track/59cR3FClp2PlkHV5511R7x"
+    },
+    {
+      "added_at": "2026-09-28 21:57:32",
+      "album": {
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 159528,
+      "name": "For Eva",
+      "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
     },
     {
       "added_at": "2026-09-28 21:57:32",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-09-28 21:57:32",
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "El \u00c1rbol",
-      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
-    },
-    {
-      "added_at": "2026-09-28 21:57:32",
-      "album": {
         "name": "si la ves",
         "url": "https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 177829,
       "name": "si la ves",
       "url": "https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt"
+    },
+    {
+      "added_at": "2026-09-28 21:57:32",
+      "album": {
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "El \u00c1rbol",
+      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
     },
     {
       "added_at": "2026-09-28 21:57:32",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-09-28 21:57:32",
       "album": {
+        "name": "JEEP",
+        "url": "https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "duration_ms": 195886,
+      "name": "JEEP",
+      "url": "https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t"
+    },
+    {
+      "added_at": "2026-09-28 21:57:32",
+      "album": {
         "name": "CALLA\u00cdTO SAFARI",
         "url": "https://open.spotify.com/album/5mRmMCVz0LKdAmpeumvpZo"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 184077,
       "name": "Te Caigo",
       "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
-    },
-    {
-      "added_at": "2026-09-28 21:57:32",
-      "album": {
-        "name": "JEEP",
-        "url": "https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        },
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        }
-      ],
-      "duration_ms": 195886,
-      "name": "JEEP",
-      "url": "https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t"
     },
     {
       "added_at": "2026-09-28 21:57:32",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-09-28 21:57:32",
       "album": {
-        "name": "I can fix him",
-        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
+        "name": "LOS CISNES",
+        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
       },
       "artists": [
         {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+          "name": "Melanie Santiler",
+          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
         }
       ],
-      "duration_ms": 184893,
-      "name": "I can fix him",
-      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
+      "duration_ms": 177215,
+      "name": "CARI\u00d1O",
+      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
     },
     {
       "added_at": "2026-09-28 21:57:32",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-09-28 21:57:32",
       "album": {
-        "name": "LOS CISNES",
-        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
+        "name": "I can fix him",
+        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
       },
       "artists": [
         {
-          "name": "Melanie Santiler",
-          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
         }
       ],
-      "duration_ms": 177215,
-      "name": "CARI\u00d1O",
-      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
+      "duration_ms": 184893,
+      "name": "I can fix him",
+      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
     },
     {
       "added_at": "2026-09-28 21:57:32",

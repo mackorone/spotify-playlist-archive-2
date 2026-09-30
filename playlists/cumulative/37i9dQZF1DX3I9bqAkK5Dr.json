@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Kasyap",
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Saloni",
   "name": "Telugu Indie",
   "tracks": [
     {
@@ -738,7 +738,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 365538,
       "name": "Bangaru Bomma",
       "url": "https://open.spotify.com/track/48qXwLDpUe1LySShTJ7mh5"
@@ -1042,6 +1042,36 @@
       "duration_ms": 231692,
       "name": "Chakkani Chukka",
       "url": "https://open.spotify.com/track/0DwvUGiX0UmrphRVEw0tKk"
+    },
+    {
+      "album": {
+        "name": "Chalaaki Ammayi (Telugu)",
+        "url": "https://open.spotify.com/album/4OSUSgX4VZ0XFnrzOuvmPs"
+      },
+      "artists": [
+        {
+          "name": "Dhyan Dinesh",
+          "url": "https://open.spotify.com/artist/2551AfQODbEEvItVx4GcON"
+        },
+        {
+          "name": "Sanjeev Chilukuri",
+          "url": "https://open.spotify.com/artist/0dOKfKAxNC4qgfb8Tr95gu"
+        },
+        {
+          "name": "Bhanu Maithania",
+          "url": "https://open.spotify.com/artist/1vDWDusfwKpwaAeZUNQ1yx"
+        },
+        {
+          "name": "ArjithAjay",
+          "url": "https://open.spotify.com/artist/7B7CakirQX3ojpT8BdlRaP"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "Chalaaki Ammayi - Telugu",
+      "url": "https://open.spotify.com/track/4XSa3aUffxbWSgYGTpFoi5"
     },
     {
       "album": {
@@ -2838,7 +2868,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 207244,
       "name": "Gymdagi",
       "url": "https://open.spotify.com/track/62apKp3zsfo4rJkCaKjpI8"
@@ -6430,10 +6460,40 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 256000,
       "name": "Nannu Chusi Edavaku Ra",
       "url": "https://open.spotify.com/track/13PDOCqRuVy8IzmFo775nL"
+    },
+    {
+      "album": {
+        "name": "Nannu Chusi Edavaku Ra",
+        "url": "https://open.spotify.com/album/1fYUixbc8XHyHBmgCyadV5"
+      },
+      "artists": [
+        {
+          "name": "SinSid",
+          "url": "https://open.spotify.com/artist/6f5tuW2X97C6JDXvQeG0lb"
+        },
+        {
+          "name": "Sindhuja Tanuku",
+          "url": "https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr"
+        },
+        {
+          "name": "Siddharth Tanuku",
+          "url": "https://open.spotify.com/artist/6CEaNdvNoW4WAOQU8Y616N"
+        },
+        {
+          "name": "Swaroop Goli",
+          "url": "https://open.spotify.com/artist/5t4EqHFDQYIHNGjkXrCSAH"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Nannu Chusi Edavaku Ra",
+      "url": "https://open.spotify.com/track/16ZMkYW2VsMMRTgVT4bhNE"
     },
     {
       "album": {
@@ -7237,7 +7297,7 @@
         },
         {
           "name": "Dheekshitha",
-          "url": "https://open.spotify.com/artist/25cuzCxjFsOQLMLEDLvjEo"
+          "url": "https://open.spotify.com/artist/1Tqpyk1z4meRlq8xJPj4db"
         },
         {
           "name": "Srinivasa Mouli",
@@ -7972,7 +8032,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 225502,
       "name": "Oopiri",
       "url": "https://open.spotify.com/track/44QbjliCK9u4CTfcYX42XS"
@@ -8615,6 +8675,24 @@
     },
     {
       "album": {
+        "name": "Pinfluence",
+        "url": "https://open.spotify.com/album/68vXPPOjNtK7kOcPbGLUSf"
+      },
+      "artists": [
+        {
+          "name": "Pin 16",
+          "url": "https://open.spotify.com/artist/0mCdCD4FmI2jzwanY21bLb"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135333,
+      "name": "Pinfluence",
+      "url": "https://open.spotify.com/track/5EMknPYdCpUZ2tKT9wXHbX"
+    },
+    {
+      "album": {
         "name": "Po Ve Po Ve",
         "url": "https://open.spotify.com/album/5Eg6NDwFXJ4NjnnWMjlorN"
       },
@@ -9144,6 +9222,24 @@
       "duration_ms": 236738,
       "name": "Premincha",
       "url": "https://open.spotify.com/track/7ChBMFeJTlOUztlRcolGfh"
+    },
+    {
+      "album": {
+        "name": "Priya",
+        "url": "https://open.spotify.com/album/19GaMND8UqEgY0JzqGNL5F"
+      },
+      "artists": [
+        {
+          "name": "G.M. Sathish",
+          "url": "https://open.spotify.com/artist/0m9blwcUpRErTUJSNVn7Mb"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Priya",
+      "url": "https://open.spotify.com/track/4rSkY3z4pIN2VIJDgO1oS1"
     },
     {
       "album": {
@@ -12138,7 +12234,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 162077,
       "name": "WELCOME TO SOUTH INDIA",
       "url": "https://open.spotify.com/track/54tyV81NFJMLIOjFG4GyH7"

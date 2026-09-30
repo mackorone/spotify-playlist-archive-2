@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 194747,
+  "num_followers": 194746,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHBghyWfu+RGWqxIRcFM1IdGDOgf",
+  "snapshot_id": "AAAAAMHE4I/49JqxarW/Hz8aYdQk702t",
   "tracks": [
     {
       "added_at": "2026-09-28 07:05:31",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "DNH",
-        "url": "https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "DNH",
-      "url": "https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo"
-    },
-    {
-      "added_at": "2026-09-28 07:05:31",
-      "album": {
         "name": "Superlim & silvertejp",
         "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 193634,
       "name": "Superlim & silvertejp",
       "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
+    },
+    {
+      "added_at": "2026-09-28 07:05:31",
+      "album": {
+        "name": "DNH",
+        "url": "https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "DNH",
+      "url": "https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "POWERBALLADER",
-        "url": "https://open.spotify.com/album/278kUvgRBmXIOjp0tOO8FE"
-      },
-      "artists": [
-        {
-          "name": "Newkid",
-          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
-        }
-      ],
-      "duration_ms": 162918,
-      "name": "Farligaste",
-      "url": "https://open.spotify.com/track/3EMO5vkEN7sFkDUyKNaD1Y"
-    },
-    {
-      "added_at": "2026-09-28 07:05:31",
-      "album": {
         "name": "Vann du livet?",
         "url": "https://open.spotify.com/album/51zCJ9ZtvJBNer1IhhzGb3"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
+        "name": "POWERBALLADER",
+        "url": "https://open.spotify.com/album/278kUvgRBmXIOjp0tOO8FE"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "duration_ms": 162918,
+      "name": "Farligaste",
+      "url": "https://open.spotify.com/track/3EMO5vkEN7sFkDUyKNaD1Y"
+    },
+    {
+      "added_at": "2026-09-28 07:05:31",
+      "album": {
         "name": "H\u00e4lsningar",
         "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "Intimissimi",
-        "url": "https://open.spotify.com/album/568LgsRWtVZOetf6vyq53w"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        }
-      ],
-      "duration_ms": 171176,
-      "name": "Intimissimi",
-      "url": "https://open.spotify.com/track/0THy1i8TInnyMWzRMsbOOy"
-    },
-    {
-      "added_at": "2026-09-28 07:05:31",
-      "album": {
         "name": "Identitet",
         "url": "https://open.spotify.com/album/0tDKhUwbLVB701ffrbiOGW"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 168000,
       "name": "Identitet",
       "url": "https://open.spotify.com/track/2yXUOc1P7OjP2nNG4Woes2"
+    },
+    {
+      "added_at": "2026-09-28 07:05:31",
+      "album": {
+        "name": "Intimissimi",
+        "url": "https://open.spotify.com/album/568LgsRWtVZOetf6vyq53w"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "duration_ms": 171176,
+      "name": "Intimissimi",
+      "url": "https://open.spotify.com/track/0THy1i8TInnyMWzRMsbOOy"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "Tillbaka till dig",
-        "url": "https://open.spotify.com/album/5RqDdFG5yahgrDOy7RRCQO"
-      },
-      "artists": [
-        {
-          "name": "Newkid",
-          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
-        }
-      ],
-      "duration_ms": 156010,
-      "name": "Tillbaka till dig",
-      "url": "https://open.spotify.com/track/0Vnw5tTxEIa3PkMrLeUXhc"
-    },
-    {
-      "added_at": "2026-09-28 07:05:31",
-      "album": {
         "name": "Dum i huvudet",
         "url": "https://open.spotify.com/album/4KZpcQo4tYOjGfu8KZFgeL"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 174150,
       "name": "Dum i huvudet",
       "url": "https://open.spotify.com/track/4nX11i2MNHnznqfx3YxAPd"
+    },
+    {
+      "added_at": "2026-09-28 07:05:31",
+      "album": {
+        "name": "Tillbaka till dig",
+        "url": "https://open.spotify.com/album/5RqDdFG5yahgrDOy7RRCQO"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "duration_ms": 156010,
+      "name": "Tillbaka till dig",
+      "url": "https://open.spotify.com/track/0Vnw5tTxEIa3PkMrLeUXhc"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
+        "name": "Tiden i min hand (Om 100 \u00e5r)",
+        "url": "https://open.spotify.com/album/0JoXr5oqVqlQuSbwErn0Kj"
+      },
+      "artists": [
+        {
+          "name": "FILIPPA",
+          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "Tiden i min hand (Om 100 \u00e5r)",
+      "url": "https://open.spotify.com/track/3wYzLu8teMxrY6GG2DE5Nj"
+    },
+    {
+      "added_at": "2026-09-28 07:05:31",
+      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/6M1Zw3pYngbVmTktc1ddk5"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 151093,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/4Hdr4N7SM7sbFjbGu2UDSf"
-    },
-    {
-      "added_at": "2026-09-28 07:05:31",
-      "album": {
-        "name": "Tiden i min hand (Om 100 \u00e5r)",
-        "url": "https://open.spotify.com/album/0JoXr5oqVqlQuSbwErn0Kj"
-      },
-      "artists": [
-        {
-          "name": "FILIPPA",
-          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "Tiden i min hand (Om 100 \u00e5r)",
-      "url": "https://open.spotify.com/track/3wYzLu8teMxrY6GG2DE5Nj"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
+        "name": "Fotografi",
+        "url": "https://open.spotify.com/album/23yExxirXZ9LER8nXWuRlP"
+      },
+      "artists": [
+        {
+          "name": "FILIPPA",
+          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Fotografi",
+      "url": "https://open.spotify.com/track/0uSazPtH03tqUxtT3EF9ew"
+    },
+    {
+      "added_at": "2026-09-28 07:05:31",
+      "album": {
         "name": "In the Margins, In Shades of Pale Blue",
         "url": "https://open.spotify.com/album/3SqvwWh7vGWCIttQCJKIgU"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "Fotografi",
-        "url": "https://open.spotify.com/album/23yExxirXZ9LER8nXWuRlP"
+        "name": "Me/You (always and forever)",
+        "url": "https://open.spotify.com/album/0ePJn0pCp0M5ETAbCaYZfg"
       },
       "artists": [
         {
-          "name": "FILIPPA",
-          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Fotografi",
-      "url": "https://open.spotify.com/track/0uSazPtH03tqUxtT3EF9ew"
+      "duration_ms": 216358,
+      "name": "Me/You (always and forever)",
+      "url": "https://open.spotify.com/track/7EtHVLkstCjz6iY79FmvLb"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "Me/You (always and forever)",
-        "url": "https://open.spotify.com/album/0ePJn0pCp0M5ETAbCaYZfg"
+        "name": "Te Dua",
+        "url": "https://open.spotify.com/album/3xMa4qt4EZrhR8H2y55Kke"
       },
       "artists": [
         {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
         }
       ],
-      "duration_ms": 216358,
-      "name": "Me/You (always and forever)",
-      "url": "https://open.spotify.com/track/7EtHVLkstCjz6iY79FmvLb"
+      "duration_ms": 169297,
+      "name": "Te Dua",
+      "url": "https://open.spotify.com/track/0ZP0ORBePjiADojgQS0s4p"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -1271,22 +1287,6 @@
       "duration_ms": 262644,
       "name": "Himlen \u00e4r oskyldigt bl\u00e5",
       "url": "https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6"
-    },
-    {
-      "added_at": "2026-09-28 07:05:31",
-      "album": {
-        "name": "Te Dua",
-        "url": "https://open.spotify.com/album/3xMa4qt4EZrhR8H2y55Kke"
-      },
-      "artists": [
-        {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
-        }
-      ],
-      "duration_ms": 169297,
-      "name": "Te Dua",
-      "url": "https://open.spotify.com/track/0ZP0ORBePjiADojgQS0s4p"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "Midsommarregn",
-        "url": "https://open.spotify.com/album/4lsbgqoNTEO987jBWDAh8w"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 191304,
-      "name": "Midsommarregn",
-      "url": "https://open.spotify.com/track/43IOnIz4jMrU6qjPgiTtVL"
-    },
-    {
-      "added_at": "2026-09-28 07:05:31",
-      "album": {
         "name": "WILDFIRE",
         "url": "https://open.spotify.com/album/7rg0Uyz5QcUSBDRpzHAbQN"
       },
@@ -1407,6 +1391,38 @@
       "duration_ms": 220000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/0HQQ4wZ15cWmW5jMFKLNgs"
+    },
+    {
+      "added_at": "2026-09-28 07:05:31",
+      "album": {
+        "name": "120-s\u00e4ng",
+        "url": "https://open.spotify.com/album/5YPkGnfwd6g6CeoTGVVuCh"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "120-s\u00e4ng",
+      "url": "https://open.spotify.com/track/7D3ZwUS3PsFtOIk5pifgvy"
+    },
+    {
+      "added_at": "2026-09-28 07:05:31",
+      "album": {
+        "name": "Midsommarregn",
+        "url": "https://open.spotify.com/album/4lsbgqoNTEO987jBWDAh8w"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 191304,
+      "name": "Midsommarregn",
+      "url": "https://open.spotify.com/track/43IOnIz4jMrU6qjPgiTtVL"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "Sp\u00f6ken",
-        "url": "https://open.spotify.com/album/1cqYqPKOj0X8m5ujIGWKcs"
-      },
-      "artists": [
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        }
-      ],
-      "duration_ms": 181948,
-      "name": "Sp\u00f6ken",
-      "url": "https://open.spotify.com/track/71eGRVXsrdEdGScvbz13gK"
-    },
-    {
-      "added_at": "2026-09-28 07:05:31",
-      "album": {
         "name": "Faller",
         "url": "https://open.spotify.com/album/7E4aogr7aSg0nE87521M1W"
       },
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
+        "name": "Sp\u00f6ken",
+        "url": "https://open.spotify.com/album/1cqYqPKOj0X8m5ujIGWKcs"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "duration_ms": 181948,
+      "name": "Sp\u00f6ken",
+      "url": "https://open.spotify.com/track/71eGRVXsrdEdGScvbz13gK"
+    },
+    {
+      "added_at": "2026-09-28 07:05:31",
+      "album": {
         "name": "Midsummer",
         "url": "https://open.spotify.com/album/6Bq3FPWmydEJTfOLqTlJac"
       },
@@ -1471,6 +1487,22 @@
       "duration_ms": 188400,
       "name": "Midsummer",
       "url": "https://open.spotify.com/track/4zFTHnd6J02sxwaqiHCDbn"
+    },
+    {
+      "added_at": "2026-09-28 07:05:31",
+      "album": {
+        "name": "Kontrollen & f\u00f6rlusten av den",
+        "url": "https://open.spotify.com/album/7JPUfsQrBO9S6Z6vY9PcI7"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "duration_ms": 183749,
+      "name": "Kontrollen & f\u00f6rlusten av den",
+      "url": "https://open.spotify.com/track/3N7nomr3lQ8x9GPMVYSbKf"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -1559,22 +1591,6 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "120-s\u00e4ng",
-        "url": "https://open.spotify.com/album/5YPkGnfwd6g6CeoTGVVuCh"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "120-s\u00e4ng",
-      "url": "https://open.spotify.com/track/7D3ZwUS3PsFtOIk5pifgvy"
-    },
-    {
-      "added_at": "2026-09-28 07:05:31",
-      "album": {
         "name": "Swedish Mermaid",
         "url": "https://open.spotify.com/album/1cnTmCiFlz5Vak5tQLtS4v"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "Kyss mig",
-        "url": "https://open.spotify.com/album/3a8qdAft2SHaVtj5Z2Bx3b"
-      },
-      "artists": [
-        {
-          "name": "JULIETT",
-          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
-        }
-      ],
-      "duration_ms": 182464,
-      "name": "Kyss mig",
-      "url": "https://open.spotify.com/track/5d2CjJmYY7wzHosBe0HUo1"
-    },
-    {
-      "added_at": "2026-09-28 07:05:31",
-      "album": {
         "name": "NOLLPUNKT",
         "url": "https://open.spotify.com/album/0yjjB9JRGuVXAThPbaGTb6"
       },
@@ -1639,18 +1639,38 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "Kontrollen & f\u00f6rlusten av den",
-        "url": "https://open.spotify.com/album/7JPUfsQrBO9S6Z6vY9PcI7"
+        "name": "Kyss mig",
+        "url": "https://open.spotify.com/album/3a8qdAft2SHaVtj5Z2Bx3b"
       },
       "artists": [
         {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+          "name": "JULIETT",
+          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
         }
       ],
-      "duration_ms": 183749,
-      "name": "Kontrollen & f\u00f6rlusten av den",
-      "url": "https://open.spotify.com/track/3N7nomr3lQ8x9GPMVYSbKf"
+      "duration_ms": 182464,
+      "name": "Kyss mig",
+      "url": "https://open.spotify.com/track/5d2CjJmYY7wzHosBe0HUo1"
+    },
+    {
+      "added_at": "2026-09-28 07:05:31",
+      "album": {
+        "name": "Konstgjord Andning",
+        "url": "https://open.spotify.com/album/08mcQrbpnUx1IWwVRBOREr"
+      },
+      "artists": [
+        {
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
+        },
+        {
+          "name": "Niello",
+          "url": "https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7"
+        }
+      ],
+      "duration_ms": 141976,
+      "name": "Konstgjord Andning",
+      "url": "https://open.spotify.com/track/3pd4j3vcLAvjJFw2ijxTMx"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -1683,6 +1703,22 @@
       "duration_ms": 217266,
       "name": "Ett \u00e5r - Bonus Track",
       "url": "https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7"
+    },
+    {
+      "added_at": "2026-09-28 07:05:31",
+      "album": {
+        "name": "F\u00f6rst in, Sist ut",
+        "url": "https://open.spotify.com/album/3ieiu13lpbzceAksD7sv7B"
+      },
+      "artists": [
+        {
+          "name": "LKN",
+          "url": "https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "F\u00f6rst in, Sist ut",
+      "url": "https://open.spotify.com/track/0yIoYFKspCirfE8mTldWxB"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -1723,18 +1759,18 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "F\u00f6rst in, Sist ut",
-        "url": "https://open.spotify.com/album/3ieiu13lpbzceAksD7sv7B"
+        "name": "More Water Than Anything",
+        "url": "https://open.spotify.com/album/32x9YOWWj9zqg2hqyWFhPM"
       },
       "artists": [
         {
-          "name": "LKN",
-          "url": "https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud"
+          "name": "GERD",
+          "url": "https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr"
         }
       ],
-      "duration_ms": 183370,
-      "name": "F\u00f6rst in, Sist ut",
-      "url": "https://open.spotify.com/track/0yIoYFKspCirfE8mTldWxB"
+      "duration_ms": 173640,
+      "name": "Love Economy",
+      "url": "https://open.spotify.com/track/3juxxdQ5TckAecsfNgML9J"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -1751,42 +1787,6 @@
       "duration_ms": 244600,
       "name": "Vem t\u00e4nder stj\u00e4rnorna",
       "url": "https://open.spotify.com/track/2diLUHXEzYePMVM7PW3ouE"
-    },
-    {
-      "added_at": "2026-09-28 07:05:31",
-      "album": {
-        "name": "Konstgjord Andning",
-        "url": "https://open.spotify.com/album/08mcQrbpnUx1IWwVRBOREr"
-      },
-      "artists": [
-        {
-          "name": "Dom F\u00f6rsta",
-          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
-        },
-        {
-          "name": "Niello",
-          "url": "https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7"
-        }
-      ],
-      "duration_ms": 141976,
-      "name": "Konstgjord Andning",
-      "url": "https://open.spotify.com/track/3pd4j3vcLAvjJFw2ijxTMx"
-    },
-    {
-      "added_at": "2026-09-28 07:05:31",
-      "album": {
-        "name": "Sommarflamma",
-        "url": "https://open.spotify.com/album/7cBwO2EKohCzADXdUBn9lI"
-      },
-      "artists": [
-        {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "Sommarflamma",
-      "url": "https://open.spotify.com/track/4Yy2IG4c2R5SpmqmZWmXNM"
     },
     {
       "added_at": "2026-09-28 07:05:31",
@@ -1823,34 +1823,34 @@
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "More Water Than Anything",
-        "url": "https://open.spotify.com/album/32x9YOWWj9zqg2hqyWFhPM"
+        "name": "Bara idioter",
+        "url": "https://open.spotify.com/album/7APzv34pRFOSUqXIPRnYra"
       },
       "artists": [
         {
-          "name": "GERD",
-          "url": "https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr"
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
         }
       ],
-      "duration_ms": 173640,
-      "name": "Love Economy",
-      "url": "https://open.spotify.com/track/3juxxdQ5TckAecsfNgML9J"
+      "duration_ms": 124184,
+      "name": "Bara idioter",
+      "url": "https://open.spotify.com/track/4CRDU0FEaoCGsuoPXnSPmf"
     },
     {
       "added_at": "2026-09-28 07:05:31",
       "album": {
-        "name": "Konsten att leva",
-        "url": "https://open.spotify.com/album/0uV4gLRea8tuc1vSvKYpLa"
+        "name": "Sommarflamma",
+        "url": "https://open.spotify.com/album/7cBwO2EKohCzADXdUBn9lI"
       },
       "artists": [
         {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
         }
       ],
-      "duration_ms": 182834,
-      "name": "Konsten att leva",
-      "url": "https://open.spotify.com/track/4DW1djy1y82mTdTcyAioUB"
+      "duration_ms": 167693,
+      "name": "Sommarflamma",
+      "url": "https://open.spotify.com/track/4Yy2IG4c2R5SpmqmZWmXNM"
     }
   ],
   "unique_name": "Made in Sweden",

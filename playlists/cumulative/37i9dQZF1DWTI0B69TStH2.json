@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:1383ErJnn3u9Iwr70nySEI\">barekprzesta\u0144</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:6HSaeoRmLRRCdymdtKFsfh\">oswojeni</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -8296,7 +8296,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 212486,
       "name": "CA\u0141UJ, CA\u0141UJ",
       "url": "https://open.spotify.com/track/4wcvTfH2AIftIqfHK1GZj4"
@@ -8938,6 +8938,24 @@
       "duration_ms": 206300,
       "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
       "url": "https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc"
+    },
+    {
+      "album": {
+        "name": "chc\u0119 tu zosta\u0107",
+        "url": "https://open.spotify.com/album/0nxNfsEdFAv9fv2EEo9U4A"
+      },
+      "artists": [
+        {
+          "name": "nic nic",
+          "url": "https://open.spotify.com/artist/3iXF1TPd2ydHapLJ6uPqUi"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179979,
+      "name": "chc\u0119 tu zosta\u0107",
+      "url": "https://open.spotify.com/track/0EHfwu3900Lz5BwocEch4S"
     },
     {
       "album": {
@@ -23452,7 +23470,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 164647,
       "name": "illusion",
       "url": "https://open.spotify.com/track/7mMwm3XtDHqOvwttjUngFL"
@@ -27665,6 +27683,24 @@
     },
     {
       "album": {
+        "name": "KNIVES AND BLADES",
+        "url": "https://open.spotify.com/album/0H7ChZG1DVxOkrjaiDrBTb"
+      },
+      "artists": [
+        {
+          "name": "The Bullseyes",
+          "url": "https://open.spotify.com/artist/4VrvRbGxs71Cs797ThTy6f"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "KNIVES AND BLADES",
+      "url": "https://open.spotify.com/track/5WmhCgdnhAaDchGoWOtLn5"
+    },
+    {
+      "album": {
         "name": "Knots",
         "url": "https://open.spotify.com/album/1tdr55o4EmZkYxI73y1vgL"
       },
@@ -31464,7 +31500,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 236646,
       "name": "Lek na l\u0119k",
       "url": "https://open.spotify.com/track/4L6VoJdbfpJM0YtHXAuPu4"
@@ -43706,7 +43742,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 164306,
       "name": "Nieudana podr\u00f3\u017c",
       "url": "https://open.spotify.com/track/3pkmcUNdqQ4uqewI0Ou99Z"
@@ -52890,6 +52926,24 @@
       "duration_ms": 212984,
       "name": "Portugalia",
       "url": "https://open.spotify.com/track/4bHoO3QKGEK1duQFkZz1vr"
+    },
+    {
+      "album": {
+        "name": "porzucone my\u015bli",
+        "url": "https://open.spotify.com/album/4BUeODT8xMLnNqgzEBFZfP"
+      },
+      "artists": [
+        {
+          "name": "oswojeni",
+          "url": "https://open.spotify.com/artist/6HSaeoRmLRRCdymdtKFsfh"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200888,
+      "name": "porzucone my\u015bli",
+      "url": "https://open.spotify.com/track/72FttWE6kXh9KPIQhdBygO"
     },
     {
       "album": {
@@ -62212,6 +62266,24 @@
       "duration_ms": 225777,
       "name": "Stare dobre czasy s\u0105 teraz",
       "url": "https://open.spotify.com/track/5hYRC8wLnYvk6vlLQPanZ4"
+    },
+    {
+      "album": {
+        "name": "Stare kino pusty bar",
+        "url": "https://open.spotify.com/album/4xazTay64gBZmEo4QjtALK"
+      },
+      "artists": [
+        {
+          "name": "wiktoria",
+          "url": "https://open.spotify.com/artist/1ZKIwuIjbG5y7ojhL5uRd3"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208888,
+      "name": "Stare kino pusty bar",
+      "url": "https://open.spotify.com/track/2wS9kt1rRW6zhdLh0CRly9"
     },
     {
       "album": {
@@ -74546,7 +74618,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 212769,
       "name": "William Jones",
       "url": "https://open.spotify.com/track/3afsEgpmrH2LcPqDLX0Tb7"
@@ -79042,6 +79114,24 @@
       "duration_ms": 223369,
       "name": "Zapach Klimatyzacji",
       "url": "https://open.spotify.com/track/2qI1OQF8iOuxCuaZFErxY0"
+    },
+    {
+      "album": {
+        "name": "Zapach Lata",
+        "url": "https://open.spotify.com/album/57Me5tXoG0EqA3CyNgK0ov"
+      },
+      "artists": [
+        {
+          "name": "Tchorsky",
+          "url": "https://open.spotify.com/artist/70DXlLn3y3PPNqaPwFdkQI"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184768,
+      "name": "Zapach Lata",
+      "url": "https://open.spotify.com/track/5zcPV6AWeYULww597bZZLW"
     },
     {
       "album": {

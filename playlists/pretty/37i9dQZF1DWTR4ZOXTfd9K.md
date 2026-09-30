@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,204 likes - 100 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,243 likes - 100 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 99 | [Imágenes](https://open.spotify.com/track/7I1Pi3gacytBIYGWCIi1Yl) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [Filin](https://open.spotify.com/album/6VfLUVPWfuVl3pJFUsZfzt) | 4:38 |
 | 100 | [The Nearness Of You](https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:07 |
 
-Snapshot ID: `AAAAAKnFtsJa8nRN2CKaOAuA3dvWDONG`
+Snapshot ID: `AAAAABouYpc8Q5AXkv4h4B8ilOXbQJ0h`

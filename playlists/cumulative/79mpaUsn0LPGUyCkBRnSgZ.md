@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,239 songs - 3 day 8 hr 7 min
+1,241 songs - 3 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [Hey Chicken](https://open.spotify.com/track/79lxyBUahh6PdMgRtKscFV) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Born Again In The USA](https://open.spotify.com/album/1aH9XaImGgHo9OYSSk9gYs) | 3:02 | 2026-09-13 |  |
 | [Hey Mr\. Dogman!](https://open.spotify.com/track/1poEehfJMN4lQqSsXcBxNQ) | [Powerplant](https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx) | [People in the Sun](https://open.spotify.com/album/28Oa0IXZyGHw0GpSLdkyk1) | 2:42 | 2026-01-15 |  |
 | [Hidden Place](https://open.spotify.com/track/5bnX0zhTVV1H5gNVjVhgaL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:28 | 2022-09-30 | 2023-12-14 |
+| [Hidden Tableau](https://open.spotify.com/track/3i8wZgyyGnieoRknDKk2yU) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW) | [Cooked](https://open.spotify.com/album/0rqyaE19Aj47roRdxNDixw) | 21:41 | 2026-09-29 |  |
 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 | 2022-06-13 | 2023-04-20 |
 | [Hit My Head All Day](https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 6:03 | 2026-01-12 |  |
 | [Hold On, Be Strong](https://open.spotify.com/track/7g8S0N45Tkp7yE1WEWRwyu) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 1:12 | 2022-09-11 |  |
@@ -1039,6 +1040,7 @@
 | [That’s Just the Way That I Feel](https://open.spotify.com/track/5mgCP62kIGit9ICUdaqIgq) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [Purple Mountains](https://open.spotify.com/album/6YM4MpYgz6BhIeqQkxp3u4) | 3:23 | 2022-06-13 |  |
 | [The After Party](https://open.spotify.com/track/6C5HSuCqmjcJSpvUkq9w5d) | [Bad Books](https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Kevin Devine](https://open.spotify.com/artist/66ScZxprvrMbCtN4ivA0JX) | [II](https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp) | 3:33 | 2024-02-12 |  |
 | [The Age of Innocence](https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 2:06 | 2026-05-11 |  |
+| [The Angelus](https://open.spotify.com/track/4A0QHu28PMx55INweuMMN9) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Pugnello](https://open.spotify.com/album/5pTvVhdMVV24CQep4GA38F) | 3:30 | 2026-09-30 |  |
 | [The Bad In Each Other](https://open.spotify.com/track/61etm6bMP3BnD3SiwreMZu) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 4:44 | 2023-12-16 | 2024-08-12 |
 | [The Baddest](https://open.spotify.com/track/1VPrpfphPvCkTM09DDt7OY) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [2000](https://open.spotify.com/album/5lICxaH7i12zXxQGjd2Mjn) | 2:43 | 2022-09-07 |  |
 | [The Ballad Of The RAA](https://open.spotify.com/track/3TU3qRbVu8jSv6IrfY0FoV) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Hometowns](https://open.spotify.com/album/5X27E81cePL9bNER4QEjmO) | 3:28 | 2026-01-20 |  |

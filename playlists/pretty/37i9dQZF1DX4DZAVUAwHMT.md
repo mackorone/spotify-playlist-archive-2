@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,456,863 likes - 78 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,456,781 likes - 78 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 77 | [Spilt Milk](https://open.spotify.com/track/6pTyPM8SarPdIgzhz8TdCp) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Spilt Milk](https://open.spotify.com/album/7D7MAvyT9YAMjs8cKcNgA7) | 4:24 |
 | 78 | [It's Time](https://open.spotify.com/track/75zo79uZOzksHPyf6OX8D0) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [It's Time](https://open.spotify.com/album/4SFaTZZOEnuGRVNvhugVBg) | 4:07 |
 
-Snapshot ID: `AAAAAF84vaWK4Wf376+FLFpgAI8PTCtb`
+Snapshot ID: `AAAAAEEe/oq9nOD1jKziMizxM7ondLPW`

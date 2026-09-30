@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Kiefer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,184 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,193 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Supermoon](https://open.spotify.com/track/1MwvTlMriZ8JiiW55ULXKA) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Supermoon](https://open.spotify.com/album/0ocFkJexb6rK72l2ADnlhV) | 3:13 |
 | 100 | [Water Babies \(feat\. Ambrose Akinmusire, Ron Blake, Jakob Bro, Gerald Clayton, Joe Sanders\)](https://open.spotify.com/track/2JZIOfXdSIPYP3wO5uHqL4) | [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF), [Ron Blake](https://open.spotify.com/artist/0NlX1W0yjS9FWyDBbHcGuY), [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [Joe Sanders](https://open.spotify.com/artist/37FavLKAfuARIuUxBOyyY7) | [Kind of Now \- The Pulse of Miles Davis](https://open.spotify.com/album/2LG2xjDwbgyAgLaOSstbA5) | 4:25 |
 
-Snapshot ID: `AAAAAD3ZmF1bluPsytsLWx3mrSOyY0+n`
+Snapshot ID: `AAAAAIFkQRBH4xS542j/gqev46c2eO8F`

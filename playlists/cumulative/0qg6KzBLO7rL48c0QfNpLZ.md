@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,721 songs - 3 day 4 hr 14 min
+1,722 songs - 3 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1545,6 +1545,7 @@
 | [Time After Time](https://open.spotify.com/track/3zYBfVC5Fo17ICTMJwqNKP) | [UNDRESSD](https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL), [Ellie May](https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH) | [Time After Time](https://open.spotify.com/album/5owRtbpRDsnelDFrc2SQfd) | 2:42 | 2024-01-18 | 2024-08-20 |
 | [Time Behind](https://open.spotify.com/track/4T61lGecKFpN3MEMxeD0mu) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41) | [Time Behind](https://open.spotify.com/album/3CcO1bDyMqJTDcWRxvS9d8) | 2:33 | 2026-02-06 | 2026-04-20 |
 | [Timeless](https://open.spotify.com/track/3kUJX976AVhDdzoMTgnpGd) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv) | [Timeless](https://open.spotify.com/album/1sONjBoJFgpNAg133F1N90) | 2:28 | 2025-07-18 | 2025-11-23 |
+| [Titanium](https://open.spotify.com/track/50sKYx0eEe7jLH89EyVk0m) | [Make it Maks](https://open.spotify.com/artist/17gc6KMOFtD4BD2wqYzVLV), [LA MAREA](https://open.spotify.com/artist/3OKt2FayvELrwCry74ZPAr), [AM3ER NOVA](https://open.spotify.com/artist/1zFqg5XrWrW7FZ9USd2eRv), [Afro Queen](https://open.spotify.com/artist/0iQaClnw8ysyL24QKIeFuT) | [Titanium](https://open.spotify.com/album/06dB6sil5q5vmRXZvGElWI) | 3:10 | 2026-09-29 |  |
 | [To Be](https://open.spotify.com/track/5uxnKcEFm5lPPiMPfhvwg2) | [Eugene Becker](https://open.spotify.com/artist/0CyuzTTSv7rrrgSkbereey), [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [To Be](https://open.spotify.com/album/6xB3oCL80wPm3CrgfGDetk) | 3:00 | 2026-06-12 | 2026-06-30 |
 | [To Me](https://open.spotify.com/track/56WhOSJyW1675KJODU18py) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM) | [To Me](https://open.spotify.com/album/6o956KBDjcqf3moFdNSXcz) | 2:10 | 2026-09-18 |  |
 | [To Move Again](https://open.spotify.com/track/16SjfdDm4DGNeSPEGlqoxy) | [Phonez](https://open.spotify.com/artist/5wI5LhXulPIRdGianeW6EU), [LAUD](https://open.spotify.com/artist/04kVAoKNfyQrbp3XqhAkOB) | [To Move Again](https://open.spotify.com/album/2ud8zdiICtWtTgI3OhqR5u) | 2:33 | 2024-10-25 | 2025-03-08 |

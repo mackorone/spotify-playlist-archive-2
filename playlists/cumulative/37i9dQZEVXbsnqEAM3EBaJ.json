@@ -4036,7 +4036,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 444879,
       "name": "All Good Things (Come To An End) - MIDLIFE Version",
       "url": "https://open.spotify.com/track/1CciPUKeZZCwXLKCfMurPG"
@@ -6152,7 +6152,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 219013,
       "name": "Arrriba en la Cordillera",
       "url": "https://open.spotify.com/track/5MFmzDIygDTiQuikj5T04Q"
@@ -23960,7 +23960,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 615966,
       "name": "Formentera Lady - Elemental Mix",
       "url": "https://open.spotify.com/track/6C8FQHVNGUJxXGahSGRydQ"
@@ -37106,6 +37106,24 @@
       "duration_ms": 230891,
       "name": "Lachrymatory",
       "url": "https://open.spotify.com/track/0vMSFxhahDAwVnnPDO8Oas"
+    },
+    {
+      "album": {
+        "name": "Islands (2026 David Singleton Elemental Mixes)",
+        "url": "https://open.spotify.com/album/3IQzMk4uDdhAYBoULqqcJa"
+      },
+      "artists": [
+        {
+          "name": "King Crimson",
+          "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398016,
+      "name": "Ladies Of The Road - Elemental Mix",
+      "url": "https://open.spotify.com/track/5a0oCPHgvuWPZKp0OdJOnN"
     },
     {
       "album": {
@@ -52319,6 +52337,28 @@
     },
     {
       "album": {
+        "name": "Loose (Deluxe 20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0W8jDIstZaShcBkmKOShU4"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Adam Tendler",
+          "url": "https://open.spotify.com/artist/6vxBMBXy5hzAW7xO8kDTG5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351927,
+      "name": "Promiscuous - BADDIE Version",
+      "url": "https://open.spotify.com/track/7dN2htYqS6fTNGDElh1EOy"
+    },
+    {
+      "album": {
         "name": "Promise Me (09 | 26)",
         "url": "https://open.spotify.com/album/32V3ZOZSMDG2lQMTu17S3P"
       },
@@ -58269,6 +58309,32 @@
     },
     {
       "album": {
+        "name": "\"Les Fleurs\" - Romantic and Beyond",
+        "url": "https://open.spotify.com/album/5wK47C9uj5xFvihtRZnVDU"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Semyon Bychkov",
+          "url": "https://open.spotify.com/artist/6qg886AZaBjnfRF5tEs4Ht"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596000,
+      "name": "Serenade for Strings in C, Op. 48: 1. Pezzo in forma di sonatina: Andante non troppo - Allegro moderato",
+      "url": "https://open.spotify.com/track/2W03qQkmcXj33JfLWSZkUK"
+    },
+    {
+      "album": {
         "name": "Serenatas Relajantes: M\u00fasica Para Momentos De Tranquilidad",
         "url": "https://open.spotify.com/album/2sTnUyn1H8fQ8NthZwDV2H"
       },
@@ -62508,7 +62574,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 238853,
       "name": "Standing On Higher Ground / Losing Proposition - Vocal Experiments",
       "url": "https://open.spotify.com/track/2zOyhFxXmzzqG8A7V0R9u8"
@@ -64160,7 +64226,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 420533,
       "name": "Swan Lake Suite, Op. 20a: II. Valse",
       "url": "https://open.spotify.com/track/60o4n1pfjmZk5BSzCRtZMk"
@@ -71500,7 +71566,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 253400,
       "name": "Too Late - Eric Woolfson Rough Guide Vocal",
       "url": "https://open.spotify.com/track/2XPAhHvhrXXuzcFdjdvIpi"
@@ -73006,7 +73072,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 176560,
       "name": "Un Cuarto de Tocopilla - Mataron a mi Morena",
       "url": "https://open.spotify.com/track/5f2LSs96anrS1kquiYrYcW"

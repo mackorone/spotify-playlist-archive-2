@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,865 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,867 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [絵本](https://open.spotify.com/track/6vqkAibnpE7h7Y7fn3cVrF) | [北沢志保 \(CV.雨宮 天\)](https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0) | [THE IDOLM@STER LIVE THE@TER HARMONY 03](https://open.spotify.com/album/7eyHlvuilbyQace0k063iy) | 5:02 |
 | 75 | [Dreaming!](https://open.spotify.com/track/6QEhegDKMkQfHEn4gtGDQa) | [天海春香 \(CV.中村繪里子\)](https://open.spotify.com/artist/4VYbbwQ4B6bjc3bJEAjFlL), [春日未来 \(CV.山崎はるか\)](https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv), [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [北沢志保 \(CV.雨宮 天\)](https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0), [ジュリア \(CV.愛美\)](https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9), [高槻やよい \(CV.仁後真耶子\)](https://open.spotify.com/artist/0ROzUCx8jDj405w1GBxZlb) | [THE IDOLM@STER LIVE THE@TER DREAMERS 02](https://open.spotify.com/album/4rhPmXsnPfSpDACWZI2vjU) | 4:41 |
 
-Snapshot ID: `AAAAAGwZrbA07dEjVA96ZdBV90cD1xRT`
+Snapshot ID: `AAAAALuCbRtPQhYQ7FKddYl3pVRUht4I`

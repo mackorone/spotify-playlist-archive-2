@@ -1,12 +1,12 @@
 {
   "description": "chill christmas beats to keep you cozy and focused",
-  "num_followers": 21846,
+  "num_followers": 21848,
   "original_name": "lofi christmas study\ud83c\udf84\ud83d\udcda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANspid7C7OYxGPPugwSL/YweHaq4",
+  "snapshot_id": "AAAAAJ+I0fbyvLmA+WgVOVKuaOhWgx8y",
   "tracks": [
     {
       "added_at": "2025-12-19 14:39:19",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/1nb65nP4yprMjJPSUEjxK0"
-      },
-      "artists": [
-        {
-          "name": "Jobii",
-          "url": "https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE"
-        }
-      ],
-      "duration_ms": 150150,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/57J4SCSsiHBsWifOeUSVsq"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Peaceful Memory",
         "url": "https://open.spotify.com/album/6JBwVgqGvEzfxVCaTicBZi"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Last Christmas Lo-Fi",
-        "url": "https://open.spotify.com/album/1CoBx7PxXi70TtCustoOcq"
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/1nb65nP4yprMjJPSUEjxK0"
       },
       "artists": [
         {
-          "name": "Kuma",
-          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
+          "name": "Jobii",
+          "url": "https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE"
         }
       ],
-      "duration_ms": 128531,
-      "name": "Last Christmas Lo-Fi",
-      "url": "https://open.spotify.com/track/0T11SuRD1LbPDj0QJZrSjE"
+      "duration_ms": 150150,
+      "name": "Auld Lang Syne (Lofi Version)",
+      "url": "https://open.spotify.com/track/57J4SCSsiHBsWifOeUSVsq"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -283,6 +267,22 @@
       "duration_ms": 118309,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/3nf9nlsB1rQjsrH4NrU9ic"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Last Christmas Lo-Fi",
+        "url": "https://open.spotify.com/album/1CoBx7PxXi70TtCustoOcq"
+      },
+      "artists": [
+        {
+          "name": "Kuma",
+          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
+        }
+      ],
+      "duration_ms": 128531,
+      "name": "Last Christmas Lo-Fi",
+      "url": "https://open.spotify.com/track/0T11SuRD1LbPDj0QJZrSjE"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -419,18 +419,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Snowman",
-        "url": "https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB"
+        "name": "candles and xmas",
+        "url": "https://open.spotify.com/album/3SuobeLAn8dQST6bg1eg0J"
       },
       "artists": [
         {
-          "name": "Lofi Lucy",
-          "url": "https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO"
+          "name": "TAX VRKT",
+          "url": "https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD"
         }
       ],
-      "duration_ms": 139764,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix"
+      "duration_ms": 140498,
+      "name": "candles and xmas",
+      "url": "https://open.spotify.com/track/3uK6ktiYn9pLdoV5FQDnsw"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -451,18 +451,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "candles and xmas",
-        "url": "https://open.spotify.com/album/3SuobeLAn8dQST6bg1eg0J"
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB"
       },
       "artists": [
         {
-          "name": "TAX VRKT",
-          "url": "https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD"
+          "name": "Lofi Lucy",
+          "url": "https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO"
         }
       ],
-      "duration_ms": 140498,
-      "name": "candles and xmas",
-      "url": "https://open.spotify.com/track/3uK6ktiYn9pLdoV5FQDnsw"
+      "duration_ms": 139764,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Lofi Christmas",
-        "url": "https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT"
-      },
-      "artists": [
-        {
-          "name": "Utah Noir",
-          "url": "https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR"
-        }
-      ],
-      "duration_ms": 149972,
-      "name": "Sleepy Christmas",
-      "url": "https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "xmas feels",
         "url": "https://open.spotify.com/album/5VIjYaI1DNQI8ZyRPfsoFX"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Jingle Jungle",
-        "url": "https://open.spotify.com/album/158trcJoW64TEmf7DbAxGE"
+        "name": "Lofi Christmas",
+        "url": "https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT"
       },
       "artists": [
         {
-          "name": "Meryl Street",
-          "url": "https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg"
+          "name": "Utah Noir",
+          "url": "https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR"
         }
       ],
-      "duration_ms": 140571,
-      "name": "Jingle Jungle",
-      "url": "https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A"
+      "duration_ms": 149972,
+      "name": "Sleepy Christmas",
+      "url": "https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -771,6 +755,22 @@
       "duration_ms": 156990,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/5oSd5Ri6AYoeh52kcOsE7I"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Jingle Jungle",
+        "url": "https://open.spotify.com/album/158trcJoW64TEmf7DbAxGE"
+      },
+      "artists": [
+        {
+          "name": "Meryl Street",
+          "url": "https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Jingle Jungle",
+      "url": "https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "WINTER",
-        "url": "https://open.spotify.com/album/4lWv5w3qgxaw1eV7bP2EYg"
-      },
-      "artists": [
-        {
-          "name": "ddrreeaamm",
-          "url": "https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr"
-        }
-      ],
-      "duration_ms": 115687,
-      "name": "WINTER",
-      "url": "https://open.spotify.com/track/0RUtIX5IX91i5lHWC9agsr"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "El Tamborillero",
         "url": "https://open.spotify.com/album/3BFtMfVWEq5rdN2GUIPGEu"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 166125,
       "name": "El Tamborillero",
       "url": "https://open.spotify.com/track/5FhKEzzYnquRmc6yoMfZLq"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/4lWv5w3qgxaw1eV7bP2EYg"
+      },
+      "artists": [
+        {
+          "name": "ddrreeaamm",
+          "url": "https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr"
+        }
+      ],
+      "duration_ms": 115687,
+      "name": "WINTER",
+      "url": "https://open.spotify.com/track/0RUtIX5IX91i5lHWC9agsr"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -961,7 +961,7 @@
         }
       ],
       "duration_ms": 187723,
-      "name": "Angels We Have Heard on High",
+      "name": "Angels We Have Heard on High (Lofi Version)",
       "url": "https://open.spotify.com/track/1fIoIfXOHKdfiyJAnv54NM"
     },
     {
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu"
+      },
+      "artists": [
+        {
+          "name": "Moon Portal",
+          "url": "https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
         "name": "We Wish You a Merry Christmas",
         "url": "https://open.spotify.com/album/4JZcGUYRVwgTXmG5iUVyVU"
       },
@@ -1105,7 +1121,7 @@
         }
       ],
       "duration_ms": 141165,
-      "name": "Joy to the World",
+      "name": "Joy to the World (Lofi Version)",
       "url": "https://open.spotify.com/track/0Spcvt226L8x9kasv3nV2P"
     },
     {
@@ -1139,22 +1155,6 @@
       "duration_ms": 126857,
       "name": "Coming Home To You",
       "url": "https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
-        "name": "Blanca Navidad",
-        "url": "https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu"
-      },
-      "artists": [
-        {
-          "name": "Moon Portal",
-          "url": "https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
+        "name": "wrap up warm",
+        "url": "https://open.spotify.com/album/5sllAS7PUnlz3UR5bzxccb"
+      },
+      "artists": [
+        {
+          "name": "inthedark",
+          "url": "https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "wrap up warm",
+      "url": "https://open.spotify.com/track/3rn8vRL6eEmVPPJLrXzvFy"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
         "name": "All I Want For Xmas",
         "url": "https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "The Night Before",
-        "url": "https://open.spotify.com/album/1yITIVwWWZxjIXufJ6Vxkp"
-      },
-      "artists": [
-        {
-          "name": "iasilma",
-          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
-        }
-      ],
-      "duration_ms": 111166,
-      "name": "The Night Before",
-      "url": "https://open.spotify.com/track/5ZIU60WNqPE6tJxhzJio4f"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Cookies for Santa",
         "url": "https://open.spotify.com/album/36WDS6B36bGKInhdD6z6d2"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 121828,
       "name": "Cookies for Santa",
       "url": "https://open.spotify.com/track/4VtNNYImMN4qF4WR9mdLNC"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "The Night Before",
+        "url": "https://open.spotify.com/album/1yITIVwWWZxjIXufJ6Vxkp"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "duration_ms": 111166,
+      "name": "The Night Before",
+      "url": "https://open.spotify.com/track/5ZIU60WNqPE6tJxhzJio4f"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1343,38 +1359,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "frozen waterfall",
-        "url": "https://open.spotify.com/album/4U8owRn60ZhIHRp8BrE047"
-      },
-      "artists": [
-        {
-          "name": "Rafa Figueroa",
-          "url": "https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB"
-        }
-      ],
-      "duration_ms": 128088,
-      "name": "frozen waterfall",
-      "url": "https://open.spotify.com/track/33eNqml56hGzHG8K1aMZVs"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
-        "name": "Snow Angel",
-        "url": "https://open.spotify.com/album/4btW84uwKxLPx96n35337s"
-      },
-      "artists": [
-        {
-          "name": "barry straw",
-          "url": "https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E"
-        }
-      ],
-      "duration_ms": 94273,
-      "name": "Snow Angel",
-      "url": "https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Happy Christmas",
         "url": "https://open.spotify.com/album/5F1vyxWSEVBWLW8q8ClShQ"
       },
@@ -1403,6 +1387,38 @@
       "duration_ms": 143855,
       "name": "The Christmas Song (Chestnuts Roasting)",
       "url": "https://open.spotify.com/track/3QKWVH0KQvoPB5SqUolK8b"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "frozen waterfall",
+        "url": "https://open.spotify.com/album/4U8owRn60ZhIHRp8BrE047"
+      },
+      "artists": [
+        {
+          "name": "Rafa Figueroa",
+          "url": "https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB"
+        }
+      ],
+      "duration_ms": 128088,
+      "name": "frozen waterfall",
+      "url": "https://open.spotify.com/track/33eNqml56hGzHG8K1aMZVs"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/4btW84uwKxLPx96n35337s"
+      },
+      "artists": [
+        {
+          "name": "barry straw",
+          "url": "https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E"
+        }
+      ],
+      "duration_ms": 94273,
+      "name": "Snow Angel",
+      "url": "https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1439,38 +1455,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "wrap up warm",
-        "url": "https://open.spotify.com/album/5sllAS7PUnlz3UR5bzxccb"
-      },
-      "artists": [
-        {
-          "name": "inthedark",
-          "url": "https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "wrap up warm",
-      "url": "https://open.spotify.com/track/3rn8vRL6eEmVPPJLrXzvFy"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
-        "name": "Jazz Christmas",
-        "url": "https://open.spotify.com/album/35w5gduX4ljSm2fbKA2g7B"
-      },
-      "artists": [
-        {
-          "name": "Grakch",
-          "url": "https://open.spotify.com/artist/0WF4RZFPpsA3ALDjF8qFFw"
-        }
-      ],
-      "duration_ms": 113891,
-      "name": "Jazz Christmas",
-      "url": "https://open.spotify.com/track/2uQqLMwJdzjUm6bfrQSt56"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "christmas in prague",
         "url": "https://open.spotify.com/album/4ZczbP017oKAexAR4jMQaS"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 147677,
       "name": "O holy night",
       "url": "https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Jazz Christmas",
+        "url": "https://open.spotify.com/album/35w5gduX4ljSm2fbKA2g7B"
+      },
+      "artists": [
+        {
+          "name": "Grakch",
+          "url": "https://open.spotify.com/artist/0WF4RZFPpsA3ALDjF8qFFw"
+        }
+      ],
+      "duration_ms": 113891,
+      "name": "Jazz Christmas",
+      "url": "https://open.spotify.com/track/2uQqLMwJdzjUm6bfrQSt56"
     },
     {
       "added_at": "2025-12-19 14:39:19",

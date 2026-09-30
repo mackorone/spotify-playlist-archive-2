@@ -2,7 +2,7 @@
 
 ### [Taewitdak Radio](https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW)
 
-> With Yeat, Cuo Zay, Autumn! and more
+> With Yeat, Autumn!, Cuo Zay and more
 
 340 songs - 13 hr 12 min
 
@@ -16,7 +16,7 @@
 | [A MariV Story](https://open.spotify.com/track/5EgVC8ucUdnsACd66FtmUx) | [MariV](https://open.spotify.com/artist/6psDxuJ2VhHRxIluizajRs) | [The Rise of MariV](https://open.spotify.com/album/1lAZTf54fgIoUC4FdJDQBd) | 2:09 | 2026-04-05 | 2026-04-18 |
 | [Adulthood](https://open.spotify.com/track/7KCgFPgWcTHWCOMdqVMiBj) | [slayr chive](https://open.spotify.com/artist/5saK9I2aNuUzB9ysuIFlKQ) | [Luxe](https://open.spotify.com/album/0lbOjvuFeR5WrBV1zuR52Z) | 2:22 | 2026-02-28 | 2026-03-26 |
 | [Advance](https://open.spotify.com/track/5s0cZYHGaWUEhn6mF4BEjC) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ) | [Advance](https://open.spotify.com/album/01nJqm7zhHdkuZc19VxNpv) | 1:50 | 2026-09-20 |  |
-| [AIN'T HEARD KAP!](https://open.spotify.com/track/3ZgxCyTqQFZFT71N0Y3jW6) | [kappaa!](https://open.spotify.com/artist/59qj4dTLo3tVzjVGNTvgPu) | [OTB](https://open.spotify.com/album/0NRSl9Co78mAedta6G2126) | 2:00 | 2026-09-27 | 2026-09-29 |
+| [AIN'T HEARD KAP!](https://open.spotify.com/track/3ZgxCyTqQFZFT71N0Y3jW6) | [kappaa!](https://open.spotify.com/artist/59qj4dTLo3tVzjVGNTvgPu) | [OTB](https://open.spotify.com/album/0NRSl9Co78mAedta6G2126) | 2:00 | 2026-09-27 |  |
 | [Ain't No Love \(feat\. BabyChiefDoit & BAK Jay\)](https://open.spotify.com/track/6bI8DN3LF8EzHkYbh065Ei) | [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Big Ah Kidz](https://open.spotify.com/album/0S6JdLMY0py4wBLkKfZfLO) | 4:00 | 2025-12-27 | 2026-08-12 |
 | [Air Bender](https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8) | [10cellphones](https://open.spotify.com/artist/3IBVsmzlYvtNgo76uhM2Pv) | [Everybody Hates 10](https://open.spotify.com/album/2Ljs7S5f0oExfgdCPJKko1) | 1:46 | 2026-01-15 | 2026-09-25 |
 | [All By Myself](https://open.spotify.com/track/7JZyUe08HBXocrXFTS23Lg) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [All By Myself](https://open.spotify.com/album/2Z0ec3YGElJ1TrC1KBBbbt) | 2:22 | 2026-05-23 | 2026-06-18 |
@@ -85,7 +85,7 @@
 | [doo doo diaper](https://open.spotify.com/track/3YGe6473ByCXP4QZcTorzZ) | [newway](https://open.spotify.com/artist/2XeGO0og3X3kPUhfRT2htO) | [doo doo diaper](https://open.spotify.com/album/4K75XSzY1kmbvfYNwCm9sG) | 3:15 | 2026-03-22 | 2026-03-23 |
 | [dookie](https://open.spotify.com/track/1AomQIauqXD5c6jpI18l8v) | [rseskii](https://open.spotify.com/artist/4KndFRSXIzFVbypa6yKCWh) | [dookie](https://open.spotify.com/album/2mrDKY2bOnxJASxQfrh9XX) | 2:55 | 2026-08-08 | 2026-08-10 |
 | [Double Trouble](https://open.spotify.com/track/5U4gWtfgt9uddsz73UeDFj) | [bloxkz](https://open.spotify.com/artist/2EwoGXPSiIj22fOW34RJsw), [Kyi Torch](https://open.spotify.com/artist/0tB0LU32h2aTsXJH0Y8mMS) | [Double Trouble](https://open.spotify.com/album/5Mqq72DjK0WOPaa9mTheuJ) | 2:18 | 2026-06-19 | 2026-07-10 |
-| [drama queen](https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [heartpacing](https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z) | 1:42 | 2026-01-18 |  |
+| [drama queen](https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [heartpacing](https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z) | 1:42 | 2026-01-18 | 2026-09-30 |
 | [DRIVE BYE](https://open.spotify.com/track/5NeL3TVFhfmPwU0yyic4Xa) | [Jflexxx](https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR) | [DRIVE BYE](https://open.spotify.com/album/19fAAO4PeRKrgvYDfmxtbm) | 2:02 | 2026-08-25 | 2026-09-25 |
 | [Drugs And Pretty Girls](https://open.spotify.com/track/1mKC9dh2Ly6Vmzu6KfmLZS) | [babygeo](https://open.spotify.com/artist/0AanX5CfD9V7K2SZenwhsc) | [RUINS](https://open.spotify.com/album/3s637sjUEzCxplSTHOz9gW) | 3:07 | 2026-02-26 | 2026-04-24 |
 | [DUNK LIKE JAMES](https://open.spotify.com/track/2VIihA4EmIHSdlKilWexqL) | [CMTG MAK](https://open.spotify.com/artist/5k62hWigcErgeoNHuwBevZ), [CMTG LICO](https://open.spotify.com/artist/35sYcgvtNyDJjwuZNWhXOl) | [DUNK LIKE JAMES](https://open.spotify.com/album/60NkYVji2ksLZgvDUHcLqd) | 2:06 | 2026-03-17 | 2026-03-27 |
@@ -140,7 +140,7 @@
 | [HTH](https://open.spotify.com/track/5fO5kjV2PM45vvs1n3LKJt) | [hybriid](https://open.spotify.com/artist/0OQyKOGAectNfRjbz15zi0), [Blackedy](https://open.spotify.com/artist/1KUAXExkHPbU9dtaqKwkK2) | [HTH](https://open.spotify.com/album/3aFaUdZfbrrhB3VvlJLM1E) | 2:05 | 2026-07-11 | 2026-07-21 |
 | [hunnid](https://open.spotify.com/track/0OJbP2toa8a2CJv5ouYZtc) | [brocky](https://open.spotify.com/artist/6QY3OnmClVaEMdJfaqj3wY), [shamm](https://open.spotify.com/artist/7922EczkaRB7hetTyVPN2Q), [K!no](https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81) | [hunnid](https://open.spotify.com/album/6a0UtHB4C2KefYA6NSmgyQ) | 1:30 | 2026-09-14 | 2026-09-16 |
 | [i got bodies](https://open.spotify.com/track/4brTxHpslYuWygGb4W1QPB) | [Bernard Jabs](https://open.spotify.com/artist/1EBoLDWzc0lpDDIVasJhAv) | [i got bodies](https://open.spotify.com/album/54w4OV3mq1xoHKpUT0jzhy) | 1:48 | 2026-08-16 | 2026-09-05 |
-| [I Love Freaks](https://open.spotify.com/track/13HuPBcqaL4iHzZiWyjLl6) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ) | [I Love Freaks](https://open.spotify.com/album/1P9yQpoQrOW2LX9683Aepu) | 1:41 | 2026-05-08 | 2026-09-11 |
+| [I Love Freaks](https://open.spotify.com/track/13HuPBcqaL4iHzZiWyjLl6) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ) | [I Love Freaks](https://open.spotify.com/album/1P9yQpoQrOW2LX9683Aepu) | 1:41 | 2026-05-08 |  |
 | [I Might Drive](https://open.spotify.com/track/6DCrWJbZPqqmnd0WpoB7su) | [Nfe Tummy](https://open.spotify.com/artist/5kYpfTaZup3Da12sn2KKP8) | [So Im The Bad Guy](https://open.spotify.com/album/4HVNcXuZeQWbJFZd2vG34F) | 1:50 | 2026-04-24 | 2026-05-29 |
 | [i want](https://open.spotify.com/track/1y1f64rhNHqhxHf4b6t3iO) | [yit](https://open.spotify.com/artist/5WEPWwmJRjDOub8mfEs08r), [M71KE](https://open.spotify.com/artist/12TuXufr9APcDNTQ1SsCYu) | [yit.mp3](https://open.spotify.com/album/0GQgKhXbtJ3jJ8DnwfxKXj) | 2:43 | 2026-02-01 | 2026-03-19 |
 | [I'm Okay](https://open.spotify.com/track/5MQByQHR2Jxv8AjgGHiu0L) | [4TUNAT](https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl), [Mascey](https://open.spotify.com/artist/2leeJ9Oskse9ySvoRgIYiY) | [YARDMAN: DELUXE](https://open.spotify.com/album/79St16B0at9aFJU0ga3v1X) | 2:03 | 2026-04-14 | 2026-04-21 |
@@ -220,7 +220,7 @@
 | [Opp's Hood](https://open.spotify.com/track/2oe0X2oRea7TG5B77sDGO4) | [Backayarl](https://open.spotify.com/artist/77MreVLzNRDkMwkF8MBB21) | [Never Lose](https://open.spotify.com/album/6UePZA2W3KscieTmTiJyax) | 2:02 | 2025-12-06 | 2026-06-26 |
 | [Outcast Loyalty](https://open.spotify.com/track/2umGgxNHbu7lpwfv743kNl) | [The Outcastkid](https://open.spotify.com/artist/4BUKPBM2FnGlDqnNKE9FYt) | [Outcast Loyalty](https://open.spotify.com/album/3wBmmo5J0hujCTHn5YMMu9) | 2:00 | 2026-06-06 | 2026-06-27 |
 | [OUTRO](https://open.spotify.com/track/0VIkfu39eJ3BBmmHvt6bQ5) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [WAKE UP LUCKI](https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG) | 3:22 | 2025-12-31 | 2026-04-12 |
-| [Outta Time](https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3) | [From The Heart](https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz) | 2:02 | 2025-12-09 |  |
+| [Outta Time](https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3) | [From The Heart](https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz) | 2:02 | 2025-12-09 | 2026-09-30 |
 | [owe you](https://open.spotify.com/track/0na2GxmPZI7Gza6UbUgnSe) | [Xella Red](https://open.spotify.com/artist/1L0cXYzWFWoPTyKLHRtORm), [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [Free Lunch](https://open.spotify.com/album/2W92q7IAk5XX5GxJfvoH40) | 2:19 | 2026-08-12 | 2026-09-09 |
 | [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 | 2025-12-22 |  |
 | [passion](https://open.spotify.com/track/4VxjqioRNX95lLuNeakxEz) | [Favo](https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe) | [Alignment](https://open.spotify.com/album/0atrSqUdYaPhqqtKWmaAl1) | 1:41 | 2026-09-06 | 2026-09-21 |

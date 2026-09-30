@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her\. dreng&piger på cover ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,755 likes - 142 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,760 likes - 142 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 141 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 |
 | 142 | [Kærlighed & Kildevand](https://open.spotify.com/track/5KVgLz2vx6LGnCR3I3xpJV) | [barejegvarmig](https://open.spotify.com/artist/2jd9z4iry5iB6Ue1pt6HVH) | [Kærlighed & Kildevand](https://open.spotify.com/album/1yZj2pHkRzRdmaUp0DKMsi) | 2:44 |
 
-Snapshot ID: `AAAAACiW+u82bu1Oj7oMrBsWeezEN8+h`
+Snapshot ID: `AAAAAOWJ3XxT9tg+Rx6ybPYD4toDpwwX`

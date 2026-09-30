@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 
 > De Wembley al Azteca\. Los cantos que mueven al estadio\. Maná en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,735 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,721 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 29 | [El Sinaloense](https://open.spotify.com/track/0As4JIfkhj2cHiSRj9kfsb) | [Banda El Recodo \- Homenaje Póstumo](https://open.spotify.com/artist/6qMTJaiqfbD7HTT8Dl4L2W) | [En Memoria: Las Canciones Preferidas de Don Cruz](https://open.spotify.com/album/4b9MByxyu2Sfb4aB9YBX7w) | 2:12 |
 | 30 | [Inténtalo \(feat\. América Sierra & El Bebeto\)](https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:13 |
 
-Snapshot ID: `AAAAAMf4odiU5AV9AtA+N0rWcr9yegbF`
+Snapshot ID: `AAAAAMSQQxx1fKV7WV0xhD+BvWjzoPyj`

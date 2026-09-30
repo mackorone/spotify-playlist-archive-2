@@ -9581,6 +9581,24 @@
     },
     {
       "album": {
+        "name": "Gadha",
+        "url": "https://open.spotify.com/album/2vmro13IHkO44RZd6i6kTy"
+      },
+      "artists": [
+        {
+          "name": "Arham Fulfagar",
+          "url": "https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230454,
+      "name": "Gadha",
+      "url": "https://open.spotify.com/track/1X0PtEieH2anh2kJQBZl4Q"
+    },
+    {
+      "album": {
         "name": "Galti (feat. MxRZI)",
         "url": "https://open.spotify.com/album/6xKcG6vHS4MJjNFEpqYdKs"
       },
@@ -11316,7 +11334,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 277173,
       "name": "Hum aur Woh",
       "url": "https://open.spotify.com/track/2YdvkTU9FN136OsQ6D9nnp"

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 71098,
+  "num_followers": 71106,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arhcgAAAAAB1QfCxWmYLckFAtb2NR7pu",
+  "snapshot_id": "armuAAAAAABei6q7+wMH+YZoyUV3Eueq",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los corridos de los machos",
-        "url": "https://open.spotify.com/album/4pg7vvZ4bIwtDt4KTbyZ2v"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 190386,
-      "name": "Traficantes michoacanos",
-      "url": "https://open.spotify.com/track/66RcrbETM4dURNG2eGG860"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los machos tambi\u00e9n lloran",
         "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 177373,
       "name": "Cumbia torera",
       "url": "https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los corridos de los machos",
+        "url": "https://open.spotify.com/album/4pg7vvZ4bIwtDt4KTbyZ2v"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 190386,
+      "name": "Traficantes michoacanos",
+      "url": "https://open.spotify.com/track/66RcrbETM4dURNG2eGG860"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Reales hits",
-        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 172160,
-      "name": "Casimira",
-      "url": "https://open.spotify.com/track/69lMsov1cQvrno4lfml8qc"
+      "duration_ms": 148120,
+      "name": "Los machos tambi\u00e9n lloran",
+      "url": "https://open.spotify.com/track/2nBl6V42VMmSKV9kZ7zWWY"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+        "name": "16 Reales hits",
+        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 148120,
-      "name": "Los machos tambi\u00e9n lloran",
-      "url": "https://open.spotify.com/track/2nBl6V42VMmSKV9kZ7zWWY"
+      "duration_ms": 172160,
+      "name": "Casimira",
+      "url": "https://open.spotify.com/track/69lMsov1cQvrno4lfml8qc"
     },
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias Mujer",
-        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+        "name": "A Capa y Espada",
+        "url": "https://open.spotify.com/album/7LA0pBjRzz4A623ZAaZbAT"
       },
       "artists": [
         {
           "name": "Banda Machos",
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        },
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
         }
       ],
-      "duration_ms": 178506,
-      "name": "Mu\u00e9vete morena",
-      "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
+      "duration_ms": 271250,
+      "name": "A Capa y Espada",
+      "url": "https://open.spotify.com/track/4g8IpeTFKxoDYIIPBu4Dv8"
     },
     {
       "added_at": null,
@@ -603,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Capa y Espada",
-        "url": "https://open.spotify.com/album/7LA0pBjRzz4A623ZAaZbAT"
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
       },
       "artists": [
         {
           "name": "Banda Machos",
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        },
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
         }
       ],
-      "duration_ms": 271250,
-      "name": "A Capa y Espada",
-      "url": "https://open.spotify.com/track/4g8IpeTFKxoDYIIPBu4Dv8"
+      "duration_ms": 178506,
+      "name": "Mu\u00e9vete morena",
+      "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias Mujer",
-        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "Gracias mujer",
-      "url": "https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Tendr\u00e9 Que Olvidar",
         "url": "https://open.spotify.com/album/2gSjwvm8bv3dtuSjndOYec"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 241584,
       "name": "La Tendr\u00e9 Que Olvidar",
       "url": "https://open.spotify.com/track/3lvWyePXS1f6gCaWWr2S8m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Gracias mujer",
+      "url": "https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheras de oro",
-        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 153013,
-      "name": "En toda la chapa",
-      "url": "https://open.spotify.com/track/2bYFjXeMwQ9S17ZUbUQ9gq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura pasi\u00f3n",
         "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabra de machos",
-        "url": "https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM"
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 141093,
-      "name": "El pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/2jZuDQPI6TFiN15wYsmaDS"
+      "duration_ms": 153013,
+      "name": "En toda la chapa",
+      "url": "https://open.spotify.com/track/2bYFjXeMwQ9S17ZUbUQ9gq"
     },
     {
       "added_at": null,
@@ -787,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheras de oro",
-        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+        "name": "Palabra de machos",
+        "url": "https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM"
       },
       "artists": [
         {
@@ -796,9 +780,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 204266,
-      "name": "Recu\u00e9rdame y ven",
-      "url": "https://open.spotify.com/track/0wS7IYnBpQIq5EGipjSmeu"
+      "duration_ms": 141093,
+      "name": "El pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/2jZuDQPI6TFiN15wYsmaDS"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 201666,
       "name": "A prueba de balas",
       "url": "https://open.spotify.com/track/2KoqK3sE07EAA8OfC9NvsI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Recu\u00e9rdame y ven",
+      "url": "https://open.spotify.com/track/0wS7IYnBpQIq5EGipjSmeu"
     }
   ],
   "unique_name": "This Is Banda Machos",

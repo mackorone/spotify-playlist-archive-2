@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,843 likes - 256 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,291,898 likes - 256 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 255 | [Stardust Drift](https://open.spotify.com/track/2rAejnZY9qkJMpNgD03VUR) | [Noctilune](https://open.spotify.com/artist/65imc4HXi6wQ5ZUljfLi3X) | [Stardust Drift](https://open.spotify.com/album/6LrwZ7VTiowcJfX2gtnIE2) | 2:20 |
 | 256 | [A New Thought](https://open.spotify.com/track/441Cz5TOXmznytPLOU0OpJ) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [A New Thought](https://open.spotify.com/album/0j54C55YZUAw9bjYGcBn2g) | 2:56 |
 
-Snapshot ID: `AAAAAAFLQoOrRX9OHCIr/uH49rlK9vVE`
+Snapshot ID: `AAAAAAGwiTMKnMeeOGITBQB9PCSctPsi`

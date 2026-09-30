@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik på New Music Friday bl.a\. fra TopGunn, Taylor Swift  og Charli XCX & Madonna✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,049 likes - 101 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,046 likes - 101 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 100 | [Somebody Else](https://open.spotify.com/track/3ErRzbj5olXrzWln9IlOlO) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Somebody Else](https://open.spotify.com/album/2LnBwPL91WG3pElZdENv6O) | 3:01 |
 | 101 | [The Shallow End](https://open.spotify.com/track/2nMNg9uNbJM88NzxFD9OAM) | [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [Fantasy Prologue](https://open.spotify.com/album/4e6CxjLswiuoTkqMAPP7gL) | 2:39 |
 
-Snapshot ID: `AAAAADZ4mKcuX9QBOcwX1KwtPDUaxlkh`
+Snapshot ID: `AAAAAEUfMOsHA7FKR0WQEIQgGZzbSrWQ`

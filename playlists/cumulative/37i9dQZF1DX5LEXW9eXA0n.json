@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: O.WHEN) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Parc Jae Jung (\ubc15\uc7ac\uc815)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -906,6 +906,24 @@
       "duration_ms": 251000,
       "name": "Aching",
       "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
+    },
+    {
+      "album": {
+        "name": "Acts of Goodbye",
+        "url": "https://open.spotify.com/album/2vKt7NF4G4v5lG0NCbJAiX"
+      },
+      "artists": [
+        {
+          "name": "Cha ga eul",
+          "url": "https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Acts of Goodbye",
+      "url": "https://open.spotify.com/track/0rvda2l6aIaDdHYfC0JVSr"
     },
     {
       "album": {
@@ -6776,6 +6794,24 @@
       "duration_ms": 211206,
       "name": "Enough for Me",
       "url": "https://open.spotify.com/track/4lToVOuZ6l1kdY3NdiSFvY"
+    },
+    {
+      "album": {
+        "name": "Records (A-Side)",
+        "url": "https://open.spotify.com/album/2kEI0BBPIBdK2LRjMgEooD"
+      },
+      "artists": [
+        {
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326000,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/13ymxkRGi7AIydygINpmIK"
     },
     {
       "album": {
@@ -24610,7 +24646,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 280000,
       "name": "Still Thinking of You",
       "url": "https://open.spotify.com/track/4erPuFgudlE4jrUdjZepcy"
@@ -25000,7 +25036,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 219000,
       "name": "SunFlower",
       "url": "https://open.spotify.com/track/5T9rLJnCLFh5ZViMfdRF7u"
@@ -27356,6 +27392,24 @@
       "duration_ms": 173666,
       "name": "Timing",
       "url": "https://open.spotify.com/track/6XqsQdaD86eKPnk6ZrAg8n"
+    },
+    {
+      "album": {
+        "name": "To Be Free",
+        "url": "https://open.spotify.com/album/1ivum38MrOmTXAXrgaD89W"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266116,
+      "name": "To Be Free",
+      "url": "https://open.spotify.com/track/1bfdX4s50HCF7bUG55dydc"
     },
     {
       "album": {
@@ -29931,6 +29985,24 @@
     },
     {
       "album": {
+        "name": "Winds of Time",
+        "url": "https://open.spotify.com/album/0POxzwyHF8lqsaFQhu7rST"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254670,
+      "name": "Winds of Time",
+      "url": "https://open.spotify.com/track/7DSRgwsNdSEVIwAND74XH4"
+    },
+    {
+      "album": {
         "name": "CONNECTION",
         "url": "https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH"
       },
@@ -32456,7 +32528,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 257078,
       "name": "\uc0ac\ub791\ud55c \ud6c4\uc5d0 (2026)",
       "url": "https://open.spotify.com/track/3N2F4uuVts18aa9n6VTPIp"
@@ -32802,7 +32874,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 212495,
       "name": "\uc774\ubcc4\uadf9 (The Farewell Play)",
       "url": "https://open.spotify.com/track/1QDuJT5YqzpzoV1KPKf5Rg"

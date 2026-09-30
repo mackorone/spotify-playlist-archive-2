@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : KOMMANDER SAMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,783 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,857 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Bara](https://open.spotify.com/track/28vRp2iPn3wtFtoHt4XgJu) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Bara](https://open.spotify.com/album/73HtPwWeCd4oOsFksDrvHZ) | 2:26 |
 | 40 | [senvolement](https://open.spotify.com/track/2LL3bN6fchZxhE3axSyGjn) | [Sonik](https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR) | [senvolement](https://open.spotify.com/album/1WGOlaHW9q6nBP9X6u9vwW) | 1:14 |
 
-Snapshot ID: `AAAAAPpjMM79CbvV81jp3K699zW0Yo4I`
+Snapshot ID: `AAAAAMGIv9jtDDzLCYYkaYXCsw5l7M1Z`

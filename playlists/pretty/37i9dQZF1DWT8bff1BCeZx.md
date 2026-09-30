@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,877 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,887 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 99 | [Yahweh Yahweh](https://open.spotify.com/track/5luPkXtktEKUxL2YLRVDiQ) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Yahweh Yahweh](https://open.spotify.com/album/2lvOK6RPapKVZJ3MdKK9D3) | 3:20 |
 | 100 | [Dai Dai](https://open.spotify.com/track/7K81jfwTAAPw0vMD8vUdUg) | [Rimz john](https://open.spotify.com/artist/67ZYJtBc4bY0Zy0hLK5xpw) | [Dai Dai](https://open.spotify.com/album/1j5VLOg2EpYxQtw3yXT0k0) | 2:36 |
 
-Snapshot ID: `AAAAACfbva0cu9y3WtxEEkfOdnYSirUB`
+Snapshot ID: `AAAAAEweanD4HpU5oywoDB3TTFiMsxW9`

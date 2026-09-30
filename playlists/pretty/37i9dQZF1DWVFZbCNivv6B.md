@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Zimple y Los Dos Carnales en la tarima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,133 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,125 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 3 | [Nadie Como Tú](https://open.spotify.com/track/54LbXBtNtr5wvXgNLkeUj3) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Nadie Como Tú](https://open.spotify.com/album/3PcBU9xmZRyLRzH2vJODdd) | 2:50 |
 | 4 | [Antipolicia](https://open.spotify.com/track/2C00SRhnAByxvJOOBWpHvh) | [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3), [Carlos Luengo](https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e) | [Antipolicia](https://open.spotify.com/album/78iJnNdeYg05umBZdy15iG) | 3:17 |
 | 5 | [Vida de Malandrín](https://open.spotify.com/track/3DDeZukdURaJSzg3icQOh4) | [Union Fatal](https://open.spotify.com/artist/7ANYm0dRVIAIwNmWw0kWzj) | [Vida de Malandrín](https://open.spotify.com/album/7dlHpsEhoDJq4UNDp3MyVw) | 3:46 |
-| 6 | [On My Block](https://open.spotify.com/track/4MX9iY7YCssdz3Zm4YF7lP) | [T.O.N.A](https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK), [iQlover](https://open.spotify.com/artist/4f3gfMiBebyuTylgG4hHbq), [Jarabe kidd](https://open.spotify.com/artist/5absue45Q798sotcg1d0FD), [Pillgrim](https://open.spotify.com/artist/609R48uD0HoK2rV2erb8z1), [PSweeze](https://open.spotify.com/artist/3FBd1XBVcy6FaY8KiXUZkk), [Jonny G](https://open.spotify.com/artist/4UujVLYdmo0U7Bu0RjfLMG) | [On My Block](https://open.spotify.com/album/4mslWWGLiHxRwhMmuuY9a9) | 2:52 |
+| 6 | [On My Block](https://open.spotify.com/track/4MX9iY7YCssdz3Zm4YF7lP) | [T.O.N.A](https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK), [iQlover](https://open.spotify.com/artist/4f3gfMiBebyuTylgG4hHbq), [Jarabe kidd](https://open.spotify.com/artist/5absue45Q798sotcg1d0FD), [Pillgrim](https://open.spotify.com/artist/32Qpvi2c0zxfXvfZGfS3Cx), [PSweeze](https://open.spotify.com/artist/3FBd1XBVcy6FaY8KiXUZkk), [Jonny G](https://open.spotify.com/artist/4UujVLYdmo0U7Bu0RjfLMG) | [On My Block](https://open.spotify.com/album/4mslWWGLiHxRwhMmuuY9a9) | 2:52 |
 | 7 | [Vida Loca](https://open.spotify.com/track/0SyDRPzPv52sBChIRHy2JL) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [King Zoo](https://open.spotify.com/artist/171953d8wJbRvl2f36uLDd) | [Vida Loca](https://open.spotify.com/album/5oqr4uOLzxDxzqgsJjoMbB) | 4:48 |
 | 8 | [Lo Que No Me Mata](https://open.spotify.com/track/2u50rEfF46zbbwYj0mmV1a) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Lo Que No Me Mata](https://open.spotify.com/album/56DTzOY0cyxCeFHzVtsPZY) | 3:02 |
 | 9 | [Viejo Gacho](https://open.spotify.com/track/4R8y4zZppFouGhJ824I6Rf) | [Big Sempa](https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf), [Muné](https://open.spotify.com/artist/74Nrkmf527K4UyUHnaYbf7) | [Viejo Gacho](https://open.spotify.com/album/4O7gMnwpJ35xn1JfVR3SlQ) | 2:47 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 50 | [Me Ha Costado](https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:36 |
 | 51 | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj), [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP) | 4:08 |
 
-Snapshot ID: `AAAAACFYLK3qzQWNc5BK1VV+M9mZuVJT`
+Snapshot ID: `AAAAAFKzgJPBNY857l//LBmpaSjTxSuW`

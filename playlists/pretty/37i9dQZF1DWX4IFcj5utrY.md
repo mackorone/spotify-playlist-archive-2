@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: FKA Mash
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,490 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,506 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Everybody Wanna Be In Love](https://open.spotify.com/track/6c4MbGlY1XHjnHuF2HeZUX) | [Calvin Fallo](https://open.spotify.com/artist/2zMD4U9OQAR3xuq6cjer8p) | [Everybody Wanna Be In Love](https://open.spotify.com/album/2SLy7tznXk2DrcYyW5imnY) | 6:51 |
-| 2 | [Make Believe](https://open.spotify.com/track/5WSesDy09JmCkVyFPb4SeT) | [FKA MASH](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Samuell Miller](https://open.spotify.com/artist/4kirKfHRU1tsj5MiiC9bZU) | [EXITECHNO](https://open.spotify.com/album/4TDcmsuTszNJVeX2AU3Imu) | 7:35 |
+| 2 | [Make Believe](https://open.spotify.com/track/5WSesDy09JmCkVyFPb4SeT) | [FKA MASH](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [EXITECHNO](https://open.spotify.com/album/4TDcmsuTszNJVeX2AU3Imu) | 7:35 |
 | 3 | [IMALI](https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [IMALI](https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ) | 4:43 |
 | 4 | [Hold Somebody](https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Hold Somebody](https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH) | 2:38 |
 | 5 | [Oh My Love](https://open.spotify.com/track/2aWM3EwGsrr5IVYEUOkA4i) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Brandon Dhludhlu](https://open.spotify.com/artist/6PFKzJX6qfJFth8Uf6ZUEV) | [Nothing To Lose](https://open.spotify.com/album/0X4VSasL7jR0Pr3qnVdhvM) | 7:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 59 | [SNOKONOKO](https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny) | [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [SNOKONOKO](https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp) | 6:39 |
 | 60 | [Yuapi ?](https://open.spotify.com/track/4Cfj16a3sv3Q5CYBkgufvD) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Winyo](https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Yuapi ?](https://open.spotify.com/album/6WCBXaK8YMq9HUMd883Ct1) | 6:42 |
 
-Snapshot ID: `AAAAAGqSj25F6a0Nu8mXXtJvUPgpsPeY`
+Snapshot ID: `AAAAAPEaTziK92IB+17qEtmFyLMe9aHM`

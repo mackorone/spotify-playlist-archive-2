@@ -1,12 +1,12 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 768755,
+  "num_followers": 768800,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACSIeM/cA6wHLOKkyEebu3KCAd7c",
+  "snapshot_id": "AAAAALTqeborZ0I2ary6DtrrDr8IZp+O",
   "tracks": [
     {
       "added_at": "2026-06-30 16:09:15",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
+        "name": "INERTIA",
+        "url": "https://open.spotify.com/album/5WQ2aXsGMKlakBEoHFyOqk"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 217292,
+      "name": "MASTERS OF WAR",
+      "url": "https://open.spotify.com/track/0EJlSUNoYL931cYAQspN5i"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
         "name": "Wild Card/A Word To The Wise",
         "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 223003,
       "name": "Flagpole Sitta",
       "url": "https://open.spotify.com/track/4d1WMnL8dMh37ZZnMGvG59"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
-        "name": "INERTIA",
-        "url": "https://open.spotify.com/album/5WQ2aXsGMKlakBEoHFyOqk"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 217292,
-      "name": "MASTERS OF WAR",
-      "url": "https://open.spotify.com/track/0EJlSUNoYL931cYAQspN5i"
     },
     {
       "added_at": "2026-06-30 16:09:15",

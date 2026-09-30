@@ -1,12 +1,12 @@
 {
   "description": "Fcukers on the cover bby",
-  "num_followers": 218991,
+  "num_followers": 219002,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFaAROdNb3rNaV2a8nsoqJsz7RQQ",
+  "snapshot_id": "AAAAAA0Y4Q3O1uxJmjX6uU+9AeGYINN/",
   "tracks": [
     {
       "added_at": "2026-09-02 21:11:47",
@@ -1663,18 +1663,22 @@
     {
       "added_at": "2026-09-02 21:11:47",
       "album": {
-        "name": "Play Me",
-        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK"
       },
       "artists": [
         {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        },
+        {
+          "name": "Aeroplane",
+          "url": "https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Play Me",
-      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
+      "duration_ms": 465333,
+      "name": "Paris - Aeroplane Remix",
+      "url": "https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP"
     }
   ],
   "unique_name": "Indie Sleaze",

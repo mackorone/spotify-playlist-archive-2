@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-156 songs - 7 hr 51 min
+157 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Sahnewal](https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:41 | 2023-06-22 | 2025-01-09 |
 | [Sang Maar Gayi](https://open.spotify.com/track/4kKwMfSZyjiJyAPNWCDJed) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Sang Maar Gayi](https://open.spotify.com/album/6GXO46JpbsnaAAqw1VFmBo) | 2:58 | 2023-06-22 |  |
 | [Sang Sang Ke](https://open.spotify.com/track/67CtKLcRzzEHJwIduWjnWe) | [Misaal](https://open.spotify.com/artist/3ctZPTFXtTdZ7dlwMn6Dju), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Sang Sang Ke](https://open.spotify.com/album/6zN3P9r2gU3RtVThlqVoS8) | 2:06 | 2025-05-15 | 2025-06-21 |
+| [Sardaari](https://open.spotify.com/track/0lfiPRY2oD5cj4z4xG3DTL) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E) | [Show Stopper](https://open.spotify.com/album/5A7vYffYcNao10TPBXvLn8) | 3:55 | 2026-09-23 |  |
 | [Sauda Khara Khara \- From "Good Newwz"](https://open.spotify.com/track/7Fq769JN9wwaVHUgVdkxNg) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sukhbir](https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Sauda Khara Khara \(From "Good Newwz"\)](https://open.spotify.com/album/4s111tHGrcnzOoZpIxijX5) | 3:31 | 2025-01-08 |  |
 | [She Don't Know \(From "She Don't Know"\)](https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf) | 3:23 | 2025-01-08 |  |
 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \(Original Never Ends\)](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 | 2025-01-08 |  |
@@ -161,7 +162,7 @@
 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 | 2023-06-22 |  |
 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 | 2025-01-08 |  |
 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 | 2025-02-07 | 2025-02-12 |
-| [World Map](https://open.spotify.com/track/0drSSdtokHutZaXLVaKqDa) | [Saiz Bajwa](https://open.spotify.com/artist/0t58TpmQBjBwBmtraKK8Ed), [Sonu Bajwa](https://open.spotify.com/artist/7kNljul2l2bBw9jYBEMjrN) | [World Map](https://open.spotify.com/album/45N5EqUVQMzUPyb6FG9Tm3) | 3:37 | 2026-09-23 |  |
+| [World Map](https://open.spotify.com/track/0drSSdtokHutZaXLVaKqDa) | [Saiz Bajwa](https://open.spotify.com/artist/0t58TpmQBjBwBmtraKK8Ed), [Sonu Bajwa](https://open.spotify.com/artist/7kNljul2l2bBw9jYBEMjrN) | [World Map](https://open.spotify.com/album/45N5EqUVQMzUPyb6FG9Tm3) | 3:37 | 2026-09-23 | 2026-09-30 |
 | [Yaari Chandigarh Waliye](https://open.spotify.com/track/2xzuUPOffYMIdOkOG7D0BI) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mitti Da Bawa](https://open.spotify.com/album/0yrvrlpDvPM05MJQyVPKvW) | 3:04 | 2023-06-22 |  |
 | [Zindagi Jnaab Saddi](https://open.spotify.com/track/7EiAduObZZ8OrWzbNQAmDT) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [Zindagi Jnaab Saddi](https://open.spotify.com/album/4RkMUi4R95mJlHfNc7CkrW) | 3:33 | 2025-02-14 | 2025-02-18 |
 

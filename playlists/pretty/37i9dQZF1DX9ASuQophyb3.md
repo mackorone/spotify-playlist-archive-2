@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Ebru Gündeş
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,170 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,182 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 54 | [Gel Dönelim Eve](https://open.spotify.com/track/561ZdDYPlL9esdHkWQtKPI) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Gel Dönelim Eve](https://open.spotify.com/album/2a7EwIzMgJ7Mqe8i1RQ6WK) | 2:38 |
 | 55 | [Ayay](https://open.spotify.com/track/06EsIRH0uVkxvyITqcK5Ok) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Ayay](https://open.spotify.com/album/3GrQZDphUsU1PyEBdICyDR) | 2:28 |
 
-Snapshot ID: `AAAAAJdx9vD3CfqyrDQouuxnSm5ljaM/`
+Snapshot ID: `AAAAAMwsonOgFYgsbQqhDASqIgOknWzb`

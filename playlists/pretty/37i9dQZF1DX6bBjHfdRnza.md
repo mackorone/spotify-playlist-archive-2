@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance tracks from independent artists & labels\. Featuring KDAY\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,294 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,343 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 74 | [Close 2 U](https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [Close 2 U](https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s) | 2:09 |
 | 75 | [frog](https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5) | [monica.com](https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe) | [turbine / frog](https://open.spotify.com/album/5DtSUckKsdlixH2M4jwSQz) | 2:34 |
 
-Snapshot ID: `AAAAAJpIQ3ySqZ6pM/ol8sKFKVPk+/9I`
+Snapshot ID: `AAAAAN1Sau9YZ4SedcuRez+CrZjP2bMH`

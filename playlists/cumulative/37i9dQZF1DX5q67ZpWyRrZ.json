@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 190601,
       "name": "Jadoo",
       "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
@@ -2808,6 +2808,28 @@
       "duration_ms": 174418,
       "name": "Kaise Banu",
       "url": "https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt"
+    },
+    {
+      "album": {
+        "name": "Kaliyaan",
+        "url": "https://open.spotify.com/album/3fl0YteOBNVB020BXkgpS1"
+      },
+      "artists": [
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "Bawari Basanti",
+          "url": "https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159622,
+      "name": "Kaliyaan",
+      "url": "https://open.spotify.com/track/2imK2X4ah7bVms1TjSAB19"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Sara James
 
-993 songs - 2 day 0 hr 28 min
+994 songs - 2 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Bestie, Move On](https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 3:31 | 2025-01-23 | 2025-05-16 |
 | [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 | 2025-05-01 | 2025-08-27 |
 | [Bez Ciebie](https://open.spotify.com/track/3HdQwGJ9gbYCH2YwqatNoR) | [Berie](https://open.spotify.com/artist/2hUbI0ebOh5Aq8QS1XB54r) | [Bez Ciebie](https://open.spotify.com/album/46XHKQ8GBkUoHoTugf8pjo) | 3:18 | 2025-03-06 | 2025-03-14 |
-| [bez ciebie](https://open.spotify.com/track/3Pfn5Rl7XmzhXiMaHWmreY) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4), [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [bez ciebie](https://open.spotify.com/album/0FvXGWc2NK5USUqILWpdL7) | 3:36 | 2026-08-06 |  |
+| [bez ciebie](https://open.spotify.com/track/3Pfn5Rl7XmzhXiMaHWmreY) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4), [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [bez ciebie](https://open.spotify.com/album/0FvXGWc2NK5USUqILWpdL7) | 3:36 | 2026-08-06 | 2026-09-30 |
 | [Bez Ciebie](https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 3:37 | 2025-09-23 | 2026-02-02 |
 | [Bez porównań](https://open.spotify.com/track/2SRLhPy43D13cVR4qewxy2) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Bez porównań](https://open.spotify.com/album/1MjltZhGjBpiaALMeN9t8p) | 2:51 | 2026-06-11 | 2026-09-04 |
 | [Bez siebie](https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Bez siebie](https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p) | 2:58 | 2025-08-26 | 2025-12-14 |
@@ -539,6 +539,7 @@
 | [Nie ma takich miast](https://open.spotify.com/track/4BMr5WZHUm7HjuqilsPfk1) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Nie ma takich miast](https://open.spotify.com/album/6qKYgcue6wD2FJUc2Cou2U) | 2:55 | 2025-04-24 | 2025-05-02 |
 | [Nie możesz teraz odejść](https://open.spotify.com/track/1J8gF267PesNe2tS1mdldL) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [2K88](https://open.spotify.com/artist/1U1CwZeD8SU65TWHjLoPFY) | [Nie możesz teraz odejść](https://open.spotify.com/album/6A5gCbv9wOQ3cvsvBdRUBY) | 3:20 | 2026-02-12 | 2026-02-20 |
 | [Nie mów](https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [eryq](https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6) | [Nie mów](https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF) | 2:42 | 2024-08-22 | 2025-01-24 |
+| [Nie mówcie mi jak mam kochać](https://open.spotify.com/track/0d75CV33jqW9Bgv4ZGyw3v) | [Larah](https://open.spotify.com/artist/57LOwYXV6VIq1pMLQUwkjp) | [Nie mówcie mi jak mam kochać](https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK) | 2:54 | 2026-09-24 |  |
 | [Nie Odmówię](https://open.spotify.com/track/5q9hCKJPE2glIJRr6SCbPf) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Nie Odmówię](https://open.spotify.com/album/421yEu8kSaOoLGLyhVaLqX) | 2:13 | 2026-09-03 | 2026-09-14 |
 | [Nie pozwolę Ci wyjść](https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Nie pozwolę Ci wyjść](https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd) | 2:41 | 2025-09-23 | 2026-02-13 |
 | [nie płacz dziewczyno](https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nie płacz dziewczyno](https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo) | 2:48 | 2024-11-21 | 2025-01-24 |

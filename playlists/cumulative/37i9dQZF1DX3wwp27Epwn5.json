@@ -555,6 +555,36 @@
     },
     {
       "album": {
+        "name": "Bhootni Ka (From \"Udta Teer\")",
+        "url": "https://open.spotify.com/album/712LWqPZYzJrTCULmpWZdW"
+      },
+      "artists": [
+        {
+          "name": "Kaka",
+          "url": "https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Twinkle Aggrwal",
+          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213904,
+      "name": "Bhootni Ka (From \"Udta Teer\")",
+      "url": "https://open.spotify.com/track/7jZWdcfiNU2vJHQAjLzHVd"
+    },
+    {
+      "album": {
         "name": "Bom Diggy - Single",
         "url": "https://open.spotify.com/album/6YZdJ32vbH2lJmmIobqoc8"
       },
@@ -2344,7 +2374,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 258785,
       "name": "Maay Bhavani (From \"Tanhaji - The Unsung Warrior\")",
       "url": "https://open.spotify.com/track/4kBlS162jP01b4uFMbGx3A"

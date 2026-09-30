@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,365 likes - 100 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,386 likes - 100 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [Ngihambise Kahle](https://open.spotify.com/track/6NZDB7MU7bNB37VUGWiLTg) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Ngihambise Kahle](https://open.spotify.com/album/1coVHsiPPaoa6FPWZIPEcL) | 5:06 |
 | 100 | [Motho Tshaba Modimo \- Live](https://open.spotify.com/track/19kJNYSJYOsOXc8c0BQXRf) | [TSHEPO LEBEPE](https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG) | [Motho Tshaba Modimo \(Live\)](https://open.spotify.com/album/6JcDAEnM0AWRw4eO5uJGMN) | 6:13 |
 
-Snapshot ID: `AAAAACXvizryE0Tmqz59SO3heFuCP/4S`
+Snapshot ID: `AAAAAL0fVOKfUYL/+5wCKoI23sWtN0vP`

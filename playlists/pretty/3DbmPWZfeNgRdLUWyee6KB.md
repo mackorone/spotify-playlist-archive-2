@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 99 songs - 5 hr 45 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 106 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,12 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 97 | [Black Duck](https://open.spotify.com/track/1sSGmU5AbwLiedZB6SOvEw) | [Vegas No.8](https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf) | [Black Duck](https://open.spotify.com/album/6QTZAIUYHkbRzqnTTR75tr) | 3:44 |
 | 98 | [wasn't sure why \- demo](https://open.spotify.com/track/0ZniB7IHEuKlNjbVaZjLBg) | [RINNIE](https://open.spotify.com/artist/2d6vYkXPElcFB8XVtt1eI3) | [unforeseen \(live demo EP\)](https://open.spotify.com/album/1sFI8YCtrMhXMTTQqybUjR) | 4:07 |
 | 99 | [Been In Love](https://open.spotify.com/track/1nta8KgqJ6YwCzFa20GVvf) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Americana On A Lagos Blue Rock](https://open.spotify.com/album/008Zi78Bpbq2bZvISxuLqw) | 3:11 |
+| 100 | [Gün Biter, Ben Kalırım](https://open.spotify.com/track/2vChW4N73yZKa0DFcWLasV) | [Smile Dawn](https://open.spotify.com/artist/6AyJiWjRpLlU9bqvkRJaHG) | [Gün Biter, Ben Kalırım](https://open.spotify.com/album/2bPkXV3EfkGm96bbgjnzXI) | 4:48 |
+| 101 | [Something Better](https://open.spotify.com/track/6ddH3uoGw1WDmj98Eny9wO) | [Caleb Kunle](https://open.spotify.com/artist/3ummHhJhcQSykZfeZlw4MY) | [Something Better](https://open.spotify.com/album/1Ce8aTWMNTbxJe72xLINRa) | 3:02 |
+| 102 | [Stormen](https://open.spotify.com/track/5d0SNLokepDJmfwQEsb03B) | [G.M.L.](https://open.spotify.com/artist/4H1Hn4nIuzTyDQY2RuGUYC) | [Stormen](https://open.spotify.com/album/6q3EvDE0xYFLgJfcA0SmGX) | 4:24 |
+| 103 | [בית הספר הישן](https://open.spotify.com/track/3zx881kuz1nYclgdBjJlJh) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH), [Coral Bismuth](https://open.spotify.com/artist/4HHSTY3bNxoprZF3vJ8gLE) | [בית הספר הישן](https://open.spotify.com/album/64oq7l1QPFDoow14YLKmXK) | 3:57 |
+| 104 | [Chiara](https://open.spotify.com/track/0EEuLT1lQyuhZmZi6Z0Jr2) | [Emon Owen](https://open.spotify.com/artist/7FPgKVK4s1GsvuEuHwqhBO) | [Chiara](https://open.spotify.com/album/18wkh7yCnXKVnjgJmv5sVS) | 2:43 |
+| 105 | [Cidade Dormitório](https://open.spotify.com/track/0SqFqFcBLIN1bAltPWiepo) | [Sonho Lúcido](https://open.spotify.com/artist/1Coxq0swNDoPOgi6QAWrZk) | [SubUrbano](https://open.spotify.com/album/5EZDQI4VELo8R6WYK3ZLqv) | 4:13 |
+| 106 | [All The While](https://open.spotify.com/track/5UP9R3Czg7FliHvMs2U1G8) | [RobbaDucky](https://open.spotify.com/artist/5vtsB8HiuKkRFCupJmw90I) | [All The While](https://open.spotify.com/album/0xiZTFZYCkni8WxsR9c3BX) | 3:30 |
 
-Snapshot ID: `AAAYVzvukPinDJn1RIxm0aaWnwUwm9Ll`
+Snapshot ID: `AAAYXghMyfw4ryc2dxUY0JJFE09S67GV`

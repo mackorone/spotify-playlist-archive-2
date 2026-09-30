@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,394 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,383 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 74 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 |
 | 75 | [Tequila & Ibiza](https://open.spotify.com/track/19txbPBxw2UAX5OaFattUc) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [BESH.](https://open.spotify.com/artist/5JRnZxSb8XULQul9lyb2Yy) | [Tequila & Ibiza](https://open.spotify.com/album/5JJocmovUqPUBYPPv5wy8k) | 2:55 |
 
-Snapshot ID: `AAAAANhhkmvrPezy6xB9kf30WeLVQsDm`
+Snapshot ID: `AAAAACIKA9tVQeafbbkOTMUwsbXppco2`

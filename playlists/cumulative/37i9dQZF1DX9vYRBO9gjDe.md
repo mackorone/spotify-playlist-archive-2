@@ -2,7 +2,7 @@
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。9月27日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。9月28日付。
 
 7,910 songs - 19 day 15 hr 30 min
 
@@ -1869,7 +1869,7 @@
 | [Helium](https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Helium](https://open.spotify.com/album/2dMZhbMxAjRSWPjSOUkr1B) | 2:18 | 2025-08-19 | 2025-08-21 |
 | [Hell At Night \(feat\. Ella Langley\)](https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Hell At Night \(feat\. Ella Langley\)](https://open.spotify.com/album/1Nn0cOJPNZqKJlkq4AgY2V) | 2:59 | 2025-08-19 | 2025-08-23 |
 | [Hell At Night \(feat\. Ella Langley\)](https://open.spotify.com/track/3pAVk6Ydn0dcGpG8gDyxSJ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:59 | 2025-08-26 | 2025-08-30 |
-| [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2026-07-14 | 2026-09-28 |
+| [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2026-07-14 |  |
 | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf) | 2:33 | 2024-02-10 | 2024-02-19 |
 | [Hello Mellow](https://open.spotify.com/track/0Bta0rqkUh1ErjpwHIofP6) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHLIST](https://open.spotify.com/album/0AbenVXd5ypXotWe1z0ytw) | 3:02 | 2026-01-19 | 2026-01-29 |
 | [HELLO WORLD](https://open.spotify.com/track/4Fc2uEp6DsKCxWB7day331) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HELLO WORLD](https://open.spotify.com/album/710djdFa2qcgDZvp8UzqLB) | 4:53 | 2024-02-22 | 2024-03-02 |
@@ -5166,7 +5166,7 @@
 | [あぁ、もう。](https://open.spotify.com/track/5HchsPAkAd6oIeTlr2TaaU) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [サニーボトル](https://open.spotify.com/album/6sPrkCZpRlmGIC65Y1mMtO) | 4:44 | 2026-02-23 | 2026-03-03 |
 | [あいうぉん \(feat\. ゆーり, はしメロ\)](https://open.spotify.com/track/7rf2LuOzv2b11zdjskaH2m) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [ゆーり](https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [あいうぉん \(feat\. ゆーり, はしメロ\)](https://open.spotify.com/album/301yhonqL3kuPhgSTQp36k) | 2:01 | 2024-09-27 | 2024-09-30 |
 | [あいつの事](https://open.spotify.com/track/3dDRvS2FoYunh0TksYdxSW) | [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [LAST](https://open.spotify.com/album/1QDrgcnHNmh2GhKugETQCz) | 2:58 | 2024-12-02 | 2024-12-03 |
-| [あいつら全員同窓会](https://open.spotify.com/track/7rzoBRR4LbJZH5t7Q6qeTn) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:14 | 2025-02-21 |  |
+| [あいつら全員同窓会](https://open.spotify.com/track/7rzoBRR4LbJZH5t7Q6qeTn) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:14 | 2025-02-21 | 2026-09-30 |
 | [あいでいて](https://open.spotify.com/track/0XzMfqZiPCBhYwxVsMucAZ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [あいでいて](https://open.spotify.com/album/53YklyrO8bFinY6wDgv8jn) | 3:24 | 2025-11-14 | 2025-11-21 |
 | [あいまいみーまいん](https://open.spotify.com/track/6vxMxfuSw34ylN70IGK54B) | [浪漫派マシュマロ](https://open.spotify.com/artist/0Y2vXzpo1eVUcgIku1UQIn) | [あいまいみーまいん](https://open.spotify.com/album/3kYYem7CalTI1o1r5RnCfF) | 3:36 | 2026-04-17 | 2026-04-24 |
 | [あいるびーばっく feat\. Hiro from MY FIRST STORY](https://open.spotify.com/track/1jcCGgDRrDsma4AXoEcrHW) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD), [Hiro from MY FIRST STORY](https://open.spotify.com/artist/7BYZgMC85TULFyMg1KFNZO) | [あいるびーばっく feat\. Hiro from MY FIRST STORY](https://open.spotify.com/album/7sRTzMavhZki7bNQM3ae3s) | 2:58 | 2023-06-23 | 2023-06-26 |

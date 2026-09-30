@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 
 > chilling beats for haunted vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,174 likes - 99 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,215 likes - 99 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 | 98 | [no escape](https://open.spotify.com/track/0zDQhi2Zmp8fb1UANtDKzp) | [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ), [brrt](https://open.spotify.com/artist/1R7fJ5VCICKss7K0as6jkS) | [Night of the Living Drum Machines: Spooky Halloween Lofi](https://open.spotify.com/album/1GeDaKfOn7AYnxO73YaeTd) | 2:12 |
 | 99 | [Trick or Treats](https://open.spotify.com/track/090ynlUUvHNeUFv1oOGwp3) | [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l), [Chilled Cat](https://open.spotify.com/artist/3itPIBjRCrJmrDgwCRYRHl), [Spooky Cat](https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme) | [Halloween Vibes Vol.1](https://open.spotify.com/album/1r0SImrof5Zpc3RoFwO5vu) | 1:53 |
 
-Snapshot ID: `AAAAABP+UEIwsZHRwVLitPFaflQusKfN`
+Snapshot ID: `AAAAAGPffdaxeqDaDJd7UErCM6GOWd0H`

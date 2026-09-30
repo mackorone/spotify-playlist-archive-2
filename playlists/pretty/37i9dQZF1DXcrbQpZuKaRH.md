@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Calming music with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,347 likes - 105 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,394 likes - 105 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 104 | [Harmonic Waters](https://open.spotify.com/track/61RzOrfTur4MbHfXv1QRxN) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Harmonic Waters](https://open.spotify.com/album/0ZTRxSUMZ98J5tPLunOBob) | 2:22 |
 | 105 | [Still Waters, Quiet Mind](https://open.spotify.com/track/1lUXrJsW48SWLI98Guazol) | [Leo Lindholm](https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h) | [Still Waters, Quiet Mind](https://open.spotify.com/album/2YQf6IxmD1MzKRoXxIQz09) | 3:09 |
 
-Snapshot ID: `AAAAAKFAF2i9VlKD9M6L0QTbaE+xPFP2`
+Snapshot ID: `AAAAAPzo0NyakFurVAr+HfhvZdw+Bn6w`

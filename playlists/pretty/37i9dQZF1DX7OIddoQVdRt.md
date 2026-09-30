@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Jonathan McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,957 likes - 75 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,985 likes - 75 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 74 | [I Will Rejoice \- Live](https://open.spotify.com/track/1Q6yfDa3t9TsdZ3Dv6zFH9) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [The Invitation](https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg) | 4:34 |
 | 75 | [Completely Yours](https://open.spotify.com/track/5BJwPMyYs89Hfh4x2u1SHL) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Still Karen](https://open.spotify.com/album/1D0M1g3rsDjXD7k5STsETm) | 4:07 |
 
-Snapshot ID: `AAAAACObjyJ9Y5pTHGcVBzU/Y1kc2j6E`
+Snapshot ID: `AAAAAFawVRV268I4hbDI/wUewua86IgR`

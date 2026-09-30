@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Samant, Lou Val & Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,481 likes - 99 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,493 likes - 99 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 98 | [Too Deep For The Outro](https://open.spotify.com/track/2Etr2lwZnCK491mU5dHIDD) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP), [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE), [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [The Kaible](https://open.spotify.com/album/3NM31JGVfzlBBbfZYww3Ah) | 3:01 |
 | 99 | [YellowGreenBlue](https://open.spotify.com/track/37Pt6RacSdDNeR7CiEsiFX) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [YellowGreenBlue](https://open.spotify.com/album/7IRJ0Q7GCqoqGaURNKbqlP) | 1:43 |
 
-Snapshot ID: `AAAAAC3xTL9NCOxiDSpxehwL5/KBV7Zu`
+Snapshot ID: `AAAAAEzZfkq5YdVZP2jRE17xxalXMCHV`

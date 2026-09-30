@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1660956,
+  "num_followers": 1661156,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMGs4MpLpodeQci7rM1OzawzQYKW",
+  "snapshot_id": "AAAAAP6EfkusKczFb/3rD0ivSBBR+fIL",
   "tracks": [
     {
       "added_at": "2026-08-04 14:05:45",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
-        "name": "Sem Tempo",
-        "url": "https://open.spotify.com/album/6uglHzHW6I7Byh9WXHH8bc"
-      },
-      "artists": [
-        {
-          "name": "SCARIONIX",
-          "url": "https://open.spotify.com/artist/19lQadj43jplt3tzz36jLb"
-        }
-      ],
-      "duration_ms": 120653,
-      "name": "Sem Tempo - Super Slowed",
-      "url": "https://open.spotify.com/track/780ZnY2NatxOl1olIhXSF9"
-    },
-    {
-      "added_at": "2026-08-04 14:05:45",
-      "album": {
         "name": "School Rooftop (Intro) [Slowed Down Version]",
         "url": "https://open.spotify.com/album/0aqGz4Uth6nswnJifY4Cdv"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 126000,
       "name": "School Rooftop (Intro) [Slowed Down Version]",
       "url": "https://open.spotify.com/track/1ExDyvuvYw8aDaqpPqsVZh"
+    },
+    {
+      "added_at": "2026-08-04 14:05:45",
+      "album": {
+        "name": "Sem Tempo",
+        "url": "https://open.spotify.com/album/6uglHzHW6I7Byh9WXHH8bc"
+      },
+      "artists": [
+        {
+          "name": "SCARIONIX",
+          "url": "https://open.spotify.com/artist/19lQadj43jplt3tzz36jLb"
+        }
+      ],
+      "duration_ms": 120653,
+      "name": "Sem Tempo - Super Slowed",
+      "url": "https://open.spotify.com/track/780ZnY2NatxOl1olIhXSF9"
     },
     {
       "added_at": "2026-08-04 14:05:45",
@@ -663,30 +663,6 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
-        "name": "HEAVENLY JUMPSTYLE",
-        "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
-      },
-      "artists": [
-        {
-          "name": "TWXNY",
-          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
-        },
-        {
-          "name": "Sxilwix",
-          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
-        },
-        {
-          "name": "INNXCENCE",
-          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
-        }
-      ],
-      "duration_ms": 128477,
-      "name": "HEAVENLY JUMPSTYLE - Slowed",
-      "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
-    },
-    {
-      "added_at": "2026-08-04 14:05:45",
-      "album": {
         "name": "Black Out Days [Future Islands Remix (Slowed)]",
         "url": "https://open.spotify.com/album/51DQUyUCSwUuIErPPGUcFj"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 214394,
       "name": "Black Out Days - Future Islands Remix (Slowed)",
       "url": "https://open.spotify.com/track/5tRnzF4v2KL72QQdCjopyt"
+    },
+    {
+      "added_at": "2026-08-04 14:05:45",
+      "album": {
+        "name": "HEAVENLY JUMPSTYLE",
+        "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
+      },
+      "artists": [
+        {
+          "name": "TWXNY",
+          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
+        },
+        {
+          "name": "Sxilwix",
+          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
+        },
+        {
+          "name": "INNXCENCE",
+          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
+        }
+      ],
+      "duration_ms": 128477,
+      "name": "HEAVENLY JUMPSTYLE - Slowed",
+      "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
     },
     {
       "added_at": "2026-08-04 14:05:45",

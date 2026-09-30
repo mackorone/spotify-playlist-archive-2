@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Loatinover Pounds, Internet Girl, Leon Bridges, Anele Zondo,  Will Linley, Blxckie and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,017 likes - 86 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,030 likes - 86 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 9 | [lonely \(feat\. L.A.X\)](https://open.spotify.com/track/6Z8yIcTfNO3cxhGoCZhWXo) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [lonely \(feat\. L.A.X\)](https://open.spotify.com/album/5nSEUjA0znz8eMhS78JfmR) | 2:44 |
 | 10 | [Nayvee's Prayer](https://open.spotify.com/track/5egspxTv2n1RX7etEQqXul) | [DJ Zinhle](https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW), [Nayvee Womculo](https://open.spotify.com/artist/7dkktKLtIZD6f77dYdNYrG), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Nayvee's Prayer](https://open.spotify.com/album/346z7pvdI3XnhRnebDdz1w) | 6:30 |
 | 11 | [Todii \- Live](https://open.spotify.com/track/0VoP5SMEOZouHixFRr1aVe) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR), [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [SHONA MAN](https://open.spotify.com/album/0Tzh38zIRMuPIg48SLSSzZ) | 3:27 |
-| 12 | [Pain](https://open.spotify.com/track/4fUNP6dtEkO408UPSy9a5I) | [Digital Maskandi](https://open.spotify.com/artist/65yZ3NmkReEd509wquNGJr), [Jaiva Zimnike](https://open.spotify.com/artist/7ujkKN7VfUAKYgAvUu84vZ), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Pain](https://open.spotify.com/album/2A71SPMibbBEF8hg5rdsOD) | 3:55 |
+| 12 | [Pain](https://open.spotify.com/track/4fUNP6dtEkO408UPSy9a5I) | [Digital Maskandi](https://open.spotify.com/artist/65yZ3NmkReEd509wquNGJr), [JAIVA ZIMNIKE](https://open.spotify.com/artist/4ZlfxI1JT94psDrMWKiyxl), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Pain](https://open.spotify.com/album/2A71SPMibbBEF8hg5rdsOD) | 3:55 |
 | 13 | [Sine Pride \(feat\. Shenge Wasehlalankosi & MaGumede Wenu\)](https://open.spotify.com/track/7yKMHVKCco0FGJpaW2WmkJ) | [Skhanga](https://open.spotify.com/artist/6lFcggGAwriultjU0Ziyny), [Shenge Wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz), [MaGumede Wenu](https://open.spotify.com/artist/7BAitaCXU3wEbIz7aY6tHQ) | [Zikhonkotha Ehambayo](https://open.spotify.com/album/146an281Z0OSsEJm7P3mKC) | 3:35 |
 | 14 | [I Won’t Cry](https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I Won't Cry](https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo) | 4:20 |
 | 15 | [\#5](https://open.spotify.com/track/4RPgsLbTlrpoLwXqEpkhQD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Stray Dogs](https://open.spotify.com/album/4N31AIbwVZbbfDe48xbGnY) | 4:06 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 25 | [No More Drama](https://open.spotify.com/track/1sElHzNA25QtF5BnFBXPeJ) | [Paska](https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [No More Drama](https://open.spotify.com/album/2CpZuUYK561csz4OHETSyC) | 3:06 |
 | 26 | [Tika](https://open.spotify.com/track/4YWqtagELt3giBdcMQYpC3) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Tika](https://open.spotify.com/album/3ZOZ1sNtwlbLj0fSPDIxhq) | 2:09 |
 | 27 | [CHE](https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [CHE](https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x) | 2:24 |
-| 28 | [Make Believe](https://open.spotify.com/track/5WSesDy09JmCkVyFPb4SeT) | [FKA MASH](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Samuell Miller](https://open.spotify.com/artist/4kirKfHRU1tsj5MiiC9bZU) | [EXITECHNO](https://open.spotify.com/album/4TDcmsuTszNJVeX2AU3Imu) | 7:35 |
+| 28 | [Make Believe](https://open.spotify.com/track/5WSesDy09JmCkVyFPb4SeT) | [FKA MASH](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [EXITECHNO](https://open.spotify.com/album/4TDcmsuTszNJVeX2AU3Imu) | 7:35 |
 | 29 | [WOLF \- ORIGINAL MIX](https://open.spotify.com/track/1oUF81YBm6Li0jCGSJ6qEg) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [WOLF](https://open.spotify.com/album/7jvtXlLIAOWM0u57ZZXrhJ) | 2:53 |
 | 30 | [tropic of capricorn](https://open.spotify.com/track/29dc2WJ4t01L98MJYFGWuZ) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [there are mirrors everywhere](https://open.spotify.com/album/1kESAdt1UaileXb6PFGsEY) | 8:35 |
 | 31 | [Runaway](https://open.spotify.com/track/5kjrYY4SanilwP9tHfZwNj) | [Itha](https://open.spotify.com/artist/6HWsERr2RidXDuGI1viKtD) | [Runaway](https://open.spotify.com/album/35vEK3rs4gzwZcwhzXvviI) | 3:29 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 39 | [SPELLS](https://open.spotify.com/track/5PJWvDgRRdvcZ6IW2qBZf2) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI) | [SPELLS](https://open.spotify.com/album/3GFOj7xhWFk7fjdQmoug9K) | 3:24 |
 | 40 | [Jennifer](https://open.spotify.com/track/4oF46suNctrzdFKGw4CQAv) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Take Away My Problems](https://open.spotify.com/album/1QthikCvDI8Bt7QAODFQ7h) | 2:36 |
 | 41 | [Maybe This Is It](https://open.spotify.com/track/6iqCUlVJ1ia3gPvdLKEZL1) | [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Maybe This Is It](https://open.spotify.com/album/4zPXGytHpY0xQOpIbTAlyX) | 3:58 |
-| 42 | [This Time \(feat\. GloRilla\)](https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [This Time](https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS) | 2:46 |
+| 42 | [This Time \(with GloRilla\)](https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [This Time](https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS) | 2:46 |
 | 43 | [R U OK?](https://open.spotify.com/track/2bE7yw711WwTYNcd6v1Yzt) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [R U OK?](https://open.spotify.com/album/3QuDfvfYx0m0K3A2fmBy2g) | 2:49 |
 | 44 | [Company Party](https://open.spotify.com/track/3lvbnmmKxuSAWihGlNkwaO) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy) | [Amehlo](https://open.spotify.com/album/409ZKM0y2N4oe6coQP7KkZ) | 2:49 |
 | 45 | [OMG!](https://open.spotify.com/track/6bDHd7f12Yrkcr2kMW9DiK) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6), [Scarface Panda](https://open.spotify.com/artist/3jyUAIoIRG8CgEraAM8RWJ), [Oshun Grizzly](https://open.spotify.com/artist/3i6xQ8FElsPXsYLUsdEadD) | [OMG!](https://open.spotify.com/album/1mtuqgGvEAclEdNrTFGYDx) | 3:09 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 85 | [Better Off Alone](https://open.spotify.com/track/6rUGMQpgFDO68dVj869ap3) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7), [Pedro Barbosa](https://open.spotify.com/artist/6JA0XPYGEIl11ozTTU0CAN) | [Better Off Alone](https://open.spotify.com/album/6UbcZQ1Rbifwr8W35MQPuT) | 3:05 |
 | 86 | [Persephone](https://open.spotify.com/track/1SgBb5Bd1E5YczrIlu5gcp) | [Tandy](https://open.spotify.com/artist/0ZevrNNIHi1mzl60LwuR4d) | [Persephone](https://open.spotify.com/album/2597LRYftxk0C5SyJocIYv) | 2:44 |
 
-Snapshot ID: `AAAAAB/ZHXTJiAfr0LK9N8grba8O+fR4`
+Snapshot ID: `AAAAADUW8lGRHRRr0E8TF2kGq4gdUhPY`

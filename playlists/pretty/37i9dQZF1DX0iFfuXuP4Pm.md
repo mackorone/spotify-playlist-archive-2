@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Jin DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,031,455 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,031,422 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 49 | [Bampira](https://open.spotify.com/track/3Ah10IzaPO4Sz4afpKqXe5) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [kung tayo’y nasa isang horror na pelikula, tiyak ako ang una mong papatayin](https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu) | 4:43 |
 | 50 | [Bawat Segundo](https://open.spotify.com/track/4vOjN6LKp4jCpoqVoOkZnp) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Bawat Segundo](https://open.spotify.com/album/3bB1fPxzbomi5nbqDcEn7M) | 4:11 |
 
-Snapshot ID: `AAAAAC45Dmt61I3TKuUv4mTdXLAcTZCP`
+Snapshot ID: `AAAAALNjnZd0GClfquftqS2kAWilFUcG`

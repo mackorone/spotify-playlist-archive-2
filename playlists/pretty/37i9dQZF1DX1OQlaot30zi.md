@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Sfera Ebbasta, Flaco G e Guè, Ddusi con Artie 5ive e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,179 likes - 102 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,185 likes - 102 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 101 | [himalaya](https://open.spotify.com/track/1jq6Cg7i4AN8CRlDoHzuHg) | [55miki](https://open.spotify.com/artist/0V3d3uLu6WLBtZqeBNS0YU), [annoiwto](https://open.spotify.com/artist/6HqKGkg2smjpzAYY1iAbbX) | [a Bad Book](https://open.spotify.com/album/0XbmhKq0iZoACG90LTBaN9) | 1:59 |
 | 102 | [Gocce d'acqua](https://open.spotify.com/track/4KGCp3jM9a9LBuRd23G8E0) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Gocce d'acqua](https://open.spotify.com/album/7tZ9IMJYifLEic7UXUa4th) | 3:57 |
 
-Snapshot ID: `AAAAALd9ztrUxFipa6O72iVT6UgjSFcx`
+Snapshot ID: `AAAAAF7DK4NblOReQ5l1p3wS8rQiqIDc`

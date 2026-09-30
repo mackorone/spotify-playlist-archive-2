@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,448 likes - 69 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,645 likes - 69 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 13 | [La fille aux cheveux de lin, CD 125 No\. 8 \(Arr\. Bream for Guitar\)](https://open.spotify.com/track/755LBrOUYByH6oddwM9wFN) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Debussy: La fille aux cheveux de lin \(Arr\. Bream for Guitar\)](https://open.spotify.com/album/4uM9IckSlVbp1VypbqbUD7) | 3:06 |
 | 14 | [J.S\. Bach: Sleepers, Awake, BWV 645 \(Transcr\. for Guitar\)](https://open.spotify.com/track/3PTPfwwyUMhVI2t8sWDXAi) | [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 3:05 |
 | 15 | [Romance \(Arr\. J\. Williams for Guitar & Orchestra\)](https://open.spotify.com/track/6kPqRhYyJuK2jmKGUIjYCZ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [John C\. Williams](https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY), [William Goodchild](https://open.spotify.com/artist/6rdlJExUAyM362j8SH6WG8), [String Orchestra](https://open.spotify.com/artist/2ur2pK3VjH3wAl4tO1eBGG) | [The Ultimate Guitar Collection](https://open.spotify.com/album/7gGDntw1EndFOxhpTWmmQZ) | 3:17 |
-| 16 | [Fracture \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/3brPjGopZsgIJw5KkeeM3v) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Fracture \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/54lLgfTvAB9piO2AkpHJP2) | 3:58 |
+| 16 | [Fracture \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/3brPjGopZsgIJw5KkeeM3v) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Fracture \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/54lLgfTvAB9piO2AkpHJP2) | 3:58 |
 | 17 | [Lyric Pieces, Book 1, Op\. 12: No\. 1, Arietta \(Arr\. Lewin for Guitar\)](https://open.spotify.com/track/60t4pNF1TiAZ7uOBcVsL2w) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Grieg: Lyric Pieces, Book 1, Op\. 12: No\. 1, Arietta \(Arr\. Lewin for Guitar\)](https://open.spotify.com/album/058uS2CCQuyq1hepia3i2x) | 1:36 |
 | 18 | [Fantasy for Guitar Op\. 107: III\. Arietta 1](https://open.spotify.com/track/5EEYKvwrOhDDKTR2yeaxD7) | [Malcolm Arnold](https://open.spotify.com/artist/5kM4H3hu2dxxk9erCAZA2e), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Dreams and Fancies: English Music for Solo Guitar](https://open.spotify.com/album/7C98BOibMcnelCnpzHm4CH) | 2:03 |
 | 19 | [Ponce: 2 Canciones mexicanas: No\. 2, Estrellita](https://open.spotify.com/track/1RpfRhBZohSyNWoVaJKC8M) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Manuel Barrueco](https://open.spotify.com/artist/2Ji7pIcY1oJeS2tevigVaE) | [Cantos y Danzas](https://open.spotify.com/album/1kvzY07bTwNc2lSSdSYGTF) | 2:46 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 68 | [Ronsard \(De Platero y Yo\)](https://open.spotify.com/track/76UK5gKqUosKutmEnBtWeY) | [Mario Castelnuovo\-Tedesco](https://open.spotify.com/artist/28c3Va3dnSLY1av3ym8XT2), [Andrés Segovia](https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97) | [Reveries](https://open.spotify.com/album/49x5ATRMfvUVQDyEL9IyQM) | 3:10 |
 | 69 | [Exercise, Op\. 35: Study No\. 17 in D Major](https://open.spotify.com/track/36RCsOzDM2cPkSL6Gotr16) | [Fernando Sor](https://open.spotify.com/artist/4KAvqco7JE80QdRlEjvyrd), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Sor: Fantasias Nos\. 7, 10, 13 / 24 Studies \(Excerpts\)](https://open.spotify.com/album/7JGXxvuPVAqgRJDQUyKd0R) | 1:44 |
 
-Snapshot ID: `AAAAAO9M9atC3C0nkWj2F91dwtjSnXZE`
+Snapshot ID: `AAAAANLfqUqHl8CWkFrcO1AhQ/EYiM2s`

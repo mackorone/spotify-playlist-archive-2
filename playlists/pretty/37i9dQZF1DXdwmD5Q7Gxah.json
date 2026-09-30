@@ -1,12 +1,12 @@
 {
-  "description": "thoom Thoom THOOM <a href=\"https://loremandfriends.substack.com/p/millennial-optimism-we-missed-you\">(p.s. read our substack!)</a>   ",
-  "num_followers": 1184854,
+  "description": "things are getting a lil wacky. cover: Thoom <a href=\"https://loremandfriends.substack.com/p/millennial-optimism-we-missed-you\">(p.s. read our substack!)</a>   ",
+  "num_followers": 1184813,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPaxiH6DVyHMdUXUNrr1+FI8+5Mp",
+  "snapshot_id": "AAAAAJ0pMcu0ViK5Hv9q/SemJQ1Mhtcv",
   "tracks": [
     {
       "added_at": "2026-09-23 01:03:30",
@@ -155,6 +155,26 @@
       "duration_ms": 167823,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/7aF0puGulyEEJkOQZNKNyu"
+    },
+    {
+      "added_at": "2026-09-29 22:46:15",
+      "album": {
+        "name": "THIS IS SPA TOWN!",
+        "url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf"
+      },
+      "artists": [
+        {
+          "name": "300SkullsAndCounting",
+          "url": "https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63"
+        },
+        {
+          "name": "Jenny Sparks",
+          "url": "https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf"
+        }
+      ],
+      "duration_ms": 193522,
+      "name": "The Ballad of St Nick's Park",
+      "url": "https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX"
     },
     {
       "added_at": "2026-09-16 18:08:10",

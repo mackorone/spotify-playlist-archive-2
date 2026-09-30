@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Taylor Swift, BICEP, Madonna & Charli xcx and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,170 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,137 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 19 | [If I Had The Hand Of God](https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [If I Had The Hand Of God](https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b) | 2:41 |
 | 20 | [If You Want Me](https://open.spotify.com/track/2kGdtsoikfnm2ElE7S1wk1) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [If You Want Me](https://open.spotify.com/album/1PYBSKS97wpvT0rhx6DX9g) | 3:00 |
 | 21 | [I Don't Have Any Problems](https://open.spotify.com/track/28lnAZtEMdyBW3IWYsqko5) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [I Don't Have Any Problems](https://open.spotify.com/album/0U4GusNemic0pIDqPiFmuj) | 2:03 |
-| 22 | [Deeper](https://open.spotify.com/track/784sVvyBnMvsrwHQy1QLQX) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Deeper](https://open.spotify.com/album/5QKyBdjtO4tMLNuB80ZWgN) | 3:35 |
+| 22 | [Deeper](https://open.spotify.com/track/784sVvyBnMvsrwHQy1QLQX) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Deeper](https://open.spotify.com/album/5QKyBdjtO4tMLNuB80ZWgN) | 3:32 |
 | 23 | [Be Happy](https://open.spotify.com/track/2vQ2jaoKYz6651c4qwjy69) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Put A Smile On For Me](https://open.spotify.com/album/3lNBELeJGdsWUJYYtv6aLB) | 3:12 |
 | 24 | [Wrestlemania](https://open.spotify.com/track/1CJcXEEggADxTHcdG6JrWq) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Surf's Up](https://open.spotify.com/album/7xOXvAr4rtexCJs1EdSMOF) | 3:33 |
 | 25 | [Waiting For Fisher](https://open.spotify.com/track/1i6RUTWpIoXKTdhcU1upVf) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nobody's Coming To Save You](https://open.spotify.com/album/0Fbl6tfN7XDyNutXNI3nlD) | 3:00 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 98 | [Bury The Hatchet](https://open.spotify.com/track/1QPSkN0RXN9MnjudE6VHgr) | [Will Parker](https://open.spotify.com/artist/6PorgpBDSP5w9zPpgjHlGR) | [Bury The Hatchet](https://open.spotify.com/album/2ZdR5F98P5zDVTgpt4ksci) | 3:12 |
 | 99 | [On The Line](https://open.spotify.com/track/4C95sDUWg5I2CvhhYcFYUK) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [On The Line](https://open.spotify.com/album/6JfXQdQzftaLN2Ibuz7g2F) | 2:45 |
 
-Snapshot ID: `AAAAADGN9vQ/Nv5o4/UDUdCv+9TgnYZz`
+Snapshot ID: `AAAAAGE5j6z7fDoAELIQfpEkG6oLKK3P`

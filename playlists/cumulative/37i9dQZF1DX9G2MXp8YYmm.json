@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Emre Altu\u011f",
+  "description": "Pop'un sevilen isimleri. Kapak: Murat Dalk\u0131l\u0131\u00e7",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -372,6 +372,24 @@
       "duration_ms": 131854,
       "name": "Ah Yar",
       "url": "https://open.spotify.com/track/2bO2ECvjWpbCy64fOpIDTc"
+    },
+    {
+      "album": {
+        "name": "Ah Yar",
+        "url": "https://open.spotify.com/album/0sNLs8azatphe2eJf4wAC1"
+      },
+      "artists": [
+        {
+          "name": "Ebru G\u00fcnde\u015f",
+          "url": "https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Ah Yar",
+      "url": "https://open.spotify.com/track/7dx6FQrdYoYqr68mMoDHQe"
     },
     {
       "album": {
@@ -3152,7 +3170,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 214833,
       "name": "bu d\u00fcnya y\u0131k\u0131lsa \u00fcz\u00fclmem",
       "url": "https://open.spotify.com/track/22oFULHjHaJlw3miDQq4bj"
@@ -3492,7 +3510,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 182666,
       "name": "Canavarlar",
       "url": "https://open.spotify.com/track/0HzGVnvya5XFgceBPptZiy"
@@ -4270,7 +4288,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 263637,
       "name": "Duysunlar",
       "url": "https://open.spotify.com/track/1ilWmey0DUru1SPH6tNjU9"
@@ -5367,6 +5385,24 @@
     },
     {
       "album": {
+        "name": "Git O Y\u00fczden",
+        "url": "https://open.spotify.com/album/67hu8YF6ntye4WXWC6rQ1V"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129652,
+      "name": "Git O Y\u00fczden",
+      "url": "https://open.spotify.com/track/4NyETcruJ0lHrP4XGifkXK"
+    },
+    {
+      "album": {
         "name": "ATLAS",
         "url": "https://open.spotify.com/album/37RKttRaxVEJwpVfUeA1C8"
       },
@@ -6054,7 +6090,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 211344,
       "name": "Hayatim",
       "url": "https://open.spotify.com/track/3Gcf0zsPEPMi5q5Kz2iNZZ"
@@ -6392,7 +6428,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 172842,
       "name": "H\u0130KAYE SARAR BA\u015eA",
       "url": "https://open.spotify.com/track/3fb8wp1tBGBNLOAr1QJELf"
@@ -8403,6 +8439,24 @@
     },
     {
       "album": {
+        "name": "Mahalleler",
+        "url": "https://open.spotify.com/album/6N1O1TTR94Fhm3pWeoqQqu"
+      },
+      "artists": [
+        {
+          "name": "Murat Dalk\u0131l\u0131\u00e7",
+          "url": "https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152678,
+      "name": "Mahalleler",
+      "url": "https://open.spotify.com/track/62sdF5BIMtzpc3DU4CgfU1"
+    },
+    {
+      "album": {
         "name": "Mavi Boncuk",
         "url": "https://open.spotify.com/album/4Hs7lpH4O30GL6im3efQmL"
       },
@@ -8808,6 +8862,24 @@
       "duration_ms": 220000,
       "name": "N'olur Anla",
       "url": "https://open.spotify.com/track/6qqJLxM3RLQvdINY39LFlr"
+    },
+    {
+      "album": {
+        "name": "Turist Mixtape",
+        "url": "https://open.spotify.com/album/7zDblsCPzMcuhVRhTfOJ0m"
+      },
+      "artists": [
+        {
+          "name": "La\u00e7in",
+          "url": "https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139838,
+      "name": "N.R.E",
+      "url": "https://open.spotify.com/track/5Z8bqSffc1WcUgvOSA6Zo4"
     },
     {
       "album": {
@@ -10688,7 +10760,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 173700,
       "name": "Sesini Duymadan",
       "url": "https://open.spotify.com/track/7rdh1nIXma6TGcAjUg73EP"
@@ -11642,6 +11714,28 @@
       "duration_ms": 297822,
       "name": "Tuz",
       "url": "https://open.spotify.com/track/56XsrlnUH5aA3TKK0cTkq3"
+    },
+    {
+      "album": {
+        "name": "Tuzak",
+        "url": "https://open.spotify.com/album/4vc9uCFGM6iBdM3G5p1cHr"
+      },
+      "artists": [
+        {
+          "name": "Maya Perest",
+          "url": "https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj"
+        },
+        {
+          "name": "Birkan Nasuho\u011flu",
+          "url": "https://open.spotify.com/artist/7BCcSXMFEzcharu4oXag9d"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221241,
+      "name": "Tuzak",
+      "url": "https://open.spotify.com/track/3dpP0jRhAedrE8k7idQTPX"
     },
     {
       "album": {
@@ -13072,6 +13166,24 @@
       "duration_ms": 176648,
       "name": "Yeti\u015f",
       "url": "https://open.spotify.com/track/3dP2WTWSBcfNP0nD6x04vD"
+    },
+    {
+      "album": {
+        "name": "Yine Bana Var",
+        "url": "https://open.spotify.com/album/4DJqHSN1oTIvT0O7Hdh1Yt"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275983,
+      "name": "Yine Bana Var",
+      "url": "https://open.spotify.com/track/1CSL0jVylxTqtLtcCiVjw7"
     },
     {
       "album": {

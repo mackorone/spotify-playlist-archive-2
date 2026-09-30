@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: KUKO
 
-6,937 songs - 13 day 22 hr 1 min
+6,938 songs - 13 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,6 +662,7 @@
 | [Better](https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Better](https://open.spotify.com/album/06YNty6N97umwjZFABQnvn) | 3:50 | 2026-04-23 | 2026-05-01 |
 | [Better](https://open.spotify.com/track/43AA8tDCsvf2HrOYUevX7s) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Better](https://open.spotify.com/album/5meNZihmOXm1txLLxJOwlc) | 2:16 | 2025-11-06 | 2025-11-14 |
 | [Better](https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Manta](https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ) | [Better](https://open.spotify.com/album/5yHLIte1CKJLMMjOrexXqX) | 3:58 | 2025-09-12 | 2025-09-26 |
+| [Better](https://open.spotify.com/track/1j5yP0AgK5P0vNom2E5cr9) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Blair](https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O) | [Better](https://open.spotify.com/album/6gQLCgnBlWOS4QUYU9DG3D) | 2:19 | 2026-09-29 |  |
 | [Better Alone](https://open.spotify.com/track/17F7eORu7qEksKiUCuvcIP) | [LUDVIC](https://open.spotify.com/artist/3M9AjYpwhRL3wjlg0GZkVO), [Ariel Hill](https://open.spotify.com/artist/2Hmyc8drOe1UJpzH7XOf51) | [Better Alone](https://open.spotify.com/album/4qmNAL3h02jpOGLJnzqGya) | 2:13 | 2025-05-08 | 2025-05-16 |
 | [Better Day](https://open.spotify.com/track/0oWfz9yHdFOjPjtjyTH8LC) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Melody Tourist](https://open.spotify.com/artist/0PwTQjk7sZlUwVFfTJ4jLt) | [Better Day](https://open.spotify.com/album/68uYN4LN2CEDWk06D8Zt9V) | 3:05 | 2023-12-14 | 2024-01-05 |
 | [Better Days](https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Better Days](https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh) | 3:00 | 2025-08-07 | 2025-08-16 |

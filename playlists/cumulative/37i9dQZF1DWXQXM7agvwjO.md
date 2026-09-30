@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: 溫蒂漫步 Wendy Wander \(Taiwan\)
 
-2,856 songs - 7 day 6 hr 31 min
+2,857 songs - 7 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,7 +824,7 @@
 | [Ghost In The House](https://open.spotify.com/track/2AejUgQ8uvqqVKPXcxXme8) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Ghost In The House](https://open.spotify.com/album/4Pw9PJzZryZf7SEZfddeV4) | 2:35 | 2026-05-28 | 2026-07-31 |
 | [ghosts](https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [ghosts](https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8) | 3:40 | 2023-08-10 | 2023-10-10 |
 | [Gimme](https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Gimme](https://open.spotify.com/album/6IaDp8PawQuKoiZpcun410) | 3:31 | 2022-04-28 | 2022-06-10 |
-| [Gimme A Rest](https://open.spotify.com/track/2jiPL8Mw9m3n3jAdkCB00Q) | [Jūji](https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn) | [Gimme A Rest](https://open.spotify.com/album/26WoCHgsfmOvIYKbUqJkGm) | 3:18 | 2026-07-16 |  |
+| [Gimme A Rest](https://open.spotify.com/track/2jiPL8Mw9m3n3jAdkCB00Q) | [Jūji](https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn) | [Gimme A Rest](https://open.spotify.com/album/26WoCHgsfmOvIYKbUqJkGm) | 3:18 | 2026-07-16 | 2026-09-30 |
 | [Ginger Island](https://open.spotify.com/track/5kSj7Gr9owgeek9xkKQi5p) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Ginger Island](https://open.spotify.com/album/4SXzQlJD2obTwWQkRxXY72) | 4:25 | 2024-11-21 | 2024-12-06 |
 | [Girl, let's dance](https://open.spotify.com/track/5nywwZ634HioYXawXsujaZ) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Girl, let's dance](https://open.spotify.com/album/0gGzZsU0Uv5MRw4kOtYJ5M) | 3:22 | 2024-03-07 | 2024-03-29 |
 | [Girlfriend](https://open.spotify.com/track/7sH5xxbSQgRESY44Eypt6Z) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [Girlfriend](https://open.spotify.com/album/6JQglPZLEE6KxA15gMjbgJ) | 2:55 | 2025-02-13 | 2025-02-28 |
@@ -2817,6 +2817,7 @@
 | [羽毛 Feather feat\. Mei Semones, 魯綱宇 \- Remix](https://open.spotify.com/track/2mbVGnMU1SQFitPcCTOTJU) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR), [魯綱宇](https://open.spotify.com/artist/7uhzbG4VN5q17jLLqwe9UT) | [《大象體操：比夢境更真實》 紀錄片原聲帶](https://open.spotify.com/album/1mMhbLjuTZpCdQMnYMnfMK) | 3:33 | 2026-02-05 | 2026-04-17 |
 | [羽球少年](https://open.spotify.com/track/7rAMxhio3gkeUzn5HoUMmo) | [イルカポリス 海豚刑警](https://open.spotify.com/artist/5F14oggNO5Nvl08UsULzaT) | [羽球大報社《Bad News Punched!》](https://open.spotify.com/album/1FoxPReflUbnRmEDByYlvj) | 5:05 | 2022-09-15 | 2022-11-11 |
 | [聖なるバナナが住んでる家](https://open.spotify.com/track/4noUqSHFjbFhu30xWFCADc) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [聖なるバナナが住んでる家](https://open.spotify.com/album/6Q0OPzW5ySRzAPFwLsnaWB) | 3:20 | 2025-10-09 | 2025-11-08 |
+| [聰明](https://open.spotify.com/track/02fAnBiiFKhBjpPVswbdQv) | [莉莉周她說 Lily Chou\-Chou Lied](https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK) | [聰明](https://open.spotify.com/album/521QBZCuYA2qXLdtutrS6l) | 4:21 | 2026-09-29 |  |
 | [自說自話](https://open.spotify.com/track/7iufo31RxYOcahPUWTkyMT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 3:51 | 2022-07-07 | 2022-08-12 |
 | [臭](https://open.spotify.com/track/4DSKeDVF00j7IZMoFy1f5w) | [ORANGE VS CURIOUS](https://open.spotify.com/artist/30uTGGyCxcKCg3X8Wy5dIO), [Mike Orange](https://open.spotify.com/artist/16CT77nyCx37z4iQkTx0vs), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [臭](https://open.spotify.com/album/7ws7KFDkqKfHCA3Mvl8ZxU) | 3:56 | 2025-04-28 | 2025-05-16 |
 | [花吹雪](https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [花吹雪](https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y) | 3:55 | 2024-11-08 | 2024-11-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: Wasia Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,738 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,737 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 79 | [Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Love Is A State](https://open.spotify.com/album/5Zg0eoLb7vBv7EgqfTzxRZ) | 3:52 |
 | 80 | [buzzin](https://open.spotify.com/track/54GiqXZaERtafqRyrqRRfH) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [buzzin](https://open.spotify.com/album/1q5KduupT5hI0EKYA9rtyi) | 2:41 |
 
-Snapshot ID: `AAAAAMwr4uKT88DmF6Ll8P5fCBgRGxyo`
+Snapshot ID: `AAAAAL15ak2KFbgstZGwXRApel+I2QDN`

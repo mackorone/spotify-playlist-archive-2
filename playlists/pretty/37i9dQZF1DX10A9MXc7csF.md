@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Danny Felix 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,766 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,791 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 49 | [Me Refiero A Ti](https://open.spotify.com/track/7mJpjSIRck4aimoHmWbg5e) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Me Refiero A Ti](https://open.spotify.com/album/6LJI40e3KDN3ZmTZp9qYoS) | 3:17 |
 | 50 | [Fama](https://open.spotify.com/track/72RhZ13FHeIfsd4y4jZ3wn) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Fama](https://open.spotify.com/album/1eU2XYHcIKSKtEvlvpMtXW) | 2:22 |
 
-Snapshot ID: `AAAAADU9r77GU+lyQDt0VCVCcd+QdigQ`
+Snapshot ID: `AAAAAPyXD84kxnOd48fxmppbKmzTRnQo`

@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Anakin Larios & Diferente Nivel en portada.",
-  "num_followers": 531977,
+  "num_followers": 532008,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANhWFpugMuQRySRsg7j6lwYJGVJv",
+  "snapshot_id": "AAAAAPoZhgEkTBv21DjFNaJ7jTb3hJdl",
   "tracks": [
     {
       "added_at": "2026-09-25 04:03:16",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "Las Filtradas",
-        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
-      },
-      "artists": [
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 147799,
-      "name": "El Rubio",
-      "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
         "name": "De Todas Y De Nadie",
         "url": "https://open.spotify.com/album/3ASDDNxxZalJZiGLYPdc4n"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 183996,
       "name": "De Todas Y De Nadie",
       "url": "https://open.spotify.com/track/2AN5kdD4iULNxtb17QniI7"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
+        "name": "Las Filtradas",
+        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 147799,
+      "name": "El Rubio",
+      "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "Pata De Perro",
-        "url": "https://open.spotify.com/album/6NymS09wSk1y3Nd3v1Boq3"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 133636,
-      "name": "Pata De Perro",
-      "url": "https://open.spotify.com/track/7JHjg4NnMbDU8CKPyoyuqb"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
         "name": "La Pen\u00ednsula",
         "url": "https://open.spotify.com/album/5CkfhaeczdgCQ7qRUya2Ld"
       },
@@ -699,22 +683,6 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "Pluma Fina",
-        "url": "https://open.spotify.com/album/5SJ6wwR1WRckUPNcIoNsie"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 172705,
-      "name": "Pluma Fina",
-      "url": "https://open.spotify.com/track/1PVN87HfRm8brKAvZgrXx0"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
         "name": "Para Ya Saben Quien",
         "url": "https://open.spotify.com/album/0BLNc8tUgZJgZqw5GDrYBv"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 201774,
       "name": "Para Ya Saben Quien",
       "url": "https://open.spotify.com/track/6qbN6LWApfySSYuOx6Emr0"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
+        "name": "Pata De Perro",
+        "url": "https://open.spotify.com/album/6NymS09wSk1y3Nd3v1Boq3"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 133636,
+      "name": "Pata De Perro",
+      "url": "https://open.spotify.com/track/7JHjg4NnMbDU8CKPyoyuqb"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
+        "name": "Pluma Fina",
+        "url": "https://open.spotify.com/album/5SJ6wwR1WRckUPNcIoNsie"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 172705,
+      "name": "Pluma Fina",
+      "url": "https://open.spotify.com/track/1PVN87HfRm8brKAvZgrXx0"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
+        "name": "Millonario",
+        "url": "https://open.spotify.com/album/3Btrhs9UByKyHuutB0mssF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 185781,
+      "name": "Millonario",
+      "url": "https://open.spotify.com/track/0qZcNjtKS4bAJ7NllfVN4n"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
         "name": "RED FLAG",
         "url": "https://open.spotify.com/album/2Xrqwoo0r2aVvGcR3omQK9"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 186968,
       "name": "RED FLAG",
       "url": "https://open.spotify.com/track/2QxPWfq2OEzzqpmGxzPCdV"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
-        "name": "Anomalia",
-        "url": "https://open.spotify.com/album/2Z3xDmWwTIuaTIGTT9CEI4"
-      },
-      "artists": [
-        {
-          "name": "Equipo HC",
-          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Anomalia",
-      "url": "https://open.spotify.com/track/0zDuC2iFojk5rSmg7KkH0Z"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -887,34 +887,18 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "Millonario",
-        "url": "https://open.spotify.com/album/3Btrhs9UByKyHuutB0mssF"
+        "name": "Anomalia",
+        "url": "https://open.spotify.com/album/2Z3xDmWwTIuaTIGTT9CEI4"
       },
       "artists": [
         {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
         }
       ],
-      "duration_ms": 185781,
-      "name": "Millonario",
-      "url": "https://open.spotify.com/track/0qZcNjtKS4bAJ7NllfVN4n"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
-        "name": "Cuando No Estoy",
-        "url": "https://open.spotify.com/album/1LFdrxDKu84elIyzZR6TXg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Cuando No Estoy",
-      "url": "https://open.spotify.com/track/4uSbOaDtyIZIj0CUmmjbDk"
+      "duration_ms": 185600,
+      "name": "Anomalia",
+      "url": "https://open.spotify.com/track/0zDuC2iFojk5rSmg7KkH0Z"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -939,6 +923,22 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
+        "name": "Cuando No Estoy",
+        "url": "https://open.spotify.com/album/1LFdrxDKu84elIyzZR6TXg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Cuando No Estoy",
+      "url": "https://open.spotify.com/track/4uSbOaDtyIZIj0CUmmjbDk"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
         "name": "A Tiempo",
         "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 202860,
       "name": "Explicaci\u00f3n real",
       "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
-        "name": "Faltaba Fe",
-        "url": "https://open.spotify.com/album/7iaRcI3nN3VWZVtcn700h5"
-      },
-      "artists": [
-        {
-          "name": "Equipo HC",
-          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "Faltaba Fe",
-      "url": "https://open.spotify.com/track/2otuxWCtbaoZns3f00itTQ"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -991,6 +975,22 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
+        "name": "Faltaba Fe",
+        "url": "https://open.spotify.com/album/7iaRcI3nN3VWZVtcn700h5"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Faltaba Fe",
+      "url": "https://open.spotify.com/track/2otuxWCtbaoZns3f00itTQ"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
         "name": "De Peri\u00f3dico Un Gallito (En Vivo)",
         "url": "https://open.spotify.com/album/5K5GgkBth8AKzx02bHSqEE"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "Se Pudo",
-        "url": "https://open.spotify.com/album/4ntQtGDf75vbRRr4zcZO1t"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        }
-      ],
-      "duration_ms": 170323,
-      "name": "Se Pudo",
-      "url": "https://open.spotify.com/track/32nsaXNbVf46f4q9A3RjK1"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
         "name": "El Proximo Viernes",
         "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 198073,
       "name": "El Proximo Viernes",
       "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
+        "name": "Se Pudo",
+        "url": "https://open.spotify.com/album/4ntQtGDf75vbRRr4zcZO1t"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        }
+      ],
+      "duration_ms": 170323,
+      "name": "Se Pudo",
+      "url": "https://open.spotify.com/track/32nsaXNbVf46f4q9A3RjK1"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
+        "name": "FLOW ROCKSTAR",
+        "url": "https://open.spotify.com/album/5yhV4kzTrPhJV4qV2UbOzr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Privado",
+          "url": "https://open.spotify.com/artist/4KlSPzyPWa9JKOBsaOMKaA"
+        }
+      ],
+      "duration_ms": 176610,
+      "name": "FLOW ROCKSTAR",
+      "url": "https://open.spotify.com/track/03iYAVW5ACzBlLp7TcuIdi"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
         "name": "Entre Besos",
         "url": "https://open.spotify.com/album/3HdKGjDeY3MQZLairAgdPV"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 199541,
       "name": "El Plan Perfecto",
       "url": "https://open.spotify.com/track/4FpDTTWtPoLy7OpoWE128H"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
-        "name": "FLOW ROCKSTAR",
-        "url": "https://open.spotify.com/album/5yhV4kzTrPhJV4qV2UbOzr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Privado",
-          "url": "https://open.spotify.com/artist/4KlSPzyPWa9JKOBsaOMKaA"
-        }
-      ],
-      "duration_ms": 176610,
-      "name": "FLOW ROCKSTAR",
-      "url": "https://open.spotify.com/track/03iYAVW5ACzBlLp7TcuIdi"
     },
     {
       "added_at": "2026-09-25 04:03:16",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-09-25 04:03:16",
       "album": {
-        "name": "Cu\u00eddame",
-        "url": "https://open.spotify.com/album/3hMYOqmzYqRCqZZIbBmI75"
-      },
-      "artists": [
-        {
-          "name": "La Edici\u00f3n de Culiac\u00e1n",
-          "url": "https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Cu\u00eddame",
-      "url": "https://open.spotify.com/track/1l21C7jVUnOX4SlZ9xGoeV"
-    },
-    {
-      "added_at": "2026-09-25 04:03:16",
-      "album": {
         "name": "Con Aktitud Corazon Y Huevos",
         "url": "https://open.spotify.com/album/13mRHd5JtLn6Apw9sT1MCL"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 195088,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/69VqFk2qKYiKneTt1dJQp4"
+    },
+    {
+      "added_at": "2026-09-25 04:03:16",
+      "album": {
+        "name": "Cu\u00eddame",
+        "url": "https://open.spotify.com/album/3hMYOqmzYqRCqZZIbBmI75"
+      },
+      "artists": [
+        {
+          "name": "La Edici\u00f3n de Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Cu\u00eddame",
+      "url": "https://open.spotify.com/track/1l21C7jVUnOX4SlZ9xGoeV"
     },
     {
       "added_at": "2026-09-25 04:03:16",

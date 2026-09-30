@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Bullet For My Valentine are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,657,087 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,657,262 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 99 | [The Kids Will Kill Us](https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [The Kids Will Kill Us](https://open.spotify.com/album/370Z1fMk9bl9mw55DSe51k) | 3:45 |
 | 100 | [Pangs of Conscience](https://open.spotify.com/track/5pD2JxlCEtcNV9cKJijmwr) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Pangs of Conscience](https://open.spotify.com/album/4XrsSsrkMkkYLzbvvnxxrr) | 4:47 |
 
-Snapshot ID: `AAAAANhJArvY992JWEcjl7qLA5leZgxl`
+Snapshot ID: `AAAAAPOBUVGFJStLBJiI3sa+cDaB4R1x`

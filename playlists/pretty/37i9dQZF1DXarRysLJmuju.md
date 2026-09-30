@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,479 likes - 98 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,461 likes - 98 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 97 | [Getting out of Dodge](https://open.spotify.com/track/79FIcyFXVVLpx1PqwJExOy) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Exit Wounds](https://open.spotify.com/album/3i9zyTUsS6hVPeKDgVnCAA) | 3:25 |
 | 98 | [Don’t Wanna Know](https://open.spotify.com/track/1sUqkrwC2nvgZdGH4a10Me) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Don't Wanna Know](https://open.spotify.com/album/1UQh5Ekked1k1QQWGtmXQt) | 2:23 |
 
-Snapshot ID: `AAAAAKlTgS4SwbNP4FH3koetTGt7cl/0`
+Snapshot ID: `AAAAAFJj45fdE0+VPOfxL9f+x8tNe3Np`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Brindavihari
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,358 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,538 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shivanna Anthem \(From "Bail"\)](https://open.spotify.com/track/2WEGZF77EAl5UaifButQXh) | [B.Ajaneesh Loknath](https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Trilok Trivikrama](https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw) | [Shivanna Anthem \(From "Bail"\)](https://open.spotify.com/album/0Sv00veNPFe96uquhu3bHc) | 3:01 |
+| 1 | [Shivanna Anthem \(From "Bail"\)](https://open.spotify.com/track/2WEGZF77EAl5UaifButQXh) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Trilok Trivikrama](https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw) | [Shivanna Anthem \(From "Bail"\)](https://open.spotify.com/album/0Sv00veNPFe96uquhu3bHc) | 3:01 |
 | 2 | [Ondhe Ondu \(From "Brindhavihari"\)](https://open.spotify.com/track/1b8vp9rQybCPVanJatWPIZ) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [V Nagendra Prasad](https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Jaskaran Singh](https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL) | [Ondhe Ondu \(From "Brindhavihari"\)](https://open.spotify.com/album/3r9aO8uA21Tgk24gTLU9Qf) | 5:27 |
 | 3 | [Amma Na Haadu \(From "Lakshmi Puthra"\)](https://open.spotify.com/track/6ARQEMYAyDyh3zG4unC0Ak) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [A.P\. Arjun](https://open.spotify.com/artist/1WmSed4rURzSyxwiETfssP), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Amma Na Haadu \(From "Lakshmi Puthra"\)](https://open.spotify.com/album/7yV9bZLlNGLZcKqQtsdLju) | 4:22 |
 | 4 | [Nan Amma \(From "KHELA"\)](https://open.spotify.com/track/3iMSrinyp1aSAEgP3lzOki) | [Thyagaraja M.S](https://open.spotify.com/artist/6h0s6nu545c3GUh5GquDaY), [Manoj Sowgandh](https://open.spotify.com/artist/4xG9GIV71NfFZq7wpRSlV5), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa) | [Nan Amma \(From "KHELA"\)](https://open.spotify.com/album/7b0BiMIO6AEECgZsopnvzn) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 99 | [Kannalliye](https://open.spotify.com/track/4YF0FkGPzjGZIfnehWZcXC) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp), [Swathi Shankari](https://open.spotify.com/artist/7c0Ci1eChAcVAgpkwAfNql) | [Retro \[KANNADA\]](https://open.spotify.com/album/58Do5eyTUIUoDD3nkZ3sOV) | 4:20 |
 | 100 | [Hudugir Dangerous \(From "Ayogya 2"\)](https://open.spotify.com/track/2Hr5Lxe0f9Dxb3B91q8Ize) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Chethan Kumar](https://open.spotify.com/artist/3DsGNNhEpv3RwfFPkcEEfY), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Hudugir Dangerous \(From "Ayogya 2"\)](https://open.spotify.com/album/1Ft5DNFzxeNP389DLqJDMN) | 3:49 |
 
-Snapshot ID: `AAAAAHKdLXfFPfZ2jkc8A2bO9FiI03jt`
+Snapshot ID: `AAAAADc1qwveIiXL1UDO/GF1ZJs+F3dS`

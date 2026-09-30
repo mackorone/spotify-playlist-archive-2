@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: CHVRCHES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,453 likes - 160 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,459 likes - 160 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 159 | [New Muscles](https://open.spotify.com/track/4i1PwZv3CJ4CV0vEZ69rzE) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [New Muscles](https://open.spotify.com/album/2N2LCCVDf8LDxolIYNAK3J) | 3:54 |
 | 160 | [Let Me Go](https://open.spotify.com/track/0Bw0kB0fDnAS8IKks0S8Qu) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Let Me Go](https://open.spotify.com/album/0HiRotGMOWoUcbdEbe1W7T) | 3:08 |
 
-Snapshot ID: `AAAAAEXbkKhQ8sbj8RqwBUCb2AT+oXFQ`
+Snapshot ID: `AAAAABaoyHCStgjTXQWlua2EAxGV/6md`

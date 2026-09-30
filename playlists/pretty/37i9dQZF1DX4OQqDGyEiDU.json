@@ -1,12 +1,12 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: DECO*27",
-  "num_followers": 121291,
+  "num_followers": 121297,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPHh9VClLAza/4si0L4ywC2BCXds",
+  "snapshot_id": "AAAAAAG7jZ7E629FNixg6JQQnvsnLlUK",
   "tracks": [
     {
       "added_at": "2026-09-15 15:00:28",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-09-01 15:00:11",
       "album": {
+        "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV"
+      },
+      "artists": [
+        {
+          "name": "\u7a32\u8449\u66c7",
+          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
+        }
+      ],
+      "duration_ms": 189412,
+      "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh"
+    },
+    {
+      "added_at": "2026-09-01 15:00:11",
+      "album": {
         "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
         "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 235096,
       "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
       "url": "https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn"
-    },
-    {
-      "added_at": "2026-09-01 15:00:11",
-      "album": {
-        "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV"
-      },
-      "artists": [
-        {
-          "name": "\u7a32\u8449\u66c7",
-          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
-        }
-      ],
-      "duration_ms": 189412,
-      "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh"
     },
     {
       "added_at": "2026-09-01 15:00:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם בתן
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,395 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,401 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [עוד יום על הגלגל](https://open.spotify.com/track/5AdeKv1VlrdU1KX5llKNz7) | [Gil Vain](https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj) | [עוד יום על הגלגל](https://open.spotify.com/album/1i9k0hEjuRTAV1swKa9X0w) | 3:08 |
 | 50 | [הים הזה](https://open.spotify.com/track/7CHEJSNNEEE0r4nHYGdvmM) | [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H), [שי המבר](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8) | [הים הזה](https://open.spotify.com/album/2WXQQoDkmnpVBwN6NObUIT) | 4:30 |
 
-Snapshot ID: `AAAAAKytCj/HEjz0HpxWcBGcqw5EFh/Q`
+Snapshot ID: `AAAAAHmJldalSuyvXs7rp9IJb7nhtCzK`

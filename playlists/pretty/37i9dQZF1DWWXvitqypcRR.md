@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,971 likes - 61 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,976 likes - 61 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 60 | [The Naked Now](https://open.spotify.com/track/4lH5gha8A37wzZ4Kk50ULq) | [Panthera Krause](https://open.spotify.com/artist/6vpvDZ1hqY1GUPUjvyiCjU) | [Uncanny Valley 50 YELLOW](https://open.spotify.com/album/2hywpYwe6v0SFmzeu6oqeA) | 6:36 |
 | 61 | [Apocalypse \- Tripolism Remix](https://open.spotify.com/track/5CU5ozmWAvfa8LjOYNdsSI) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Max Zotti](https://open.spotify.com/artist/3po7iOEDHDHM8gnpoe7DY3), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Apocalypse \(Tripolism Remix\)](https://open.spotify.com/album/2jSlFnFQ0sUQwV1YRxwFMn) | 4:21 |
 
-Snapshot ID: `AAAAACXk59edUm7JTM2T+h6//xAf1qWa`
+Snapshot ID: `AAAAAOZV52PPA/yJORGDtDsUn2WFaeJ4`

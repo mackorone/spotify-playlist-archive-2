@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: The Magician & Nico de Andrea
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,538 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,655 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [Freaky 1](https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Freaky 1](https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS) | 3:52 |
 | 100 | [Monologue](https://open.spotify.com/track/0VW7oyXCCUKjzc0cRXB64o) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803) | [Monologue EP](https://open.spotify.com/album/1ZMbGVDdGBLlEzDbddiU5G) | 3:36 |
 
-Snapshot ID: `AAAAACrVt1b5rp1R7Rw+YCSNSfcuVB+w`
+Snapshot ID: `AAAAAMsBHIQFN9Mcp9UYIlIGt8xbRtX2`

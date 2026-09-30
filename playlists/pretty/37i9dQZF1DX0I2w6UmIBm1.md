@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Rend Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,290 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,331 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 74 | [Talking It Out](https://open.spotify.com/track/79wMJAQU9k7IwYT6AkxwKb) | [SUNS](https://open.spotify.com/artist/13Vnt5pLnf1DOOBBVDOVfi) | [Talking It Out](https://open.spotify.com/album/1PIKriTr8koCh62viEDL6S) | 4:00 |
 | 75 | [Met a Girl in Arizona](https://open.spotify.com/track/2JwJ4IK2NSPf4mdJTopdqJ) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Uncharted](https://open.spotify.com/album/30MQEIZYa80QfqigFff3B6) | 2:34 |
 
-Snapshot ID: `AAAAAJhM0HyUHlEFsvtRCYaGcKvchFQ6`
+Snapshot ID: `AAAAAH6EfLA6kKbXWZViYEcLQ8sjrjCM`

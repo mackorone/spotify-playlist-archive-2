@@ -1,12 +1,12 @@
 {
   "description": "Earth's mightiest themes assemble on the Marvel Music Playlist. Stream Marvel\u2019s The Avengers on Disney+.",
-  "num_followers": 204054,
+  "num_followers": 204060,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMxQKM/rwEe1753lyIM9wVS7AOKN",
+  "snapshot_id": "AAAAAECan3VtXMZTHfcCtHYT/4Z+L3ZS",
   "tracks": [
     {
       "added_at": "2026-06-12 13:00:07",
@@ -43,18 +43,18 @@
     {
       "added_at": "2026-06-12 13:00:07",
       "album": {
-        "name": "Wonder Man (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/353M27S0TmU1a253iLz1GC"
+        "name": "Avengers: Endgame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8"
       },
       "artists": [
         {
-          "name": "Joel P West",
-          "url": "https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ"
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
         }
       ],
-      "duration_ms": 111312,
-      "name": "Simon Williams to Set",
-      "url": "https://open.spotify.com/track/5qzw4NFMzx63iixVbdYw6M"
+      "duration_ms": 197213,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/0OVtnS3l4vThGxkdqCxN6K"
     },
     {
       "added_at": "2026-06-12 13:00:07",
@@ -151,6 +151,22 @@
       "duration_ms": 76979,
       "name": "It's Bucky!",
       "url": "https://open.spotify.com/track/5VbZuUanVLWJBpgnjrPC5i"
+    },
+    {
+      "added_at": "2026-09-29 19:59:15",
+      "album": {
+        "name": "Avengers: Endgame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "duration_ms": 354826,
+      "name": "The Real Hero",
+      "url": "https://open.spotify.com/track/3KHrXuByzDnDOaVR15rZH7"
     },
     {
       "added_at": "2026-06-12 13:00:07",
@@ -303,22 +319,6 @@
       "duration_ms": 159920,
       "name": "Web Letter Days - from \"Spider-Man: Brand New Day\" Soundtrack",
       "url": "https://open.spotify.com/track/5ycRUrUsAEtWQfSW6e7kj9"
-    },
-    {
-      "added_at": "2026-06-12 13:00:07",
-      "album": {
-        "name": "Avengers: Endgame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Portals",
-      "url": "https://open.spotify.com/track/0OVtnS3l4vThGxkdqCxN6K"
     },
     {
       "added_at": "2026-06-12 13:00:07",
@@ -1327,6 +1327,22 @@
       "duration_ms": 201278,
       "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
       "url": "https://open.spotify.com/track/5pj3uTYB18t1xVOkrFm13I"
+    },
+    {
+      "added_at": "2026-06-12 13:00:07",
+      "album": {
+        "name": "Wonder Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/353M27S0TmU1a253iLz1GC"
+      },
+      "artists": [
+        {
+          "name": "Joel P West",
+          "url": "https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ"
+        }
+      ],
+      "duration_ms": 111312,
+      "name": "Simon Williams to Set",
+      "url": "https://open.spotify.com/track/5qzw4NFMzx63iixVbdYw6M"
     },
     {
       "added_at": "2026-06-12 13:00:07",

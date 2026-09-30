@@ -1,12 +1,12 @@
 {
   "description": "Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.",
-  "num_followers": 34972,
+  "num_followers": 34987,
   "original_name": "The Sims Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANosRCspX4TE5DocHpiigifTAuJT",
+  "snapshot_id": "AAAAAKCUrSgYRv2jK6+b6ORqM82JGPPe",
   "tracks": [
     {
       "added_at": "2026-02-13 19:31:47",
@@ -123,8 +123,8 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "GOLDSTAR",
-        "url": "https://open.spotify.com/album/7mTtyluyCS8hY97tqZDpoc"
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/1Opey02fRwqQTeOqwUSvY7"
       },
       "artists": [
         {
@@ -134,7 +134,7 @@
       ],
       "duration_ms": 213346,
       "name": "SWEAT",
-      "url": "https://open.spotify.com/track/5ugSLzY7MiDmZNdr51zg5a"
+      "url": "https://open.spotify.com/track/17UhmlhHX5kj1MFOnvo5FT"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Country Girl (Shake It For Me)",
-      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Grand",
-        "url": "https://open.spotify.com/album/5ZzpXCtRji8C8uMmPBTyP4"
-      },
-      "artists": [
-        {
-          "name": "Matt and Kim",
-          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1jKXDWXStKoArZvty3wEZp"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "White Feathers",
         "url": "https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z"
       },
@@ -731,22 +715,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/0tc6zo8FGuGegfZIicLEwV"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 251320,
-      "name": "Run Away With Me",
-      "url": "https://open.spotify.com/track/0Jirkb7LGNWyVhKOsKFdZ2"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Love Is Wicked",
         "url": "https://open.spotify.com/album/5QrzQczc1WR25yn4u1PX5x"
       },
@@ -811,22 +779,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "All the Time",
-        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 228112,
-      "name": "All the Time",
-      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
         "url": "https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q"
       },
@@ -839,6 +791,22 @@
       "duration_ms": 198000,
       "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
       "url": "https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "All the Time",
+        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 228112,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1103,22 +1071,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Home Video",
-        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Hot & Heavy",
-      "url": "https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Call Me What You Like",
         "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
       },
@@ -1131,6 +1083,22 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Home Video",
+        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Hot & Heavy",
+      "url": "https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1503,22 +1471,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "4x4=12",
-        "url": "https://open.spotify.com/album/4ctMNpD66AXYCJYjJoqh7d"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 447250,
-      "name": "Some Chords",
-      "url": "https://open.spotify.com/track/535PzroKb08Y1h8mRdHoYC"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "The Secret Life Of...",
         "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
       },
@@ -1627,6 +1579,54 @@
       "duration_ms": 543398,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4cKjgFo52FGkzmnO051RxX"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/7oKyITEBWOqSO87kuSBCx5"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 256874,
+      "name": "Explorers",
+      "url": "https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Big Mess",
+        "url": "https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "Welcome to Your Life",
+      "url": "https://open.spotify.com/track/4hAhyE1iL07EIUJnqw2bsV"
     }
   ],
   "unique_name": "The Sims Official Playlist",

@@ -1,12 +1,12 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 125561,
+  "num_followers": 125591,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH5w3AqXcXS/5ya14tl4dOBtDYpu",
+  "snapshot_id": "AAAAACscRHZZVV/6JGY2Qa2TLnrDDA/s",
   "tracks": [
     {
       "added_at": "2026-07-29 15:45:01",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Sun Rises",
-        "url": "https://open.spotify.com/album/6Has46aL8NIuwJcanqM7Ha"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 174769,
-      "name": "Sun Rises",
-      "url": "https://open.spotify.com/track/1c2EYour3VAKs2qYKLhAKy"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Monday Morning Faith (Acoustic)",
         "url": "https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "high water",
-        "url": "https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J"
+        "name": "Sun Rises",
+        "url": "https://open.spotify.com/album/6Has46aL8NIuwJcanqM7Ha"
       },
       "artists": [
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
         }
       ],
-      "duration_ms": 168975,
-      "name": "high water",
-      "url": "https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk"
+      "duration_ms": 174769,
+      "name": "Sun Rises",
+      "url": "https://open.spotify.com/track/1c2EYour3VAKs2qYKLhAKy"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -739,6 +723,22 @@
       "duration_ms": 207969,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "high water",
+        "url": "https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 168975,
+      "name": "high water",
+      "url": "https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "05 (Morning)",
-        "url": "https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5"
-      },
-      "artists": [
-        {
-          "name": "Tom Read",
-          "url": "https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "05 (Morning)",
-      "url": "https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "morning always comes",
         "url": "https://open.spotify.com/album/5Ui84kuDZfTlmSgip0NnXJ"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 200525,
       "name": "morning always comes",
       "url": "https://open.spotify.com/track/5yuj9iWkGmOxFeuW3lYOwz"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "05 (Morning)",
+        "url": "https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5"
+      },
+      "artists": [
+        {
+          "name": "Tom Read",
+          "url": "https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "05 (Morning)",
+      "url": "https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6"
-      },
-      "artists": [
-        {
-          "name": "JOSHUA LAZER",
-          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
-        }
-      ],
-      "duration_ms": 139801,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/0meZ1wG8nZT8Yw7edBonju"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Pure Gold",
         "url": "https://open.spotify.com/album/29QjD47g5WsFp4H7RlxyRJ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 137769,
       "name": "Pure Gold",
       "url": "https://open.spotify.com/track/4GPfoPbpLppbzVLBIR337i"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "duration_ms": 139801,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/0meZ1wG8nZT8Yw7edBonju"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Take Heart",
+        "url": "https://open.spotify.com/album/3PB6qqj5LdwcmRTMzbPxcH"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "Encompassed",
+      "url": "https://open.spotify.com/track/4VoMZnltCPuFtkRWgubFq0"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Wake Up (Remix)",
         "url": "https://open.spotify.com/album/2eagZIie0DPIZqDuGiAVOY"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 224000,
       "name": "honeydew (praise the Lord)",
       "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Take Heart",
-        "url": "https://open.spotify.com/album/3PB6qqj5LdwcmRTMzbPxcH"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "Encompassed",
-      "url": "https://open.spotify.com/track/4VoMZnltCPuFtkRWgubFq0"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 240357,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Feel Alright (Blessed)",
         "url": "https://open.spotify.com/album/3HZRZ9JIodgoDoNqFoHE4F"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 271874,
       "name": "Feel Alright (Blessed)",
       "url": "https://open.spotify.com/track/4ewqayUyebkmpWIqqW0bwK"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Morning / Sunrise",
-        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 170119,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Morning / Sunrise",
+        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 170119,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Glad",
         "url": "https://open.spotify.com/album/0TBJXPXOzn8eT4X9RP23SE"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 248440,
       "name": "You Have Made Me Glad",
       "url": "https://open.spotify.com/track/2o6XwbRgn42tK3EphA7Tkv"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 240357,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
     },
     {
       "added_at": "2026-07-29 15:45:01",

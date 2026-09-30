@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Nessa Barrett on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,761 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,751 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [Ponyboy](https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Emptiness Is Godly](https://open.spotify.com/album/69WMt9yTuyzIIeMoRp0ti1) | 2:41 |
 | 50 | [BLOODY MARY](https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [BLURRY](https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU) | 3:02 |
 
-Snapshot ID: `AAAAAGyZzVRGwstR+Qc0RzpdEnPT7lAq`
+Snapshot ID: `AAAAAA5Vl0B3fDRPrV28yL3UTXCOMFlQ`

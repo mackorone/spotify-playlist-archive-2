@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Clyde Crooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,942 likes - 101 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,970 likes - 101 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 100 | [OCTOBER](https://open.spotify.com/track/1uYO5Jhgf4S1752bUL2IiW) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [OCTOBER/HERO](https://open.spotify.com/album/3QnzXOGnAsquHrRjnkfOBk) | 3:01 |
 | 101 | [go!](https://open.spotify.com/track/7kqPf7xVPqpdi0mN3pWKym) | [WHATMORE](https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q) | [WHATMORE](https://open.spotify.com/album/0UZHxpIihS68mjFPTcyu7A) | 2:47 |
 
-Snapshot ID: `AAAAAHqQD0Ki9qrFbATYwA5hNiPUueFP`
+Snapshot ID: `AAAAADYtPb3eSizplKM0zXPdbtA3A5z0`

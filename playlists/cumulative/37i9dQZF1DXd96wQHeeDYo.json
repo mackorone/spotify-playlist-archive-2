@@ -2229,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "AYER DIJISTE MA\u00d1ANA",
+        "url": "https://open.spotify.com/album/70YgRmVdUC5cJNrjYwSH4H"
+      },
+      "artists": [
+        {
+          "name": "BALTA",
+          "url": "https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192949,
+      "name": "ilusiones",
+      "url": "https://open.spotify.com/track/6F10qCKcZIdnzXqn9XO8Pi"
+    },
+    {
+      "album": {
         "name": "GINGA",
         "url": "https://open.spotify.com/album/57iM0Ss6kTZ1SxAzPR1K8Z"
       },

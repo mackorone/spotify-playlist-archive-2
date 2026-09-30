@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALRh+7wh20R6G0BTuTtGX95vwisj",
+  "snapshot_id": "AAAAANePrlN/beoeEwPHWF3q7NxlqlZy",
   "tracks": [
     {
       "added_at": "2026-09-22 14:34:42",
@@ -427,26 +427,6 @@
     {
       "added_at": "2026-09-22 14:34:42",
       "album": {
-        "name": "if i\u2019m with you",
-        "url": "https://open.spotify.com/album/3AzI8LdP4LZ9wHRMqV3V2B"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
-        }
-      ],
-      "duration_ms": 224902,
-      "name": "if i\u2019m with you",
-      "url": "https://open.spotify.com/track/0r8x5ercAQKwRE4U85EZbE"
-    },
-    {
-      "added_at": "2026-09-22 14:34:42",
-      "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
+    },
+    {
+      "added_at": "2026-09-22 14:34:42",
+      "album": {
+        "name": "if i\u2019m with you",
+        "url": "https://open.spotify.com/album/3AzI8LdP4LZ9wHRMqV3V2B"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 224902,
+      "name": "if i\u2019m with you",
+      "url": "https://open.spotify.com/track/0r8x5ercAQKwRE4U85EZbE"
     },
     {
       "added_at": "2026-09-22 14:34:42",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-09-22 14:34:42",
       "album": {
-        "name": "Find You",
-        "url": "https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Find You",
-      "url": "https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M"
-    },
-    {
-      "added_at": "2026-09-22 14:34:42",
-      "album": {
         "name": "Sh**ting Stars (Original Television Soundtrack) Pt.3",
         "url": "https://open.spotify.com/album/3CtH176Djh4qoKAaV2NHdL"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 251537,
       "name": "My secret, My everything",
       "url": "https://open.spotify.com/track/6VNyKGgsdiRCh7943735wV"
+    },
+    {
+      "added_at": "2026-09-22 14:34:42",
+      "album": {
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M"
     },
     {
       "added_at": "2026-09-22 14:34:42",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-09-22 14:34:42",
       "album": {
+        "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
+        "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
+    },
+    {
+      "added_at": "2026-09-22 14:34:42",
+      "album": {
         "name": "in your control",
         "url": "https://open.spotify.com/album/7nIKIh4C23jA2dAnahIRrF"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 222000,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM"
-    },
-    {
-      "added_at": "2026-09-22 14:34:42",
-      "album": {
-        "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
-        "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hong",
-          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
     },
     {
       "added_at": "2026-09-22 14:34:42",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-09-22 14:34:42",
       "album": {
-        "name": "Album 0",
-        "url": "https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW"
-      },
-      "artists": [
-        {
-          "name": "LEE SEUNG YOON",
-          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "I\u2019m No Astronomer, But",
-      "url": "https://open.spotify.com/track/5SKfC9wAd7elQ6z2QI6gbg"
-    },
-    {
-      "added_at": "2026-09-22 14:34:42",
-      "album": {
         "name": "Hello, goodbye.",
         "url": "https://open.spotify.com/album/5MTTOYSuCUp7Wz6P57lAja"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 186000,
       "name": "Hello, goodbye.",
       "url": "https://open.spotify.com/track/6QSkLzLRAwPMaYnesYdqdX"
+    },
+    {
+      "added_at": "2026-09-22 14:34:42",
+      "album": {
+        "name": "Album 0",
+        "url": "https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "I\u2019m No Astronomer, But",
+      "url": "https://open.spotify.com/track/5SKfC9wAd7elQ6z2QI6gbg"
     },
     {
       "added_at": "2026-09-22 14:34:42",

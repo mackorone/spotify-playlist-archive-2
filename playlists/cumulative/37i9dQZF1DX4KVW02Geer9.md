@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 石川紅奈
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: メイ・シモネス
 
-626 songs - 1 day 20 hr 52 min
+628 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [El Corazón](https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Here Because of Hope](https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j) | 4:06 | 2026-09-15 |  |
 | [Elastic Man](https://open.spotify.com/track/7GX8c0mwHCi9QelFCLNtfF) | [Tony Grey](https://open.spotify.com/artist/4YIpmOub8uUSREpCwKCoaf) | [Infinity Glitch](https://open.spotify.com/album/49JyMHpb8nxxfW1hGRsqEG) | 6:27 | 2024-10-17 | 2025-01-31 |
 | [embers](https://open.spotify.com/track/0lMsQ242U1HEo7OXnm2afH) | [佐瀬悠輔](https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A) | [Camping Music](https://open.spotify.com/album/5UUH3V1AePhGd2v7HMIRKr) | 2:16 | 2026-09-08 |  |
+| [EMOI](https://open.spotify.com/track/7nXuJGJp2DzAT0phWSnOzQ) | [Sup](https://open.spotify.com/artist/56p5ak4D7Ltq49E5yTRRm7) | [EMOI](https://open.spotify.com/album/6tDxSGP0yQitxbmiX7mMl5) | 2:51 | 2026-09-29 |  |
 | [Endgame 3404](https://open.spotify.com/track/233OyZq9RYTq33crv2pcZN) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [Endgame 3404](https://open.spotify.com/album/2EQ0C32Gjv90BXPNZUQc41) | 4:04 | 2025-09-18 | 2026-02-28 |
 | [Endless Gray](https://open.spotify.com/track/7uoQI2brv0ESHgzM6BMEI9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Shades of](https://open.spotify.com/album/4SnYHpDFwJcbi4VpAuPIfO) | 3:40 | 2024-11-14 | 2025-03-07 |
 | [Enemies](https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Enemies](https://open.spotify.com/album/32mATjC51wowHBVY5rNlwC) | 2:46 | 2026-07-16 |  |
@@ -234,6 +235,7 @@
 | [HOURS:AFTER](https://open.spotify.com/track/2efKpdGah3AVLf8qjtJ7NE) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [HOURS:AFTER](https://open.spotify.com/album/01k267Jci58J6dSWrpKJwI) | 3:50 | 2025-10-02 |  |
 | [How I Became a Madman](https://open.spotify.com/track/2vWxZV2grxa10qiqyNQ51a) | [Ami Taf Ra](https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [How I Became a Madman](https://open.spotify.com/album/5EViAeAyM4Mry14Sb9u7Zw) | 6:53 | 2025-06-19 | 2025-10-03 |
 | [How to Love](https://open.spotify.com/track/5W7swlOzVO10vcOj0AIfcH) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [How to Love](https://open.spotify.com/album/1FcXtMTP3QAlVA357yLiTi) | 4:27 | 2025-02-06 | 2025-05-02 |
+| [Howl](https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Howl](https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs) | 3:03 | 2026-09-29 |  |
 | [Howlin' collective](https://open.spotify.com/track/4WHnPGqTUL3N6cZUnlpFs3) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt) | [Howlin' collective](https://open.spotify.com/album/6z2oEKSbhMUf69NsF8NFOj) | 3:53 | 2024-09-19 | 2024-11-15 |
 | [Hurry Up & Wait](https://open.spotify.com/track/2b7kkmTOmUTtuAUD9YUB4K) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Hurry Up & Wait](https://open.spotify.com/album/4TaKNsOIMYrIpuBngF7Ygf) | 7:12 | 2025-03-06 | 2025-03-28 |
 | [I Ain't Got Nothin' But Time](https://open.spotify.com/track/1nRcZ8paEupSa6OG3wZEzf) | [Don Was](https://open.spotify.com/artist/3UZweLueIxSfgpLuFfeRYu), [Don Was and the Pan\-Detroit Ensemble](https://open.spotify.com/artist/0spS7DwPZZQ1XvhW8z3Mey) | [Groove In The Face Of Adversity](https://open.spotify.com/album/7dVNaQmJ9uHkC0IeY1d6Mh) | 9:50 | 2025-10-09 | 2026-04-10 |

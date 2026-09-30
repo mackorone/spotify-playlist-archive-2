@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Jessie Mazin
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,451 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,448 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 74 | [Stella](https://open.spotify.com/track/4tunPd5wjImciMBStM3NxL) | [Kathryn Gallagher](https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD) | [Stella](https://open.spotify.com/album/2NmgZJHvp5AJvFylC4E3Ur) | 3:19 |
 | 75 | [Next To Me](https://open.spotify.com/track/2JkJ3ju8snOnciAw7YRC92) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [From My Side](https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck) | 3:06 |
 
-Snapshot ID: `AAAAAGhlo0TLQcJlHDr+RvttLc82m+RG`
+Snapshot ID: `AAAAAOFUkVbsqtr9MM/FqtSVN40AE/r4`

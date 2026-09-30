@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-480 songs - 1 day 0 hr 38 min
+481 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Back To Time \(with Broad Run, Arnie Woods & Ethan Heckard\)](https://open.spotify.com/track/7u1Eeu5hNUV1sI5hzXwekY) | [Icehunt](https://open.spotify.com/artist/0YbpnbhAbWQrJWdEM4WGmk), [Broad Run](https://open.spotify.com/artist/66y6xyklR36qPMpXTcA857), [Arnie Woods](https://open.spotify.com/artist/2ZwlwG7xAnI52JZQLtTM1L), [Ethan Heckard](https://open.spotify.com/artist/0lruvSWWhQvzJ5myObBUzL) | [Back To Time \(with Broad Run, Arnie Woods & Ethan Heckard\)](https://open.spotify.com/album/6xLf6hWH8X4Bx60zcjMZPV) | 3:19 | 2022-02-03 | 2022-09-15 |
 | [Back To You](https://open.spotify.com/track/40ZIBWog1tqU5eaQH4Efdc) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Back To You](https://open.spotify.com/album/4oDFDTpIp2CQorDXd4nFsz) | 3:29 | 2022-11-25 | 2022-12-21 |
 | [Back2u!](https://open.spotify.com/track/1fJ851VI1oJXjHxaDCqpa9) | [Postcard](https://open.spotify.com/artist/5QpG84gIU4qExcd06OgLkw), [MNTRL](https://open.spotify.com/artist/5PafLxTRvveezuTtlfU0Rz), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Back2u!](https://open.spotify.com/album/71UtFr5ynmlfaDzCorPb7M) | 4:06 | 2026-04-28 |  |
+| [backtoback](https://open.spotify.com/track/0H1BVpc9XdyZY71m4WBtK6) | [angelrot](https://open.spotify.com/artist/1PtxhGf5zAUnOucwf4fCIJ) | [backtoback](https://open.spotify.com/album/2QSz1zWy9IH3Hxtap9J6Z8) | 2:59 | 2026-09-29 |  |
 | [Bad Habit \- Phonk Version](https://open.spotify.com/track/2cxSqpXFAEa0VIZkDed4eM) | [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Bad Habit \(Phonk Version\)](https://open.spotify.com/album/2iG2ou48zBxOk3qH2vT1px) | 1:39 | 2023-08-10 |  |
 | [Bad Motives](https://open.spotify.com/track/65iHCk2uV7KKQwkjhBRmXZ) | [DM Galaxy](https://open.spotify.com/artist/3uKSQRJFp1pnRWT95Yso12), [Aloma Steele](https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX) | [Bad Motives](https://open.spotify.com/album/1fhWOQamKY5JtRorlqBd9Y) | 3:05 | 2023-08-10 | 2024-06-20 |
 | [Bad Pitch For You](https://open.spotify.com/track/3zzMrBmRiQ39KsCPzmLuz8) | [ruindkid](https://open.spotify.com/artist/45QfSnVjou58EbJsXSeJ7e) | [Bad Pitch For You](https://open.spotify.com/album/72Mpjqj1AfwHsKLUtISmMv) | 2:47 | 2026-05-12 |  |

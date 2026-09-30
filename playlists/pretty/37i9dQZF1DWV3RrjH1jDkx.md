@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Julie Bergan, Metropolen,  Charli XCX & Madonna og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,329 likes - 102 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,333 likes - 102 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 101 | [sentinel](https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [sentinel](https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf) | 3:26 |
 | 102 | [Stoney Shore](https://open.spotify.com/track/1kAMKX77dRmtoBPb71NvdU) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [Stoney Shore](https://open.spotify.com/album/0FlHnJ4haaysHsEkkYngQy) | 2:16 |
 
-Snapshot ID: `AAAAAHC7KcPNmMwiaY77p5M+KzVMPjSo`
+Snapshot ID: `AAAAAGqC+/rpVJQiIpuL+UolqEyA/f/j`

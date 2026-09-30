@@ -1605,6 +1605,28 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: SuperKitties Su-Purr Wild: Willa Edition (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2QPFyjA0YuiRcfWwmV81Az"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120804,
+      "name": "Having a Blast",
+      "url": "https://open.spotify.com/track/2A21WVUBfINH1N46sSe52G"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Me & Mickey",
         "url": "https://open.spotify.com/album/0nQdS5tHGoSQzv0qdWdgMd"
       },
@@ -4449,6 +4471,28 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Sofia the First: Royal Magic",
+        "url": "https://open.spotify.com/album/1j0tuWhwfJUN7MbkVZYyQj"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108113,
+      "name": "The Most Magical Me",
+      "url": "https://open.spotify.com/track/6nKPxY6aK0yFGM8REsSuRv"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Fancy Nancy Vol. 2",
         "url": "https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW"
       },
@@ -4614,7 +4658,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 215695,
       "name": "Time to Shine",
       "url": "https://open.spotify.com/track/1qDhlnqtKmW1VUcr7rcz6m"

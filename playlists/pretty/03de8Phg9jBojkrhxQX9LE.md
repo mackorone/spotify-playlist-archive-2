@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,209 likes - 151 songs - 8 hr 11 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,210 likes - 151 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 8 | [The Block](https://open.spotify.com/track/3MnBeb0rOMmrhJ6azyip02) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [The Block](https://open.spotify.com/album/4HcwZqnr72ATTGJ8fCaLOR) | 3:25 |
 | 9 | [Beauty Sleep](https://open.spotify.com/track/1RrEB90qVYRsVE1DQsqwuJ) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Beauty Sleep](https://open.spotify.com/album/3xI4q1yRS4Vr1wMkQxlQjj) | 3:42 |
 | 10 | [CRUSH ON U](https://open.spotify.com/track/5NjS8UegnF9wCyEHhy1U0s) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [UNMASKED!](https://open.spotify.com/album/0gAinmiR8iNRC7yFmVHxtM) | 2:19 |
-| 11 | [Deeper](https://open.spotify.com/track/784sVvyBnMvsrwHQy1QLQX) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Deeper](https://open.spotify.com/album/5QKyBdjtO4tMLNuB80ZWgN) | 3:35 |
+| 11 | [Deeper](https://open.spotify.com/track/784sVvyBnMvsrwHQy1QLQX) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Deeper](https://open.spotify.com/album/5QKyBdjtO4tMLNuB80ZWgN) | 3:32 |
 | 12 | [Warhorse](https://open.spotify.com/track/6QtdNJhSCP7XgTDJL2BlJ7) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Warhorse](https://open.spotify.com/album/1e8cp3UgVJORQmHWHjvRiq) | 4:00 |
 | 13 | [WERK IT](https://open.spotify.com/track/2Wnk9lkIS376DsKsHvtsgQ) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [WERK IT](https://open.spotify.com/album/3uITLjoDH95sV0u29UMrIH) | 2:15 |
 | 14 | [Nobody Wanna Dance Anymore](https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:20 |

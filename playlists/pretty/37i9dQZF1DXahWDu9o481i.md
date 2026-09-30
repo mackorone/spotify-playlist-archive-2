@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: KAROL G, rusowsky, Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,811 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,798 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 29 | [Does It Ever Cross Your Mind?](https://open.spotify.com/track/3mkRtMr2NOfjlk3c5BlX8a) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [THRASHER](https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo) | 3:11 |
 | 30 | [Wild Woman](https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Wild Woman](https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6) | 2:59 |
 | 31 | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/track/2XlaX5NF4ux2QgADVeYfU5) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/album/4TJnMKR81EbrOExdDsQo6I) | 2:33 |
-| 32 | [Vogue](https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Vogue](https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0) | 3:59 |
-| 33 | [Ponte a Pensar](https://open.spotify.com/track/3ty3o40yxItfYoAcrT69GT) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 3:24 |
+| 32 | [Ponte a Pensar](https://open.spotify.com/track/3ty3o40yxItfYoAcrT69GT) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 3:24 |
+| 33 | [Vogue](https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Vogue](https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0) | 3:59 |
 | 34 | [rwm](https://open.spotify.com/track/5KuDuzCVDZqtFz83HMZsLP) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [rwm](https://open.spotify.com/album/7fEre53L3MiyxsBAst0PHY) | 2:30 |
 | 35 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
 | 36 | [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 60 | [Otherwise, I'm Fine](https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Don't Be Funny Without Me](https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry) | 2:50 |
 | 61 | [Tracking the Tropics](https://open.spotify.com/track/08VqSre55py2u3WlYSg1Ix) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Tracking the Tropics](https://open.spotify.com/album/4LlZw9oTyPzf0B9znBLizF) | 4:01 |
 | 62 | [Madness](https://open.spotify.com/track/2mwam3Np6drIyCModkUGET) | [Ceremony](https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH) | [Tell Me Your Dream](https://open.spotify.com/album/1kTGPhQpZfXDaqKMorgpn7) | 3:11 |
-| 63 | [Same Rules](https://open.spotify.com/track/5ZzFI476Vwg5z4HlmHjI9m) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Same Rules](https://open.spotify.com/album/1GI4DEr60qxGpq2Pnx9mD0) | 3:47 |
-| 64 | [Acelero lento](https://open.spotify.com/track/3Xvr3tcQ0FHodTsQQ73lz8) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Chitra](https://open.spotify.com/artist/0oCJl7BO8pwud69vMicBRr) | [SE ESTÁ HACIENDO TARDE](https://open.spotify.com/album/4fl15gNIqVJKLGfwbnq0OB) | 4:00 |
+| 63 | [Acelero lento](https://open.spotify.com/track/3Xvr3tcQ0FHodTsQQ73lz8) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Chitra](https://open.spotify.com/artist/0oCJl7BO8pwud69vMicBRr) | [SE ESTÁ HACIENDO TARDE](https://open.spotify.com/album/4fl15gNIqVJKLGfwbnq0OB) | 4:00 |
+| 64 | [Same Rules](https://open.spotify.com/track/5ZzFI476Vwg5z4HlmHjI9m) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Same Rules](https://open.spotify.com/album/1GI4DEr60qxGpq2Pnx9mD0) | 3:47 |
 | 65 | [MY BLOCK \(ft\. PLUTO\)](https://open.spotify.com/track/1QTcxhshVabucxneUvTrXC) | [SMJ](https://open.spotify.com/artist/4pDtAjA47T0lTKu97HfNfq), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [PLEASURE TO MEET YOU](https://open.spotify.com/album/4XqLQZQCGJea014jHi6lY0) | 2:44 |
 | 66 | [Needle](https://open.spotify.com/track/0Bxh3DKY42997tK3SBY6iD) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [Needle](https://open.spotify.com/album/7gj35vKZSrndvclu5KyKib) | 3:00 |
 | 67 | [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 69 | [Senses](https://open.spotify.com/track/7tLM1eOQl0yWkMIsn7rl3b) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Senses](https://open.spotify.com/album/1PAwFeMDuutYR9oBpaqumh) | 2:21 |
 | 70 | [TALK ABOUT IT](https://open.spotify.com/track/0YjjOiBjdvp0oOqICrXbxM) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [I’M OKAY NOW, BUT I WASN’T FOR A WHILE](https://open.spotify.com/album/0EEbdJAgd1LfTuQBwGONJV) | 2:03 |
 
-Snapshot ID: `AAAAAHEKOmRrRH5bBDFqYPyLwWzBWc3d`
+Snapshot ID: `AAAAABNJKavRZufbpyEU77/o+0NxuJRC`

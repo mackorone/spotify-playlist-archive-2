@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: The Paradise",
-  "num_followers": 668898,
+  "num_followers": 669497,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP/WuBYF184UYd2BQXH8QXpTAwjT",
+  "snapshot_id": "AAAAADONyFLhgDH4HUCCvPJolnF8Lei5",
   "tracks": [
     {
       "added_at": "2026-08-31 05:29:54",
@@ -37,76 +37,32 @@
       "url": "https://open.spotify.com/track/0HE9a9ndSFMCELuobaW5yK"
     },
     {
-      "added_at": "2026-07-01 07:43:32",
+      "added_at": "2026-09-29 10:10:35",
       "album": {
-        "name": "Neno Butterfly (From \"Vishwanath & Sons\")",
-        "url": "https://open.spotify.com/album/3oNBq6rB3OahG8xxdarEXE"
+        "name": "Endhayya Saami (From \"Ranabaali\")",
+        "url": "https://open.spotify.com/album/0rP6tTyF90zUSqIgXLNGZk"
       },
       "artists": [
         {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
         },
         {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
         },
         {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Neno Butterfly (From \"Vishwanath & Sons\")",
-      "url": "https://open.spotify.com/track/6KroI9N5liA2gBaWK7n3Gq"
-    },
-    {
-      "added_at": "2026-09-02 03:52:40",
-      "album": {
-        "name": "Yaalalo Yaalalo (From \"Irumudi\")",
-        "url": "https://open.spotify.com/album/4mfH51Wz82x07QupDT7fMc"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "Sadhika K R",
-          "url": "https://open.spotify.com/artist/2ES35LM2c97AhayaTYvZ6P"
-        },
-        {
-          "name": "Anantha Sreeram",
-          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
-        }
-      ],
-      "duration_ms": 253061,
-      "name": "Yaalalo Yaalalo (From \"Irumudi\")",
-      "url": "https://open.spotify.com/track/3K5FEYNTqOSTEiX6oTNOqc"
-    },
-    {
-      "added_at": "2026-08-05 10:40:35",
-      "album": {
-        "name": "Dookudu",
-        "url": "https://open.spotify.com/album/1SGndg8kpngYITpsJzacri"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Rahul Nambiar",
-          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
-        }
-      ],
-      "duration_ms": 262246,
-      "name": "Guruvaram",
-      "url": "https://open.spotify.com/track/5VkOYTc7uRLjLiAOKj497a"
+      "duration_ms": 328023,
+      "name": "Endhayya Saami (From \"Ranabaali\")",
+      "url": "https://open.spotify.com/track/0HG0q1rtcVe1kXlreHz9Kf"
     },
     {
       "added_at": "2026-09-23 09:30:39",
@@ -131,6 +87,94 @@
       "duration_ms": 230976,
       "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
       "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
+    },
+    {
+      "added_at": "2026-07-01 07:43:32",
+      "album": {
+        "name": "Neno Butterfly (From \"Vishwanath & Sons\")",
+        "url": "https://open.spotify.com/album/3oNBq6rB3OahG8xxdarEXE"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Neno Butterfly (From \"Vishwanath & Sons\")",
+      "url": "https://open.spotify.com/track/6KroI9N5liA2gBaWK7n3Gq"
+    },
+    {
+      "added_at": "2026-09-29 10:10:35",
+      "album": {
+        "name": "Manemma (From \"Irumudi\")",
+        "url": "https://open.spotify.com/album/2H4VnqXZtNxAR5j6yGgzlX"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 236033,
+      "name": "Manemma (From \"Irumudi\")",
+      "url": "https://open.spotify.com/track/0Pj5Xl9ja7KAs26vBMGTUc"
+    },
+    {
+      "added_at": "2026-09-29 10:10:35",
+      "album": {
+        "name": "The Paradise (Telugu)",
+        "url": "https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 103668,
+      "name": "Sammakka",
+      "url": "https://open.spotify.com/track/0pK4CzGihaILc3kzVfqChx"
+    },
+    {
+      "added_at": "2026-08-05 10:40:35",
+      "album": {
+        "name": "Dookudu",
+        "url": "https://open.spotify.com/album/1SGndg8kpngYITpsJzacri"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Rahul Nambiar",
+          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        }
+      ],
+      "duration_ms": 262246,
+      "name": "Guruvaram",
+      "url": "https://open.spotify.com/track/5VkOYTc7uRLjLiAOKj497a"
     },
     {
       "added_at": "2025-11-11 06:12:33",
@@ -175,26 +219,6 @@
       "duration_ms": 208000,
       "name": "Singari - From \"Dude (Telugu)\"",
       "url": "https://open.spotify.com/track/0HsDFeWMvnM9rEyvB23RYF"
-    },
-    {
-      "added_at": "2026-09-22 11:32:42",
-      "album": {
-        "name": "Cake U - Walk U (From \"Don\u2019T Trouble The Trouble (Tamil)\")",
-        "url": "https://open.spotify.com/album/41Ykt03Z4Cm2qXCvquAZzo"
-      },
-      "artists": [
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        },
-        {
-          "name": "Vaasi",
-          "url": "https://open.spotify.com/artist/5vlliAPuYaEl9AC4AzO8eJ"
-        }
-      ],
-      "duration_ms": 169367,
-      "name": "Cake U - Walk U (From \"Don\u2019T Trouble The Trouble (Tamil)\")",
-      "url": "https://open.spotify.com/track/1Mnas0YtrFKWEx6Db6OLzT"
     },
     {
       "added_at": "2026-02-25 10:32:25",
@@ -379,30 +403,6 @@
       "duration_ms": 249836,
       "name": "Basinga Balaalu",
       "url": "https://open.spotify.com/track/5aAm4h5bLg4hV5wQAi5MGx"
-    },
-    {
-      "added_at": "2026-09-22 11:32:42",
-      "album": {
-        "name": "Srilatha (From \"Idupu Kayitham\")",
-        "url": "https://open.spotify.com/album/6xnXMrlhtnrHR8pY5hw1hT"
-      },
-      "artists": [
-        {
-          "name": "Suresh Bobbili",
-          "url": "https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ"
-        },
-        {
-          "name": "Shankarr Babu Kandukoori",
-          "url": "https://open.spotify.com/artist/3R0xS0BSkHcPybg9cqWUhB"
-        },
-        {
-          "name": "Mohana Bhogaraju",
-          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
-        }
-      ],
-      "duration_ms": 242765,
-      "name": "Srilatha (From \"Idupu Kayitham\")",
-      "url": "https://open.spotify.com/track/5sbq5ARh8V37zGVmbTRwAo"
     },
     {
       "added_at": "2026-08-19 09:13:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,841,798 likes - 140 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,842,394 likes - 140 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 83 | [Hot Rod Hearts \- Remastered](https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:41 |
 | 84 | [Follow My Heart](https://open.spotify.com/track/55Os4TtuYgcPv4hsZFnazO) | [Faragher Brothers](https://open.spotify.com/artist/4zUTx3tB4IQyx7CorqZBHK) | [Family Ties](https://open.spotify.com/album/4KoLUDhdrouHCdIJvtR1un) | 4:18 |
 | 85 | [Casablanca](https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo) | [Dane Donohue](https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A) | [Dane Donohue](https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx) | 4:03 |
-| 86 | [Fool In Love With You](https://open.spotify.com/track/6nvZ6LcEwas87GMp9pSPJ7) | [Jim Photoglo](https://open.spotify.com/artist/4ZeqFaMDjGUe1IHJznXUbr) | [カフェ・ドライブ・スタンダード 2・・・AOR・ドライブ・ミュージック決定盤](https://open.spotify.com/album/5CbHlv3t41FPcvuez6I3jW) | 3:46 |
+| 86 | [Fool In Love With You](https://open.spotify.com/track/6nvZ6LcEwas87GMp9pSPJ7) | [Jim Photoglo](https://open.spotify.com/artist/2MtaGjp33oMpAQ702qK4Rj) | [カフェ・ドライブ・スタンダード 2・・・AOR・ドライブ・ミュージック決定盤](https://open.spotify.com/album/5CbHlv3t41FPcvuez6I3jW) | 3:46 |
 | 87 | [Got to Be Lovin' You](https://open.spotify.com/track/5JIobM5qcmVROZLIAJz4gD) | [Erik Tagg](https://open.spotify.com/artist/5zcCnWi56qN3EgcQZUg2gR) | [Rendez\-Vous](https://open.spotify.com/album/7hoTV10wiY6EFY9885V0p2) | 3:28 |
 | 88 | [I Don't Wanna Go](https://open.spotify.com/track/0KMFURs7dRsqoAY2uL4ddl) | [Bruce Roberts](https://open.spotify.com/artist/1liZxHhIHGMKRPV0Fdy4a5) | [Bruce Roberts](https://open.spotify.com/album/5fNsfvz2nUiRxAWyR8rUeZ) | 4:07 |
 | 89 | [Living Without Your Love](https://open.spotify.com/track/19JyDDO6hZmEjdagNDA2Km) | [The Imperials](https://open.spotify.com/artist/0VEYLlS75s0mdIznsxmwqf) | [One More Song for You](https://open.spotify.com/album/06cB2QYDAQBVfM2uhmXeNC) | 3:28 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 139 | [Do You Believe In Love](https://open.spotify.com/track/7uDvuLWCGRw58zfFH1sRDO) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Paul Davis \(1980\)](https://open.spotify.com/album/3A83m6wd2kfgUMPm8bEYk4) | 3:45 |
 | 140 | [If and Any Day](https://open.spotify.com/track/2yI1HdFEHDFrkpbeII3heB) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [The Longest Road](https://open.spotify.com/album/2rpmUmJdN3qLvme8kD7geb) | 4:01 |
 
-Snapshot ID: `AAAAAIYPgz8l6IOdTZCmCquXxXhrEDZn`
+Snapshot ID: `AAAAAKmvqDtKQlHmI5REhMo+criI+Gi3`

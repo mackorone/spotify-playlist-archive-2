@@ -1,12 +1,12 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Kings Elliot",
-  "num_followers": 37578,
+  "num_followers": 37580,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFi428+llptCOrrpCJkWibL3cPen",
+  "snapshot_id": "AAAAAIYS/7CHkrupjp+meVnsAXfK+/ry",
   "tracks": [
     {
       "added_at": "2026-09-25 09:35:10",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
-        "name": "Partir pour de vrai",
-        "url": "https://open.spotify.com/album/1J9373rRjiv8lrQSXJAXuq"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Partir pour de vrai",
-      "url": "https://open.spotify.com/track/3DZvq5aQjEgEYFd73kyyt1"
-    },
-    {
-      "added_at": "2026-09-25 09:35:10",
-      "album": {
         "name": "Hear Me",
         "url": "https://open.spotify.com/album/4H4yvoBW8CEkKUZUXtmXZL"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 206102,
       "name": "Hear Me",
       "url": "https://open.spotify.com/track/5HqTsHkvjPtRSzv1i0CJ51"
+    },
+    {
+      "added_at": "2026-09-25 09:35:10",
+      "album": {
+        "name": "Partir pour de vrai",
+        "url": "https://open.spotify.com/album/1J9373rRjiv8lrQSXJAXuq"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Partir pour de vrai",
+      "url": "https://open.spotify.com/track/3DZvq5aQjEgEYFd73kyyt1"
     },
     {
       "added_at": "2026-09-25 09:35:10",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/1hD8Oos4kYbYDfgp4Fsdg4"
+      },
+      "artists": [
+        {
+          "name": "Shuttle",
+          "url": "https://open.spotify.com/artist/5QtW5ZhAsPzCUqZYldTWCh"
+        }
+      ],
+      "duration_ms": 138250,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4jw6Bqc9MrUnHVrv25Ggom"
+    },
+    {
+      "added_at": "2026-09-25 09:35:10",
+      "album": {
         "name": "The One That Got Away",
         "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 210000,
       "name": "BORN BLUE (THE SONG)",
       "url": "https://open.spotify.com/track/4UWtyESSkgFuLL7JU6YsdX"
-    },
-    {
-      "added_at": "2026-09-25 09:35:10",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/1hD8Oos4kYbYDfgp4Fsdg4"
-      },
-      "artists": [
-        {
-          "name": "Shuttle",
-          "url": "https://open.spotify.com/artist/5QtW5ZhAsPzCUqZYldTWCh"
-        }
-      ],
-      "duration_ms": 138250,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4jw6Bqc9MrUnHVrv25Ggom"
     },
     {
       "added_at": "2026-09-25 09:35:10",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
-        "name": "Softly Speaking",
-        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 226334,
-      "name": "Softly Speaking",
-      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
-    },
-    {
-      "added_at": "2026-09-25 09:35:10",
-      "album": {
         "name": "Fire To The Sky",
         "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 165206,
       "name": "Fire To The Sky",
       "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
+    },
+    {
+      "added_at": "2026-09-25 09:35:10",
+      "album": {
+        "name": "Softly Speaking",
+        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 226334,
+      "name": "Softly Speaking",
+      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
     },
     {
       "added_at": "2026-09-25 09:35:10",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
-        "name": "fire",
-        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 135866,
-      "name": "fire",
-      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
-    },
-    {
-      "added_at": "2026-09-25 09:35:10",
-      "album": {
         "name": "Hot Girl Summer",
         "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 162781,
       "name": "Hot Girl Summer",
       "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
+    },
+    {
+      "added_at": "2026-09-25 09:35:10",
+      "album": {
+        "name": "fire",
+        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 135866,
+      "name": "fire",
+      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
     },
     {
       "added_at": "2026-09-25 09:35:10",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
-      },
-      "artists": [
-        {
-          "name": "Anna Rossinelli",
-          "url": "https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X"
-        }
-      ],
-      "duration_ms": 163917,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
-    },
-    {
-      "added_at": "2026-09-25 09:35:10",
-      "album": {
         "name": "Starcrossed",
         "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 183157,
       "name": "Starcrossed",
       "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
+    },
+    {
+      "added_at": "2026-09-25 09:35:10",
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
+      },
+      "artists": [
+        {
+          "name": "Anna Rossinelli",
+          "url": "https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X"
+        }
+      ],
+      "duration_ms": 163917,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
     },
     {
       "added_at": "2026-09-25 09:35:10",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
+        "name": "Dancing Alone Again",
+        "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Dancing Alone Again",
+      "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
+    },
+    {
+      "added_at": "2026-09-25 09:35:10",
+      "album": {
         "name": "Too Tired",
         "url": "https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 231520,
       "name": "Too Tired",
       "url": "https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK"
-    },
-    {
-      "added_at": "2026-09-25 09:35:10",
-      "album": {
-        "name": "Blindsided",
-        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 165062,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
     },
     {
       "added_at": "2026-09-25 09:35:10",
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
-        "name": "Dancing Alone Again",
-        "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
+        "name": "Blindsided",
+        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
       },
       "artists": [
         {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
         }
       ],
-      "duration_ms": 191432,
-      "name": "Dancing Alone Again",
-      "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
+      "duration_ms": 165062,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
     },
     {
       "added_at": "2026-09-25 09:35:10",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
-        "name": "Change You",
-        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
-      },
-      "artists": [
-        {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
-        }
-      ],
-      "duration_ms": 266105,
-      "name": "Change You",
-      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
-    },
-    {
-      "added_at": "2026-09-25 09:35:10",
-      "album": {
         "name": "There For You",
         "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 205755,
       "name": "There For You",
       "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
+    },
+    {
+      "added_at": "2026-09-25 09:35:10",
+      "album": {
+        "name": "Change You",
+        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
+      },
+      "artists": [
+        {
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+        }
+      ],
+      "duration_ms": 266105,
+      "name": "Change You",
+      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     },
     {
       "added_at": "2026-09-25 09:35:10",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
-        "name": "HOMECOMING",
-        "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 141190,
-      "name": "HOMECOMING",
-      "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
-    },
-    {
-      "added_at": "2026-09-25 09:35:10",
-      "album": {
         "name": "Libertad",
         "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
       },
@@ -1019,6 +1003,38 @@
       "duration_ms": 201875,
       "name": "Just Like I Love You",
       "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"
+    },
+    {
+      "added_at": "2026-09-25 09:35:10",
+      "album": {
+        "name": "HOMECOMING",
+        "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 141190,
+      "name": "HOMECOMING",
+      "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
+    },
+    {
+      "added_at": "2026-09-25 09:35:10",
+      "album": {
+        "name": "The World (AR)",
+        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 227651,
+      "name": "The World (AR)",
+      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
     },
     {
       "added_at": "2026-09-25 09:35:10",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
-        "name": "The World (AR)",
-        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 227651,
-      "name": "The World (AR)",
-      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
-    },
-    {
-      "added_at": "2026-09-25 09:35:10",
-      "album": {
         "name": "How Much Can a Heart Break",
         "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
-        "name": "Down To My Bones",
-        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Down To My Bones",
-      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
-    },
-    {
-      "added_at": "2026-09-25 09:35:10",
-      "album": {
         "name": "Moved On",
         "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 188337,
       "name": "Moved On",
       "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
+    },
+    {
+      "added_at": "2026-09-25 09:35:10",
+      "album": {
+        "name": "Down To My Bones",
+        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Down To My Bones",
+      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
     },
     {
       "added_at": "2026-09-25 09:35:10",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/01QDUNNyYF3RftaKnAZZJB"
-      },
-      "artists": [
-        {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/5JjJy8gZrF1rnzyvgM1Lzk"
-    },
-    {
-      "added_at": "2026-09-25 09:35:10",
-      "album": {
         "name": "Old Again",
         "url": "https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2026-09-25 09:35:10",
       "album": {
-        "name": "Will You Take Me As I Am?",
-        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/01QDUNNyYF3RftaKnAZZJB"
       },
       "artists": [
         {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
         }
       ],
-      "duration_ms": 199983,
-      "name": "Take me as i am",
-      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
+      "duration_ms": 190000,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/5JjJy8gZrF1rnzyvgM1Lzk"
     },
     {
       "added_at": "2026-09-25 09:35:10",
@@ -1607,6 +1591,22 @@
       "duration_ms": 156899,
       "name": "Dorm",
       "url": "https://open.spotify.com/track/3o2msMcYmPBYSjCmESw5NL"
+    },
+    {
+      "added_at": "2026-09-25 09:35:10",
+      "album": {
+        "name": "Will You Take Me As I Am?",
+        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 199983,
+      "name": "Take me as i am",
+      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
     },
     {
       "added_at": "2026-09-25 09:35:10",

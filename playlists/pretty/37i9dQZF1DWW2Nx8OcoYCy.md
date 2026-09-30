@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 70 | [Amor Doente](https://open.spotify.com/track/2XIEXEZ4xL73lHWK1QOlwp) | [Curió Curió](https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a) | [Curió Curió](https://open.spotify.com/album/6h6tgc1Z4RGqMYeV4O7KT1) | 3:20 |
 | 71 | [At The Fairground](https://open.spotify.com/track/4Oi5fIqyeoESH75NrForcP) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Nahokimama](https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3) | [Carefree](https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX) | 2:21 |
 
-Snapshot ID: `AAAAABxZ9NMBaua+BXMv5QQ6Ej6ljtqR`
+Snapshot ID: `AAAAABCyaMQjirPzXLyCdLAAwtNgFELK`

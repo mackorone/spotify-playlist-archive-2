@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2016 \(feat\. Cleotrapa\)](https://open.spotify.com/track/5aAn07UCzajGygnKbVLYtZ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 3:20 | 2026-07-06 |  |
+| [2016 \(feat\. Cleotrapa\)](https://open.spotify.com/track/5aAn07UCzajGygnKbVLYtZ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 3:20 | 2026-07-06 | 2026-09-30 |
 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 | 2026-06-16 |  |
 | [All My Girls](https://open.spotify.com/track/4eMJvvkRQuxLIuuO9m2kY8) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [All My Girls](https://open.spotify.com/album/0zuCHsOytrFSapisjsSwlB) | 2:11 | 2026-06-16 | 2026-09-28 |
 | [All My Girls](https://open.spotify.com/track/6kNmSSRM2fRII7zjFGjzyB) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [God Forbid I Have Fun.](https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG) | 2:11 | 2026-09-28 |  |
@@ -45,7 +45,7 @@
 | [Money Talk](https://open.spotify.com/track/09OAr6V0fktrtjn33mZJFx) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [God Forbid I Have Fun.](https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG) | 2:42 | 2026-09-08 | 2026-09-28 |
 | [Money Talk](https://open.spotify.com/track/25qQATlLMHVqewlA3kYFBu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Money Talk](https://open.spotify.com/album/6QfToP6Te9fSg6TDGS7EUE) | 2:42 | 2026-06-16 | 2026-09-08 |
 | [Ms\. Do You Wrong](https://open.spotify.com/track/3kuby3Wz1hjeSgCFVB4Xn1) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Ms\. Do You Wrong](https://open.spotify.com/album/3dheKefbYeaYT97B6bxEzW) | 1:53 | 2026-06-16 | 2026-07-19 |
-| [nana](https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:29 | 2026-06-16 | 2026-09-28 |
+| [nana](https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:29 | 2026-06-16 |  |
 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 | 2026-06-16 |  |
 | [Only U](https://open.spotify.com/track/4fPgmVdh15aFaXYIooKhEC) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Only U](https://open.spotify.com/album/6SkduEgDd7r90vAmHrefgN) | 2:52 | 2026-06-16 | 2026-07-19 |
 | [OUT LATE.](https://open.spotify.com/track/7tIkEd5g0uw5AaFkPbdqJE) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [OUT LATE.](https://open.spotify.com/album/06NpXQuTDji61kozOOUVfc) | 2:09 | 2026-06-16 |  |

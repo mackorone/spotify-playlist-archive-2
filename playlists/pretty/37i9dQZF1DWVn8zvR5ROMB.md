@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Kenny Chesney, Jordan Davis, Max McNown and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,659 likes - 87 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,720 likes - 87 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 86 | [Ain't Right, Right Now](https://open.spotify.com/track/2tuK2K3ndmBAComO9xopcC) | [Kesha Nevé](https://open.spotify.com/artist/7upKZp44FVnF197yJZSbNO) | [Ain't Right, Right Now](https://open.spotify.com/album/18Gc0CMi0VmzTTVVvglnhw) | 3:20 |
 | 87 | [Wild Wild Woman](https://open.spotify.com/track/4JabZ47TNNJKCTI3lXsuOt) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [Wild Wild Woman](https://open.spotify.com/album/52LvLBk8Ll7PU7CqrxnWL1) | 2:52 |
 
-Snapshot ID: `AAAAAFfOAoPB+APT1qSplS/mTURdanmL`
+Snapshot ID: `AAAAAEunyFUfNKFmcALw3QyicvI+00wD`

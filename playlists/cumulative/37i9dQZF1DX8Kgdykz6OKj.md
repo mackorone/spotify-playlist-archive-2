@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-563 songs - 1 day 7 hr 0 min
+564 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Blue Skies](https://open.spotify.com/track/09udibRKZh5eQWyb90JHy8) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Blue Skies](https://open.spotify.com/album/6eCXenxHKuxdl6Q9XuGSuy) | 2:37 | 2021-12-16 | 2022-07-29 |
 | [Blue Skies](https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [The Rain](https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9) | 2:37 | 2022-10-13 | 2024-04-19 |
 | [Blue Skies](https://open.spotify.com/track/4sw0pibcfTp63iRctT7Fnk) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [The Rain](https://open.spotify.com/album/6BtyNPQCLIJAsKVw5mojjn) | 2:37 | 2022-07-28 | 2022-11-20 |
-| [Blueberry](https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Quiet Miles](https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ) | 2:33 | 2026-01-16 |  |
+| [Blueberry](https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Quiet Miles](https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ) | 2:33 | 2026-01-16 | 2026-09-30 |
 | [Boiler Room \(feat\. Benny The Butcher\)](https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Peerless](https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T) | 2:41 | 2024-07-05 | 2025-10-25 |
 | [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 | 2024-08-23 | 2024-09-21 |
 | [Bowl of Ramen](https://open.spotify.com/track/7ihA0OZAAftQpOGTnFnN4s) | [J\-Tek](https://open.spotify.com/artist/1lSGNvxefF3baOOG9mQtUj), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Bowl of Ramen](https://open.spotify.com/album/6tQAWwBl1bZe9A4T0TmJv0) | 2:48 | 2021-12-16 | 2022-12-28 |
@@ -344,6 +344,7 @@
 | [Minneapolis](https://open.spotify.com/track/5P9t8UuNOTbEC7PqKPAckz) | [JuJu Rogers](https://open.spotify.com/artist/2PC54ZJmhrs4XtbLRaE6MA), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Minneapolis](https://open.spotify.com/album/7AcKzD0NIQAPrhpSlwA0g9) | 3:09 | 2022-01-13 | 2022-12-17 |
 | [Mishi](https://open.spotify.com/track/1eKQNBeJJKLdEhrieQiX20) | [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Lautaro Quipildor](https://open.spotify.com/artist/39RsGODePi7DUWbCMpExqR) | [Mishi](https://open.spotify.com/album/4v9UNRmJKvZ2clhLrNrshD) | 3:19 | 2026-04-10 | 2026-07-19 |
 | [Misty](https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:38 | 2023-04-13 | 2025-10-13 |
+| [More Colour Money](https://open.spotify.com/track/3qKdA6xmnt3mW5yMHgseq9) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Boulangerie Deux](https://open.spotify.com/album/5CZtgilZ3n33w3UYcZb8IZ) | 2:31 | 2026-09-25 |  |
 | [More Than a Lova](https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK), [UZA](https://open.spotify.com/artist/1ZG7ySNOhIWEUoZUi3kjOs), [Santana Fox](https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga) | [Perdu in Peru](https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6) | 2:58 | 2024-05-31 | 2025-08-30 |
 | [Morning](https://open.spotify.com/track/4UMJifChyu1MR2xMrNaA1R) | [Mensing](https://open.spotify.com/artist/6ZDONpXSFquORDgdY6exLo), [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Derrin](https://open.spotify.com/artist/1rjBqluN6xMBJaWJ7er3Xb) | [Morning](https://open.spotify.com/album/4F5uG6jLLlsQbxY6rn39Ha) | 3:20 | 2022-01-20 | 2022-07-14 |
 | [Morning Walk](https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY) | [AzMattic](https://open.spotify.com/artist/7rhDsO4kzCqco9ySbFdKDY), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Morning Walk](https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG) | 3:13 | 2021-12-16 | 2024-12-18 |

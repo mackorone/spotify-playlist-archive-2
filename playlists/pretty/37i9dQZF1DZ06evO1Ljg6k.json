@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 78961,
+  "num_followers": 78968,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arhcgAAAAABDP3i+sdf/kb7stSOORAoM",
+  "snapshot_id": "armuAAAAAACNIWTvpFL8pQtFyHBV0i5b",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DILLAGENCE II",
-        "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
       },
       "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 261426,
-      "name": "This Woman (feat. D'Angelo)",
-      "url": "https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV"
+      "duration_ms": 233197,
+      "name": "Unshaken",
+      "url": "https://open.spotify.com/track/3okk47CKOqAm1TXmVPzNYf"
     },
     {
       "added_at": null,
@@ -183,18 +175,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+        "name": "DILLAGENCE II",
+        "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
       },
       "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 233197,
-      "name": "Unshaken",
-      "url": "https://open.spotify.com/track/3okk47CKOqAm1TXmVPzNYf"
+      "duration_ms": 261426,
+      "name": "This Woman (feat. D'Angelo)",
+      "url": "https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring adult dvd
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,898 likes - 81 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,864 likes - 81 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 80 | [I Saw The Devil](https://open.spotify.com/track/2LFOaL2nDXl2FZEN8w50Av) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [I Saw The Devil](https://open.spotify.com/album/3MLgpNJyotWNvXZ5zBs207) | 3:39 |
 | 81 | [swim](https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [swim](https://open.spotify.com/album/4h4L56LbVAXREBss215iRB) | 6:11 |
 
-Snapshot ID: `AAAAAKiEJSheQ+uTj7OpSnSOb2ZrgGuU`
+Snapshot ID: `AAAAABDIWh0xmr+Fh9gU0lE+Psoi9/Mk`

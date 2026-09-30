@@ -32751,6 +32751,36 @@
     },
     {
       "album": {
+        "name": "Titanium",
+        "url": "https://open.spotify.com/album/06dB6sil5q5vmRXZvGElWI"
+      },
+      "artists": [
+        {
+          "name": "Make it Maks",
+          "url": "https://open.spotify.com/artist/17gc6KMOFtD4BD2wqYzVLV"
+        },
+        {
+          "name": "LA MAREA",
+          "url": "https://open.spotify.com/artist/3OKt2FayvELrwCry74ZPAr"
+        },
+        {
+          "name": "AM3ER NOVA",
+          "url": "https://open.spotify.com/artist/1zFqg5XrWrW7FZ9USd2eRv"
+        },
+        {
+          "name": "Afro Queen",
+          "url": "https://open.spotify.com/artist/0iQaClnw8ysyL24QKIeFuT"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/50sKYx0eEe7jLH89EyVk0m"
+    },
+    {
+      "album": {
         "name": "To Be",
         "url": "https://open.spotify.com/album/6xB3oCL80wPm3CrgfGDetk"
       },

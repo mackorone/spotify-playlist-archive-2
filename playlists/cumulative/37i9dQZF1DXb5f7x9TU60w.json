@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "My Own Drum (From \"Camp Rock 3\")",
+        "url": "https://open.spotify.com/album/1o10daOaf70vpTVitEf1gc"
+      },
+      "artists": [
+        {
+          "name": "IIya Toshinskiy",
+          "url": "https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223086,
+      "name": "My Own Drum (Guitar Version)",
+      "url": "https://open.spotify.com/track/4gkA94d9ybeQvFYco7IqJ9"
+    },
+    {
+      "album": {
         "name": "Disney Guitar: A Day at the Parks",
         "url": "https://open.spotify.com/album/5t3F8TDpF1IacaFLhYvjQP"
       },

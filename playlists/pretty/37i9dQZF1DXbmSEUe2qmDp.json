@@ -1,12 +1,12 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo",
-  "num_followers": 482867,
+  "num_followers": 482871,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEiEkVOrkf6e+btgEU8u28v/XXef",
+  "snapshot_id": "AAAAAHWOE1SpqhHQV6Ou85ecbPLhfeT2",
   "tracks": [
     {
       "added_at": "2026-09-04 03:00:51",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
-        "name": "Lugar Que Interessa",
-        "url": "https://open.spotify.com/album/3wzn8k6wsC6FzqDy03CYKB"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3crates e Matheus",
-          "url": "https://open.spotify.com/artist/457x1clamoAk5eyiAwmd90"
-        },
-        {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
-        }
-      ],
-      "duration_ms": 164337,
-      "name": "Lugar Que Interessa",
-      "url": "https://open.spotify.com/track/7A9CAVUuNBsD0I5JaFX4hQ"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
         "name": "Resenha dos Gordinhos, Ep. 3",
         "url": "https://open.spotify.com/album/6K7hsNuNL6D9k3HCZZsuph"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 174339,
       "name": "Cumprindo Agenda",
       "url": "https://open.spotify.com/track/7nyaCSoLzDz6VDr3nKjxc7"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
+        "name": "Lugar Que Interessa",
+        "url": "https://open.spotify.com/album/3wzn8k6wsC6FzqDy03CYKB"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3crates e Matheus",
+          "url": "https://open.spotify.com/artist/457x1clamoAk5eyiAwmd90"
+        },
+        {
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+        }
+      ],
+      "duration_ms": 164337,
+      "name": "Lugar Que Interessa",
+      "url": "https://open.spotify.com/track/7A9CAVUuNBsD0I5JaFX4hQ"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
+        "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1UQiTjTiE8pUWjyYtophZJ"
+      },
+      "artists": [
+        {
+          "name": "Matheus e Turelli",
+          "url": "https://open.spotify.com/artist/5MPzeoZaH4CcqyHnGrTgjd"
+        }
+      ],
+      "duration_ms": 164746,
+      "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/78FtKsMjLYpliAWk6uoSGl"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
         "name": "Conte\u00fado Abusivo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2U3WV15ARM57gJBQCYL4oG"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 165481,
       "name": "Conte\u00fado Abusivo - Ao Vivo",
       "url": "https://open.spotify.com/track/64WaTsz7QqYEXPYv0uidA7"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
-        "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1UQiTjTiE8pUWjyYtophZJ"
-      },
-      "artists": [
-        {
-          "name": "Matheus e Turelli",
-          "url": "https://open.spotify.com/artist/5MPzeoZaH4CcqyHnGrTgjd"
-        }
-      ],
-      "duration_ms": 164746,
-      "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/78FtKsMjLYpliAWk6uoSGl"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -803,26 +803,22 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
-        "name": "Esse Cara N\u00e3o \u00e9 Eu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2r5lTPjgH7yw92hNIUWZXs"
+        "name": "Filha da Rua",
+        "url": "https://open.spotify.com/album/7H5tgRMNbMs7aZrLsjjDvp"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Lucas e Ricardo",
-          "url": "https://open.spotify.com/artist/1bZGiIIAMysBfICdZZy1CX"
+          "name": "Vitor Maia",
+          "url": "https://open.spotify.com/artist/0g9fMDNPhefLqy4gx0aWUp"
         },
         {
-          "name": "Max e Luan",
-          "url": "https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+          "name": "J\u00falia & Rafaela",
+          "url": "https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02"
         }
       ],
-      "duration_ms": 149848,
-      "name": "Esse Cara N\u00e3o \u00e9 Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZdnEJvySXljXFxnQUuK8S"
+      "duration_ms": 173573,
+      "name": "Filha da Rua",
+      "url": "https://open.spotify.com/track/33CpIbt4JVH17uddrp1WmH"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -847,6 +843,30 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
+        "name": "Esse Cara N\u00e3o \u00e9 Eu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2r5lTPjgH7yw92hNIUWZXs"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Lucas e Ricardo",
+          "url": "https://open.spotify.com/artist/1bZGiIIAMysBfICdZZy1CX"
+        },
+        {
+          "name": "Max e Luan",
+          "url": "https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "duration_ms": 149848,
+      "name": "Esse Cara N\u00e3o \u00e9 Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZdnEJvySXljXFxnQUuK8S"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
         "name": "Tomara Que Caia",
         "url": "https://open.spotify.com/album/2S46cBo0ffDBVK1WvJscGO"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 150566,
       "name": "Tomara Que Caia",
       "url": "https://open.spotify.com/track/207DR1MYkDfA57rMslLwru"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
-        "name": "Filha da Rua",
-        "url": "https://open.spotify.com/album/7H5tgRMNbMs7aZrLsjjDvp"
-      },
-      "artists": [
-        {
-          "name": "Vitor Maia",
-          "url": "https://open.spotify.com/artist/0g9fMDNPhefLqy4gx0aWUp"
-        },
-        {
-          "name": "J\u00falia & Rafaela",
-          "url": "https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02"
-        }
-      ],
-      "duration_ms": 173573,
-      "name": "Filha da Rua",
-      "url": "https://open.spotify.com/track/33CpIbt4JVH17uddrp1WmH"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
-        "name": "Primeira L\u00e1grima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1zGNZUtaIZmHUYvuLQjXFk"
-      },
-      "artists": [
-        {
-          "name": "Arielly Dara",
-          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "Primeira L\u00e1grima - Ao Vivo",
-      "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
         "name": "Meu Astral",
         "url": "https://open.spotify.com/album/2j9q1BZPQELmyK4DCAaF3W"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 151645,
       "name": "Repert\u00f3rio de Desculpas - Ao Vivo",
       "url": "https://open.spotify.com/track/4A4XvbxF6xmqp2J8MYsh79"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
+        "name": "Primeira L\u00e1grima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1zGNZUtaIZmHUYvuLQjXFk"
+      },
+      "artists": [
+        {
+          "name": "Arielly Dara",
+          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
+        }
+      ],
+      "duration_ms": 163448,
+      "name": "Primeira L\u00e1grima - Ao Vivo",
+      "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
-        "name": "Um Novo Horizonte, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1d0b7XYovD1YiOeRxYpi8q"
-      },
-      "artists": [
-        {
-          "name": "Bia Bosco",
-          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
-        }
-      ],
-      "duration_ms": 196994,
-      "name": "Casquinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
         "name": "Ao Vivo em Campo Grande, EP. 1",
         "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 145900,
       "name": "Vivendo Errado - Ao Vivo",
       "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
+        "name": "Um Novo Horizonte, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1d0b7XYovD1YiOeRxYpi8q"
+      },
+      "artists": [
+        {
+          "name": "Bia Bosco",
+          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
+        }
+      ],
+      "duration_ms": 196994,
+      "name": "Casquinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
-        "name": "Baila Que Baila (Ao Vivo)",
-        "url": "https://open.spotify.com/album/43e22aPTIdUwT9dwj2YDLP"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mulato e Leandro",
-          "url": "https://open.spotify.com/artist/6XdovN8SP0rflhboapBCWn"
-        },
-        {
-          "name": "William & Bidiko",
-          "url": "https://open.spotify.com/artist/12kiggyMtZvgZjQuhmp6Xy"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "Baila Que Baila - Ao Vivo",
-      "url": "https://open.spotify.com/track/40B5UrgWuCIVFHr4t2NMbv"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
         "name": "Melhor Que Nada",
         "url": "https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 174517,
       "name": "Do Vinho ao Caf\u00e9",
       "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
+        "name": "Baila Que Baila (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43e22aPTIdUwT9dwj2YDLP"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mulato e Leandro",
+          "url": "https://open.spotify.com/artist/6XdovN8SP0rflhboapBCWn"
+        },
+        {
+          "name": "William & Bidiko",
+          "url": "https://open.spotify.com/artist/12kiggyMtZvgZjQuhmp6Xy"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Baila Que Baila - Ao Vivo",
+      "url": "https://open.spotify.com/track/40B5UrgWuCIVFHr4t2NMbv"
     },
     {
       "added_at": "2026-09-04 03:00:51",

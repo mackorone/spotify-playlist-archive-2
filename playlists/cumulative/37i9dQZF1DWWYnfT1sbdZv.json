@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 127234,
       "name": "-LEGNE- \u4ec7\u306a\u3059\u5263 \u5149\u306e\u65cb\u5f8b - GAME VERSION",
       "url": "https://open.spotify.com/track/5NIjMgsJ9L9OmONRRDSM4g"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 127246,
       "name": "14\u5e73\u7c73\u306b\u30b9\u30fc\u30d9\u30cb\u30a2 - GAME VERSION",
       "url": "https://open.spotify.com/track/27FT7XoVbwI1me2Ob8UOhF"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 122355,
       "name": "Enishi - GAME VERSION",
       "url": "https://open.spotify.com/track/1dmaUadIiyLWQK6BdlfEF0"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 113432,
       "name": "Fin[e]\u301c\u7f8e\u3057\u304d\u7d42\u7109\u301c - GAME VERSION",
       "url": "https://open.spotify.com/track/20COLUYAzDDdY7BOAX2ry5"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 120932,
       "name": "Memories - GAME VERSION",
       "url": "https://open.spotify.com/track/3DjwFCP0z4OadbAbfGh3Bh"
@@ -1101,6 +1101,40 @@
     },
     {
       "album": {
+        "name": "Neon Sphere",
+        "url": "https://open.spotify.com/album/5UvV1BVsStl5fz1n14OtNj"
+      },
+      "artists": [
+        {
+          "name": "\u4e00\u30ce\u702c\u5fd7\u5e0c (CV: \u85cd\u539f\u3053\u3068\u307f)",
+          "url": "https://open.spotify.com/artist/0sOgeERzXpjSo6C9XVdXAW"
+        },
+        {
+          "name": "\u5bae\u672c\u30d5\u30ec\u30c7\u30ea\u30ab (CV: \u9ad9\u91ce\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/5BQ1Zi42wDM5xHySTMaEtK"
+        },
+        {
+          "name": "\u5869\u898b\u5468\u5b50 (CV: \u30eb\u30a5\u30c6\u30a3\u30f3)",
+          "url": "https://open.spotify.com/artist/4ZS0gYvIaAggAQJaLfecMp"
+        },
+        {
+          "name": "\u901f\u6c34\u594f (CV: \u98ef\u7530\u53cb\u5b50)",
+          "url": "https://open.spotify.com/artist/6XEQlTi52pVJTPXekbdAiq"
+        },
+        {
+          "name": "\u57ce\u30f6\u5d0e\u7f8e\u5609 (CV: \u4f73\u6751\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/58B9VjzwsrMdm3fVM3oHNs"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340146,
+      "name": "Neon Sphere",
+      "url": "https://open.spotify.com/track/6bHcUcUZSAjz6sz1vudr1N"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 00 ST@RTER BEST",
         "url": "https://open.spotify.com/album/36GVSCiTkbzjWycetm9GNb"
       },
@@ -1190,7 +1224,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 134253,
       "name": "Night Time Wander - GAME VERSION",
       "url": "https://open.spotify.com/track/2kdF6fD6Niagp1wVFMVeK7"
@@ -2128,7 +2162,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 128899,
       "name": "WINTER and WINDOW - GAME VERSION",
       "url": "https://open.spotify.com/track/6ZGyxtZTd9ZRswNu12NxSD"
@@ -2248,7 +2282,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 212480,
       "name": "\u3042\u3093\u305a\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/6bYqNYTMxXM2dcU0h4ZJxA"
@@ -2632,7 +2666,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 132373,
       "name": "\u3068\u304f\u3068\u304f\u2026\u2026 \u3068\u304f\u2026\u2026 - GAME VERSION",
       "url": "https://open.spotify.com/track/1YeflPnVzGiTLMNmvLC1bu"
@@ -2744,6 +2778,28 @@
       "duration_ms": 124319,
       "name": "\u307f\u3093\u306a\u306e\u304d\u3082\u3061 - GAME VERSION",
       "url": "https://open.spotify.com/track/0ZRK6ypBA6dCC2GNGQA5hN"
+    },
+    {
+      "album": {
+        "name": "\u3082\u3057\u3082\u300c\u30ab\u30ef\u30a4\u30a4\u300d\u304c\u4e16\u754c\u304b\u3089\u306a\u304f\u306a\u3063\u3066\u3082",
+        "url": "https://open.spotify.com/album/1DvU1YVrp1GL7JueMcLdUA"
+      },
+      "artists": [
+        {
+          "name": "\u8f3f\u6c34\u5e78\u5b50 (CV: \u7af9\u9054\u5f69\u5948)",
+          "url": "https://open.spotify.com/artist/7nqjxjYWxiSccZgM7lsXys"
+        },
+        {
+          "name": "\u4f50\u85e4\u5fc3 (CV: \u82b1\u5b88\u3086\u307f\u308a)",
+          "url": "https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232773,
+      "name": "\u3082\u3057\u3082\u300c\u30ab\u30ef\u30a4\u30a4\u300d\u304c\u4e16\u754c\u304b\u3089\u306a\u304f\u306a\u3063\u3066\u3082",
+      "url": "https://open.spotify.com/track/4Q5M3xFFTByL1ATY2hWv7m"
     },
     {
       "album": {
@@ -2904,7 +2960,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 139648,
       "name": "\u30a4\u30fc\u30ea\u30e3\u30f3\u30b5\u30f3\u30ad\u30e5\u30fc - GAME VERSION",
       "url": "https://open.spotify.com/track/6NJHBNR1V3e15vWNmkINOP"
@@ -3150,6 +3206,44 @@
       "duration_ms": 134348,
       "name": "\u30af\u30ec\u30a4\u30b8\u30fc\u30af\u30ec\u30a4\u30b8\u30fc - GAME VERSION",
       "url": "https://open.spotify.com/track/0c5VTytk1vXwQ08sZlo3xa"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER CINDERELLA MASTER NUMBER ONE! \u30af\u30ed\u30b9\u00d7\u30aa\u30fc\u30d0\u30fc!",
+        "url": "https://open.spotify.com/album/1HMxEAB982RdMUICpK5l3D"
+      },
+      "artists": [
+        {
+          "name": "\u5cf6\u6751\u536f\u6708 (CV: \u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6RQ5VjHW97K397QfPd0aXt"
+        },
+        {
+          "name": "\u6e0b\u8c37\u51db (CV: \u798f\u539f\u7dbe\u9999)",
+          "url": "https://open.spotify.com/artist/2FuEXQtrlWJrLI07EgpMey"
+        },
+        {
+          "name": "\u672c\u7530\u672a\u592e (CV: \u539f \u7d17\u53cb\u91cc)",
+          "url": "https://open.spotify.com/artist/538dyGDEo6Ns0SuFRl47w3"
+        },
+        {
+          "name": "\u8fbb\u91ce\u3042\u304b\u308a (CV: \u6885\u6fa4\u3081\u3050)",
+          "url": "https://open.spotify.com/artist/6eAr4mplycADvR8hVpC2xH"
+        },
+        {
+          "name": "\u7802\u585a\u3042\u304d\u3089 (CV: \u5bcc\u7530\u7f8e\u6182)",
+          "url": "https://open.spotify.com/artist/0JUqGER1ZyzReIk1PJqIn7"
+        },
+        {
+          "name": "\u5922\u898b\u308a\u3042\u3080 (CV: \u661f\u5e0c\u6210\u594f)",
+          "url": "https://open.spotify.com/artist/5ttibiLVXZsUju8g0uTS1N"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261079,
+      "name": "\u30af\u30ed\u30b9\u00d7\u30aa\u30fc\u30d0\u30fc!",
+      "url": "https://open.spotify.com/track/3dyL43nmRYVIdf4EURLde3"
     },
     {
       "album": {
@@ -3494,7 +3588,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 122138,
       "name": "\u30bb\u30ec\u30d6\u30ec\u30a4\u30c8\u30fb\u30b9\u30bf\u30fc\u30ec\u30a4\u30eb - GAME VERSION",
       "url": "https://open.spotify.com/track/0Oq5Jzl8qADNgkWDQGMS50"
@@ -3728,7 +3822,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 127526,
       "name": "\u30cf\u30a4\u30d5\u30a1\u30a4\u2606\u30c7\u30a4\u30ba - GAME VERSION",
       "url": "https://open.spotify.com/track/5L1gFNDOtr9ng76f4XJngo"
@@ -3990,7 +4084,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 127623,
       "name": "\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0 - GAME VERSION",
       "url": "https://open.spotify.com/track/76O0fR69vTZFt3OBMfgv1Z"
@@ -4342,7 +4436,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 127542,
       "name": "\u541b\u306e\u30b9\u30c6\u30fc\u30b8\u8863\u88c5\u3001\u672c\u5f53\u306f\u2026 - GAME VERSION",
       "url": "https://open.spotify.com/track/0ZpzYslmZgcTFNGhBLWgEx"
@@ -4670,6 +4764,28 @@
       "duration_ms": 124422,
       "name": "\u604b\u306eHamburg\u266a - GAME VERSION",
       "url": "https://open.spotify.com/track/7ftqe0jJkG6Xo5YrViJf4F"
+    },
+    {
+      "album": {
+        "name": "\u6052\u4e45\u306e\u30e6\u30cb\u30d0\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/0jwUmUbnMaYhaDqckBmSD7"
+      },
+      "artists": [
+        {
+          "name": "\u9dfa\u6ca2\u6587\u9999 (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/0HjMYfUciMQf5dXKKnaHon"
+        },
+        {
+          "name": "\u6a58\u3042\u308a\u3059 (CV: \u4f50\u85e4\u4e9c\u7f8e\u83dc)",
+          "url": "https://open.spotify.com/artist/7xl3Nw3SFITOy2BJhy3c6Y"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278533,
+      "name": "\u6052\u4e45\u306e\u30e6\u30cb\u30d0\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/7ICi8GotugOcplQJ8vW05i"
     },
     {
       "album": {
@@ -5026,7 +5142,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 316213,
       "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
       "url": "https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr"
@@ -5338,7 +5454,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 126932,
       "name": "\u9752\u6625\u306eWanna! - GAME VERSION",
       "url": "https://open.spotify.com/track/4YNc9eb211wKaCU543jYRG"

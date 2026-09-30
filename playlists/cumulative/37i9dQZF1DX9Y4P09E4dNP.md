@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: Camidoh
+> The big Hip\-Life hits rn\. Cover: Mr Drew
 
-372 songs - 22 hr 7 min
+373 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [All You Need](https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q) | [MURPHY](https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP) | [All You Need](https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF) | 2:43 | 2026-07-31 |  |
 | [Allo](https://open.spotify.com/track/02U8LbJujN3o0COgb6yHHF) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [2nd Step](https://open.spotify.com/album/13F37l0pvS6Y8MFLdt56CP) | 2:40 | 2026-09-25 |  |
 | [AMEN](https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 3:23 | 2024-05-24 | 2024-10-26 |
-| [Amina](https://open.spotify.com/track/1eMM8Rf5ZhnpIAD8eGFJwg) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Amina](https://open.spotify.com/album/0nypTuoTvycgiFrFEH2MQk) | 2:38 | 2026-09-25 |  |
+| [Amina](https://open.spotify.com/track/1eMM8Rf5ZhnpIAD8eGFJwg) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Amina](https://open.spotify.com/album/0nypTuoTvycgiFrFEH2MQk) | 2:38 | 2026-09-25 | 2026-09-30 |
 | [Anadwo Yede](https://open.spotify.com/track/7BcXZP856gok2P9nVp0hD6) | [KK Fosu](https://open.spotify.com/artist/3LJawO6XULI4SZT5dVHEYO) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:38 | 2020-02-20 | 2022-07-27 |
 | [Ankonam](https://open.spotify.com/track/3FXxXckJ1xNWZKUmYbFaSJ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [The Gold Coin](https://open.spotify.com/album/3QjBdftIw2vfGnSZSqRVcF) | 2:52 | 2024-09-27 | 2025-03-15 |
 | [Ara No Dey Sleep](https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 3:12 | 2026-04-20 |  |
@@ -90,6 +90,7 @@
 | [Bokor Bokor](https://open.spotify.com/track/72OTEO5DShf3WH8hvdPVXb) | [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Bokor Bokor](https://open.spotify.com/album/0jeleBIMR3SqLqi1wf9lOF) | 2:34 | 2026-09-25 |  |
 | [Boom Boom](https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [Reggie](https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Boom Boom](https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp) | 2:44 | 2024-03-07 | 2024-03-29 |
 | [BOUNCE](https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [BOUNCE](https://open.spotify.com/album/0mdQI91TjgOdXkAmKLoB9J) | 2:33 | 2026-07-31 |  |
+| [Bra](https://open.spotify.com/track/2enxlrBiKpWhiazVAzsJlq) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:59 | 2026-09-29 |  |
 | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4) | 2:58 | 2024-03-04 | 2025-02-22 |
 | [BUE BUE](https://open.spotify.com/track/3sEw6Qs12OG1WXVN0r4Lqd) | [ScrewFace](https://open.spotify.com/artist/5mLq4zuVf6yd6uS3wrlyrc), [Castro](https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:42 | 2020-02-20 | 2022-10-16 |
 | [Bue Bue \(feat\. Castro\)](https://open.spotify.com/track/1vSMFShTdr7geA5nfh4zpg) | [Screwface](https://open.spotify.com/artist/2V2EY85GY6oQYZZ6LGJc4O), [Castro](https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:42 | 2020-02-20 | 2022-07-28 |

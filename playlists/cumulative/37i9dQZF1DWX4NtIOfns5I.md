@@ -4,7 +4,7 @@
 
 > it's finally folk weather 🍂
 
-918 songs - 2 day 7 hr 20 min
+920 songs - 2 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [4 foot 2](https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [4 foot 2](https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz) | 2:34 | 2024-07-08 | 2024-08-10 |
 | [4th of july](https://open.spotify.com/track/5D9hscmOav9Iw8U3yox9UO) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [4th of july](https://open.spotify.com/album/0LFm0KK5gD8kvyiedtQv2W) | 2:58 | 2026-07-03 |  |
 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 | 2025-04-04 | 2025-11-08 |
+| [A car wash and a new pair of pants](https://open.spotify.com/track/2YgS9Lstqqrr8mo1KH2amW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 3:55 | 2026-09-29 |  |
 | [A Little at a Time](https://open.spotify.com/track/29tZfTb09xQTjo7zMpVPj7) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Face The Feeling](https://open.spotify.com/album/0nbOE96i0mvngykkXaQew0) | 4:16 | 2026-05-15 |  |
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-01-05 | 2025-05-10 |
 | [a million](https://open.spotify.com/track/33IjsGyaereLETeWa5NcbL) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [a million](https://open.spotify.com/album/6kf8tzKyYQufZu0SHRmthA) | 2:46 | 2026-03-20 | 2026-06-13 |
@@ -498,6 +499,7 @@
 | [me and you](https://open.spotify.com/track/0oJ0ZWkjZBYRtUBeC0o76c) | [gabrielle hope](https://open.spotify.com/artist/5VSQfk6IkMUb8IVxo3mtPt) | [me and you](https://open.spotify.com/album/089mLGaIa69aVY4G5yjg9F) | 1:32 | 2025-01-10 | 2025-08-09 |
 | [Mean Guy](https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [With a Lightning Strike](https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr) | 3:29 | 2024-10-11 | 2025-05-14 |
 | [Meaning](https://open.spotify.com/track/41S0JSa52kSmDUFsKEBaiB) | [e4444e](https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC) | [Authentic Natural Tradition](https://open.spotify.com/album/3pwDE4fSZ5BsTnUTHZrHCR) | 5:35 | 2025-06-06 | 2025-08-09 |
+| [Mercy Kill \(Schrödinger's Cat\)](https://open.spotify.com/track/2wjE1Fc8Q3RsAohwZsVoyY) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Mercy Kill \(Schrödinger's Cat\)](https://open.spotify.com/album/53Vg1kYw2p14ClsJkdXBMu) | 3:48 | 2026-09-29 |  |
 | [Mess In Your Eyes](https://open.spotify.com/track/4MD6izirfGgKzISrvAQToR) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Mess In Your Eyes // Vultures](https://open.spotify.com/album/7oC4ROmKGWdEmFSZmAPyeB) | 3:51 | 2025-07-18 | 2026-01-24 |
 | [Metal Through Her Lips](https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Metal Through Her Lips](https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln) | 3:46 | 2026-07-21 |  |
 | [Middle of Nowhere](https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb) | 2:36 | 2026-04-17 |  |

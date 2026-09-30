@@ -1,12 +1,12 @@
 {
   "description": "Los mejores lentos del rock. Foto: reybruja",
-  "num_followers": 172396,
+  "num_followers": 172410,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANfOcmivFKEDBafXMy8Qtxltp74D",
+  "snapshot_id": "AAAAAKyJpr00rcisTyKKNFibDaBAvkpx",
   "tracks": [
     {
       "added_at": "2026-09-24 22:12:04",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-09-24 22:12:04",
       "album": {
-        "name": "Los Dos",
-        "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Los Dos",
-      "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
-    },
-    {
-      "added_at": "2026-09-24 22:12:04",
-      "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 194026,
       "name": "Amanece en la Ruta",
       "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
+    },
+    {
+      "added_at": "2026-09-24 22:12:04",
+      "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
     },
     {
       "added_at": "2026-09-24 22:12:04",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-24 22:12:04",
       "album": {
-        "name": "Esp\u00edritu (Libres Parte 3)",
-        "url": "https://open.spotify.com/album/3MMcH2FSR34P3SUvidu3Ut"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cordera",
-          "url": "https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i"
-        }
-      ],
-      "duration_ms": 223753,
-      "name": "Esp\u00edritu Felino",
-      "url": "https://open.spotify.com/track/3whsO3ehU6ebnGjAZdzGFt"
-    },
-    {
-      "added_at": "2026-09-24 22:12:04",
-      "album": {
         "name": "Sol en Cinco",
         "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
+    },
+    {
+      "added_at": "2026-09-24 22:12:04",
+      "album": {
+        "name": "Esp\u00edritu (Libres Parte 3)",
+        "url": "https://open.spotify.com/album/3MMcH2FSR34P3SUvidu3Ut"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cordera",
+          "url": "https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i"
+        }
+      ],
+      "duration_ms": 223753,
+      "name": "Esp\u00edritu Felino",
+      "url": "https://open.spotify.com/track/3whsO3ehU6ebnGjAZdzGFt"
     },
     {
       "added_at": "2026-09-24 22:12:04",

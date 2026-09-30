@@ -1,12 +1,12 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 418643,
+  "num_followers": 418661,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFPTIsMeBzFQ1MOBNpmNkIz9D38M",
+  "snapshot_id": "AAAAALzcqqRxJGmZGlw0Xnl6qjlh0TD3",
   "tracks": [
     {
       "added_at": "2021-05-26 02:37:36",
@@ -991,6 +991,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "crystaL",
+        "url": "https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu"
+      },
+      "artists": [
+        {
+          "name": "HzEdge(crystal P)",
+          "url": "https://open.spotify.com/artist/0idqlrYbdTP772SjNOX18T"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "erase or zero",
+      "url": "https://open.spotify.com/track/396tVnKqmG32TeMtSBvUS2"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
         "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 234637,
       "name": "Sweet Devil - Eight Mix",
       "url": "https://open.spotify.com/track/4hNgNHEQGzCxA9ky1oxCEv"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "crystaL",
-        "url": "https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu"
-      },
-      "artists": [
-        {
-          "name": "HzEdge(crystal P)",
-          "url": "https://open.spotify.com/artist/0idqlrYbdTP772SjNOX18T"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "erase or zero",
-      "url": "https://open.spotify.com/track/396tVnKqmG32TeMtSBvUS2"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "moon",
+        "url": "https://open.spotify.com/album/5PDWbuNnJa04B3c9n9AwTd"
+      },
+      "artists": [
+        {
+          "name": "iroha(sasaki)",
+          "url": "https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc"
+        }
+      ],
+      "duration_ms": 335435,
+      "name": "moon",
+      "url": "https://open.spotify.com/track/4EJhAyhkO1vToMNLM9RVIx"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8/\u672a\u6765\u306e\u6b4c",
         "url": "https://open.spotify.com/album/1UHOCAkTabO99PIaH3FGPU"
       },
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "moon",
-        "url": "https://open.spotify.com/album/5PDWbuNnJa04B3c9n9AwTd"
+        "name": "\u30e1\u30c6\u30aa",
+        "url": "https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr"
       },
       "artists": [
         {
-          "name": "iroha(sasaki)",
-          "url": "https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc"
+          "name": "John Zeroness",
+          "url": "https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg"
         }
       ],
-      "duration_ms": 335435,
-      "name": "moon",
-      "url": "https://open.spotify.com/track/4EJhAyhkO1vToMNLM9RVIx"
+      "duration_ms": 516642,
+      "name": "\u30e1\u30c6\u30aa",
+      "url": "https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1231,22 +1247,6 @@
       "duration_ms": 149531,
       "name": "\u307f\u304f\u307f\u304f\u306b\u3057\u3066\u3042\u3052\u308b\u266a\u3010\u3057\u3066\u3084\u3093\u3088\u3011 -MIKU EXPO 2014 in INDONESIA Live-",
       "url": "https://open.spotify.com/track/5mLPTVNnyp7zJkmDOl4FIS"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "\u30e1\u30c6\u30aa",
-        "url": "https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr"
-      },
-      "artists": [
-        {
-          "name": "John Zeroness",
-          "url": "https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg"
-        }
-      ],
-      "duration_ms": 516642,
-      "name": "\u30e1\u30c6\u30aa",
-      "url": "https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s"
     },
     {
       "added_at": "2021-05-26 02:37:36",

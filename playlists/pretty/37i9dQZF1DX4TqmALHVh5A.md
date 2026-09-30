@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Danyl & A6el.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,844 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,836 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 8 | [Bizarre](https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs) | [Thx4Crying](https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Bizarre](https://open.spotify.com/album/7CJeCJ9Y4pMuvgqK3fifyU) | 2:48 |
 | 9 | [À l'arrière de la Mercedes blanche](https://open.spotify.com/track/35BZeuRSDTSNuUCTIwbKhJ) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [À l'arrière de la Mercedes blanche](https://open.spotify.com/album/69vyE9uBL9L7RJ4Cj9BPbt) | 2:57 |
 | 10 | [c'est ok](https://open.spotify.com/track/5Canxhfh2Ydgq5JR7e26Hm) | [Copycat](https://open.spotify.com/artist/7A1oIMLzxdXV57RVrDFrE2) | [c'est ok](https://open.spotify.com/album/1tzynDqK1DyMLS10ff7fxw) | 2:57 |
-| 11 | [SOLEIL](https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [SOLEIL](https://open.spotify.com/album/7eeVBOgugUXCazaOnkvQ7D) | 2:48 |
-| 12 | [C'est ça que je veux](https://open.spotify.com/track/4ceSHKoIuiuh7T7dgv1IYP) | [Louison](https://open.spotify.com/artist/27scE3kQUClw5XM1lho2kG) | [C'est ça que je veux](https://open.spotify.com/album/4R0rXLm5BDou6MyVQF1swN) | 2:49 |
+| 11 | [C'est ça que je veux](https://open.spotify.com/track/4ceSHKoIuiuh7T7dgv1IYP) | [Louison](https://open.spotify.com/artist/27scE3kQUClw5XM1lho2kG) | [C'est ça que je veux](https://open.spotify.com/album/4R0rXLm5BDou6MyVQF1swN) | 2:49 |
+| 12 | [SOLEIL](https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [SOLEIL](https://open.spotify.com/album/7eeVBOgugUXCazaOnkvQ7D) | 2:48 |
 | 13 | [le président s'en balek](https://open.spotify.com/track/4kC7UHxeSCEtPjY2e0NQ9T) | [Zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [le président s'en balek](https://open.spotify.com/album/0Rde6pK3VtiSoaiaMkPBd8) | 3:04 |
 | 14 | [ANTIPOP](https://open.spotify.com/track/3tQK1usqWAoMkiXp54i4Ok) | [Rok.wav](https://open.spotify.com/artist/34AMiSMNdLIBS0NapVfzLz), [Dudu.wav](https://open.spotify.com/artist/2fyTjHpxa1sFTxYYIgV7YO) | [ANTIPOP](https://open.spotify.com/album/5tSubN95RxcLUgWihyu7Xb) | 2:15 |
 | 15 | [BABYBOY](https://open.spotify.com/track/5FgtKtNcsGQvg6tUmNArzt) | [NAVA](https://open.spotify.com/artist/1M0q1Asw8rEHUcycJET9zj) | [BABYBOY](https://open.spotify.com/album/1eWwgDB9CRSNQrTo7cx23y) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Tempête](https://open.spotify.com/track/1w4adoqWBcsxBxMFIoNVZ1) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Tempête](https://open.spotify.com/album/7fcB91H0LuS8zzg4kymcww) | 4:18 |
 | 50 | [Cookie](https://open.spotify.com/track/7EA9t5HOT9JlftSqvF3TRv) | [Elle en été](https://open.spotify.com/artist/3clftljp65DnlVlGRRneEW) | [Cookie](https://open.spotify.com/album/0UqC6W0iqv0F0mKYGSm6Gh) | 2:00 |
 
-Snapshot ID: `AAAAANELFjUzLwPD31uKocAEugj/Np4d`
+Snapshot ID: `AAAAACG49kcjuqO0UjBnV5Yx3QGdJxoU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: TOBIAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,369 likes - 90 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,333 likes - 90 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [garten eden](https://open.spotify.com/track/4XKjDaNyOadHQ4CNZIgTaq) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [über gestern reden wir morgen](https://open.spotify.com/album/4gnDXkEKJIEVoYmIrI7IIr) | 2:32 |
 | 90 | [Ich und Ich Selbst](https://open.spotify.com/track/2ikv5HOMGdjlzJEreiKzIS) | [Malina](https://open.spotify.com/artist/0hRqnbeTBvO22nkNeVVuGF) | [Ich und Ich Selbst](https://open.spotify.com/album/2uHLlt2Trjv0tohppWAace) | 2:36 |
 
-Snapshot ID: `AAAAANFJQ8LMsKOLNMF0vJZECPWPZRXq`
+Snapshot ID: `AAAAAJWVvl0H45T1JHCDTLU9szMPyMDo`

@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 100 | [Phony](https://open.spotify.com/track/1M423Vm3k2Bqk3pA2cx4u7) | [Blondage](https://open.spotify.com/artist/44XhQBXnAIhby5VC4GRo81) | [Phony](https://open.spotify.com/album/3gqPpkIM272ivOD3PI3wXT) | 3:46 |
 | 101 | [Mina vänner](https://open.spotify.com/track/07D0NgqZr1r9Doj4VQp5pK) | [Tomas Andersson Wij](https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL) | [Mina vänner](https://open.spotify.com/album/4IQQuut1NZdLxj1Zbf23yV) | 3:14 |
 
-Snapshot ID: `AAAAADTaBafqlGH7FDeJkAzkAu2k84sE`
+Snapshot ID: `AAAAAN/v6pVtu+/72zjpSqemJINX96BF`

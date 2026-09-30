@@ -1,12 +1,12 @@
 {
   "description": "Rock on repeat during the summers of the 1990s.",
-  "num_followers": 131063,
+  "num_followers": 131095,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM7Wv3JN9yXcPlv2OiIK/i61k/ed",
+  "snapshot_id": "AAAAAN9xIbsWCAi/KHxNMcpQp6hGeJij",
   "tracks": [
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 403866,
+      "name": "Wherever I May Roam",
+      "url": "https://open.spotify.com/track/22GbAGb80ZZNgm2yrBMnpR"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
         "name": "Pablo Honey",
         "url": "https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 403866,
-      "name": "Wherever I May Roam",
-      "url": "https://open.spotify.com/track/22GbAGb80ZZNgm2yrBMnpR"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Until It Sleeps",
+      "url": "https://open.spotify.com/track/2Iv4HSoMX2fDeXFcOJWyWX"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
         "name": "The Downward Spiral",
         "url": "https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 289560,
       "name": "Nookie",
       "url": "https://open.spotify.com/track/47Wf9dKEHGptcL1lyQIsZk"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
-        "name": "Load",
-        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Until It Sleeps",
-      "url": "https://open.spotify.com/track/2Iv4HSoMX2fDeXFcOJWyWX"
     },
     {
       "added_at": "2024-07-12 14:58:14",

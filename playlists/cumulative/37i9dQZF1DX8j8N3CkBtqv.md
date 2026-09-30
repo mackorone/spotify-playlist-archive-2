@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Raag Sethi, Sanjeeta Bhattacharya, Navjot Ahuja, The F16s and other exciting artists.
 
-1,608 songs - 3 day 16 hr 41 min
+1,609 songs - 3 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [Fursat](https://open.spotify.com/track/0rRN8GUnQXMzn5IC2f9JDF) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Fursat](https://open.spotify.com/album/6EwhEZsAIyWebuoLUBhlzL) | 4:07 | 2024-09-20 | 2024-10-26 |
 | [Fursat Ke Lamhe](https://open.spotify.com/track/6Dtdnec5sLinXWxB2ZBeRx) | [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev) | [Fursat Ke Lamhe](https://open.spotify.com/album/7jNsauLxJRceyMHcwqwJOf) | 3:09 | 2024-02-23 | 2024-03-16 |
 | [GABBAR](https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [MERI JAAN PEHLE NAACH](https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV) | 4:01 | 2024-07-19 | 2024-08-31 |
+| [Gadha](https://open.spotify.com/track/1X0PtEieH2anh2kJQBZl4Q) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Gadha](https://open.spotify.com/album/2vmro13IHkO44RZd6i6kTy) | 3:50 | 2026-09-25 |  |
 | [Galti \(feat\. MxRZI\)](https://open.spotify.com/track/6x4XXWgys2J3FmuguwVyPP) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [MxRZI](https://open.spotify.com/artist/5xtJsbtEJXs2VpRBShJa1E) | [Galti \(feat\. MxRZI\)](https://open.spotify.com/album/6xKcG6vHS4MJjNFEpqYdKs) | 3:31 | 2024-04-05 | 2024-05-24 |
 | [Galtiyan](https://open.spotify.com/track/19hHRYaQw3mMxkkD68b8oY) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [Galtiyan](https://open.spotify.com/album/6A214qRWSYW5OFPnFl2vre) | 2:48 | 2024-08-09 | 2024-09-07 |
 | [Gareeb](https://open.spotify.com/track/5WokMuGOqi4lyZpBHOhpFw) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Gareeb](https://open.spotify.com/album/60U8TSb7YMwH1p4zhIVj6N) | 2:41 | 2026-06-12 | 2026-07-25 |
@@ -544,7 +545,7 @@
 | [Hosh Na Raha](https://open.spotify.com/track/3cioL4K2HFHlCfOTGhkv2g) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Hosh Na Raha](https://open.spotify.com/album/0v1xkdfLWpR10wlieHbvMz) | 2:48 | 2023-12-15 | 2024-01-27 |
 | [Hourglass](https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV) | [Run it's the Kid](https://open.spotify.com/artist/36057fby7tY856T2vg7jQj) | [Hourglass](https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE) | 2:56 | 2025-12-12 | 2026-03-13 |
 | [Hua Asar Tera](https://open.spotify.com/track/2pfxlloUY1qL5zPCgI6r5N) | [Abhishek Dubey](https://open.spotify.com/artist/1F3kuxj7cocQq595sYWupE), [SubhoBeatz](https://open.spotify.com/artist/4SGq5oF0H0cp6ec91JMn8T), [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni) | [Hua Asar Tera](https://open.spotify.com/album/1eQl2ZWPmTHquboYllLZ6L) | 3:07 | 2023-12-08 | 2024-01-13 |
-| [Hum aur Woh](https://open.spotify.com/track/2YdvkTU9FN136OsQ6D9nnp) | [Daira](https://open.spotify.com/artist/5zve5gonOuNzWd2yKZJiJO) | [Hum aur Woh](https://open.spotify.com/album/6eciZrnVAqzYaeCecziQqG) | 4:37 | 2026-09-18 |  |
+| [Hum aur Woh](https://open.spotify.com/track/2YdvkTU9FN136OsQ6D9nnp) | [Daira](https://open.spotify.com/artist/5zve5gonOuNzWd2yKZJiJO) | [Hum aur Woh](https://open.spotify.com/album/6eciZrnVAqzYaeCecziQqG) | 4:37 | 2026-09-18 | 2026-09-30 |
 | [Hum Dono](https://open.spotify.com/track/22oo9d3PD2NITn6eaqsof4) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Hum Dono](https://open.spotify.com/album/7q4obwIi8vpbp415mNOwic) | 3:05 | 2024-03-15 | 2024-06-08 |
 | [Hum Dono](https://open.spotify.com/track/09wRRnGNVkBFBVvUdatj7i) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Hum Dono](https://open.spotify.com/album/6yMsDsBz0KHlcuusvN8blz) | 2:37 | 2025-05-30 | 2025-07-05 |
 | [Hum Khuda Nahi They](https://open.spotify.com/track/79zDOSNDDbDbG2HkZRW46G) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Hum Khuda Nahi They](https://open.spotify.com/album/24nmDLHBZHXDNLltg4kUFT) | 7:13 | 2024-03-22 | 2024-05-04 |

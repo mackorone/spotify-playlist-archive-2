@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。藤井 風, Taylor Swift, Ado, Kroi, Tinashe,  <br/>Nothing But Thieves and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,261 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,271 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 21 | [ささくれ](https://open.spotify.com/track/2ooP5Cy1B5zgt2Y0xspqOh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ささくれ](https://open.spotify.com/album/7Li9ecAIGzliHx0rcUGAQc) | 4:58 |
 | 22 | [エイリアンズ](https://open.spotify.com/track/3KMnigy4FVqZbi5bgD8wgG) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [エイリアンズ](https://open.spotify.com/album/3EA7B04OTtcHQQHd4mSsN2) | 3:35 |
 | 23 | [Bubble Gum \- feat\. claquepot](https://open.spotify.com/track/7H7aadasYCv1ijKdmVWXWZ) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF), [claquepot](https://open.spotify.com/artist/1084DFZH8ILq4T5CMqBwe9) | [FRIDAY \(Deluxe\)](https://open.spotify.com/album/7AwH8DxlvwSruMB4mUFnVz) | 3:33 |
-| 24 | [I Want to Know What Love Is](https://open.spotify.com/track/45GBS4shUWBo3V8qkK73LD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [I Want to Know What Love Is](https://open.spotify.com/album/6MB8OonnULWOmlcIgUZyMv) | 3:53 |
+| 24 | [I Want to Know What Love Is \- Lab Edition](https://open.spotify.com/track/45GBS4shUWBo3V8qkK73LD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [I Want to Know What Love Is \(Lab Edition\)](https://open.spotify.com/album/6MB8OonnULWOmlcIgUZyMv) | 3:53 |
 | 25 | [Natural High](https://open.spotify.com/track/2ltTipWlzX9L8ofFKJioJi) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Natural High](https://open.spotify.com/album/7JLoQup5FmnWodYaoFfpBt) | 5:45 |
 | 26 | [Jesus Christ Supercar](https://open.spotify.com/track/5jQdctIdc8d1Fc90Rf28zQ) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Jesus Christ Supercar](https://open.spotify.com/album/1t7pDkyqZMXQbbqrRlE20g) | 2:42 |
 | 27 | [Vulnerability](https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Vulnerability](https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj) | 3:13 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 45 | [f.m.k.](https://open.spotify.com/track/5Z5NjgTfv0vYCJhcy3wwzc) | [duna](https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz) | [f.m.k\. / jura](https://open.spotify.com/album/1yNxdbAPxGyR93gkGNZ3oJ) | 1:35 |
 | 46 | [Need That Love](https://open.spotify.com/track/5naE2RTuFzv12BDWROZCSL) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Need That Love](https://open.spotify.com/album/61s6hSUjCklbKFsw1Pmmx1) | 2:36 |
 | 47 | [Catch 23](https://open.spotify.com/track/639MGSK1oVDJSzohnFouQe) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Butterfly \(Expanded Edition\)](https://open.spotify.com/album/7EHig29QS76cBG55Gff2PX) | 2:55 |
-| 48 | [パーフェクト・スターの喜劇 feat\. こっちのけんと](https://open.spotify.com/track/3J2ICQACSVx1k6NVYjJ2O0) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [こっちのけんと](https://open.spotify.com/artist/7EPGNfEHkDAc3ejlUDDpwX) | [パーフェクト・スターの喜劇 feat\. こっちのけんと](https://open.spotify.com/album/6FtYRmiSDlOJ3kHluWfWiw) | 3:22 |
+| 48 | [パーフェクト・スターの喜劇 feat\. こっちのけんと](https://open.spotify.com/track/3J2ICQACSVx1k6NVYjJ2O0) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [パーフェクト・スターの喜劇 feat\. こっちのけんと](https://open.spotify.com/album/6FtYRmiSDlOJ3kHluWfWiw) | 3:22 |
 | 49 | [Nice Guy](https://open.spotify.com/track/0tma6gC3DEqW0GpNmtHUZi) | [JIJIM](https://open.spotify.com/artist/19bbi8caiWMuBlqhv6ZOgA) | [Nice Guy](https://open.spotify.com/album/68YLOFv4eWhdrvBPh0O2HY) | 2:32 |
 | 50 | [Crazy for You \(feat\. Ryujin Kiyoshi\)](https://open.spotify.com/track/5yfWGtZ0eRwreAna4LWZ4k) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [Crazy for You \(feat\. Ryujin Kiyoshi\)](https://open.spotify.com/album/5hFKKMh2qNaxAu6gWfz37v) | 3:30 |
 | 51 | [Functional](https://open.spotify.com/track/1Dg3LibkmWjXi0njNbciZ0) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [TwinTwo](https://open.spotify.com/artist/6ZIFQQzzO6poebHJFAEcq0) | [Functional](https://open.spotify.com/album/1I1ym80GFmMcMsuFeBMKxx) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 79 | [hasty!](https://open.spotify.com/track/0yuPdnuIWmLFqme2kdYGsO) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [hasty!](https://open.spotify.com/album/738OhgTOyuNqjZXwc1wzWv) | 2:28 |
 | 80 | [Heart Motion Foto](https://open.spotify.com/track/4zA1ijz7NszMWMAs1fVEmF) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [I Wrote You A Letter](https://open.spotify.com/album/1EHDAMMjP2UCAEdmqf7704) | 2:54 |
 
-Snapshot ID: `AAAAAKPyzahRRO9g4G+OLNHGNr0KGbdY`
+Snapshot ID: `AAAAAHldx/MBR4V2IkQKXin0Y3U4n2FJ`

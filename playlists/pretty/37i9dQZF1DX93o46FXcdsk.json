@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 52680,
+  "num_followers": 52684,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJNRgqUJsQvIzXMOr/JqBziekhNG",
+  "snapshot_id": "AAAAAFfrQJej8ukK8Q7nt036xb49KtFO",
   "tracks": [
     {
       "added_at": "2020-02-10 14:27:21",
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 209840,
-      "name": "Alles Is Liefde",
-      "url": "https://open.spotify.com/track/4zdf0FuRioClijrZyAou9i"
+      "duration_ms": 246626,
+      "name": "Hier",
+      "url": "https://open.spotify.com/track/3haBN4UKYahsxHfsRotKvU"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -631,6 +631,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Vandaag",
+        "url": "https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt"
+      },
+      "artists": [
+        {
+          "name": "Nick & Simon",
+          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Pak Maar M'n Hand",
+      "url": "https://open.spotify.com/track/3jw3qNLVrfLgLodYh0I7id"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Het Land Van",
         "url": "https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Verschil Moet Er Zijn",
-        "url": "https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT"
-      },
-      "artists": [
-        {
-          "name": "Brainpower",
-          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Dansplaat",
-      "url": "https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
         "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 246626,
-      "name": "Hier",
-      "url": "https://open.spotify.com/track/3haBN4UKYahsxHfsRotKvU"
+      "duration_ms": 209840,
+      "name": "Alles Is Liefde",
+      "url": "https://open.spotify.com/track/4zdf0FuRioClijrZyAou9i"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -699,18 +699,18 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Vandaag",
-        "url": "https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt"
+        "name": "Verschil Moet Er Zijn",
+        "url": "https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT"
       },
       "artists": [
         {
-          "name": "Nick & Simon",
-          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
+          "name": "Brainpower",
+          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
         }
       ],
-      "duration_ms": 211853,
-      "name": "Pak Maar M'n Hand",
-      "url": "https://open.spotify.com/track/3jw3qNLVrfLgLodYh0I7id"
+      "duration_ms": 228040,
+      "name": "Dansplaat",
+      "url": "https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ"
     },
     {
       "added_at": "2020-02-10 14:27:21",

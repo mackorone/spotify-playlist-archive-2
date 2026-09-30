@@ -1,12 +1,12 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 321733,
+  "num_followers": 321798,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP1Vf/68oQXebwC8bZQk0Q7xZvgo",
+  "snapshot_id": "AAAAALh2GoQIDbVXSjFyrvFnoAfYeKDJ",
   "tracks": [
     {
       "added_at": "2021-03-22 17:56:31",
@@ -347,18 +347,18 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
       "artists": [
         {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+      "duration_ms": 703373,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -379,6 +379,22 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
         "name": "The Rolling Stones Singles Collection: The London Years",
         "url": "https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 376800,
       "name": "Sympathy For The Devil",
       "url": "https://open.spotify.com/track/75zMKn5euxQdlkZgu4P42J"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 703373,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Santana",
-        "url": "https://open.spotify.com/album/0hfFLQzo3OwgYFFFvTQYhT"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 237275,
-      "name": "Evil Ways",
-      "url": "https://open.spotify.com/track/4JFG8RLpi8m0xhjYmstb38"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "I Had Too Much To Dream (Last Night)",
         "url": "https://open.spotify.com/album/1k3ldWSHD1BwUVHGiFMhyw"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 179173,
       "name": "I Had Too Much to Dream (Last Night)",
       "url": "https://open.spotify.com/track/5YgCmkSdGukXqK3fJlX4pQ"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Santana",
+        "url": "https://open.spotify.com/album/0hfFLQzo3OwgYFFFvTQYhT"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 237275,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/4JFG8RLpi8m0xhjYmstb38"
     },
     {
       "added_at": "2021-03-22 17:56:31",

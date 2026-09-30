@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: SONNIE 桑尼
 
-1,003 songs - 2 day 17 hr 23 min
+1,004 songs - 2 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,6 +858,7 @@
 | [老乾媽](https://open.spotify.com/track/1CeWNKMZKdVZxFNejYnPGf) | [Crossing\-跨世兄弟](https://open.spotify.com/artist/78JfivRUsg9hKmS5yIUpol) | [老乾媽](https://open.spotify.com/album/1LsIam9kST7W0Ce26orZvE) | 2:31 | 2025-01-30 | 2025-02-21 |
 | [聖誕夜驚魂 \(公益聖誕單曲\)](https://open.spotify.com/track/0ZVZ1Zy6y2Bx4vgkvsJvtC) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u), [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf), [Ann Bai](https://open.spotify.com/artist/6ytn3LGlsoOgU3YGF9T42s), [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm), [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [聖誕夜驚魂](https://open.spotify.com/album/4OEEkzoJCyi6nttwSuw4HG) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [聚光燈下的你](https://open.spotify.com/track/2vRoYAHriv7aLc1FbBaJD0) | [Mr.LH\_Band 李先生大樂隊](https://open.spotify.com/artist/0Ac9hRlXqDzxNIEKTPRWu9), [林書禾](https://open.spotify.com/artist/7qJA9St0kmd9bgSfcnEGtI) | [四四拍](https://open.spotify.com/album/1T2WsinJFQHorxnlxuOJmF) | 5:01 | 2025-05-08 | 2025-05-30 |
+| [聰明](https://open.spotify.com/track/02fAnBiiFKhBjpPVswbdQv) | [莉莉周她說 Lily Chou\-Chou Lied](https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK) | [聰明](https://open.spotify.com/album/521QBZCuYA2qXLdtutrS6l) | 4:21 | 2026-09-29 |  |
 | [肥前屋](https://open.spotify.com/track/356k0vzsXNVtiC0OvRddHo) | [巨大的轟鳴 Gigantic Roar](https://open.spotify.com/artist/1eIwDRL56k56ZlGNcIvMz8) | [肥前屋](https://open.spotify.com/album/4s7pRr7xtMXVHdEMaqER3w) | 4:03 | 2026-01-15 | 2026-02-06 |
 | [胡鬧](https://open.spotify.com/track/7vTuuKMozJ1EZYS0DSDQkt) | [想破頭](https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW) | [胡鬧](https://open.spotify.com/album/7FEJTeDR6mH0PLUGY3QQMO) | 2:44 | 2025-12-04 | 2026-07-24 |
 | [腐朽的心還在凌晨四點](https://open.spotify.com/track/4BFBwkKwBRq9IGhdQnl2zJ) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [腐朽的心還在凌晨四點](https://open.spotify.com/album/7CV8ZbIF2V2apQrebUTCoN) | 2:48 | 2025-10-30 | 2025-11-07 |

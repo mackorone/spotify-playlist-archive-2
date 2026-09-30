@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenés que escuchar  📸 Lali
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,357 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,322 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 27 | [Loco Un Poco](https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:27 |
 | 28 | [SE PUSO FEO](https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Divino](https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X), [Baby Ranks](https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 3:28 |
 | 29 | [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 |
-| 30 | [Perdóname \- Versión Cumbia \(En Vivo\)](https://open.spotify.com/track/41pwn701sT9rPRGjR7BrYz) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Perdóname \- Versión Cumbia \(En Vivo\)](https://open.spotify.com/album/27HWPPx7RFOBdvYesCLCOv) | 3:27 |
+| 30 | [Perdóname \- Versión Cumbia \(En Vivo\)](https://open.spotify.com/track/41pwn701sT9rPRGjR7BrYz) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Angela](https://open.spotify.com/artist/4pVwuoiEckq2nBqEjGQhla) | [Perdóname \- Versión Cumbia \(En Vivo\)](https://open.spotify.com/album/27HWPPx7RFOBdvYesCLCOv) | 3:27 |
 | 31 | [EL ULTIMO BAILE](https://open.spotify.com/track/0rZRnl6CJORjaP4rnRiKBr) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Juan Portella](https://open.spotify.com/artist/7bUbPzPRPlbnhBeMx5XCZd), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [EL ULTIMO BAILE](https://open.spotify.com/album/6oPnIYi3W4lSUDKJU1Pnjr) | 2:16 |
 | 32 | [LA SAPIÓ](https://open.spotify.com/track/287W0GUGh1IuCcaLBLolzo) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [LA SAPIÓ](https://open.spotify.com/album/0FXmb3ttZaISSYHVIq8kkZ) | 1:57 |
 | 33 | [Te Perdí](https://open.spotify.com/track/1cCPEjlC2OGUKSOGLvaoWC) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Te Perdí](https://open.spotify.com/album/768NM4jv1lZAJl5jMYBC69) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 99 | [Desde Lo Profundo](https://open.spotify.com/track/27hRMC9jWzFGR6D57EtuQe) | [Joaco Burgos](https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A) | [Desde Lo Profundo](https://open.spotify.com/album/50mpx6WAcMgGAmjPt169pJ) | 3:23 |
 | 100 | [OTRA NOCHE MÁS](https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [OTRA NOCHE MÁS](https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3) | 2:33 |
 
-Snapshot ID: `AAAAAEMu3LmeI0m2WSYVeoslKArEjTqD`
+Snapshot ID: `AAAAAJ5J6SlLe+G7op/Nud/aFhY2ZmTb`

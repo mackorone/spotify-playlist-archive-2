@@ -1,12 +1,12 @@
 {
   "description": "The most beautiful love songs of the 2000s",
-  "num_followers": 815395,
+  "num_followers": 815530,
   "original_name": "00s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEaubb5xo/VRBVKK6BHzPe/CzFgw",
+  "snapshot_id": "AAAAALGcHNGEYho1FxtGKle/59zQ/ecU",
   "tracks": [
     {
       "added_at": "2026-02-25 17:44:31",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "Beautiful Soul",
-        "url": "https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S"
-      },
-      "artists": [
-        {
-          "name": "Jesse McCartney",
-          "url": "https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Beautiful Soul",
-      "url": "https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
         "name": "Fearless (Platinum Edition)",
         "url": "https://open.spotify.com/album/2gP2LMVcIFgVczSJqn340t"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 231146,
       "name": "You Belong With Me",
       "url": "https://open.spotify.com/track/4kgTdThcDHfuDS2kKxB7Lc"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
+        "name": "Beautiful Soul",
+        "url": "https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S"
+      },
+      "artists": [
+        {
+          "name": "Jesse McCartney",
+          "url": "https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "America Town",
-        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
-      },
-      "artists": [
-        {
-          "name": "Five For Fighting",
-          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Superman (It's Not Easy)",
-      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
         "name": "Fearless (Platinum Edition)",
         "url": "https://open.spotify.com/album/2gP2LMVcIFgVczSJqn340t"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 235280,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/5hnJCRSo4pxRsaEwT9YusG"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
+        "name": "America Town",
+        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
+      },
+      "artists": [
+        {
+          "name": "Five For Fighting",
+          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Superman (It's Not Easy)",
+      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
     },
     {
       "added_at": "2026-02-25 17:44:31",

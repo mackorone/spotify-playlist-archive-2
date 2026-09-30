@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,441 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,459 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 14 | [Me Beija Na Rua](https://open.spotify.com/track/3cvB4ZKg8uHaRrgFGt3zCr) | [Bruna Alimonda](https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng) | [Estado Febril](https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd) | 3:02 |
 | 15 | [Doralice](https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:47 |
 | 16 | [Flor De Lis](https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d) | [Duo Flamingo](https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3) | [Rosa Morena EP](https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm) | 3:02 |
-| 17 | [Eu Sambo Mesmo](https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 4:08 |
-| 18 | [Bonita](https://open.spotify.com/track/5TgO9jAdOOber4wK9Sn6FN) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Antes Que A Terra Acabe](https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi) | 4:32 |
+| 17 | [Bonita](https://open.spotify.com/track/5TgO9jAdOOber4wK9Sn6FN) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Antes Que A Terra Acabe](https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi) | 4:32 |
+| 18 | [Eu Sambo Mesmo](https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 4:08 |
 | 19 | [Tantas Coisas](https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j) | [Seu Elias](https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v) | [Fubá Mimoso](https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0) | 2:40 |
 | 20 | [Samba E Amor](https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 2:52 |
-| 21 | [Sorte!](https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA) | [John Finbury](https://open.spotify.com/artist/5ZJCJGLaqOHfaspjjNQism), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY), [Vitor Gonçalves](https://open.spotify.com/artist/5dEIDzhH5MWFhRrM8Cb7mh) | [Sorte!](https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw) | 4:51 |
-| 22 | [Outra Vez](https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:17 |
+| 21 | [Outra Vez](https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:17 |
+| 22 | [Sorte!](https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA) | [John Finbury](https://open.spotify.com/artist/5ZJCJGLaqOHfaspjjNQism), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY), [Vitor Gonçalves](https://open.spotify.com/artist/5dEIDzhH5MWFhRrM8Cb7mh) | [Sorte!](https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw) | 4:51 |
 | 23 | [A Paz](https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA) | [Luiz Lucas](https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p) | [Anos Dourados](https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx) | 5:33 |
 | 24 | [Rabiscos](https://open.spotify.com/track/4Sr6vobosgTMEvJKWPeSd5) | [Projeto Caleidoscópio](https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW), [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Rabiscos](https://open.spotify.com/album/0InaXpoubmJdDOEsqZpgoC) | 3:16 |
 | 25 | [Veja Bem Meu Bem](https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Yves Dharamraj](https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W) | [Veja Bem Meu Bem \(Single\)](https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R) | 5:22 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 41 | [Cláudia](https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9), [Leila Pinheiro](https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb) | [Vamos Partir Pro Mundo \- a Música de Antonio Adolfo e Tibério Gaspar](https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa) | 3:24 |
 | 42 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 |
 | 43 | [Duro Na Queda](https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH) | [Mano Que Zuera](https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK) | 4:30 |
-| 44 | [Perto do Tom](https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d) | [Antonio Carlos Bigonha](https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK) | [Saudades de Amanhã](https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr) | 4:35 |
-| 45 | [Voa](https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Garoa](https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe) | 2:44 |
+| 44 | [Voa](https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Garoa](https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe) | 2:44 |
+| 45 | [Perto do Tom](https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d) | [Antonio Carlos Bigonha](https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK) | [Saudades de Amanhã](https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr) | 4:35 |
 | 46 | [Caminhos Cruzados](https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Caminhos Cruzados](https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo) | 2:32 |
 | 47 | [As Cores das Flores](https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Márcio Moreira](https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg) | [As Cores das Flores](https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL) | 3:01 |
 | 48 | [All or Nothing at All](https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0) | [Billy Sides Trio](https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn) | [All or Nothing at All](https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo) | 6:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 99 | [Outra Vez](https://open.spotify.com/track/0TUGYKNM0EJCkCHKDbVmYO) | [João Donato E Seu Trio](https://open.spotify.com/artist/1DtoQP5DtMJy9OlzQoyegD) | [A Bossa Muito Moderna De Donato E Seu Trio](https://open.spotify.com/album/0SgDWR5LcEig2Px0XZnmhZ) | 3:19 |
 | 100 | [Ternura do Saber \- Acústico](https://open.spotify.com/track/2vkdSiCSkzW8ErQMozBdIq) | [Roberta Barce](https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr) | [Ternura do Saber \(Acústico\)](https://open.spotify.com/album/1cgMMSaWIL1P1ZSvctLgeo) | 4:25 |
 
-Snapshot ID: `AAAAAFMMhiRICZEk4QgpHhjPzhUpda8G`
+Snapshot ID: `AAAAAAY7U5udJTwWEowwokqbTQ3acG4t`

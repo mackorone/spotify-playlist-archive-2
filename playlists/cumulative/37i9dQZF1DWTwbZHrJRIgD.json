@@ -947,6 +947,36 @@
     },
     {
       "album": {
+        "name": "Bhootni Ka (From \"Udta Teer\")",
+        "url": "https://open.spotify.com/album/712LWqPZYzJrTCULmpWZdW"
+      },
+      "artists": [
+        {
+          "name": "Kaka",
+          "url": "https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Twinkle Aggrwal",
+          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213904,
+      "name": "Bhootni Ka (From \"Udta Teer\")",
+      "url": "https://open.spotify.com/track/7jZWdcfiNU2vJHQAjLzHVd"
+    },
+    {
+      "album": {
         "name": "Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\")",
         "url": "https://open.spotify.com/album/0CZZnuGHvAOxNXNrW9vnRE"
       },
@@ -6542,7 +6572,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 206511,
       "name": "Rangiyara - From \"Haiwaan\"",
       "url": "https://open.spotify.com/track/4L9GG0a2VyHrsX0wtj3DiV"

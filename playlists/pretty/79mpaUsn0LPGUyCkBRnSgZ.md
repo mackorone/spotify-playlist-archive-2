@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 784 songs - 2 day 2 hr 37 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 786 songs - 2 day 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -792,5 +792,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 782 | [Sunglasses](https://open.spotify.com/track/2JXQjdWdKhpdYYs48QEc2j) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:36 |
 | 783 | [Mesozoic](https://open.spotify.com/track/7CgqX3jfE10v5moFGer5r6) | [Brendan Byrnes](https://open.spotify.com/artist/2X5pNtEOcvIh9wPqq2EJpf) | [Holocene Dream](https://open.spotify.com/album/4Q3FN4UctdGgGkuIBVQvve) | 5:12 |
 | 784 | [Brand New](https://open.spotify.com/track/68Jue5HmmY7ZygpiPiEKkd) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Gem](https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic) | 3:14 |
+| 785 | [Hidden Tableau](https://open.spotify.com/track/3i8wZgyyGnieoRknDKk2yU) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW) | [Cooked](https://open.spotify.com/album/0rqyaE19Aj47roRdxNDixw) | 21:41 |
+| 786 | [The Angelus](https://open.spotify.com/track/4A0QHu28PMx55INweuMMN9) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Pugnello](https://open.spotify.com/album/5pTvVhdMVV24CQep4GA38F) | 3:30 |
 
-Snapshot ID: `AAAJwaYIrdljFKLk96e36AvnzlJDNuWJ`
+Snapshot ID: `AAAJww45KxdpUkfMB0lEBnC2wKarUDHB`

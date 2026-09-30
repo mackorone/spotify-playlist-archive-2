@@ -1461,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "backtoback",
+        "url": "https://open.spotify.com/album/2QSz1zWy9IH3Hxtap9J6Z8"
+      },
+      "artists": [
+        {
+          "name": "angelrot",
+          "url": "https://open.spotify.com/artist/1PtxhGf5zAUnOucwf4fCIJ"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179552,
+      "name": "backtoback",
+      "url": "https://open.spotify.com/track/0H1BVpc9XdyZY71m4WBtK6"
+    },
+    {
+      "album": {
         "name": "Bad Girl",
         "url": "https://open.spotify.com/album/1250FDbX6wRSmfM8wJk9Wv"
       },

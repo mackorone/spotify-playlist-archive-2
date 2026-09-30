@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "720 Hours",
+        "url": "https://open.spotify.com/album/7Je3uwhFZko9q3TPCz3RCr"
+      },
+      "artists": [
+        {
+          "name": "Sari",
+          "url": "https://open.spotify.com/artist/0DYmUShcaeP46qeWK3JQfV"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146422,
+      "name": "720 Hours",
+      "url": "https://open.spotify.com/track/0hMatB2kaGiRQt1J1Xp1sg"
+    },
+    {
+      "album": {
         "name": "Winter Humming \u2014 A Beautiful Omen",
         "url": "https://open.spotify.com/album/0ycMSLBajl5Se0P4pXDvfe"
       },
@@ -5318,6 +5336,28 @@
       "duration_ms": 197562,
       "name": "Blind",
       "url": "https://open.spotify.com/track/0O24YZs4wvgoHMcgyLdePp"
+    },
+    {
+      "album": {
+        "name": "Blind Justitia",
+        "url": "https://open.spotify.com/album/2FZbKXX1nisMSgRCOj3aI1"
+      },
+      "artists": [
+        {
+          "name": "Bardic Fae",
+          "url": "https://open.spotify.com/artist/6MohN0N3a8BVjlFbmOskTo"
+        },
+        {
+          "name": "Ben Goheen",
+          "url": "https://open.spotify.com/artist/09r7wwF94d053uyt23dk4d"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169971,
+      "name": "Blind Justitia",
+      "url": "https://open.spotify.com/track/6xQNRfHMQSdYEek7lpB7Mz"
     },
     {
       "album": {
@@ -13161,6 +13201,24 @@
     },
     {
       "album": {
+        "name": "Emo Werewolf",
+        "url": "https://open.spotify.com/album/4l0mgZZIIXrbqTT9WjXmhi"
+      },
+      "artists": [
+        {
+          "name": "Velcro Scars",
+          "url": "https://open.spotify.com/artist/51nu35m42ANVB85bNip6jy"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197645,
+      "name": "Emo Werewolf",
+      "url": "https://open.spotify.com/track/4wOcrl7qs1uE0VAoAxCrBB"
+    },
+    {
+      "album": {
         "name": "Emotion Ocean",
         "url": "https://open.spotify.com/album/5133Tte4y3DW4NMT1VpIsI"
       },
@@ -14251,6 +14309,24 @@
     },
     {
       "album": {
+        "name": "Everything Dramatic",
+        "url": "https://open.spotify.com/album/0m077WZAMwuSNbt8jFujHT"
+      },
+      "artists": [
+        {
+          "name": "meg-mel",
+          "url": "https://open.spotify.com/artist/7tzv6zqDYeq1KM706woy32"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187289,
+      "name": "Everything Dramatic",
+      "url": "https://open.spotify.com/track/1WPyjalvNVFdsnR34F1mqS"
+    },
+    {
+      "album": {
         "name": "Everything Feels Easy Today",
         "url": "https://open.spotify.com/album/3q7PjYD0DX8a4mzu3KLLKz"
       },
@@ -14670,6 +14746,24 @@
       "duration_ms": 149415,
       "name": "Fall",
       "url": "https://open.spotify.com/track/6ViWKJNo5pGE5gmtSRnPwv"
+    },
+    {
+      "album": {
+        "name": "Love Me Now",
+        "url": "https://open.spotify.com/album/27CzYYvZ5YrKosu2hFotI9"
+      },
+      "artists": [
+        {
+          "name": "Tom Morfitt-White",
+          "url": "https://open.spotify.com/artist/18WLf5Us2DdwwnPqSB9rSs"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201372,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/3rvISbWtHi8WbObVAgaqnd"
     },
     {
       "album": {
@@ -26505,6 +26599,24 @@
     },
     {
       "album": {
+        "name": "NOT CLOSE ENOUGH",
+        "url": "https://open.spotify.com/album/0Z7a3Q6jDa35xuZVEgeESa"
+      },
+      "artists": [
+        {
+          "name": "Kaylen Naicker",
+          "url": "https://open.spotify.com/artist/1Szyc5NvqgejrLRPbEVFPv"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105301,
+      "name": "Like me",
+      "url": "https://open.spotify.com/track/7FECnSzY3UEAOhx6YhnA8q"
+    },
+    {
+      "album": {
         "name": "Like Rain On Me (Chilled Mix)",
         "url": "https://open.spotify.com/album/0rLahiPfo7PpegJAPp27cE"
       },
@@ -26838,6 +26950,24 @@
       "duration_ms": 222857,
       "name": "Little Darling - Remix",
       "url": "https://open.spotify.com/track/2R3ldxzXJJSjRjhcypSTe2"
+    },
+    {
+      "album": {
+        "name": "Little Enemy",
+        "url": "https://open.spotify.com/album/0qKj08Li87EbsIl02i2ab0"
+      },
+      "artists": [
+        {
+          "name": "mattioeu",
+          "url": "https://open.spotify.com/artist/22YE4xyIXEfvJqVrrPRcl1"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121283,
+      "name": "Little Enemy",
+      "url": "https://open.spotify.com/track/44Cp6SHZNlhYf6XeqFq7ub"
     },
     {
       "album": {
@@ -33923,6 +34053,24 @@
     },
     {
       "album": {
+        "name": "One Second",
+        "url": "https://open.spotify.com/album/1gixH6626pzWbq4MTRqPiT"
+      },
+      "artists": [
+        {
+          "name": "babybenny",
+          "url": "https://open.spotify.com/artist/3AV1L6Ufi50ZkuY3bU9Fkq"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92389,
+      "name": "One Second",
+      "url": "https://open.spotify.com/track/68m82grIl5xEQijTlsPb2e"
+    },
+    {
+      "album": {
         "name": "One Side",
         "url": "https://open.spotify.com/album/6NQ4fX4jivQX46P6jnIMv3"
       },
@@ -37720,6 +37868,24 @@
       "duration_ms": 140000,
       "name": "Refugee Orchestra",
       "url": "https://open.spotify.com/track/3ryCqGpzws2jlwuEjUkSnt"
+    },
+    {
+      "album": {
+        "name": "Regret",
+        "url": "https://open.spotify.com/album/1uOH1CmVGHE4960xH4n1rp"
+      },
+      "artists": [
+        {
+          "name": "BadCooliemuzik",
+          "url": "https://open.spotify.com/artist/1YUwMm81z6Q8dV3dOlj2sY"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185841,
+      "name": "Regret",
+      "url": "https://open.spotify.com/track/530rThYsYL2cUYdnb2A3g2"
     },
     {
       "album": {
@@ -44086,6 +44252,24 @@
       "duration_ms": 135240,
       "name": "Sza Let You Know",
       "url": "https://open.spotify.com/track/30c71YyHDG7fdoc9x8RhKJ"
+    },
+    {
+      "album": {
+        "name": "Vers la nuit",
+        "url": "https://open.spotify.com/album/6HMKEKXMgbVoWTdMVlZzPq"
+      },
+      "artists": [
+        {
+          "name": "Strophes noctambules",
+          "url": "https://open.spotify.com/artist/0FeUdQgEKYZPq10H9JRPT4"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Ta robe \u00e9b\u00e8ne",
+      "url": "https://open.spotify.com/track/55barqEyVqBwZzWzpZD0YV"
     },
     {
       "album": {
@@ -52539,6 +52723,24 @@
     },
     {
       "album": {
+        "name": "A Poet's Requiem",
+        "url": "https://open.spotify.com/album/3mmYkYzMVQMPOLwDnhW8RI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Paris",
+          "url": "https://open.spotify.com/artist/09VWU7KJvYfViZDFL5r3PR"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182577,
+      "name": "With This Melody",
+      "url": "https://open.spotify.com/track/5031VzFl8hlPCeTBprfIb1"
+    },
+    {
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/7MSeQ2Pk4zXEa7ZjG6uJIT"
       },
@@ -52666,6 +52868,24 @@
       "duration_ms": 151977,
       "name": "Won't Make It",
       "url": "https://open.spotify.com/track/496DjQ0DJYQY7ELT8rJKRb"
+    },
+    {
+      "album": {
+        "name": "wonders",
+        "url": "https://open.spotify.com/album/6AZpxG1JLYNkvJEE3y3Eho"
+      },
+      "artists": [
+        {
+          "name": "Kashxsoul",
+          "url": "https://open.spotify.com/artist/4VCgxk9tkWML9L2iqCorm9"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190055,
+      "name": "wonders",
+      "url": "https://open.spotify.com/track/34uKFRh02q5fvoGrBFoX1o"
     },
     {
       "album": {

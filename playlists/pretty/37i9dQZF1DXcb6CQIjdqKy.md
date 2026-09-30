@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Matthew West
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,660,149 likes - 99 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,660,374 likes - 99 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 25 | [Who I Am To You](https://open.spotify.com/track/0m8LZQ4U90ztxmsanrSx9g) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Who I Am To You](https://open.spotify.com/album/4EOaaVcUrGgEA1lg2DBd8v) | 3:10 |
 | 26 | [My Victory's Coming](https://open.spotify.com/track/0q81m7cmZBGikRTv9L1lPD) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [My Victory's Coming](https://open.spotify.com/album/7yPY0qyaD1R1uBgGNv74G1) | 3:27 |
 | 27 | [He's Not Finished](https://open.spotify.com/track/5RIugJwYvISARrxEr2cVtH) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [He's Not Finished](https://open.spotify.com/album/16tA66otBVRH8ZkZvAaULO) | 8:00 |
-| 28 | [This Time \(feat\. GloRilla\)](https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [This Time](https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS) | 2:46 |
+| 28 | [This Time \(with GloRilla\)](https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [This Time](https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS) | 2:46 |
 | 29 | [TOO UNFAZED](https://open.spotify.com/track/6MPfLZFTmkhtRsEkPtrkWq) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [THIS CANNOT BE SOLD](https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC) | 3:38 |
 | 30 | [CHAMPIONS \(feat\. Lecrae\)](https://open.spotify.com/track/0tkoGzoixZ2tKs7Qh1p5wT) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [PROMISE LAND](https://open.spotify.com/album/4UWuBJmG3eAaH9rzS6idl3) | 3:20 |
 | 31 | [Wake Up Sleeper](https://open.spotify.com/track/1gqHYvRQC849Q4xj1935yx) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Wake Up Sleeper](https://open.spotify.com/album/3eU9yS4x2wQMR5acqDtZLk) | 3:14 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 98 | [Hope's Gonna Find You \(with Franni Cash\)](https://open.spotify.com/track/1a6szj3r3ng4BwzOqgMCVi) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Hope's Gonna Find You \(with Franni Cash\)](https://open.spotify.com/album/1xKo457LHtDbMYpTp0rIA3) | 3:51 |
 | 99 | [Holy Spirit \(feat\. Phylisha Mitchell\)](https://open.spotify.com/track/24SrfIM7qWv1nuHemYgZSM) | [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Phylisha Mitchell](https://open.spotify.com/artist/3kKBNNEfSaHcoFb9LFkbUh) | [Not My Will \(Deluxe\)](https://open.spotify.com/album/3lW9WwXpVEHIsn7GYaMZnb) | 4:31 |
 
-Snapshot ID: `AAAAACVFL8yuSPRvqGWnFNVqWW92wBQ2`
+Snapshot ID: `AAAAAAQD2pDN1ThXItYPfE+ZKbTtys5k`

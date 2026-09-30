@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,150 likes - 316 songs - 16 hr 54 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,150 likes - 317 songs - 16 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -324,5 +324,6 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 314 | [Alpina](https://open.spotify.com/track/7yobqmc1cF4OjEd3uRtcgB) | [Soundy](https://open.spotify.com/artist/3b7sLRj01Y93l1Dn186h0W) | [Alpina](https://open.spotify.com/album/3s9KId4nDxJ4MujCXFchxY) | 3:27 |
 | 315 | [Were Going Back](https://open.spotify.com/track/0yWZvwqjIpuWWczGuCxKcI) | [Micky Tomeo](https://open.spotify.com/artist/7sB7tPjMLU9KnJbJt3nvXi) | [Were Going Back](https://open.spotify.com/album/3x6Q8kCMafRwkGwxzFALym) | 4:03 |
 | 316 | [Jumpin](https://open.spotify.com/track/0TYALC6i6onK7HSqG6HYTh) | [Shilla](https://open.spotify.com/artist/46RRZQejikNAQDn87KvrmE) | [Resist The System](https://open.spotify.com/album/5TAmPaGr6S7H8x4YHAT6J6) | 3:00 |
+| 317 | [Girl, WYA!?](https://open.spotify.com/track/3hmAG2fhaaCvXvtPBFMZUt) | [CVNTS](https://open.spotify.com/artist/6OOF9nSZbNw4etK0InqtEZ) | [Girl, WYA!?](https://open.spotify.com/album/5aNHAeuAT4abqiHlT4aq7o) | 2:14 |
 
-Snapshot ID: `AAAR0JOy91nh5XGYDHMgcZAKQUyRLWbz`
+Snapshot ID: `AAAR0Rg6vOcb7OT6JsLs50A3WRtMaAzH`

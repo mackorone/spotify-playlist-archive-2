@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,681 likes - 250 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,805 likes - 250 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 249 | [Lightweight](https://open.spotify.com/track/1Eda6TnMnQRfq5vh4ksgq3) | [Albu](https://open.spotify.com/artist/4gztB2wNt82ZZEQ0rd5JaH) | [Lightweight](https://open.spotify.com/album/5RP9Dl35FEXvrwtOAj0fod) | 2:19 |
 | 250 | [Golden Strata](https://open.spotify.com/track/31Dn0AfPXeJMu007lLZH7G) | [Pure Recall](https://open.spotify.com/artist/2dUzuRhlSLxwEeMZ5C2hTt) | [Golden Strata](https://open.spotify.com/album/6RU8uoSXPQrDSZMTQW9JqW) | 2:08 |
 
-Snapshot ID: `AAAAACHHR+2lrqw1sgACgaHHiI41kApH`
+Snapshot ID: `AAAAAKj2KgZB+SnpKWBfZxnl6gb83RyV`

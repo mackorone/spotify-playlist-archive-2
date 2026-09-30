@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Taylor Swift, Laura Tesoro, Pierre de Maere, OLIVIA and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,986 likes - 152 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,984 likes - 152 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 151 | [Elle est de gauche](https://open.spotify.com/track/6RhW3h1nxT39q1WIvkXWKq) | [Soli](https://open.spotify.com/artist/1ylSyLgSFjcBgiGx6tQBJ3) | [Elle est de gauche](https://open.spotify.com/album/49xIK5vsRFK8KwLJv1o6yq) | 2:53 |
 | 152 | [305](https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj) | [1nine08](https://open.spotify.com/artist/6i84sqAjyq8cxizf6MaI4H), [LUMI](https://open.spotify.com/artist/2OCu6MqAaZZDHCefmYnBxP) | [305](https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi) | 3:05 |
 
-Snapshot ID: `AAAAAESs/HsDUD9/McWMQtkF7JCT+86Q`
+Snapshot ID: `AAAAABS5GFO3zkGejT2YYXFkLNbB+lw2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > أفضل أغاني الراي
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,194 likes - 60 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,259 likes - 60 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Chakam Ya Taalam](https://open.spotify.com/track/5RQk0l6vi4W6pxWVmOavS2) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [Dj Badro](https://open.spotify.com/artist/6zLeYvpaV3RNnhg9nEbwky) | [Chakam Ya Taalam](https://open.spotify.com/album/4yJLC3h0yIUnf3f2hF0Ovh) | 1:47 |
 | 60 | [Yakarhoni Gololi Limada](https://open.spotify.com/track/1IJKFOm451pPfkBKputTyo) | [Salim Louza](https://open.spotify.com/artist/5eUkzLuoz3r8bzu7Cg44Jj) | [Yakarhoni Gololi Limada](https://open.spotify.com/album/1tcn7HWpvgNAzL9iPLn0hD) | 6:24 |
 
-Snapshot ID: `AAAAAMnrFkuJbh46oxbYAnmRkV0FbMig`
+Snapshot ID: `AAAAAIkZsZPe/Dvh6OQCa7DBpsPwO3nE`

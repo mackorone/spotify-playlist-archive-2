@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-854 songs - 1 day 18 hr 24 min
+855 songs - 1 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [Never Give Up On You \(feat\. Georgi Kay\)](https://open.spotify.com/track/4UdUtaT88GgvpiqbqzSpgN) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj) | [Never Give Up On You \(feat\. Georgi Kay\)](https://open.spotify.com/album/626ZLUVfOxIcNlgTjtZtTo) | 3:36 | 2022-03-25 | 2022-04-17 |
 | [Never Gonna Give You Up](https://open.spotify.com/track/2t7nM6kZZ3JTSheTwVlAAR) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/52fyBqmk843nEqpfWFlsUp) | 2:45 | 2021-12-17 | 2022-07-29 |
 | [Never Gonna Let You Go](https://open.spotify.com/track/1rTuc56ZzerkfLnu1qYcOw) | [Soundwaves](https://open.spotify.com/artist/56BMviGiJkpclgY1dCJmcK), [Rickysee](https://open.spotify.com/artist/14BurngfdQAWg2wC7eaGQt) | [Never Gonna Let You Go](https://open.spotify.com/album/6QlRHOColo8BlJwUgtkdMy) | 3:05 | 2022-03-25 | 2022-04-20 |
+| [Never Leave U](https://open.spotify.com/track/23khOJxVCE4SEDYCf4mZb8) | [Sonny Kane](https://open.spotify.com/artist/5AAojYr0Ov163yqEVDi5l5) | [Never Leave U](https://open.spotify.com/album/5rFrWczbNB34mjzq0NDRr6) | 3:41 | 2026-09-29 |  |
 | [Never Let Me Down](https://open.spotify.com/track/0Je3J2ml1lrnTLXXIlxrvR) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Let Me Down](https://open.spotify.com/album/5qrCoCKxWEDf5y5yERNArR) | 2:33 | 2022-04-08 | 2022-04-20 |
 | [Never Love You Again](https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Never Love You Again](https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ) | 3:11 | 2021-12-17 | 2023-05-09 |
 | [Never Really Over \- R3HAB Remix](https://open.spotify.com/track/2OAylPUDDfwRGfe0lYqlCQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Never Really Over \(R3HAB Remix\)](https://open.spotify.com/album/7INHYSeusaFlyrHSNxm8qH) | 3:07 | 2022-04-01 | 2022-04-21 |
@@ -603,7 +604,7 @@
 | [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 | 2024-07-05 | 2025-03-01 |
 | [Real Love](https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Happy Machine](https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e) | 2:15 | 2022-01-07 | 2022-07-09 |
 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 | 2023-10-17 | 2024-01-20 |
-| [Reasons](https://open.spotify.com/track/7dX72nBWi8thmjq0JI8EBk) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Reasons](https://open.spotify.com/album/3TPuEuamIFgYMRAYjO3UfS) | 1:54 | 2026-07-17 |  |
+| [Reasons](https://open.spotify.com/track/7dX72nBWi8thmjq0JI8EBk) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Reasons](https://open.spotify.com/album/3TPuEuamIFgYMRAYjO3UfS) | 1:54 | 2026-07-17 | 2026-09-30 |
 | [Red Light](https://open.spotify.com/track/1eRsYW80thFTfA7QP8vRBK) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Red Light](https://open.spotify.com/album/05RpaVvtRNOyUID3IQL4eh) | 2:26 | 2025-02-28 | 2025-04-30 |
 | [Redlight](https://open.spotify.com/track/3u1nqEA58OiuOj4norMbnO) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/3Wc5TW906VV03DWbkgcfnR) | 4:02 | 2022-04-15 | 2022-04-21 |
 | [Redlight](https://open.spotify.com/track/08Ecw0ItPxGeHS9Mexr8cs) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Redlight](https://open.spotify.com/album/79YZVPlv0WgFrhi0jxAjd0) | 4:02 | 2022-04-01 | 2022-04-05 |

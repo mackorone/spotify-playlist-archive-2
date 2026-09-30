@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 249115,
       "name": "Irumudi Kattu",
       "url": "https://open.spotify.com/track/3WJIfLrfKIYdnzIUMnoWXI"
@@ -4832,6 +4832,28 @@
       "duration_ms": 198101,
       "name": "Og Sambavam (From \"Good Bad Ugly\")",
       "url": "https://open.spotify.com/track/361FMJC5uRSXzato4NE5Zg"
+    },
+    {
+      "album": {
+        "name": "One Name (From \"Jailer 2\")",
+        "url": "https://open.spotify.com/album/72sJQ5j9mn2TCEQS3HNzmZ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204130,
+      "name": "One Name (From \"Jailer 2\")",
+      "url": "https://open.spotify.com/track/50vJ8qlTOS3oSKPaDMgMSz"
     },
     {
       "album": {

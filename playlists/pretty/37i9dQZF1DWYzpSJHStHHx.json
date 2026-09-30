@@ -1,12 +1,12 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483840,
+  "num_followers": 483824,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGpWjTmMIMvBHstKm8mqlvmRQXne",
+  "snapshot_id": "AAAAAB+6jjsmNxVyC4CMzq59ZNVK+x3j",
   "tracks": [
     {
       "added_at": "2026-09-17 14:00:53",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "L.S.D",
-        "url": "https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 217538,
-      "name": "L.S.D",
-      "url": "https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "The Mystery Lights",
         "url": "https://open.spotify.com/album/6svXmZ3D1FVUOInHI9enLp"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 242506,
       "name": "What Happens When You Turn the Devil Down",
       "url": "https://open.spotify.com/track/4nRGHjBSIDRHw1sqDXLOTX"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "L.S.D",
+        "url": "https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 217538,
+      "name": "L.S.D",
+      "url": "https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Officially",
-        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 205144,
-      "name": "Officially",
-      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Daydream Twins",
         "url": "https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 362601,
       "name": "Carpop",
       "url": "https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Officially",
+        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 205144,
+      "name": "Officially",
+      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "No Chaser",
-        "url": "https://open.spotify.com/album/5pjiOflzxGXxwUrtgrOJOU"
-      },
-      "artists": [
-        {
-          "name": "Surf Trash",
-          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
-        }
-      ],
-      "duration_ms": 160618,
-      "name": "Burning Tide",
-      "url": "https://open.spotify.com/track/1vgwFfRV9WoIAxU7a9taWZ"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Ozonia",
         "url": "https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 344666,
       "name": "SLPM",
       "url": "https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "No Chaser",
+        "url": "https://open.spotify.com/album/5pjiOflzxGXxwUrtgrOJOU"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "duration_ms": 160618,
+      "name": "Burning Tide",
+      "url": "https://open.spotify.com/track/1vgwFfRV9WoIAxU7a9taWZ"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/5sVRuqcn14SpKiD3LUMBqh"
-      },
-      "artists": [
-        {
-          "name": "Surf Trash",
-          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
-        }
-      ],
-      "duration_ms": 223961,
-      "name": "Ricochet",
-      "url": "https://open.spotify.com/track/1kYnMw5tFjKomRHYETAMx8"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "I AM NOT SO TALL",
         "url": "https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 174000,
       "name": "I AM NOT SO TALL",
       "url": "https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/5sVRuqcn14SpKiD3LUMBqh"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "duration_ms": 223961,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/1kYnMw5tFjKomRHYETAMx8"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Thrift Store",
-        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 134408,
-      "name": "Thrift Store",
-      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Dark Horse",
         "url": "https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 129866,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Thrift Store",
+        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 134408,
+      "name": "Thrift Store",
+      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
     },
     {
       "added_at": "2026-09-17 14:00:53",

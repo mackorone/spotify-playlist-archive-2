@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,895 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,022 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [Everything's Fine \(PM\)](https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Everything's Fine](https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR) | 2:45 |
 | 100 | [Whisper](https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Whisper](https://open.spotify.com/album/0jbAkBNqdBNOVBI7HVSwMu) | 2:34 |
 
-Snapshot ID: `AAAAAHnH+amjpFT8tGC42mOj9iOG6Vii`
+Snapshot ID: `AAAAAAHE+msOgZ8wDw6p320MNcaCNwYp`

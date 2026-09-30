@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Gerard Joling
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,770 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,761 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [De Nachtploeg Van De Kroeg](https://open.spotify.com/track/34rxDKCkOrFUrdzh7PB2w9) | [Robin van Herwijnen](https://open.spotify.com/artist/6DSV2sKcDI7lJHmNqBTkRG) | [De Nachtploeg Van De Kroeg](https://open.spotify.com/album/2SKluOYTbDf2OR1lIbOHe2) | 2:48 |
 | 100 | [Tante Roos](https://open.spotify.com/track/63pkTCe2ZIANlqGNH6L2ca) | [Jesse de Koning](https://open.spotify.com/artist/7gTwWOWfZyuo20boJ8bGU0) | [Tante Roos](https://open.spotify.com/album/4r695eTDXPKBTrxa8ubYQc) | 2:31 |
 
-Snapshot ID: `AAAAAL/qyxY9frBoiAlmp2ENxpufNyXi`
+Snapshot ID: `AAAAAHVjYSaJkW9bazDd2JtzLksSHM+m`

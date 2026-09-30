@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 183214,
+  "num_followers": 183226,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJAj9D50GQTk0Hk7hzMNCuA5VdiZ",
+  "snapshot_id": "AAAAAFHks8XoTumY0eCpw/MRvFEvRthh",
   "tracks": [
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "Grow apart",
-        "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
-      "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
-    },
-    {
-      "added_at": "2026-09-22 15:00:38",
-      "album": {
         "name": "We won't last forever",
         "url": "https://open.spotify.com/album/7t8eZ4T5ggu677XyIZxgoi"
       },
@@ -1207,18 +1191,34 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "\u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088",
-        "url": "https://open.spotify.com/album/2yJHvqjAiOeEYPLjmgRnmg"
+        "name": "Grow apart",
+        "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
       },
       "artists": [
         {
-          "name": "YUKI",
-          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
         }
       ],
-      "duration_ms": 376000,
-      "name": "\u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088",
-      "url": "https://open.spotify.com/track/0WUrnNtdEXTboycmTCjgj9"
+      "duration_ms": 192000,
+      "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
+      "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
+    },
+    {
+      "added_at": "2026-09-22 15:00:38",
+      "album": {
+        "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj"
+      },
+      "artists": [
+        {
+          "name": "RYUSENKEI",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+        }
+      ],
+      "duration_ms": 125294,
+      "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj"
+        "name": "\u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088",
+        "url": "https://open.spotify.com/album/2yJHvqjAiOeEYPLjmgRnmg"
       },
       "artists": [
         {
-          "name": "RYUSENKEI",
-          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
         }
       ],
-      "duration_ms": 125294,
-      "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C"
+      "duration_ms": 376000,
+      "name": "\u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088",
+      "url": "https://open.spotify.com/track/0WUrnNtdEXTboycmTCjgj9"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
+        "name": "HONDA",
+        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "HONDA",
+      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
+    },
+    {
+      "added_at": "2026-09-22 15:00:38",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 225746,
       "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
       "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
-    },
-    {
-      "added_at": "2026-09-22 15:00:38",
-      "album": {
-        "name": "HONDA",
-        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
-      },
-      "artists": [
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "HONDA",
-      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "4:00 A.M. (2025 Re-edit Version)",
-        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
-      },
-      "artists": [
-        {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
-        }
-      ],
-      "duration_ms": 283854,
-      "name": "4:00 A.M. (2025 Re-edit Version)",
-      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
-    },
-    {
-      "added_at": "2026-09-22 15:00:38",
-      "album": {
         "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
         "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 248842,
       "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
       "url": "https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm"
+    },
+    {
+      "added_at": "2026-09-22 15:00:38",
+      "album": {
+        "name": "4:00 A.M. (2025 Re-edit Version)",
+        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 283854,
+      "name": "4:00 A.M. (2025 Re-edit Version)",
+      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
+        "name": "\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u30a2\u30ed\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/3XO7V4ThUG4ytIau8qSxaL"
+      },
+      "artists": [
+        {
+          "name": "RETRORIRON",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 298715,
+      "name": "\u3075\u305f\u308a",
+      "url": "https://open.spotify.com/track/6mWM2XvitdQyMPOhPKiOSX"
+    },
+    {
+      "added_at": "2026-09-22 15:00:38",
+      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u30a2\u30ed\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/3XO7V4ThUG4ytIau8qSxaL"
-      },
-      "artists": [
-        {
-          "name": "RETRORIRON",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 298715,
-      "name": "\u3075\u305f\u308a",
-      "url": "https://open.spotify.com/track/6mWM2XvitdQyMPOhPKiOSX"
-    },
-    {
-      "added_at": "2026-09-22 15:00:38",
-      "album": {
         "name": "STEP IT",
         "url": "https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP"
       },
@@ -1695,34 +1695,18 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "CITY POP LOVERS",
-        "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
+        "name": "Rainy Runway",
+        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
       },
       "artists": [
         {
-          "name": "Yu Sakai",
-          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
-        },
-        {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        },
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        },
-        {
-          "name": "Hiro-a-key",
-          "url": "https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe"
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
         }
       ],
-      "duration_ms": 339226,
-      "name": "SPARKLE",
-      "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
+      "duration_ms": 241680,
+      "name": "Rainy Runway",
+      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

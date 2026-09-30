@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,326,926 likes - 210 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,327,317 likes - 210 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 209 | [Long Have I Longed For](https://open.spotify.com/track/6i1w3XtzHwlDGP1qgF2p8P) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [Long Have I Longed For](https://open.spotify.com/album/44xa25y3tXuGxa2xdw3AdM) | 3:10 |
 | 210 | [Echoes of Summer](https://open.spotify.com/track/4Zjr6BJUHbJniyT8hXHC26) | [The 52nd Street Club](https://open.spotify.com/artist/43g6zwUUuWLCPXDidr6rfU) | [Echoes of Summer](https://open.spotify.com/album/4KRl6cqIYQcDQ2UtSDQ4mm) | 3:14 |
 
-Snapshot ID: `AAAAAM/hbZCHEFeisyjR+qO5DkK1vcm3`
+Snapshot ID: `AAAAAIzauDIVkEynpH7nb1f4hn+KF/vE`

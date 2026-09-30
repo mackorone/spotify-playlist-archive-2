@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Nayte
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,029 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,013 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 59 | [Au revoir](https://open.spotify.com/track/39ziATSID3HVZwrWBs9T9u) | [La Famax](https://open.spotify.com/artist/3Ii7kCftek6SPKPEZx3GYE) | [Au revoir](https://open.spotify.com/album/3S43PfGI9qajpKR9EatEHy) | 2:15 |
 | 60 | [Jamais trop](https://open.spotify.com/track/1TS2H4EgnFuNENRWcckuIP) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN) | [TALAL](https://open.spotify.com/album/4CwmOmzQRDheNeehHE24CI) | 2:42 |
 
-Snapshot ID: `AAAAAGiHtrB51chka2M5L/ZD6yF0JVJG`
+Snapshot ID: `AAAAAFLqj5pxu0J8NrhEl1BOIxp9pYZc`

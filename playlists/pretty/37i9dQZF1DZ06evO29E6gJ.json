@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 13287,
+  "num_followers": 13289,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arhcgAAAAAAM0yryUB19OfTHUQvJ2Ige",
+  "snapshot_id": "armuAAAAAADfAl2z9Ps9dm7XTsR3YA7K",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Caballo Alazan Lucero",
+        "url": "https://open.spotify.com/album/6ukb3R1xyG1PkfyfGO4Mhj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/3glJd3Dj4bUleav5pju81m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Alegres De Ter\u00e1n",
         "url": "https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 162453,
       "name": "El 24 De Junio",
       "url": "https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caballo Alazan Lucero",
-        "url": "https://open.spotify.com/album/6ukb3R1xyG1PkfyfGO4Mhj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/3glJd3Dj4bUleav5pju81m"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fogata Norte\u00f1a",
-        "url": "https://open.spotify.com/album/779btSeHZhLy2Bam2WAHAj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Ya Supe Lupe",
-      "url": "https://open.spotify.com/track/7jukbOcwfMWVni2PfoTN9I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA TRAICIONERA (Remastered)",
         "url": "https://open.spotify.com/album/116YnDmd7Vevo95B70AUdq"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 120306,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/3AHRnIxggLXyUdw5Wi5DtH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fogata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/779btSeHZhLy2Bam2WAHAj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Ya Supe Lupe",
+      "url": "https://open.spotify.com/track/7jukbOcwfMWVni2PfoTN9I"
     },
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Contestadas-La Martina",
+        "url": "https://open.spotify.com/album/47gAhKupQG4o6vMmOBAh2v"
+      },
+      "artists": [
+        {
+          "name": "Las Pajaritas",
+          "url": "https://open.spotify.com/artist/6GDcrBxzsopVUzluor0Zll"
+        },
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 132080,
+      "name": "Los Paisanos",
+      "url": "https://open.spotify.com/track/27LmeI5OdmPQWStquxwCvA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 Exitos Clasicos: Canciones y Corridos",
         "url": "https://open.spotify.com/album/5B6a96a0gdnf0AaIstQyYb"
       },
@@ -567,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Contestadas-La Martina",
-        "url": "https://open.spotify.com/album/47gAhKupQG4o6vMmOBAh2v"
+        "name": "Norte\u00f1as de Oro",
+        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
       },
       "artists": [
-        {
-          "name": "Las Pajaritas",
-          "url": "https://open.spotify.com/artist/6GDcrBxzsopVUzluor0Zll"
-        },
         {
           "name": "Los Alegres De Teran",
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 132080,
-      "name": "Los Paisanos",
-      "url": "https://open.spotify.com/track/27LmeI5OdmPQWStquxwCvA"
+      "duration_ms": 170306,
+      "name": "La Mula Bronca",
+      "url": "https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
       "duration_ms": 183797,
       "name": "El Troquero",
       "url": "https://open.spotify.com/track/3gfJot7ZNa92ojtuJzw2Q3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norte\u00f1as de Oro",
-        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 170306,
-      "name": "La Mula Bronca",
-      "url": "https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/404XnTj9uwthQP2Ryc4hsH"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 142903,
+      "name": "Ingratos Ojos Mios",
+      "url": "https://open.spotify.com/track/5zZ9Q1N0MnrIc9BNkBOQua"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOGATA NORTENA",
         "url": "https://open.spotify.com/album/6obN0Ujy1MqdJbeR7D7zcy"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 167133,
       "name": "Modesta Ayala",
       "url": "https://open.spotify.com/track/7hFGRE0pf1KQCuR16lHW0r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/404XnTj9uwthQP2Ryc4hsH"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 142903,
-      "name": "Ingratos Ojos Mios",
-      "url": "https://open.spotify.com/track/5zZ9Q1N0MnrIc9BNkBOQua"
     },
     {
       "added_at": null,

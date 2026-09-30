@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,348 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,350 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [LIFE](https://open.spotify.com/track/2piZnAQmdM4kwdKTdeKevR) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [LIFE](https://open.spotify.com/album/11UH2nnKfxCzdhWXkffIOE) | 3:16 |
 | 80 | [Mr Charm](https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:34 |
 
-Snapshot ID: `AAAAADx449Ttz6qTpHRiLgIU+5mylHpg`
+Snapshot ID: `AAAAAHXpe9q6XmvuUkQzHnYPMaqqjopN`

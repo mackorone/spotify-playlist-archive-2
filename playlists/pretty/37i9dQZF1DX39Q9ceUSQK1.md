@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Mood Bored
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,087 likes - 105 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,093 likes - 105 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 104 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
 | 105 | [If’s, But’s and Maybes](https://open.spotify.com/track/20tbDQSQ39sC9W8qZFIaWF) | [Cloudsurfers](https://open.spotify.com/artist/1elg1Km9e1Rmt61ggsGUp6) | [If’s, But’s and Maybes](https://open.spotify.com/album/5z3qAGtGkBAqT5xmCwhzhE) | 4:06 |
 
-Snapshot ID: `AAAAAADybLBdqB3h6TQbLEJlwgOAoYpQ`
+Snapshot ID: `AAAAAN7Bl8d40u664iMu0zG2FFgaq99z`

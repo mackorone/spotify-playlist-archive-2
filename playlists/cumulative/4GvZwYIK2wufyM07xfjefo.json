@@ -3802,7 +3802,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 200000,
       "name": "\u3082\u306e\u3055\u3057 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5PEgi3CFyOKVxAWZJ8Ld5i"
@@ -6211,6 +6211,28 @@
     },
     {
       "album": {
+        "name": "\u30ea\u30d9\u30ec\u30fc\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/0GhPVwlqDiwLGItV3X6mDH"
+      },
+      "artists": [
+        {
+          "name": "\u305b\u304d\u3053\u307f\u3054\u306f\u3093",
+          "url": "https://open.spotify.com/artist/0Ob20i2XjAOSyVQGdJP0IS"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189397,
+      "name": "\u30ea\u30d9\u30ec\u30fc\u30bf\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6dr2Fr1vhbtGTMWsRUIzL3"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30ea\u30a6\u30e0\u306e\u66f8\u67b6",
         "url": "https://open.spotify.com/album/1KXR1NjehFLujzCC57Aubg"
       },
@@ -6379,6 +6401,28 @@
     },
     {
       "album": {
+        "name": "\u30ef\u30eb\u30c4\u30fb\u30ed\u30b5\u30fb\u30c6\u30b9\u30bf\u30ed\u30c3\u30b5",
+        "url": "https://open.spotify.com/album/3CuUqYbpMoQQnFyGIO4YJ7"
+      },
+      "artists": [
+        {
+          "name": "nyanyannya",
+          "url": "https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv"
+        },
+        {
+          "name": "\u304c\u304f\u3063\u307d\u3044\u3069",
+          "url": "https://open.spotify.com/artist/6Da5yiUozbKBkjI6u5dEFx"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222825,
+      "name": "\u30ef\u30eb\u30c4\u30fb\u30ed\u30b5\u30fb\u30c6\u30b9\u30bf\u30ed\u30c3\u30b5 (feat. \u304c\u304f\u3063\u307d\u3044\u3069)",
+      "url": "https://open.spotify.com/track/6Cw0CzpArMOMFaYC97wwJS"
+    },
+    {
+      "album": {
         "name": "\u58f0\u3092\u307b\u3069\u304f\u58f0",
         "url": "https://open.spotify.com/album/19jzJtyVjhgbCAi1ABxZmY"
       },
@@ -6500,6 +6544,32 @@
       "duration_ms": 365714,
       "name": "\u4e16\u754c\u306e\u7a2e\u3092\u62b1\u3044\u3066",
       "url": "https://open.spotify.com/track/5n1ndve0K6lUQ3mr3potzz"
+    },
+    {
+      "album": {
+        "name": "File://\u4e16\u754c\u6700\u5f8c\u306e\u97f3\u697d\u968a (feat. \u521d\u97f3\u30df\u30af)",
+        "url": "https://open.spotify.com/album/1oVVzX0H2x3WzhmrcPoDKX"
+      },
+      "artists": [
+        {
+          "name": "\u590f\u5c71\u3088\u3064\u304e",
+          "url": "https://open.spotify.com/artist/30DNiO9bddagJDpXa4LMYQ"
+        },
+        {
+          "name": "\u3069~\u3071\u307f\u3093",
+          "url": "https://open.spotify.com/artist/0RquwXNEyrEvmC1hhkiyj6"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "\u4e16\u754c\u6700\u5f8c\u306e\u97f3\u697d\u968a (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1jZkUCLq2qRSDmIuPmmvUD"
     },
     {
       "album": {
@@ -7131,6 +7201,36 @@
     },
     {
       "album": {
+        "name": "\u590f\u7a7a\u30e1\u30c9\u30ec\u30fc\uff1aTell Your World/\u305f\u3060\u98a8\u3092\u8ffd\u3044\u304b\u3051\u3066",
+        "url": "https://open.spotify.com/album/7a6kcHCwngm94WrBmox1tO"
+      },
+      "artists": [
+        {
+          "name": "inosoo",
+          "url": "https://open.spotify.com/artist/2WP2HMI2DCLn74vU03a67u"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "\u30ed\u30d3\u30f3",
+          "url": "https://open.spotify.com/artist/3yqXCGfZF6IlYLUc5UeSGE"
+        },
+        {
+          "name": "Chevy",
+          "url": "https://open.spotify.com/artist/2K1q0Y8cLsjB62ChzRhNyy"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "\u590f\u7a7a\u30e1\u30c9\u30ec\u30fc\uff1aTell Your World/\u305f\u3060\u98a8\u3092\u8ffd\u3044\u304b\u3051\u3066 (feat. \u521d\u97f3\u30df\u30af&\u30ed\u30d3\u30f3&Chevy)",
+      "url": "https://open.spotify.com/track/7iuFayVMaJizo4T8JpRKDV"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30f3\u306e\u3046\u308b\u3068\u3089!!",
         "url": "https://open.spotify.com/album/5kIWJGwu8izDwEVutvCzLo"
       },
@@ -7662,7 +7762,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 211166,
       "name": "\u5f62\u800c\u4e0a\u306e\u829d\u5c45 (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/6v4x6c6k1y9x4zsDvOgG0n"
@@ -8024,7 +8124,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 194750,
       "name": "\u661f\u306b\u4e00\u756a\u8fd1\u3044\u5834\u6240 (feat. \u93e1\u97f3\u30ec\u30f3&\u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/4y3NjNUaa3ytuLUgrioNQi"
@@ -8876,7 +8976,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 148733,
       "name": "\u73fe\u8c61\u03b1 (feat. \u97f3\u8857\u30a6\u30ca)",
       "url": "https://open.spotify.com/track/1H8xN8Rj62uLRx4rI1hzfO"
@@ -9377,6 +9477,28 @@
     },
     {
       "album": {
+        "name": "Special Tea",
+        "url": "https://open.spotify.com/album/538KZEpRjI1n0ZbSTUMY83"
+      },
+      "artists": [
+        {
+          "name": "\u68ee\u7f85",
+          "url": "https://open.spotify.com/artist/4NATLO7T00XhUqYGvycxuN"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "\u8336\u8449 (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/5Yr5HwJN24xRonIjcgy6N5"
+    },
+    {
+      "album": {
         "name": "\u8584\u7d05\u8272\u306e\u63fa\u308a\u7c60",
         "url": "https://open.spotify.com/album/7LDhYrFNMxzVUEzlNjfibS"
       },
@@ -9846,7 +9968,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 212500,
       "name": "\u9be8\u3068\u8b21\u3046\u591c (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4siANHt4RdVafMg5sxCdJ1"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arhcgAAAAAAVjWKSkcrVYIg4/nCWu4lH",
+  "snapshot_id": "armuAAAAAADh+u2jPX8MTB1EzUMSdE0v",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+        "name": "Play",
+        "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 290626,
-      "name": "Nadia (feat. Juan Diego Florez)",
-      "url": "https://open.spotify.com/track/556fzaLRJYGkUvLK8LQmQf"
+      "duration_ms": 237573,
+      "name": "Buscando Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6AXzOb7rKHui82CU8Q5WNW"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Buscando Raz\u00f3n",
-      "url": "https://open.spotify.com/track/6AXzOb7rKHui82CU8Q5WNW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amazonas",
         "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
@@ -340,9 +324,25 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 283440,
-      "name": "Ponerme a volar",
-      "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
+      "duration_ms": 290626,
+      "name": "Nadia (feat. Juan Diego Florez)",
+      "url": "https://open.spotify.com/track/556fzaLRJYGkUvLK8LQmQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Recu\u00e9stame",
+      "url": "https://open.spotify.com/track/1j91eyFgzH7MiAmUCtjBSh"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Recu\u00e9stame",
-      "url": "https://open.spotify.com/track/1j91eyFgzH7MiAmUCtjBSh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amazonas",
         "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
@@ -404,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Hay un modo",
-      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
+      "duration_ms": 283440,
+      "name": "Ponerme a volar",
+      "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
     },
     {
       "added_at": null,
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 236186,
-      "name": "Amazonas",
-      "url": "https://open.spotify.com/track/5yJQWY6GhEF5i4mj717vp1"
+      "duration_ms": 215200,
+      "name": "Hay un modo",
+      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
     },
     {
       "added_at": null,
@@ -568,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 237880,
-      "name": "Ella y \u00e9l",
-      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
+      "duration_ms": 236186,
+      "name": "Amazonas",
+      "url": "https://open.spotify.com/track/5yJQWY6GhEF5i4mj717vp1"
     },
     {
       "added_at": null,
@@ -632,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 256453,
-      "name": "T\u00fanel del Tiempo",
-      "url": "https://open.spotify.com/track/1znPffZgcfKikzMwcAPYWD"
+      "duration_ms": 237880,
+      "name": "Ella y \u00e9l",
+      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 262773,
       "name": "El Triunfo Tan So\u00f1ado",
       "url": "https://open.spotify.com/track/0sY6nOI7cfuMlmm1z8PY6j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "T\u00fanel del Tiempo",
+      "url": "https://open.spotify.com/track/1znPffZgcfKikzMwcAPYWD"
     }
   ],
   "unique_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",

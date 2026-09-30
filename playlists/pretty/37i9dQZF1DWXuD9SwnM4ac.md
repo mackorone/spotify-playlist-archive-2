@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: The Moving Stills
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,239 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,238 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 98 | [Emailz](https://open.spotify.com/track/2rGaO3kO003kM8k9rBYClO) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [DMA'S](https://open.spotify.com/album/4Kv9OwVTPZLYN8h0OJIHid) | 3:37 |
 | 99 | [Spill](https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Spill](https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa) | 3:15 |
 
-Snapshot ID: `AAAAAO9S+hviqM1ldOJbLjyaYP1caauy`
+Snapshot ID: `AAAAAMv86IjNBGe3rFKmI8HCxH1nDbM4`

@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 2131,
+  "num_followers": 2132,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arhcgAAAAAA+CKmVoCZEGwk2jkBes3Zc",
+  "snapshot_id": "armuAAAAAADn5XP7C9cVgdWWqNPWYF1/",
   "tracks": [
     {
       "added_at": null,
@@ -203,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty Something",
-        "url": "https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6"
+        "name": "autonomy+",
+        "url": "https://open.spotify.com/album/3wVtf0A7EYRwKuJqEz9gKA"
       },
       "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        },
         {
           "name": "Aidan Bissett",
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 189954,
-      "name": "Twenty Something",
-      "url": "https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj"
+      "duration_ms": 189538,
+      "name": "Hands On (feat. Aidan Bissett)",
+      "url": "https://open.spotify.com/track/6KNdmRSHpb7FJRsHXk96yA"
     },
     {
       "added_at": null,
@@ -235,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "autonomy+",
-        "url": "https://open.spotify.com/album/3wVtf0A7EYRwKuJqEz9gKA"
+        "name": "Twenty Something",
+        "url": "https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6"
       },
       "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        },
         {
           "name": "Aidan Bissett",
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 189538,
-      "name": "Hands On (feat. Aidan Bissett)",
-      "url": "https://open.spotify.com/track/6KNdmRSHpb7FJRsHXk96yA"
+      "duration_ms": 189954,
+      "name": "Twenty Something",
+      "url": "https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj"
     },
     {
       "added_at": null,

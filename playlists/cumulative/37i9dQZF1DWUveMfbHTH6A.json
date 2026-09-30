@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Lack of G-LIP",
+        "url": "https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4"
+      },
+      "artists": [
+        {
+          "name": "Camille Keller",
+          "url": "https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "dog-tired",
+      "url": "https://open.spotify.com/track/4ckNiDVC9gYumzgg9qZTQH"
+    },
+    {
+      "album": {
         "name": "Don't Count Me Out",
         "url": "https://open.spotify.com/album/2FePLiHwZ9hrrX53Zj4sUR"
       },
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 185370,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/4jCaZ9hfqm1CQRvshbvhTU"

@@ -11335,6 +11335,24 @@
     },
     {
       "album": {
+        "name": "Never Leave U",
+        "url": "https://open.spotify.com/album/5rFrWczbNB34mjzq0NDRr6"
+      },
+      "artists": [
+        {
+          "name": "Sonny Kane",
+          "url": "https://open.spotify.com/artist/5AAojYr0Ov163yqEVDi5l5"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221787,
+      "name": "Never Leave U",
+      "url": "https://open.spotify.com/track/23khOJxVCE4SEDYCf4mZb8"
+    },
+    {
+      "album": {
         "name": "Never Let Me Down",
         "url": "https://open.spotify.com/album/5qrCoCKxWEDf5y5yERNArR"
       },
@@ -13262,7 +13280,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 114105,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/7dX72nBWi8thmjq0JI8EBk"

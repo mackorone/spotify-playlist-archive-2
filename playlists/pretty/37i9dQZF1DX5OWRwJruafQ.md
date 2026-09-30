@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,725 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,792 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Have Too](https://open.spotify.com/track/3OKiaEUDDEnsZeh4yOvhLp) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [Have Too](https://open.spotify.com/album/2MxwtkkcQv2GYahjmuKnNS) | 2:04 |
 | 100 | [Unskippable](https://open.spotify.com/track/6D0UutN2BbNaVP1RXHeRe5) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k), [RAFAL](https://open.spotify.com/artist/3kjboz3TWSwnvvLdXSOX9z) | [Unskippable](https://open.spotify.com/album/0zjBmT5JsW3W317YFGEuJR) | 2:21 |
 
-Snapshot ID: `AAAAACiv/SGr/F/gn9yZOgDpqmNNhvet`
+Snapshot ID: `AAAAAL1EWQofJBYAOocg5VrcphA/VFhy`

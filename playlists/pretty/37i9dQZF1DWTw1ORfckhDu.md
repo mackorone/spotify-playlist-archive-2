@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,638 likes - 110 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,637 likes - 110 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 109 | [Rockstar \(feat\. Janna\)](https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rockstar \(feat\. Janna\)](https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ) | 2:54 |
 | 110 | [Vegas](https://open.spotify.com/track/1FSLfeVSwPw5eIYZ8dMTG5) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Vegas](https://open.spotify.com/album/6pWr8NFneDblJvbXdkJttO) | 2:25 |
 
-Snapshot ID: `AAAAAK93SdCck7Yx4oEwga46mJb+lae1`
+Snapshot ID: `AAAAAOnYYCsFV+8caXiUpM4WlfXURCz1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Corey Kent
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,636,767 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,637,144 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Appalachian Raised](https://open.spotify.com/track/4fIHkwFU2L36TqKrDtUWey) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Appalachian Raised](https://open.spotify.com/album/3cAZNZ7KJYzfzGaiimK2fR) | 3:43 |
 | 50 | [Think About Me](https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Think About Me](https://open.spotify.com/album/2nQaXdzjSp7ZkNapPxIZiA) | 2:39 |
 
-Snapshot ID: `AAAAAJX4r+6gTmzGGVFXaYIwsFCkefjh`
+Snapshot ID: `AAAAADGZditOhD6KAG5BQZEZe78Qv7K+`

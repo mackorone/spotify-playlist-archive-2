@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Wasia Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,895 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,897 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Utopia](https://open.spotify.com/track/645Nzy8pjijHCGktPNEv5O) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Utopia](https://open.spotify.com/album/0nfR3Ynoarnypo1jcpNwDj) | 3:54 |
 | 100 | [speedboat](https://open.spotify.com/track/1horiWF2fc97Q0uBdb8CAE) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [speedboat](https://open.spotify.com/album/3RoBaqNNyDm9NEhUiiVM9V) | 3:12 |
 
-Snapshot ID: `AAAAAG78+jix+177+mKMYXS76oxRLwAB`
+Snapshot ID: `AAAAAGq3NWSQC0id/1MGC1Q+4R6Vy7TD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > quem tá no comando? // Ciça
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,812 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,732 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 50 | [Música pra Mc's](https://open.spotify.com/track/7MNddRTvDuICSbFXn77BSU) | [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Nativo](https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k) | 1:48 |
 | 51 | [NOITES TRAIÇOEIRAS](https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Você Precisa do Álibi](https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX) | 2:45 |
 
-Snapshot ID: `AAAAAHOhAtR5pfD8btyNR6+c7XVQGyUO`
+Snapshot ID: `AAAAAO7uCgcek60ePXsT3jjWqUTBopYZ`

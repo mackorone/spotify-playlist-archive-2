@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Mirella, Aliisa Syrjä, Vilma Jää..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,620 likes - 103 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,622 likes - 103 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 102 | [veil of ignorance](https://open.spotify.com/track/790cPARgTzZDJe7EP6mpTw) | [soki yue](https://open.spotify.com/artist/3pSvLi87jU6OWr1zk8lBj9) | [semantic satiation](https://open.spotify.com/album/6vMooMWIQu5edHHxdeDTTf) | 2:29 |
 | 103 | [Come Through](https://open.spotify.com/track/06nuQASic35njbk01mB2KY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Come Through](https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS) | 2:52 |
 
-Snapshot ID: `AAAAAJxWL28FmRemjXAbOgXdcpRSqX5c`
+Snapshot ID: `AAAAACXSPtkDnX5hLqlSPtacVsH06r5v`

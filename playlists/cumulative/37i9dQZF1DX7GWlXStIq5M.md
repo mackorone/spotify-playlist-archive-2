@@ -4,7 +4,7 @@
 
 > Hits e novos nomes do pop experimentando no mesmo palco! Foto: Bia Soull, Vita
 
-1,225 songs - 2 day 12 hr 45 min
+1,226 songs - 2 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Brilho](https://open.spotify.com/track/19Jjfmq5r74zSjuJPx9r5P) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q) | [Brilho](https://open.spotify.com/album/5BiPHAuUfPVatyElXJdrce) | 3:35 | 2020-10-20 | 2022-07-29 |
 | [BRINCA COM A...](https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [BRINCA COM A...](https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2) | 3:02 | 2023-02-14 | 2023-06-17 |
 | [BRINCADEIRA](https://open.spotify.com/track/6DT9JJRSc2eYhRK8oJpMyf) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [BRINCADEIRA](https://open.spotify.com/album/6xbriig0l2cAG4aV6zdzm5) | 2:45 | 2025-08-15 | 2025-10-18 |
-| [Brisa Boa](https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC) | [Triêtu](https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV) | [Brisa Boa](https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv) | 2:51 | 2026-05-29 |  |
+| [Brisa Boa](https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC) | [Triêtu](https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV) | [Brisa Boa](https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv) | 2:51 | 2026-05-29 | 2026-09-30 |
 | [Brisadão Na Dela](https://open.spotify.com/track/0lfiCykYr1kvnZyZxGN0rB) | [xang](https://open.spotify.com/artist/4naDHvC9oln9sz6Rwfvory), [mayklove](https://open.spotify.com/artist/3ViPtN67C4po5HoqLgJy9m), [Bonde R300](https://open.spotify.com/artist/5rhznZjKfSxtKVqB0JZtpC), [biel bolado](https://open.spotify.com/artist/2uzMoXMqmluquh8zgtzcte) | [Brisadão Na Dela](https://open.spotify.com/album/2oEoPgjc0CfTcwtoJgS18N) | 2:24 | 2020-10-20 | 2022-07-14 |
 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 | 2025-02-21 | 2025-03-29 |
 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 | 2020-10-20 | 2023-02-15 |
@@ -498,6 +498,7 @@
 | [Grand Piano](https://open.spotify.com/track/7EAqV4qeoHo6IO8IVs7THx) | [ALVA](https://open.spotify.com/artist/5H48mmfpWMyzWSqFd4qy5s), [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v) | [Grand Piano](https://open.spotify.com/album/2OhFT1MP2QaII57FQjNEH8) | 2:33 | 2023-10-20 | 2023-12-02 |
 | [Grip](https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 1:50 | 2024-04-26 | 2024-08-31 |
 | [Habilidosamente](https://open.spotify.com/track/1gbls4hHLP5Fx6P5fEgcWr) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Habilidosamente](https://open.spotify.com/album/2BLsvryvNSZk9Tn6oZK8p4) | 3:16 | 2026-04-03 | 2026-06-26 |
+| [HATER](https://open.spotify.com/track/5VwJm9hLYWlRDVUI6zctma) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 1:59 | 2026-09-25 |  |
 | [Heatin Up \(feat\. Gunna\)](https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:57 | 2020-10-20 | 2023-02-15 |
 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 | 2023-08-25 | 2023-09-16 |
 | [High Right Now \(feat\. Wiz Khalifa\) \- Remix](https://open.spotify.com/track/5DPASDOoVakOcD8EIhb46T) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [High Right Now \(feat\. Wiz Khalifa\) \[Remix\]](https://open.spotify.com/album/0imwCieoxougGmptrN1WAx) | 2:55 | 2020-10-20 | 2023-02-15 |

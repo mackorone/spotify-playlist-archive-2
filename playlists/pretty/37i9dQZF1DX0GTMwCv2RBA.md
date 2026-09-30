@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 
 > Listen to the soundtrack and discover music curated by director James Gunn for each character in Superman\. In theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,019 likes - 198 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,004 likes - 198 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 | 78 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 |
 | 79 | [Insistor](https://open.spotify.com/track/0VL70FZnkTBOgWWuidfLNL) | [Tapes 'n Tapes](https://open.spotify.com/artist/3PjtmMdeYx3Dg49ZRLS27J) | [The Loon](https://open.spotify.com/album/466MOrUrWPGpb6XGLZFtKd) | 4:20 |
 | 80 | [Gift Horse](https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:09 |
-| 81 | [All The Hospitals](https://open.spotify.com/track/5itejz0znh8zEnK7J7LS9f) | [People Eating People](https://open.spotify.com/artist/3fux7UBr3zn1BIXsHR8HXn) | [People Eating People](https://open.spotify.com/album/61pfZnda5C39XjpmNYPyKV) | 4:39 |
+| 81 | [All The Hospitals](https://open.spotify.com/track/5itejz0znh8zEnK7J7LS9f) | [Nouela](https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30) | [People Eating People](https://open.spotify.com/album/61pfZnda5C39XjpmNYPyKV) | 4:39 |
 | 82 | [The Way It Is](https://open.spotify.com/track/4wzJSVJlDPw5Q5L4gqQipX) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Neptune City](https://open.spotify.com/album/07VNU2k8QaZAPOqSixqoWr) | 3:36 |
 | 83 | [Jimmy Olsen: Spotify Official Playlist Introduction](https://open.spotify.com/track/54sf8iWxVCTgwF3pVlvQSe) | [James Gunn](https://open.spotify.com/artist/3tQtOquvJ7w7CG9TCIrOVU) | [Jimmy Olsen: Spotify Official Playlist Introduction](https://open.spotify.com/album/3BMd2iO69jH9CBCRxLnnIZ) | 0:34 |
 | 84 | [Work Out](https://open.spotify.com/track/5K1NocCtXE91XnEr0lJW2D) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Prima/Vera](https://open.spotify.com/album/28LByta0Al2dciYEizVytX) | 3:43 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 | 197 | [Walking on Air](https://open.spotify.com/track/0MeIQlWZIDJeRlOgRuYJsU) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Superman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NrArmSSCpQg2eDq7vqRyA) | 1:34 |
 | 198 | [Punkrocker \(feat\. Iggy Pop\)](https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 4:06 |
 
-Snapshot ID: `AAAAACGEpEE7XTWLT1TxQ1LZ8ONI9JZ2`
+Snapshot ID: `AAAAANvrSqzAZCb9h5KgiuX/y97ceZ0O`

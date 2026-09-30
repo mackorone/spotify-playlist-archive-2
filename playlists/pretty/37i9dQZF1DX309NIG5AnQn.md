@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo y sudamericano\. <br/>📷 Niña Lobo
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,986 likes - 110 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,988 likes - 110 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 109 | [no tengo plata](https://open.spotify.com/track/1Jpnh08qOURW1ZMLeLID2P) | [Garbage People](https://open.spotify.com/artist/4jxBa85KpvmZuD2N9Ug4s2) | [no tengo plata](https://open.spotify.com/album/1qLqFTqvXBl9JsMy4QGLYm) | 3:41 |
 | 110 | [Tan Adorable](https://open.spotify.com/track/7cSnscdxaW12w0T6eQzMAT) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [ATALAYA AVALANCHA](https://open.spotify.com/album/50Tx2aMQD2tI4mZDR7xRaQ) | 2:27 |
 
-Snapshot ID: `AAAAAHDtfiJyAWsiiMZfqC/F0IupS6rK`
+Snapshot ID: `AAAAAAwUJSbwX/UhxHUJhC34DBN95+Me`

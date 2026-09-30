@@ -1,12 +1,12 @@
 {
   "description": "All great, all British.",
-  "num_followers": 768610,
+  "num_followers": 768634,
   "original_name": "Best of British",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMCTRA+LlJ4BH8H3GxCcQppl+Ho0",
+  "snapshot_id": "AAAAAH9eB4WN8Em3vzrH9B51pGlcw5OS",
   "tracks": [
     {
       "added_at": "2026-02-27 15:10:20",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
-    },
-    {
-      "added_at": "2026-02-27 15:10:20",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 237146,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G"
+    },
+    {
+      "added_at": "2026-02-27 15:10:20",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2026-02-27 15:10:20",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
-    },
-    {
-      "added_at": "2026-02-27 15:10:20",
-      "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+    },
+    {
+      "added_at": "2026-02-27 15:10:20",
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
     },
     {
       "added_at": "2026-02-27 15:10:20",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 350266,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
-    },
-    {
-      "added_at": "2026-02-27 15:10:20",
-      "album": {
         "name": "The Number of the Beast (2015 Remaster)",
         "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 233506,
       "name": "Run to the Hills - 2015 Remaster",
       "url": "https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr"
+    },
+    {
+      "added_at": "2026-02-27 15:10:20",
+      "album": {
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 350266,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
     },
     {
       "added_at": "2026-02-27 15:10:20",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Life on Mars? - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
+    },
+    {
+      "added_at": "2026-02-27 15:10:20",
+      "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 235986,
-      "name": "Life on Mars? - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
+      "duration_ms": 218000,
+      "name": "Plug in Baby",
+      "url": "https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi"
     },
     {
       "added_at": "2026-02-27 15:10:20",
@@ -1443,22 +1459,6 @@
       "duration_ms": 244720,
       "name": "Blue Monday '88",
       "url": "https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu"
-    },
-    {
-      "added_at": "2026-02-27 15:10:20",
-      "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Plug in Baby",
-      "url": "https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi"
     },
     {
       "added_at": "2026-02-27 15:10:20",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
+        "name": "Common Sense",
+        "url": "https://open.spotify.com/album/6fUnZqjU3bwBOZIsQ4kN1Q"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Did You See",
+      "url": "https://open.spotify.com/track/6DXEZzM4wBa3EOl0NCNSvz"
+    },
+    {
+      "added_at": "2026-02-27 15:10:20",
+      "album": {
         "name": "Dance, No One's Watching",
         "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 239306,
       "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
       "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk"
-    },
-    {
-      "added_at": "2026-02-27 15:10:20",
-      "album": {
-        "name": "Common Sense",
-        "url": "https://open.spotify.com/album/6fUnZqjU3bwBOZIsQ4kN1Q"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Did You See",
-      "url": "https://open.spotify.com/track/6DXEZzM4wBa3EOl0NCNSvz"
     },
     {
       "added_at": "2026-02-27 15:10:20",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
-    },
-    {
-      "added_at": "2026-02-27 15:10:20",
-      "album": {
         "name": "All the Little Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/6WBDLlICqs6YmZPBQJKsKM"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/5rEvuW4YhwobKwGL1HPrXA"
+    },
+    {
+      "added_at": "2026-02-27 15:10:20",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2026-02-27 15:10:20",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
-        "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
-        "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
-      },
-      "artists": [
-        {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Anarchy In The UK",
-      "url": "https://open.spotify.com/track/5moTxUGPZXgGmosl4rIELm"
-    },
-    {
-      "added_at": "2026-02-27 15:10:20",
-      "album": {
         "name": "The Great Escape (Special Edition)",
         "url": "https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 238520,
       "name": "The Universal - 2012 Remaster",
       "url": "https://open.spotify.com/track/63G27PTar9LZQgKU2BKjx9"
+    },
+    {
+      "added_at": "2026-02-27 15:10:20",
+      "album": {
+        "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
+        "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "Anarchy In The UK",
+      "url": "https://open.spotify.com/track/5moTxUGPZXgGmosl4rIELm"
     },
     {
       "added_at": "2026-02-27 15:10:20",
@@ -2735,22 +2735,6 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
-        "name": "Rock 'n' Roll Juvenile",
-        "url": "https://open.spotify.com/album/2QV9SouhSHFNpls0Dvyoo5"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard",
-          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "We Don't Talk Anymore - 2001 Remaster",
-      "url": "https://open.spotify.com/track/3Ug96zKa29P3vICEEcYajZ"
-    },
-    {
-      "added_at": "2026-02-27 15:10:20",
-      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/4P2zvXqsnB2YBPKmscYM5c"
       },
@@ -2763,6 +2747,22 @@
       "duration_ms": 186866,
       "name": "All About You",
       "url": "https://open.spotify.com/track/0ElmwRAsaxaUZXnMbaSllH"
+    },
+    {
+      "added_at": "2026-02-27 15:10:20",
+      "album": {
+        "name": "Rock 'n' Roll Juvenile",
+        "url": "https://open.spotify.com/album/2QV9SouhSHFNpls0Dvyoo5"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "We Don't Talk Anymore - 2001 Remaster",
+      "url": "https://open.spotify.com/track/3Ug96zKa29P3vICEEcYajZ"
     },
     {
       "added_at": "2026-02-27 15:10:20",
@@ -2935,22 +2935,6 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": "2026-02-27 15:10:20",
-      "album": {
         "name": "JLS",
         "url": "https://open.spotify.com/album/37ocVmUr58CZsunyOapI3m"
       },
@@ -2963,6 +2947,22 @@
       "duration_ms": 195093,
       "name": "Everybody in Love",
       "url": "https://open.spotify.com/track/2iLN22AngD3PTsbvBu5ypL"
+    },
+    {
+      "added_at": "2026-02-27 15:10:20",
+      "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
     },
     {
       "added_at": "2026-02-27 15:10:20",
@@ -3487,6 +3487,22 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
+        "name": "Hats",
+        "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
+      },
+      "artists": [
+        {
+          "name": "The Blue Nile",
+          "url": "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
+        }
+      ],
+      "duration_ms": 321706,
+      "name": "Let's Go Out Tonight",
+      "url": "https://open.spotify.com/track/72YSXnRqU2Gzw0CZ38ARRG"
+    },
+    {
+      "added_at": "2026-02-27 15:10:20",
+      "album": {
         "name": "Collections",
         "url": "https://open.spotify.com/album/02ANhkizVofDOA9XsbMhhr"
       },
@@ -3511,22 +3527,6 @@
       "duration_ms": 231800,
       "name": "Baby Come Back",
       "url": "https://open.spotify.com/track/3x2kmgb1QPoy7iTKtbvTY9"
-    },
-    {
-      "added_at": "2026-02-27 15:10:20",
-      "album": {
-        "name": "Hats",
-        "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
-      },
-      "artists": [
-        {
-          "name": "The Blue Nile",
-          "url": "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
-        }
-      ],
-      "duration_ms": 321706,
-      "name": "Let's Go Out Tonight",
-      "url": "https://open.spotify.com/track/72YSXnRqU2Gzw0CZ38ARRG"
     },
     {
       "added_at": "2026-02-27 15:10:20",
@@ -4107,22 +4107,6 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
-        "name": "White Ladder",
-        "url": "https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp"
-      },
-      "artists": [
-        {
-          "name": "David Gray",
-          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/5jLqVCGlKNYrLqCA1Qy4FV"
-    },
-    {
-      "added_at": "2026-02-27 15:10:20",
-      "album": {
         "name": "Back to Front (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7EZeSlS7lupfVVaZXGXVUs"
       },
@@ -4139,18 +4123,38 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
-        "name": "Untrue",
-        "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq"
+        "name": "White Ladder",
+        "url": "https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp"
       },
       "artists": [
         {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+          "name": "David Gray",
+          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
         }
       ],
-      "duration_ms": 240426,
-      "name": "Archangel",
-      "url": "https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3"
+      "duration_ms": 265666,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/5jLqVCGlKNYrLqCA1Qy4FV"
+    },
+    {
+      "added_at": "2026-02-27 15:10:20",
+      "album": {
+        "name": "Gang Signs & Prayer",
+        "url": "https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 230654,
+      "name": "Blinded By Your Grace, Pt. 2 (feat. MNEK)",
+      "url": "https://open.spotify.com/track/0ihguwGVwKihJ1Nj8fGQlY"
     }
   ],
   "unique_name": "Best of British",

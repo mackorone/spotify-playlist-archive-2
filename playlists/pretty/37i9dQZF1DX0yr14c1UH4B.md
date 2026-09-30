@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌷 cover: Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,379 likes - 102 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,383 likes - 102 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 101 | [Time Lost](https://open.spotify.com/track/0aHSrR8RefR8MbMt5X9DYo) | [Kanako Yamamoto](https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E) | [Time Lost](https://open.spotify.com/album/4CJCGMU40qZmYtJrAgJJrO) | 2:45 |
 | 102 | [I don’t mind if you don’t mind](https://open.spotify.com/track/1jXDRZjQ36rZrXmq6HiudV) | [Minna](https://open.spotify.com/artist/4Qk9F01tP4FfjkBam8LfNL) | [I don’t mind if you don’t mind](https://open.spotify.com/album/1kxCluFD9ZYsYcHJWKLAZv) | 3:36 |
 
-Snapshot ID: `AAAAAKgx5wcrX86n8G6H0AZwma/fmcGE`
+Snapshot ID: `AAAAADCWXh5K+7CafbG3ZYRL/bvoEZIS`

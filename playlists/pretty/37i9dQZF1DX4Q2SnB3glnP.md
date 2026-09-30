@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,304 likes - 270 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,345 likes - 270 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 269 | [Ghost Concept](https://open.spotify.com/track/4597QKyHJAp4rIMPhxYP5s) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Ghost Concept](https://open.spotify.com/album/4D5FyV6DwLPD8dqV83SnDu) | 2:26 |
 | 270 | [Sleep Among the Stars of Earth](https://open.spotify.com/track/5VRb7Y69OmwyXc2W6kxAue) | [Edge of Dreams](https://open.spotify.com/artist/5MhtcKdd5DHUpE0FvQFrBF) | [Sleep Among the Stars of Earth](https://open.spotify.com/album/7Kxw9WoDYc1eWPd5vnGolw) | 3:16 |
 
-Snapshot ID: `AAAAABoJ4ZUVt61qPjtS6C07jJyT5Fkt`
+Snapshot ID: `AAAAAAZfHV9HOulCC1dBDzQjk7s5bRpw`

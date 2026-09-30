@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Roxie
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,548 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,552 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 64 | [BINGO](https://open.spotify.com/track/2wGVE0g9O1W0y5qn1dhxWc) | [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [BINGO](https://open.spotify.com/album/7CicXo3iHdF0zdD3yWMFuA) | 3:06 |
 | 65 | [Lubię](https://open.spotify.com/track/649HjW6EistRBhaQqucXx3) | [Szymon Chodyniecki](https://open.spotify.com/artist/5lvJTv1FsQRmImZdS1lkf1) | [Lubię](https://open.spotify.com/album/5QenJ0YGf4jbT0TMkcNhji) | 2:34 |
 
-Snapshot ID: `AAAAACCmv5TdNN8RnD0i1bpDyB1xtkXL`
+Snapshot ID: `AAAAAK1BiDxTIIrZY0hCi8ijTqE/mwhe`

@@ -1,12 +1,12 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Gazo, La Mano 1.9",
-  "num_followers": 24198,
+  "num_followers": 24223,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC8uZTHSTnzl9RuUY8Mc8veCcBgi",
+  "snapshot_id": "AAAAAIPmFZUbZUcgjMHhNYyd/pGF4YII",
   "tracks": [
     {
       "added_at": "2026-09-25 11:51:26",
@@ -243,18 +243,22 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "Sarah B.",
-        "url": "https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7"
+        "name": "Fille \u00e0 Papa",
+        "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
       },
       "artists": [
         {
-          "name": "Bello&Dallas",
-          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
         }
       ],
-      "duration_ms": 153061,
-      "name": "S\u00e9minaire",
-      "url": "https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd"
+      "duration_ms": 169586,
+      "name": "Fille \u00e0 Papa",
+      "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -291,6 +295,22 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
+        "name": "Sarah B.",
+        "url": "https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "duration_ms": 153061,
+      "name": "S\u00e9minaire",
+      "url": "https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd"
+    },
+    {
+      "added_at": "2026-09-25 11:51:26",
+      "album": {
         "name": "REN\u00c9 CAOVILLA",
         "url": "https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 137973,
       "name": "REN\u00c9 CAOVILLA",
       "url": "https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT"
-    },
-    {
-      "added_at": "2026-09-25 11:51:26",
-      "album": {
-        "name": "Fille \u00e0 Papa",
-        "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Fille \u00e0 Papa",
-      "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "Ch\u00e9rie coco",
-        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Ch\u00e9rie coco",
-      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
-    },
-    {
-      "added_at": "2026-09-25 11:51:26",
-      "album": {
         "name": "AVEC MOI",
         "url": "https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 182000,
       "name": "AVEC MOI",
       "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
+    },
+    {
+      "added_at": "2026-09-25 11:51:26",
+      "album": {
+        "name": "Ch\u00e9rie coco",
+        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Ch\u00e9rie coco",
+      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "FENG SHUI",
-        "url": "https://open.spotify.com/album/3pJk3LGl7GsxDA7KhnUouv"
-      },
-      "artists": [
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "FENG SHUI",
-      "url": "https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna"
-    },
-    {
-      "added_at": "2026-09-25 11:51:26",
-      "album": {
         "name": "Les avions dessinent dans le ciel",
         "url": "https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 183694,
       "name": "Les avions dessinent dans le ciel",
       "url": "https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci"
+    },
+    {
+      "added_at": "2026-09-25 11:51:26",
+      "album": {
+        "name": "FENG SHUI",
+        "url": "https://open.spotify.com/album/3pJk3LGl7GsxDA7KhnUouv"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "FENG SHUI",
+      "url": "https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
+        "name": "MCM",
+        "url": "https://open.spotify.com/album/09EfixvderJHbDPcLYfajv"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "MCM",
+      "url": "https://open.spotify.com/track/2T44mRgdxoqZpRrbG2WbQZ"
+    },
+    {
+      "added_at": "2026-09-25 11:51:26",
+      "album": {
         "name": "INCOGNITO",
         "url": "https://open.spotify.com/album/5vxY4g17h34gpaeuiMfSo5"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 158776,
       "name": "INCOGNITO",
       "url": "https://open.spotify.com/track/2uoKEakNdnvTGA5YOgQKZx"
-    },
-    {
-      "added_at": "2026-09-25 11:51:26",
-      "album": {
-        "name": "MCM",
-        "url": "https://open.spotify.com/album/09EfixvderJHbDPcLYfajv"
-      },
-      "artists": [
-        {
-          "name": "Niaks",
-          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
-        }
-      ],
-      "duration_ms": 161586,
-      "name": "MCM",
-      "url": "https://open.spotify.com/track/2T44mRgdxoqZpRrbG2WbQZ"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "2026",
-        "url": "https://open.spotify.com/album/6VANzyAP5IDX28q3IRaCEM"
-      },
-      "artists": [
-        {
-          "name": "La F\u00e8ve",
-          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
-        }
-      ],
-      "duration_ms": 218176,
-      "name": "2026",
-      "url": "https://open.spotify.com/track/1VWyUUj31HoE3BLCIAEvke"
-    },
-    {
-      "added_at": "2026-09-25 11:51:26",
-      "album": {
         "name": "PASADENA",
         "url": "https://open.spotify.com/album/5VqUIAfpED1w5lmy98VowY"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 178203,
       "name": "PASADENA",
       "url": "https://open.spotify.com/track/0tMrzFkVagrVZ5b6zAidIy"
+    },
+    {
+      "added_at": "2026-09-25 11:51:26",
+      "album": {
+        "name": "2026",
+        "url": "https://open.spotify.com/album/6VANzyAP5IDX28q3IRaCEM"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "duration_ms": 218176,
+      "name": "2026",
+      "url": "https://open.spotify.com/track/1VWyUUj31HoE3BLCIAEvke"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -1815,26 +1815,22 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "Ma Ch\u00e9rie",
-        "url": "https://open.spotify.com/album/01bNJzetmG3fFtvsjptaO3"
+        "name": "MALVADO - R\u00c9\u00c9DITION",
+        "url": "https://open.spotify.com/album/7esGpcVtzjcjCBkd9IGVNb"
       },
       "artists": [
         {
-          "name": "Le D",
-          "url": "https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX"
+          "name": "Lesram",
+          "url": "https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03"
         },
         {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
-        },
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+          "name": "Nekfeu",
+          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
         }
       ],
-      "duration_ms": 220327,
-      "name": "Ma Ch\u00e9rie",
-      "url": "https://open.spotify.com/track/2y4m6INRnuGtmF0nwaZbNx"
+      "duration_ms": 204331,
+      "name": "DIS MOI (feat. Nekfeu)",
+      "url": "https://open.spotify.com/track/7siTckJKPsmo26zJ45mBWW"
     }
   ],
   "unique_name": "Rap francophone",

@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "5D",
       "url": "https://open.spotify.com/track/4n3ZuOZyD5iqSunWxnT2UR"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 164000,
       "name": "5D",
       "url": "https://open.spotify.com/track/6Km87OtLoS2TB6ByTfskJo"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 132680,
       "name": "Aluc\u00edn",
       "url": "https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 132680,
       "name": "Aluc\u00edn",
       "url": "https://open.spotify.com/track/6a4ZdbyvRIm7JMZdFne9Kw"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 154761,
       "name": "Descontrol",
       "url": "https://open.spotify.com/track/32P1jzQQ8K3zp97AirjLFG"
@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 154761,
       "name": "Descontrol",
       "url": "https://open.spotify.com/track/3Uq9Pu7Bqc0PQjLxRBY8aI"
@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 184634,
       "name": "En La Ruta",
       "url": "https://open.spotify.com/track/2v6d8SdiQP4mOFv8AvnDC0"
@@ -3860,7 +3860,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 184640,
       "name": "En La Ruta",
       "url": "https://open.spotify.com/track/79UVZpaORXh1tTcbJ8Kb1L"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 139842,
       "name": "Guisao",
       "url": "https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ"
@@ -4922,7 +4922,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 139842,
       "name": "Guisao",
       "url": "https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe"
@@ -5444,7 +5444,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 155909,
       "name": "KATY PERRY",
       "url": "https://open.spotify.com/track/7F9wULTYG7mrp7bykMoU2K"
@@ -5474,7 +5474,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 155909,
       "name": "KATY PERRY (feat. Sheeno)",
       "url": "https://open.spotify.com/track/6cBYOENWkWOuExwx6AAaOj"
@@ -5946,7 +5946,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 157464,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU"
@@ -5972,7 +5972,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 157464,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/5f7DjdNVytWPMaBiavTCmp"
@@ -7766,7 +7766,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 163627,
       "name": "Ni\u00f1a",
       "url": "https://open.spotify.com/track/4OdL91jpKqrQTg0ONo3xUV"
@@ -7784,7 +7784,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 163627,
       "name": "Ni\u00f1a",
       "url": "https://open.spotify.com/track/5iXNUZNHCH8GZmlytwIUhY"
@@ -8194,7 +8194,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 136653,
       "name": "PA PONERTE EN 4",
       "url": "https://open.spotify.com/track/6uw69uQninEQ3GLqc06Eu0"
@@ -8212,7 +8212,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 136854,
       "name": "PA PONERTE EN 4",
       "url": "https://open.spotify.com/track/13dVyDpqFcosOnGuRLcjp2"
@@ -8318,7 +8318,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Pacas y Pacas",
       "url": "https://open.spotify.com/track/0iutN9Rt2kmHhPVKBNfinY"
@@ -8344,7 +8344,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 140000,
       "name": "Pacas y Pacas",
       "url": "https://open.spotify.com/track/4u8A7aZzMVXEzy4mxgzGjW"
@@ -12096,7 +12096,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 162399,
       "name": "VIDA MALA",
       "url": "https://open.spotify.com/track/48bt7FD8HQ9OgYnKvXD1YI"
@@ -12118,7 +12118,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 162399,
       "name": "VIDA MALA",
       "url": "https://open.spotify.com/track/4VzbpCvKz0RvcWvh7uMSMC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Alice DiMar
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,506 likes - 90 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,599 likes - 90 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Higher](https://open.spotify.com/track/2tLj6c7eIbhjYzAcXxOtbT) | [Rhode & Brown](https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T), [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Permanent Vacation XX 2](https://open.spotify.com/album/1fdDoJhCYeRrKIcsXwJR0D) | 6:16 |
 | 90 | [Boheme](https://open.spotify.com/track/0jMrn8FtCJPbgesTkfRidu) | [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [Eric Costa](https://open.spotify.com/artist/0Z4lNvO9DuQBcL9MNRKIyy) | [Boheme EP](https://open.spotify.com/album/4HSqVO5I1y6gkffcmiVEqX) | 2:58 |
 
-Snapshot ID: `AAAAAEMuNW1rK4ubMCJBh30iSaWKlaAZ`
+Snapshot ID: `AAAAAJBORwT+gIwgy2uiX18jVBSNtNK8`

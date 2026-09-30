@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Half/Angel",
+  "description": "The best new music by independent artists and labels. Cover: Kiridox",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -15649,6 +15649,28 @@
     },
     {
       "album": {
+        "name": "Corners",
+        "url": "https://open.spotify.com/album/2etsmPG6swRyPzqMvzhQ9B"
+      },
+      "artists": [
+        {
+          "name": "BURDS100",
+          "url": "https://open.spotify.com/artist/6eTlzGW7GoQoNspbM8C3Ta"
+        },
+        {
+          "name": "DHEM",
+          "url": "https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163229,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/5z1zXPPIULsMBirZzLXIqL"
+    },
+    {
+      "album": {
         "name": "Cosy Comfy",
         "url": "https://open.spotify.com/album/1m05oNo7TbXqTH6krGas8v"
       },
@@ -21396,6 +21418,24 @@
       "duration_ms": 206181,
       "name": "Driveway",
       "url": "https://open.spotify.com/track/0NDWhFxtRmakSLuxdvkIp4"
+    },
+    {
+      "album": {
+        "name": "driving",
+        "url": "https://open.spotify.com/album/0ZTgd6h3mJLVjubBXtjptW"
+      },
+      "artists": [
+        {
+          "name": "Grace Robinson",
+          "url": "https://open.spotify.com/artist/42iynDMKx9qg3N6mgwq54S"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236921,
+      "name": "driving",
+      "url": "https://open.spotify.com/track/3WOgGxMVB3IK4etsxuzU1n"
     },
     {
       "album": {
@@ -28512,7 +28552,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 185557,
       "name": "Geminii",
       "url": "https://open.spotify.com/track/3NT1oWgSG5QzkUdsZjJiaO"
@@ -57025,6 +57065,28 @@
     },
     {
       "album": {
+        "name": "P.F.S.",
+        "url": "https://open.spotify.com/album/3jjAsBP8jJNU1xhVYPhQr8"
+      },
+      "artists": [
+        {
+          "name": "Kiridox",
+          "url": "https://open.spotify.com/artist/5saO9EqfTzOo033Mzdyzmo"
+        },
+        {
+          "name": "JJ4K",
+          "url": "https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153684,
+      "name": "P.F.S.",
+      "url": "https://open.spotify.com/track/2mJo3MePpbyTMyjKVdF72Z"
+    },
+    {
+      "album": {
         "name": "Pace",
         "url": "https://open.spotify.com/album/7KhrkIe7BPlFGeDLwKsvSh"
       },
@@ -60504,7 +60566,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 240894,
       "name": "Punish",
       "url": "https://open.spotify.com/track/4o4QEtyFluglGxzRG114We"
@@ -69980,7 +70042,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 256799,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/5EoIK57x7sJBb88exsyc6R"
@@ -72614,7 +72676,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 303430,
       "name": "Sweet Boy",
       "url": "https://open.spotify.com/track/24UKgQDbtPkNseU4T0oejv"
@@ -81052,6 +81114,24 @@
       "duration_ms": 177365,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/3FAQF1viWT74bByKb3LK6d"
+    },
+    {
+      "album": {
+        "name": "WAITING ROOMS",
+        "url": "https://open.spotify.com/album/0rcOfLKMHIdOEaeIxGPU8q"
+      },
+      "artists": [
+        {
+          "name": "Seren Emyr",
+          "url": "https://open.spotify.com/artist/1wxFYrRDqTs82B6ZpurSBy"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180967,
+      "name": "WAITING ROOMS",
+      "url": "https://open.spotify.com/track/28jYAVkqHCn2pxIjS2lsqc"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African women at full volume \nCover: <a href=\"https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz?si=9fdd1ea95ec84167\">Lusanda</a>",
+  "description": "African women at full volume \nCover: <a href=\"https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR?si=947292aec3264504\">Solana</a>",
   "name": "EQUAL Africa",
   "tracks": [
     {
@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "AGAIN",
+        "url": "https://open.spotify.com/album/7LHr1BVJLyiA9xD0fBjl7v"
+      },
+      "artists": [
+        {
+          "name": "Nissi",
+          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153183,
+      "name": "AGAIN",
+      "url": "https://open.spotify.com/track/1SaSlPxQa34QGBeNlpyF5v"
+    },
+    {
+      "album": {
         "name": "Ah Well",
         "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
       },
@@ -376,6 +394,24 @@
       "duration_ms": 145454,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/4trTjRaAzPMQrAInUSEKZA"
+    },
+    {
+      "album": {
+        "name": "It's Yemi Alade",
+        "url": "https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Alhaja",
+      "url": "https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl"
     },
     {
       "album": {
@@ -1999,6 +2035,28 @@
     },
     {
       "album": {
+        "name": "Chinyere",
+        "url": "https://open.spotify.com/album/1qvoCRFD3uV59isV5czgUH"
+      },
+      "artists": [
+        {
+          "name": "J'Dess",
+          "url": "https://open.spotify.com/artist/2aUctDbYODpqWfleSUpK6s"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220291,
+      "name": "Chinyere",
+      "url": "https://open.spotify.com/track/7kC22nNl5VK2bzlnF7Xb7N"
+    },
+    {
+      "album": {
         "name": "Destin\u00e9e Supremacy",
         "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
       },
@@ -3013,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Easy Company",
+      "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/0FvnSxzhdYUeHwOHCnC5H1"
       },
@@ -3552,6 +3628,28 @@
       "duration_ms": 232258,
       "name": "Flight Ya Hoseng (feat. Ch'cco, Nomfundo Moh & Baby S.O.N)",
       "url": "https://open.spotify.com/track/0G8mdG6OgKGxH49wkSgp5h"
+    },
+    {
+      "album": {
+        "name": "Fluke",
+        "url": "https://open.spotify.com/album/1Tl1G4TJ6tOA3cNw6r5CiY"
+      },
+      "artists": [
+        {
+          "name": "Haeven",
+          "url": "https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H"
+        },
+        {
+          "name": "2Shuus",
+          "url": "https://open.spotify.com/artist/6Eo29tqff5IN3p06rBvjma"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Fluke",
+      "url": "https://open.spotify.com/track/2e4OfrdRC8YiRqyLZzw8M9"
     },
     {
       "album": {
@@ -4372,7 +4470,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 425084,
       "name": "Guqa (My Prayer)",
       "url": "https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo"
@@ -6470,7 +6568,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 209946,
       "name": "Living Without You",
       "url": "https://open.spotify.com/track/1Qvf8gdxoijey2rvNtePUx"
@@ -7024,7 +7122,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 188000,
       "name": "Makuhia",
       "url": "https://open.spotify.com/track/2Wk9nzP4CIZI8Z0OdHRoGw"
@@ -7108,7 +7206,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 225958,
       "name": "Massa",
       "url": "https://open.spotify.com/track/07e5OdYVfaBRCtVpXUKMrc"
@@ -9520,7 +9618,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 142857,
       "name": "POPSTAR xoxo",
       "url": "https://open.spotify.com/track/5bSTdAeXTfOLs1aimprShk"
@@ -11271,6 +11369,24 @@
     },
     {
       "album": {
+        "name": "Speak To Me",
+        "url": "https://open.spotify.com/album/2uyzf0f95cXqjawLckp8bK"
+      },
+      "artists": [
+        {
+          "name": "Valentino Rose",
+          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164102,
+      "name": "Speak To Me",
+      "url": "https://open.spotify.com/track/2QudWKYB8feL5Q0pHe06pG"
+    },
+    {
+      "album": {
         "name": "Speed",
         "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
       },
@@ -11906,7 +12022,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 189152,
       "name": "Taking Me Places",
       "url": "https://open.spotify.com/track/33ut674yyb3quH7Ubf6Q7J"
@@ -12234,7 +12350,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 307660,
       "name": "Throw Something",
       "url": "https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e"
@@ -12286,6 +12402,24 @@
       "duration_ms": 420061,
       "name": "Tick",
       "url": "https://open.spotify.com/track/4Kt1FWWpVEubzcyPiGBOKL"
+    },
+    {
+      "album": {
+        "name": "Tika",
+        "url": "https://open.spotify.com/album/3ZOZ1sNtwlbLj0fSPDIxhq"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129516,
+      "name": "Tika",
+      "url": "https://open.spotify.com/track/4YWqtagELt3giBdcMQYpC3"
     },
     {
       "album": {
@@ -13137,6 +13271,24 @@
     },
     {
       "album": {
+        "name": "BLNDE FOR PRESIDENT",
+        "url": "https://open.spotify.com/album/02dtj1MTRmvitNmTwjE4Nl"
+      },
+      "artists": [
+        {
+          "name": "BLNDE",
+          "url": "https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141116,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/5Nel8CnZxSZUZ3i3yLowLk"
+    },
+    {
+      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -13788,7 +13940,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 182000,
       "name": "Woman",
       "url": "https://open.spotify.com/track/5oJbBeEZEBmltcKPkLW8Ok"

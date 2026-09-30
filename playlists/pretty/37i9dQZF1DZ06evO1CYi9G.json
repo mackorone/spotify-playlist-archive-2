@@ -1,12 +1,12 @@
 {
   "description": "This is Mudvayne. The essential tracks, all in one playlist.",
-  "num_followers": 65331,
+  "num_followers": 65333,
   "original_name": "This Is Mudvayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arhcgAAAAADlYNBRuVZUzWa2L50GBJTc",
+  "snapshot_id": "armuAAAAAAAhOWz6ir5iBv1eJRakfiqa",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 238826,
-      "name": "-1",
-      "url": "https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1"
+      "duration_ms": 265373,
+      "name": "Internal Primates Forever",
+      "url": "https://open.spotify.com/track/1mhwzvD3iVSR1SUOemLAHc"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 265373,
-      "name": "Internal Primates Forever",
-      "url": "https://open.spotify.com/track/1mhwzvD3iVSR1SUOemLAHc"
+      "duration_ms": 238826,
+      "name": "-1",
+      "url": "https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1"
     },
     {
       "added_at": null,

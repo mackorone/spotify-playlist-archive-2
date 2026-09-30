@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Public Figures
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,116 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,118 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [She Doesn't Want Me to Exist](https://open.spotify.com/track/54donuwNKWydMCljWGvJK8) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [She Doesn't Want Me to Exist](https://open.spotify.com/album/2d1klica3y6jk7nRt413XI) | 2:41 |
 | 75 | [Dior](https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [bitknot](https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ) | 3:32 |
 
-Snapshot ID: `AAAAALSJ6fOCGR/9a2MAGJaotI4mTE4i`
+Snapshot ID: `AAAAAKJSoY1F3Th5GvmCzWNyVOUjaT11`

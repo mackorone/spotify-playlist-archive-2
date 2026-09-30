@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Kirk Franklin & Glorilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,624 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,636 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [This Time \(feat\. GloRilla\)](https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [This Time](https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS) | 2:46 |
+| 1 | [This Time \(with GloRilla\)](https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [This Time](https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS) | 2:46 |
 | 2 | [CHAMPIONS \(feat\. Lecrae\)](https://open.spotify.com/track/0tkoGzoixZ2tKs7Qh1p5wT) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [PROMISE LAND](https://open.spotify.com/album/4UWuBJmG3eAaH9rzS6idl3) | 3:20 |
 | 3 | [GET LOST](https://open.spotify.com/track/3SD9g1XzBgvZIqLTIzvuht) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [GET LOST](https://open.spotify.com/album/79gaio3WGi8a6HYCxjQfTP) | 2:36 |
 | 4 | [BREAK IT DOWN](https://open.spotify.com/track/2QwacvSEOCcIbdKK5DP8zs) | [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [BREAK IT DOWN](https://open.spotify.com/album/070BkYPIQuqzMdod94ihwL) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Here](https://open.spotify.com/track/3NSxiTWTRHF9YG1fta2Jve) | [Brian Doerksen](https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7), [Marika Siewert](https://open.spotify.com/artist/6RZgHgPwp3lGPYGOLOtA61) | [Here](https://open.spotify.com/album/1NcVoOiCqY7rwWcZ61TyNS) | 4:26 |
 | 100 | [The Gardener \(Acoustic\)](https://open.spotify.com/track/2xKtWjozNb5EfZtFZ7ybi5) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Streams: Vol\. One \(Acoustic\)](https://open.spotify.com/album/3CysUsGNQB3H2IGw2gezCL) | 3:53 |
 
-Snapshot ID: `AAAAALVVN41Qz0R6C8ZWrDRCAYymF1iT`
+Snapshot ID: `AAAAAJe7S4u+850OS3DMYpxPBN+7yYh5`

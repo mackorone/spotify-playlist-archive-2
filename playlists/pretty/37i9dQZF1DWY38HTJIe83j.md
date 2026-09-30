@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY38HTJIe83j.md) - [plain]
 
 > A lovely mix of videos from your favorite indie artists\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 772 likes - 61 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 781 likes - 61 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY38HTJIe83j.md) - [plain]
 | 60 | [In Violet](https://open.spotify.com/track/0XBBCoLXMKUKmRlYos1e3F) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [In Violet](https://open.spotify.com/album/5z86TjJAwCzrOGIuRHz7o7) | 4:13 |
 | 61 | [4EVER](https://open.spotify.com/track/59JTquck3mu2kSC5z3BGyb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/0wNbkcRbFMoYx93bUyXdXK) | 3:42 |
 
-Snapshot ID: `AAAAAMRtRPYpfXeSOejDKX0IXRBqk6Aw`
+Snapshot ID: `AAAAAHGcopeDY+vNVwJ/PDPkd0//dT+2`

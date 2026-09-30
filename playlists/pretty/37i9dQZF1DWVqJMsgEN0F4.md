@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Noah Kahan along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,866 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,918 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 79 | [Reverse Psychology](https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Reverse Psychology](https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE) | 2:58 |
 | 80 | [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 |
 
-Snapshot ID: `AAAAAPh6XZPiqJI7H/ruMs7Qyfazot7D`
+Snapshot ID: `AAAAAMmaGBzm2ar97aY5L+0MOxB05OK+`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: sunbleached",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Cowboy Hunters",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 107581,
       "name": "41",
       "url": "https://open.spotify.com/track/2DtZr90lI0oCE7HOcb2GNg"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 223000,
       "name": "Always You",
       "url": "https://open.spotify.com/track/5rGpgp8WxhRJrD4Pi5iL5B"
@@ -2772,6 +2772,24 @@
       "duration_ms": 223013,
       "name": "Automate Me",
       "url": "https://open.spotify.com/track/5ITm1BeRwTwWwfWXdlcVBN"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/4WUWAj37GYwS2ctr2JlDZe"
+      },
+      "artists": [
+        {
+          "name": "Deux Visages",
+          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/05eSbVvcKKWM7aDq6nm5a4"
     },
     {
       "album": {
@@ -4536,7 +4554,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 195333,
       "name": "Birthmark",
       "url": "https://open.spotify.com/track/0BSmfFgnlfWoLYY8h8bzhe"
@@ -11591,6 +11609,24 @@
     },
     {
       "album": {
+        "name": "Done To Me",
+        "url": "https://open.spotify.com/album/1gDzWNuJc9mCJOps25dhnU"
+      },
+      "artists": [
+        {
+          "name": "Palebloom",
+          "url": "https://open.spotify.com/artist/5lix23W9XlUVAI0sLEaYbM"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230863,
+      "name": "Done To Me",
+      "url": "https://open.spotify.com/track/5vuDAgBHMj3gACouRcZkAS"
+    },
+    {
+      "album": {
         "name": "Dog Hours",
         "url": "https://open.spotify.com/album/2bWpM9o6gylXek6NPWli6m"
       },
@@ -11880,6 +11916,24 @@
       "duration_ms": 197435,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/6e79jODLUsPryU2eRbiNL0"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
     },
     {
       "album": {
@@ -14960,6 +15014,24 @@
       "duration_ms": 487789,
       "name": "Free",
       "url": "https://open.spotify.com/track/1Qxo4KrJ8Hf5bmoTf2SNBK"
+    },
+    {
+      "album": {
+        "name": "Free Byrd",
+        "url": "https://open.spotify.com/album/1RW4H2uPlb3wgbeAhMUoBk"
+      },
+      "artists": [
+        {
+          "name": "Lily Konigsberg",
+          "url": "https://open.spotify.com/artist/0C0xVsusgtna2fFBSPQzQS"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181569,
+      "name": "Free Byrd",
+      "url": "https://open.spotify.com/track/1C5r6FyruvhxF41d3VGKAg"
     },
     {
       "album": {
@@ -21565,6 +21637,24 @@
     },
     {
       "album": {
+        "name": "Adult DVD",
+        "url": "https://open.spotify.com/album/17BEYcycElkLNpRbd85OT7"
+      },
+      "artists": [
+        {
+          "name": "Adult DVD",
+          "url": "https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162618,
+      "name": "Jesus Christ Supercar",
+      "url": "https://open.spotify.com/track/04r5UBEwy0gJTmH4OzWMjS"
+    },
+    {
+      "album": {
         "name": "John the Baptist",
         "url": "https://open.spotify.com/album/6ErCiGupSC3rsvKuEePcby"
       },
@@ -23514,7 +23604,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 191602,
       "name": "Lobotomize Me",
       "url": "https://open.spotify.com/track/7I1NaF9iuckI7GDdcGdu2y"
@@ -25160,6 +25250,24 @@
       "duration_ms": 207716,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/1jjNcILpXG7pVASLSzXl1O"
+    },
+    {
+      "album": {
+        "name": "milkweed butterfly",
+        "url": "https://open.spotify.com/album/7JjlVb5nafn69VZt8cSSHE"
+      },
+      "artists": [
+        {
+          "name": "smush",
+          "url": "https://open.spotify.com/artist/0X7rdOQMhW5OjD3cdxdEoU"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "milkweed butterfly",
+      "url": "https://open.spotify.com/track/21NzjKNEzy2k8hCP9N79NC"
     },
     {
       "album": {
@@ -29296,7 +29404,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 138666,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/6hnla18APCDqUIlL2Ry7Rw"
@@ -29422,7 +29530,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 238114,
       "name": "Perennials",
       "url": "https://open.spotify.com/track/4oOXIvjBmaFyGRTlMgIx7a"
@@ -30784,6 +30892,24 @@
       "duration_ms": 155669,
       "name": "Pulling Thorns",
       "url": "https://open.spotify.com/track/6sdONTYEGw8DazXdOtnYTG"
+    },
+    {
+      "album": {
+        "name": "Punched In The Head",
+        "url": "https://open.spotify.com/album/62V5yNNUirACiRWOXe4ydI"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Hunters",
+          "url": "https://open.spotify.com/artist/5GSSYBJxAbpSyj2w2vr5Cp"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118754,
+      "name": "Punched In The Head",
+      "url": "https://open.spotify.com/track/5aYGNl8tDxpl5tURCF3UW0"
     },
     {
       "album": {
@@ -35274,7 +35400,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 213688,
       "name": "Something To Be Said",
       "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
@@ -35772,7 +35898,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 240654,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/2U7v0lH247K8d57q1tWAHE"
@@ -39805,6 +39931,24 @@
     },
     {
       "album": {
+        "name": "Three-Banded Armadillo",
+        "url": "https://open.spotify.com/album/4FFGbUCkqRMzVwvF7xBAfe"
+      },
+      "artists": [
+        {
+          "name": "The Rat Utopia Experiment",
+          "url": "https://open.spotify.com/artist/3JyFf0L4m9YDuka462BWKa"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381600,
+      "name": "Three-Banded Armadillo",
+      "url": "https://open.spotify.com/track/1RnR96tRP6mqZ5Z0I0hoZO"
+    },
+    {
+      "album": {
         "name": "World To Me",
         "url": "https://open.spotify.com/album/0YYEa5959qL0Bcz5vd2pLv"
       },
@@ -40911,6 +41055,24 @@
     },
     {
       "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/04aREc9X6YEicDlY9icLnJ"
+      },
+      "artists": [
+        {
+          "name": "Dazy",
+          "url": "https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173360,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/2MJRMs7ZWRikUtQS3Hs009"
+    },
+    {
+      "album": {
         "name": "Unbelonging",
         "url": "https://open.spotify.com/album/2BFkJStiIJzPeDGLpQ5CYU"
       },
@@ -40958,7 +41120,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 197453,
       "name": "Undefined",
       "url": "https://open.spotify.com/track/4YXvbI13LqYxXkDZVzWuvv"
@@ -41589,6 +41751,24 @@
     },
     {
       "album": {
+        "name": "Swan Dive",
+        "url": "https://open.spotify.com/album/5qDPB5YbkYLc0gUz4svcQd"
+      },
+      "artists": [
+        {
+          "name": "Forest",
+          "url": "https://open.spotify.com/artist/4yhFkgZya8FbiBkJU7t5j6"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212265,
+      "name": "Vulture",
+      "url": "https://open.spotify.com/track/4z0RVi8Dgrx5wgsxI55pLi"
+    },
+    {
+      "album": {
         "name": "POTSLOJO",
         "url": "https://open.spotify.com/album/4WfGzVbKZvpTYTcDum9AP5"
       },
@@ -41960,7 +42140,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-30",
       "duration_ms": 132232,
       "name": "Wasted Tonight",
       "url": "https://open.spotify.com/track/7JaXJWPO9nVTkscVcqINkk"

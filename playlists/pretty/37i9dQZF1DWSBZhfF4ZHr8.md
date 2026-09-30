@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Pierre de Maere & Clara Luciani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,417 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,418 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Si c'est un feu](https://open.spotify.com/track/7ehdEIlwVKTvs6d845c3Ak) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Si c'est un feu](https://open.spotify.com/album/5LvuDmGuKVxshQNbGfcHyG) | 3:16 |
 | 50 | [mAnIAc](https://open.spotify.com/track/1uMISOROzvfKs1i2292HOn) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [mAnIAc](https://open.spotify.com/album/5AmHvTK4lO5DLy8mHZN8RM) | 3:24 |
 
-Snapshot ID: `AAAAAEQzbacZadMmSgmdyFFgi9snvrDd`
+Snapshot ID: `AAAAAJsYCVmM2kAQK8DjgSzwaCXaTJer`

@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 106307,
+  "num_followers": 106347,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIxOd+s+14mKKh4jdqJtfEAw08qT",
+  "snapshot_id": "AAAAAAr+kliLIYPG3ObAn2RfXOqzVQbT",
   "tracks": [
     {
       "added_at": "2026-09-10 22:02:20",
@@ -239,26 +239,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Umsebenzi Wethu, Vol. 2",
-        "url": "https://open.spotify.com/album/3pA1oYHkNliSJVD7JxIIoV"
-      },
-      "artists": [
-        {
-          "name": "Busta 929",
-          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
-        },
-        {
-          "name": "Boohle",
-          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
-        }
-      ],
-      "duration_ms": 377624,
-      "name": "Ngixolele",
-      "url": "https://open.spotify.com/track/7jeXFt3u9o8PveE4CHSOs0"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Tshwala Bam (feat. S.N.E, EeQue)",
         "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "Umsebenzi Wethu, Vol. 2",
+        "url": "https://open.spotify.com/album/3pA1oYHkNliSJVD7JxIIoV"
+      },
+      "artists": [
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
+        }
+      ],
+      "duration_ms": 377624,
+      "name": "Ngixolele",
+      "url": "https://open.spotify.com/track/7jeXFt3u9o8PveE4CHSOs0"
     },
     {
       "added_at": "2026-09-10 22:02:20",
@@ -1299,38 +1299,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
-        "url": "https://open.spotify.com/album/51xo4KX2uPZaNEW3XVKAtr"
-      },
-      "artists": [
-        {
-          "name": "Novatron",
-          "url": "https://open.spotify.com/artist/5rnKcmn5XTpbD9OPEsrV1s"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "Dj 787",
-          "url": "https://open.spotify.com/artist/15IwCeZrdNxjSlaGHkyVwz"
-        },
-        {
-          "name": "Scotts Maphuma",
-          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
-        },
-        {
-          "name": "GoodGuy Styles",
-          "url": "https://open.spotify.com/artist/5WDJlVFkmrfuBA5r1uZz8u"
-        }
-      ],
-      "duration_ms": 414827,
-      "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
-      "url": "https://open.spotify.com/track/58jEBxX0Vu6tloAxdOt07H"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Khetiwe",
         "url": "https://open.spotify.com/album/7LSJg8madvQUCxFIecgHmG"
       },
@@ -1359,6 +1327,38 @@
       "duration_ms": 377812,
       "name": "Khetiwe",
       "url": "https://open.spotify.com/track/1w9VIloDbk4DiwwHD7c9Bc"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
+        "url": "https://open.spotify.com/album/51xo4KX2uPZaNEW3XVKAtr"
+      },
+      "artists": [
+        {
+          "name": "Novatron",
+          "url": "https://open.spotify.com/artist/5rnKcmn5XTpbD9OPEsrV1s"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Dj 787",
+          "url": "https://open.spotify.com/artist/15IwCeZrdNxjSlaGHkyVwz"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "GoodGuy Styles",
+          "url": "https://open.spotify.com/artist/5WDJlVFkmrfuBA5r1uZz8u"
+        }
+      ],
+      "duration_ms": 414827,
+      "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
+      "url": "https://open.spotify.com/track/58jEBxX0Vu6tloAxdOt07H"
     },
     {
       "added_at": "2026-09-10 22:02:20",

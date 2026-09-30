@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,273 likes - 75 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,296 likes - 75 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 74 | [All I Need \(Nothing But The Blood\) \- Live](https://open.spotify.com/track/1TRHvFVFo7D9D1KLWws0Uo) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [All I Need \(Nothing But The Blood\) \[Live\]](https://open.spotify.com/album/6Ilv8DT1LryKDP7E7UvubP) | 7:28 |
 | 75 | [King Of Hope \- Live at Wildfires](https://open.spotify.com/track/1nObEDI5OB74JHBRkbH63a) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [King of Hope \(Live at Wildfires\)](https://open.spotify.com/album/56gKiolg6Q7yrp0KXvkaGC) | 5:02 |
 
-Snapshot ID: `AAAAAIQEK5YPPQyibSIGhGkTJtSykQ8m`
+Snapshot ID: `AAAAABSJyQ4FeLiOcPIjFkzc/AecyAO9`

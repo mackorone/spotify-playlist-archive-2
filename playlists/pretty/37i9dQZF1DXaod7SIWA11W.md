@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,346 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,354 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [Show Me](https://open.spotify.com/track/2PdQRUYXMLPqf8ckw9McyO) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Prodigal](https://open.spotify.com/album/2Ia0jrSaVw8Xu5AmsZQCM5) | 4:05 |
 | 80 | [The Name](https://open.spotify.com/track/1M4eecu2KuQHmoAPGhHSjV) | [JustCordell](https://open.spotify.com/artist/4kyOIXivEHCVnJOfSo6lYn) | [The Name](https://open.spotify.com/album/75Z4KcPduTS3dbIvZSELee) | 2:17 |
 
-Snapshot ID: `AAAAAIYRhTJtmMGNvspGL59Wh4LaAxpq`
+Snapshot ID: `AAAAAO2H0uOUM5G5HyoLyDIjor1NcQSk`

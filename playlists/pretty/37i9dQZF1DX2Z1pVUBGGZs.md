@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 🚀 cover: SOFY
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,983 likes - 106 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,964 likes - 106 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 105 | [ups/downs](https://open.spotify.com/track/39XT7vqNZnnzJC7TltM0tM) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [ups/downs](https://open.spotify.com/album/75SGQtS8V8IwuLS8ZRXfMh) | 2:33 |
 | 106 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
 
-Snapshot ID: `AAAAALF9Ts+X6ZB5c7Y7IfFUkYmLSAXI`
+Snapshot ID: `AAAAAISbczFlgMcVEbA+fwusD5vYMMFs`
