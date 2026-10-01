@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 249866,
       "name": "Black Fingernails, Red Wine",
       "url": "https://open.spotify.com/track/0ujklxrVM2jwpLMgbTwTd1"
@@ -1242,6 +1242,24 @@
       "duration_ms": 185694,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1"
+    },
+    {
+      "album": {
+        "name": "Modern Girls - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6VSHcaLDYJIv5dIu5nkuOS"
+      },
+      "artists": [
+        {
+          "name": "ICEHOUSE",
+          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "No Promises",
+      "url": "https://open.spotify.com/track/4AX3HUxF377bqmKfqC0s2N"
     },
     {
       "album": {

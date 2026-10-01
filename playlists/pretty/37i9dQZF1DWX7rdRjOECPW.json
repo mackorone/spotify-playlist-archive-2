@@ -1,6 +1,6 @@
 {
   "description": "Sommer, Sonne, Sommerhits \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1585030,
+  "num_followers": 1584981,
   "original_name": "Sommerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
         "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 209720,
       "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
-        "name": "Ain't In LA",
-        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
     },
     {
       "added_at": "2026-08-06 22:01:13",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
+        "name": "Wenn das Liebe ist",
+        "url": "https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 164991,
+      "name": "Wenn das Liebe ist",
+      "url": "https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
         "name": "Capri Sun",
         "url": "https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 119235,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
-        "name": "Wenn das Liebe ist",
-        "url": "https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 164991,
-      "name": "Wenn das Liebe ist",
-      "url": "https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3"
     }
   ],
   "unique_name": "Sommerhits 2026",

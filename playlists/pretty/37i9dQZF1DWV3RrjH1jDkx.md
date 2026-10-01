@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Julie Bergan, Metropolen,  Charli XCX & Madonna og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,333 likes - 102 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,318 likes - 102 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

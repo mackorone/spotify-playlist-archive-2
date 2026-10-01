@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-196 songs - 10 hr 32 min
+197 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [80's](https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [80's](https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV) | 3:30 | 2024-06-27 |  |
 | [A Beautiful Life \(From the Netflix Film ‘A Beautiful Life’\)](https://open.spotify.com/track/2e6JU6XBm7w0FnHyQqrqMs) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [A Beautiful Life \(Music From The Netflix Film\)](https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C) | 3:38 | 2024-06-27 |  |
 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 | 2025-01-09 |  |
-| [A Wish Worth Making](https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 2:53 | 2024-06-27 |  |
+| [A Wish Worth Making](https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 2:53 | 2024-06-27 | 2026-10-01 |
 | [Adam](https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Please Like Me](https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC) | 3:29 | 2026-04-16 | 2026-05-18 |
 | [Afloat](https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Afloat](https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe) | 3:14 | 2024-08-08 | 2024-11-01 |
 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-06-27 | 2024-09-02 |
@@ -142,6 +142,7 @@
 | [okej att dö \(igen\) \- isby sessions](https://open.spotify.com/track/7j8RgbaO0UahKA9NMD3nFU) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [okej att dö \(igen\) \[isby sessions\]](https://open.spotify.com/album/49z0pbm3qLBInFJ1DiaQeC) | 2:54 | 2025-11-06 | 2026-05-22 |
 | [Old Soul](https://open.spotify.com/track/4mTEtGtUyyRolD7pbSlWnR) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Old Soul](https://open.spotify.com/album/3hkcvyytxhkLSe5aK5fvNo) | 3:06 | 2024-10-24 | 2025-01-29 |
 | [Om jag somnar](https://open.spotify.com/track/5cbHWtmFMHukKHMGyEoCbf) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Tid & Tro](https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic) | 3:00 | 2024-06-27 |  |
+| [Orden](https://open.spotify.com/track/2aC9qznWCc6EzDkJ07Oo8T) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Orden](https://open.spotify.com/album/3pjoRoo1MYYzk49wfCxwDZ) | 3:20 | 2026-09-30 |  |
 | [Other Girls](https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Other Girls](https://open.spotify.com/album/2DJXjPiY64Q8U5MHqMmOuD) | 3:18 | 2024-10-24 | 2024-11-24 |
 | [Over country](https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 5:05 | 2026-09-17 |  |
 | [Parents](https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Parents](https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0) | 2:06 | 2024-06-27 | 2024-08-09 |

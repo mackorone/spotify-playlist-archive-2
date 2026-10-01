@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,458 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,473 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 23 | [Poor Ned](https://open.spotify.com/track/4aSk8MQdAmmKxIUB2V5fMP) | [Redgum](https://open.spotify.com/artist/2FBQIV8BJF5SrvXpziFE2M) | [If You Don't Fight You Lose](https://open.spotify.com/album/1Yrh3gRy435sieNCUzsADr) | 2:46 |
 | 24 | [Waltzing Matilda 2000](https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:50 |
 | 25 | [Raining on the Plains](https://open.spotify.com/track/4vh4gdpGssQbhyZXcyU8RW) | [Sara Storer](https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL), [John Williamson](https://open.spotify.com/artist/5fH1pefToSzsa6ZqG3LVOt) | [Beautiful Circle](https://open.spotify.com/album/4KNo99ec5fHrQk0ulmA2IM) | 3:08 |
-| 26 | [We're Good Together](https://open.spotify.com/track/61Hpngia9MglsIAeIJW6Oe) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 2:59 |
-| 27 | [Down On The Farm](https://open.spotify.com/track/5ukfBO88Eu4HikT5ZyS0gQ) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD) | [This Road](https://open.spotify.com/album/20NV9L9jQeEHwaUgKVnXIy) | 3:56 |
+| 26 | [Down On The Farm](https://open.spotify.com/track/5ukfBO88Eu4HikT5ZyS0gQ) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD) | [This Road](https://open.spotify.com/album/20NV9L9jQeEHwaUgKVnXIy) | 3:56 |
+| 27 | [We're Good Together](https://open.spotify.com/track/61Hpngia9MglsIAeIJW6Oe) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 2:59 |
 | 28 | [You and Steve McQueen](https://open.spotify.com/track/77IWthliWVeobzB1TzUgHQ) | [The Audreys](https://open.spotify.com/artist/4YhCaFhYdUaPihkxTqEtkZ) | [Between Last Night and Us](https://open.spotify.com/album/27a7rVTky0Aj3ilG04MJbp) | 3:43 |
 | 29 | [Mama's Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/4sxNwFc2YHfuhpDd8rXJS3) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf) | [The Great Country Songbook](https://open.spotify.com/album/4pGp5C1NMtCKCDsuVFpoan) | 4:00 |
 | 30 | [Throw 'Em Back](https://open.spotify.com/track/69luMy6Ka1N6Nh4f6nsBQB) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [This Crazy Life](https://open.spotify.com/album/2meixszn22Xa14OnXFonKf) | 3:21 |

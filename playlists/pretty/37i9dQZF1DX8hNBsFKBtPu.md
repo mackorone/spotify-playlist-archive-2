@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her\. dreng&piger på cover ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,760 likes - 142 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,759 likes - 142 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

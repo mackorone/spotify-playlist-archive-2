@@ -1,6 +1,6 @@
 {
   "description": "Kickstart your Diwali party with these bangers.",
-  "num_followers": 90854,
+  "num_followers": 90888,
   "original_name": "Diwali Party",
   "owner": {
     "name": "Spotify",
@@ -643,30 +643,6 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
-        "name": "Roy",
-        "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
-      },
-      "artists": [
-        {
-          "name": "Meet Bros Anjjan",
-          "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
-        },
-        {
-          "name": "Kanika Kapoor",
-          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 246100,
-      "name": "Chittiyaan Kalaiyaan",
-      "url": "https://open.spotify.com/track/6XjJXPP3UiGtAQpYkD01c0"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
         "name": "Race 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Q5RHgCR1iKzaZzJurDKEK"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 222133,
       "name": "Party On My Mind",
       "url": "https://open.spotify.com/track/5Rn1DPzSzUktbhuNDDJocS"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
+        "name": "Roy",
+        "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros Anjjan",
+          "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
+        },
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 246100,
+      "name": "Chittiyaan Kalaiyaan",
+      "url": "https://open.spotify.com/track/6XjJXPP3UiGtAQpYkD01c0"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1051,6 +1051,30 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
+        "name": "Bang Bang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52gSIQvhLN9EeGNtHJELEu"
+      },
+      "artists": [
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/464gxyow4GJ7Wuz3cHrdBB"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1087,30 +1111,6 @@
       "duration_ms": 226696,
       "name": "Dil Chori",
       "url": "https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
-        "name": "Bang Bang (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/52gSIQvhLN9EeGNtHJELEu"
-      },
-      "artists": [
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        },
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        },
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/464gxyow4GJ7Wuz3cHrdBB"
     },
     {
       "added_at": "2026-09-23 05:15:16",
@@ -1919,30 +1919,6 @@
     {
       "added_at": "2026-09-23 05:15:16",
       "album": {
-        "name": "Muqabla (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
-      },
-      "artists": [
-        {
-          "name": "Yash Narvekar",
-          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 176125,
-      "name": "Muqabla (From \"Street Dancer 3D\")",
-      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
-    },
-    {
-      "added_at": "2026-09-23 05:15:16",
-      "album": {
         "name": "Saiyaan Ji",
         "url": "https://open.spotify.com/album/00GpnM3JCsq6rtfBHptXZa"
       },
@@ -1963,6 +1939,30 @@
       "duration_ms": 205450,
       "name": "Saiyaan Ji",
       "url": "https://open.spotify.com/track/39QJ7KkN3L8LLqQqsO85W1"
+    },
+    {
+      "added_at": "2026-09-23 05:15:16",
+      "album": {
+        "name": "Muqabla (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
+      },
+      "artists": [
+        {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 176125,
+      "name": "Muqabla (From \"Street Dancer 3D\")",
+      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
     },
     {
       "added_at": "2026-09-23 05:15:16",

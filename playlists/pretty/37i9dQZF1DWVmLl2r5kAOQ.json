@@ -1,6 +1,6 @@
 {
   "description": "Songs from the UK's best kids musicians and characters.",
-  "num_followers": 14687,
+  "num_followers": 14696,
   "original_name": "Kids & Family Favourites UK",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "Julia Donaldson",
           "url": "https://open.spotify.com/artist/16LvLSIezRcXAEpqcDDl2v"
+        },
+        {
+          "name": "The Gruffalo & Friends",
+          "url": "https://open.spotify.com/artist/2qBpatD2FarIEEv4Acktui"
         }
       ],
       "duration_ms": 76022,

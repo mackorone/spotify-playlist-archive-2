@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Afar",
+        "url": "https://open.spotify.com/album/2c4sPfylEVZmQ0BVy0rGVI"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Afar",
+      "url": "https://open.spotify.com/track/45raOKhmjnJRNChMIpopI3"
+    },
+    {
+      "album": {
         "name": "After All The Bars Are Closed",
         "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
       },
@@ -4566,7 +4584,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 146782,
       "name": "De Der Dage (feat. KESI)",
       "url": "https://open.spotify.com/track/42LsVwhoT2WWQ7oKUu2Cko"

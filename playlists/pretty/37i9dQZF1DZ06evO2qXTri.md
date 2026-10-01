@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,565 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,573 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Father Knows Best](https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 6:31 |
 | 50 | [September](https://open.spotify.com/track/7uida3SdfnH2HDCX1Jj99N) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Interpretations: Celebrating The Music Of Earth, Wind & Fire](https://open.spotify.com/album/5c96R9wpmvdBGfOzRRb5Qx) | 3:56 |
 
-Snapshot ID: `armuAAAAAABlSLYUkCondLaVzeGBtMzX`
+Snapshot ID: `armuAAAAAACGKjWhQFiSP1bwC8G1Bw2J`

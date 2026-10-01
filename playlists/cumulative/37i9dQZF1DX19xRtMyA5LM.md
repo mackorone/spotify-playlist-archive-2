@@ -4,7 +4,7 @@
 
 > ❗️Nieuwe tracks: Mula & Lijpe, Rits, Yade Lauren, Jiggy Djé en meer.
 
-583 songs - 1 day 2 hr 17 min
+584 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [4 Nachten](https://open.spotify.com/track/4h0LrHKF07slilrXVrS2zd) | [Flashy](https://open.spotify.com/artist/5sXROBdCYLZ26gvHtpj4gd) | [4 Nachten](https://open.spotify.com/album/0eNV6MidqDMCeJ7PZqLsaC) | 3:10 | 2025-08-28 | 2025-10-07 |
 | [419](https://open.spotify.com/track/5KoI4zz4XTdgtFNQt2WQqb) | [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Hefner](https://open.spotify.com/artist/0kmyGm8XFYQyoysy0dpuVx), [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [419](https://open.spotify.com/album/2xQagP7aOJ0nhzfYy5j6Pk) | 3:04 | 2025-09-18 | 2025-10-31 |
 | [5 In De Nacht \(feat\. Ronnie Flex\)](https://open.spotify.com/track/1RC3n8iZgTi3mb0yU619zq) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [5 In De Nacht \(feat\. Ronnie Flex\)](https://open.spotify.com/album/746kcPHvl2QXI25D8cOUaZ) | 2:45 | 2025-07-17 | 2025-08-15 |
-| [5%](https://open.spotify.com/track/58HSrrsVnQEdLLyyGGIZ6B) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Ms\. Lauren](https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL) | 2:40 | 2026-09-24 |  |
+| [5%](https://open.spotify.com/track/58HSrrsVnQEdLLyyGGIZ6B) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Ms\. Lauren](https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL) | 2:40 | 2026-09-24 | 2026-10-01 |
 | [50 Bro's \(Tweemans\)](https://open.spotify.com/track/66Yys0SfboOeIFVXl80O2T) | [Bully](https://open.spotify.com/artist/29ntaqCLHlZZ4X6KiW7mLm), [Melo](https://open.spotify.com/artist/3DPk2yq2CgXtdHXUpIDOyJ) | [50 Bro's \(Tweemans\)](https://open.spotify.com/album/3veHpC2KSJdHhda4KTUWZr) | 3:00 | 2026-01-22 | 2026-02-27 |
 | [50KG](https://open.spotify.com/track/2RfClfmY59U946jZ8I7XHc) | [Klemma](https://open.spotify.com/artist/1iL5mkCy8kbG1shtgGQY6i), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Pergio](https://open.spotify.com/artist/4gUzXRDRTdIogRLkgLhyVW) | [50KG](https://open.spotify.com/album/3mjBldTBjTxrcBBjTGNqc0) | 2:04 | 2025-09-18 | 2025-10-03 |
 | [6 Dagen](https://open.spotify.com/track/61GC7meKIIsTpvOmlDAybs) | [MRD](https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9) | [6 Dagen](https://open.spotify.com/album/6lQ8zxPDTGPw13k0iUd5Vm) | 1:57 | 2025-11-13 | 2026-01-30 |
@@ -199,6 +199,7 @@
 | [Gepassioneerd](https://open.spotify.com/track/5i1sPpbpugQJ6XVrojc9O1) | [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk) | [Gepassioneerd](https://open.spotify.com/album/5euBuWzTTM7YUSl31Q6qMR) | 2:26 | 2025-11-20 | 2026-01-30 |
 | [Gevorderd](https://open.spotify.com/track/4mwPz0N53KrveYwXEm4q6a) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Gevorderd](https://open.spotify.com/album/5ISgrPAx1QMXobLrXGOBDV) | 2:36 | 2025-07-17 | 2025-09-26 |
 | [Gewoon Gewoon](https://open.spotify.com/track/1ipBTIjmFWJ3edDNxORkCu) | [Machario](https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj) | [Gewoon Gewoon](https://open.spotify.com/album/0JQSs6S4MgO37Som21CENJ) | 2:40 | 2026-05-21 | 2026-06-12 |
+| [GGZ](https://open.spotify.com/track/6k16QrVXPZXxsuEVg2fi1B) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Ms\. Lauren](https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL) | 2:40 | 2026-09-30 |  |
 | [GINJZ](https://open.spotify.com/track/3S9i54xADvbm7YJlHUbOPv) | [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [RpBeats](https://open.spotify.com/artist/5KycryP0jIKEwY9sl1Fpq9) | [GINJZ](https://open.spotify.com/album/7bzpxq07dnFERpfI0B6TEC) | 3:08 | 2026-08-20 | 2026-09-18 |
 | [GLOCK 19](https://open.spotify.com/track/15DGsUrXFHNFDsXW3eWjqV) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Dioko](https://open.spotify.com/artist/5SbyroeyiQNDxG5GdssISN), [Webb](https://open.spotify.com/artist/0HiavH73VhiAkavoAAOLUD), [Jones Cruipy](https://open.spotify.com/artist/5G7dHgXpwcfbnv3dpOArNy) | [GLOCK 19](https://open.spotify.com/album/0qWjgziX1o0RXst7dzRLKw) | 4:00 | 2026-06-11 | 2026-06-19 |
 | [Go Shawty](https://open.spotify.com/track/4ENcpdZsvh5BNzI5slh50x) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Go Shawty](https://open.spotify.com/album/3bGEmdL2XkICohy6Aoo5yw) | 3:24 | 2025-09-11 | 2025-11-21 |

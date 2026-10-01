@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun and spooky tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,039 likes - 123 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,040 likes - 123 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

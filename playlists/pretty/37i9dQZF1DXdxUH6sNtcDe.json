@@ -1,6 +1,6 @@
 {
   "description": "A decade full of 00s country hits! Cover: Miranda Lambert",
-  "num_followers": 1007862,
+  "num_followers": 1007975,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Blake Shelton",
-        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Ol' Red",
-      "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 216773,
       "name": "If You're Going Through Hell (Before The Devil Even Knows)",
       "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Blake Shelton",
+        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "Ol' Red",
+      "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Long Black Train",
-        "url": "https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "Long Black Train",
-      "url": "https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Blake Shelton's Barn & Grill",
         "url": "https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 204826,
       "name": "Some Beach",
       "url": "https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Long Black Train",
+        "url": "https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "Long Black Train",
+      "url": "https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+        "name": "Old Things New",
+        "url": "https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Joe Nichols",
+          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
         }
       ],
-      "duration_ms": 302346,
-      "name": "There Goes My Life",
-      "url": "https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG"
+      "duration_ms": 185453,
+      "name": "Gimmie That Girl",
+      "url": "https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1467,34 +1467,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Old Things New",
-        "url": "https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0"
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
       "artists": [
         {
-          "name": "Joe Nichols",
-          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 185453,
-      "name": "Gimmie That Girl",
-      "url": "https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
-        "name": "Greatest Hits Volume III - I'm A Survivor",
-        "url": "https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "I'm A Survivor",
-      "url": "https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn"
+      "duration_ms": 302346,
+      "name": "There Goes My Life",
+      "url": "https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1511,6 +1495,22 @@
       "duration_ms": 203040,
       "name": "Teardrops On My Guitar - Radio Single Remix",
       "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Greatest Hits Volume III - I'm A Survivor",
+        "url": "https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "I'm A Survivor",
+      "url": "https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Keep On Loving You",
-        "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 220106,
-      "name": "Consider Me Gone",
-      "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Amigo",
         "url": "https://open.spotify.com/album/59t8xEk9Yw0RPxHTlUyarW"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 275053,
       "name": "Riding With Private Malone",
       "url": "https://open.spotify.com/track/7nBuud01OFM3kHoUhvVI0l"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Keep On Loving You",
+        "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 220106,
+      "name": "Consider Me Gone",
+      "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -2023,18 +2023,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Playlist: The Very Best Of Lonestar",
-        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
+        "name": "Stand Still, Look Pretty (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe"
       },
       "artists": [
         {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+          "name": "The Wreckers",
+          "url": "https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei"
         }
       ],
-      "duration_ms": 223573,
-      "name": "My Front Porch Looking In",
-      "url": "https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F"
+      "duration_ms": 210560,
+      "name": "Leave the Pieces",
+      "url": "https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt"
     }
   ],
   "unique_name": "2000s Country",

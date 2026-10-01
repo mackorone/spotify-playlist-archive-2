@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca 📸 Santiago Motorizado & FLORIAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,597 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,595 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 37 | [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 |
 | 38 | [Milonga Sentimental](https://open.spotify.com/track/5vcTHg2Rfb9alb9VvBFubo) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [Lautaro Greco](https://open.spotify.com/artist/54ob6kM8grbO4ymojmp804) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:38 |
 | 39 | [La Última Copa](https://open.spotify.com/track/5QWi1iGvTappdOGes0CAPE) | [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Modo Tango](https://open.spotify.com/album/5hztYEebSTjDTFEV1gO9hK) | 2:35 |
-| 40 | [Transtango](https://open.spotify.com/track/6ajUXYpxjeP6PrjJOoY0b2) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Reinventango](https://open.spotify.com/album/5jwhQjcZ5sIiNos3OfLwxi) | 4:19 |
-| 41 | [La Del Subte](https://open.spotify.com/track/2jH02gTgXEd8Uac7gMu22d) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:37 |
+| 40 | [La Del Subte](https://open.spotify.com/track/2jH02gTgXEd8Uac7gMu22d) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:37 |
+| 41 | [Transtango](https://open.spotify.com/track/6ajUXYpxjeP6PrjJOoY0b2) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Reinventango](https://open.spotify.com/album/5jwhQjcZ5sIiNos3OfLwxi) | 4:19 |
 | 42 | [Zorzal](https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l) | 3:09 |
 | 43 | [El Vino Triste](https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [El Vino Triste \(feat\. Raúl Lavié\)](https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ) | 2:53 |
 | 44 | [Sube Y Baja](https://open.spotify.com/track/4W6EyV83P9GxKHGiQ2uoUQ) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh) | [Mlnga Club](https://open.spotify.com/album/1WuCYVq8MBofBOluFpLK73) | 4:04 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 59 | [Ghost Town](https://open.spotify.com/track/3vEZd9EiNj1fiwY6oFclTu) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh), [Mela Green](https://open.spotify.com/artist/1OoRlzoPBEdN9gPMt7Dx69), [Mermans Mosengo](https://open.spotify.com/artist/1F1ezryBLCpGjEm4hFnaDc) | [Ghost Town](https://open.spotify.com/album/3drZDHi0DVKGn6mLwDueij) | 4:29 |
 | 60 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 |
 | 61 | [El Dia Que Me Quieras](https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK) | [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Sebastian Barbui](https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC) | 3:22 |
-| 62 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 |
+| 62 | [Muero Sin Vos](https://open.spotify.com/track/0u7ddEKYuoTl5Z1rntL28g) | [Lilí Gardés](https://open.spotify.com/artist/7LyRikRQ83unSIemMi1z3c) | [Muero Sin Vos](https://open.spotify.com/album/0jIWSnPUndgDdmtRORsF1Q) | 2:27 |
 | 63 | [Ran Tan Plan](https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng) | [Tango Tripping Project](https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1) | [Ran Tan Plan](https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4) | 4:12 |
-| 64 | [Muero Sin Vos](https://open.spotify.com/track/0u7ddEKYuoTl5Z1rntL28g) | [Lilí Gardés](https://open.spotify.com/artist/7LyRikRQ83unSIemMi1z3c) | [Muero Sin Vos](https://open.spotify.com/album/0jIWSnPUndgDdmtRORsF1Q) | 2:27 |
+| 64 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 |
 | 65 | [Mientras Tanto](https://open.spotify.com/track/6mEAf6mpMkiYRIivukpJ16) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9), [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n), [Mariano Castro](https://open.spotify.com/artist/2EO2iOsCDEZcqAhWu22tYH) | [Cuenco](https://open.spotify.com/album/5kTDKs3NG4YZVN1P6aZDWB) | 4:29 |
 | 66 | [Buenos Aires Dreams](https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf) | [Le Griser](https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb) | [Buenos Aires Dreams](https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O) | 3:46 |
-| 67 | [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 |
-| 68 | [Barrio Maravillas](https://open.spotify.com/track/27RhzFpBqR4JaOVzzQvH94) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Summer Tango](https://open.spotify.com/album/1XDSxgEXFdtUMPxL5dXLpj) | 2:33 |
+| 67 | [Barrio Maravillas](https://open.spotify.com/track/27RhzFpBqR4JaOVzzQvH94) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Summer Tango](https://open.spotify.com/album/1XDSxgEXFdtUMPxL5dXLpj) | 2:33 |
+| 68 | [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 |
 | 69 | [Uprising Of Kindness](https://open.spotify.com/track/6y5RI29ZM1MmFg3yzD48v2) | [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT) | [This Is Richard Bona](https://open.spotify.com/album/28rNJjo7RDgAV7Uscjv67T) | 4:01 |
 | 70 | [En Contra](https://open.spotify.com/track/3SzXoz6Vvqt4QmLr3GJnae) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh) | [En Contra](https://open.spotify.com/album/6aKACaseQig1Q4xf3YET2h) | 5:25 |
 

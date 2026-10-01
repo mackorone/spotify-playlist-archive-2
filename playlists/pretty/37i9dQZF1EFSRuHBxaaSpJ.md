@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138 likes - 92 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 139 likes - 92 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 71 | [Ce soir](https://open.spotify.com/track/2pURrR5rSb7XUwRhEz5xSN) | [SLK](https://open.spotify.com/artist/6CBm5KPNnurK4hFutVDIpz), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Centrale](https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O) | 2:57 |
 | 72 | [Lalala](https://open.spotify.com/track/0QY2cfSWkWtY4bXWfAlMSf) | [Sifax](https://open.spotify.com/artist/5dacK0fiMwLoV93yBdUrZK) | [La Mentale](https://open.spotify.com/album/3gnmXOGZpZrM4lpFTjqUqu) | 2:56 |
 | 73 | [Le feu](https://open.spotify.com/track/15RdsytotGYShRTw1ZkLww) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:45 |
-| 74 | [T'es où](https://open.spotify.com/track/7hrYEBoSeQlEk7CU1l2Sob) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:12 |
-| 75 | [sweet love](https://open.spotify.com/track/1gU37NrMcXGdv7FO5415xm) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [HHHH²](https://open.spotify.com/album/5StEA77WBVD37guZmDD87f) | 3:10 |
+| 74 | [sweet love](https://open.spotify.com/track/1gU37NrMcXGdv7FO5415xm) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [HHHH²](https://open.spotify.com/album/5StEA77WBVD37guZmDD87f) | 3:10 |
+| 75 | [T'es où](https://open.spotify.com/track/7hrYEBoSeQlEk7CU1l2Sob) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:12 |
 | 76 | [Viano](https://open.spotify.com/track/79aP0TraICgSI68NBEK8ID) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/0DiFDp3MRVxcECcJFPWXU3) | 2:46 |
 | 77 | [Dis moi que tu m'aimes](https://open.spotify.com/track/1T9LhC0vlV95Q8HJRaNC1S) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:12 |
 | 78 | [Niveau fini](https://open.spotify.com/track/32a996iHBZaMmA530wxb1n) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [TOUT EST OR](https://open.spotify.com/album/7v8KYj2T5fayMEITikvM60) | 2:58 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 91 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 | 92 | [fade up](https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z) | [Eliias](https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To) | [march 29](https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG) | 6:32 |
 
-Snapshot ID: `AcdoxAAAAADCMxnUm6sEyNKWIWSb7r+p`
+Snapshot ID: `AcduUAAAAACiJja2PU+xmmSQUejuOFzg`

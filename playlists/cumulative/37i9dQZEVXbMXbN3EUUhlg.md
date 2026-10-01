@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-2,035 songs - 4 day 9 hr 30 min
+2,036 songs - 4 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,7 +547,7 @@
 | [Do Job](https://open.spotify.com/track/3TnSAp3TfGMYptOqv234uK) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Do Job](https://open.spotify.com/album/3tshJG1V8z9vR7EzHMw9H1) | 3:13 | 2024-11-20 | 2025-05-01 |
 | [Doce](https://open.spotify.com/track/152WIAB8132LWxC8Eftmym) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Juliette](https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q) | 2:40 | 2021-09-05 | 2023-06-23 |
 | [Doeu Mas Não Matou](https://open.spotify.com/track/5sriJHk3fFhQ0tqlMDKkpM) | [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Doeu Mas Não Matou](https://open.spotify.com/album/02rPEquBkufA5jod3YZghw) | 2:40 | 2024-12-12 | 2024-12-15 |
-| [Dois Enganados](https://open.spotify.com/track/38jMHjnOAJDR4QUdk3IXsw) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1UtoD47sbgbZQ0VzVKQhu8) | [Pra Ouvir Tomando Uma, Vol\. 1](https://open.spotify.com/album/3yQc10lMcK8z7CfCRkCAJ3) | 2:52 | 2025-12-20 |  |
+| [Dois Enganados](https://open.spotify.com/track/38jMHjnOAJDR4QUdk3IXsw) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1UtoD47sbgbZQ0VzVKQhu8) | [Pra Ouvir Tomando Uma, Vol\. 1](https://open.spotify.com/album/3yQc10lMcK8z7CfCRkCAJ3) | 2:52 | 2025-12-20 | 2026-10-01 |
 | [Dois Enganados](https://open.spotify.com/track/7McCAKExE8KsI2q4Y8wx4U) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Pra Ouvir Tomando Uma, Vol\. 1](https://open.spotify.com/album/34wbTHXH6UAGPJKrl3VXOs) | 2:52 | 2025-05-25 | 2025-10-30 |
 | [Dois Fugitivos \- Ao Vivo](https://open.spotify.com/track/4YKujFSyakVjLdH1sDllVc) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/7lLjDECsr4tJUs0BEulGbU) | 2:53 | 2023-10-21 | 2024-06-12 |
 | [Dois Fugitivos \- Ao Vivo](https://open.spotify.com/track/6MCaEL0pQo1Jg1vlKpMWop) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 2:53 | 2023-10-02 | 2023-10-22 |
@@ -1759,6 +1759,7 @@
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-30 | 2025-09-10 |
 | [Telefone](https://open.spotify.com/track/2Tfpk9vbsgqUKD3dkDJ3hL) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 1:31 | 2026-04-09 | 2026-04-11 |
 | [Telefone](https://open.spotify.com/track/7rIeU9DvfVAz2hroqBAiuV) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Telefone](https://open.spotify.com/album/2va62ELLdq6PygdowajASo) | 1:31 | 2026-03-19 | 2026-03-23 |
+| [Telefone Sem Fio \- Ao Vivo](https://open.spotify.com/track/0mo4IFJlaejAEzwUmyOyTD) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari no Barzinho \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/6P4kv2DgtMn2d9YnxZYBrX) | 2:47 | 2026-09-30 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-04-11 |
 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 | 2022-08-09 | 2023-01-04 |
 | [Tem Cabaré essa Noite](https://open.spotify.com/track/1rJFFWDXrlMS0C5JlbqFbI) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré essa Noite](https://open.spotify.com/album/7i4B4BWHpZlMGWDdtbZ0rs) | 3:22 | 2022-07-17 | 2022-08-10 |

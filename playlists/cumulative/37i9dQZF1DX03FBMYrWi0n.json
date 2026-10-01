@@ -2207,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Claudia",
+        "url": "https://open.spotify.com/album/3xfS34oDQeqgE61cq2e5jI"
+      },
+      "artists": [
+        {
+          "name": "Encore Malade",
+          "url": "https://open.spotify.com/artist/6GLrqvjwNFZD25AmaV2XD0"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132877,
+      "name": "Claudia",
+      "url": "https://open.spotify.com/track/7AMbEu0blbjmtpyPEnbkgE"
+    },
+    {
+      "album": {
         "name": "Coin coin",
         "url": "https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA"
       },
@@ -5522,7 +5540,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 185384,
       "name": "JENNY",
       "url": "https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc"

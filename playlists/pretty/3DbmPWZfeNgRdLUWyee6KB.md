@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 106 songs - 6 hr 11 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,334 likes - 111 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 104 | [Chiara](https://open.spotify.com/track/0EEuLT1lQyuhZmZi6Z0Jr2) | [Emon Owen](https://open.spotify.com/artist/7FPgKVK4s1GsvuEuHwqhBO) | [Chiara](https://open.spotify.com/album/18wkh7yCnXKVnjgJmv5sVS) | 2:43 |
 | 105 | [Cidade Dormitório](https://open.spotify.com/track/0SqFqFcBLIN1bAltPWiepo) | [Sonho Lúcido](https://open.spotify.com/artist/1Coxq0swNDoPOgi6QAWrZk) | [SubUrbano](https://open.spotify.com/album/5EZDQI4VELo8R6WYK3ZLqv) | 4:13 |
 | 106 | [All The While](https://open.spotify.com/track/5UP9R3Czg7FliHvMs2U1G8) | [RobbaDucky](https://open.spotify.com/artist/5vtsB8HiuKkRFCupJmw90I) | [All The While](https://open.spotify.com/album/0xiZTFZYCkni8WxsR9c3BX) | 3:30 |
+| 107 | [Nå er natta her igjen](https://open.spotify.com/track/5sUtdHHriLLMaJjXevJ36c) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Bilder i mitt hode](https://open.spotify.com/album/0hydPfH9Vk7RSwauEMYYpX) | 4:11 |
+| 108 | [Seize Everything](https://open.spotify.com/track/0KH9XuVYJ4w21GKWWGyMX1) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Mindscape](https://open.spotify.com/album/78DGsfpSzT2rCWwc88mSja) | 3:31 |
+| 109 | [Butterflies](https://open.spotify.com/track/383NSGXVqSdKongECsYcnb) | [Haaniel](https://open.spotify.com/artist/3rNsxByNqSJjegnFQHkkeK) | [Butterflies](https://open.spotify.com/album/6u4DugOvPbTvHegUAXIh6L) | 2:56 |
+| 110 | [Um minuto é tanta coisa](https://open.spotify.com/track/7xzlH4QJryJONepBPeHKi9) | [Cintia](https://open.spotify.com/artist/7aoNiDI9Vs7m78GkR8iPH2) | [Um minuto é tanta coisa](https://open.spotify.com/album/7D282WFDveRnwvjroppOaE) | 2:43 |
+| 111 | [Baad Amad \(Live at Barnhouse\)\- باد آمد](https://open.spotify.com/track/6thfuOBPy9jfItEnLFFsLW) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Live at Barnhouse](https://open.spotify.com/album/1ZLsWefBqF5af0uaneVAIB) | 3:46 |
 
-Snapshot ID: `AAAYXghMyfw4ryc2dxUY0JJFE09S67GV`
+Snapshot ID: `AAAYY5jUHFvzV5+F3dhHqkWmIaPatDw5`

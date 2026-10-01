@@ -1,6 +1,6 @@
 {
   "description": "Old school jams to kick nostalgia up a notch. ",
-  "num_followers": 23560,
+  "num_followers": 23570,
   "original_name": "Ghana Throwback Party ",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-03-16 11:45:06",
       "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+    },
+    {
+      "added_at": "2026-03-16 11:45:06",
+      "album": {
         "name": "Esi",
         "url": "https://open.spotify.com/album/6Oqh2P8A4E7yMKTcmtOEcK"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2026-03-16 11:45:06",
       "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp"
       },
       "artists": [
         {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
         }
       ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+      "duration_ms": 156479,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0"
     },
     {
       "added_at": "2026-03-16 11:45:06",
@@ -663,22 +679,6 @@
       "duration_ms": 220360,
       "name": "Sorkode",
       "url": "https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy"
-    },
-    {
-      "added_at": "2026-03-16 11:45:06",
-      "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp"
-      },
-      "artists": [
-        {
-          "name": "Mr Drew",
-          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
-        }
-      ],
-      "duration_ms": 156479,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0"
     },
     {
       "added_at": "2026-03-16 11:45:06",

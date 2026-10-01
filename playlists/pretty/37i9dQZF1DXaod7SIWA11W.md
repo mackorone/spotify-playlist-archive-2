@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,354 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,370 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 30 | [What A Life](https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [What A Life](https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q) | 2:54 |
 | 31 | [pass me by](https://open.spotify.com/track/56VwkbeY4Mhi7IS27Nch52) | [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [pass me by](https://open.spotify.com/album/6CJIC5Qbd6UVostD5YUG2g) | 4:55 |
 | 32 | [So Good](https://open.spotify.com/track/2fj6mdtxBsbSlC7GJOidGa) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [So Good](https://open.spotify.com/album/5x54vYiPGmaNOZC7yasI7D) | 2:44 |
-| 33 | [Stand](https://open.spotify.com/track/6gFLH9blscWMdennqYEkfs) | [Me'Kayla De’Siree](https://open.spotify.com/artist/5bwMe2QoifbbKXVeKxqr5L) | [Stand](https://open.spotify.com/album/0CwPCXd4lHtEO0FPu1IiI5) | 4:20 |
+| 33 | [Stand](https://open.spotify.com/track/6gFLH9blscWMdennqYEkfs) | [Me'Kayla De’Siree](https://open.spotify.com/artist/5bwMe2QoifbbKXVeKxqr5L), [Phillip Bryant](https://open.spotify.com/artist/4puG7yE9LNxmaYFE6Xpn2k) | [Stand](https://open.spotify.com/album/0CwPCXd4lHtEO0FPu1IiI5) | 4:20 |
 | 34 | [Holding On \(Praise God\)](https://open.spotify.com/track/6YLeNiSaMlAneSXWerpreU) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Holding On \(Praise God\)](https://open.spotify.com/album/7cf4mvGVW24x6Ugy6jZ83u) | 3:38 |
 | 35 | [Amazing Grace](https://open.spotify.com/track/4jIeGLnr8EW9vP57lEZZ4e) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Amazing Grace](https://open.spotify.com/album/4Q4figToWWYSpahEbedraH) | 2:56 |
 | 36 | [Stay Here](https://open.spotify.com/track/2S4HKddVaa6hK6jaLcAtDZ) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [Briana](https://open.spotify.com/album/5PVBgsc821POgqQ1dBcQ8i) | 3:51 |

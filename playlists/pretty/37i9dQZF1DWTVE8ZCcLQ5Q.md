@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Kouth e e outros artistas diferenciados estão no nosso RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,373 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,377 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 47 | [Conchinha e Sacanagem](https://open.spotify.com/track/70MH26vKATo3uioZtIbjOb) | [Vinigram](https://open.spotify.com/artist/1rKRidjjPD9pJa2Xgvrowk) | [Conchinha e Sacanagem](https://open.spotify.com/album/6jF9BTdgHskRnNGvEn7J2K) | 3:09 |
 | 48 | [Trama](https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr), [Aksel](https://open.spotify.com/artist/1sUETKU4N8F8kABpmDiOZW) | [Trama](https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7) | 4:19 |
 | 49 | [Coragem](https://open.spotify.com/track/2ICmFpSpyqKk68VT5TMFu1) | [Nega](https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2), [Jaxonethebeat](https://open.spotify.com/artist/0Ud3CAwnzGV2OYCuTwRuJU), [Jaxz Bond](https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X) | [Coragem](https://open.spotify.com/album/3EdUtzzp9mYM7NIp5pnzrv) | 3:02 |
-| 50 | [Arruda e Guiné](https://open.spotify.com/track/0FGTk3HcAR2Fo7M8ckHZoI) | [Anastácia](https://open.spotify.com/artist/2T4nRuk5KkTVgh1v4hW9ju) | [Cafofo / Arruda e Guiné](https://open.spotify.com/album/53YY4db3bGuD7JMvlLAh81) | 3:07 |
+| 50 | [Arruda e Guiné](https://open.spotify.com/track/0FGTk3HcAR2Fo7M8ckHZoI) | [Naná do Pop](https://open.spotify.com/artist/2jc4O5Y4ilHLt9ATBd3y0H) | [Cafofo / Arruda e Guiné](https://open.spotify.com/album/53YY4db3bGuD7JMvlLAh81) | 3:07 |
 | 51 | [Novo Dia](https://open.spotify.com/track/1FHoKBf6kVnh1BEeVPE0qj) | [Gugs](https://open.spotify.com/artist/209KdvWPtKYuuhns6bRWun), [Célia Sampaio](https://open.spotify.com/artist/3kV5DGv0TUs30pTs38GQ0z) | [Novo Dia](https://open.spotify.com/album/57ZTwN9GZaJlcMK3wRhws7) | 3:09 |
 | 52 | [Quantos Amores](https://open.spotify.com/track/7J1nihFOjNHsas5Mv0vuxQ) | [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns) | [Quantos Amores](https://open.spotify.com/album/0uhNqZhmV7LVFUconM2qUG) | 3:43 |
 | 53 | [Colibri](https://open.spotify.com/track/4DTR0T8qnIYhXJA2jDTBtn) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [TSUMANO](https://open.spotify.com/artist/4ijg0v2Yp23mG5xjBEnYKF) | [Colibri](https://open.spotify.com/album/5oP3MPOT3vA0wUypGVOgv8) | 2:07 |

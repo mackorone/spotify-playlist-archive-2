@@ -4,7 +4,7 @@
 
 > When my mouth has no words, let my spirit sing
 
-118 songs - 18 hr 43 min
+119 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 | 2024-07-26 |  |
 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 | 2024-07-26 |  |
 | [Let Me Want What You Want](https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8) | [The Paul\-Enenche Family](https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT) | [Let Me Want What You Want](https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q) | 8:03 | 2024-07-26 |  |
-| [Like Fire Like Rain \- Prayer Chant](https://open.spotify.com/track/4pcUzJV14FbOQVp9bsHg4E) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Like Fire Like Rain \- Prayer Chant](https://open.spotify.com/album/73QPJLOL9BkYGOYsm4hLmj) | 15:01 | 2025-11-07 |  |
+| [Like Fire Like Rain \- Prayer Chant](https://open.spotify.com/track/4pcUzJV14FbOQVp9bsHg4E) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Like Fire Like Rain \- Prayer Chant](https://open.spotify.com/album/73QPJLOL9BkYGOYsm4hLmj) | 15:01 | 2025-11-07 | 2026-10-01 |
 | [Midnight Cry, Vol\. 2](https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Midnight Cry, Vol\. 2](https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo) | 24:02 | 2024-07-26 |  |
 | [Midnight Cry, Vol\. 5 \(Time\-Out Of Fellowship\)](https://open.spotify.com/track/7ikJDPDH1IDfxC3uroUw6k) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Midnight Cry, Vol\. 5 \(Time\-Out Of Fellowship\)](https://open.spotify.com/album/13PR6EewIISf4zGx9nuf48) | 47:10 | 2024-07-26 |  |
 | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a) | 6:44 | 2026-09-18 |  |
@@ -98,6 +98,7 @@
 | [Ruach Elohim](https://open.spotify.com/track/4fATkvHKHCDjowOqX3I8er) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 10:01 | 2024-07-26 | 2026-04-17 |
 | [Ruach Hakodesh](https://open.spotify.com/track/62QpDTmSK8QctvbxEdBPrG) | [Patience Adjei](https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373) | [Ruach Hakodesh](https://open.spotify.com/album/60kUZ9PqK6MlCKpN4tL44d) | 11:31 | 2024-07-26 |  |
 | [See How Far: Gratitude \(Reflections\)](https://open.spotify.com/track/7IOvxvfah1YyRBRkZzIjgg) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [See How Far: Gratitude \(Reflections\)](https://open.spotify.com/album/7dct7NWxi1IAV9K1kXkqAW) | 19:56 | 2024-07-26 |  |
+| [Seek Him](https://open.spotify.com/track/6L3m7ovo5F0KkOSqHEBAN0) | [Oluwajenyo](https://open.spotify.com/artist/5VMLcHJIvePoeIJlsCdPtC) | [Seek Him](https://open.spotify.com/album/2jIscfhK2LVuzQA63TJJC6) | 4:39 | 2026-09-18 |  |
 | [Son Of David \(Church Arise\) \- Live](https://open.spotify.com/track/02AYZ4WxfGl42vf7E05LbG) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Son Of David \(Church Arise\) \[Live\]](https://open.spotify.com/album/3PZb44kLHxQch71daNPWLL) | 15:24 | 2025-10-24 | 2026-09-22 |
 | [Song of Angels](https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 12:11 | 2024-07-26 |  |
 | [Song of Angels \(Live\)](https://open.spotify.com/track/0RqyWkOhcoFzO9qFw7JIx9) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Song of Angels \(Live\)](https://open.spotify.com/album/3ldSID9hjAlvxkXE0KnPd8) | 12:17 | 2024-07-26 |  |

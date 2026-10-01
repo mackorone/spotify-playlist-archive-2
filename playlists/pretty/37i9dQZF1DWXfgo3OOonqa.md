@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,274 likes - 98 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,265 likes - 98 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 41 | [Bilsäker](https://open.spotify.com/track/6GC8r65dVkeWVOSOOFEOBF) | [Global](https://open.spotify.com/artist/0rsYUDfuJkS3zDbn6SCzI3) | [Bilsäker](https://open.spotify.com/album/63o3Phrel4UoJwt54ryibx) | 2:17 |
 | 42 | [HiTMaN](https://open.spotify.com/track/5c2OWBO6Z94hgeLbi0w67r) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc) | [HiTMaN](https://open.spotify.com/album/21VMpUBDjUbTqlgDelMGYZ) | 2:35 |
 | 43 | [My Type](https://open.spotify.com/track/1Eh6reKsmK5P9uZp4uzP61) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [My Type](https://open.spotify.com/album/1B0wfLXjm4W9Ksv8dNMcyA) | 2:07 |
-| 44 | [Strike a pose](https://open.spotify.com/track/2Bb5cQ8WoqOE9OJ5obb4g9) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Strike a pose](https://open.spotify.com/album/2Z5IHmkZOCnYNRlFkfDUPI) | 2:36 |
+| 44 | [Strike a Pose](https://open.spotify.com/track/2Bb5cQ8WoqOE9OJ5obb4g9) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Strike a Pose](https://open.spotify.com/album/2Z5IHmkZOCnYNRlFkfDUPI) | 2:36 |
 | 45 | [Best Friends](https://open.spotify.com/track/3fbp3OvNkSeKrBW12F0tCm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Best Friends](https://open.spotify.com/album/2jf5kVVZ6JIqZYvdt6vdVJ) | 2:23 |
 | 46 | [euro](https://open.spotify.com/track/5FDOtJIwTqcxRHngR0uNR9) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [euro](https://open.spotify.com/album/4E5ALh3loZ5XTJzTwX9pZX) | 5:04 |
 | 47 | [ILLEGAL](https://open.spotify.com/track/2AnpaLZEachdaUtzpoLrjn) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [ILLEGAL](https://open.spotify.com/album/5OBWvFVMdmfDOPmQ5DkE1n) | 2:00 |

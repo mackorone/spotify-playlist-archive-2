@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover \- Sijya
+> The best new music by independent artists and labels in India\. Cover \- Vardaan Malhotra
 
-2,012 songs - 4 day 20 hr 21 min
+2,014 songs - 4 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Bina Tere](https://open.spotify.com/track/4vbHPgMizyrdNMYbCnxseY) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Avish](https://open.spotify.com/artist/6Xmihw4G1rNjdUI3eH1QBv) | [Bina Tere](https://open.spotify.com/album/7BOELerzdNBiNf9igd9V6s) | 3:08 | 2021-12-01 | 2022-01-13 |
 | [Bitata Pal](https://open.spotify.com/track/5p2MaDktvl7GmLfAQqdP0B) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Bitata Pal](https://open.spotify.com/album/6CroN34V63lcQsAYjxUCl3) | 3:43 | 2024-01-10 | 2024-04-11 |
 | [Blood\-Starved Beast](https://open.spotify.com/track/0UzkzenY82eqZMtaNcvr7R) | [Saahil Bhargava](https://open.spotify.com/artist/2Ok7Ick2PFmDdVPEiKaBtW) | [Blood\-Starved Beast](https://open.spotify.com/album/2mZx6VlKkjCzm9ML54Gc63) | 3:51 | 2022-02-09 | 2022-02-17 |
+| [Bloom](https://open.spotify.com/track/54WDZ7mgS2uQboApoaND6L) | [The DANGERMEN](https://open.spotify.com/artist/3r265DJWlrPiBBesljZ1Be) | [Bloom](https://open.spotify.com/album/1ovrqBV0ZyHfhFAmC2aIat) | 4:18 | 2026-09-30 |  |
 | [Blue Sweatshirt](https://open.spotify.com/track/3lnKi2aWh2tS1MvHGLFA3B) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [Blue Sweatshirt](https://open.spotify.com/album/35uZu48y9q6uQdfkR0kBjU) | 3:10 | 2023-02-01 | 2023-04-06 |
 | [Blush Karenge](https://open.spotify.com/track/6ojxeNEVcbxpXQDHQZagU1) | [Ruchika Chauhan](https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1), [Yash Chauhan](https://open.spotify.com/artist/7u4CRpjxYWF5YySi6vNmlm), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Blush Karenge](https://open.spotify.com/album/7ct9TceZZ0sLQ7nqaCqGK6) | 2:43 | 2024-11-06 | 2025-03-06 |
 | [Boat Song](https://open.spotify.com/track/1CYUxNE37DBDXqXMHN5XlB) | [Shilpa Natarajan](https://open.spotify.com/artist/1vx1pKdlUbd5WHnDOYLtG3) | [Boat Song](https://open.spotify.com/album/674ch2duXkPku8gPHxcLP3) | 2:57 | 2022-01-12 | 2022-01-23 |
@@ -926,6 +927,7 @@
 | [Khamakha](https://open.spotify.com/track/35b48SUGOHMYuAqgBOTmwF) | [Rahul Pandey](https://open.spotify.com/artist/6nZs8OAaiWEGqNJsKTK7Vq) | [Khamakha](https://open.spotify.com/album/6xKFgClDDOsizTKczyqUGY) | 3:03 | 2024-05-08 | 2024-07-25 |
 | [Khamoshi](https://open.spotify.com/track/32uig7NQltS6GHtvXvOlmR) | [Harry Grover](https://open.spotify.com/artist/2DVZCMPmAXGd8QmItZkBSG) | [Khamoshi](https://open.spotify.com/album/78j9xuLJeb2eoTXz49yKvF) | 2:32 | 2025-07-09 | 2025-10-09 |
 | [Khat](https://open.spotify.com/track/6XuH38WaoetaiTriUqwEmP) | [Deepali Sathe](https://open.spotify.com/artist/0YiuR8MKsbpnjIxQ6TVOsM), [Durgesh R Rajbhatt](https://open.spotify.com/artist/0E55cja1xY4RWw3K9S9rDS), [Bhavna Choudhary](https://open.spotify.com/artist/573dGl9cVEDD21wFXNoNqe), [Chinmaya Madan](https://open.spotify.com/artist/20OuwAobW7d83jWVGaFA5P), [Sapna Sharma](https://open.spotify.com/artist/7zm3Q6zAZZlTpNwJLRzZgP) | [Khat](https://open.spotify.com/album/2MWiFWNFJ5thUQmIbdI0fE) | 3:32 | 2022-05-11 | 2022-06-30 |
+| [Khatt](https://open.spotify.com/track/1Z2Pbh8juZxAZvk55M0wkr) | [Vardaan Malhotra](https://open.spotify.com/artist/6lRDtA49QAi4epkE8Xw27Q) | [Khatt](https://open.spotify.com/album/4WFWcXUVdDoftiLhIk285A) | 4:13 | 2026-09-30 |  |
 | [Khayaal](https://open.spotify.com/track/0zgimUYk63x1Mhd3MMiVgD) | [Shriyash Sahu](https://open.spotify.com/artist/7C8q7GkDrPUPCHdAzpP8sQ), [Shriyank Gour](https://open.spotify.com/artist/2wVq6f96SDr4btIlB2ikkR), [Sonakshi Singh](https://open.spotify.com/artist/2s5fHyiCqD7pW1jqvnEDPX) | [Khayaal](https://open.spotify.com/album/4RVe0cnS14fSM9Qr9hVbl7) | 2:45 | 2025-04-23 | 2026-01-15 |
 | [Khayaal Mein!](https://open.spotify.com/track/3ipbcu6MDLyrxsIbeLOxj9) | [Amruta](https://open.spotify.com/artist/5Y4vRdNfRfdGxIQWU4hFAV) | [Khayaal Mein!](https://open.spotify.com/album/6HzF2s9jQEYepaaY3E1FqB) | 6:09 | 2026-01-28 | 2026-05-07 |
 | [KHAYAL](https://open.spotify.com/track/1xpqLoRENNGKJjvjRxIjTv) | [PRANAY SINGH](https://open.spotify.com/artist/4ZfxgReQ7avfhsPGFCcnzh) | [KHAYAL](https://open.spotify.com/album/6uOW0B5ZZO0ykwTJbIshRW) | 3:10 | 2025-10-08 | 2026-02-26 |
@@ -1308,7 +1310,7 @@
 | [Oh Rangreza](https://open.spotify.com/track/4JrTCU3JOJoGgu46aSMB4M) | [Ashok Singh](https://open.spotify.com/artist/2V41ngOF5vZv87Vs5wbgMQ), [Aisha Singh](https://open.spotify.com/artist/2gD5RZGGljYbXw5K8CHQhQ) | [Oh Rangreza](https://open.spotify.com/album/6e8gnHEpDhq6CsFAhk6G5m) | 4:22 | 2023-02-15 | 2023-07-13 |
 | [Oh! Nana](https://open.spotify.com/track/5AmvcH72J001z2tVp5ejWr) | [YesBodyLess](https://open.spotify.com/artist/1cZGcocO4mLBurhYmTmU5w) | [Oh! Nana](https://open.spotify.com/album/0ToPlOxvw0ZFtmiQcyfERu) | 2:58 | 2025-07-30 | 2025-10-23 |
 | [Okay With Me?](https://open.spotify.com/track/6l3TaJIwsVSyK3ZIkMunXk) | [Prinson Monthero](https://open.spotify.com/artist/1CoXgwrfT8V2fJwMwnuXd1) | [Okay With Me ?](https://open.spotify.com/album/250Si14Yuyx7VAkxPmCreC) | 3:14 | 2024-07-03 | 2024-08-15 |
-| [Old Curse New Sight](https://open.spotify.com/track/1EDzTbUlHArgIk92vgfdup) | [Slowspin](https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54) | [Afterimage](https://open.spotify.com/album/4KOz86w0vvIXPumcofV90w) | 1:58 | 2026-08-26 |  |
+| [Old Curse New Sight](https://open.spotify.com/track/1EDzTbUlHArgIk92vgfdup) | [Slowspin](https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54) | [Afterimage](https://open.spotify.com/album/4KOz86w0vvIXPumcofV90w) | 1:58 | 2026-08-26 | 2026-10-01 |
 | [omg](https://open.spotify.com/track/0EQdT5HDWGZT96zEmObkAj) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [sudan?](https://open.spotify.com/album/2oDs4AS0vOhIW8kEnYEsmO) | 2:51 | 2024-08-14 | 2024-10-24 |
 | [On My Mind](https://open.spotify.com/track/04UIGCpjfexxNr53RS4td9) | [Shriya](https://open.spotify.com/artist/4dV7hCXD1OPICCUYaAVGNX) | [On My Mind](https://open.spotify.com/album/3S7yZ48pSGGpeLuXlZPOUo) | 2:26 | 2024-01-17 | 2024-04-11 |
 | [On The Mend](https://open.spotify.com/track/3XqsS2DtLgZVHE8mqSvPcb) | [Nikhil D Almeida](https://open.spotify.com/artist/6qFyqRvBgi7lbJoD5Fr3j3) | [On The Mend](https://open.spotify.com/album/6a2pMBl8wk5ZPkkdz0nK5H) | 2:32 | 2023-10-18 | 2024-01-25 |
@@ -1901,7 +1903,7 @@
 | [Visions](https://open.spotify.com/track/3DvXWSw1RsdRYOutyqMZ7n) | [Soham](https://open.spotify.com/artist/2VWlTHS1YfU7p9zMPPGw78) | [Visions](https://open.spotify.com/album/6L9UmJraKH1b9AU2eE03sD) | 3:04 | 2023-08-30 | 2023-11-10 |
 | [vo taare](https://open.spotify.com/track/1pja4uveCNfb6DhGkyJhzK) | [Aadishwar Singh](https://open.spotify.com/artist/5BLkt93RpFMBU1p4LZeueS) | [vo taare](https://open.spotify.com/album/2t3ZiPkBfVOsg6dCmIyg2k) | 1:50 | 2024-06-05 | 2024-08-22 |
 | [Waari Waari](https://open.spotify.com/track/0hVivBHawpFkWdy01Onags) | [Reeshabh Purohit](https://open.spotify.com/artist/0fCayDnRBfH5Skewe8os7E), [Nisha Satpute](https://open.spotify.com/artist/4F0EXuNCrBbH7l5F10jomr), [Shadaj Godkhindi](https://open.spotify.com/artist/5wnE1lyqXM60jZvrjqo8JB) | [Waari Waari](https://open.spotify.com/album/3osAV9Y5dJyZwSYN9q45YR) | 4:12 | 2023-04-19 | 2023-05-24 |
-| [Waiting on Nothing](https://open.spotify.com/track/5IAd2YfP8ificqniAaaRyp) | [Purple Cassette](https://open.spotify.com/artist/4xZ8YVXNE6n0bhcZAmdCdb) | [Waiting on Nothing](https://open.spotify.com/album/0g4BvO0kYz92BeB7i2imMH) | 3:35 | 2026-08-05 |  |
+| [Waiting on Nothing](https://open.spotify.com/track/5IAd2YfP8ificqniAaaRyp) | [Purple Cassette](https://open.spotify.com/artist/4xZ8YVXNE6n0bhcZAmdCdb) | [Waiting on Nothing](https://open.spotify.com/album/0g4BvO0kYz92BeB7i2imMH) | 3:35 | 2026-08-05 | 2026-10-01 |
 | [Wajah](https://open.spotify.com/track/34354fFFbEWvMu7QigCMAM) | [Khaali Frame](https://open.spotify.com/artist/4LCjgzBudEmv8KrDyziGSj), [Andrew KZ](https://open.spotify.com/artist/2mqU4ypOkvjz5TWWtWsOtR) | [Wajah](https://open.spotify.com/album/4suNaW4e39QYZYw5TH2KnY) | 3:52 | 2026-08-12 |  |
 | [Wajah](https://open.spotify.com/track/2DpO2Cf45Ms1M9YipLfhSg) | [Urban Breeze](https://open.spotify.com/artist/0oEG7PI10SPH9Eot2vHYHo) | [Wajah](https://open.spotify.com/album/4JElj53PuWjy5gc0kM5mZi) | 3:35 | 2023-05-24 | 2024-01-11 |
 | [Walk of Shame](https://open.spotify.com/track/5zbrOD2rKcIVFLAMW28gHM) | [that good good](https://open.spotify.com/artist/14XrkSF1t0kuCbZXjEKwym), [YodaDrunk](https://open.spotify.com/artist/1n1QC4XCxAiLh3pnnwiK7I) | [Walk of Shame](https://open.spotify.com/album/1kRLNv8Ny3xZz6q5HLu0Ix) | 2:58 | 2022-10-06 | 2023-02-02 |

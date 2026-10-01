@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Mwita Mataro, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Marie Hummel
 
-1,727 songs - 3 day 23 hr 46 min
+1,729 songs - 3 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,7 +515,7 @@
 | [Fertile](https://open.spotify.com/track/7cldmMjRtsrlxHd5v7wKpS) | [Tutu Amuse](https://open.spotify.com/artist/2IInmgMhfPrnjGU4f7NL4y) | [Two to Amuse](https://open.spotify.com/album/2WaetUVf38KXK2cJglYWcp) | 5:33 | 2022-09-14 | 2022-10-27 |
 | [festnetztelefon](https://open.spotify.com/track/1ZTJCX1T4q2tZtHZKRHfom) | [maja kemper](https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk) | [festnetztelefon](https://open.spotify.com/album/4mb6z0c7eBTpw5v5hsFxh4) | 2:47 | 2026-01-14 | 2026-03-19 |
 | [FETT](https://open.spotify.com/track/7obAinmmrrKX4Pk8j6GNHz) | [Liser](https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl) | [FETT](https://open.spotify.com/album/4K69vpYG1qPJ6vtJpQksh6) | 3:03 | 2023-10-18 | 2023-11-30 |
-| [feuer](https://open.spotify.com/track/03KSUxeISfi6Fa4yxoARbI) | [numa](https://open.spotify.com/artist/6Pj1tkkuqbi4DopxZbHdqK) | [feuer](https://open.spotify.com/album/5nU3VXFUJIZEMlx7qih8cm) | 1:25 | 2026-04-01 |  |
+| [feuer](https://open.spotify.com/track/03KSUxeISfi6Fa4yxoARbI) | [numa](https://open.spotify.com/artist/6Pj1tkkuqbi4DopxZbHdqK) | [feuer](https://open.spotify.com/album/5nU3VXFUJIZEMlx7qih8cm) | 1:25 | 2026-04-01 | 2026-10-01 |
 | [Feuer & Licht](https://open.spotify.com/track/2vg6sBQm9TsnT4eKIHmLRB) | [David Rausch](https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG), [Joulyn](https://open.spotify.com/artist/4jiarfPX3Ve0H0wcEymkAO) | [Feuer & Licht](https://open.spotify.com/album/24ozTGiddzxlsJzPvwSXVu) | 6:56 | 2023-06-21 | 2023-11-30 |
 | [Feuer in mir](https://open.spotify.com/track/1fuIPxrQgkQMG1EGaYGXsS) | [Neuschnee](https://open.spotify.com/artist/1CSWTvPnRIaKdEj4EIdleV) | [Feuer in mir](https://open.spotify.com/album/0yNMxU0kCGEfEmrXYK4Yxc) | 3:55 | 2023-08-16 | 2023-09-14 |
 | [Fick dich hart](https://open.spotify.com/track/6FaGiO9VON1SbPcrk4NNCb) | [Zucker](https://open.spotify.com/artist/1ImrQek1G4x5F8QJIGk5Cv) | [Fick dich hart](https://open.spotify.com/album/5veX9WGPhDKMIsojUgmcXz) | 3:20 | 2022-09-07 | 2022-09-22 |
@@ -657,6 +657,7 @@
 | [Have You Seen](https://open.spotify.com/track/3Jg8jv4MNyihHxM4CiR78z) | [Watching Tides](https://open.spotify.com/artist/5SGai9UGxUGCWBbDk7k5Ba) | [Have You Seen](https://open.spotify.com/album/1STR3bhs5BSk12n8DkCrlN) | 2:59 | 2023-01-25 | 2023-02-02 |
 | [Hay Fever in December](https://open.spotify.com/track/3CvhQgyyEetsufUbsTXnfA) | [Melicious](https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH) | [Hay Fever in December](https://open.spotify.com/album/3qj5o0BGIMQ6KOFK3xk96D) | 3:03 | 2022-11-16 | 2023-03-23 |
 | [Hayashi](https://open.spotify.com/track/2XXztk1aMUV5Oazh24hp9I) | [DOBé](https://open.spotify.com/artist/0eNEnjahhkwmbX24dSaRqX) | [Hayashi](https://open.spotify.com/album/1ES4zaRw2uR1iIoFjTCnGr) | 5:36 | 2023-05-31 | 2023-11-09 |
+| [head over heels](https://open.spotify.com/track/10DRx6qQhP9LY9jqExDtsb) | [Baba Blakes](https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq) | [head over heels](https://open.spotify.com/album/0J27cdNRvAf63n0G9obPoV) | 2:35 | 2026-09-30 |  |
 | [Headspace](https://open.spotify.com/track/79E4lV4arM5mzG8nwoNwkI) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [Headspace](https://open.spotify.com/album/1vx0GzKfansFH2pv3aW4Un) | 0:59 | 2023-02-01 | 2023-04-06 |
 | [heart on fire \(feat\. Amistat\)](https://open.spotify.com/track/2VDpNDRJP7Lb9kHkxS6dQm) | [Ginger And The Alchemists](https://open.spotify.com/artist/1DEV00pe1Rb7qVbCdMLzHa), [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [heart on fire \(feat\. Amistat\)](https://open.spotify.com/album/0GxssjelqkS6pmRFDgS22w) | 3:30 | 2022-04-13 | 2022-05-19 |
 | [Heart Still Beats 4 U](https://open.spotify.com/track/4TJBP4HTaJyujk0L0Yf8h7) | [Martha Rose](https://open.spotify.com/artist/2to0DT3S4QZofED8qsAcnO) | [Heart Still Beats 4 U](https://open.spotify.com/album/6fTpXItb9bHDwD5J7R7aDb) | 3:38 | 2024-04-24 | 2024-06-27 |
@@ -1094,7 +1095,7 @@
 | [nuages](https://open.spotify.com/track/2WXmhnX5pDzeuXyrK3Rbba) | [alvva](https://open.spotify.com/artist/5uPZ9j4MAaGMfW6HOMra4J) | [nuages](https://open.spotify.com/album/64Fdw1Ui3CHikatrz7Y0vz) | 4:01 | 2023-07-12 | 2024-01-04 |
 | [Nummer 1](https://open.spotify.com/track/6oztivlYb89p4U0inBAh1D) | [CHALET BELGIQUE](https://open.spotify.com/artist/5r0tRVdrhieGASYSSLEEEy) | [Nummer 1](https://open.spotify.com/album/4ELelI3cXGwU62GlpuW0uC) | 2:37 | 2024-09-25 | 2025-02-13 |
 | [Nunc](https://open.spotify.com/track/3VXiFyqU64Vi1On5GQo5CG) | [Koltbach](https://open.spotify.com/artist/7Gh2MFtYW3bviFGoult3NI) | [Nunc](https://open.spotify.com/album/4pSe5hlkdmJvaDCeJdMWCv) | 5:25 | 2023-01-04 | 2023-07-13 |
-| [Nur ein Typ](https://open.spotify.com/track/2pFy6rpL3LuBQLwEjnqzuj) | [Paul Brunner](https://open.spotify.com/artist/4VQra45UVmLnQWL4erEhwL) | [VIVA DELUXE](https://open.spotify.com/album/0GBYGcaVzJpJ0Q8NOFQxco) | 3:03 | 2026-06-10 |  |
+| [Nur ein Typ](https://open.spotify.com/track/2pFy6rpL3LuBQLwEjnqzuj) | [Paul Brunner](https://open.spotify.com/artist/4VQra45UVmLnQWL4erEhwL) | [VIVA DELUXE](https://open.spotify.com/album/0GBYGcaVzJpJ0Q8NOFQxco) | 3:03 | 2026-06-10 | 2026-10-01 |
 | [Nur für dich](https://open.spotify.com/track/1pA9RFirAVesU2s0bWFMia) | [blue friend](https://open.spotify.com/artist/052QHH0e04tuBG9Ik6E5q0) | [Nur für dich](https://open.spotify.com/album/29H3Uq1DXOnSyPrBzUMlR2) | 2:40 | 2025-07-30 | 2026-02-06 |
 | [Nur mein Herz](https://open.spotify.com/track/7aePXYBDPT6uwnlFLnw2TU) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl) | [Nur mein Herz](https://open.spotify.com/album/0d8xSaYsKAVIJbBV5RInw0) | 3:14 | 2024-03-20 | 2025-01-10 |
 | [nur nh idee](https://open.spotify.com/track/3Vs6j00BhZVOjOxA2mvtD2) | [doss](https://open.spotify.com/artist/5GlfABPVozsdDtqLfaNgGK) | [nur nh idee](https://open.spotify.com/album/3dzd4KvX6TBfNNemq7cL6Z) | 2:46 | 2026-08-19 |  |
@@ -1541,6 +1542,7 @@
 | [Transistorjugend](https://open.spotify.com/track/2KlcHaHJKeqkIQLkCtZOMB) | [Federhall](https://open.spotify.com/artist/0hxn2iug9XsuD4NUHTbXsR) | [Der Moderne Mann](https://open.spotify.com/album/216RuNnlLU8XXVRhVL4qmm) | 4:22 | 2022-11-30 | 2023-01-05 |
 | [Transistorjugend](https://open.spotify.com/track/4dwalsM63ltWUFl77Xg1CX) | [Federhall](https://open.spotify.com/artist/0hxn2iug9XsuD4NUHTbXsR) | [Transistorjugend](https://open.spotify.com/album/2vcZeUlX7IC1C6M8NGWA5o) | 4:22 | 2022-01-05 | 2022-06-23 |
 | [Traveller](https://open.spotify.com/track/4EW7dVVnUTiC4Xkebko4ko) | [mamari](https://open.spotify.com/artist/6XakLqegVbnu9xeY7vz7NM) | [Traveller](https://open.spotify.com/album/60lNNwEj7Y4vytTNHQsezm) | 4:47 | 2024-02-07 | 2024-06-01 |
+| [Treiben](https://open.spotify.com/track/3N15kNerqLR7MgKvzterur) | [Marie Hummel](https://open.spotify.com/artist/43Dj8MwpUVGB7WKzG1Vn92) | [Treiben](https://open.spotify.com/album/1v0qQEhOGXRkc3AAHjajI2) | 2:41 | 2026-09-30 |  |
 | [Treibsand](https://open.spotify.com/track/2qZWNzN3Wwd1DmDQD2i3x7) | [Trinity Sander](https://open.spotify.com/artist/1mXFDXaPzu1OF1axZ119ZM) | [Treibsand](https://open.spotify.com/album/5r35nREw8nJLbHzpT2V1g2) | 2:44 | 2023-08-02 | 2023-08-24 |
 | [Trendsetter](https://open.spotify.com/track/2bIMHYfA1u2b6wWPcPgdNm) | [ELEF](https://open.spotify.com/artist/5LjNJvBglFTGsAYikefcvH) | [Trendsetter](https://open.spotify.com/album/33kymdKci8THinmWmQBLxX) | 1:48 | 2024-03-13 | 2024-03-28 |
 | [Treptow](https://open.spotify.com/track/3xF2Q1ROL2LtMczRnfhvdz) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Home](https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP) | 5:42 | 2022-01-05 | 2022-02-03 |

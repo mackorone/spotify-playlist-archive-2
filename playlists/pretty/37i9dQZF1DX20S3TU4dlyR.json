@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 76905,
+  "num_followers": 76919,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -391,8 +391,8 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "Viento",
-        "url": "https://open.spotify.com/album/3XS34tvsxuuFBAATKDndML"
+        "name": "C\u00f3mo Ver?",
+        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 294266,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/7teQAzSEf3wAM4VMI4jBxW"
+      "duration_ms": 308522,
+      "name": "C\u00f3mo Ver?",
+      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -455,38 +455,6 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "Bahiano BH+",
-        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Oyelo",
-      "url": "https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
-        "name": "C\u00f3mo Ver?",
-        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 308522,
-      "name": "C\u00f3mo Ver?",
-      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
         "name": "Donde Brilla el Sol",
         "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 248093,
       "name": "En Tus Manos",
       "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/3XS34tvsxuuFBAATKDndML"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/7teQAzSEf3wAM4VMI4jBxW"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
+        "name": "Bahiano BH+",
+        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Oyelo",
+      "url": "https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -531,22 +531,6 @@
       "duration_ms": 220565,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
-        "name": "Uma Brasileira",
-        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 198238,
-      "name": "Uma Brasileira",
-      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -587,6 +571,22 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
+        "name": "Uma Brasileira",
+        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 198238,
+      "name": "Uma Brasileira",
+      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
         "name": "3000 Vivos (En Vivo)",
         "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 259283,
-      "name": "Quemando Tu Pecho",
-      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
         "name": "La Misi\u00f3n",
         "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 208212,
       "name": "Cinco",
       "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 259283,
+      "name": "Quemando Tu Pecho",
+      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
+        "name": "Hasta Que Me Olvides",
+        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 255744,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
         "name": "Cachacoleto",
         "url": "https://open.spotify.com/album/0OloiZOXxNtn1m8Psr5cum"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 189485,
       "name": "Vamos Tu y Yo",
       "url": "https://open.spotify.com/track/18hBIeESqJqIQ3M9FGOHBT"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
-        "name": "Hasta Que Me Olvides",
-        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 255744,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2eYLzfawsxegd6ppMH2FVC"
+        "name": "La Bondad De Dios",
+        "url": "https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd"
       },
       "artists": [
         {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
-        },
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+          "name": "Jah Love",
+          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
         }
       ],
-      "duration_ms": 213624,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/2YKv6SXLar1fRtk9xYUd6b"
+      "duration_ms": 236471,
+      "name": "La Bondad De Dios",
+      "url": "https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "La Bondad De Dios",
-        "url": "https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd"
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2eYLzfawsxegd6ppMH2FVC"
       },
       "artists": [
         {
-          "name": "Jah Love",
-          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        },
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
         }
       ],
-      "duration_ms": 236471,
-      "name": "La Bondad De Dios",
-      "url": "https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR"
+      "duration_ms": 213624,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/2YKv6SXLar1fRtk9xYUd6b"
     },
     {
       "added_at": "2026-09-18 03:00:25",

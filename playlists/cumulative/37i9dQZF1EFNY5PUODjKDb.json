@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 39546,
       "name": "15 Piano Variations and Fugue in E flat, Op. 35 -\"Eroica Variations\": Variation 6",
       "url": "https://open.spotify.com/track/4IvILBWq7CMIEfqnIUimyj"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 60493,
       "name": "25 Variations & Fugue on a Theme by Handel, Op. 24: Variation 5 (Live)",
       "url": "https://open.spotify.com/track/0tKo5AH5OgDp5I02xcm8n5"
@@ -10090,7 +10090,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 240066,
       "name": "I Believe My Heart",
       "url": "https://open.spotify.com/track/1SWqqW4NaS3rfQhGvKSDu3"
@@ -22063,6 +22063,28 @@
     },
     {
       "album": {
+        "name": "SUNSET BLVD: The Album",
+        "url": "https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45"
+      },
+      "artists": [
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/1xhWE4qSluoXxoNZRgEGza"
+    },
+    {
+      "album": {
         "name": "Surrender (The Unexpected Songs)",
         "url": "https://open.spotify.com/album/0bkUC0Zhn8SG5cQa5NTMxw"
       },
@@ -27632,6 +27654,32 @@
       "duration_ms": 65000,
       "name": "Variation 6 - Canone alla Seconda",
       "url": "https://open.spotify.com/track/6XxHHYodCr19l5Jz9kUjM5"
+    },
+    {
+      "album": {
+        "name": "Song and Dance (Live at the Palace Theatre) (Remastered 2005)",
+        "url": "https://open.spotify.com/album/4xm2Qcf3Jm2lPSll9n98MH"
+      },
+      "artists": [
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Harry Rabinowitz",
+          "url": "https://open.spotify.com/artist/7fhs5jWVmqKeYAU5iF6xFe"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49746,
+      "name": "Variation 6 - Live",
+      "url": "https://open.spotify.com/track/3DSHntFIo8mJQ2RkrBDAIm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Adult DVD
 
-2,346 songs - 5 day 16 hr 51 min
+2,347 songs - 5 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,7 @@
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-29 | 2025-07-29 |
 | [Crack!](https://open.spotify.com/track/5fdcRU4NnzoQDvUaITXU8n) | [Summer Whales](https://open.spotify.com/artist/3hkum3WiqHnQUdMicxAsS8) | [Doughy](https://open.spotify.com/album/3awx1iBGigpJlxHssiFSjA) | 3:14 | 2024-07-18 | 2024-08-16 |
 | [crash](https://open.spotify.com/track/2eGGf6bIyhZPd9fPuE5kMb) | [bunii](https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W) | [crash](https://open.spotify.com/album/4zhau6qTOQkCzyEwzaccNv) | 2:34 | 2026-03-12 | 2026-04-21 |
-| [Crawl](https://open.spotify.com/track/3UgwgUdUwaye5nMThMbPyA) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Crawl](https://open.spotify.com/album/3uQg2GyVbEcegEaGdt4KJa) | 3:51 | 2026-07-24 |  |
+| [Crawl](https://open.spotify.com/track/3UgwgUdUwaye5nMThMbPyA) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Crawl](https://open.spotify.com/album/3uQg2GyVbEcegEaGdt4KJa) | 3:51 | 2026-07-24 | 2026-10-01 |
 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 | 2024-01-25 | 2024-02-23 |
 | [Creature In The Black Night](https://open.spotify.com/track/4kMBP4BSFB0vNYQDVGiJq6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Creature In The Black Night](https://open.spotify.com/album/2YWEecYJkLwMbNOG1o4cap) | 3:48 | 2025-07-10 | 2025-10-31 |
 | [Creep \- Spotify Singles](https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 5:02 | 2023-11-09 | 2023-11-17 |
@@ -475,6 +475,7 @@
 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 | 2023-07-06 | 2023-07-14 |
 | [Cross Your Fingers](https://open.spotify.com/track/2kDS2SAoh9qDZjg1uNxDyz) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Cross Your Fingers](https://open.spotify.com/album/6uHfrz1awx019bmQvuqcax) | 3:49 | 2024-02-15 | 2024-02-23 |
 | [Crown of Horns](https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Crown of Horns](https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D) | 5:45 | 2024-01-18 | 2024-01-26 |
+| [Crucified](https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Crucified](https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE) | 4:23 | 2026-09-25 |  |
 | [CRUEL](https://open.spotify.com/track/0T70OATh83XtJsQG74lL86) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [CRUEL](https://open.spotify.com/album/7ELoEFG7ec1h7GLDZdFU99) | 2:21 | 2023-11-23 | 2023-12-01 |
 | [Cruel Streak](https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [A Pound of Feathers](https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13) | 4:09 | 2026-03-12 | 2026-04-07 |
 | [Crumbs](https://open.spotify.com/track/6HzhsHoGBLP63zISjDM0sz) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Crumbs](https://open.spotify.com/album/1WchsrtjxiZ7QjmLSHKuVq) | 4:13 | 2026-03-05 | 2026-03-22 |
@@ -771,7 +772,7 @@
 | [FUNERAL](https://open.spotify.com/track/2Ny0tCcYlti1RXsrNtRMl3) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM) | [FUNERAL](https://open.spotify.com/album/5XImB5pOIq9qubvqRUV2lD) | 3:08 | 2023-12-14 | 2023-12-22 |
 | [Funeral for Justice](https://open.spotify.com/track/6jRkPX7aziy9qweRaBloXF) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/2TEqu1Bvm8jFijAybw6S38) | 3:08 | 2024-02-29 | 2024-05-03 |
 | [Funky Getaway](https://open.spotify.com/track/1tGVOdfrDeDwWVSSqalfFn) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [Funky Getaway](https://open.spotify.com/album/0NnYBIaFPp6XSKV49oJET2) | 4:25 | 2026-06-11 | 2026-06-26 |
-| [Fur Elise](https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Fur Elise](https://open.spotify.com/album/3lqXCKvlrQ6EjO4PrFcAcF) | 4:16 | 2026-09-25 |  |
+| [Fur Elise](https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Fur Elise](https://open.spotify.com/album/3lqXCKvlrQ6EjO4PrFcAcF) | 4:16 | 2026-09-25 | 2026-10-01 |
 | [G.I.A.I.G](https://open.spotify.com/track/3pTfr1Pjz2pzzNNn5cp2J1) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [OPTIMIZE = OPTDEMISE](https://open.spotify.com/album/4d1SQUNvHqLe1lr0IkrXPd) | 3:11 | 2026-09-25 |  |
 | [G.O.D\. And The Broken Ribs](https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [G.O.D\. And The Broken Ribs / Derecho Demonico](https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR) | 3:43 | 2026-04-02 | 2026-07-03 |
 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 | 2023-06-01 | 2023-07-21 |
@@ -943,7 +944,7 @@
 | [How to Hold a Knife](https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [How to Hold a Knife](https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH) | 2:56 | 2023-09-28 | 2023-10-13 |
 | [Hula Girl](https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)](https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv) | 4:04 | 2025-11-14 | 2026-03-13 |
 | [Human \- Single Version](https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Human](https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR) | 3:31 | 2024-05-02 | 2024-06-30 |
-| [HUMAN AGAIN](https://open.spotify.com/track/3uP7jqdt4haiuL4acLhrDY) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [HUMAN AGAIN](https://open.spotify.com/album/6wTs6A9l7dl7C3WcqvF8XX) | 3:16 | 2026-07-24 | 2026-09-26 |
+| [HUMAN AGAIN](https://open.spotify.com/track/3uP7jqdt4haiuL4acLhrDY) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [HUMAN AGAIN](https://open.spotify.com/album/6wTs6A9l7dl7C3WcqvF8XX) | 3:16 | 2026-07-24 |  |
 | [Hummer](https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hummer](https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs) | 6:01 | 2026-06-26 | 2026-09-25 |
 | [hummingbird](https://open.spotify.com/track/7uh1vX2ecH6Zdf8zXB6eAe) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Kyung Min Jang](https://open.spotify.com/artist/4dRgywuc27oWwtjOAV7YuP) | [hummingbird](https://open.spotify.com/album/3UYJbvUYlO9bx4DEoV3XZW) | 3:38 | 2024-04-25 | 2024-06-21 |
 | [Hunger Games](https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 3:40 | 2024-01-04 | 2024-01-19 |

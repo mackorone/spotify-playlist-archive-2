@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/543ggovIEPepC3a6yaQ6Bi.md) - [plain]
 
 > Enjoy the best ever R&amp;B hits from the nineties &amp; zeroes! Old school RnB classics and throwback party jams from TLC, Usher, Aaliyah, Chris Brown, Mario, Jennifer Lopez, Drake, Ne\-Yo, Alicia Keys, Destiny's Child, Mariah Carey, Nelly, and more\. Throwback RnB party \| Club Bangers \| Smooth Vibes Only
 
-[Legacy Of Music](https://open.spotify.com/user/sonymusicthelegacy) - 78,631 likes - 250 songs - 17 hr 22 min
+[Legacy Of Music](https://open.spotify.com/user/sonymusicthelegacy) - 78,630 likes - 250 songs - 17 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,7 +198,7 @@ pretty - [cumulative](/playlists/cumulative/543ggovIEPepC3a6yaQ6Bi.md) - [plain]
 | 188 | [Differences](https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt) | 4:25 |
 | 189 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
 | 190 | [Mad](https://open.spotify.com/track/6Hn9Uc1mMNfqChXU3txNke) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Year Of The Gentleman \(Bonus Track Edition\)](https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x) | 4:14 |
-| 191 | [Bananza \(Belly Dancer\)](https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:58 |
+| 191 | [Bananza \(Belly Dancer\) \- 12" Version](https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:58 |
 | 192 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
 | 193 | [I Wanna Know](https://open.spotify.com/track/1m2xMsxbtxv21Brome189p) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:56 |
 | 194 | [Are You That Somebody?](https://open.spotify.com/track/2TNaQWWTeTyig2wsr1BNaL) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s) | 4:25 |

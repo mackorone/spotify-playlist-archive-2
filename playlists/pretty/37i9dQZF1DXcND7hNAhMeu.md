@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 
 > Geleceğin seslerini dinle! Kapak: üçkuruş
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,439 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,440 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 | 38 | [Yana Yana](https://open.spotify.com/track/372o63OFKXAni65PUS3IOu) | [Polen](https://open.spotify.com/artist/3l78tHbr4raiOhKaZffRyl) | [Yana Yana](https://open.spotify.com/album/1Yng9AITulVtHIUTNFDoRW) | 2:27 |
 | 39 | [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 |
 | 40 | [Senin Yüzünden](https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Senin Yüzünden](https://open.spotify.com/album/2WobQE09DjAqAOVne4Q4j1) | 2:56 |
-| 41 | [yazık ettin](https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yazık ettin](https://open.spotify.com/album/3nXqsbUDmDkTv0dXsvBzNF) | 2:50 |
+| 41 | [yazık ettin](https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yazık ettin](https://open.spotify.com/album/3nXqsbUDmDkTv0dXsvBzNF) | 2:50 |
 | 42 | [İstemedim Hiç](https://open.spotify.com/track/2BEjilqxCgQi6W9tnwoSsW) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [İstemedim Hiç](https://open.spotify.com/album/14NEYnXSR1wEJQYebUlGY5) | 2:53 |
 | 43 | [Yanlışım Olma](https://open.spotify.com/track/3uwIKbE9iyhrmkzejA5gjT) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Yanlışım Olma](https://open.spotify.com/album/64TzwFTOjHjsgXiq6f5wJA) | 3:26 |
 | 44 | [TELKİN](https://open.spotify.com/track/2A2y2qdwQaylXZBT2ctwJ5) | [Billur Battal](https://open.spotify.com/artist/3mWHQa3vlJRkvIyw87YFTu) | [TELKİN](https://open.spotify.com/album/63E5fNUxgRcprFlkELgtVZ) | 3:14 |

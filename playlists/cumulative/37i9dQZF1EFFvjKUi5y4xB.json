@@ -581,6 +581,28 @@
     },
     {
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201108,
+      "name": "Down In Your Ways",
+      "url": "https://open.spotify.com/track/2IO0JLR0qtl5q5E95i2dms"
+    },
+    {
+      "album": {
         "name": "E-Lo (feat. Jozzy)",
         "url": "https://open.spotify.com/album/3rq0C0keP4oYI33YBXB9uk"
       },

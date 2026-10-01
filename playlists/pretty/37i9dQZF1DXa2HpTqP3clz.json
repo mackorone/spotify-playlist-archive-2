@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tatiana Hargreaves, Laurie Lewis, and Lindsay Lou",
-  "num_followers": 168683,
+  "num_followers": 168685,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -199,26 +199,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "On Banjo",
-        "url": "https://open.spotify.com/album/7CqjRvc9ipzOlZ1D7ksG6M"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        },
-        {
-          "name": "Steve Martin",
-          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Foggy Morning Breaking",
-      "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Outrun The Rain",
         "url": "https://open.spotify.com/album/71QwOCif4gMjnlZeJLybdP"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 271973,
       "name": "Outrun The Rain",
       "url": "https://open.spotify.com/track/0jkA17RGMSwkfBYa8YjKab"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "On Banjo",
+        "url": "https://open.spotify.com/album/7CqjRvc9ipzOlZ1D7ksG6M"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        },
+        {
+          "name": "Steve Martin",
+          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Foggy Morning Breaking",
+      "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "My Little Girl in Tennessee (Live)",
+        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
+      },
+      "artists": [
+        {
+          "name": "Water Tower",
+          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "My Little Girl in Tennessee - Live",
+      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "Reverend (feat. Billy Strings)",
         "url": "https://open.spotify.com/album/2lMtrArg7d3Oed4h6j35WQ"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 347050,
       "name": "Reverend (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/0XxrvPXoMCePCYr0icUdJk"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "My Little Girl in Tennessee (Live)",
-        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
-      },
-      "artists": [
-        {
-          "name": "Water Tower",
-          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "My Little Girl in Tennessee - Live",
-      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        }
-      ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "What Did the Blackbird Say to the Crow",
         "url": "https://open.spotify.com/album/27X6vmJ0YmKi9ydl0aM65m"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 148889,
       "name": "Rain Crow",
       "url": "https://open.spotify.com/track/1vZwn9shBmyZfoorT4zxi4"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        }
+      ],
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -675,18 +675,18 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Gas and Oil",
-        "url": "https://open.spotify.com/album/50vHvkAXlMu7mG59nmhtCs"
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
       },
       "artists": [
         {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
         }
       ],
-      "duration_ms": 227786,
-      "name": "Gas and Oil",
-      "url": "https://open.spotify.com/track/2sQ8RGC3DHAecvS5nd2lbF"
+      "duration_ms": 256878,
+      "name": "Whiskey Drinking Man - Live",
+      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+        "name": "Gas and Oil",
+        "url": "https://open.spotify.com/album/50vHvkAXlMu7mG59nmhtCs"
       },
       "artists": [
         {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
         }
       ],
-      "duration_ms": 256878,
-      "name": "Whiskey Drinking Man - Live",
-      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
+      "duration_ms": 227786,
+      "name": "Gas and Oil",
+      "url": "https://open.spotify.com/track/2sQ8RGC3DHAecvS5nd2lbF"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Wanderers Like Me",
         "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 189887,
       "name": "Wanderers Like Me",
       "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Hillside",
-        "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
       "artists": [
         {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
         }
       ],
-      "duration_ms": 190764,
-      "name": "Hillside",
-      "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "I'll Blame It on the Rain",
-        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
+        "name": "Hillside",
+        "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
       },
       "artists": [
         {
-          "name": "Hammertowne",
-          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
         }
       ],
-      "duration_ms": 223586,
-      "name": "I'll Blame It on the Rain",
-      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+      "duration_ms": 190764,
+      "name": "Hillside",
+      "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
-      },
-      "artists": [
-        {
-          "name": "Mark O'Connor",
-          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
-        },
-        {
-          "name": "Maggie O'Connor",
-          "url": "https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH"
-        }
-      ],
-      "duration_ms": 263317,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
@@ -1179,18 +1159,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Long Way Around",
-        "url": "https://open.spotify.com/album/7kLUZ0VHGE2BByWmbwk29F"
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
       "artists": [
         {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+          "name": "Mark O'Connor",
+          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
+        },
+        {
+          "name": "Maggie O'Connor",
+          "url": "https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH"
         }
       ],
-      "duration_ms": 177858,
-      "name": "Long Way Around",
-      "url": "https://open.spotify.com/track/0s7eLvThs95MHCa1ie5FXT"
+      "duration_ms": 263317,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1207,6 +1191,22 @@
       "duration_ms": 272326,
       "name": "Please Mr Please",
       "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Long Way Around",
+        "url": "https://open.spotify.com/album/7kLUZ0VHGE2BByWmbwk29F"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        }
+      ],
+      "duration_ms": 177858,
+      "name": "Long Way Around",
+      "url": "https://open.spotify.com/track/0s7eLvThs95MHCa1ie5FXT"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "Kentucky Highway",
+        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
+      },
+      "artists": [
+        {
+          "name": "Williamson Branch",
+          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Kentucky Highway",
+      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 267954,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Kentucky Highway",
-        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
-      },
-      "artists": [
-        {
-          "name": "Williamson Branch",
-          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Kentucky Highway",
-      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
     },
     {
       "added_at": "2026-08-14 04:01:26",

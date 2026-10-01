@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,933 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,938 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 36 | [Hide & Seek](https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:33 |
 | 37 | [Up & Down](https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn) | [배이 \(NMIXX\)](https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo) | [제4차 사랑혁명 \(Original Sound Track\) Pt.1](https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC) | 4:04 |
 | 38 | [Don't Be](https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Don't Be](https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6) | 3:16 |
-| 39 | [You're Mine, You're My Man](https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG) | [LEE JI MIN](https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA) | [You're Mine, You're My Man](https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW) | 2:33 |
-| 40 | [Telepathy \(Feat\. ADORA\)](https://open.spotify.com/track/43huSeupxUXIBkRALBozSO) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc), [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [Summer?](https://open.spotify.com/album/79PjeURLjxfYBH9nWcwqhK) | 3:00 |
-| 41 | [My Dearest](https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [My Dearest \(ToGetHer X xooos\) \(Original Soundtrack\)](https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w) | 3:03 |
+| 39 | [Telepathy \(Feat\. ADORA\)](https://open.spotify.com/track/43huSeupxUXIBkRALBozSO) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc), [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [Summer?](https://open.spotify.com/album/79PjeURLjxfYBH9nWcwqhK) | 3:00 |
+| 40 | [My Dearest](https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [My Dearest \(ToGetHer X xooos\) \(Original Soundtrack\)](https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w) | 3:03 |
+| 41 | [You're Mine, You're My Man](https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG) | [LEE JI MIN](https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA) | [You're Mine, You're My Man](https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW) | 2:33 |
 | 42 | [왔다 갔다 \(feat\. Hoody\)](https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y) | [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM), [Hoody\(후디\)](https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB) | [왔다 갔다 ㅎㅎ](https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap) | 2:53 |
 | 43 | [BOY](https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:01 |
 | 44 | [It’s secret](https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [It’s secret](https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW) | 3:08 |

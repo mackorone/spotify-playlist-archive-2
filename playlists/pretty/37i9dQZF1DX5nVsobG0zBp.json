@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Richie Campbell",
-  "num_followers": 88050,
+  "num_followers": 88094,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-09-25 12:58:09",
       "album": {
+        "name": "VOLTA",
+        "url": "https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 241565,
+      "name": "VOLTA",
+      "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"
+    },
+    {
+      "added_at": "2026-09-25 12:58:09",
+      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 196276,
       "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
-    },
-    {
-      "added_at": "2026-09-25 12:58:09",
-      "album": {
-        "name": "VOLTA",
-        "url": "https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 241565,
-      "name": "VOLTA",
-      "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"
     },
     {
       "added_at": "2026-09-25 12:58:09",

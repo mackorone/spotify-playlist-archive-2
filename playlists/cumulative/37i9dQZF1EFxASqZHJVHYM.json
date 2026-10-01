@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 237918,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/1K5KBOgreBi5fkEHvg5ap3"
@@ -1786,6 +1786,32 @@
       "duration_ms": 228461,
       "name": "Love All (with JAY-Z)",
       "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
+    },
+    {
+      "album": {
+        "name": "LOVE MY LIFE",
+        "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        {
+          "name": "Anne Imhof",
+          "url": "https://open.spotify.com/artist/3JOuq4jD26hJ229ZaKHEe3"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161048,
+      "name": "LOVE MY LIFE",
+      "url": "https://open.spotify.com/track/1j6qr4E0seSdc6cq5pL6JD"
     },
     {
       "album": {
@@ -2964,7 +2990,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 226800,
       "name": "TOUCH ME",
       "url": "https://open.spotify.com/track/3HE0qnw60B0KOKYmI6iNVZ"
@@ -2982,7 +3008,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 226800,
       "name": "TOUCH ME",
       "url": "https://open.spotify.com/track/7d6eKiPc5IzdZO28iT9cdh"

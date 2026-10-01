@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 85669,
+  "num_followers": 85747,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "God Can Live Ministration",
-        "url": "https://open.spotify.com/album/1kiiYGJtDNVezSCFYTGR1P"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 530000,
-      "name": "Prayer Call (Chants) - Live",
-      "url": "https://open.spotify.com/track/1pmdxkKQ63owY4oSjBmqnj"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "We Are Fire",
         "url": "https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 398329,
       "name": "Revival Revival",
       "url": "https://open.spotify.com/track/7eUF82gjc4HpJM80aI6Rp8"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "God Can Live Ministration",
+        "url": "https://open.spotify.com/album/1kiiYGJtDNVezSCFYTGR1P"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 530000,
+      "name": "Prayer Call (Chants) - Live",
+      "url": "https://open.spotify.com/track/1pmdxkKQ63owY4oSjBmqnj"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1385,6 +1385,22 @@
       "url": "https://open.spotify.com/track/7ikJDPDH1IDfxC3uroUw6k"
     },
     {
+      "added_at": "2026-09-18 00:01:33",
+      "album": {
+        "name": "Seek Him",
+        "url": "https://open.spotify.com/album/2jIscfhK2LVuzQA63TJJC6"
+      },
+      "artists": [
+        {
+          "name": "Oluwajenyo",
+          "url": "https://open.spotify.com/artist/5VMLcHJIvePoeIJlsCdPtC"
+        }
+      ],
+      "duration_ms": 279272,
+      "name": "Seek Him",
+      "url": "https://open.spotify.com/track/6L3m7ovo5F0KkOSqHEBAN0"
+    },
+    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Let Me Want What You Want",
@@ -1399,22 +1415,6 @@
       "duration_ms": 483196,
       "name": "Let Me Want What You Want",
       "url": "https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8"
-    },
-    {
-      "added_at": "2025-11-07 00:01:40",
-      "album": {
-        "name": "Like Fire Like Rain - Prayer Chant",
-        "url": "https://open.spotify.com/album/73QPJLOL9BkYGOYsm4hLmj"
-      },
-      "artists": [
-        {
-          "name": "Minstrel Myra",
-          "url": "https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1"
-        }
-      ],
-      "duration_ms": 901138,
-      "name": "Like Fire Like Rain - Prayer Chant",
-      "url": "https://open.spotify.com/track/4pcUzJV14FbOQVp9bsHg4E"
     }
   ],
   "unique_name": "Worship Chants",

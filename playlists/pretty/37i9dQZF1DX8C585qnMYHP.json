@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent Experimental artists. The Nightclubs on cover. Artwork by Thami Nabil.",
-  "num_followers": 201505,
+  "num_followers": 201574,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGZVKSCM1N7aHXr90cO4eiJK/qo8",
+  "snapshot_id": "AAAAAGa4mlLtk+CZjdVOBcuRbO0ll3xm",
   "tracks": [
     {
       "added_at": "2026-09-23 03:04:46",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/6MotYNxxvlRO3sqa1bciLK"
     },
     {
+      "added_at": "2026-09-30 15:11:09",
+      "album": {
+        "name": "what's wrong with the structure?",
+        "url": "https://open.spotify.com/album/0xB0WCguyW7HW79TWJW1RV"
+      },
+      "artists": [
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        }
+      ],
+      "duration_ms": 307072,
+      "name": "what's wrong with the structure?",
+      "url": "https://open.spotify.com/track/5STU7fyjAFwfuC4nUSDS2l"
+    },
+    {
       "added_at": "2026-09-03 23:47:37",
       "album": {
         "name": "Glide By",
@@ -71,6 +87,114 @@
       "duration_ms": 210680,
       "name": "Pleonasm",
       "url": "https://open.spotify.com/track/2V4YJggIJYEsVAF0mcedW1"
+    },
+    {
+      "added_at": "2026-09-30 15:11:09",
+      "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/37NyUuQxBkGFJAlNiAZhwH"
+      },
+      "artists": [
+        {
+          "name": "Hour",
+          "url": "https://open.spotify.com/artist/4o9osC05KC6Gayy2WN78p3"
+        }
+      ],
+      "duration_ms": 404469,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/1qdFhzpDJt1gjn28xZHcXX"
+    },
+    {
+      "added_at": "2026-09-30 15:11:09",
+      "album": {
+        "name": "Twin Star Fantasy",
+        "url": "https://open.spotify.com/album/7dXrul6poTIs3XUQPkxFUh"
+      },
+      "artists": [
+        {
+          "name": "Tricky FM",
+          "url": "https://open.spotify.com/artist/2YUC5nYnx0PrmkE3s23Y0l"
+        }
+      ],
+      "duration_ms": 270198,
+      "name": "Sugar in my Drink",
+      "url": "https://open.spotify.com/track/1ApsQ73pbCzmQIh7VcK9S8"
+    },
+    {
+      "added_at": "2026-09-30 15:11:09",
+      "album": {
+        "name": "Fanfare",
+        "url": "https://open.spotify.com/album/61d52hbO9CVf0FTyTSkyF5"
+      },
+      "artists": [
+        {
+          "name": "Silkarmour",
+          "url": "https://open.spotify.com/artist/1poS8yV42OMtNLepOIqWwm"
+        }
+      ],
+      "duration_ms": 178374,
+      "name": "Fanfare",
+      "url": "https://open.spotify.com/track/3MouyunmqNkvk0Coc7ARhG"
+    },
+    {
+      "added_at": "2026-09-30 15:11:09",
+      "album": {
+        "name": "playere",
+        "url": "https://open.spotify.com/album/1cISCQ1uABxPfYweqsth0c"
+      },
+      "artists": [
+        {
+          "name": "naagelatin",
+          "url": "https://open.spotify.com/artist/7ilX0wWofl1pysPMLWnvVc"
+        }
+      ],
+      "duration_ms": 220055,
+      "name": "CH0P",
+      "url": "https://open.spotify.com/track/0npmH38SUs5xYjhh04W0Nv"
+    },
+    {
+      "added_at": "2026-09-30 15:11:09",
+      "album": {
+        "name": "HIKARIGASASHIKOMU",
+        "url": "https://open.spotify.com/album/44bdKoxkAhHsxRw4Sxs03w"
+      },
+      "artists": [
+        {
+          "name": "foodman",
+          "url": "https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Omoi",
+      "url": "https://open.spotify.com/track/076tHRcn1xJQYjVxIcNbDo"
+    },
+    {
+      "added_at": "2026-09-30 15:11:09",
+      "album": {
+        "name": "Maniac Maison",
+        "url": "https://open.spotify.com/album/7oVNvh5oCBt6ukhF7KDQ8A"
+      },
+      "artists": [
+        {
+          "name": "Maniac Maison",
+          "url": "https://open.spotify.com/artist/0XEn02WmKNdgoJJ8xMiXWw"
+        },
+        {
+          "name": "Lucien Fraipont",
+          "url": "https://open.spotify.com/artist/5xlV2sksUvgv2ZgWEdRjbY"
+        },
+        {
+          "name": "Shoko Igarashi",
+          "url": "https://open.spotify.com/artist/0rhogygCtWJLauB3rYvQsK"
+        },
+        {
+          "name": "Casimir Liberski",
+          "url": "https://open.spotify.com/artist/3rvT6hIhacQRDl1STJ2rTT"
+        }
+      ],
+      "duration_ms": 277760,
+      "name": "Jojo",
+      "url": "https://open.spotify.com/track/1jzfzBKEFu1q4pDIvbQpDO"
     },
     {
       "added_at": "2026-09-16 00:00:00",
@@ -111,6 +235,22 @@
       "duration_ms": 170653,
       "name": "Searchlight",
       "url": "https://open.spotify.com/track/27fKfkbPrAR2TnjuHFpZ8P"
+    },
+    {
+      "added_at": "2026-09-30 15:11:09",
+      "album": {
+        "name": "(SMT)",
+        "url": "https://open.spotify.com/album/3i9sZmKbiju9UnQ7lLGjX9"
+      },
+      "artists": [
+        {
+          "name": "megiapa",
+          "url": "https://open.spotify.com/artist/35t5sI1WDcFQFzTfMGEBs2"
+        }
+      ],
+      "duration_ms": 142453,
+      "name": "(SMT)",
+      "url": "https://open.spotify.com/track/7huWtgG32gVDGGWdC3CRmj"
     },
     {
       "added_at": "2026-09-16 00:00:00",
@@ -321,6 +461,22 @@
       "url": "https://open.spotify.com/track/2vPS57fmqhbOPa5G9BVEI4"
     },
     {
+      "added_at": "2026-09-30 15:11:09",
+      "album": {
+        "name": "All the Things We Lost Last Year",
+        "url": "https://open.spotify.com/album/5VIS4fGtY5RgPAnrQXmFtb"
+      },
+      "artists": [
+        {
+          "name": "Shoplifting",
+          "url": "https://open.spotify.com/artist/1daZ3lS7Y0nwqUCfXpDnxa"
+        }
+      ],
+      "duration_ms": 146124,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/1aOVcyh4AxQVLoJJCEiIT8"
+    },
+    {
       "added_at": "2026-09-16 00:00:00",
       "album": {
         "name": "CURSED FRAME",
@@ -423,6 +579,22 @@
       "duration_ms": 1387252,
       "name": "The Rose Dialogues, Part I",
       "url": "https://open.spotify.com/track/1xOueITQv1GruAhAi23vhs"
+    },
+    {
+      "added_at": "2026-09-30 15:11:09",
+      "album": {
+        "name": "SHOW ME",
+        "url": "https://open.spotify.com/album/55s1kYuzkarrxNL7T8wj0u"
+      },
+      "artists": [
+        {
+          "name": "B0YG1RL",
+          "url": "https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "SHOW ME",
+      "url": "https://open.spotify.com/track/3YJQJk4MxXXXTQ1b5MzHY5"
     },
     {
       "added_at": "2026-09-09 22:08:01",
@@ -529,22 +701,6 @@
       "url": "https://open.spotify.com/track/0ablSYA5mgmbtIzRbby1hh"
     },
     {
-      "added_at": "2026-08-26 17:44:18",
-      "album": {
-        "name": "The Primitivist",
-        "url": "https://open.spotify.com/album/7m0Q3So6r7xdU3MeXbM7Vb"
-      },
-      "artists": [
-        {
-          "name": "ABADIR",
-          "url": "https://open.spotify.com/artist/5x4riXfgUdVCXbrOIFxn51"
-        }
-      ],
-      "duration_ms": 343378,
-      "name": "Habban",
-      "url": "https://open.spotify.com/track/0qlVHdjqbKgsL7Ayt8YHLn"
-    },
-    {
       "added_at": "2026-08-19 17:49:37",
       "album": {
         "name": "Bruises",
@@ -607,22 +763,6 @@
       "duration_ms": 353757,
       "name": "Tabla Trouble",
       "url": "https://open.spotify.com/track/27RpDOjJDvKj0hxLT8WJI7"
-    },
-    {
-      "added_at": "2026-08-26 17:44:18",
-      "album": {
-        "name": "Track 4",
-        "url": "https://open.spotify.com/album/6zSiTkWbHkPDoQNNyYHYdT"
-      },
-      "artists": [
-        {
-          "name": "estelle allen",
-          "url": "https://open.spotify.com/artist/2tjDBUi44p9i0zsZQW01o4"
-        }
-      ],
-      "duration_ms": 164725,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/1i9PajnrLIEwopapdvD3Se"
     },
     {
       "added_at": "2026-08-19 17:49:37",
@@ -715,50 +855,6 @@
       "duration_ms": 281500,
       "name": "Sense of Place",
       "url": "https://open.spotify.com/track/6H0DYW3RyHoTatvBva0fqc"
-    },
-    {
-      "added_at": "2026-08-13 12:07:23",
-      "album": {
-        "name": "Nothing Space Music",
-        "url": "https://open.spotify.com/album/0LVls3YIcjSXh0Mv08HYep"
-      },
-      "artists": [
-        {
-          "name": "maya ongaku",
-          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
-        }
-      ],
-      "duration_ms": 333125,
-      "name": "Astral Echoes",
-      "url": "https://open.spotify.com/track/0wb3PXLcaKa6Ta87CCR0BK"
-    },
-    {
-      "added_at": "2026-07-17 17:13:46",
-      "album": {
-        "name": "Cow With Half Moon Parasol",
-        "url": "https://open.spotify.com/album/3s5JFSNttXDbwCEvCIctLS"
-      },
-      "artists": [
-        {
-          "name": "HUG",
-          "url": "https://open.spotify.com/artist/0fPTd29x2F2C4lHNVUwFEs"
-        },
-        {
-          "name": "Gyan Riley",
-          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
-        },
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        },
-        {
-          "name": "Noah Georgeson",
-          "url": "https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8"
-        }
-      ],
-      "duration_ms": 276620,
-      "name": "Cow With Half Moon Parasol",
-      "url": "https://open.spotify.com/track/2pUjVfqByVLqkgrKBrsdkw"
     },
     {
       "added_at": "2026-07-17 17:13:46",
@@ -901,22 +997,6 @@
       "url": "https://open.spotify.com/track/6vUgRlnDtLX9ouWf4WMeMF"
     },
     {
-      "added_at": "2026-07-24 04:01:47",
-      "album": {
-        "name": "Use Your Noggin",
-        "url": "https://open.spotify.com/album/2AmQm5671eOTBvmATWPDDi"
-      },
-      "artists": [
-        {
-          "name": ".multibeat",
-          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
-        }
-      ],
-      "duration_ms": 198514,
-      "name": "Use Your Noggin",
-      "url": "https://open.spotify.com/track/7sNphrjDuqFxZ1zES0OTp8"
-    },
-    {
       "added_at": "2026-07-17 17:13:46",
       "album": {
         "name": "Seastar",
@@ -971,22 +1051,6 @@
       "duration_ms": 144775,
       "name": "Harlow",
       "url": "https://open.spotify.com/track/67ucoboGHxv4ENoqSAOmPE"
-    },
-    {
-      "added_at": "2026-07-17 17:13:46",
-      "album": {
-        "name": "ELEGY",
-        "url": "https://open.spotify.com/album/3RSbclUQoSu7wVmSYa7Bd8"
-      },
-      "artists": [
-        {
-          "name": "KatzPascale",
-          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
-        }
-      ],
-      "duration_ms": 214704,
-      "name": "SINK WHERE YOU SLEEP",
-      "url": "https://open.spotify.com/track/0JtscTBmEhAhw3PalM7AST"
     },
     {
       "added_at": "2026-07-30 04:00:30",
@@ -1091,22 +1155,6 @@
     {
       "added_at": "2026-07-17 17:13:46",
       "album": {
-        "name": "perspective",
-        "url": "https://open.spotify.com/album/0ocAnfYYo4xqKuzccHTd7i"
-      },
-      "artists": [
-        {
-          "name": "heartbleeder",
-          "url": "https://open.spotify.com/artist/50ILRM1ASU9bh0NxSCiLih"
-        }
-      ],
-      "duration_ms": 186805,
-      "name": "perspective",
-      "url": "https://open.spotify.com/track/3aMW4lkNyt8DprkhSRPWB0"
-    },
-    {
-      "added_at": "2026-07-17 17:13:46",
-      "album": {
         "name": "Everything Always Changes, For We\u2019re Truly Here",
         "url": "https://open.spotify.com/album/4r6fyflHmA1FEaRDsRvcDQ"
       },
@@ -1131,6 +1179,22 @@
       "duration_ms": 333104,
       "name": "Poetic Fallacy",
       "url": "https://open.spotify.com/track/67X04Q2ZqA5pcfxz4MLU6V"
+    },
+    {
+      "added_at": "2026-09-30 15:11:09",
+      "album": {
+        "name": "Eleven Harps",
+        "url": "https://open.spotify.com/album/06kXuhdt0xSjtbHIcBG2Cs"
+      },
+      "artists": [
+        {
+          "name": "Eve Matin",
+          "url": "https://open.spotify.com/artist/74LZebzgVT3zM0cuZNlR6Q"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Si alg\u00fan d\u00eda llego, me habr\u00e9 ido",
+      "url": "https://open.spotify.com/track/64J9w9R6p1vPwKetjwYgBE"
     },
     {
       "added_at": "2026-08-06 14:41:06",
@@ -1171,38 +1235,6 @@
     {
       "added_at": "2026-07-17 17:13:46",
       "album": {
-        "name": "\uff0d\uff0d\uff0d \uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff0d\uff65\uff0d\uff0d",
-        "url": "https://open.spotify.com/album/7p8WjXvUzAa4MThnghq0bw"
-      },
-      "artists": [
-        {
-          "name": "\uff65 \uff65\uff0d\uff65 \uff65\uff0d \uff65\uff65\uff65 \uff65 \uff0d\uff65\uff65",
-          "url": "https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "\uff0d\uff0d\uff0d \uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff0d\uff65\uff0d\uff0d",
-      "url": "https://open.spotify.com/track/4XupTIpXQXHehljGjLkiwl"
-    },
-    {
-      "added_at": "2026-07-30 04:00:30",
-      "album": {
-        "name": "Tessares",
-        "url": "https://open.spotify.com/album/5cVhwY4xBaFrX06wn41rjK"
-      },
-      "artists": [
-        {
-          "name": "dgoHn",
-          "url": "https://open.spotify.com/artist/7niTXistKYVF29W4Bo0cUt"
-        }
-      ],
-      "duration_ms": 278093,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/20E78xm16Tvx3soPntpG25"
-    },
-    {
-      "added_at": "2026-07-17 17:13:46",
-      "album": {
         "name": "Above The Clouds I Finally Found Peace",
         "url": "https://open.spotify.com/album/0g6DbN5ScFxj0tVRzKgYTw"
       },
@@ -1215,22 +1247,6 @@
       "duration_ms": 412646,
       "name": "Les Vagues Dansent Avec Les \u00c9toiles",
       "url": "https://open.spotify.com/track/59XJLW9I0LzDRGdKYFKSop"
-    },
-    {
-      "added_at": "2026-07-17 17:13:46",
-      "album": {
-        "name": "Synoptic Audio",
-        "url": "https://open.spotify.com/album/66yTd9FrhbN4v6GBtSxvWc"
-      },
-      "artists": [
-        {
-          "name": "Speaker Music",
-          "url": "https://open.spotify.com/artist/1H0aWZUg7aOHQmo5h09xso"
-        }
-      ],
-      "duration_ms": 374693,
-      "name": "Chaosmosis",
-      "url": "https://open.spotify.com/track/6w5EhMONFzd90QfCLMcyVA"
     },
     {
       "added_at": "2026-08-13 12:07:23",
@@ -1299,26 +1315,6 @@
       "duration_ms": 210526,
       "name": "Terra Sigillata",
       "url": "https://open.spotify.com/track/4nBo834VksEonZPymzdOpb"
-    },
-    {
-      "added_at": "2026-07-17 17:13:46",
-      "album": {
-        "name": "EVIDENT 2 ME",
-        "url": "https://open.spotify.com/album/5lD6KCEMPfl1trVAGNkfQ7"
-      },
-      "artists": [
-        {
-          "name": "Cartel Madras",
-          "url": "https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3"
-        },
-        {
-          "name": "Jide",
-          "url": "https://open.spotify.com/artist/6EDGpM5rVt6GsOh5ypS04Y"
-        }
-      ],
-      "duration_ms": 110221,
-      "name": "EVIDENT 2 ME",
-      "url": "https://open.spotify.com/track/0B9QzxPp0lKpcyp95YIOOu"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

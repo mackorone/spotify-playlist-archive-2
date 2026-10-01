@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Taylor Swift, Tinashe, Julia Jacklin, Madonna, Charli xcx, Leon Bridges + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,055 likes - 103 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,063 likes - 103 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 10 | [Crossed Out](https://open.spotify.com/track/3zOsjeYUu2MFa0qRP8PcLO) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X) | [Crossed Out](https://open.spotify.com/album/6IER78BO9TmP5O6nNLp2jQ) | 3:07 |
 | 11 | [Man On The Moon](https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Man On The Moon](https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx) | 3:23 |
 | 12 | [I Won’t Cry](https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I Won't Cry](https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo) | 4:20 |
-| 13 | [Ain’t Going Down \(Til the Sun Comes Up\)](https://open.spotify.com/track/681XdgnL0vhBhNyDvIc58O) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Steel Town \(Deluxe\)](https://open.spotify.com/album/4XPpgtY2stYfvC9QpSVcEy) | 4:16 |
+| 13 | [Ain’t Going Down \(‘Til the Sun Comes Up\)](https://open.spotify.com/track/681XdgnL0vhBhNyDvIc58O) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Steel Town \(Deluxe\)](https://open.spotify.com/album/4XPpgtY2stYfvC9QpSVcEy) | 4:16 |
 | 14 | [Where The Goth Girls At?](https://open.spotify.com/track/5kPfThD8sI2AvIhTkf0nbs) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Where The Goth Girls At?](https://open.spotify.com/album/6hfZz7yAgyqjqb1bSBgsoP) | 3:28 |
 | 15 | [Grandma Song](https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Grandma Song](https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I) | 3:03 |
 | 16 | [Roses](https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Roses](https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF) | 3:28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: mellowmie. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Chaca Trisha. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -10214,6 +10214,24 @@
       "duration_ms": 144000,
       "name": "i don't wanna",
       "url": "https://open.spotify.com/track/2kSRbzzPiqNs4l9SpYOTvp"
+    },
+    {
+      "album": {
+        "name": "i don't wanna go home",
+        "url": "https://open.spotify.com/album/1Tl7lic5DwxusjIte0xw1U"
+      },
+      "artists": [
+        {
+          "name": "Sio Lubis",
+          "url": "https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221793,
+      "name": "i don't wanna go home",
+      "url": "https://open.spotify.com/track/10JofTB56nF5Xoe3oVm76w"
     },
     {
       "album": {
@@ -20920,6 +20938,24 @@
       "duration_ms": 214239,
       "name": "Situationshit",
       "url": "https://open.spotify.com/track/3Y47jggwLcHeb3UdD4cEoM"
+    },
+    {
+      "album": {
+        "name": "Slalu Sayang Kamu",
+        "url": "https://open.spotify.com/album/2O8FvWnKtGDF68K6JNuy6A"
+      },
+      "artists": [
+        {
+          "name": "Chaca Trisha",
+          "url": "https://open.spotify.com/artist/02geLTFdneffT5CtaO0rqt"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190100,
+      "name": "Slalu Sayang Kamu",
+      "url": "https://open.spotify.com/track/72AdERsw4exCLPIG2M0oQ5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 814 likes - 69 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 814 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 64 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 |
 | 65 | [Blink of an Eye](https://open.spotify.com/track/2TtyGeOLJxMnbK1VgdIPp7) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:30 |
 | 66 | [Inktro](https://open.spotify.com/track/6JTODtfTPnfQN0yecATqYx) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:57 |
-| 67 | [Inkerlude](https://open.spotify.com/track/0ArmWjJSbba9OY7a56Uxao) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:41 |
-| 68 | [Outro](https://open.spotify.com/track/4WShc2g1Vl3hdMM9JGzZoi) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:54 |
-| 69 | [Tony Machine on 42nd](https://open.spotify.com/track/7oS5pGCbIRr3fbp8PPDS2n) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:19 |
+| 67 | [Boots In Da Club](https://open.spotify.com/track/0Iy7XxO0tFWhqg2Vo1rj97) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Boots In Da Club](https://open.spotify.com/album/5CXtuNkwUXZ1XyLn9vrp1f) | 4:00 |
+| 68 | [Inkerlude](https://open.spotify.com/track/0ArmWjJSbba9OY7a56Uxao) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:41 |
+| 69 | [Outro](https://open.spotify.com/track/4WShc2g1Vl3hdMM9JGzZoi) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:54 |
+| 70 | [Tony Machine on 42nd](https://open.spotify.com/track/7oS5pGCbIRr3fbp8PPDS2n) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:19 |
 
-Snapshot ID: `AcdougAAAACjSN6uUpuqIKbhfzF2hc2e`
+Snapshot ID: `AcduWgAAAAAXoAhMZRXOuNrXSTffJ/qU`

@@ -1,6 +1,6 @@
 {
   "description": "Texas Blues at its best.",
-  "num_followers": 182436,
+  "num_followers": 182490,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Return Of The Radio Avengers",
-        "url": "https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op"
-      },
-      "artists": [
-        {
-          "name": "Ezra Charles",
-          "url": "https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "88 Answers",
-      "url": "https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "I Know What It's Like",
         "url": "https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 273346,
       "name": "Whiskey Drinkin' Blues",
       "url": "https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Return Of The Radio Avengers",
+        "url": "https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op"
+      },
+      "artists": [
+        {
+          "name": "Ezra Charles",
+          "url": "https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "88 Answers",
+      "url": "https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -531,6 +531,22 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/0l5L2aVeZ9IVE31mmERdvy"
+      },
+      "artists": [
+        {
+          "name": "Long John Hunter",
+          "url": "https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW"
+        }
+      ],
+      "duration_ms": 341933,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
         "name": "Up Close",
         "url": "https://open.spotify.com/album/6KTqSghfCNMlYRBNQytty9"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 362240,
       "name": "Texas",
       "url": "https://open.spotify.com/track/04kG9s73OxBkpC701Ifp62"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/0l5L2aVeZ9IVE31mmERdvy"
-      },
-      "artists": [
-        {
-          "name": "Long John Hunter",
-          "url": "https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW"
-        }
-      ],
-      "duration_ms": 341933,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb"
     },
     {
       "added_at": "2018-02-27 16:43:49",

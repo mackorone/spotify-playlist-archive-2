@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Maia Reficco",
-  "num_followers": 88545,
+  "num_followers": 88593,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
-        "name": "its not about me!",
-        "url": "https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 171392,
-      "name": "its not about me!",
-      "url": "https://open.spotify.com/track/02UI5paChJe2PHsi0nikly"
-    },
-    {
-      "added_at": "2026-09-25 13:00:07",
-      "album": {
         "name": "El Endemoniao",
         "url": "https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 214537,
       "name": "El Endemoniao",
       "url": "https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "its not about me!",
+        "url": "https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 171392,
+      "name": "its not about me!",
+      "url": "https://open.spotify.com/track/02UI5paChJe2PHsi0nikly"
     },
     {
       "added_at": "2026-09-25 13:00:07",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx"
+      },
+      "artists": [
+        {
+          "name": "Lewis Love",
+          "url": "https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
-        "name": "BBB",
-        "url": "https://open.spotify.com/album/3UJPdlqJ2Di179mRPiTe0l"
+        "name": "Writing's on the Wall",
+        "url": "https://open.spotify.com/album/4eQpaHJCwEABol0LOS0m0G"
       },
       "artists": [
         {
-          "name": "XONE",
-          "url": "https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo"
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
         }
       ],
-      "duration_ms": 186382,
-      "name": "BBB",
-      "url": "https://open.spotify.com/track/0uyPzNqlpKwijyTI21wI1B"
+      "duration_ms": 183808,
+      "name": "Writing's on the Wall",
+      "url": "https://open.spotify.com/track/403zsZipYJ2eeG9V2TidRz"
     },
     {
       "added_at": "2026-09-25 13:00:07",
@@ -511,18 +527,18 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
-        "name": "Writing's on the Wall",
-        "url": "https://open.spotify.com/album/4eQpaHJCwEABol0LOS0m0G"
+        "name": "BBB",
+        "url": "https://open.spotify.com/album/3UJPdlqJ2Di179mRPiTe0l"
       },
       "artists": [
         {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+          "name": "XONE",
+          "url": "https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo"
         }
       ],
-      "duration_ms": 183808,
-      "name": "Writing's on the Wall",
-      "url": "https://open.spotify.com/track/403zsZipYJ2eeG9V2TidRz"
+      "duration_ms": 186382,
+      "name": "BBB",
+      "url": "https://open.spotify.com/track/0uyPzNqlpKwijyTI21wI1B"
     },
     {
       "added_at": "2026-09-25 13:00:07",
@@ -559,22 +575,6 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
-        "name": "Man On The Moon",
-        "url": "https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx"
-      },
-      "artists": [
-        {
-          "name": "Lewis Love",
-          "url": "https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0"
-    },
-    {
-      "added_at": "2026-09-25 13:00:07",
-      "album": {
         "name": "Context",
         "url": "https://open.spotify.com/album/0BJVBckpNAfFH7qDSWnEqH"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 266277,
       "name": "Floo",
       "url": "https://open.spotify.com/track/1fgPVwPWvRDzI0yUKxFWzX"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "before",
+        "url": "https://open.spotify.com/album/5bxRIvb0FRhSB9SWZH6VEG"
+      },
+      "artists": [
+        {
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "before",
+      "url": "https://open.spotify.com/track/2Lq1w0xiEHoGAJ68vT21bp"
     },
     {
       "added_at": "2026-09-25 13:00:07",
@@ -607,22 +623,6 @@
       "duration_ms": 198072,
       "name": "Hridhayam",
       "url": "https://open.spotify.com/track/0gSgiwCwOhj2gi2RQczwWV"
-    },
-    {
-      "added_at": "2026-09-25 13:00:07",
-      "album": {
-        "name": "before",
-        "url": "https://open.spotify.com/album/5bxRIvb0FRhSB9SWZH6VEG"
-      },
-      "artists": [
-        {
-          "name": "lovlaine",
-          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "before",
-      "url": "https://open.spotify.com/track/2Lq1w0xiEHoGAJ68vT21bp"
     },
     {
       "added_at": "2026-09-25 13:00:07",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-09-25 13:00:07",
       "album": {
-        "name": "Setiap Nafasku Kernamu",
-        "url": "https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2"
-      },
-      "artists": [
-        {
-          "name": "Intan Maya",
-          "url": "https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Setiap Nafasku Kernamu",
-      "url": "https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP"
-    },
-    {
-      "added_at": "2026-09-25 13:00:07",
-      "album": {
         "name": "waste your pain",
         "url": "https://open.spotify.com/album/7xZM9auwP97hBo51OSYZ29"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 143872,
       "name": "waste your pain",
       "url": "https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas"
+    },
+    {
+      "added_at": "2026-09-25 13:00:07",
+      "album": {
+        "name": "Setiap Nafasku Kernamu",
+        "url": "https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2"
+      },
+      "artists": [
+        {
+          "name": "Intan Maya",
+          "url": "https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Setiap Nafasku Kernamu",
+      "url": "https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP"
     },
     {
       "added_at": "2026-09-25 13:00:07",

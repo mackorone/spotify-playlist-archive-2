@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 21490,
+  "num_followers": 21494,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "MONICA",
+      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 231183,
       "name": "After Six",
       "url": "https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "MONICA",
-      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 191179,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Skedaddle",
         "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 150858,
       "name": "Skedaddle",
       "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 191179,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h"
-      },
-      "artists": [
-        {
-          "name": "Fasina",
-          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 237532,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "MINISKIRT",
         "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 124751,
       "name": "MINISKIRT",
       "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h"
+      },
+      "artists": [
+        {
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 237532,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "sundays",
-        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
       },
       "artists": [
         {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
         }
       ],
-      "duration_ms": 174000,
-      "name": "sundays",
-      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
+      "duration_ms": 128450,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -1067,42 +1067,34 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+        "name": "sundays",
+        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
       },
       "artists": [
         {
-          "name": "TMXO",
-          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
         }
       ],
-      "duration_ms": 128450,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
+      "duration_ms": 174000,
+      "name": "sundays",
+      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
     },
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Call on Me",
-        "url": "https://open.spotify.com/album/4QIHSb34WjV0yDj2f4eLPb"
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/1NYyGd73h9In83foaNlao2"
       },
       "artists": [
         {
-          "name": "GMK",
-          "url": "https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G"
-        },
-        {
-          "name": "Tomi Thomas",
-          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
-        },
-        {
-          "name": "Kida Kudz",
-          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
         }
       ],
-      "duration_ms": 180705,
-      "name": "Call on Me",
-      "url": "https://open.spotify.com/track/4G46ARDqN8E5FmXbLPRUgM"
+      "duration_ms": 149734,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/0uFCWBCZ8sU0Ys75kuNMcQ"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

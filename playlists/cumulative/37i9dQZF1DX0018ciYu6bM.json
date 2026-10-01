@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Mixtape : A1 GO",
+        "url": "https://open.spotify.com/album/4AxIouGKYNLcW7L7ADFu9B"
+      },
+      "artists": [
+        {
+          "name": "Keyveatz",
+          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "A1 GO",
+      "url": "https://open.spotify.com/track/3Fxyus5dy1VVF0IRyyKjPF"
+    },
+    {
+      "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },

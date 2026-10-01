@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Mula & Lijpe, Rits, Yade Lauren, Jiggy Djé en meer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,028 likes - 62 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,041 likes - 62 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 15 | [STRAAT VAN HORMUZ](https://open.spotify.com/track/1EkX8cuRcpKKuAzUch3ALF) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [STRAAT VAN HORMUZ](https://open.spotify.com/album/4Icu867uMbpG2Kq7R0EYIh) | 3:16 |
 | 16 | [Haast](https://open.spotify.com/track/3cOTBCliRjJUbVdz11RYtE) | [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7), [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Haast](https://open.spotify.com/album/3LAzeYbgU0cZmh5WbNiZD5) | 3:05 |
 | 17 | [Gangster Ben](https://open.spotify.com/track/21179u71xPUY3RocZgjLmJ) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Gangster Ben](https://open.spotify.com/album/1us4CmQlZGL2QySScsrept) | 2:06 |
-| 18 | [La Vida](https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [La Vida](https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y) | 2:46 |
-| 19 | [AMBITIE](https://open.spotify.com/track/054TRzlsNdW5MewmrYOLx1) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [AMBITIE](https://open.spotify.com/album/7KbXGlY6RgyVcTx56evSEc) | 2:31 |
-| 20 | [Macho Man](https://open.spotify.com/track/6dw2b4HlQgeeAuLFMgCOt0) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Macho Man](https://open.spotify.com/album/6aJEpnLt09zGWlK7SMPsRi) | 1:54 |
-| 21 | [Altijd Koud](https://open.spotify.com/track/5jSmpZ510PLKS25uL17NqH) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh), [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Capuchon](https://open.spotify.com/album/5t6AEx7uqhIDtYJVGjgeBW) | 2:24 |
-| 22 | [Alleen Jij](https://open.spotify.com/track/6F9sU0hboUEegZTNIIgmGT) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Alleen Jij](https://open.spotify.com/album/5HtCL0mdXSiVWed276ouKM) | 2:00 |
-| 23 | [5%](https://open.spotify.com/track/58HSrrsVnQEdLLyyGGIZ6B) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Ms\. Lauren](https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL) | 2:40 |
+| 18 | [GGZ](https://open.spotify.com/track/6k16QrVXPZXxsuEVg2fi1B) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Ms\. Lauren](https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL) | 2:40 |
+| 19 | [La Vida](https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [La Vida](https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y) | 2:46 |
+| 20 | [AMBITIE](https://open.spotify.com/track/054TRzlsNdW5MewmrYOLx1) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [AMBITIE](https://open.spotify.com/album/7KbXGlY6RgyVcTx56evSEc) | 2:31 |
+| 21 | [Macho Man](https://open.spotify.com/track/6dw2b4HlQgeeAuLFMgCOt0) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Macho Man](https://open.spotify.com/album/6aJEpnLt09zGWlK7SMPsRi) | 1:54 |
+| 22 | [Altijd Koud](https://open.spotify.com/track/5jSmpZ510PLKS25uL17NqH) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh), [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Capuchon](https://open.spotify.com/album/5t6AEx7uqhIDtYJVGjgeBW) | 2:24 |
+| 23 | [Alleen Jij](https://open.spotify.com/track/6F9sU0hboUEegZTNIIgmGT) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Alleen Jij](https://open.spotify.com/album/5HtCL0mdXSiVWed276ouKM) | 2:00 |
 | 24 | [Supaa Amazing](https://open.spotify.com/track/30WOm7yTjeQUHCCGx1JVuC) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Supaa Amazing](https://open.spotify.com/album/4LUV0mQ6HnmdbALfo0ERk0) | 2:02 |
 | 25 | [Jongeman vd Wegen](https://open.spotify.com/track/75muH9PLpaomRaUKBD1nwg) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [De Stem van MERLOT](https://open.spotify.com/album/2YHgwxhCBFXOuQd6Hbklmy) | 2:43 |
 | 26 | [Osso](https://open.spotify.com/track/05HjN1JDMU4avSiOAQa8Cz) | [Veertien](https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo), [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0), [RResstante](https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC), [Reimas](https://open.spotify.com/artist/7nJaOXe9ZYSuGtnIBdWffl) | [Osso](https://open.spotify.com/album/0prA4VMDqiTs6pEr5pPoBA) | 3:20 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 61 | [Life Is Meer Dan Leven \(feat\. Emms\)](https://open.spotify.com/track/4lNeh5AamBLLDjDNuMB85A) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Flashbacks & Jetlags](https://open.spotify.com/album/3QgLObJAyutJr87RuMwHzV) | 2:54 |
 | 62 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
 
-Snapshot ID: `AAAAANd9TJg5C/07RN7SAB8MxXFLePhS`
+Snapshot ID: `AAAAALAbnGZ3o4qjw4BwzkW1ewOzL9HA`

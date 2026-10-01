@@ -998,7 +998,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 156000,
       "name": "AWAKE",
       "url": "https://open.spotify.com/track/0roHd2LRFRPs9QE6bf4Tzi"
@@ -4651,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "256th Note",
+        "url": "https://open.spotify.com/album/4gn5qA9UixpTwnP9Q0XKLW"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Drop That!",
+      "url": "https://open.spotify.com/track/0yIytxEHCvUcSCVRvwwXEi"
+    },
+    {
+      "album": {
         "name": "First Howling : NOW",
         "url": "https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL"
       },
@@ -7317,6 +7335,24 @@
     },
     {
       "album": {
+        "name": "HIGH BEAM",
+        "url": "https://open.spotify.com/album/0S1urD0pmgClhdTI7rXPVD"
+      },
+      "artists": [
+        {
+          "name": "XngHan&Xoul",
+          "url": "https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "HIGH BEAM",
+      "url": "https://open.spotify.com/track/3XyEDcpYCXz9x7IUqgfzbh"
+    },
+    {
+      "album": {
         "name": "THE FAR EAST COWBOYZ",
         "url": "https://open.spotify.com/album/0KDT4ZSAMWJ1JfChw4tqcX"
       },
@@ -9639,6 +9675,24 @@
     },
     {
       "album": {
+        "name": "sonorous (Dolby)",
+        "url": "https://open.spotify.com/album/70XoSqID2blup8PfEflzBM"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/2777a8w5YxdW6Qih94eE3R"
+    },
+    {
+      "album": {
         "name": "LOVE / HATE",
         "url": "https://open.spotify.com/album/4ZGFTkABqgi5LofCHOWVDc"
       },
@@ -11944,7 +11998,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 179240,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/1JvRDITxJfdNXCZPm9RcXW"
@@ -18112,7 +18166,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 180000,
       "name": "Who Knew?",
       "url": "https://open.spotify.com/track/3PttZzyQwA9JwOkFw0aLog"

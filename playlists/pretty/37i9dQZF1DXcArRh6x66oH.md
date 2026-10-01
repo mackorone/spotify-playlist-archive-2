@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Dylan Gossett
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,490 likes - 201 songs - 12 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,588 likes - 201 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

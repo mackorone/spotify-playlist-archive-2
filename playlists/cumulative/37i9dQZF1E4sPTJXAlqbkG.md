@@ -2,7 +2,7 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Brent Faiyaz, Sonder, Jhené Aiko and more
+> With Sonder, Jhené Aiko, Drake and more
 
 719 songs - 1 day 17 hr 1 min
 

@@ -4,7 +4,7 @@
 
 > powered by www.releasejet.ai most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-861 songs - 1 day 14 hr 32 min
+865 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Metalonia](https://open.spotify.com/track/5OOAE3QYfoYW8wAnTRmjb9) | [Amour](https://open.spotify.com/artist/5fFPjyxeIWHCH5VpeknuFz) | [Metalonia](https://open.spotify.com/album/3UFXiZOuWZpTCIV9N63xRC) | 4:20 | 2025-01-13 | 2025-05-17 |
 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2023-06-12 | 2023-12-14 |
 | [METAMORPHOSIS \(Remix\)](https://open.spotify.com/track/0yR5ZwxKa0idLWhUYFnUip) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [METAMORPHOSIS \(Remix\)](https://open.spotify.com/album/6l8C4X8TTGpsnBZ7bMztuf) | 2:22 | 2023-12-08 | 2024-03-09 |
+| [Mi Amparo](https://open.spotify.com/track/0qdfs2RCouaZ1hu8kbeSeC) | [Rudy De Anda](https://open.spotify.com/artist/4zAauwbGLs7vAEzfJEklGF), [Nothing But Silence](https://open.spotify.com/artist/4nvGHiQk3OPBuDFdCa8Xm6) | [Mi Amparo](https://open.spotify.com/album/1ABjBPUDeXiV4yh2AGZZ9Q) | 4:13 | 2026-09-30 |  |
 | [Middle Of The Night](https://open.spotify.com/track/1LDpXVpjADBwhXddYnNxlH) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Middle Of The Night](https://open.spotify.com/album/7nFAk0Bm8iAqQH6fhdOCe0) | 4:07 | 2023-09-06 | 2023-12-14 |
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2023-06-12 |  |
 | [Midnight Shadows](https://open.spotify.com/track/0qRX1TEQwGL9P4tOR3F0EB) | [Antipole](https://open.spotify.com/artist/0XAhl52vBWh87XxU3urEjA), [Paris Alexander](https://open.spotify.com/artist/6wQVB6Evr0IYhAwt5wuqhB) | [Crystalline](https://open.spotify.com/album/6WoKbftDc93VPBrfRiiwcW) | 4:03 | 2023-09-22 | 2024-01-13 |
@@ -525,6 +526,7 @@
 | [MONTAGEM PR FUNK \- Alesso Remix](https://open.spotify.com/track/58L5MMUqBCZROyYBrRHxsT) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [MONTAGEM PR FUNK \(Alesso Remix\)](https://open.spotify.com/album/5747O7ajEWPobMtjJ2HkFx) | 2:52 | 2023-08-26 | 2024-01-14 |
 | [Montagem Spirits](https://open.spotify.com/track/5iRnfZ7fNXRTYfUvnTDRJe) | [KXNG LVX](https://open.spotify.com/artist/4WfxgMXK5yrhFhmUag50TJ) | [Montagem Spirits](https://open.spotify.com/album/0w5sacoYBvzC13OMxsJwxW) | 1:28 | 2026-08-28 |  |
 | [MOON BONK](https://open.spotify.com/track/3eNkDLeVLYdPgoVcRvZkCw) | [ZIMZAM](https://open.spotify.com/artist/2PIuUqYvZWMwThRs26M2QP) | [MOON BONK](https://open.spotify.com/album/30X8ptBtv3poaVvwEypQMx) | 2:18 | 2025-04-17 | 2025-06-27 |
+| [More Than This](https://open.spotify.com/track/2AGI0N9Tgo3DzpYRqgnWbu) | [Terms & Conditions](https://open.spotify.com/artist/0pk6MVfiJSNKK2Pm2K3a9E), [Nothing But Silence](https://open.spotify.com/artist/4nvGHiQk3OPBuDFdCa8Xm6) | [More Than This](https://open.spotify.com/album/4x8ugolFZFDWL5wfTyLqgt) | 4:31 | 2026-09-30 |  |
 | [MOVE](https://open.spotify.com/track/0d1u39cwuaYtS4yqX8twhh) | [ALiV](https://open.spotify.com/artist/46Vxb1el328EgX5fyofMks) | [MOVE](https://open.spotify.com/album/2uPr2Tgq36RDU0zWy1C3zy) | 2:20 | 2026-06-01 |  |
 | [Move \- remastered](https://open.spotify.com/track/5gR2Qh1kfWAoHBThDP3Sub) | [rainshade](https://open.spotify.com/artist/4EXpePWU9Qv9hVnt7svfqP) | [Move \(remastered\)](https://open.spotify.com/album/0pAnxfsQivOVtRgzr8BQ6N) | 4:49 | 2024-06-02 | 2024-07-03 |
 | [MOVE A MUSCLE](https://open.spotify.com/track/69xXCfQ05tDCgcV1TWwMn2) | [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [MOTION MUZIK](https://open.spotify.com/album/2JE2NSDzG6W19AkZ9PuFsi) | 2:04 | 2023-06-12 | 2023-08-28 |
@@ -590,6 +592,7 @@
 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-04-27 |  |
 | [Past Lives](https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/49HXOmg1ruQpC4zhCJ1fZV) | 2:33 | 2023-06-12 |  |
 | [PEGANDO FOGO](https://open.spotify.com/track/0vQsiDeoI93Nlndf5crpCt) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [PEGANDO FOGO](https://open.spotify.com/album/5DYvR0BjsL8dHYRMbNEE1O) | 1:19 | 2023-09-17 | 2023-12-14 |
+| [PERIGOSA](https://open.spotify.com/track/3Sq6XclV0yh6BU8wguenxB) | [caio\-chan](https://open.spotify.com/artist/17pcUKUmXbsjefjeB2TFeV) | [PERIGOSA](https://open.spotify.com/album/43ztki7fl4S7Lt9Bq8zH2G) | 1:22 | 2026-09-30 |  |
 | [PESADURA \- slowed](https://open.spotify.com/track/5kE6VZ4Ddzdw5OlU0uDswN) | [Einheri](https://open.spotify.com/artist/2GV0pIPMG5gyzsx7UMgcfh) | [PESADURA](https://open.spotify.com/album/2Zvs2mWbdycJgHvYKdCAvr) | 1:59 | 2026-09-23 |  |
 | [Phallic Flow](https://open.spotify.com/track/2dbYWquPMnQtpw9bOO76P9) | [Echo Drone](https://open.spotify.com/artist/03PGDP8aU9P7vOFqZN9S2i) | [Arsenal EP](https://open.spotify.com/album/5KIB8Z5rzeWPi3KE1v1gk8) | 2:55 | 2024-01-18 | 2024-02-13 |
 | [PHANTASM](https://open.spotify.com/track/1HWrWjd92Fd6V4o2VGkvhQ) | [Lorean](https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB) | [PHANTASM](https://open.spotify.com/album/5c11x6i2g58ilcmZp7wdU7) | 2:51 | 2023-08-01 | 2023-08-28 |
@@ -707,6 +710,7 @@
 | [Smoked Out Killaz \(with Devilish Trio\)](https://open.spotify.com/track/2T2lDhIKMuJxIZikvALp17) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Devilish Trio](https://open.spotify.com/artist/45brkGrBxvV5pxj8eiImiF) | [Smoked Out Killaz \(with Devilish Trio\)](https://open.spotify.com/album/0GEQ7DZ1RU0u3u2hfK1SKa) | 2:15 | 2023-12-08 | 2024-01-13 |
 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 | 2023-06-12 |  |
 | [So Bored](https://open.spotify.com/track/1J8Ofo3J2TKVxRincygKbW) | [ALLERGi](https://open.spotify.com/artist/7HTPju4hkpRIxnUY1dZglR) | [So Bored](https://open.spotify.com/album/7Hqh61uSXJZKs82AuHxJo2) | 2:08 | 2026-06-09 |  |
+| [So Heavy 2026](https://open.spotify.com/track/5T6ZBRKWdqpusija9tPVzc) | [Sporty\-O](https://open.spotify.com/artist/1lrM5I7fLMJx0LVSgxgmpt), [Edgewood Heavy](https://open.spotify.com/artist/2kJCgfIDUPt4D2CDjd8b3T) | [Soultronic Tonic](https://open.spotify.com/album/1qlNDi7W65ZR1XexHen3oc) | 4:33 | 2026-09-30 |  |
 | [So High](https://open.spotify.com/track/0WSSJ8Wmj8HicvR1ZnCiPT) | [DAM DRE](https://open.spotify.com/artist/25rTRpRir3IZKrIz7Ticoq) | [So High](https://open.spotify.com/album/5pf0HUyJzLJLW7Wv31fGic) | 2:26 | 2023-07-29 | 2023-08-08 |
 | [so nice of you](https://open.spotify.com/track/0kvJIoVCamQAYrd0CL2lyD) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [so nice of you](https://open.spotify.com/album/2NveJmvAvsRGG3WBCxjA3i) | 2:10 | 2023-12-16 | 2024-01-19 |
 | [SO TIRED](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [SO TIRED](https://open.spotify.com/album/688ytwDXOttov235i5WAk8) | 2:52 | 2023-06-25 | 2023-08-06 |

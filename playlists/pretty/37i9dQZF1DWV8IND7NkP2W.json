@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 527215,
+  "num_followers": 527199,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
+        "name": "20250327",
+        "url": "https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 144498,
+      "name": "20250327",
+      "url": "https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
         "name": "Yugure",
         "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 126750,
       "name": "Yugure",
       "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
-        "name": "20250327",
-        "url": "https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 144498,
-      "name": "20250327",
-      "url": "https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -967,30 +967,6 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Scintillate",
-        "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
-      },
-      "artists": [
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Devaloop",
-          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
-        }
-      ],
-      "duration_ms": 173367,
-      "name": "Scintillate",
-      "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
         "name": "Yoake",
         "url": "https://open.spotify.com/album/2wjpLzZQ4tRLhHHcX1Nwuc"
       },
@@ -1015,22 +991,6 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Points of light",
-        "url": "https://open.spotify.com/album/2cvoaxFVvRl6FsuHFQYVDG"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Points of light",
-      "url": "https://open.spotify.com/track/6kppyz5XQdXFFdjDRqFmbm"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
         "name": "GeGe E.P.",
         "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
       },
@@ -1047,6 +1007,30 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
+        "name": "Scintillate",
+        "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Devaloop",
+          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+        }
+      ],
+      "duration_ms": 173367,
+      "name": "Scintillate",
+      "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
         "name": "Sequences",
         "url": "https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 120000,
       "name": "Sequences",
       "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
+        "name": "Points of light",
+        "url": "https://open.spotify.com/album/2cvoaxFVvRl6FsuHFQYVDG"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Points of light",
+      "url": "https://open.spotify.com/track/6kppyz5XQdXFFdjDRqFmbm"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
         "name": "A Journey Beyond Time",
         "url": "https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq"
       },
@@ -1131,8 +1115,24 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "\u82b1\u706b",
-        "url": "https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
+        "name": "\u5915\u6620",
+        "url": "https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR"
       },
       "artists": [
         {
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3"
         }
       ],
-      "duration_ms": 115975,
-      "name": "\u82b1\u706b 01",
-      "url": "https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G"
+      "duration_ms": 118356,
+      "name": "\u5915\u6620 03",
+      "url": "https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1159,6 +1159,26 @@
       "duration_ms": 249717,
       "name": "glow",
       "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
+        "name": "Colibri",
+        "url": "https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S"
+      },
+      "artists": [
+        {
+          "name": "NOA NOA",
+          "url": "https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0"
+        },
+        {
+          "name": "Iori Kimura",
+          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Colibri",
+      "url": "https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1187,26 +1207,6 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Colibri",
-        "url": "https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S"
-      },
-      "artists": [
-        {
-          "name": "NOA NOA",
-          "url": "https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0"
-        },
-        {
-          "name": "Iori Kimura",
-          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Colibri",
-      "url": "https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
         "name": "Ch\u014dchin",
         "url": "https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn"
       },
@@ -1227,8 +1227,8 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "\u5915\u6620",
-        "url": "https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR"
+        "name": "\u82b1\u706b",
+        "url": "https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN"
       },
       "artists": [
         {
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3"
         }
       ],
-      "duration_ms": 118356,
-      "name": "\u5915\u6620 03",
-      "url": "https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD"
+      "duration_ms": 115975,
+      "name": "\u82b1\u706b 01",
+      "url": "https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Peach Fizz",
-        "url": "https://open.spotify.com/album/4jQWHVwLAdYE9kUib4sThc"
+        "name": "Resynthesis (Yellow)",
+        "url": "https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD"
       },
       "artists": [
         {
-          "name": "ILYOCS",
-          "url": "https://open.spotify.com/artist/2tLE9WDiPkUCssHRr4QMPU"
+          "name": "grooveman Spot",
+          "url": "https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa"
+        },
+        {
+          "name": "Kent",
+          "url": "https://open.spotify.com/artist/1iELyiHmInYvRAXC502Vv7"
         }
       ],
-      "duration_ms": 155250,
-      "name": "Peach Fizz",
-      "url": "https://open.spotify.com/track/4KCqWbH9Oa8Rj5z0CBTaYM"
+      "duration_ms": 249107,
+      "name": "4 Ever",
+      "url": "https://open.spotify.com/track/2F5KcNhhlUtXAALrC3AFx1"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1315,22 +1319,18 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Resynthesis (Yellow)",
-        "url": "https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD"
+        "name": "Peach Fizz",
+        "url": "https://open.spotify.com/album/4jQWHVwLAdYE9kUib4sThc"
       },
       "artists": [
         {
-          "name": "grooveman Spot",
-          "url": "https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa"
-        },
-        {
-          "name": "Kent",
-          "url": "https://open.spotify.com/artist/1iELyiHmInYvRAXC502Vv7"
+          "name": "ILYOCS",
+          "url": "https://open.spotify.com/artist/2tLE9WDiPkUCssHRr4QMPU"
         }
       ],
-      "duration_ms": 249107,
-      "name": "4 Ever",
-      "url": "https://open.spotify.com/track/2F5KcNhhlUtXAALrC3AFx1"
+      "duration_ms": 155250,
+      "name": "Peach Fizz",
+      "url": "https://open.spotify.com/track/4KCqWbH9Oa8Rj5z0CBTaYM"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1359,26 +1359,22 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Jaz",
-        "url": "https://open.spotify.com/album/2wK6fdM3Q94um5HjkYT0CY"
+        "name": "Morning Breakfast Vol.1",
+        "url": "https://open.spotify.com/album/6dAa7hq3VYEqM66qGsky5R"
       },
       "artists": [
         {
-          "name": "Jackson Box",
-          "url": "https://open.spotify.com/artist/5r2CPcI6syOOzSvXemc0UE"
+          "name": "Morning Breakfast",
+          "url": "https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY"
         },
         {
-          "name": "Aru-2",
-          "url": "https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0"
-        },
-        {
-          "name": "Asei Muraguchi",
-          "url": "https://open.spotify.com/artist/5I9W3IUqT4KpbTHFa0y0Zx"
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
         }
       ],
-      "duration_ms": 351428,
-      "name": "Miguri Tunnel",
-      "url": "https://open.spotify.com/track/242T3VdA3956m3Kq0m412P"
+      "duration_ms": 228030,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/0sSvrd9F1YToRYwurMrs5L"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1419,38 +1415,26 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Morning Breakfast Vol.1",
-        "url": "https://open.spotify.com/album/6dAa7hq3VYEqM66qGsky5R"
+        "name": "Jaz",
+        "url": "https://open.spotify.com/album/2wK6fdM3Q94um5HjkYT0CY"
       },
       "artists": [
         {
-          "name": "Morning Breakfast",
-          "url": "https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY"
+          "name": "Jackson Box",
+          "url": "https://open.spotify.com/artist/5r2CPcI6syOOzSvXemc0UE"
         },
         {
-          "name": "Gold Digga",
-          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
-        }
-      ],
-      "duration_ms": 228030,
-      "name": "Nostalgic",
-      "url": "https://open.spotify.com/track/0sSvrd9F1YToRYwurMrs5L"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
-        "name": "sophisticated silence",
-        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
-      },
-      "artists": [
+          "name": "Aru-2",
+          "url": "https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0"
+        },
         {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+          "name": "Asei Muraguchi",
+          "url": "https://open.spotify.com/artist/5I9W3IUqT4KpbTHFa0y0Zx"
         }
       ],
-      "duration_ms": 155760,
-      "name": "NIGHT RIDER",
-      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
+      "duration_ms": 351428,
+      "name": "Miguri Tunnel",
+      "url": "https://open.spotify.com/track/242T3VdA3956m3Kq0m412P"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1467,6 +1451,22 @@
       "duration_ms": 195750,
       "name": "sanctuary",
       "url": "https://open.spotify.com/track/334ioy1zQAHUVe5nS9cwzg"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
+        "name": "sophisticated silence",
+        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
+      },
+      "artists": [
+        {
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+        }
+      ],
+      "duration_ms": 155760,
+      "name": "NIGHT RIDER",
+      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1503,22 +1503,6 @@
       "duration_ms": 181490,
       "name": "Whispers in the Night",
       "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
-        "name": "Knots",
-        "url": "https://open.spotify.com/album/6O81p37TekJY18VOvxtNuR"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 144338,
-      "name": "Knots",
-      "url": "https://open.spotify.com/track/0n1KIt0I49uwPnKe3rxFQr"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
+        "name": "Knots",
+        "url": "https://open.spotify.com/album/6O81p37TekJY18VOvxtNuR"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 144338,
+      "name": "Knots",
+      "url": "https://open.spotify.com/track/0n1KIt0I49uwPnKe3rxFQr"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
         "name": "The Wondering Beats vol.1",
         "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Barefoot",
-        "url": "https://open.spotify.com/album/4J050LlYmPuvPouu9rBoVj"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Barefoot",
-      "url": "https://open.spotify.com/track/3PYn6FdmTO1qzQc1QE97sM"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
         "name": "Inside A Dream",
         "url": "https://open.spotify.com/album/5ePdG1fARt5eoDLpxyNlt3"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 124878,
       "name": "Inside A Dream",
       "url": "https://open.spotify.com/track/0jMAGq8ymKwEAlrmhwC3Nr"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
+        "name": "Barefoot",
+        "url": "https://open.spotify.com/album/4J050LlYmPuvPouu9rBoVj"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Barefoot",
+      "url": "https://open.spotify.com/track/3PYn6FdmTO1qzQc1QE97sM"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
+        "name": "CONCIERTO",
+        "url": "https://open.spotify.com/album/7LucFEUjgiiH2MwkrJBELj"
+      },
+      "artists": [
+        {
+          "name": "Grey October Sound",
+          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
+        }
+      ],
+      "duration_ms": 268430,
+      "name": "Plastic Love",
+      "url": "https://open.spotify.com/track/08KwAEzYm3gVyyB27OKvO9"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
         "name": "Rush Hour",
         "url": "https://open.spotify.com/album/242rTXP3MvqARFEyjEc7DU"
       },
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "CONCIERTO",
-        "url": "https://open.spotify.com/album/7LucFEUjgiiH2MwkrJBELj"
+        "name": "Another Moment",
+        "url": "https://open.spotify.com/album/4G5Va0UINm6wkRsUJgLLxL"
       },
       "artists": [
         {
-          "name": "Grey October Sound",
-          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
+          "name": "DJ Ryow a.k.a. Smooth Current",
+          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
         }
       ],
-      "duration_ms": 268430,
-      "name": "Plastic Love",
-      "url": "https://open.spotify.com/track/08KwAEzYm3gVyyB27OKvO9"
+      "duration_ms": 248000,
+      "name": "Another Moment",
+      "url": "https://open.spotify.com/track/7iKRSD3veF495sEM174M97"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1755,18 +1771,18 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Another Moment",
-        "url": "https://open.spotify.com/album/4G5Va0UINm6wkRsUJgLLxL"
+        "name": "Leave Behind",
+        "url": "https://open.spotify.com/album/5JEHpQDD5ytKRIwDLuSMY0"
       },
       "artists": [
         {
-          "name": "DJ Ryow a.k.a. Smooth Current",
-          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Another Moment",
-      "url": "https://open.spotify.com/track/7iKRSD3veF495sEM174M97"
+      "duration_ms": 119082,
+      "name": "Leave Behind",
+      "url": "https://open.spotify.com/track/1BrETPp4kfh0cuYpTRfrk2"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1783,22 +1799,6 @@
       "duration_ms": 201000,
       "name": "SICK",
       "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
-        "name": "Leave Behind",
-        "url": "https://open.spotify.com/album/5JEHpQDD5ytKRIwDLuSMY0"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 119082,
-      "name": "Leave Behind",
-      "url": "https://open.spotify.com/track/1BrETPp4kfh0cuYpTRfrk2"
     },
     {
       "added_at": "2026-09-22 16:48:26",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1884076,
+  "num_followers": 1884142,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Presenting Dion And The Belmonts",
-        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
-      },
-      "artists": [
-        {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "A Teenager In Love",
-      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 207826,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Presenting Dion And The Belmonts",
+        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
+      },
+      "artists": [
+        {
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "A Teenager In Love",
+      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 150973,
       "name": "Donna - Single Version",
       "url": "https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Legendary Masters Series (Volume 1)",
-        "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 135840,
-      "name": "Lonesome Town - 1990 Digital Remaster",
-      "url": "https://open.spotify.com/track/56XoFI6v7kbGNdM8ALYWof"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Exciting Lloyd Price",
         "url": "https://open.spotify.com/album/0QutFp2d494sxD57IbvfGu"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 144626,
       "name": "Stagger Lee",
       "url": "https://open.spotify.com/track/7qoaMWT3eRCKG1RN6dVuOY"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Legendary Masters Series (Volume 1)",
+        "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 135840,
+      "name": "Lonesome Town - 1990 Digital Remaster",
+      "url": "https://open.spotify.com/track/56XoFI6v7kbGNdM8ALYWof"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Who's Sorry Now",
-      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Lonely Teardrops",
         "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 166213,
       "name": "Lonely Teardrops",
       "url": "https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Who's Sorry Now",
+      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Bill Haley's Greatest Hits",
-        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 150466,
-      "name": "Shake, Rattle And Roll - Single Version",
-      "url": "https://open.spotify.com/track/2JoXjemDQe0fSmk26CpfrP"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 140773,
       "name": "A Teenager's Romance",
       "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Bill Haley's Greatest Hits",
+        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 150466,
+      "name": "Shake, Rattle And Roll - Single Version",
+      "url": "https://open.spotify.com/track/2JoXjemDQe0fSmk26CpfrP"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Teresa (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6LT7LVvqxjEWuxHZ55sWfx"
+      },
+      "artists": [
+        {
+          "name": "Teresa Brewer",
+          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
+        }
+      ],
+      "duration_ms": 155880,
+      "name": "A Tear Fell",
+      "url": "https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "The Rock N' Roll Collection",
         "url": "https://open.spotify.com/album/6NtLwlr1uXEOWDLjZzI4qu"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 157206,
       "name": "Be-Bop-A-Lula",
       "url": "https://open.spotify.com/track/0TMrV95mP7sDlvbE4iVfKP"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Teresa (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6LT7LVvqxjEWuxHZ55sWfx"
-      },
-      "artists": [
-        {
-          "name": "Teresa Brewer",
-          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
-        }
-      ],
-      "duration_ms": 155880,
-      "name": "A Tear Fell",
-      "url": "https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Definitive Soul: The Drifters",
-        "url": "https://open.spotify.com/album/4P2Ydg6ObtLrn99a7l3wsO"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 130320,
-      "name": "There Goes My Baby - Single Version; 2019 Remaster",
-      "url": "https://open.spotify.com/track/5Aqnf8w3OZG0RQIW90QGaP"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Not Fade Away: The Complete Studio Recordings And More",
         "url": "https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 127680,
       "name": "Oh Boy! - Overdubbed Version",
       "url": "https://open.spotify.com/track/7s7Zu78CztOUFUyQ4BijBQ"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Definitive Soul: The Drifters",
+        "url": "https://open.spotify.com/album/4P2Ydg6ObtLrn99a7l3wsO"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 130320,
+      "name": "There Goes My Baby - Single Version; 2019 Remaster",
+      "url": "https://open.spotify.com/track/5Aqnf8w3OZG0RQIW90QGaP"
     },
     {
       "added_at": "2024-09-06 14:23:51",

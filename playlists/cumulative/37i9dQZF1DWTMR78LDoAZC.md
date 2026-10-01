@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative/rock LGBTQIA+ artists\. Cover: Caroline Rose
 
-304 songs - 17 hr 5 min
+305 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 | 2022-06-01 |  |
 | [Time I Love to Waste](https://open.spotify.com/track/7v6rH68U9wPAzRzYNmgtCx) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Time I Love to Waste](https://open.spotify.com/album/70RPD5nHqcFwQMJFs6hBsU) | 3:17 | 2021-06-22 | 2022-06-01 |
 | [To be honest](https://open.spotify.com/track/2jQFhvw0HxUqGXu1StxS3O) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 3:41 | 2023-06-01 | 2024-06-22 |
-| [To Be Yours](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 | 2023-06-01 |  |
+| [To Be Yours](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 | 2023-06-01 | 2026-10-01 |
+| [To Decide](https://open.spotify.com/track/5NkhiimNHFZo55B8KpGCS9) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [To Decide / Designs](https://open.spotify.com/album/3p2VQiulqIldilCfrUISPX) | 3:56 | 2026-09-30 |  |
 | [Told You So](https://open.spotify.com/track/5KoJig6d5aMMIYt858WcUO) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Told You So](https://open.spotify.com/album/6j8oQrOeXEyrkaJ7SNXrjq) | 3:23 | 2026-09-04 |  |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 |  |
 | [True Love](https://open.spotify.com/track/4P8ZXHQkYsHpmz6MDMtoQd) | [Better Person](https://open.spotify.com/artist/0PbRHFtbXsxQfOHl6m86dd) | [Something to Lose](https://open.spotify.com/album/6tJnsbq2C5zamibnV59MMe) | 3:45 | 2021-06-22 | 2022-06-01 |

@@ -4,7 +4,7 @@
 
 > Voices that are elevating nuestra cultura\. Becky G en portada.
 
-99 songs - 5 hr 3 min
+100 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,11 +17,12 @@
 | [apareces de la nada](https://open.spotify.com/track/1V8IBppKWZU6aNIzCgXLKa) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [apareces de la nada](https://open.spotify.com/album/1jM7YfDHLDSWFPxAiheAYN) | 2:46 | 2024-09-13 | 2025-01-02 |
 | [apareces de la nada](https://open.spotify.com/track/5VXiOgRUKQh6aTOgGECYDq) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [apareces de la nada](https://open.spotify.com/album/5poCfamebdyh1C7PGsOnOB) | 2:46 | 2025-10-10 | 2026-08-28 |
 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 | 2024-09-13 |  |
+| [Aztec Baby](https://open.spotify.com/track/3mFUT3htL33jM1yu5FvNhM) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Me, Myself & I, Vol\. 2](https://open.spotify.com/album/6SnoXqegBArgIFwal8C0s8) | 2:56 | 2026-09-30 |  |
 | [Bless Your Heart \(Fake Christians\)](https://open.spotify.com/track/5GPBm78fuNMMN1VTEk6X6w) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Bless Your Heart \(Fake Christians\)](https://open.spotify.com/album/7D96TgycU40vGZPw3NTndh) | 2:20 | 2026-09-18 |  |
 | [broken heart](https://open.spotify.com/track/5akkEq8y9Zp7vXj9AJg9WJ) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [broken heart](https://open.spotify.com/album/4GoqEbLTe9Sk56kS5uRH3V) | 2:42 | 2024-09-13 | 2026-09-15 |
 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 | 2024-09-13 |  |
 | [centro aLt](https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM), [S.3.R](https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ) | [centro aLt](https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47) | 2:54 | 2025-09-25 | 2026-09-15 |
-| [CENTROAMERICANA](https://open.spotify.com/track/4uXWstWV7YxeoG0kx1Axlr) | [Ben Carrillo](https://open.spotify.com/artist/2LaHOt5YZlFAhZ22KDI5fS) | [CENTROAMERICANA](https://open.spotify.com/album/5kOrfCiHuYXveMaWRUWuiD) | 2:55 | 2025-10-10 |  |
+| [CENTROAMERICANA](https://open.spotify.com/track/4uXWstWV7YxeoG0kx1Axlr) | [Ben Carrillo](https://open.spotify.com/artist/2LaHOt5YZlFAhZ22KDI5fS) | [CENTROAMERICANA](https://open.spotify.com/album/5kOrfCiHuYXveMaWRUWuiD) | 2:55 | 2025-10-10 | 2026-10-01 |
 | [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 | 2024-09-13 | 2026-09-15 |
 | [Con Todo Respeto](https://open.spotify.com/track/5oreXMQKsPW3duvPMx3zrg) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Con Todo Respeto](https://open.spotify.com/album/0ByqK7yZiZDWF4iZty9bAl) | 2:49 | 2026-09-18 |  |
 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 | 2024-09-13 |  |

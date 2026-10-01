@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: CLOSE YOUR EYES)",
+  "description": "Future K-Pop hits! (Cover: CRAVITY)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -5310,7 +5310,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 150000,
       "name": "Cherry Cola",
       "url": "https://open.spotify.com/track/1nqau4dspD8bkrNZuIcmQv"
@@ -17371,6 +17371,24 @@
     },
     {
       "album": {
+        "name": "sonorous",
+        "url": "https://open.spotify.com/album/4FF6ssmhf4WRAG38M3Qyds"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/4k4jZ2V6kZjsuDOLqvRTbl"
+    },
+    {
+      "album": {
         "name": "Open \u266deta v6.2",
         "url": "https://open.spotify.com/album/6eMtWQJJnCKuUrGKugJ1CH"
       },
@@ -21705,6 +21723,24 @@
     },
     {
       "album": {
+        "name": "Our Ending",
+        "url": "https://open.spotify.com/album/2FgxbLydrFnM1qU0EQzm4S"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Our Ending",
+      "url": "https://open.spotify.com/track/0fu6AUwmng12GwgurC4RUs"
+    },
+    {
+      "album": {
         "name": "NewJeans X MY DEMON",
         "url": "https://open.spotify.com/album/31chdu7JhVd0sC9X7sURNb"
       },
@@ -24522,7 +24558,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 156000,
       "name": "RULE (feat. Heize)",
       "url": "https://open.spotify.com/track/29orq8DEeVBJr0f9KWncuJ"
@@ -28050,7 +28086,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 234500,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/1hx4HkO3bYg1y94EsRSES7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Shreya Ghoshal, Sonu Nigam, Stebin Ben and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,367 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,389 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 48 | [Boohe Baarian](https://open.spotify.com/track/7yUZ8noW5So1bqbxCPyUIh) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sharan Rawat](https://open.spotify.com/artist/2VB5F2QJgJfhBtpARDX1iv) | [Boohe Baarian](https://open.spotify.com/album/1nAwOsqNuM303oFYOdeXtd) | 2:55 |
 | 49 | [God Knows!](https://open.spotify.com/track/5yc050oPGKzbzXCnqLA7JP) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl), [Armaan Lahoria](https://open.spotify.com/artist/4KLQtsULex87FN5sg05g8C) | [God Knows!](https://open.spotify.com/album/3zXSzkx3uOIIAIHhEw0TWx) | 3:38 |
 
-Snapshot ID: `AAAAAGqey7AyLvmZkRIi9/w26+lhWk/A`
+Snapshot ID: `AAAAACvekYPboMT6SK2Skot9f5mWd30t`

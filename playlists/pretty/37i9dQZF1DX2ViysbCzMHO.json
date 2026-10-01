@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 176896,
+  "num_followers": 176902,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-09-09 19:14:42",
       "album": {
-        "name": "Slow Dance In A Parking Lot (Acoustic)",
-        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Slow Dance In A Parking Lot - Acoustic",
-      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
-    },
-    {
-      "added_at": "2026-09-09 19:14:42",
-      "album": {
         "name": "Pack My Hometown",
         "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 191615,
       "name": "Pack My Hometown",
       "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
+    },
+    {
+      "added_at": "2026-09-09 19:14:42",
+      "album": {
+        "name": "Slow Dance In A Parking Lot (Acoustic)",
+        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Slow Dance In A Parking Lot - Acoustic",
+      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
     },
     {
       "added_at": "2026-09-09 19:14:42",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-09-09 19:14:42",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
-    },
-    {
-      "added_at": "2026-09-09 19:14:42",
-      "album": {
         "name": "Six Strings",
         "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 201653,
       "name": "Heart Shut (feat. Tenille Townes)",
       "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
+    },
+    {
+      "added_at": "2026-09-09 19:14:42",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2026-09-09 19:14:42",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-09-09 19:14:42",
       "album": {
-        "name": "My Left Hand (Wedding Version)",
-        "url": "https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z"
-      },
-      "artists": [
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "My Left Hand (Wedding Version)",
-      "url": "https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij"
-    },
-    {
-      "added_at": "2026-09-09 19:14:42",
-      "album": {
         "name": "Breakin' in Boots (Stripped)",
         "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 154173,
       "name": "Breakin' in Boots - Stripped",
       "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
+    },
+    {
+      "added_at": "2026-09-09 19:14:42",
+      "album": {
+        "name": "My Left Hand (Wedding Version)",
+        "url": "https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "My Left Hand (Wedding Version)",
+      "url": "https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij"
     },
     {
       "added_at": "2026-09-09 19:14:42",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-09-09 19:14:42",
       "album": {
-        "name": "Put It in Drive",
-        "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
-      },
-      "artists": [
-        {
-          "name": "Tommy Karlas",
-          "url": "https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Lessons (Acoustic)",
-      "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
-    },
-    {
-      "added_at": "2026-09-09 19:14:42",
-      "album": {
         "name": "Can't Nobody (Acoustic)",
         "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 204358,
       "name": "Can't Nobody - Acoustic",
       "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
+    },
+    {
+      "added_at": "2026-09-09 19:14:42",
+      "album": {
+        "name": "Put It in Drive",
+        "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
+      },
+      "artists": [
+        {
+          "name": "Tommy Karlas",
+          "url": "https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Lessons (Acoustic)",
+      "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
     },
     {
       "added_at": "2026-09-09 19:14:42",

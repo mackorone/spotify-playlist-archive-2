@@ -13555,6 +13555,28 @@
     },
     {
       "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/3DMu9G6iAFTU3CkhDExPf5"
+      },
+      "artists": [
+        {
+          "name": "LilGoatD3",
+          "url": "https://open.spotify.com/artist/5yvm4IFQnkMTusgdCUI8Cw"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197646,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/5IySeU36jFaB0w3nWTgSw7"
+    },
+    {
+      "album": {
         "name": "Give Me That P Word (feat. Lil Vada)",
         "url": "https://open.spotify.com/album/2KZ9YI9j6urw02U6FFiSGl"
       },

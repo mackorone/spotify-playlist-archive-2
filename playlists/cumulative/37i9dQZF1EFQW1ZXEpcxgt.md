@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-187 songs - 10 hr 14 min
+188 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [So Real \(Warriors\) \(feat\. Jess Glynne\)](https://open.spotify.com/track/5ElvxQOgTTUTjVfa1uhhFv) | [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr), [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [So Real \(Warriors\) \(feat\. Jess Glynne\)](https://open.spotify.com/album/08wVcFCxBwLdeODnKPcPjp) | 2:49 | 2022-06-04 |  |
 | [Solita \(feat\. Rich The Kid\)](https://open.spotify.com/track/35kFg7GL288P9IK0r5oSh5) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Solita \(feat\. Rich The Kid\)](https://open.spotify.com/album/5rkPX1n2MJs9vSUMBMo9Q7) | 3:06 | 2025-05-28 |  |
 | [Solo](https://open.spotify.com/track/37CtAzYl5Ci5y5wPEEcHFU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:53 | 2022-06-04 |  |
+| [Space](https://open.spotify.com/track/0oxjPQUPHUZmHbAdTqvqaV) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Space](https://open.spotify.com/album/54RtrbYATxDdYX9C4kjlOd) | 3:06 | 2026-09-30 |  |
 | [Stevie Knows](https://open.spotify.com/track/7sGPkvZ4ovda4NYBHzv4ce) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Never Been Better \(Expanded Edition\)](https://open.spotify.com/album/41QyJYx6N181E3QxWpC2FW) | 3:11 | 2022-06-04 |  |
 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 | 2022-06-04 |  |
 | [Tan Lines](https://open.spotify.com/track/0XhkW5AqdQorrlCa0gzxh4) | [KingJet](https://open.spotify.com/artist/07ecu4L3OlVaE3r4TcxBe1) | [Tan Lines](https://open.spotify.com/album/2I35HauAFmXAXNjcCAwY4A) | 3:25 | 2022-06-04 | 2025-11-10 |

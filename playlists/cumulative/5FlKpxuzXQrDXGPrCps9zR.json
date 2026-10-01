@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "album": {
         "name": "F-1 Trillion: Long Bed",
         "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
       },
@@ -208,6 +226,24 @@
       "duration_ms": 154151,
       "name": "At Least I\u2019m Hot",
       "url": "https://open.spotify.com/track/2I0KDNwldn2OdIJPwd0zrJ"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219365,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/2j7wI9QWrP8cjKDdOLVQTU"
     },
     {
       "album": {
@@ -609,6 +645,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206164,
+      "name": "Cleveland!",
+      "url": "https://open.spotify.com/track/7uxkx8HPBYkJKcimOyggUM"
+    },
+    {
+      "album": {
         "name": "Camp Rock 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh"
       },
@@ -790,7 +844,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 194880,
       "name": "Dance No More",
       "url": "https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e"
@@ -1722,7 +1776,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 122394,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/0pzwB6vQFtZgNkyl40Zxgw"
@@ -1893,6 +1947,28 @@
     },
     {
       "album": {
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Nate Ruess",
+          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242721,
+      "name": "Just Give Me a Reason (feat. Nate Ruess)",
+      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi"
       },
@@ -1958,7 +2034,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 176386,
       "name": "Kiwi",
       "url": "https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW"
@@ -2601,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg"
       },
@@ -2634,6 +2728,24 @@
       "duration_ms": 152157,
       "name": "Pink Cadillac",
       "url": "https://open.spotify.com/track/3i4sWzi0fBasvxZ7W1J3Xm"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190690,
+      "name": "Pink Clouding",
+      "url": "https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm"
     },
     {
       "album": {
@@ -2674,7 +2786,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 210602,
       "name": "Poise",
       "url": "https://open.spotify.com/track/6HFw3T3QiVBaCDVS7mZvW0"
@@ -2710,7 +2822,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 216026,
       "name": "Pop",
       "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
@@ -2782,7 +2894,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 160400,
       "name": "Ready, Steady, Go!",
       "url": "https://open.spotify.com/track/0i4qKfuKJ3juUsEwnJAxk3"
@@ -3515,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/2OFhbCpaulAiQr1AxmKIMP"
+      },
+      "artists": [
+        {
+          "name": "Hudson Stone",
+          "url": "https://open.spotify.com/artist/2i8MybJZlckvB0dnB8oLFH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181490,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/3P8mp28VUVV0YQtyAYgwRM"
+    },
+    {
+      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },
@@ -3874,7 +4004,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 359650,
       "name": "Wanna Be",
       "url": "https://open.spotify.com/track/1nmGfKmWJ34UsvSsXUM3wo"
@@ -4204,7 +4334,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 160750,
       "name": "Work - from PAW Patrol: The Dino Movie",
       "url": "https://open.spotify.com/track/00Xuy2tVDaGt9XTfY3yUyV"

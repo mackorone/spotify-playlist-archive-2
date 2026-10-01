@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,591 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,617 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 32 | [YES BE YES](https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [YES BE YES](https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj) | 2:45 |
 | 33 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 |
 | 34 | [Thank God I'm Free](https://open.spotify.com/track/2yolugG5vuEjiiDq7A47mE) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Thank God I'm Free](https://open.spotify.com/album/5fqWCD1SxUfcvMkN7x2NN4) | 2:51 |
-| 35 | [Be Glad \- Live](https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Be Glad \(Live\)](https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy) | 8:53 |
-| 36 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 |
-| 37 | [Brand New \(feat\. Terrian\)](https://open.spotify.com/track/6VvG67rVJmeFUKsr0k0jhn) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Brand New \(feat\. Terrian\)](https://open.spotify.com/album/7fJpxRI9nTu4iloWvOquOJ) | 2:55 |
-| 38 | [Hopeful](https://open.spotify.com/track/0xujGe3mc7mKc7N655UpdL) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hopeful](https://open.spotify.com/album/3Ol2xD0wKSn172kgB85JnM) | 4:27 |
+| 35 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 |
+| 36 | [Be Glad \- Live](https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Be Glad \(Live\)](https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy) | 8:53 |
+| 37 | [Hopeful](https://open.spotify.com/track/0xujGe3mc7mKc7N655UpdL) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hopeful](https://open.spotify.com/album/3Ol2xD0wKSn172kgB85JnM) | 4:27 |
+| 38 | [Brand New \(feat\. Terrian\)](https://open.spotify.com/track/6VvG67rVJmeFUKsr0k0jhn) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Brand New \(feat\. Terrian\)](https://open.spotify.com/album/7fJpxRI9nTu4iloWvOquOJ) | 2:55 |
 | 39 | [Monday Morning Faith \- Acoustic](https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Monday Morning Faith \(Acoustic\)](https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi) | 5:38 |
 | 40 | [Sun Rises](https://open.spotify.com/track/1c2EYour3VAKs2qYKLhAKy) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Sun Rises](https://open.spotify.com/album/6Has46aL8NIuwJcanqM7Ha) | 2:54 |
 | 41 | [Blinded](https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Blinded](https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc) | 3:27 |

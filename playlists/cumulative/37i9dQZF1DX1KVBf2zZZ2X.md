@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-372 songs - 17 hr 20 min
+373 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Sacred Stream](https://open.spotify.com/track/1ryiF2CZT5mY4rVWht2TE8) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Sacred Stream](https://open.spotify.com/album/1C3Fzh0jihB8N5gHfofEHm) | 2:38 | 2026-03-20 |  |
 | [Safe Pond](https://open.spotify.com/track/7avjFlXPuk3bnUWhxECdbC) | [Gyr](https://open.spotify.com/artist/2A1jbcxHxyQkW1uukhPrFQ) | [Safe Pond](https://open.spotify.com/album/2GqYiWbRJEIX4RzXuTdd8R) | 2:36 | 2026-09-09 |  |
 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 | 2023-03-03 | 2024-06-04 |
-| [Sailing Home](https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Sailing Home](https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F) | 2:40 | 2024-10-01 |  |
+| [Sailing Home](https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Sailing Home](https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F) | 2:40 | 2024-10-01 | 2026-10-01 |
 | [Saliva](https://open.spotify.com/track/5FzvjheRfr4uThMkG60JK6) | [Quiet Tones](https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z) | [Saliva](https://open.spotify.com/album/6q5WdUSmzP4MWsXnlXI4gE) | 2:10 | 2026-03-20 |  |
 | [Sanctuary](https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Sanctuary](https://open.spotify.com/album/1Mm91Huwj8XSwn2Z6IqarA) | 3:03 | 2025-06-11 |  |
 | [Scots Pine](https://open.spotify.com/track/2Ch4DARTYZSOHgK8yq9e7h) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Scots Pine](https://open.spotify.com/album/30XzQtgzdmpr23G81JvMFJ) | 2:51 | 2025-02-21 | 2025-06-12 |
@@ -298,6 +298,7 @@
 | [Shimmering River](https://open.spotify.com/track/575c0sGbgOEF2YwuUebnDn) | [The Nature Within](https://open.spotify.com/artist/4LgA06Jj6GDhOcZYAWFeJ0) | [Shimmering River](https://open.spotify.com/album/4gEfVDicL27VwdJLilph6S) | 2:42 | 2025-07-09 |  |
 | [Sidus Imbrem Pluvia](https://open.spotify.com/track/6PtE2MAmHS93rB9UhXkg0x) | [Francois Mirere](https://open.spotify.com/artist/1nzmy6MwB4QVWDvZVW5AtD) | [Sidus Imbrem Pluvia](https://open.spotify.com/album/7IKc8KDoqR4D4cgKz0sBE2) | 3:38 | 2024-03-20 | 2025-09-25 |
 | [Silence](https://open.spotify.com/track/5KzDnM8dfL6rWOzxIpU8tr) | [Antoine Lefèvre](https://open.spotify.com/artist/1Sxv9K4k979TM31rrz9dVC) | [Silence](https://open.spotify.com/album/6kffjbiRYPhXXR8ahCazdi) | 2:36 | 2025-01-15 | 2026-04-08 |
+| [Silent Meadow](https://open.spotify.com/track/1tksZJjo997QZKey82bn1n) | [Somnifera](https://open.spotify.com/artist/2AkFwZieZKlkDtvZxaOL2b) | [Silent Meadow](https://open.spotify.com/album/0Yu4fQXUTsEkBPEriyfaZc) | 2:22 | 2026-09-09 |  |
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-03-03 | 2024-09-05 |
 | [Skylit Plains](https://open.spotify.com/track/0OjJS4XbfIoinFh4s9VkQr) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Skylit Plains](https://open.spotify.com/album/1eJKDiaX0plhT0hwhOEtTy) | 2:52 | 2026-03-20 | 2026-09-10 |
 | [Slow Morning](https://open.spotify.com/track/25jZO62Z6Z9fg39kzFU2h1) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Slow Morning](https://open.spotify.com/album/01aduQj2WuqOWsj3Ksy6wt) | 3:10 | 2025-01-15 | 2026-03-21 |

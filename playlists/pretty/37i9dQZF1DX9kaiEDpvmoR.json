@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93767,
+  "num_followers": 93768,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-09-24 22:00:32",
       "album": {
-        "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
-        "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Leva f\u00f6r alltid - Sveriges officiella VM-l\u00e5t 2026",
-      "url": "https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz"
-    },
-    {
-      "added_at": "2026-09-24 22:00:32",
-      "album": {
         "name": "Easter Lily EP",
         "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 273906,
       "name": "In A Life",
       "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+    },
+    {
+      "added_at": "2026-09-24 22:00:32",
+      "album": {
+        "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
+        "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Leva f\u00f6r alltid - Sveriges officiella VM-l\u00e5t 2026",
+      "url": "https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz"
     },
     {
       "added_at": "2026-09-24 22:00:32",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-09-24 22:00:32",
       "album": {
-        "name": "Scandinavian Eyes",
-        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 291197,
-      "name": "Scandinavian Eyes",
-      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
-    },
-    {
-      "added_at": "2026-09-24 22:00:32",
-      "album": {
         "name": "Framtiden som aldrig blev av",
         "url": "https://open.spotify.com/album/2ydJbEdyPq7pPoJhBUcHC0"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 226466,
       "name": "Land",
       "url": "https://open.spotify.com/track/2qf4HEGKdkQzrUK0jAgxnV"
+    },
+    {
+      "added_at": "2026-09-24 22:00:32",
+      "album": {
+        "name": "Scandinavian Eyes",
+        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 291197,
+      "name": "Scandinavian Eyes",
+      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
     },
     {
       "added_at": "2026-09-24 22:00:32",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-09-24 22:00:32",
       "album": {
-        "name": "One on One",
-        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 221623,
-      "name": "One on One",
-      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
-    },
-    {
-      "added_at": "2026-09-24 22:00:32",
-      "album": {
         "name": "V\u00e4lkommen hem",
         "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 198796,
       "name": "Sagolik",
       "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
+    },
+    {
+      "added_at": "2026-09-24 22:00:32",
+      "album": {
+        "name": "One on One",
+        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 221623,
+      "name": "One on One",
+      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
     },
     {
       "added_at": "2026-09-24 22:00:32",
@@ -839,18 +839,18 @@
     {
       "added_at": "2026-09-24 22:00:32",
       "album": {
-        "name": "You Got The Look",
-        "url": "https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R"
+        "name": "Himmel helvete",
+        "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
       },
       "artists": [
         {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
         }
       ],
-      "duration_ms": 181693,
-      "name": "You Got The Look",
-      "url": "https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g"
+      "duration_ms": 209146,
+      "name": "Himmel helvete",
+      "url": "https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3"
     },
     {
       "added_at": "2026-09-24 22:00:32",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-09-24 22:00:32",
       "album": {
-        "name": "Himmel helvete",
-        "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
+        "name": "You Got The Look",
+        "url": "https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R"
       },
       "artists": [
         {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
         }
       ],
-      "duration_ms": 209146,
-      "name": "Himmel helvete",
-      "url": "https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3"
+      "duration_ms": 181693,
+      "name": "You Got The Look",
+      "url": "https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g"
     },
     {
       "added_at": "2026-09-24 22:00:32",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-09-24 22:00:32",
       "album": {
-        "name": "Din S\u00e5ng",
-        "url": "https://open.spotify.com/album/64vTKNWTHScWdFu6eG4LJr"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 236479,
-      "name": "Din S\u00e5ng",
-      "url": "https://open.spotify.com/track/7z9yS76hKaktbg1cJieHQC"
-    },
-    {
-      "added_at": "2026-09-24 22:00:32",
-      "album": {
         "name": "Den f\u00f6rsta sn\u00f6n",
         "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 277360,
       "name": "Den f\u00f6rsta sn\u00f6n",
       "url": "https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt"
+    },
+    {
+      "added_at": "2026-09-24 22:00:32",
+      "album": {
+        "name": "Din S\u00e5ng",
+        "url": "https://open.spotify.com/album/64vTKNWTHScWdFu6eG4LJr"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 236479,
+      "name": "Din S\u00e5ng",
+      "url": "https://open.spotify.com/track/7z9yS76hKaktbg1cJieHQC"
     },
     {
       "added_at": "2026-09-24 22:00:32",
@@ -971,38 +971,6 @@
     {
       "added_at": "2026-09-24 22:00:32",
       "album": {
-        "name": "Neverending Love (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/68fW8pj3fzuthylZYPtYLD"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Neverending Love (8-track Remix by MP)",
-      "url": "https://open.spotify.com/track/1ljz808fIH4BgIeg02uZyE"
-    },
-    {
-      "added_at": "2026-09-24 22:00:32",
-      "album": {
-        "name": "Ton\u00e5rsland",
-        "url": "https://open.spotify.com/album/5nUCQzDYCGuLymgRWGh0Z9"
-      },
-      "artists": [
-        {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
-        }
-      ],
-      "duration_ms": 190881,
-      "name": "Ton\u00e5rsland",
-      "url": "https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q"
-    },
-    {
-      "added_at": "2026-09-24 22:00:32",
-      "album": {
         "name": "jaywalking",
         "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
       },
@@ -1035,6 +1003,22 @@
     {
       "added_at": "2026-09-24 22:00:32",
       "album": {
+        "name": "Neverending Love (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/68fW8pj3fzuthylZYPtYLD"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Neverending Love (8-track Remix by MP)",
+      "url": "https://open.spotify.com/track/1ljz808fIH4BgIeg02uZyE"
+    },
+    {
+      "added_at": "2026-09-24 22:00:32",
+      "album": {
         "name": "Revalution Club",
         "url": "https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D"
       },
@@ -1047,22 +1031,6 @@
       "duration_ms": 269250,
       "name": "Musiken som h\u00f6rs fr\u00e5n Rival",
       "url": "https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM"
-    },
-    {
-      "added_at": "2026-09-24 22:00:32",
-      "album": {
-        "name": "Still Believe In God",
-        "url": "https://open.spotify.com/album/1JeUxjD1s08zAGsGnIZiKc"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 183296,
-      "name": "Still Believe In God",
-      "url": "https://open.spotify.com/track/6Ql3VIyE3WVVglp5j1KigT"
     },
     {
       "added_at": "2026-09-24 22:00:32",
@@ -1087,6 +1055,38 @@
       "duration_ms": 208960,
       "name": "Eld fire fogo",
       "url": "https://open.spotify.com/track/6bUjuJns2EqRNhAr9HTa96"
+    },
+    {
+      "added_at": "2026-09-24 22:00:32",
+      "album": {
+        "name": "Still Believe In God",
+        "url": "https://open.spotify.com/album/1JeUxjD1s08zAGsGnIZiKc"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 183296,
+      "name": "Still Believe In God",
+      "url": "https://open.spotify.com/track/6Ql3VIyE3WVVglp5j1KigT"
+    },
+    {
+      "added_at": "2026-09-24 22:00:32",
+      "album": {
+        "name": "Ton\u00e5rsland",
+        "url": "https://open.spotify.com/album/5nUCQzDYCGuLymgRWGh0Z9"
+      },
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
+        }
+      ],
+      "duration_ms": 190881,
+      "name": "Ton\u00e5rsland",
+      "url": "https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q"
     },
     {
       "added_at": "2026-09-24 22:00:32",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-09-24 22:00:32",
       "album": {
-        "name": "More!",
-        "url": "https://open.spotify.com/album/0AAhCDNL26bSYXcLnMjcaf"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 178499,
-      "name": "More!",
-      "url": "https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk"
-    },
-    {
-      "added_at": "2026-09-24 22:00:32",
-      "album": {
         "name": "EXISTENS",
         "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 172874,
       "name": "EXISTENS",
       "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
+    },
+    {
+      "added_at": "2026-09-24 22:00:32",
+      "album": {
+        "name": "More!",
+        "url": "https://open.spotify.com/album/0AAhCDNL26bSYXcLnMjcaf"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 178499,
+      "name": "More!",
+      "url": "https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk"
     },
     {
       "added_at": "2026-09-24 22:00:32",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-09-24 22:00:32",
       "album": {
-        "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
-        "url": "https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn"
-      },
-      "artists": [
-        {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
-      "url": "https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se"
-    },
-    {
-      "added_at": "2026-09-24 22:00:32",
-      "album": {
         "name": "Everything's wasted",
         "url": "https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2026-09-24 22:00:32",
       "album": {
-        "name": "Blindg\u00e5ngare / Du \u00e4r vid liv",
-        "url": "https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV"
+        "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
+        "url": "https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn"
       },
       "artists": [
         {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
         }
       ],
-      "duration_ms": 234360,
-      "name": "Blindg\u00e5ngare",
-      "url": "https://open.spotify.com/track/100mfCn33NMGrzd2L7Tr5L"
+      "duration_ms": 251000,
+      "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
+      "url": "https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se"
     },
     {
       "added_at": "2026-09-24 22:00:32",
@@ -1463,6 +1447,22 @@
       "duration_ms": 288020,
       "name": "You",
       "url": "https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M"
+    },
+    {
+      "added_at": "2026-09-24 22:00:32",
+      "album": {
+        "name": "Blindg\u00e5ngare / Du \u00e4r vid liv",
+        "url": "https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Blindg\u00e5ngare",
+      "url": "https://open.spotify.com/track/100mfCn33NMGrzd2L7Tr5L"
     },
     {
       "added_at": "2026-09-24 22:00:32",

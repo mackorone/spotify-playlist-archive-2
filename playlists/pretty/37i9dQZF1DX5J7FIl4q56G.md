@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Northlane
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,846 likes - 162 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,038 likes - 162 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

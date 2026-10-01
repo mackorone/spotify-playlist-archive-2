@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: YOUNGOHM, KT KRATAE
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,405 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,423 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

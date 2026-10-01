@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain]
 | 29 | [These Days](https://open.spotify.com/track/5acUZQ4HW5L7dYXFsDbCav) | [Gray Connors](https://open.spotify.com/artist/3DfqahTOm7EnCz6tBDd9ii) | [These Days](https://open.spotify.com/album/5IOzkfsE6e4SURsd0Xejwh) | 3:50 |
 | 30 | [All The Things](https://open.spotify.com/track/7ClIUIKGWDTzaBJKHyJ6Nm) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis \(Deluxe\)](https://open.spotify.com/album/2OqDjO2moqMLtBEfFiu8OB) | 3:22 |
 
-Snapshot ID: `arnmQAAAAABS4HxreFDl4ZyUpr89iD4C`
+Snapshot ID: `arnmQAAAAAALcZJgAkNQCe8/KDIhjAq/`

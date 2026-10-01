@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Jeriq & TUFF KING",
-  "num_followers": 86439,
+  "num_followers": 86458,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-09-25 09:37:30",
       "album": {
-        "name": "Na Afa Nna (Freestyle)",
-        "url": "https://open.spotify.com/album/2DlVUX8ynmaM4n6a768WYI"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Na Afa Nna (Freestyle)",
-      "url": "https://open.spotify.com/track/5TuWB4YtUxUNJlkH1UJ74J"
-    },
-    {
-      "added_at": "2026-09-25 09:37:30",
-      "album": {
         "name": "Na Scra",
         "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 150000,
       "name": "Na Scra",
       "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
+    },
+    {
+      "added_at": "2026-09-25 09:37:30",
+      "album": {
+        "name": "Na Afa Nna (Freestyle)",
+        "url": "https://open.spotify.com/album/2DlVUX8ynmaM4n6a768WYI"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Na Afa Nna (Freestyle)",
+      "url": "https://open.spotify.com/track/5TuWB4YtUxUNJlkH1UJ74J"
     },
     {
       "added_at": "2026-09-25 09:37:30",
@@ -623,26 +623,6 @@
     {
       "added_at": "2026-09-25 09:37:30",
       "album": {
-        "name": "Splendid (with ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
-      },
-      "artists": [
-        {
-          "name": "Osaze & Marcus",
-          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Splendid (with ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
-    },
-    {
-      "added_at": "2026-09-25 09:37:30",
-      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -663,22 +643,6 @@
     {
       "added_at": "2026-09-25 09:37:30",
       "album": {
-        "name": "Gbewa",
-        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Gbewa",
-      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
-    },
-    {
-      "added_at": "2026-09-25 09:37:30",
-      "album": {
         "name": "Promise Land",
         "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
       },
@@ -691,6 +655,42 @@
       "duration_ms": 211862,
       "name": "By Now",
       "url": "https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7"
+    },
+    {
+      "added_at": "2026-09-25 09:37:30",
+      "album": {
+        "name": "Splendid (with ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
+      },
+      "artists": [
+        {
+          "name": "Osaze & Marcus",
+          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Splendid (with ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
+    },
+    {
+      "added_at": "2026-09-25 09:37:30",
+      "album": {
+        "name": "Gbewa",
+        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Gbewa",
+      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
     },
     {
       "added_at": "2026-09-25 09:37:30",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2026-09-25 09:37:30",
       "album": {
-        "name": "Free Service",
-        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/0S9ZGL0e712EkZQ9nuFOW6"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
         }
       ],
-      "duration_ms": 156473,
-      "name": "Free Service",
-      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
+      "duration_ms": 132413,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN"
     },
     {
       "added_at": "2026-09-25 09:37:30",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-09-25 09:37:30",
       "album": {
-        "name": "Go Again",
-        "url": "https://open.spotify.com/album/0S9ZGL0e712EkZQ9nuFOW6"
+        "name": "Free Service",
+        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
       },
       "artists": [
         {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 132413,
-      "name": "Go Again",
-      "url": "https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN"
+      "duration_ms": 156473,
+      "name": "Free Service",
+      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
     },
     {
       "added_at": "2026-09-25 09:37:30",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-09-25 09:37:30",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
-      },
-      "artists": [
-        {
-          "name": "Ruhdee",
-          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
-        }
-      ],
-      "duration_ms": 172588,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
-    },
-    {
-      "added_at": "2026-09-25 09:37:30",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 167000,
       "name": "Life",
       "url": "https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S"
+    },
+    {
+      "added_at": "2026-09-25 09:37:30",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
+      },
+      "artists": [
+        {
+          "name": "Ruhdee",
+          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
+        }
+      ],
+      "duration_ms": 172588,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
     },
     {
       "added_at": "2026-09-25 09:37:30",

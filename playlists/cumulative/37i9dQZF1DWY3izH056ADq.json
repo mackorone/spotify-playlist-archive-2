@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 187464,
       "name": "ONE WAY",
       "url": "https://open.spotify.com/track/3TN8y8iLSjlPP7oZyg7jnp"
@@ -3400,6 +3400,24 @@
       "duration_ms": 198361,
       "name": "\u796d\u99ac\u9e7f -DAWN!! DAWN!!-",
       "url": "https://open.spotify.com/track/2qn1AYR4TeHsaMXMOhgwA0"
+    },
+    {
+      "album": {
+        "name": "Paradox Live covers \u201cPROPS\u201d",
+        "url": "https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2"
+      },
+      "artists": [
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184504,
+      "name": "\u97f3\u8272",
+      "url": "https://open.spotify.com/track/2VnKoiyRr4V00MpX9UjMhI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY3izH056ADq"

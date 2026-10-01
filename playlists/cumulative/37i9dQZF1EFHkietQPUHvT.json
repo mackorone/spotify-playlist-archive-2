@@ -1798,10 +1798,28 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 157493,
       "name": "pause",
       "url": "https://open.spotify.com/track/1abgG2jgztGM55dZBAZRHh"
+    },
+    {
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/2yeqQbB1Iy80xXKDNzZ0o7"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157493,
+      "name": "pause",
+      "url": "https://open.spotify.com/track/4mJoDnHlIwjTY1Yjz5dSSC"
     },
     {
       "album": {
@@ -2354,6 +2372,24 @@
       "duration_ms": 161966,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/6CG4xX5mY60t2DzdNt7kFQ"
+    },
+    {
+      "album": {
+        "name": "waste my time",
+        "url": "https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "waste my time",
+      "url": "https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy"
     },
     {
       "album": {

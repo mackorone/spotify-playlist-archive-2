@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,794 likes - 150 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,802 likes - 150 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 149 | [C'est Si Bon](https://open.spotify.com/track/5ltdjMGizJoqS5x7rZzij2) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Something's Gotta Give \- Music From The Motion Picture](https://open.spotify.com/album/40ibEmtXTv68y88YPXDoI4) | 2:57 |
 | 150 | [Strange Fruit](https://open.spotify.com/track/0iYWtWNtQRUlSZDESD5cnK) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore/Decca Masters](https://open.spotify.com/album/1LTW62zneyklPRBYWq6ZHz) | 3:12 |
 
-Snapshot ID: `AAAAAO0/MC5pUu8/lYPYVHOe3CQNq6jV`
+Snapshot ID: `AAAAAJXRtW8p09UMtxsBlrJvkDaPIYSA`

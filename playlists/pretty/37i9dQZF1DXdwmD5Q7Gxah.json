@@ -1,12 +1,12 @@
 {
   "description": "things are getting a lil wacky. cover: Thoom <a href=\"https://loremandfriends.substack.com/p/millennial-optimism-we-missed-you\">(p.s. read our substack!)</a>   ",
-  "num_followers": 1184813,
+  "num_followers": 1184797,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ0pMcu0ViK5Hv9q/SemJQ1Mhtcv",
+  "snapshot_id": "AAAAAPHdVbmb/fVQrSRHm3uLqdrkJCwy",
   "tracks": [
     {
       "added_at": "2026-09-23 01:03:30",
@@ -23,6 +23,26 @@
       "duration_ms": 153779,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/4edmBZ5KvOETrP0OsAw8nS"
+    },
+    {
+      "added_at": "2026-09-30 16:59:22",
+      "album": {
+        "name": "Hello (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/7fKBbaDDVJlbjjWAuDG2nU"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
+        }
+      ],
+      "duration_ms": 205212,
+      "name": "Hello - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6B8XcuiJW6IR8YUEfwCfbi"
     },
     {
       "added_at": "2026-09-18 04:02:45",
@@ -155,6 +175,30 @@
       "duration_ms": 167823,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/7aF0puGulyEEJkOQZNKNyu"
+    },
+    {
+      "added_at": "2026-09-30 17:49:46",
+      "album": {
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "duration_ms": 224206,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
     },
     {
       "added_at": "2026-09-29 22:46:15",

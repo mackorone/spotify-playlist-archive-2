@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Mwita Mataro, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Marie Hummel",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -9370,7 +9370,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 85714,
       "name": "feuer",
       "url": "https://open.spotify.com/track/03KSUxeISfi6Fa4yxoARbI"
@@ -11992,6 +11992,24 @@
       "duration_ms": 336060,
       "name": "Hayashi",
       "url": "https://open.spotify.com/track/2XXztk1aMUV5Oazh24hp9I"
+    },
+    {
+      "album": {
+        "name": "head over heels",
+        "url": "https://open.spotify.com/album/0J27cdNRvAf63n0G9obPoV"
+      },
+      "artists": [
+        {
+          "name": "Baba Blakes",
+          "url": "https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155368,
+      "name": "head over heels",
+      "url": "https://open.spotify.com/track/10DRx6qQhP9LY9jqExDtsb"
     },
     {
       "album": {
@@ -20024,7 +20042,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 183218,
       "name": "Nur ein Typ",
       "url": "https://open.spotify.com/track/2pFy6rpL3LuBQLwEjnqzuj"
@@ -28240,6 +28258,24 @@
       "duration_ms": 287589,
       "name": "Traveller",
       "url": "https://open.spotify.com/track/4EW7dVVnUTiC4Xkebko4ko"
+    },
+    {
+      "album": {
+        "name": "Treiben",
+        "url": "https://open.spotify.com/album/1v0qQEhOGXRkc3AAHjajI2"
+      },
+      "artists": [
+        {
+          "name": "Marie Hummel",
+          "url": "https://open.spotify.com/artist/43Dj8MwpUVGB7WKzG1Vn92"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161076,
+      "name": "Treiben",
+      "url": "https://open.spotify.com/track/3N15kNerqLR7MgKvzterur"
     },
     {
       "album": {

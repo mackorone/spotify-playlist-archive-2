@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 231124,
+  "num_followers": 231193,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -211,8 +211,8 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
-        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
+        "name": "Lo Que Tu Necesitas",
+        "url": "https://open.spotify.com/album/5vadrNhB85U1GDBbP8Pl8k"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 276360,
-      "name": "Cuatro Rosas",
-      "url": "https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb"
+      "duration_ms": 227360,
+      "name": "Lo Que T\u00fa Necesitas",
+      "url": "https://open.spotify.com/track/4WsyJhB9CnYwTH8DuoM4Ww"
     },
     {
       "added_at": "2026-05-04 04:59:11",
@@ -307,8 +307,8 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Lo Que Tu Necesitas",
-        "url": "https://open.spotify.com/album/5vadrNhB85U1GDBbP8Pl8k"
+        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
+        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 227360,
-      "name": "Lo Que T\u00fa Necesitas",
-      "url": "https://open.spotify.com/track/4WsyJhB9CnYwTH8DuoM4Ww"
+      "duration_ms": 276360,
+      "name": "Cuatro Rosas",
+      "url": "https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb"
     },
     {
       "added_at": "2026-05-04 04:59:11",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Nace Del Alma",
-        "url": "https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po"
-      },
-      "artists": [
-        {
-          "name": "Omar Geles",
-          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
-        }
-      ],
-      "duration_ms": 285640,
-      "name": "Una Hoja En Blanco",
-      "url": "https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK"
-    },
-    {
-      "added_at": "2026-05-04 04:59:11",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 246506,
       "name": "Busca Un Confidente",
       "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+    },
+    {
+      "added_at": "2026-05-04 04:59:11",
+      "album": {
+        "name": "Nace Del Alma",
+        "url": "https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po"
+      },
+      "artists": [
+        {
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+        }
+      ],
+      "duration_ms": 285640,
+      "name": "Una Hoja En Blanco",
+      "url": "https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK"
     },
     {
       "added_at": "2026-05-04 04:59:11",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 283853,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
+    },
+    {
+      "added_at": "2026-05-04 04:59:11",
+      "album": {
         "name": "El Pap\u00e1 De Los Amores",
         "url": "https://open.spotify.com/album/4bDVM51RU9kfd1mKv8kMKl"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 283853,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
-    },
-    {
-      "added_at": "2026-05-04 04:59:11",
-      "album": {
         "name": "S\u00f3lo Clasicos",
         "url": "https://open.spotify.com/album/3S5zHT8Grf9yHPq2hvP6gm"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 288194,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
+    },
+    {
+      "added_at": "2026-05-04 04:59:11",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "Que No Me Faltes Tu",
+      "url": "https://open.spotify.com/track/1lMWIocgDgDRBmYQnoTi44"
     },
     {
       "added_at": "2026-05-04 04:59:11",
@@ -887,22 +903,6 @@
       "duration_ms": 292224,
       "name": "Volver",
       "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2026-05-04 04:59:11",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "Que No Me Faltes Tu",
-      "url": "https://open.spotify.com/track/1lMWIocgDgDRBmYQnoTi44"
     },
     {
       "added_at": "2026-05-04 04:59:11",

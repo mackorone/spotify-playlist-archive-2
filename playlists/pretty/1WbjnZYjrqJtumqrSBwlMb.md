@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,302 songs - 3 day 8 hr 21 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,316 songs - 3 day 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1310,5 +1310,19 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1300 | [Stand By Me](https://open.spotify.com/track/0zxHSBTEKdH8CI3auJ7Jyc) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now](https://open.spotify.com/album/021D07OEcg0c4tUCilc7ah) | 5:56 |
 | 1301 | [ready or noT](https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [ready or noT](https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK) | 4:02 |
 | 1302 | [Beauty Sleep](https://open.spotify.com/track/1RrEB90qVYRsVE1DQsqwuJ) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Beauty Sleep](https://open.spotify.com/album/3xI4q1yRS4Vr1wMkQxlQjj) | 3:42 |
+| 1303 | [Life 1 \(where did the time go\)](https://open.spotify.com/track/3UeyOO6wbjl7kgoPzyPy4O) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 3:07 |
+| 1304 | [Dark magic](https://open.spotify.com/track/2h3KBpfuC8LtaNJiQ137iP) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 2:55 |
+| 1305 | [The hero never dies](https://open.spotify.com/track/0KEAxTBRuLeZuqC71RBupn) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 3:20 |
+| 1306 | [It goes like this](https://open.spotify.com/track/0Z1hvbWG6GJNfra89uS5Gx) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 3:41 |
+| 1307 | [CELERY](https://open.spotify.com/track/2l1pFIQfIi56NCif08CyxO) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 0:37 |
+| 1308 | [Make you my what](https://open.spotify.com/track/38ry3QbZpaL6ggRTHyYQsv) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 2:48 |
+| 1309 | [Regular guy](https://open.spotify.com/track/3EL4Oe5IpZHaceyhCo9lEP) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 4:12 |
+| 1310 | [THE GAMBLER](https://open.spotify.com/track/5X2BUItGwr6fU8taExWb2i) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 1:31 |
+| 1311 | [Like you always do](https://open.spotify.com/track/0nrPmwBtNoPu8Klq66t2Ft) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 4:23 |
+| 1312 | [Baby steps](https://open.spotify.com/track/7eS9yh0FyFmgvSQODnLTiV) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 3:58 |
+| 1313 | [Hell of a time](https://open.spotify.com/track/2J9OFEf6MwAjyFr9gvHdfB) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 3:43 |
+| 1314 | [Illusion of choice](https://open.spotify.com/track/03Y8tDcuOSATAfRQfuxkd2) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 5:33 |
+| 1315 | [Good grief](https://open.spotify.com/track/7dKeTL8C63usTT3TIsPfJn) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 4:09 |
+| 1316 | [In another life…](https://open.spotify.com/track/0L19rVQybJ04lTSFBv31GV) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1](https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD) | 4:25 |
 
-Snapshot ID: `AAAKHHxyXpOiyzZoX+Zv1E4OQ53sIYgz`
+Snapshot ID: `AAAKHfhagwDRcA6Jz/2xoGbKhgSMsxiW`

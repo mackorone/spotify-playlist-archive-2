@@ -2432,6 +2432,24 @@
     {
       "album": {
         "name": "Ultra Mango",
+        "url": "https://open.spotify.com/album/2js3B0SkEoyXrEzJLArKt4"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Warp Speed Suzie",
+      "url": "https://open.spotify.com/track/5jPVo9EQxBvKl6IXBQLnKU"
+    },
+    {
+      "album": {
+        "name": "Ultra Mango",
         "url": "https://open.spotify.com/album/0quCp4fi92StDM27DUSHS5"
       },
       "artists": [
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 176842,
       "name": "Warp Speed Suzie",
       "url": "https://open.spotify.com/track/6uGTGFm1AchlydB9uW04P9"

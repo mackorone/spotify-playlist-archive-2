@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Jack Johnson, The Paper Kites and more
+> With John Mayer, Jack Johnson, Ray LaMontagne and more
 
 1,608 songs - 4 day 3 hr 56 min
 

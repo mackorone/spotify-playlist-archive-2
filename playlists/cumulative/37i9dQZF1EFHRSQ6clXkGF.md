@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-378 songs - 1 day 1 hr 14 min
+379 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [The Dry Cleaner From Des Moines](https://open.spotify.com/track/2VdBQzZAwSjZvb0FMsmpM3) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/6xgCRTWpAnisscgnOXR57V) | 3:22 | 2026-04-15 |  |
 | [The Fiddle and the Drum](https://open.spotify.com/track/6KVD2DiqO7tPrdfhLWD2bo) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 2:49 | 2024-03-21 |  |
 | [The Gallery](https://open.spotify.com/track/3HLo1lNhX00b4DH2yRmGYE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 4:12 | 2024-03-21 |  |
+| [The Gift Of The Magi \- Song To A Seagull Session](https://open.spotify.com/track/1teSaR003jYmnNmKe52JnB) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 4:18 | 2026-09-30 |  |
 | [The Hissing of Summer Lawns](https://open.spotify.com/track/6ar3x1gVqkABR1x6zQI9yH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 3:01 | 2024-03-21 |  |
 | [The Jungle Line](https://open.spotify.com/track/6C5xDvn42YYdohvSEjsoP2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 4:24 | 2024-03-21 |  |
 | [The Last Time I Saw Richard](https://open.spotify.com/track/4NmNJjA1SFbAwpY9O8MlDg) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/3oiyCLwqtHTdyiel3686cG) | 4:15 | 2026-03-01 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KNTcD.md) - [plain]
 
 > This is Jae Stephens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724 likes - 39 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 727 likes - 39 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Miss The City](https://open.spotify.com/track/3huxbU1AE3HrAkcU1X5zVc) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [I Miss The City / Gymnastics](https://open.spotify.com/album/4GLLLTFMT9fUD04hGiac6Q) | 3:00 |
-| 2 | [Expensive & Difficult](https://open.spotify.com/track/5M2AlK2QmQEgWbtGjj0epX) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:49 |
-| 3 | [No One Knows My Name](https://open.spotify.com/track/2ZE9yg4LKGXSh6NjbLQlCj) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:44 |
-| 4 | [Afterbody](https://open.spotify.com/track/716Q0VOzPESug3igvfwAoU) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:08 |
+| 1 | [Expensive & Difficult](https://open.spotify.com/track/5M2AlK2QmQEgWbtGjj0epX) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:49 |
+| 2 | [No One Knows My Name](https://open.spotify.com/track/2ZE9yg4LKGXSh6NjbLQlCj) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:44 |
+| 3 | [Afterbody](https://open.spotify.com/track/716Q0VOzPESug3igvfwAoU) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:08 |
+| 4 | [I Miss The City](https://open.spotify.com/track/3huxbU1AE3HrAkcU1X5zVc) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [I Miss The City / Gymnastics](https://open.spotify.com/album/4GLLLTFMT9fUD04hGiac6Q) | 3:00 |
 | 5 | [Sugar Trap](https://open.spotify.com/track/0j38sAqoc1QL4MoccmWxD2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Sugar Trap](https://open.spotify.com/album/5R7ggWmHJEuPapIoiqfKR3) | 3:09 |
 | 6 | [Attaboy!](https://open.spotify.com/track/1GhKaP6CoT6VvgXCxQlbih) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Attaboy!](https://open.spotify.com/album/0tYqtIOu6rABziVPENQYUR) | 2:44 |
 | 7 | [Gymnastics](https://open.spotify.com/track/0L6EbFzeKITZ82rlvavtIa) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [I Miss The City / Gymnastics](https://open.spotify.com/album/4GLLLTFMT9fUD04hGiac6Q) | 2:42 |

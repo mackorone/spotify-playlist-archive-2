@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: DECO*27",
+  "description": "Explore the current wave of VOCALOID culture. Cover: Hatsune Miku \u00a9\ufe0e CFM",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -376,6 +376,36 @@
       "duration_ms": 181973,
       "name": "Alien Alien",
       "url": "https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v"
+    },
+    {
+      "album": {
+        "name": "EMERGE M\u2661DE MIKU",
+        "url": "https://open.spotify.com/album/3MdoJyoaOOzh2rDxxK6ehQ"
+      },
+      "artists": [
+        {
+          "name": "BEYOND BORDERs",
+          "url": "https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "jon-YAKITORY",
+          "url": "https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135363,
+      "name": "All Mine (with Hatsune Miku, MOLIY, & jon-YAKITORY)",
+      "url": "https://open.spotify.com/track/0q9RzA7nCzsa8fQX7myDYw"
     },
     {
       "album": {
@@ -2266,6 +2296,46 @@
       "duration_ms": 217090,
       "name": "kyu-kurarin",
       "url": "https://open.spotify.com/track/72wehM3q2RVZb4XLmAkyTr"
+    },
+    {
+      "album": {
+        "name": "Rebreath",
+        "url": "https://open.spotify.com/album/1f4JpaeEu3eO9fEiaKCqwI"
+      },
+      "artists": [
+        {
+          "name": "IA",
+          "url": "https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218179,
+      "name": "Kyuujitsuno arekore",
+      "url": "https://open.spotify.com/track/6RnQW0CkiybPk8LqibYP9t"
+    },
+    {
+      "album": {
+        "name": "BOURYOKUTEKINIKAWAII 2nd Compilation Album (DISC.2)",
+        "url": "https://open.spotify.com/album/5npQcb8MKWIJ2f2N7QnyUJ"
+      },
+      "artists": [
+        {
+          "name": "\u66b4\u529b\u7684\u306b\u30ab\u30ef\u30a4\u30a4",
+          "url": "https://open.spotify.com/artist/1tApjjdygqS5dG3cAKO5v2"
+        },
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "L.U.C.K.Y.G.I.R.L",
+      "url": "https://open.spotify.com/track/4MbrJOif1xDWeJl3kci3LL"
     },
     {
       "album": {
@@ -8152,7 +8222,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 201265,
       "name": "\u30c7\u30ed\u30b9\u30b5\u30f3\u30c8\u30b9",
       "url": "https://open.spotify.com/track/5W6i71A1a4cZL9bQ6CN4qv"
@@ -11468,7 +11538,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 198733,
       "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5"
@@ -13682,7 +13752,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 195693,
       "name": "\u7ae5\u8a71\u306b\u306a\u3063\u305f\u3089\u3044\u3044\u306e\u306b",
       "url": "https://open.spotify.com/track/0ZWQbOQpHp9UzpduRGfISw"

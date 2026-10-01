@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+    },
+    {
+      "album": {
         "name": "Alcohol-Free",
         "url": "https://open.spotify.com/album/55KZPPx9Ep8QrYqdBcn8aE"
       },
@@ -15258,7 +15276,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -15522,7 +15540,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 188531,
       "name": "SaWaDiKa",
       "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
@@ -18134,7 +18152,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -20540,7 +20558,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -24742,7 +24760,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 205933,
       "name": "\u601d\u89ba\u5931\u8abf",
       "url": "https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz"
@@ -25454,6 +25472,24 @@
       "duration_ms": 159789,
       "name": "\u6211\u8207\u4f60\u7684\u5dee\u8ddd (ViuTV \u5287\u96c6 \"\u793e\u5167\u76f8\u89aa\" \u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/2H6JOKPq1G3JHKoz6Es7Qr"
+    },
+    {
+      "album": {
+        "name": "\u6212\u7cd6\u5931\u6557",
+        "url": "https://open.spotify.com/album/5D6Pxis4xCOApJpzaAJuVG"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239546,
+      "name": "\u6212\u7cd6\u5931\u6557",
+      "url": "https://open.spotify.com/track/5iuDkzOm45gwYkSmk4t0bN"
     },
     {
       "album": {
@@ -28084,7 +28120,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 210461,
       "name": "\u7532\u4e59\u4e19\u4e01Strangers",
       "url": "https://open.spotify.com/track/629FqLOdjtsXh5b45FTk43"
@@ -29082,7 +29118,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 249266,
       "name": "\u7f8e\u9e97\u4e4b\u6700",
       "url": "https://open.spotify.com/track/0Iz6uTneQ9aVAAEveG3ORL"
@@ -29404,7 +29440,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 232839,
       "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
       "url": "https://open.spotify.com/track/3qFJpsQaOGkea5MLxbk9Jc"

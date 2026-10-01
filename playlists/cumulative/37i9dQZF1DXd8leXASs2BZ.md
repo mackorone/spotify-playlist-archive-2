@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 27AM
 
-1,891 songs - 3 day 13 hr 54 min
+1,893 songs - 3 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -674,6 +674,7 @@
 | [Hey bitch, I'm perfect](https://open.spotify.com/track/1Mb77uZPo0rXCKRhGosQDY) | [X 1ark](https://open.spotify.com/artist/0HfCl2evu4eozHEIgrV0xa), [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie) | [Hey bitch, I'm perfect](https://open.spotify.com/album/6ba8eVuPDQuxhspP6xt1lg) | 2:07 | 2025-08-08 | 2025-11-26 |
 | [hey now](https://open.spotify.com/track/4EUGHVQjnubTUTIexDo1F6) | [了](https://open.spotify.com/artist/55qSXnuOxr0kzf0Vg11SMj) | [hey now](https://open.spotify.com/album/77LrA83hmmwKRJw2M0A0PO) | 2:03 | 2025-08-26 | 2025-12-03 |
 | [hibiya](https://open.spotify.com/track/46ppmuIZCNAtcpWafwnlmZ) | [EL Mosh](https://open.spotify.com/artist/6VU2ko8f1SVTXZVFOjMoSp) | [hibiya](https://open.spotify.com/album/1T5OmP4zfB6kBCi7sb8czU) | 2:10 | 2026-09-29 |  |
+| [HIDANE](https://open.spotify.com/track/1GZTQfGcCCZGuThsmqZM6U) | [sh1t](https://open.spotify.com/artist/3IchFX2kpT6ARyP7hURWyo), [DJ KENN AON](https://open.spotify.com/artist/42Z54C9RZhmgTpQplPNLZO) | [HIDANE](https://open.spotify.com/album/4jMq28Btqfpffd2NNB1H7c) | 2:58 | 2026-09-29 |  |
 | [HIDE AND SEEK](https://open.spotify.com/track/3RAMkFLUDH3ULwMHoWRxsw) | [PM Kenobi](https://open.spotify.com/artist/4UKQgh3XTopmXatJChUMHL) | [HIDE AND SEEK](https://open.spotify.com/album/6Fs7wP29rRe36DplDfA2bK) | 3:28 | 2024-08-28 | 2024-11-13 |
 | [High](https://open.spotify.com/track/0ge9pnuQMjbTWvVdIo4Cn7) | [Yamiboi To$](https://open.spotify.com/artist/27MxRYUqOp5h0sY4T9u5es) | [YAMIBOISM](https://open.spotify.com/album/0YNlZjCofqznVD2ZYjDIBP) | 1:52 | 2026-07-28 | 2026-09-09 |
 | [Highway](https://open.spotify.com/track/1P5HbCjaBYE3R8bYYNZtu5) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [En](https://open.spotify.com/album/5KMluwmONyrgB1PJT6PYFS) | 2:27 | 2025-11-18 | 2026-03-04 |
@@ -1564,6 +1565,7 @@
 | [TOGARI](https://open.spotify.com/track/7BY46dIjk3VjREFFOVpqef) | [Dress Marine](https://open.spotify.com/artist/0xJmBBrz8aZsWts5g1x1Me) | [TOGARI](https://open.spotify.com/album/4X56D0QSQsnE0stADAMPHV) | 2:46 | 2026-08-25 | 2026-09-30 |
 | [Together](https://open.spotify.com/track/4CPPoLmOV3shgIgZNHLG1e) | [Coyote](https://open.spotify.com/artist/4c6iB0lzk7IrDpcXi82cBk) | [The City's Flow](https://open.spotify.com/album/48UT8Gr8fzcK3o0Us5m9Nd) | 3:06 | 2024-04-16 | 2024-05-15 |
 | [Together](https://open.spotify.com/track/7oMB6dO8DkMP8dRTOI7tIy) | [Coyote](https://open.spotify.com/artist/4c6iB0lzk7IrDpcXi82cBk) | [The City's Flow](https://open.spotify.com/album/23kcnlpTTkxZlSNfCKsUqY) | 3:06 | 2024-04-16 | 2024-04-19 |
+| [tokidoki](https://open.spotify.com/track/21AYdFCHFENmFY8NdqNeLS) | [Lilniina](https://open.spotify.com/artist/2sQQn4m6eLqk0wt3TOkaGw) | [tokidoki](https://open.spotify.com/album/3rjnDJHQ12fsjHd07DSwSR) | 1:31 | 2026-09-29 |  |
 | [Tokio BASE](https://open.spotify.com/track/18LHzwjRlU4IUvk2wzkSOT) | [EL Mosh](https://open.spotify.com/artist/6VU2ko8f1SVTXZVFOjMoSp) | [Tokio BASE](https://open.spotify.com/album/7e9xe6jGfFKhELAmV74hWN) | 1:21 | 2025-09-30 | 2025-12-03 |
 | [Toku No Houni](https://open.spotify.com/track/1Qr3v3ong8wGbXzHPKotnT) | [ARuM](https://open.spotify.com/artist/2W46oY5sDSCWXrZq8sljQx) | [CBKSW](https://open.spotify.com/album/7AfomS05kB5B9hSEmDyRL9) | 3:14 | 2023-12-07 | 2024-01-10 |
 | [Toku No Machi](https://open.spotify.com/track/3hpTcEcNdALCUwQf0RIMUd) | [TeTe](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Purple Way](https://open.spotify.com/album/4edGKSWpGTlizWkEn4XXtQ) | 3:33 | 2024-03-05 | 2024-04-19 |

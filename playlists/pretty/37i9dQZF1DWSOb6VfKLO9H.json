@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 111515,
+  "num_followers": 111531,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,18 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Vakantie",
-        "url": "https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f"
+        "name": "Hella Cash",
+        "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
       },
       "artists": [
         {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
         }
       ],
-      "duration_ms": 165077,
-      "name": "Vakantie (with Jonna Fraser)",
-      "url": "https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI"
+      "duration_ms": 175663,
+      "name": "Catch Up",
+      "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -579,18 +575,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Hella Cash",
-        "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
+        "name": "Vakantie",
+        "url": "https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f"
       },
       "artists": [
         {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
         }
       ],
-      "duration_ms": 175663,
-      "name": "Catch Up",
-      "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
+      "duration_ms": 165077,
+      "name": "Vakantie (with Jonna Fraser)",
+      "url": "https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -635,6 +635,34 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+        }
+      ],
+      "duration_ms": 173534,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Lituatie",
         "url": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
       },
@@ -667,34 +695,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
-      },
-      "artists": [
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Brysa",
-          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
-        },
-        {
-          "name": "Ashafar",
-          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
-        }
-      ],
-      "duration_ms": 173534,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Visionair",
         "url": "https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 156081,
       "name": "DomDoen",
       "url": "https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Goed Teken",
+        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 170497,
+      "name": "Ik Kan Je Niet Laten",
+      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -739,22 +755,6 @@
       "duration_ms": 173400,
       "name": "Ondernemer",
       "url": "https://open.spotify.com/track/4HsSwlgvRrHAkTQ8n9mGFV"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Goed Teken",
-        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 170497,
-      "name": "Ik Kan Je Niet Laten",
-      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
-      },
-      "artists": [
-        {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
-        }
-      ],
-      "duration_ms": 146794,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "We Doen Ons Best",
         "url": "https://open.spotify.com/album/6nqXDeemQeUvHHduoZxRjp"
       },
@@ -1335,22 +1319,18 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "501",
-        "url": "https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y"
+        "name": "Update",
+        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
       },
       "artists": [
         {
-          "name": "Bilal Wahib",
-          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
         }
       ],
-      "duration_ms": 127592,
-      "name": "501",
-      "url": "https://open.spotify.com/track/0Fl4PBfIwC5G1IQAF1luUm"
+      "duration_ms": 146794,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1399,6 +1379,26 @@
       "duration_ms": 167184,
       "name": "Chemistry (feat. Mula B)",
       "url": "https://open.spotify.com/track/32KaEzzoNXtjTyMT55ZT7y"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "501",
+        "url": "https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 127592,
+      "name": "501",
+      "url": "https://open.spotify.com/track/0Fl4PBfIwC5G1IQAF1luUm"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1975,6 +1975,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Designers",
+        "url": "https://open.spotify.com/album/146n3dqgpSdsk02yWRSEtI"
+      },
+      "artists": [
+        {
+          "name": "IliassOpDeBeat",
+          "url": "https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "LouiVos",
+          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
+        }
+      ],
+      "duration_ms": 181658,
+      "name": "Designers (feat. Dopebwoy & LouiVos)",
+      "url": "https://open.spotify.com/track/3zycyBK3RiecrkrP8NPLxu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Gouden Plaat",
         "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
       },
@@ -2051,30 +2075,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Designers",
-        "url": "https://open.spotify.com/album/146n3dqgpSdsk02yWRSEtI"
-      },
-      "artists": [
-        {
-          "name": "IliassOpDeBeat",
-          "url": "https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw"
-        },
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "LouiVos",
-          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
-        }
-      ],
-      "duration_ms": 181658,
-      "name": "Designers (feat. Dopebwoy & LouiVos)",
-      "url": "https://open.spotify.com/track/3zycyBK3RiecrkrP8NPLxu"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Forever Lit",
         "url": "https://open.spotify.com/album/4P8C9tvr8xleuIMgVBKpGy"
       },
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Midnight Boom",
+        "url": "https://open.spotify.com/album/52vZP5uAbwqNj89NRlQ0Ic"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 145937,
+      "name": "Midnight Boom",
+      "url": "https://open.spotify.com/track/41dxhDrOnQdieYdUW9PC4J"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Gate 16",
         "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 203446,
       "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
       "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Midnight Boom",
-        "url": "https://open.spotify.com/album/52vZP5uAbwqNj89NRlQ0Ic"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 145937,
-      "name": "Midnight Boom",
-      "url": "https://open.spotify.com/track/41dxhDrOnQdieYdUW9PC4J"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2203,26 +2203,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Gouden Plaat",
-        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
-      },
-      "artists": [
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 136499,
-      "name": "Laat Niet Los (feat. Jonna Fraser)",
-      "url": "https://open.spotify.com/track/3UxtV3dzZU58Y5OzaUUplr"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Het Is Een Feit",
         "url": "https://open.spotify.com/album/0cwPLMyyZA1uNVZ1FJd0kz"
       },
@@ -2239,6 +2219,26 @@
       "duration_ms": 132572,
       "name": "Het Is Een Feit",
       "url": "https://open.spotify.com/track/0iuLGMsB9xBbg5D4iabTtT"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Gouden Plaat",
+        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
+      },
+      "artists": [
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 136499,
+      "name": "Laat Niet Los (feat. Jonna Fraser)",
+      "url": "https://open.spotify.com/track/3UxtV3dzZU58Y5OzaUUplr"
     },
     {
       "added_at": "2024-07-19 06:38:33",

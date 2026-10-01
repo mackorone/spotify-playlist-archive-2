@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Péricles, Emicida,  Madonna,  Adriana Calcanhotto,  Flora Matos e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,309,918 likes - 94 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,309,844 likes - 94 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

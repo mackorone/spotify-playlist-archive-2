@@ -1,6 +1,6 @@
 {
   "description": "Rock with a drop. Cover: HVDES \\m/",
-  "num_followers": 358247,
+  "num_followers": 358310,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Nine Inch Noize",
-        "url": "https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 237956,
-      "name": "Heresy - Nine Inch Noize Version",
-      "url": "https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "REBELS NEVER DIE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 189374,
       "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
       "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Nine Inch Noize",
+        "url": "https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 237956,
+      "name": "Heresy - Nine Inch Noize Version",
+      "url": "https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Welcome To My Life",
-        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
-      },
-      "artists": [
-        {
-          "name": "STVW",
-          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
-        },
-        {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Welcome To My Life",
-      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "CHOKE",
         "url": "https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 160457,
       "name": "CHOKE (with grandson & Zero 9:36)",
       "url": "https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Welcome To My Life",
+        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
+      },
+      "artists": [
+        {
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+        },
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Welcome To My Life",
+      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "The Death of Peace of Mind",
+        "url": "https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "The Death of Peace of Mind",
+      "url": "https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "BUSTED",
         "url": "https://open.spotify.com/album/0j1YfLra3m8CJCRvPhVcql"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "The Death of Peace of Mind",
-        "url": "https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "The Death of Peace of Mind",
-      "url": "https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Unbound",
         "url": "https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi"
       },
@@ -1579,22 +1579,6 @@
       "duration_ms": 227167,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Higher Ground (Part 1)",
-        "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 226896,
-      "name": "Industrial Strain",
-      "url": "https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1627,22 +1611,18 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
+        "name": "Higher Ground (Part 1)",
+        "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
         }
       ],
-      "duration_ms": 237203,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
+      "duration_ms": 226896,
+      "name": "Industrial Strain",
+      "url": "https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1663,8 +1643,28 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Not My Night",
-        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 237203,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Sugar, We're Goin Down",
+        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
       },
       "artists": [
         {
@@ -1672,13 +1672,13 @@
           "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
         },
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "Social Repose",
+          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
         }
       ],
-      "duration_ms": 202421,
-      "name": "Not My Night",
-      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
+      "duration_ms": 209210,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1767,8 +1767,8 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Sugar, We're Goin Down",
-        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
+        "name": "Not My Night",
+        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
       },
       "artists": [
         {
@@ -1776,13 +1776,13 @@
           "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
         },
         {
-          "name": "Social Repose",
-          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 209210,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
+      "duration_ms": 202421,
+      "name": "Not My Night",
+      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Till I Met You",
-        "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "good problem",
-          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
-        }
-      ],
-      "duration_ms": 195211,
-      "name": "Till I Met You",
-      "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Being One",
         "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
       },
@@ -2123,22 +2103,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
-        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
+        "name": "Till I Met You",
+        "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
       },
       "artists": [
         {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
         },
         {
-          "name": "Code: Pandorum",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+          "name": "good problem",
+          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
         }
       ],
-      "duration_ms": 188730,
-      "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
-      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
+      "duration_ms": 195211,
+      "name": "Till I Met You",
+      "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2163,6 +2143,26 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
+        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        },
+        {
+          "name": "Code: Pandorum",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        }
+      ],
+      "duration_ms": 188730,
+      "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
+      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
       },
@@ -2175,6 +2175,26 @@
       "duration_ms": 171034,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2199,26 +2219,6 @@
       "duration_ms": 255448,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Take It Back",
-        "url": "https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Take It Back",
-      "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2343,26 +2343,18 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "SO FAR SO FAKE",
-        "url": "https://open.spotify.com/album/0jWVyAzO2ZLi3GeWIPGpQf"
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
       },
       "artists": [
         {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
-          "name": "Manly",
-          "url": "https://open.spotify.com/artist/2u1sGcaPV4lkA9eZSOtxfX"
-        },
-        {
-          "name": "SweetTooth",
-          "url": "https://open.spotify.com/artist/2G3LxpQ9lxzDq9pea6hCle"
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
         }
       ],
-      "duration_ms": 260571,
-      "name": "SO FAR SO FAKE",
-      "url": "https://open.spotify.com/track/4rRWDVA9kmRwbnXuon269O"
+      "duration_ms": 186822,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2387,18 +2379,26 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
+        "name": "SO FAR SO FAKE",
+        "url": "https://open.spotify.com/album/0jWVyAzO2ZLi3GeWIPGpQf"
       },
       "artists": [
         {
-          "name": "ALT BLK ERA",
-          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Manly",
+          "url": "https://open.spotify.com/artist/2u1sGcaPV4lkA9eZSOtxfX"
+        },
+        {
+          "name": "SweetTooth",
+          "url": "https://open.spotify.com/artist/2G3LxpQ9lxzDq9pea6hCle"
         }
       ],
-      "duration_ms": 186822,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N"
+      "duration_ms": 260571,
+      "name": "SO FAR SO FAKE",
+      "url": "https://open.spotify.com/track/4rRWDVA9kmRwbnXuon269O"
     },
     {
       "added_at": "2026-09-18 15:22:42",

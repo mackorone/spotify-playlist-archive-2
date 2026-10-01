@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 523245,
+  "num_followers": 523368,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -531,42 +531,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Mi Libertador",
-        "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 491232,
-      "name": "Mi Libertador",
-      "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Ante Tu Altar (Tour Edition) [Live]",
-        "url": "https://open.spotify.com/album/6laEQlL6119G9GUAjdnXIc"
-      },
-      "artists": [
-        {
-          "name": "Averly Morillo",
-          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
-        }
-      ],
-      "duration_ms": 497127,
-      "name": "\u00bfQui\u00e9n Podr\u00e1? - Live",
-      "url": "https://open.spotify.com/track/6NU3tnaJXjFxY9ZB4JRmvq"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Danzando (Live)",
         "url": "https://open.spotify.com/album/5gIeEB6jPv3t9tj5z5RBcJ"
       },
@@ -599,6 +563,42 @@
       "duration_ms": 488927,
       "name": "Danzando - Live",
       "url": "https://open.spotify.com/track/2XjDhJaZnBT2G2a08Gtbky"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Ante Tu Altar (Tour Edition) [Live]",
+        "url": "https://open.spotify.com/album/6laEQlL6119G9GUAjdnXIc"
+      },
+      "artists": [
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        }
+      ],
+      "duration_ms": 497127,
+      "name": "\u00bfQui\u00e9n Podr\u00e1? - Live",
+      "url": "https://open.spotify.com/track/6NU3tnaJXjFxY9ZB4JRmvq"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Mi Libertador",
+        "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 491232,
+      "name": "Mi Libertador",
+      "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Raised to Deliver (Live)",
-        "url": "https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j"
-      },
-      "artists": [
-        {
-          "name": "HungryGen Worship",
-          "url": "https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9"
-        }
-      ],
-      "duration_ms": 119958,
-      "name": "Eres Todopoderoso (Live)",
-      "url": "https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Agnus Dei",
         "url": "https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 229176,
       "name": "Agnus Dei",
       "url": "https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Raised to Deliver (Live)",
+        "url": "https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j"
+      },
+      "artists": [
+        {
+          "name": "HungryGen Worship",
+          "url": "https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9"
+        }
+      ],
+      "duration_ms": 119958,
+      "name": "Eres Todopoderoso (Live)",
+      "url": "https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Me Sumerjo en Ti",
+        "url": "https://open.spotify.com/album/1Pd0TEOaJJ4L76IWhDCac4"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Me Sumerjo en Ti",
+      "url": "https://open.spotify.com/track/41haenUzFaS84ClvAEJxYA"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Tu Luz",
         "url": "https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 230377,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Me Sumerjo en Ti",
-        "url": "https://open.spotify.com/album/1Pd0TEOaJJ4L76IWhDCac4"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Me Sumerjo en Ti",
-      "url": "https://open.spotify.com/track/41haenUzFaS84ClvAEJxYA"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Dios Cuida De M\u00ed",
         "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
       },
@@ -1591,18 +1607,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+        "name": "Operaci\u00f3n Mundial",
+        "url": "https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT"
       },
       "artists": [
         {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
+      "duration_ms": 270186,
+      "name": "El Nombre De Jes\u00fas (feat. Christine D'clario)",
+      "url": "https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1675,22 +1695,18 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Operaci\u00f3n Mundial",
-        "url": "https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT"
+        "name": "El Cielo Gobierna",
+        "url": "https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW"
       },
       "artists": [
         {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+          "name": "David Scarpeta",
+          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
         }
       ],
-      "duration_ms": 270186,
-      "name": "El Nombre De Jes\u00fas (feat. Christine D'clario)",
-      "url": "https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN"
+      "duration_ms": 265280,
+      "name": "El Cielo Gobierna",
+      "url": "https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1707,22 +1723,6 @@
       "duration_ms": 240483,
       "name": "Himno De Victoria",
       "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "El Cielo Gobierna",
-        "url": "https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW"
-      },
-      "artists": [
-        {
-          "name": "David Scarpeta",
-          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
-        }
-      ],
-      "duration_ms": 265280,
-      "name": "El Cielo Gobierna",
-      "url": "https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH"
     },
     {
       "added_at": "2026-05-12 05:08:23",

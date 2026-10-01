@@ -172,7 +172,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 203035,
       "name": "A Ride With The FourHorse Men in 1888",
       "url": "https://open.spotify.com/track/3MeSjeR3lu0vUPGUPweKDT"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 200950,
       "name": "Actors",
       "url": "https://open.spotify.com/track/2pynZ1PXTL00ClGi6Vhbps"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 216585,
       "name": "Alice Is Playing With Matches",
       "url": "https://open.spotify.com/track/5ucKU4NUCIu6nlHjAMK2VB"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 236000,
       "name": "Alles Historie",
       "url": "https://open.spotify.com/track/6jL04UjI8xLC9FOzL6iQVA"
@@ -1139,6 +1139,28 @@
     },
     {
       "album": {
+        "name": "Emergency Lies",
+        "url": "https://open.spotify.com/album/4C39Wtxmw2reVfaGJ78Doc"
+      },
+      "artists": [
+        {
+          "name": "Zoon Phonanta",
+          "url": "https://open.spotify.com/artist/1jYC6Zju606VGFoSsbFYL3"
+        },
+        {
+          "name": "A.S. Fanning",
+          "url": "https://open.spotify.com/artist/7B3aF7cdDyAzyWVy7HXBKS"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232330,
+      "name": "Badcats",
+      "url": "https://open.spotify.com/track/5N5tWDAvXGRC8LYVQdALMJ"
+    },
+    {
+      "album": {
         "name": "Bait of fate",
         "url": "https://open.spotify.com/album/448XTbAt6UPSo83dLGqMVR"
       },
@@ -1420,7 +1442,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1942,7 +1964,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 190000,
       "name": "Burning - Live at Paradiso",
       "url": "https://open.spotify.com/track/5AKzIkcSU2RH94rP6xJwdw"
@@ -2828,7 +2850,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 141202,
       "name": "crime&punisment",
       "url": "https://open.spotify.com/track/2tylpnCs2cDq2hwEpblN5w"
@@ -3734,7 +3756,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -4916,7 +4938,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 168263,
       "name": "Fade",
       "url": "https://open.spotify.com/track/3jWK5AftB2MVpdVLQ0d5BV"
@@ -5774,7 +5796,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 139000,
       "name": "Fucka Det Opp",
       "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
@@ -5882,7 +5904,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 194458,
       "name": "F\u00f8rrbi",
       "url": "https://open.spotify.com/track/51yl5HUS0n61xMdrvqJoUS"
@@ -6302,6 +6324,24 @@
       "duration_ms": 192000,
       "name": "G\u00e5 Hardt Eller G\u00e5 Hjem",
       "url": "https://open.spotify.com/track/7oF3DOYkEbjDa9AJPX8gRX"
+    },
+    {
+      "album": {
+        "name": "Aukal\u00edf",
+        "url": "https://open.spotify.com/album/2QJa3tfarlAJ44PeHJoIDI"
+      },
+      "artists": [
+        {
+          "name": "Sign",
+          "url": "https://open.spotify.com/artist/2EF2k2KeHFnkSb13UzpEt1"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Haltu R\u00f3",
+      "url": "https://open.spotify.com/track/1veof2E1YyYy0JOL98Y5Z3"
     },
     {
       "album": {
@@ -7931,6 +7971,24 @@
     },
     {
       "album": {
+        "name": "Jorden",
+        "url": "https://open.spotify.com/album/398V3exFWa1OAkAgApbxFQ"
+      },
+      "artists": [
+        {
+          "name": "Ove Markstr\u00f6m",
+          "url": "https://open.spotify.com/artist/1lc8KZKBbZn6a5NWhgXckl"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279933,
+      "name": "Jorden",
+      "url": "https://open.spotify.com/track/7t5iHxdeKcgXAQdoVWfXYE"
+    },
+    {
+      "album": {
         "name": "Kraken Attack",
         "url": "https://open.spotify.com/album/08kwINQVeRybg7LLTRZ75Y"
       },
@@ -8080,7 +8138,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -8524,7 +8582,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 324026,
       "name": "Lechery Love",
       "url": "https://open.spotify.com/track/0pYrzlsgg0USecWtggHS6P"
@@ -10574,7 +10632,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 229574,
       "name": "Need A Portal",
       "url": "https://open.spotify.com/track/1VRBb7hHtJiNRch64BmYr5"
@@ -11726,7 +11784,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 217295,
       "name": "Painting Princess",
       "url": "https://open.spotify.com/track/1fotqQEfQNkDV4Eb4Uk9ML"
@@ -11798,7 +11856,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -11950,7 +12008,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 326066,
       "name": "Party Is Over (The Last Curfew)",
       "url": "https://open.spotify.com/track/42h8b5W6ugHyPcicjwj3UQ"
@@ -12340,7 +12398,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 147278,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/7hund5bivOghcZsQu1PdNp"
@@ -12608,7 +12666,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 204570,
       "name": "Reality Is a Failure",
       "url": "https://open.spotify.com/track/2A7KzW6tW0IIBBjlSWLDR7"
@@ -12644,7 +12702,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 254545,
       "name": "Rebel Rider",
       "url": "https://open.spotify.com/track/7kTzmOUxA1Q3on9PVdlrBQ"
@@ -12878,7 +12936,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 290186,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/2dzQApMQvr9l3aUBMj0b2U"
@@ -14132,7 +14190,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 255655,
       "name": "Soul",
       "url": "https://open.spotify.com/track/6prHgbE6PYmy6W9jcmKbF4"
@@ -15520,7 +15578,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 155076,
       "name": "The Hair",
       "url": "https://open.spotify.com/track/3pIRroC5iuw3TvSlV7mqI8"
@@ -15950,7 +16008,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 121428,
       "name": "The Shame",
       "url": "https://open.spotify.com/track/0CmMPlu0eWn0XT6WNtSbWb"
@@ -17568,7 +17626,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 128600,
       "name": "Virus Potus",
       "url": "https://open.spotify.com/track/53uCwcLsShSd664eg4eOSz"
@@ -17958,7 +18016,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 335000,
       "name": "We Destroy What We Love",
       "url": "https://open.spotify.com/track/6rFjMA6zotwTPbj7kfPWne"
@@ -18434,7 +18492,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 117992,
       "name": "Wings Are Heavy",
       "url": "https://open.spotify.com/track/6OMMqelzt9EYwY0YyqXjXv"
@@ -18452,7 +18510,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 269507,
       "name": "Wings Of An Angel",
       "url": "https://open.spotify.com/track/6EbDacy2uom5FL8Y7ocdI3"
@@ -19466,7 +19524,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 161416,
       "name": "\u6210\u87f2\u591c-Wormfall Night",
       "url": "https://open.spotify.com/track/7vXRTKhhlL290NJ8TH1CJO"

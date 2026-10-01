@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 🚀 cover: SOFY
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,964 likes - 106 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,937 likes - 106 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

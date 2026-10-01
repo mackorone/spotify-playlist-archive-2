@@ -5700,7 +5700,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 188534,
       "name": "Dheemee Dheemee Aanch",
       "url": "https://open.spotify.com/track/2Wza06ozQoCGJYrU6jnTko"
@@ -6200,6 +6200,36 @@
       "duration_ms": 252792,
       "name": "Dil Ki Aawaaz",
       "url": "https://open.spotify.com/track/5VwkrvpiS1NlffoQ3PtPo4"
+    },
+    {
+      "album": {
+        "name": "Dil Ki Baatein",
+        "url": "https://open.spotify.com/album/4ODr7SkZXEbrpqPVXHiICw"
+      },
+      "artists": [
+        {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        },
+        {
+          "name": "Vedhvesh",
+          "url": "https://open.spotify.com/artist/0ohyGNDLNwfkMlkvGMvUhG"
+        },
+        {
+          "name": "Rahul Simaro",
+          "url": "https://open.spotify.com/artist/0ZFQgTOJXMdSg0PK1xunql"
+        },
+        {
+          "name": "Jashar Singh",
+          "url": "https://open.spotify.com/artist/4dAiyFO8k2ELa6Ywog9saj"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Dil Ki Baatein",
+      "url": "https://open.spotify.com/track/5Oqbo6w89oE2RqaIKReCBB"
     },
     {
       "album": {
@@ -7422,7 +7452,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 264843,
       "name": "Farratta - From \"Haiwaan\"",
       "url": "https://open.spotify.com/track/55MRq20qtWZCzRBIZJuYAy"
@@ -8666,7 +8696,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 153662,
       "name": "Har Roz",
       "url": "https://open.spotify.com/track/399Pd71ccPH7jEVOuZ08sM"
@@ -9531,6 +9561,28 @@
     },
     {
       "album": {
+        "name": "I Met Her Again",
+        "url": "https://open.spotify.com/album/4Vkrye5i3q1Hd5Tb7dfDBy"
+      },
+      "artists": [
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        },
+        {
+          "name": "tav",
+          "url": "https://open.spotify.com/artist/0vBZXvMTqOaXp3oKnrpvoy"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216176,
+      "name": "I Met Her Again",
+      "url": "https://open.spotify.com/track/0iAV4HUaAXBZ4U1EBNVM94"
+    },
+    {
+      "album": {
         "name": "Jolly LLB 3 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6amd5xIbew4lKawa5jbFHC"
       },
@@ -9986,6 +10038,28 @@
       "duration_ms": 188144,
       "name": "Ishq Kameena 2.0 (From \"Baby Do Die Do\")",
       "url": "https://open.spotify.com/track/7qi9PyWVq0Rt0eaVdiS8hg"
+    },
+    {
+      "album": {
+        "name": "Ishq Ke Rang",
+        "url": "https://open.spotify.com/album/78KIJsnSPqsrichT4R4gbw"
+      },
+      "artists": [
+        {
+          "name": "Subhranil Paul",
+          "url": "https://open.spotify.com/artist/4EqjmfWeakKJdFZkoZd3vb"
+        },
+        {
+          "name": "Agni Varan Ruhela",
+          "url": "https://open.spotify.com/artist/5PDvs9cePuBWfxMfijRj27"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223442,
+      "name": "Ishq Ke Rang",
+      "url": "https://open.spotify.com/track/7vwIKYNjHMnI6hhW30fSYF"
     },
     {
       "album": {
@@ -14252,7 +14326,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 247130,
       "name": "Maahiya (From \"The Revolutionaries\")",
       "url": "https://open.spotify.com/track/4TK29ZgYaCsCHmGba8fUjR"
@@ -14382,6 +14456,28 @@
       "duration_ms": 202013,
       "name": "Mafia",
       "url": "https://open.spotify.com/track/0Z8kwhMDaj9lAlukRDNfXV"
+    },
+    {
+      "album": {
+        "name": "Maharani (From \u201cPooja Meri Jaan\u201d)",
+        "url": "https://open.spotify.com/album/5ZOwS5SM4MxwjpE6EOBX5w"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146557,
+      "name": "Maharani - From \u201cPooja Meri Jaan\u201d",
+      "url": "https://open.spotify.com/track/1MVl3wbpvIlTG9Mt5ifjYS"
     },
     {
       "album": {
@@ -15623,6 +15719,28 @@
     },
     {
       "album": {
+        "name": "Mere Rehte (From \"Prahaar: The Untold Story Of Ujjwal Nikam\")",
+        "url": "https://open.spotify.com/album/0vJgCachzFFGKUDh93PJqR"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229080,
+      "name": "Mere Rehte (From \"Prahaar: The Untold Story Of Ujjwal Nikam\")",
+      "url": "https://open.spotify.com/track/2gzOTWdmu0WFCUckEfM5dT"
+    },
+    {
+      "album": {
         "name": "Meri Jagah",
         "url": "https://open.spotify.com/album/4Ke9HX7WrMIGZeDy2eZsAY"
       },
@@ -16222,7 +16340,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 243851,
       "name": "Mulaqatein",
       "url": "https://open.spotify.com/track/2zbpyEEnlgyY1lVWjt1NOM"
@@ -16392,6 +16510,28 @@
       "duration_ms": 244405,
       "name": "Naadaani",
       "url": "https://open.spotify.com/track/0QNBk6UmE2uOUNdEsGpe7R"
+    },
+    {
+      "album": {
+        "name": "Naal Naal Ve",
+        "url": "https://open.spotify.com/album/6hS0LHNH8te8zHRD67IWSe"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Suvarna Tiwari",
+          "url": "https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187806,
+      "name": "Naal Naal Ve",
+      "url": "https://open.spotify.com/track/2TFbVOp5TlWXjYYordWhC6"
     },
     {
       "album": {
@@ -17782,7 +17922,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 239268,
       "name": "Papa Hero Tum Mere",
       "url": "https://open.spotify.com/track/1xV3BfYVnmlHl5lsd0g82m"
@@ -19550,7 +19690,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 206511,
       "name": "Rangiyara - From \"Haiwaan\"",
       "url": "https://open.spotify.com/track/4L9GG0a2VyHrsX0wtj3DiV"
@@ -20000,6 +20140,32 @@
       "duration_ms": 195999,
       "name": "Rubaroo (From \"Dacoit (Hindi)\")",
       "url": "https://open.spotify.com/track/1BL70Rng08HaglYhcd4i1K"
+    },
+    {
+      "album": {
+        "name": "Dupahiya Season 2",
+        "url": "https://open.spotify.com/album/42cQ8YfIsSmTHGzgsvmrDc"
+      },
+      "artists": [
+        {
+          "name": "Somesh Saha",
+          "url": "https://open.spotify.com/artist/3jbijAHhOiLMrkdusvmNwA"
+        },
+        {
+          "name": "Amitosh Nagpal",
+          "url": "https://open.spotify.com/artist/6n9crAbAVqho9rSkr89BO4"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92028,
+      "name": "Ruke Na Mann",
+      "url": "https://open.spotify.com/track/6m0bquKrcC3n08gH0wQMd0"
     },
     {
       "album": {
@@ -21323,6 +21489,32 @@
     },
     {
       "album": {
+        "name": "Shayad (From \"Main Na Raha Mera\")",
+        "url": "https://open.spotify.com/album/6PLD8aDAKRoUyoMIOCOnPp"
+      },
+      "artists": [
+        {
+          "name": "Rahul Nair",
+          "url": "https://open.spotify.com/artist/6PlTYCcqKJZoIE9i6OzirQ"
+        },
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Dev Pandey",
+          "url": "https://open.spotify.com/artist/7BFiQmFfvPKZ8S4Hk04t2f"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277015,
+      "name": "Shayad (From \"Main Na Raha Mera\")",
+      "url": "https://open.spotify.com/track/1n2O9F2uNB7VPxbT3tlnyX"
+    },
+    {
+      "album": {
         "name": "Shayar",
         "url": "https://open.spotify.com/album/6z76dxrDRnqYJ4Feju67dY"
       },
@@ -21368,7 +21560,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 152640,
       "name": "Shehar - From \"Last Man in Tower\"",
       "url": "https://open.spotify.com/track/7wVRydUj7rKmi3X1qZDdDo"
@@ -22846,7 +23038,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 266125,
       "name": "Tere Alava",
       "url": "https://open.spotify.com/track/1m3YMwToiCq4Yt06n4xSfX"
@@ -24634,6 +24826,32 @@
       "duration_ms": 342400,
       "name": "Tujhko - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/34bZqssAITx04EAzcffySn"
+    },
+    {
+      "album": {
+        "name": "Prem Keetanu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1f1zjQtWSSLFHMF92UYY5O"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Rahul Mishra",
+          "url": "https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr"
+        },
+        {
+          "name": "Meer",
+          "url": "https://open.spotify.com/artist/6DmyMZv3lelGiNWVoceuYj"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186521,
+      "name": "Tujhse Bichad Ke - From \"Prem Keetanu\"",
+      "url": "https://open.spotify.com/track/6moO5LyJbRASm0uPrBnGlu"
     },
     {
       "album": {

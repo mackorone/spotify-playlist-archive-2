@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20419,
+  "num_followers": 20418,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Przed Zmierzchem",
-        "url": "https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD"
-      },
-      "artists": [
-        {
-          "name": "Chrust",
-          "url": "https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA"
-        },
-        {
-          "name": "Krzysztof Falkowski",
-          "url": "https://open.spotify.com/artist/2VJHyS9wj5qYaUyRtae5RN"
-        }
-      ],
-      "duration_ms": 159803,
-      "name": "TEMPO",
-      "url": "https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Homage",
         "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 251514,
       "name": "Love in the Garden",
       "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Przed Zmierzchem",
+        "url": "https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD"
+      },
+      "artists": [
+        {
+          "name": "Chrust",
+          "url": "https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA"
+        },
+        {
+          "name": "Krzysztof Falkowski",
+          "url": "https://open.spotify.com/artist/2VJHyS9wj5qYaUyRtae5RN"
+        }
+      ],
+      "duration_ms": 159803,
+      "name": "TEMPO",
+      "url": "https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1347,30 +1347,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/1G84svAz13TPJdzEIPNOmV"
+        "name": "neurodivergent",
+        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
       },
       "artists": [
         {
-          "name": "Mateusz Smoczy\u0144ski",
-          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
-        },
-        {
-          "name": "Dominik Wania",
-          "url": "https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd"
-        },
-        {
-          "name": "Micha\u0142 Klauza",
-          "url": "https://open.spotify.com/artist/1jzmkyObn3lNRKbszuxKIQ"
-        },
-        {
-          "name": "Polish Radio Orchestra in Warsaw",
-          "url": "https://open.spotify.com/artist/1OTaslfOSJB1VjohbZDYFt"
+          "name": "Aga Derlak",
+          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
         }
       ],
-      "duration_ms": 188516,
-      "name": "Fallen Angel: IV. Fire",
-      "url": "https://open.spotify.com/track/77FPbX7cVpo3S35cmHfrhZ"
+      "duration_ms": 568547,
+      "name": "is it",
+      "url": "https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1395,18 +1383,30 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "neurodivergent",
-        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/1G84svAz13TPJdzEIPNOmV"
       },
       "artists": [
         {
-          "name": "Aga Derlak",
-          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
+          "name": "Mateusz Smoczy\u0144ski",
+          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
+        },
+        {
+          "name": "Dominik Wania",
+          "url": "https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd"
+        },
+        {
+          "name": "Micha\u0142 Klauza",
+          "url": "https://open.spotify.com/artist/1jzmkyObn3lNRKbszuxKIQ"
+        },
+        {
+          "name": "Polish Radio Orchestra in Warsaw",
+          "url": "https://open.spotify.com/artist/1OTaslfOSJB1VjohbZDYFt"
         }
       ],
-      "duration_ms": 189475,
-      "name": "number 4",
-      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
+      "duration_ms": 188516,
+      "name": "Fallen Angel: IV. Fire",
+      "url": "https://open.spotify.com/track/77FPbX7cVpo3S35cmHfrhZ"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Wsch\u00f3d",
-        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
+        "name": "neurodivergent",
+        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
       },
       "artists": [
         {
-          "name": "Karolina B\u0142achnia",
-          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
+          "name": "Aga Derlak",
+          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
         }
       ],
-      "duration_ms": 470111,
-      "name": "Dawno I Nieprawda",
-      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
+      "duration_ms": 189475,
+      "name": "number 4",
+      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "neurodivergent",
-        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
+        "name": "Wsch\u00f3d",
+        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
       },
       "artists": [
         {
-          "name": "Aga Derlak",
-          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
+          "name": "Karolina B\u0142achnia",
+          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
         }
       ],
-      "duration_ms": 568547,
-      "name": "is it",
-      "url": "https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ"
+      "duration_ms": 470111,
+      "name": "Dawno I Nieprawda",
+      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
     }
   ],
   "unique_name": "Fryderyk 2026",

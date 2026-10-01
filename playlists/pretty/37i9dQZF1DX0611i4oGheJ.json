@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 542898,
+  "num_followers": 543016,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -91,38 +91,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Hozier (Special Edition)",
-        "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Do I Wanna Know? - Live At the BBC",
-      "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 345040,
-      "name": "Leap Year",
-      "url": "https://open.spotify.com/track/1JMyndqIXDM7cKmRu3nFws"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -147,6 +115,38 @@
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 345040,
+      "name": "Leap Year",
+      "url": "https://open.spotify.com/track/1JMyndqIXDM7cKmRu3nFws"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Hozier (Special Edition)",
+        "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Do I Wanna Know? - Live At the BBC",
+      "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Now Would Be A Good Time",
-        "url": "https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 199258,
-      "name": "God's A Different Sword",
-      "url": "https://open.spotify.com/track/6HnF46ePB8hypcS0q1x9Tn"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/7nhmuSa4VnloZWAQhKCmtn"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 264524,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/5ZgSjcbX3EPbYszNBPvUHz"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Now Would Be A Good Time",
+        "url": "https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 199258,
+      "name": "God's A Different Sword",
+      "url": "https://open.spotify.com/track/6HnF46ePB8hypcS0q1x9Tn"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Mercy Kill (Schr\u00f6dinger's Cat)",
         "url": "https://open.spotify.com/album/53Vg1kYw2p14ClsJkdXBMu"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
       },
       "artists": [
         {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
+      "duration_ms": 174373,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1039,6 +1023,22 @@
       "duration_ms": 203706,
       "name": "So Long Baby",
       "url": "https://open.spotify.com/track/2gvRGKDwoBys2tuLpSc2ij"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Looking For Nothing",
-        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
-      },
-      "artists": [
-        {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Looking For Nothing",
-      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Made Of Stars",
         "url": "https://open.spotify.com/album/7HGw7ZZAQmx8CghF9J7iBG"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "Looking For Nothing",
+        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
+      },
+      "artists": [
+        {
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Looking For Nothing",
+      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/0r5vhczT2ZrLvcexgHm6FZ"
+      },
+      "artists": [
+        {
+          "name": "Elissa Mielke",
+          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
+        }
+      ],
+      "duration_ms": 282949,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0X8eGhubqm8t6376TCZB61"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Soho House Valet",
-        "url": "https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa"
-      },
-      "artists": [
-        {
-          "name": "Gatlin",
-          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
-        }
-      ],
-      "duration_ms": 242223,
-      "name": "Soho House Valet",
-      "url": "https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Palace (Cover) / Diane",
         "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/0r5vhczT2ZrLvcexgHm6FZ"
-      },
-      "artists": [
-        {
-          "name": "Elissa Mielke",
-          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
-        }
-      ],
-      "duration_ms": 282949,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0X8eGhubqm8t6376TCZB61"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Collarbones",
         "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 180947,
       "name": "Collarbones",
       "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Soho House Valet",
+        "url": "https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "duration_ms": 242223,
+      "name": "Soho House Valet",
+      "url": "https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "Steady Now",
         "url": "https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY"
       },
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY"
+        "name": "You're Already There",
+        "url": "https://open.spotify.com/album/6ouIo2cSY03JmfowzMYNxS"
       },
       "artists": [
         {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
         }
       ],
-      "duration_ms": 247253,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun"
+      "duration_ms": 153900,
+      "name": "You're Already There",
+      "url": "https://open.spotify.com/track/6FBysoHxNcpqiYz8nOcIbJ"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1735,22 +1751,6 @@
       "duration_ms": 383080,
       "name": "Ever New - Reworked by Bon Iver & Flock of Dimes Single Version",
       "url": "https://open.spotify.com/track/02BFhF6HybAE3vjBX9ptjS"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "You're Already There",
-        "url": "https://open.spotify.com/album/6ouIo2cSY03JmfowzMYNxS"
-      },
-      "artists": [
-        {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
-        }
-      ],
-      "duration_ms": 153900,
-      "name": "You're Already There",
-      "url": "https://open.spotify.com/track/6FBysoHxNcpqiYz8nOcIbJ"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Mending Song",
         "url": "https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 229560,
       "name": "Mending Song",
       "url": "https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2026-09-25 04:00:27",

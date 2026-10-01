@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Gazo, La Mano 1.9",
-  "num_followers": 24223,
+  "num_followers": 24243,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,22 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "Pineapple",
-        "url": "https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx"
+        "name": "Fille \u00e0 Papa",
+        "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
         }
       ],
-      "duration_ms": 160487,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB"
+      "duration_ms": 169586,
+      "name": "Fille \u00e0 Papa",
+      "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -243,22 +247,18 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "Fille \u00e0 Papa",
-        "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
+        "name": "Pineapple",
+        "url": "https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 169586,
-      "name": "Fille \u00e0 Papa",
-      "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
+      "duration_ms": 160487,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
+        "name": "Grand Gar\u00e7on",
+        "url": "https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 128920,
+      "name": "Tu dors ?",
+      "url": "https://open.spotify.com/track/6JnsxE0leMVkUvTV0n969D"
+    },
+    {
+      "added_at": "2026-09-25 11:51:26",
+      "album": {
         "name": "SPA",
         "url": "https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 183307,
       "name": "SPA",
       "url": "https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q"
-    },
-    {
-      "added_at": "2026-09-25 11:51:26",
-      "album": {
-        "name": "Grand Gar\u00e7on",
-        "url": "https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 128920,
-      "name": "Tu dors ?",
-      "url": "https://open.spotify.com/track/6JnsxE0leMVkUvTV0n969D"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -855,18 +855,22 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "\u00c0 tes c\u00f4t\u00e9s",
-        "url": "https://open.spotify.com/album/1TnTcUJwKAquK4VFysI4YA"
+        "name": "Histoire sans fin",
+        "url": "https://open.spotify.com/album/02JpjRR8wn25lHoyMQzbEj"
       },
       "artists": [
         {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        },
+        {
+          "name": "MATHILDE",
+          "url": "https://open.spotify.com/artist/0LcXDxH8dn2AGnkDPFIdW1"
         }
       ],
-      "duration_ms": 147462,
-      "name": "\u00c0 tes c\u00f4t\u00e9s",
-      "url": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3"
+      "duration_ms": 209617,
+      "name": "Histoire sans fin",
+      "url": "https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -907,22 +911,18 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "Histoire sans fin",
-        "url": "https://open.spotify.com/album/02JpjRR8wn25lHoyMQzbEj"
+        "name": "\u00c0 tes c\u00f4t\u00e9s",
+        "url": "https://open.spotify.com/album/1TnTcUJwKAquK4VFysI4YA"
       },
       "artists": [
         {
-          "name": "BEN plg",
-          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
-        },
-        {
-          "name": "MATHILDE",
-          "url": "https://open.spotify.com/artist/0LcXDxH8dn2AGnkDPFIdW1"
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
         }
       ],
-      "duration_ms": 209617,
-      "name": "Histoire sans fin",
-      "url": "https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8"
+      "duration_ms": 147462,
+      "name": "\u00c0 tes c\u00f4t\u00e9s",
+      "url": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -959,26 +959,22 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "NETFLIX CHILL",
-        "url": "https://open.spotify.com/album/2jJBGEZ6vfmQXQ4qJUeVq2"
+        "name": "BLOQU\u00c9",
+        "url": "https://open.spotify.com/album/5HZSEWInouI6tWp1C3ousL"
       },
       "artists": [
         {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         },
         {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        },
-        {
-          "name": "PRINC\u20ac",
-          "url": "https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj"
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
         }
       ],
-      "duration_ms": 148676,
-      "name": "NETFLIX CHILL",
-      "url": "https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD"
+      "duration_ms": 201103,
+      "name": "BLOQU\u00c9",
+      "url": "https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -1003,22 +999,26 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "BLOQU\u00c9",
-        "url": "https://open.spotify.com/album/5HZSEWInouI6tWp1C3ousL"
+        "name": "NETFLIX CHILL",
+        "url": "https://open.spotify.com/album/2jJBGEZ6vfmQXQ4qJUeVq2"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
         },
         {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "PRINC\u20ac",
+          "url": "https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj"
         }
       ],
-      "duration_ms": 201103,
-      "name": "BLOQU\u00c9",
-      "url": "https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD"
+      "duration_ms": 148676,
+      "name": "NETFLIX CHILL",
+      "url": "https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "RAP d\u2019arabe",
-        "url": "https://open.spotify.com/album/5k4CfMeOgL4wICbkzmWODJ"
-      },
-      "artists": [
-        {
-          "name": "Sa\u00eff",
-          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
-        }
-      ],
-      "duration_ms": 181829,
-      "name": "RAP d\u2019arabe",
-      "url": "https://open.spotify.com/track/6GptmYh60KaZ2QfUEfjOby"
-    },
-    {
-      "added_at": "2026-09-25 11:51:26",
-      "album": {
         "name": "Typhee | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 174000,
       "name": "TERIYAKI - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1kbzRJsAFqLuAHZRDH7L5A"
+    },
+    {
+      "added_at": "2026-09-25 11:51:26",
+      "album": {
+        "name": "RAP d\u2019arabe",
+        "url": "https://open.spotify.com/album/5k4CfMeOgL4wICbkzmWODJ"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00eff",
+          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
+        }
+      ],
+      "duration_ms": 181829,
+      "name": "RAP d\u2019arabe",
+      "url": "https://open.spotify.com/track/6GptmYh60KaZ2QfUEfjOby"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "Insolent",
-        "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
-      },
-      "artists": [
-        {
-          "name": "Mous-K",
-          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
-        }
-      ],
-      "duration_ms": 262557,
-      "name": "Le Bon Samaritain",
-      "url": "https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6"
-    },
-    {
-      "added_at": "2026-09-25 11:51:26",
-      "album": {
         "name": "LA VAR",
         "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 102352,
       "name": "LA VAR",
       "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
+    },
+    {
+      "added_at": "2026-09-25 11:51:26",
+      "album": {
+        "name": "Insolent",
+        "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
+      },
+      "artists": [
+        {
+          "name": "Mous-K",
+          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
+        }
+      ],
+      "duration_ms": 262557,
+      "name": "Le Bon Samaritain",
+      "url": "https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
+        "name": "Les avions dessinent dans le ciel",
+        "url": "https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        }
+      ],
+      "duration_ms": 183694,
+      "name": "Les avions dessinent dans le ciel",
+      "url": "https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci"
+    },
+    {
+      "added_at": "2026-09-25 11:51:26",
+      "album": {
         "name": "Dans la temp\u00eate",
         "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 150741,
       "name": "Saison",
       "url": "https://open.spotify.com/track/1ajWju5j00x9HeUXzGtuxb"
-    },
-    {
-      "added_at": "2026-09-25 11:51:26",
-      "album": {
-        "name": "Les avions dessinent dans le ciel",
-        "url": "https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh"
-      },
-      "artists": [
-        {
-          "name": "BEN plg",
-          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
-        }
-      ],
-      "duration_ms": 183694,
-      "name": "Les avions dessinent dans le ciel",
-      "url": "https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci"
     },
     {
       "added_at": "2026-09-25 11:51:26",
@@ -1815,22 +1815,22 @@
     {
       "added_at": "2026-09-25 11:51:26",
       "album": {
-        "name": "MALVADO - R\u00c9\u00c9DITION",
-        "url": "https://open.spotify.com/album/7esGpcVtzjcjCBkd9IGVNb"
+        "name": "Billets Mauves (feat. SDM)",
+        "url": "https://open.spotify.com/album/3rkAyXIdYPtoyw7OCZ7WOF"
       },
       "artists": [
         {
-          "name": "Lesram",
-          "url": "https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03"
+          "name": "Stavo",
+          "url": "https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg"
         },
         {
-          "name": "Nekfeu",
-          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 204331,
-      "name": "DIS MOI (feat. Nekfeu)",
-      "url": "https://open.spotify.com/track/7siTckJKPsmo26zJ45mBWW"
+      "duration_ms": 207991,
+      "name": "Billets Mauves (feat. SDM)",
+      "url": "https://open.spotify.com/track/3yz9i3umZaQTIlUYb8o6bn"
     }
   ],
   "unique_name": "Rap francophone",

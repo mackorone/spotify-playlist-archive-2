@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,138 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,223 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,12 +128,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 118 | [Keen On Boys](https://open.spotify.com/track/0dCfgEyxU3RyOBtAZw3vPm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Marie Antoinette \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0C8pr3dnMPistlH58MkMc4) | 4:49 |
 | 119 | [When I Tried](https://open.spotify.com/track/7M439GhksUYrts5IEScnDq) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Expect the Best](https://open.spotify.com/album/1cvuHdIuQf4Ij4caODhZPb) | 4:42 |
 | 120 | [Off Your Face](https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Glider](https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ) | 4:15 |
-| 121 | [When The Sun Hits](https://open.spotify.com/track/7wE4l1GNxjE2kOmlsx0PcA) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/76Yzub5fwYE4eMwcjlzSDd) | 4:47 |
+| 121 | [Everyone Knows](https://open.spotify.com/track/5gCMldzBtCPajx3JNLtVB6) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:22 |
 | 122 | [Tastes Like Honey](https://open.spotify.com/track/4t0YSm5foVoTYHLpxoK9t2) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/0ySteqpbwjhNcttU9kiAaw) | 4:41 |
 | 123 | [Sugar & Spice](https://open.spotify.com/track/1ZZr5C2vRZCUCrFtHdtWlT) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sugar & Spice](https://open.spotify.com/album/4ugWYdIKaP1af3MCWzyjU0) | 3:08 |
 | 124 | [Boyfriend](https://open.spotify.com/track/3t9fLR1lbPI8QguRVBgiAs) | [Majesty Crush](https://open.spotify.com/artist/0qRadykocaVqX7C4WM8b4t) | [I Love You in Other Cities](https://open.spotify.com/album/5LjqufMHmynqx9QEqWzHko) | 4:22 |
 | 125 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 |
-| 126 | [Everyone Knows](https://open.spotify.com/track/5gCMldzBtCPajx3JNLtVB6) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:22 |
+| 126 | [When The Sun Hits](https://open.spotify.com/track/7wE4l1GNxjE2kOmlsx0PcA) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/76Yzub5fwYE4eMwcjlzSDd) | 4:47 |
 | 127 | [Slow Burner](https://open.spotify.com/track/1K8BOrMP2OvhC3nLEghysM) | [Almighty Mighty](https://open.spotify.com/artist/5YxvZqiTuoUgqEuXTDhM0e) | [Slow Burner](https://open.spotify.com/album/6ebK1vEcESDStL6bMvnsQw) | 5:18 |
 | 128 | [Solar Song](https://open.spotify.com/track/46gX5K76xOjp80hRROhuKy) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Écailles de lune](https://open.spotify.com/album/67g2ZVpS6tLus7uvIt5dZT) | 5:24 |
 | 129 | [For the Kill](https://open.spotify.com/track/7JDoiqNTFEkzHGTUTRz2pG) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Odes to the Void](https://open.spotify.com/album/4i5SFwqCIqlqtNFyYIXojb) | 3:28 |

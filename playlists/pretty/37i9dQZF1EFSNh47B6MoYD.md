@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462 likes - 151 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 151 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 66 | [Como Hubiera Sido?](https://open.spotify.com/track/362tHCKRvCWmcYEdSsHG1E) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:40 |
 | 67 | [El Lugar Que Me Vio Nacer](https://open.spotify.com/track/3YBfSs056lKJKGMPgCjjDF) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:39 |
 | 68 | [Cheque Al Portador](https://open.spotify.com/track/2N8ZfYVa9wDqoc031CgIV4) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Sólo Faltas Tú](https://open.spotify.com/album/6KOsNhSOI1wYdUVXzzmOHX) | 3:28 |
-| 69 | [Hechicera](https://open.spotify.com/track/1KT9yq05mrkWpQYIvC9BAH) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Hechicera](https://open.spotify.com/album/5kZm448aOkmJal9xbHiwh6) | 3:38 |
-| 70 | [Si Estas Paredes Hablaran](https://open.spotify.com/track/3OrFxB3qMlN1pUQdZegMOa) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [Perfecto](https://open.spotify.com/album/3Pe7We0e6yWS59uuL3aJH4) | 3:46 |
-| 71 | [Vete](https://open.spotify.com/track/7uVUxfSd7xiaURQLTaMONb) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [No Es Brujeria](https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4) | 3:11 |
-| 72 | [Se Parece Al Pai](https://open.spotify.com/track/5Vgs8VL8bmRxsHLPgXLN6V) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Parece Al Pai](https://open.spotify.com/album/5PF36AR7ijuX8dW2Zh2ibW) | 3:46 |
+| 69 | [Se Parece Al Pai](https://open.spotify.com/track/5Vgs8VL8bmRxsHLPgXLN6V) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Parece Al Pai](https://open.spotify.com/album/5PF36AR7ijuX8dW2Zh2ibW) | 3:46 |
+| 70 | [Hechicera](https://open.spotify.com/track/1KT9yq05mrkWpQYIvC9BAH) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Hechicera](https://open.spotify.com/album/5kZm448aOkmJal9xbHiwh6) | 3:38 |
+| 71 | [Si Estas Paredes Hablaran](https://open.spotify.com/track/3OrFxB3qMlN1pUQdZegMOa) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [Perfecto](https://open.spotify.com/album/3Pe7We0e6yWS59uuL3aJH4) | 3:46 |
+| 72 | [Vete](https://open.spotify.com/track/7uVUxfSd7xiaURQLTaMONb) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [No Es Brujeria](https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4) | 3:11 |
 | 73 | [Conectando \(Conectando\)](https://open.spotify.com/track/2ikhylgjcAPjpHyVGgm56W) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:35 |
 | 74 | [Mi Mejor Mitad](https://open.spotify.com/track/5TDPTAgxdp3i3tWr3v50Xu) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:23 |
 | 75 | [Mi Mujer Es un Policia](https://open.spotify.com/track/0W9DlZs84KztEtex3eHg99) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Tranquilo y Tropical](https://open.spotify.com/album/1gYTKWdnL1Cb5AAoJUL1NY) | 4:34 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 150 | [Don't Give Up](https://open.spotify.com/track/6ARXRdPercoOClawyz2hOi) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [The Sunshine State](https://open.spotify.com/album/5vkfBiDEnpWdpNqIW7AY37) | 4:14 |
 | 151 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcdougAAAACrmOgVNODRmNh+70S1DoBY`
+Snapshot ID: `AcduWgAAAAC7WG1LYqF8MGv2MTsJsmfY`

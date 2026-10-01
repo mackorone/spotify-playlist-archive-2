@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6muSuAUvee7pzSmVu1Wgys">uv killin em</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 42 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 42 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 41 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 |
 | 42 | [Running Out of Words](https://open.spotify.com/track/4JrgIIauZIucAVBJwz184N) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [Mistakes, etc.](https://open.spotify.com/album/2nvkVRDJnlsy7kIvtoO7w5) | 2:37 |
 
-Snapshot ID: `AcdoxAAAAADJLXPuHpJ2eHCT/LzsnLyP`
+Snapshot ID: `AcduZAAAAAAPZxXHdAHVojwofcGQnG15`

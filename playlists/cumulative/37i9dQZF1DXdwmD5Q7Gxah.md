@@ -4,7 +4,7 @@
 
 > things are getting a lil wacky\. cover: Thoom <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-4,003 songs - 9 day 3 hr 35 min
+4,005 songs - 9 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1516,6 +1516,7 @@
 | [Hella Good](https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 4:02 | 2022-12-14 | 2023-01-21 |
 | [HELLO](https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [HELLO](https://open.spotify.com/album/7ENTmmB50lQi4pvn0w6v25) | 2:42 | 2022-04-01 | 2022-04-22 |
 | [hello !](https://open.spotify.com/track/5kXvq3Av4i43eejvl2GxZq) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [hello !](https://open.spotify.com/album/40TqXlI1fSIQVfx6HmUfaQ) | 2:50 | 2024-10-11 | 2025-03-14 |
+| [Hello \- triple j Like A Version](https://open.spotify.com/track/6B8XcuiJW6IR8YUEfwCfbi) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [triple j](https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1) | [Hello \(triple j Like A Version\)](https://open.spotify.com/album/7fKBbaDDVJlbjjWAuDG2nU) | 3:25 | 2026-09-30 |  |
 | [Hello Hello Hello](https://open.spotify.com/track/1xNknVNOolLB4oQeEtNBX2) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 2:52 | 2020-06-25 | 2020-09-04 |
 | [hello!](https://open.spotify.com/track/6CFEiKms2260GexcAq7LeP) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [hello!](https://open.spotify.com/album/3GNgTISglWHatZe8kUKpaI) | 3:08 | 2019-10-11 | 2020-12-23 |
 | [hello!](https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 3:08 | 2020-12-23 | 2021-03-06 |
@@ -2132,6 +2133,7 @@
 | [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2024-10-10 | 2024-11-22 |
 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2025-01-16 | 2026-05-22 |
 | [Love Trap](https://open.spotify.com/track/5T3WzOr1qHO9RYsuMJC6UN) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Love Trap](https://open.spotify.com/album/52rmgq7Ah95kNSemFMV3Zc) | 2:40 | 2025-02-14 | 2025-03-27 |
+| [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 | 2026-09-30 |  |
 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 | 2023-02-10 | 2023-04-22 |
 | [Love You Anyway](https://open.spotify.com/track/3vxvz0JoRDvnx2jG9oPljA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:57 | 2025-03-21 | 2025-04-05 |
 | [love, or the lack thereof](https://open.spotify.com/track/07s5wOe2qlyWWsf5I5gRxd) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [love, or the lack thereof](https://open.spotify.com/album/4TDZ6koiaFEdZhMvuWqyDk) | 3:07 | 2021-01-07 | 2021-05-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,930 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,958 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 69 | [Mi Complice](https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:08 |
 | 70 | [Mi Decisión](https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Mi Decisión](https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd) | 4:14 |
 | 71 | [El Chorito de Violeta](https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU), [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Cumbias](https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY) | 3:55 |
-| 72 | [El Sol No Regresa](https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [El Sol No Regresa](https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH) | 2:54 |
-| 73 | [La Rumbera](https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL) | [Los Cumbieros](https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF) | [12 Años de Historia](https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn) | 2:58 |
+| 72 | [La Rumbera](https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL) | [Los Cumbieros](https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF) | [12 Años de Historia](https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn) | 2:58 |
+| 73 | [El Sol No Regresa](https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [El Sol No Regresa](https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH) | 2:54 |
 | 74 | [Como Tú](https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu) | [Tornado Ranchero](https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl) | [Tornado Ranchero](https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON) | 4:27 |
 | 75 | [Allá Va la Liebre](https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE) | [Los Perros del Monte](https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Una Hora para Bailar](https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B) | 3:21 |
 | 76 | [Por Andar de Patas Negras](https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Por Andar de Patas Negras](https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7) | 3:54 |
-| 77 | [Tarjetita de Invitacion](https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Tarjetita de Invitación](https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU) | 3:44 |
-| 78 | [Me Opongo](https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7) | [J Matt](https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96) | [Me Opongo](https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d) | 2:57 |
+| 77 | [Me Opongo](https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7) | [J Matt](https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96) | [Me Opongo](https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d) | 2:57 |
+| 78 | [Tarjetita de Invitacion](https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Tarjetita de Invitación](https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU) | 3:44 |
 | 79 | [Como Quisiera Poder](https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae) | [Los Hermanos Sandoval De Calbuco](https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm) | [Todos a la Pista](https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e) | 4:30 |
 | 80 | [Me Voy a Lanzar](https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g) | [Me Voy a Lanzar](https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt) | 2:57 |
 | 81 | [Somos Infieles](https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Somos Infieles](https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC) | 3:19 |

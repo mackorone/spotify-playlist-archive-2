@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: TOMOO
 
-1,744 songs - 4 day 13 hr 12 min
+1,744 songs - 4 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Machi....](https://open.spotify.com/track/7ENZ2lMGtjNgyN0cHVEJZz) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [Machi....](https://open.spotify.com/album/1xp7bm3K4XSdqWG7ZVHTn7) | 6:25 | 2024-12-10 | 2025-03-26 |
 | [Mad Hope \(feat\. Louis Cole, Sam Gendel, Sam Wilkes\)](https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Gen](https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs) | 3:28 | 2025-05-13 | 2025-07-14 |
 | [Magic](https://open.spotify.com/track/6WyqwvGXdSdOipKBESSDKI) | [RLOEVO](https://open.spotify.com/artist/3dz08OK3pJYraaLrwrVWg0) | [Magic](https://open.spotify.com/album/2G6L8gwcR9wKUFHMGt4MUY) | 3:33 | 2026-04-14 | 2026-07-29 |
+| [Make, make, make songs](https://open.spotify.com/track/6jmdF6C6NGENcYDVHNxptD) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [DTRM](https://open.spotify.com/album/5LTygSMSh1sb2WXa4BjMZ9) | 3:02 | 2026-09-29 |  |
 | [Maps to the stars](https://open.spotify.com/track/01M32J6u1o0uQpya6GbEn9) | [Loupx garoux](https://open.spotify.com/artist/59Rp7Pu3sKPJS4sZKZOv3N) | [暗野](https://open.spotify.com/album/787KBEtjeZGV6lEcrgLnJp) | 5:14 | 2024-10-01 | 2024-11-20 |
 | [Maria](https://open.spotify.com/track/18VuhHFkLgezrogT72sCfi) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Maria](https://open.spotify.com/album/3cYcU11gO5RAyMj8w60YR2) | 3:02 | 2025-04-08 | 2025-04-16 |
 | [marriage](https://open.spotify.com/track/4dzBSK1zA7EQ4VBIOLEUUR) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4) | [marriage](https://open.spotify.com/album/4z8FkDkZVgRa9qDtDoRVMu) | 3:45 | 2025-03-25 | 2025-04-02 |
@@ -749,7 +750,6 @@
 | [Tonari no Machi](https://open.spotify.com/track/0PmMx3te9Ab1qs9LVespmk) | [望月ヒナタ](https://open.spotify.com/artist/4VGKxbTlK8S2rHhrR6oLh9) | [Tonari no Machi](https://open.spotify.com/album/5qB08Nl2RJeRCcEhqM1lbd) | 4:24 | 2026-07-28 | 2026-08-05 |
 | [TONGO \- Feat.松重豊](https://open.spotify.com/track/3lsNooWcDZtv5IqLBIpYqH) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI), [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50) | [TONGO \(Feat.松重豊\)](https://open.spotify.com/album/4JHpBsNaT4m35TipUmpvyr) | 3:23 | 2025-11-04 | 2025-11-12 |
 | [Toxic Luv](https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Toxic Luv](https://open.spotify.com/album/29tAiHG6vz4qsZhAw22Pkb) | 2:19 | 2025-08-12 | 2025-08-20 |
-| [Track 11](https://open.spotify.com/track/6jmdF6C6NGENcYDVHNxptD) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [DTRM](https://open.spotify.com/album/5LTygSMSh1sb2WXa4BjMZ9) | 0:00 | 2026-09-29 |  |
 | [Traffic Light \(prod\. Shingo Suzuki\)](https://open.spotify.com/track/1HG5ywdkdqGlW7IwQdXLbs) | [magora](https://open.spotify.com/artist/0AHQL12KXrcq9IzIBl0Wo2) | [Traffic Light \(prod\. Shingo Suzuki\)](https://open.spotify.com/album/7ilStTWLuncqmFfsumOXLs) | 3:41 | 2026-05-26 | 2026-06-03 |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-07-02 | 2024-12-25 |
 | [Trésor](https://open.spotify.com/track/22rjO66CqqLJcJ0m0Gks9Z) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Trésor / Yesterday Once More](https://open.spotify.com/album/44WwN6a4AF7Xbs7bUI4kXH) | 4:32 | 2024-07-26 | 2024-07-31 |

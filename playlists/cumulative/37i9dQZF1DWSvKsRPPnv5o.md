@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: AZ Chike
 
-1,766 songs - 3 day 9 hr 57 min
+1,767 songs - 3 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [Ghetto Praise](https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6) | [Jay 305](https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Ghetto Praise](https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc) | 3:13 | 2022-04-29 | 2022-06-25 |
 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 | 2022-09-09 | 2022-11-19 |
 | [Gifts](https://open.spotify.com/track/4mN1f3BBrROfAA4Ug8YC3L) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Gifts](https://open.spotify.com/album/2ig9FnoV1yDd3QhDKRwdgz) | 2:29 | 2025-07-18 | 2025-08-09 |
+| [Girls](https://open.spotify.com/track/5IySeU36jFaB0w3nWTgSw7) | [LilGoatD3](https://open.spotify.com/artist/5yvm4IFQnkMTusgdCUI8Cw), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Girls](https://open.spotify.com/album/3DMu9G6iAFTU3CkhDExPf5) | 3:17 | 2026-09-30 |  |
 | [Give Me That P Word \(feat\. Lil Vada\)](https://open.spotify.com/track/6B3hukLvWSoDJ2MqfNVlyP) | [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Give Me That P Word \(feat\. Lil Vada\)](https://open.spotify.com/album/2KZ9YI9j6urw02U6FFiSGl) | 2:30 | 2023-06-23 | 2023-07-29 |
 | [Glasshouse Knockin'](https://open.spotify.com/track/6MQtJ3infBYmN3scogJ4Ac) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Night Shift](https://open.spotify.com/album/60hrxgJN3QfheGpVzEcUFR) | 2:27 | 2023-11-10 | 2024-01-13 |
 | [Glock's & AK's](https://open.spotify.com/track/0jn0tCVayrQqg9zvzn0PFr) | [Rob Vicious](https://open.spotify.com/artist/2gGtD7OGXbNZAY3oCZvZqA) | [Glock's & AK's](https://open.spotify.com/album/3GreW61IzoojtH4KYIW6RB) | 2:14 | 2023-10-13 | 2024-02-18 |

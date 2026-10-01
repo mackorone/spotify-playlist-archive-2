@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,806 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,815 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 46 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |
 | 47 | [Crazy You](https://open.spotify.com/track/7H4IsC0YmKnAjbGVGZGMQo) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [For You](https://open.spotify.com/album/0IofYnPCppEIKAJmc517JS) | 2:17 |
 | 48 | [On II U](https://open.spotify.com/track/53xwpkpxBcT68XCoHJZ9ez) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [The Beauty of Everything, Pt\. 1](https://open.spotify.com/album/2ZFbwp6Z8jP1kwaZTFIryc) | 4:40 |
-| 49 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 |
-| 50 | [Just Sayin/I Tried](https://open.spotify.com/track/0dtSFx5d01pUvWY1d4mskP) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Insecure: Music from the HBO Original Series](https://open.spotify.com/album/768HEXhXFM0O8cP2ObI3RA) | 6:52 |
+| 49 | [Just Sayin/I Tried](https://open.spotify.com/track/0dtSFx5d01pUvWY1d4mskP) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Insecure: Music from the HBO Original Series](https://open.spotify.com/album/768HEXhXFM0O8cP2ObI3RA) | 6:52 |
+| 50 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 |
 
 Snapshot ID: `AAAAAKA49oUOAIEa3h91WJnrJP5dvnP4`

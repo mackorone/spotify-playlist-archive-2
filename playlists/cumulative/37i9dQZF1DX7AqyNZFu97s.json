@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: pyncher",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Saint Demarcus",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Aggy Organ",
+        "url": "https://open.spotify.com/album/3cJrYg3MfdsvJuhXxBc14z"
+      },
+      "artists": [
+        {
+          "name": "Charlie Powell",
+          "url": "https://open.spotify.com/artist/7elzzq09RJe28w2d7kNRru"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Aggy Organ",
+      "url": "https://open.spotify.com/track/1uDFHGRQTPrUmj2NQGOOeW"
+    },
+    {
+      "album": {
         "name": "AHH!!",
         "url": "https://open.spotify.com/album/2L7RSE9OW0awXvlC5NJB83"
       },
@@ -3240,6 +3258,24 @@
       "duration_ms": 220396,
       "name": "Anghyfarwydd Haul",
       "url": "https://open.spotify.com/track/5zcjcim2VUVAzbOrfokrJk"
+    },
+    {
+      "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/39JZEVlJ6VQKs2YQSsRHR1"
+      },
+      "artists": [
+        {
+          "name": "Josie Oliver",
+          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180471,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/7Bc1B6UheBQpCaO5HfIdfe"
     },
     {
       "album": {
@@ -9637,6 +9673,24 @@
     },
     {
       "album": {
+        "name": "Heirloom",
+        "url": "https://open.spotify.com/album/1kE3HHzc7SWvrkOQdlJR20"
+      },
+      "artists": [
+        {
+          "name": "Sarah Crean",
+          "url": "https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169226,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/5wmpKJzYB6Urv9xbeDxmkf"
+    },
+    {
+      "album": {
         "name": "Can I Be Honest?",
         "url": "https://open.spotify.com/album/6j0EK38VV6UoDcmeaaAM5h"
       },
@@ -10228,7 +10282,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 146750,
       "name": "Cashmere",
       "url": "https://open.spotify.com/track/1yUusaa1hyYWRwWoRf7HPG"
@@ -25338,7 +25392,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 263560,
       "name": "Hatching",
       "url": "https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky"
@@ -33088,6 +33142,24 @@
       "duration_ms": 147226,
       "name": "Juice",
       "url": "https://open.spotify.com/track/6AymlXifX09iqwpzUtB2Ix"
+    },
+    {
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4plw6OTOlvHWdmvELmLlux"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/3NNpUKkpqwzAS2uGbhEjoU"
     },
     {
       "album": {
@@ -44706,7 +44778,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 161600,
       "name": "ON THE MAP",
       "url": "https://open.spotify.com/track/44hOIuDj5tYJ0d8XDpzVbp"
@@ -44796,7 +44868,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 208291,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/3eE5KGR1D2E3bROi9fivg7"
@@ -51410,7 +51482,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 214336,
       "name": "Sabbath Deep Cuts",
       "url": "https://open.spotify.com/track/0ytgwF282jWaH1rtTsJMgc"
@@ -51718,6 +51790,24 @@
       "duration_ms": 194997,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/5j2SqztF8Smh8Vu91RxEMO"
+    },
+    {
+      "album": {
+        "name": "Satisfeen",
+        "url": "https://open.spotify.com/album/0bBYXNQ9RYpJQ3LfFmSEWA"
+      },
+      "artists": [
+        {
+          "name": "Saint Demarcus",
+          "url": "https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198476,
+      "name": "Satisfeen",
+      "url": "https://open.spotify.com/track/2VBcAxYv50J8JghXP5JcBs"
     },
     {
       "album": {
@@ -53188,6 +53278,24 @@
       "duration_ms": 233493,
       "name": "She Writes Fanfiction",
       "url": "https://open.spotify.com/track/14bpbkf67ZZpI2a0y2ghTB"
+    },
+    {
+      "album": {
+        "name": "The Balancing Act",
+        "url": "https://open.spotify.com/album/4y2H8UBqF95m7ZchfKh0f9"
+      },
+      "artists": [
+        {
+          "name": "Brook Rivers",
+          "url": "https://open.spotify.com/artist/6FQWOxp2ba6XMZVhsJuCwL"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "She's On My Mind Again",
+      "url": "https://open.spotify.com/track/22z2Ckow38vF7Q3QPlgdDv"
     },
     {
       "album": {
@@ -56326,7 +56434,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 257391,
       "name": "step 2 light 3",
       "url": "https://open.spotify.com/track/4YiGjvEgbsdL2SexhxCxwn"
@@ -61844,7 +61952,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 159272,
       "name": "too many days i've spent waiting",
       "url": "https://open.spotify.com/track/6NaWF1PFEmq0dSv4GDq6Aj"

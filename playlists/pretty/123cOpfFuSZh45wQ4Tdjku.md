@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,286 likes - 529 songs - 1 day 1 hr 52 min
+[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,286 likes - 553 songs - 1 day 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -537,5 +537,29 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 527 | [Love Letter](https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Love Letter](https://open.spotify.com/album/03tFo6ayNPbySF88ws9o26) | 3:35 |
 | 528 | [this thought](https://open.spotify.com/track/6EuzOgCmnKfAEflQf5oG4K) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [this thought](https://open.spotify.com/album/0fWgldWzuAozIR9fiz2A9W) | 3:18 |
 | 529 | [FIND ME WHEN I'M DEAD](https://open.spotify.com/track/6M5UQNqI4dMRpjQ0CJAXjU) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [FIND ME WHEN I'M DEAD](https://open.spotify.com/album/1QXRJeiTywh2Gvgj9tTptv) | 3:08 |
+| 530 | [CAN'T STOP](https://open.spotify.com/track/2TMC4JYz0pD8nJlm65IBKN) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [CAN'T STOP](https://open.spotify.com/album/2FElMr0pH6TSfOt1g78IjT) | 2:58 |
+| 531 | [FROM YOU](https://open.spotify.com/track/7sNWCb9qhkXldb5mblcjUo) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [FROM YOU](https://open.spotify.com/album/1mOW1cNA2QT5elZM5ndM1v) | 2:02 |
+| 532 | [kma\_pxl\_fcs](https://open.spotify.com/track/65PsqTVXX07lueOtXt5BA7) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [kma\_pxl\_fcs](https://open.spotify.com/album/3n0LCtSzZT65GBib5hevp7) | 3:50 |
+| 533 | [TBH](https://open.spotify.com/track/63UApHP3z3JkF5uuG3A7U4) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [TBH](https://open.spotify.com/album/1RzgX5MqrIA6IqYSkVDeWG) | 1:58 |
+| 534 | [STABILIZE](https://open.spotify.com/track/5ThzK3IZw24HwK9vbcrRVz) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [STABILIZE](https://open.spotify.com/album/0NkYpWEF8RHS3I7JSwP7aC) | 3:03 |
+| 535 | [CELLULAR](https://open.spotify.com/track/3TYt6xQTU3hCazzI8pUoEM) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [CELLULAR](https://open.spotify.com/album/2ur1AGw5HrpPBW7JFd7xON) | 3:40 |
+| 536 | [RAVES](https://open.spotify.com/track/4XpKUlBAdfcb9Hvo0uD3Ps) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [Robodelux2000](https://open.spotify.com/artist/3of6yMmyLTDmroAD6Vngl2) | [CELLULAR](https://open.spotify.com/album/2ur1AGw5HrpPBW7JFd7xON) | 3:23 |
+| 537 | [STATIC](https://open.spotify.com/track/4HiECaE9ZBNbdGZyF2wVfm) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [IM SICK!!](https://open.spotify.com/album/6l4zg8MUdoPpHP7pbrc1BP) | 2:31 |
+| 538 | [Bell Bling](https://open.spotify.com/track/5nYyiQ38uFME8he30hciuS) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [IM SICK!!](https://open.spotify.com/album/6l4zg8MUdoPpHP7pbrc1BP) | 2:26 |
+| 539 | [For You :\)](https://open.spotify.com/track/7iimXh2OZhatxCtRVqyupr) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [IM SICK!!](https://open.spotify.com/album/6l4zg8MUdoPpHP7pbrc1BP) | 3:39 |
+| 540 | [Guitar Bug](https://open.spotify.com/track/0QUAupyiWitJi42ykFjAKO) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [IM SICK!!](https://open.spotify.com/album/6l4zg8MUdoPpHP7pbrc1BP) | 2:34 |
+| 541 | [Wild Dirt](https://open.spotify.com/track/5bTheblzMvm8wK3f9Fc16T) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [IM SICK!!](https://open.spotify.com/album/6l4zg8MUdoPpHP7pbrc1BP) | 2:38 |
+| 542 | [Flower Bass](https://open.spotify.com/track/6SUZD9KEOtwLZdeC7l2ViS) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [IM SICK!!](https://open.spotify.com/album/6l4zg8MUdoPpHP7pbrc1BP) | 2:47 |
+| 543 | [Ice Box](https://open.spotify.com/track/3iSNwPlfakfSoLrxYsv4Xb) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [IM SICK!!](https://open.spotify.com/album/6l4zg8MUdoPpHP7pbrc1BP) | 1:49 |
+| 544 | [FIX YOUR BOILER](https://open.spotify.com/track/5qj21LseaKUUJdaWFPBXwp) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [Boiler](https://open.spotify.com/album/1FopjRrsqvxJnOAIpmwRHR) | 2:57 |
+| 545 | [SUGAR HIGH](https://open.spotify.com/track/4TOcK4QOFp7ZF52bVG5TAo) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [Boiler](https://open.spotify.com/album/1FopjRrsqvxJnOAIpmwRHR) | 2:09 |
+| 546 | [Advice From a Worm](https://open.spotify.com/track/4hxOUzXDxvg3xNp313Lu6u) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [Boiler](https://open.spotify.com/album/1FopjRrsqvxJnOAIpmwRHR) | 2:46 |
+| 547 | [RAIN DROP](https://open.spotify.com/track/7FVy2hmHw9OQEgaEB4kLWg) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [Boiler](https://open.spotify.com/album/1FopjRrsqvxJnOAIpmwRHR) | 1:43 |
+| 548 | [Don't Bother](https://open.spotify.com/track/6YtbTjeTRj1lnrAmMf0qo9) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [Boiler](https://open.spotify.com/album/1FopjRrsqvxJnOAIpmwRHR) | 2:42 |
+| 549 | [I DUN WANNA](https://open.spotify.com/track/6ekqkgG1osxePmlAh9BYVH) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [Boiler](https://open.spotify.com/album/1FopjRrsqvxJnOAIpmwRHR) | 2:49 |
+| 550 | [Running](https://open.spotify.com/track/3sX6a3GWqKeiJ7lp4X0cGh) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [Boiler](https://open.spotify.com/album/1FopjRrsqvxJnOAIpmwRHR) | 1:46 |
+| 551 | [TRAVELING!!](https://open.spotify.com/track/7FrpgKav8gcHFEwsPYpYlg) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [TRAVELING!!](https://open.spotify.com/album/5ADkCXDueNDE86RLbRBwBO) | 4:03 |
+| 552 | [SleepyHArdstyle.mp3](https://open.spotify.com/track/3722vnbMmcgGqpum0yPvNf) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [SleepyHArdstyle.mp3](https://open.spotify.com/album/0UibN6xqyZF1FA0oh32VpZ) | 4:55 |
+| 553 | [CHIPCRUSH](https://open.spotify.com/track/1oaG4aYIMQwt8Q6nbJejAX) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [la.la.thc](https://open.spotify.com/artist/4W1YH9rAlkSEFpIPAevqeZ) | [CHIPCRUSH](https://open.spotify.com/album/4ihkCUw40mGKUsiYE5Zi4i) | 2:30 |
 
-Snapshot ID: `AAAB/voWzrIyqNlUNcgQpYv2kFEnb69N`
+Snapshot ID: `AAACDHM4/75AO1gDnRbfN3CXzoj4w01Z`

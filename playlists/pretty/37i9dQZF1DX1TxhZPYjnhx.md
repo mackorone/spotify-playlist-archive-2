@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: DOLLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,515 likes - 101 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,517 likes - 101 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 10 | [Fade to Black](https://open.spotify.com/track/2OwSG3eTglwzLOiwvut1TF) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Fade to Black](https://open.spotify.com/album/6e0080iK9HzuJykUPwPLBn) | 2:44 |
 | 11 | [Fleabag \(feat\. Paolo Sandejas\)](https://open.spotify.com/track/7xRga53GguD9bLi2NtaIv3) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Fleabag \(feat\. Paolo Sandejas\)](https://open.spotify.com/album/1e36Xz5KJvTY3zVjVWIi8h) | 2:53 |
 | 12 | [Can't Stop Won't Stop](https://open.spotify.com/track/6DgSaqiCxtZUeZBfF9HIa8) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [Can't Stop Won't Stop](https://open.spotify.com/album/7zFvxLmlFUbV0SZtvGNB2c) | 2:38 |
-| 13 | [Like Me \(feat\. Jay Park\)](https://open.spotify.com/track/2jCh0Xaz6NQwCTB2PeFIZo) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Like Me \(feat\. Jay Park\)](https://open.spotify.com/album/11su08u4jWbdzZL60bAvoP) | 3:42 |
+| 13 | [LIKE ME \(feat\. Jay Park\)](https://open.spotify.com/track/2jCh0Xaz6NQwCTB2PeFIZo) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [LIKE ME \(feat\. Jay Park\)](https://open.spotify.com/album/11su08u4jWbdzZL60bAvoP) | 3:42 |
 | 14 | [Change](https://open.spotify.com/track/3uGBIAD7oz5rSBOVBHrATQ) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Change](https://open.spotify.com/album/5Kip3tzC2TuLVIgAvY6YgL) | 3:52 |
 | 15 | [Obsessica](https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD) | 3:39 |
 | 16 | [Hard to Love](https://open.spotify.com/track/1r2WWlH285CjPX4Bki3lJp) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [Hard to Love](https://open.spotify.com/album/5v8rjZwnx3B02FNloq9NBg) | 2:21 |

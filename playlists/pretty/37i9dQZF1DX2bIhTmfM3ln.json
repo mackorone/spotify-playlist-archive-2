@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 63733,
+  "num_followers": 63750,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-09-25 09:57:00",
       "album": {
+        "name": "Abefe (Begged To Be Loved)",
+        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 162872,
+      "name": "Orekelewa",
+      "url": "https://open.spotify.com/track/0Jg8TctX4LJ5pWuENt0xuO"
+    },
+    {
+      "added_at": "2026-09-25 09:57:00",
+      "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 225310,
       "name": "Gimme Dat (feat. Wizkid)",
       "url": "https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH"
-    },
-    {
-      "added_at": "2026-09-25 09:57:00",
-      "album": {
-        "name": "Abefe (Begged To Be Loved)",
-        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
-      },
-      "artists": [
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        }
-      ],
-      "duration_ms": 162872,
-      "name": "Orekelewa",
-      "url": "https://open.spotify.com/track/0Jg8TctX4LJ5pWuENt0xuO"
     },
     {
       "added_at": "2026-09-25 09:57:00",
@@ -327,26 +327,6 @@
     {
       "added_at": "2026-09-25 09:57:00",
       "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 144270,
-      "name": "Pressure (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
-    },
-    {
-      "added_at": "2026-09-25 09:57:00",
-      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 147302,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
+    },
+    {
+      "added_at": "2026-09-25 09:57:00",
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 144270,
+      "name": "Pressure (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
     },
     {
       "added_at": "2026-09-25 09:57:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-09-25 09:57:00",
       "album": {
-        "name": "Break Me Down",
-        "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
-      },
-      "artists": [
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
-        }
-      ],
-      "duration_ms": 129032,
-      "name": "Break Me Down",
-      "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
-    },
-    {
-      "added_at": "2026-09-25 09:57:00",
-      "album": {
         "name": "Kaya",
         "url": "https://open.spotify.com/album/4pe6MgCTqlruWhzZJontPt"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 155744,
       "name": "Kaya",
       "url": "https://open.spotify.com/track/74Ba34kPzxpvJVjBrotoI4"
+    },
+    {
+      "added_at": "2026-09-25 09:57:00",
+      "album": {
+        "name": "Break Me Down",
+        "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "duration_ms": 129032,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
     },
     {
       "added_at": "2026-09-25 09:57:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-25 09:57:00",
       "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "Masculine Love",
-      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
-    },
-    {
-      "added_at": "2026-09-25 09:57:00",
-      "album": {
         "name": "Very Soon",
         "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 137100,
       "name": "Very Soon",
       "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
+    },
+    {
+      "added_at": "2026-09-25 09:57:00",
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Masculine Love",
+      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
     },
     {
       "added_at": "2026-09-25 09:57:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-09-25 09:57:00",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2026-09-25 09:57:00",
+      "album": {
         "name": "THEY LOVE ME",
         "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
       },
@@ -919,18 +935,22 @@
     {
       "added_at": "2026-09-25 09:57:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+        "name": "CHE",
+        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+      "duration_ms": 144000,
+      "name": "CHE",
+      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
     },
     {
       "added_at": "2026-09-25 09:57:00",
@@ -1003,26 +1023,6 @@
       "duration_ms": 149126,
       "name": "Only Fans",
       "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
-    },
-    {
-      "added_at": "2026-09-25 09:57:00",
-      "album": {
-        "name": "CHE",
-        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "CHE",
-      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
     },
     {
       "added_at": "2026-09-25 09:57:00",
@@ -1235,30 +1235,22 @@
     {
       "added_at": "2026-09-25 09:57:00",
       "album": {
-        "name": "All You Need",
-        "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
+        "name": "Mental",
+        "url": "https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS"
       },
       "artists": [
         {
-          "name": "MURPHY",
-          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 163837,
-      "name": "All You Need",
-      "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
+      "duration_ms": 166779,
+      "name": "Mental",
+      "url": "https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH"
     },
     {
       "added_at": "2026-09-25 09:57:00",
@@ -1283,22 +1275,30 @@
     {
       "added_at": "2026-09-25 09:57:00",
       "album": {
-        "name": "Mental",
-        "url": "https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS"
+        "name": "All You Need",
+        "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
       },
       "artists": [
         {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+          "name": "MURPHY",
+          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
         },
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
         }
       ],
-      "duration_ms": 166779,
-      "name": "Mental",
-      "url": "https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH"
+      "duration_ms": 163837,
+      "name": "All You Need",
+      "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
     },
     {
       "added_at": "2026-09-25 09:57:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-09-25 09:57:00",
       "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 140916,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
+    },
+    {
+      "added_at": "2026-09-25 09:57:00",
+      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
       },
@@ -1375,26 +1391,6 @@
     {
       "added_at": "2026-09-25 09:57:00",
       "album": {
-        "name": "RED PILL",
-        "url": "https://open.spotify.com/album/1SKQZBp2bLPP3OMqoYAwkJ"
-      },
-      "artists": [
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 209514,
-      "name": "HEAVENLY RACE",
-      "url": "https://open.spotify.com/track/5AkqKdLdYBW3E7Y8QTIz9D"
-    },
-    {
-      "added_at": "2026-09-25 09:57:00",
-      "album": {
         "name": "LOL",
         "url": "https://open.spotify.com/album/7KqiS61BAqMuVru4FSG5X3"
       },
@@ -1411,6 +1407,26 @@
       "duration_ms": 166442,
       "name": "LOL",
       "url": "https://open.spotify.com/track/0SIYATXVKxxgu5zYTQhAma"
+    },
+    {
+      "added_at": "2026-09-25 09:57:00",
+      "album": {
+        "name": "RED PILL",
+        "url": "https://open.spotify.com/album/1SKQZBp2bLPP3OMqoYAwkJ"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 209514,
+      "name": "HEAVENLY RACE",
+      "url": "https://open.spotify.com/track/5AkqKdLdYBW3E7Y8QTIz9D"
     },
     {
       "added_at": "2026-09-25 09:57:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 163399,
       "name": "Eden",
       "url": "https://open.spotify.com/track/5SQh95sFBi36dAhTGUV5m6"
-    },
-    {
-      "added_at": "2026-09-25 09:57:00",
-      "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 140916,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
     },
     {
       "added_at": "2026-09-25 09:57:00",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 108372,
+  "num_followers": 108390,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
+      },
+      "artists": [
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 147672,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
         "name": "Oye",
         "url": "https://open.spotify.com/album/0qFqOqkNSBjstpjtYdGUkS"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 179286,
       "name": "Oye",
       "url": "https://open.spotify.com/track/1tib88sDmTOsH7hGVLDATC"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
-      },
-      "artists": [
-        {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 147672,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
-        "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
-      },
-      "artists": [
-        {
-          "name": "Puchi Colon",
-          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
-        }
-      ],
-      "duration_ms": 249576,
-      "name": "Coritos Medley 2.0",
-      "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
         "name": "Favor y Gracia",
         "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
+        "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
+        "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
       },
       "artists": [
         {
-          "name": "Pedro Morales",
-          "url": "https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR"
+          "name": "Puchi Colon",
+          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
         }
       ],
-      "duration_ms": 186250,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
+      "duration_ms": 249576,
+      "name": "Coritos Medley 2.0",
+      "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -839,6 +823,38 @@
       "duration_ms": 204013,
       "name": "Camino Al Cielo (Versi\u00f3n Merengue)",
       "url": "https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
+      },
+      "artists": [
+        {
+          "name": "Pedro Morales",
+          "url": "https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
+        "name": "Van God",
+        "url": "https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        }
+      ],
+      "duration_ms": 257385,
+      "name": "Van God",
+      "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -863,22 +879,6 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "Van God",
-        "url": "https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Lara",
-          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
-        }
-      ],
-      "duration_ms": 257385,
-      "name": "Van God",
-      "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
         "name": "Saz\u00f3n Over Everything (S.O.E) Vol. 1",
         "url": "https://open.spotify.com/album/7L1GyCQtf6cYdR5GHeCBcO"
       },
@@ -895,18 +895,22 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
+        "name": "Donde Sea",
+        "url": "https://open.spotify.com/album/5lIGGVvLnCq4gYu2SupAaM"
       },
       "artists": [
         {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        },
+        {
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
         }
       ],
-      "duration_ms": 183148,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
+      "duration_ms": 153033,
+      "name": "Donde Sea",
+      "url": "https://open.spotify.com/track/4Kryd7zf5qRwSx8yx3S4O3"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -935,22 +939,18 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "Donde Sea",
-        "url": "https://open.spotify.com/album/5lIGGVvLnCq4gYu2SupAaM"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
       },
       "artists": [
         {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        },
-        {
-          "name": "Samuel Troc",
-          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
         }
       ],
-      "duration_ms": 153033,
-      "name": "Donde Sea",
-      "url": "https://open.spotify.com/track/4Kryd7zf5qRwSx8yx3S4O3"
+      "duration_ms": 183148,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "Nuestra Historia",
-        "url": "https://open.spotify.com/album/2wOU5oe6u4X5TOr6THpoRL"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        }
-      ],
-      "duration_ms": 193545,
-      "name": "\u00bfDonde Andar\u00e1s? - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5PK96HD0YYz6IgLg4e7fRn"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
         "name": "M\u00e1s de Una Vez",
         "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 270807,
       "name": "NAZARENO",
       "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/2wOU5oe6u4X5TOr6THpoRL"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "duration_ms": 193545,
+      "name": "\u00bfDonde Andar\u00e1s? - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5PK96HD0YYz6IgLg4e7fRn"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "La alegr\u00eda del Se\u00f1or",
-        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
-      },
-      "artists": [
-        {
-          "name": "Promesa de Dios",
-          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "La alegr\u00eda del Se\u00f1or",
-      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
         "name": "No Hay Otro",
         "url": "https://open.spotify.com/album/1HmpOYUfu1GByycGrR9grk"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 202659,
       "name": "Hombre Nuevo",
       "url": "https://open.spotify.com/track/71YS4ykCSdZgBfXRLOd2Vk"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
+        "name": "La alegr\u00eda del Se\u00f1or",
+        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
+      },
+      "artists": [
+        {
+          "name": "Promesa de Dios",
+          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "La alegr\u00eda del Se\u00f1or",
+      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
     },
     {
       "added_at": "2026-09-25 05:51:55",

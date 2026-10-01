@@ -4,7 +4,7 @@
 
 > Return to Hawkins, listen to the music from the animated series Stranger Things: Tales From ‘85.
 
-45 songs - 2 hr 34 min
+46 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Little Country Town Of Yesterday](https://open.spotify.com/track/1T2aB6soXQjDKN5uMKTo0i) | [Carol Fredericks](https://open.spotify.com/artist/2hlHwGAy9LdsExBdZWpb1e) | [Here and Now](https://open.spotify.com/album/5AZtZVxYzuQQv5PgwJdr2v) | 2:13 | 2026-09-17 |  |
 | [One Thing Leads To Another](https://open.spotify.com/track/2d1NMaw8arIU2Fy4BnWqLs) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [20th Century Masters: The Millennium Collection: Best Of The '80s](https://open.spotify.com/album/5SaMVD3JhB3JU9A66Xwj0E) | 3:25 | 2026-04-23 |  |
 | [People Who Died](https://open.spotify.com/track/5mcaY65WhtzFk1TFRGY6kY) | [The Jim Carroll Band](https://open.spotify.com/artist/7jrNr1OwKCfNDfHkwOTJnc) | [Catholic Boy](https://open.spotify.com/album/4wAWa84e356LRGEPA741Fv) | 4:59 | 2026-04-23 |  |
+| [Plus Seven](https://open.spotify.com/track/0NtwT5xaWn5cpJDUOcAX2s) | [Fetchin' Bones](https://open.spotify.com/artist/3JMajb2cdXN3DLobIT9jjE) | [Cabin Flounder](https://open.spotify.com/album/0YC85rLVI0Xdc7qoxoYrdn) | 3:07 | 2026-09-30 |  |
 | [Poison Arrow](https://open.spotify.com/track/7abGerACQx9G1OBqHYFKAb) | [ABC](https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh) | [The Lexicon Of Love](https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66) | 3:24 | 2026-09-17 |  |
 | [Possessed](https://open.spotify.com/track/7pv9Njtvz4Wh38N3W5si4w) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 2:07 | 2026-04-23 |  |
 | [Rebel Yell](https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:48 | 2026-04-23 |  |

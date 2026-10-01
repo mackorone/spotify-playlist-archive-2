@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,761 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,812 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 31 | [Kleriyaa Mora](https://open.spotify.com/track/3bFDMq8a1HOemL91NG9Ipg) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf) | [Kleriyaa Mora](https://open.spotify.com/album/0IgcdYiFdbRj0aeHLV5AcR) | 2:45 |
 | 32 | [Din Shagna](https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Din Shagna](https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm) | 3:49 |
 | 33 | [Laung Gawacha](https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2) | [Japleen Kaur](https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Laung Gawacha](https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa) | 3:00 |
-| 34 | [Mirza Saiba](https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 4:45 |
-| 35 | [Ambarsare De Papad](https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax) | [Dolly Guleria](https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ) | [Nikka Jeha](https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO) | 5:14 |
-| 36 | [Challa](https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k), [Prabh Grewal](https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn) | [Challa](https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA) | 3:09 |
-| 37 | [Chann Kitthan](https://open.spotify.com/track/4SLA4bxtd0c98H3t2ZY7UU) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo) | [Chann Kitthan](https://open.spotify.com/album/0YThqPwboJDu2orXmeE9xN) | 4:42 |
+| 34 | [Chann Kitthan](https://open.spotify.com/track/4SLA4bxtd0c98H3t2ZY7UU) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo) | [Chann Kitthan](https://open.spotify.com/album/0YThqPwboJDu2orXmeE9xN) | 4:42 |
+| 35 | [Mirza Saiba](https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 4:45 |
+| 36 | [Ambarsare De Papad](https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax) | [Dolly Guleria](https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ) | [Nikka Jeha](https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO) | 5:14 |
+| 37 | [Challa](https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k), [Prabh Grewal](https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn) | [Challa](https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA) | 3:09 |
 | 38 | [Kut Kut Bajra](https://open.spotify.com/track/6ThkyuzMcUjfcw5YiTSLQt) | [Radhika Chopra](https://open.spotify.com/artist/6jL2jHx6iow2cecHrKmPQD) | [The Great Big Punjabi Wedding](https://open.spotify.com/album/2fJWqWcdO7pL0yQF9rIrg1) | 5:29 |
 | 39 | [Chan Kithan \- Folk Recreation](https://open.spotify.com/track/2gc2744uSnOSwTIbT78khL) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chan Kithan \(Folk Recreation\)](https://open.spotify.com/album/0ZKhRD4v1zVQmEdsrVJxS8) | 2:58 |
 | 40 | [Matthe Te Chamkan](https://open.spotify.com/track/3g2WZIOYjpTkz9IPDtU8VK) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [DAWgeek](https://open.spotify.com/artist/1ZQrXHNpfWtP9jIzUSoSFD) | [Matthe Te Chamkan](https://open.spotify.com/album/7p3s1PZHAVJ8by9m7vdXhs) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 49 | [Latthe Di Chadar](https://open.spotify.com/track/1kQjwRxe6VRj8qEyiSUHQU) | [Neil\-Niraj](https://open.spotify.com/artist/6hbAORztbTtFWYgkyECsug), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7) | [Latthe Di Chadar](https://open.spotify.com/album/6voQm7UXpP8WF0Zx69Meju) | 2:20 |
 | 50 | [Tumba \- From "Oye Bhole Oye 2"](https://open.spotify.com/track/4CeNeOiRwEmCLhqpbI4LC7) | [Ghaffar Raghi Group](https://open.spotify.com/artist/2Awd2ab1ZKeqyqEbfkesjr), [Jagjeet Sandhu](https://open.spotify.com/artist/5CzdMEOnnrgrcm5p0TOpoW), [Crowny](https://open.spotify.com/artist/1ff7RRGYaqGGsOpUrEm5un) | [Tumba \(From "Oye Bhole Oye 2"\)](https://open.spotify.com/album/35NQ0cze0eagxsZmvIvfo7) | 3:52 |
 
-Snapshot ID: `AAAAAAFdrRvQHnKc5oLcjW7QujaoQHgP`
+Snapshot ID: `AAAAAHTFYiwvrdS8NEI774zKVWHdzB3l`

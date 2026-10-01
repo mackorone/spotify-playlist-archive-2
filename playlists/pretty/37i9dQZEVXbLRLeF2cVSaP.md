@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,858 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,867 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Вселенная бесконечна?](https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5) | [Noize MC](https://open.spotify.com/artist/69v4ZOOomf1TNp59YYB1j7) | [Новый альбом](https://open.spotify.com/album/5O0lvSqOB9IEmHyKsYppAn) | 4:20 |
 | 50 | [ты любишь танцевать](https://open.spotify.com/track/0nukg1QtwhP7jBbmeFKoiT) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [дели на два](https://open.spotify.com/album/6HKXYwvSyK42bwGhtYMG1I) | 2:25 |
 
-Snapshot ID: `Mk86CAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MlCN4AAAAAAAAAAAAAAAAAAAAAAAAGVu`

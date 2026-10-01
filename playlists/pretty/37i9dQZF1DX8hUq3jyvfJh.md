@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,328 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,329 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 33 | [INCOMUM](https://open.spotify.com/track/0ZjG6xiuxccP2EvMPjQrjb) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [BRava](https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH) | 2:54 |
 | 34 | [Janeiro](https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Janeiro](https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2) | 3:10 |
 | 35 | [Alto Preço](https://open.spotify.com/track/3r5YGpZC57ee9l7dKLDsIm) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Alto Preço](https://open.spotify.com/album/10xQyAREvJCX5VxzfdCFlr) | 3:12 |
-| 36 | [Amor de Hoje](https://open.spotify.com/track/3VIYX0f6sym9kw7ixKVCrr) | [Júlia Rocha](https://open.spotify.com/artist/53UPZ6NI8MSbfP7DMtMjTq) | [Cheiro de Flor](https://open.spotify.com/album/7kdd5WrNFHuw6NyaNL2UvD) | 3:22 |
-| 37 | [Amor e Sacanagem](https://open.spotify.com/track/4vMXqanPNss6OW1gn5plyz) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [Amor e Sacanagem](https://open.spotify.com/album/1iTyN8AAXQrc7Wgv2OCZS9) | 2:49 |
+| 36 | [Amor e Sacanagem](https://open.spotify.com/track/4vMXqanPNss6OW1gn5plyz) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [Amor e Sacanagem](https://open.spotify.com/album/1iTyN8AAXQrc7Wgv2OCZS9) | 2:49 |
+| 37 | [Amor de Hoje](https://open.spotify.com/track/3VIYX0f6sym9kw7ixKVCrr) | [Júlia Rocha](https://open.spotify.com/artist/53UPZ6NI8MSbfP7DMtMjTq) | [Cheiro de Flor](https://open.spotify.com/album/7kdd5WrNFHuw6NyaNL2UvD) | 3:22 |
 | 38 | [Mulher no Espelho](https://open.spotify.com/track/1IaB94N2QjtCPz0h1pueLH) | [Riane Mascarenhas](https://open.spotify.com/artist/6VVAOpIvLkd1NemCaCqvao), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Mulher no Espelho](https://open.spotify.com/album/5yJSXtMCcTBXL5nPjpSpcj) | 3:35 |
 | 39 | [Você Não Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/3lDGU5FKsywJzNbdAINxhR) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Só Vvamo na Ilha \(Ao Vivo\)](https://open.spotify.com/album/1q3K1MYoCr97RFIwVNvGWL) | 3:12 |
 | 40 | [Sonho Meu](https://open.spotify.com/track/5rbxBmoBDxvnhyVYWBSBRa) | [Clementina De Jesus](https://open.spotify.com/artist/0tWtrXx0eO52k40JMojM0j), [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Para Sempre](https://open.spotify.com/album/4zSZT5Qre7hpFgEk0yQy0C) | 3:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,461 likes - 98 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,450 likes - 98 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 45 | [Something Sweet](https://open.spotify.com/track/13bBM9lh2GoaDqowisNsDN) | [Blonde Diamond](https://open.spotify.com/artist/0skYMbISqV2drnQbJopK8Y) | [Love is a Shadow](https://open.spotify.com/album/6K5T2YlVFNJcotykZTnF4I) | 3:30 |
 | 46 | [delusional darling \(ft\. Ella Red\)](https://open.spotify.com/track/4PhwBlT0m3gPbp2SQZ9rPI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [delusional darling \(ft\. Ella Red\)](https://open.spotify.com/album/3feEOM2rh8zbAdM4xB0wE0) | 3:10 |
 | 47 | [Company](https://open.spotify.com/track/1VixD42StOF93a1naJMGnb) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Company](https://open.spotify.com/album/1tHG3rISWudn1FJoDjV56d) | 2:52 |
-| 48 | [Sour \(ft\. Ana Garrow\)](https://open.spotify.com/track/6QtB3ouZgi7Rhh0tj4azTK) | [DCR MILDA](https://open.spotify.com/artist/5AS0k6J1K3MrVUtKKahv64), [Ana Garrow](https://open.spotify.com/artist/3Uj9frkffmawt9xwKaQAGi) | [Sour \(ft\. Ana Garrow\)](https://open.spotify.com/album/6YC5HapPDj0f2nw0AenIZF) | 2:39 |
+| 48 | [Sour \(ft\. Ana Garrow\)](https://open.spotify.com/track/6QtB3ouZgi7Rhh0tj4azTK) | [DCR MILDA](https://open.spotify.com/artist/5AS0k6J1K3MrVUtKKahv64), [Ana Herrera](https://open.spotify.com/artist/3Uj9frkffmawt9xwKaQAGi) | [Sour \(ft\. Ana Garrow\)](https://open.spotify.com/album/6YC5HapPDj0f2nw0AenIZF) | 2:39 |
 | 49 | [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 |
 | 50 | [Pillow Fight](https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Pillow Fight / I’d Rather Be Alone](https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv) | 2:21 |
 | 51 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |

@@ -270,7 +270,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 192000,
       "name": "217",
       "url": "https://open.spotify.com/track/223L3AuZfV7H6yw1pdK2wy"
@@ -493,6 +493,28 @@
     },
     {
       "album": {
+        "name": "A Light For Dark Moments",
+        "url": "https://open.spotify.com/album/3nTDAQC7R9JiLhuHRwWUUM"
+      },
+      "artists": [
+        {
+          "name": "Tristan de Li\u00e8ge",
+          "url": "https://open.spotify.com/artist/56WzaWPSOfPePuPdfHBYr5"
+        },
+        {
+          "name": "Gregory Allison",
+          "url": "https://open.spotify.com/artist/515QjHdYuJBYXQcVHruoz4"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377080,
+      "name": "A Light For Dark Moments",
+      "url": "https://open.spotify.com/track/36IPEbt8vKZ3KfSorpqByp"
+    },
+    {
+      "album": {
         "name": "Sollbruchstelle 3 - Snacks of carelessness",
         "url": "https://open.spotify.com/album/3Lf9g9iV968shjE22of447"
       },
@@ -666,7 +688,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 359000,
       "name": "Abstract",
       "url": "https://open.spotify.com/track/0ugKbT5NQmCtjP7hYPgge7"
@@ -760,7 +782,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 239967,
       "name": "All These Worlds, Pt. II",
       "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
@@ -1551,6 +1573,28 @@
     },
     {
       "album": {
+        "name": "Come Down Dawn",
+        "url": "https://open.spotify.com/album/4fBvkZkBuPyo3k7ZogKFAo"
+      },
+      "artists": [
+        {
+          "name": "The KLF",
+          "url": "https://open.spotify.com/artist/6dYrdRlNZSKaVxYg5IrvCH"
+        },
+        {
+          "name": "The Justified Ancients of Mu Mu",
+          "url": "https://open.spotify.com/artist/623YeFh2bNivR5ZxQcsjjP"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464777,
+      "name": "Baltimore to Fair Play",
+      "url": "https://open.spotify.com/track/0TJJcRcGvDs7DxAL79bqFN"
+    },
+    {
+      "album": {
         "name": "Beloved Exile",
         "url": "https://open.spotify.com/album/40TxdeBrR0OTGQD6etnhyJ"
       },
@@ -1714,6 +1758,24 @@
       "duration_ms": 250040,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/1yy59D7L2Ym3wYLQct8dHR"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295724,
+      "name": "Blood In The Labyrinth",
+      "url": "https://open.spotify.com/track/1sJSQT0OSIAsiMDE7Qs9zj"
     },
     {
       "album": {
@@ -2000,7 +2062,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 278613,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/3n6inGEcXqHMZLNIbUU18T"
@@ -2441,6 +2503,28 @@
     },
     {
       "album": {
+        "name": "12 Conversations",
+        "url": "https://open.spotify.com/album/6Q6jtfzYCMmUz3h8xBo3Tm"
+      },
+      "artists": [
+        {
+          "name": "Alva Noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353278,
+      "name": "Conversation 3",
+      "url": "https://open.spotify.com/track/0IqkWXCRcAAyZm0GsijtEA"
+    },
+    {
+      "album": {
         "name": "New Atlantis Volume 1",
         "url": "https://open.spotify.com/album/3ath5Brm6aUk9je1dK0r1o"
       },
@@ -2506,7 +2590,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 246166,
       "name": "Crystal Waters",
       "url": "https://open.spotify.com/track/2k7QrAxW8U6YwZHKmivWiZ"
@@ -2818,7 +2902,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 267333,
       "name": "Detransitioning",
       "url": "https://open.spotify.com/track/7GL1r3EvpFiTlMN7HTG4kg"
@@ -2956,7 +3040,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 153559,
       "name": "Distant Solace",
       "url": "https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B"
@@ -3010,7 +3094,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 197142,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
@@ -3333,6 +3417,24 @@
     },
     {
       "album": {
+        "name": "Feeling Is Structure",
+        "url": "https://open.spotify.com/album/2pvLN2jTZhYg9aWQyESDps"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240769,
+      "name": "Ebb + Flow",
+      "url": "https://open.spotify.com/track/47sGuL6jXQxEmoA3rMVFAO"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/1HelMTIan6xJ3aT5Zmi3Z9"
       },
@@ -3586,6 +3688,24 @@
       "duration_ms": 937000,
       "name": "Endless Filament",
       "url": "https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj"
+    },
+    {
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/3Ombmwfn0Wi3twVHD0VyxS"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509666,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DYGS6lBV7lId0oviQaeJL"
     },
     {
       "album": {
@@ -4521,6 +4641,28 @@
     },
     {
       "album": {
+        "name": "Quiet Storm",
+        "url": "https://open.spotify.com/album/0Mo9RknPGyKOfXR6zUNMYB"
+      },
+      "artists": [
+        {
+          "name": "Space Afrika",
+          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+        },
+        {
+          "name": "Alto Aria",
+          "url": "https://open.spotify.com/artist/2fKzX6tkABWKK5MnXizpSR"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232618,
+      "name": "From the Heart of Knowing",
+      "url": "https://open.spotify.com/track/5wUS9OJQbOvy5ecaFTDfel"
+    },
+    {
+      "album": {
         "name": "Frozen Tundra",
         "url": "https://open.spotify.com/album/7vQQLdO1pPzyP9aF5JDsSk"
       },
@@ -5059,6 +5201,28 @@
     },
     {
       "album": {
+        "name": "Ghostly Swim 2",
+        "url": "https://open.spotify.com/album/2iCPYVuL7ovocJngeA4QCU"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        },
+        {
+          "name": "Jeff Zeigler",
+          "url": "https://open.spotify.com/artist/3lIoNmmVMhWTEuwZMWFWq1"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304404,
+      "name": "I Only Have Eyes for You",
+      "url": "https://open.spotify.com/track/3OxIW4fGssfP4oeZSKacQi"
+    },
+    {
+      "album": {
         "name": "I Was There With You, Wasn't I?",
         "url": "https://open.spotify.com/album/3LIzUIt8eTBG4YBuGeQoGz"
       },
@@ -5540,7 +5704,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 141936,
       "name": "Into The Glare",
       "url": "https://open.spotify.com/track/2IylguIokLMTagCSWe0Ym6"
@@ -6098,7 +6262,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 1111999,
       "name": "Lemon Day",
       "url": "https://open.spotify.com/track/4G0m7oplySbleIlWeLu3vH"
@@ -6152,7 +6316,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 593975,
       "name": "Like a Glacier Waiting for the Summer",
       "url": "https://open.spotify.com/track/0Q7WpjZChzlK6isNOjmS37"
@@ -6885,6 +7049,28 @@
     },
     {
       "album": {
+        "name": "Quiet Storm",
+        "url": "https://open.spotify.com/album/0Mo9RknPGyKOfXR6zUNMYB"
+      },
+      "artists": [
+        {
+          "name": "Space Afrika",
+          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+        },
+        {
+          "name": "Tony Njoku",
+          "url": "https://open.spotify.com/artist/1vkVP0FhEbUzaU1ztl7YmK"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268003,
+      "name": "MLN",
+      "url": "https://open.spotify.com/track/4LMItIZDchHWaSGIzvLORg"
+    },
+    {
+      "album": {
         "name": "outside of your lifetime",
         "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
@@ -6972,6 +7158,24 @@
       "duration_ms": 240226,
       "name": "Monos",
       "url": "https://open.spotify.com/track/488C2VMsZc3YwIei1AsRZn"
+    },
+    {
+      "album": {
+        "name": "Ambient Selections",
+        "url": "https://open.spotify.com/album/1kx8MMmw2CvengFXoisLIH"
+      },
+      "artists": [
+        {
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249560,
+      "name": "Morning at the Window",
+      "url": "https://open.spotify.com/track/1vJMUArV31syeXNT0nHFed"
     },
     {
       "album": {
@@ -7410,7 +7614,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 192000,
       "name": "No Sun To Burn (for brass)",
       "url": "https://open.spotify.com/track/537mVBuMmwMGk29mXYnYlD"
@@ -7428,7 +7632,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 175040,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/6dpeIEtLqTxnB7rfzVvlwz"
@@ -7994,7 +8198,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 408000,
       "name": "Passage Through The Spheres",
       "url": "https://open.spotify.com/track/4hcZPZEIMpIdfgEvZ2ULaQ"
@@ -8333,6 +8537,24 @@
     },
     {
       "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304499,
+      "name": "Prophecy At 1420 MHz",
+      "url": "https://open.spotify.com/track/4CpyZQzwxCzQPiUTvlOBrn"
+    },
+    {
+      "album": {
         "name": "QUAKENBR\u00dcCK [Version]",
         "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
       },
@@ -8554,6 +8776,24 @@
       "duration_ms": 282000,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/76W1wtijsH2sTzd3p6D47e"
+    },
+    {
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7qKcHXbgt8Jy7Rc4tZv1b5"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1rboles Mentirosos",
+          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316576,
+      "name": "Renacer",
+      "url": "https://open.spotify.com/track/7FmCz9t1VBcDgqBqXlh2M5"
     },
     {
       "album": {
@@ -9174,7 +9414,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 170914,
       "name": "Silver",
       "url": "https://open.spotify.com/track/5bAXwSGe8VudUcZCQs8avp"
@@ -9250,6 +9490,28 @@
       "duration_ms": 363483,
       "name": "Sky Hooks",
       "url": "https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC"
+    },
+    {
+      "album": {
+        "name": "In Another",
+        "url": "https://open.spotify.com/album/2BCpcZC3tDTfKYm8YbIMcQ"
+      },
+      "artists": [
+        {
+          "name": "Masahiro Takahashi",
+          "url": "https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR"
+        },
+        {
+          "name": "Dorothea Paas",
+          "url": "https://open.spotify.com/artist/43PJplvsEukrxqpOwEGByn"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346240,
+      "name": "Sky, Ocean, and Creatures",
+      "url": "https://open.spotify.com/track/4nD421Ze1aACJgthYEQDIt"
     },
     {
       "album": {
@@ -10180,7 +10442,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 536601,
       "name": "Subterraneans",
       "url": "https://open.spotify.com/track/3ohfG89N3G3Zn3xqpLI2DQ"
@@ -10480,7 +10742,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 668246,
       "name": "th1 [evnslower]",
       "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
@@ -10923,6 +11185,24 @@
     },
     {
       "album": {
+        "name": "Feeling Is Structure",
+        "url": "https://open.spotify.com/album/2pvLN2jTZhYg9aWQyESDps"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278267,
+      "name": "The Shape Of Memory",
+      "url": "https://open.spotify.com/track/2ZpFFr4Sgch7Gd1Z8MCtcB"
+    },
+    {
+      "album": {
         "name": "The Space Between Us",
         "url": "https://open.spotify.com/album/3L1yyvtdjxRJHRVGZ7Q0YC"
       },
@@ -11042,7 +11322,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 151248,
       "name": "The Theme",
       "url": "https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo"

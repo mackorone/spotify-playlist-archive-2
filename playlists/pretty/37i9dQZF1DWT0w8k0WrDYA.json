@@ -1,12 +1,12 @@
 {
   "description": "Return to Hawkins, listen to the music from the animated series Stranger Things: Tales From \u201885.",
-  "num_followers": 8236,
+  "num_followers": 8255,
   "original_name": "Stranger Things: Tales From '85 Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACYdC4q3vF68UNWLDDmt0pBwJbCY",
+  "snapshot_id": "AAAAAEeGVz/QA/cwHEQqDBSZ32cwkDXi",
   "tracks": [
     {
       "added_at": "2026-09-17 13:00:30",
@@ -183,6 +183,22 @@
       "duration_ms": 279209,
       "name": "Would You Stay There",
       "url": "https://open.spotify.com/track/1xjmH037SxsxsKe3wLGwFk"
+    },
+    {
+      "added_at": "2026-09-30 21:05:30",
+      "album": {
+        "name": "Cabin Flounder",
+        "url": "https://open.spotify.com/album/0YC85rLVI0Xdc7qoxoYrdn"
+      },
+      "artists": [
+        {
+          "name": "Fetchin' Bones",
+          "url": "https://open.spotify.com/artist/3JMajb2cdXN3DLobIT9jjE"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Plus Seven",
+      "url": "https://open.spotify.com/track/0NtwT5xaWn5cpJDUOcAX2s"
     },
     {
       "added_at": "2026-09-17 13:00:30",

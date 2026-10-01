@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,819 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,125 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 40 | [Whisper](https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Whisper](https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g) | 4:16 |
 | 41 | [Have Your Cake And Eat It](https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 4:03 |
 | 42 | [Just One Wish](https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:13 |
-| 43 | [The Last Kiss](https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 4:04 |
-| 44 | [Una Mas](https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 3:37 |
+| 43 | [Una Mas](https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 3:37 |
+| 44 | [The Last Kiss](https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 4:04 |
 | 45 | [Howling At The Moon](https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Howling At The Moon](https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y) | 3:35 |
 | 46 | [In The City Life](https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ) | [GOTA](https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ) | [Smooth Jazz Radio Hits Volume Two](https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS) | 3:36 |
 | 47 | [Grinnell Street](https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ) | [Citronium](https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX) | [Grinnell Street](https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX) | 3:55 |
 | 48 | [Always Thinkin' Of You](https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 4:09 |
-| 49 | [All Night](https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Jumpin' Off](https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2) | 5:25 |
-| 50 | [Marseille](https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Traveler](https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO) | 5:11 |
+| 49 | [Marseille](https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Traveler](https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO) | 5:11 |
+| 50 | [All Night](https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Jumpin' Off](https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2) | 5:25 |
 | 51 | [Let's Get It Started](https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Creations the Album, Pt\. 1](https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI) | 6:16 |
 | 52 | [I Feel You](https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:18 |
 | 53 | [Miss Bane](https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 4:51 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 81 | [A Short Walk From Home](https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:05 |
 | 82 | [Chesterfield](https://open.spotify.com/track/6hNgsrHsGMeeN9BOGXZX8X) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE) | [Chesterfield](https://open.spotify.com/album/3t0D1c9i4CSbrI0d02PdTE) | 3:03 |
 | 83 | [What’s The Score?](https://open.spotify.com/track/2Be8e1STQgWtsbYcETqT3L) | [Charles Rudy](https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE) | [What’s The Score?](https://open.spotify.com/album/0popt4iTWZquTjXmVHUc6H) | 4:24 |
-| 84 | [Paddock Club](https://open.spotify.com/track/5MAbqSgxemOHcdEPSy39C7) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Paddock Club](https://open.spotify.com/album/2bb2xxPun7rK32R6FxL8dz) | 2:52 |
+| 84 | [The Dubble](https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [The Dubble](https://open.spotify.com/album/4PFrstLSNUox98INthlTQT) | 2:56 |
 | 85 | [Backseat Romance](https://open.spotify.com/track/7EqnDxQXOpCxTGyPvB0P3G) | [Wellington Groove](https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8) | [Backseat Romance](https://open.spotify.com/album/2rQHi14GepxBeBkB1l9jMp) | 2:30 |
-| 86 | [The Dubble](https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [The Dubble](https://open.spotify.com/album/4PFrstLSNUox98INthlTQT) | 2:56 |
+| 86 | [Paddock Club](https://open.spotify.com/track/5MAbqSgxemOHcdEPSy39C7) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Paddock Club](https://open.spotify.com/album/2bb2xxPun7rK32R6FxL8dz) | 2:52 |
 | 87 | [Echoes Of Hollywood](https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY) | [Duke Washington](https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq) | [Echoes Of Hollywood](https://open.spotify.com/album/2YkjVrSM6KqrSwx5IjqujZ) | 3:04 |
 | 88 | [Sea Mist](https://open.spotify.com/track/20sWNc5wIeri6hAdEUJM6Z) | [Amber Skyline](https://open.spotify.com/artist/3gpevXdRR0fMWy13RZYJUq) | [Sea Mist](https://open.spotify.com/album/6fLdKesHkBK25UZ9aMGhf3) | 3:51 |
 | 89 | [Lost and Found](https://open.spotify.com/track/58bVhACMXuFvNVfojvvDKC) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 4:22 |

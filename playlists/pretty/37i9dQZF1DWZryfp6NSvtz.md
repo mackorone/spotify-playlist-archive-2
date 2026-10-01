@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,115 likes - 198 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,265 likes - 198 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

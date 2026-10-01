@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 446422,
+  "num_followers": 446449,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "My Favourite Faded Fantasy",
         "url": "https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 326206,
       "name": "I Don't Want to Change You",
       "url": "https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
-      },
-      "artists": [
-        {
-          "name": "Calequi y Las Panteras",
-          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
-        }
-      ],
-      "duration_ms": 212958,
-      "name": "La herida que prefiero",
-      "url": "https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "Massive Shoe",
         "url": "https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "a girl like me",
-        "url": "https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP"
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
       },
       "artists": [
         {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+          "name": "Calequi y Las Panteras",
+          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
         }
       ],
-      "duration_ms": 169446,
-      "name": "a girl like me",
-      "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
+      "duration_ms": 212958,
+      "name": "La herida que prefiero",
+      "url": "https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -847,6 +831,22 @@
       "duration_ms": 156478,
       "name": "brb",
       "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "a girl like me",
+        "url": "https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "duration_ms": 169446,
+      "name": "a girl like me",
+      "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -995,6 +995,22 @@
       "duration_ms": 252293,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "f.m.k. / jura",
+        "url": "https://open.spotify.com/album/1yNxdbAPxGyR93gkGNZ3oJ"
+      },
+      "artists": [
+        {
+          "name": "duna",
+          "url": "https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz"
+        }
+      ],
+      "duration_ms": 70165,
+      "name": "jura",
+      "url": "https://open.spotify.com/track/32NqsIqDCblLE9hMcZvqws"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/2bkUl9ScRn7YCxBAkZqLnc"
-      },
-      "artists": [
-        {
-          "name": "Tristicis",
-          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/5NSpRip4DDLC2i76NEAmSS"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "SANGRE SUCIA",
         "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "f.m.k. / jura",
-        "url": "https://open.spotify.com/album/1yNxdbAPxGyR93gkGNZ3oJ"
-      },
-      "artists": [
-        {
-          "name": "duna",
-          "url": "https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz"
-        }
-      ],
-      "duration_ms": 70165,
-      "name": "jura",
-      "url": "https://open.spotify.com/track/32NqsIqDCblLE9hMcZvqws"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "Toujours oui <3",
         "url": "https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 205738,
       "name": "Toujours oui <3",
       "url": "https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/2bkUl9ScRn7YCxBAkZqLnc"
+      },
+      "artists": [
+        {
+          "name": "Tristicis",
+          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/5NSpRip4DDLC2i76NEAmSS"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "pop blandito",
-        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "desayunarte",
-      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "xulejudetu",
         "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "0MG!",
-        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
+        "name": "pop blandito",
+        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
       },
       "artists": [
         {
-          "name": "Mira Paula",
-          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 166621,
-      "name": "0MG!",
-      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
+      "duration_ms": 188693,
+      "name": "desayunarte",
+      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1507,6 +1491,22 @@
       "duration_ms": 163402,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "0MG!",
+        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
+      },
+      "artists": [
+        {
+          "name": "Mira Paula",
+          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
+        }
+      ],
+      "duration_ms": 166621,
+      "name": "0MG!",
+      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "Redux",
-        "url": "https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 357956,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/5BI7bKCEZiA0zod12yXe6S"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "surub\u00ed",
         "url": "https://open.spotify.com/album/3RYRZMMe98SfBYzYvJN1eq"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 161680,
       "name": "surub\u00ed",
       "url": "https://open.spotify.com/track/5U4P3PbG2SUazQgoEneybe"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "Redux",
+        "url": "https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 357956,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/5BI7bKCEZiA0zod12yXe6S"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "Mentirosa",
-        "url": "https://open.spotify.com/album/0ZD649L9iJC2K7ta70vxNc"
-      },
-      "artists": [
-        {
-          "name": "Russian Red",
-          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/1SP4AUMwLa5TSH4C754DOH"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "Kevin",
         "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 203003,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "Mentirosa",
+        "url": "https://open.spotify.com/album/0ZD649L9iJC2K7ta70vxNc"
+      },
+      "artists": [
+        {
+          "name": "Russian Red",
+          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/1SP4AUMwLa5TSH4C754DOH"
     },
     {
       "added_at": "2026-09-28 16:42:12",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2026-09-28 16:42:12",
       "album": {
-        "name": "Aire Fresco (feat. LYNN)",
-        "url": "https://open.spotify.com/album/4ettSx3GCGTV4sEEILM0q8"
-      },
-      "artists": [
-        {
-          "name": "L'Beel",
-          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
-        },
-        {
-          "name": "LYNN",
-          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
-        }
-      ],
-      "duration_ms": 179134,
-      "name": "Aire Fresco (feat. LYNN)",
-      "url": "https://open.spotify.com/track/7y1t7Zw4DoiS6yXCv3O1k0"
-    },
-    {
-      "added_at": "2026-09-28 16:42:12",
-      "album": {
         "name": "Demian",
         "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 249861,
       "name": "Albino Rhino",
       "url": "https://open.spotify.com/track/3oFGca7dXXLvRC9AD4JdF9"
+    },
+    {
+      "added_at": "2026-09-28 16:42:12",
+      "album": {
+        "name": "Aire Fresco (feat. LYNN)",
+        "url": "https://open.spotify.com/album/4ettSx3GCGTV4sEEILM0q8"
+      },
+      "artists": [
+        {
+          "name": "L'Beel",
+          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
+        },
+        {
+          "name": "LYNN",
+          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
+        }
+      ],
+      "duration_ms": 179134,
+      "name": "Aire Fresco (feat. LYNN)",
+      "url": "https://open.spotify.com/track/7y1t7Zw4DoiS6yXCv3O1k0"
     },
     {
       "added_at": "2026-09-28 16:42:12",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > أفضل أغاني الراي
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,259 likes - 60 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,340 likes - 60 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Raki Ghalta Nti Li Raki Ha9da Eliya](https://open.spotify.com/track/7nRFlVZ5uIkbjpbzWPYaOG) | [Cheb Momo](https://open.spotify.com/artist/2VpXlW68JAFvnfrgSq4XUa), [Yousri Oscar](https://open.spotify.com/artist/5zANHpMauAK5zIFJFOycE2) | [Raki Ghalta Nti Li Raki Ha9da Eliya](https://open.spotify.com/album/2kZixjv307vi0ZL8szji00) | 5:27 |
+| 1 | [Raki Ghalta Nti Li Raki Ha9da Eliya](https://open.spotify.com/track/7nRFlVZ5uIkbjpbzWPYaOG) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Yousri Oscar](https://open.spotify.com/artist/5zANHpMauAK5zIFJFOycE2) | [Raki Ghalta Nti Li Raki Ha9da Eliya](https://open.spotify.com/album/2kZixjv307vi0ZL8szji00) | 5:27 |
 | 2 | [Twehachtek Grave](https://open.spotify.com/track/3omnAT9Aee3I2szep6R894) | [Cheba Souad](https://open.spotify.com/artist/2mtGLDeonPnIV8HDyrxCfl), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Twehachtek Grave](https://open.spotify.com/album/5QnK7ki9llQLXpHFofM4Ns) | 3:26 |
 | 3 | [Nmout w Naarf Ki Rak Nawini](https://open.spotify.com/track/1Ow2vMG9QM0hybymrRJkuH) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Nmout w Naarf Ki Rak Nawini](https://open.spotify.com/album/2uiJd0EbfzH2hMUB97BSVL) | 5:09 |
 | 4 | [C'était prévu](https://open.spotify.com/track/2ewJ2gIhPcZGnX6g3kZfZa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [C'était prévu](https://open.spotify.com/album/4qMCbtIZ2khv5vf5Vhk7YQ) | 4:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Chakam Ya Taalam](https://open.spotify.com/track/5RQk0l6vi4W6pxWVmOavS2) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [Dj Badro](https://open.spotify.com/artist/6zLeYvpaV3RNnhg9nEbwky) | [Chakam Ya Taalam](https://open.spotify.com/album/4yJLC3h0yIUnf3f2hF0Ovh) | 1:47 |
 | 60 | [Yakarhoni Gololi Limada](https://open.spotify.com/track/1IJKFOm451pPfkBKputTyo) | [Salim Louza](https://open.spotify.com/artist/5eUkzLuoz3r8bzu7Cg44Jj) | [Yakarhoni Gololi Limada](https://open.spotify.com/album/1tcn7HWpvgNAzL9iPLn0hD) | 6:24 |
 
-Snapshot ID: `AAAAAIkZsZPe/Dvh6OQCa7DBpsPwO3nE`
+Snapshot ID: `AAAAALUglrfIKIH/CTMkgqSbjtUT453a`

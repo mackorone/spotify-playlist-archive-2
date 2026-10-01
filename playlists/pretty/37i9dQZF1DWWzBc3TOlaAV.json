@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 1016192,
+  "num_followers": 1016297,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 197020,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 254133,
       "name": "Heartbreaker - 1990 Remaster",
       "url": "https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 197020,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 211787,
-      "name": "The Night They Drove Old Dixie Down",
-      "url": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Never To Be Forgotten - The Mustang Years",
         "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 138360,
       "name": "I Fought the Law - Single Version",
       "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 211787,
+      "name": "The Night They Drove Old Dixie Down",
+      "url": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Up On Cripple Creek",
-      "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "River Deep-Mountain High",
         "url": "https://open.spotify.com/album/1CbC5Rms2iIhgxvlyslNJh"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 214880,
       "name": "River Deep - Mountain High",
       "url": "https://open.spotify.com/track/44BmNSqH9uZV5OfIjGcER3"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Up On Cripple Creek",
+      "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
-        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        }
-      ],
-      "duration_ms": 147893,
-      "name": "Heart Full of Soul",
-      "url": "https://open.spotify.com/track/0AiuEo7FCxP2y2WTOpLPe5"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Time Has Come: The Best Of The Chambers Brothers",
         "url": "https://open.spotify.com/album/5ZFPnWBCasn1DZRGk1Qpdu"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 290933,
       "name": "Time Has Come Today - Single Version",
       "url": "https://open.spotify.com/track/5qA1ZrjjVLh1cL9GZOFdNm"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
+        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "duration_ms": 147893,
+      "name": "Heart Full of Soul",
+      "url": "https://open.spotify.com/track/0AiuEo7FCxP2y2WTOpLPe5"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Hit Single Anthology",
-        "url": "https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v"
-      },
-      "artists": [
-        {
-          "name": "The Troggs",
-          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Wild Thing",
-      "url": "https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "In My Lifetime",
         "url": "https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 201800,
       "name": "Sweet Caroline - Single Version",
       "url": "https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Hit Single Anthology",
+        "url": "https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v"
+      },
+      "artists": [
+        {
+          "name": "The Troggs",
+          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Wild Thing",
+      "url": "https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU"
     },
     {
       "added_at": "2024-07-05 23:26:53",

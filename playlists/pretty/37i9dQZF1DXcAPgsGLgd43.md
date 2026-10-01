@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,340 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,374 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 93 | [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 |
 | 94 | [Morenita](https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Paradise Inc.](https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka) | [Morenita](https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr) | 2:58 |
 | 95 | [Piquete Cabron](https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Bray](https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn) | [Piquete Cabron](https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq) | 2:42 |
-| 96 | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT) | 3:16 |
-| 97 | [Rave En La Favela](https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY) | [Rave En La Favela](https://open.spotify.com/album/4rZxSGTxcw5m3SiIKSfTa8) | 3:14 |
+| 96 | [Rave En La Favela](https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY) | [Rave En La Favela](https://open.spotify.com/album/4rZxSGTxcw5m3SiIKSfTa8) | 3:14 |
+| 97 | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT) | 3:16 |
 | 98 | [Mi Gentee](https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ) | [Chinonegro](https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY) | [Mi Gentee EP](https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG) | 3:28 |
 | 99 | [PAPI](https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx) | [PAPI](https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A) | 2:35 |
 | 100 | [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 |

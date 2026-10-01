@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Jeans, Boys & Jesus",
+        "url": "https://open.spotify.com/album/3iDik3yiqMNZPkR1pzdekG"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187727,
+      "name": "Guilty As Charged",
+      "url": "https://open.spotify.com/track/5B2tnGy2KmfE9LcPuc9lXf"
+    },
+    {
+      "album": {
         "name": "Only Started Growing",
         "url": "https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC"
       },

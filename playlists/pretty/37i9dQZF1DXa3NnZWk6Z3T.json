@@ -1,6 +1,6 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 635836,
+  "num_followers": 635849,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Latin & Love Studies",
-        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        },
-        {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
-        }
-      ],
-      "duration_ms": 240298,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Vas a encontrarte (feat. Guitarricadelafuente)",
         "url": "https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 211493,
       "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "Latin & Love Studies",
+        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        },
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        }
+      ],
+      "duration_ms": 240298,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "\u00cdntimo (En Vivo)",
-        "url": "https://open.spotify.com/album/5gxFzD2Aew2LN9fcvezK2m"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 276239,
-      "name": "Que Alguien Me Diga - En Vivo",
-      "url": "https://open.spotify.com/track/1UQB7AlBK4X3hTPbSHOXJf"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Llegu\u00e9 hasta ti (feat. Juanito Makand\u00e9)",
         "url": "https://open.spotify.com/album/3GGoeVNdy9IpN0f2nGRQqW"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 194093,
       "name": "Llegu\u00e9 hasta ti (feat. Juanito Makand\u00e9)",
       "url": "https://open.spotify.com/track/1JnrSFltARbpAUX4kuJ36k"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "\u00cdntimo (En Vivo)",
+        "url": "https://open.spotify.com/album/5gxFzD2Aew2LN9fcvezK2m"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 276239,
+      "name": "Que Alguien Me Diga - En Vivo",
+      "url": "https://open.spotify.com/track/1UQB7AlBK4X3hTPbSHOXJf"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 182186,
       "name": "Para Verte",
       "url": "https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "maracas y cuero",
-        "url": "https://open.spotify.com/album/4IZSe1qS5PxcquNyop7wgn"
-      },
-      "artists": [
-        {
-          "name": "Dav Julca",
-          "url": "https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2"
-        },
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "maracas y cuero",
-      "url": "https://open.spotify.com/track/2nJ9Dt22tBCkrbY2mpIYK6"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 206284,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "maracas y cuero",
+        "url": "https://open.spotify.com/album/4IZSe1qS5PxcquNyop7wgn"
+      },
+      "artists": [
+        {
+          "name": "Dav Julca",
+          "url": "https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2"
+        },
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "maracas y cuero",
+      "url": "https://open.spotify.com/track/2nJ9Dt22tBCkrbY2mpIYK6"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Coraz\u00f3n Amargo",
-        "url": "https://open.spotify.com/album/5RWkXdB3ezOthhANfmy2xh"
-      },
-      "artists": [
-        {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Coraz\u00f3n Amargo",
-      "url": "https://open.spotify.com/track/2JazgzpNBZj0d7bANPnX6W"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Cenizas y Miel",
         "url": "https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 191474,
       "name": "Cenizas y Miel",
       "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "Coraz\u00f3n Amargo",
+        "url": "https://open.spotify.com/album/5RWkXdB3ezOthhANfmy2xh"
+      },
+      "artists": [
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Coraz\u00f3n Amargo",
+      "url": "https://open.spotify.com/track/2JazgzpNBZj0d7bANPnX6W"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1771,22 +1771,22 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "SOMOS JAVYPABLO",
-        "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
+        "name": "Refugio",
+        "url": "https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc"
       },
       "artists": [
         {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         },
         {
-          "name": "Khotton",
-          "url": "https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS"
+          "name": "Fer Casillas",
+          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
         }
       ],
-      "duration_ms": 196765,
-      "name": "Cama de Papel",
-      "url": "https://open.spotify.com/track/1k4EMd4OzpawfGTFvxkRg7"
+      "duration_ms": 230334,
+      "name": "Refugio",
+      "url": "https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -1811,22 +1811,22 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Refugio",
-        "url": "https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc"
+        "name": "SOMOS JAVYPABLO",
+        "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
       },
       "artists": [
         {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
         },
         {
-          "name": "Fer Casillas",
-          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
+          "name": "Khotton",
+          "url": "https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS"
         }
       ],
-      "duration_ms": 230334,
-      "name": "Refugio",
-      "url": "https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ"
+      "duration_ms": 196765,
+      "name": "Cama de Papel",
+      "url": "https://open.spotify.com/track/1k4EMd4OzpawfGTFvxkRg7"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -2223,18 +2223,22 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Capul\u00ed",
-        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
+        "name": "La Fortuna (feat. Tommy Torres)",
+        "url": "https://open.spotify.com/album/4QUUUIiRzrs9pQYRbckcTT"
       },
       "artists": [
         {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+          "name": "Diana Fuentes",
+          "url": "https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
         }
       ],
-      "duration_ms": 202770,
-      "name": "Capul\u00ed",
-      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
+      "duration_ms": 208611,
+      "name": "La Fortuna (feat. Tommy Torres)",
+      "url": "https://open.spotify.com/track/1fHp293tqlQYfAU7vDWIFc"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -2251,6 +2255,22 @@
       "duration_ms": 190006,
       "name": "Volver",
       "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
+    },
+    {
+      "added_at": "2026-04-30 20:25:38",
+      "album": {
+        "name": "Capul\u00ed",
+        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 202770,
+      "name": "Capul\u00ed",
+      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
     },
     {
       "added_at": "2026-04-30 20:25:38",
@@ -2275,26 +2295,6 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "Vientos De Octubre",
-        "url": "https://open.spotify.com/album/3jU3G4fSqMKze4kZHTNdkG"
-      },
-      "artists": [
-        {
-          "name": "Carlos Neda",
-          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
-        },
-        {
-          "name": "Javi Mendoza",
-          "url": "https://open.spotify.com/artist/5uE0qYeF6eqoLgxLfDi3vl"
-        }
-      ],
-      "duration_ms": 202409,
-      "name": "Vientos De Octubre",
-      "url": "https://open.spotify.com/track/4gkp9363KMagdNiJ5lJmVT"
-    },
-    {
-      "added_at": "2026-04-30 20:25:38",
-      "album": {
         "name": "Cada loco con su tema",
         "url": "https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq"
       },
@@ -2315,22 +2315,22 @@
     {
       "added_at": "2026-04-30 20:25:38",
       "album": {
-        "name": "La Fortuna (feat. Tommy Torres)",
-        "url": "https://open.spotify.com/album/4QUUUIiRzrs9pQYRbckcTT"
+        "name": "Vientos De Octubre",
+        "url": "https://open.spotify.com/album/3jU3G4fSqMKze4kZHTNdkG"
       },
       "artists": [
         {
-          "name": "Diana Fuentes",
-          "url": "https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG"
+          "name": "Carlos Neda",
+          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
         },
         {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+          "name": "Javi Mendoza",
+          "url": "https://open.spotify.com/artist/5uE0qYeF6eqoLgxLfDi3vl"
         }
       ],
-      "duration_ms": 208611,
-      "name": "La Fortuna (feat. Tommy Torres)",
-      "url": "https://open.spotify.com/track/1fHp293tqlQYfAU7vDWIFc"
+      "duration_ms": 202409,
+      "name": "Vientos De Octubre",
+      "url": "https://open.spotify.com/track/4gkp9363KMagdNiJ5lJmVT"
     },
     {
       "added_at": "2026-04-30 20:25:38",

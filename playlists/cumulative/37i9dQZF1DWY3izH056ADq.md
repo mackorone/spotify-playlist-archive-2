@@ -4,7 +4,7 @@
 
 > Enjoy music From "Paradox Live"! ©Paradox Live2023
 
-161 songs - 22 hr 47 min
+162 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [No Matter What](https://open.spotify.com/track/7DZ7IveWyOt03jkxMGxpPT) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live \-Road to Legend\- \(Round2 “WILL"\)](https://open.spotify.com/album/0eeHzEubbMtSUAQPx2Yv2T) | 3:08 | 2023-04-25 | 2026-09-16 |
 | [Nobody But Me](https://open.spotify.com/track/1z66lEenIxfivIqx3jwVXP) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 3:45 | 2023-01-31 |  |
 | [One Shot One Kill](https://open.spotify.com/track/3nlyxsekQQVFpzC8slEypK) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live 1st album "TRAP"](https://open.spotify.com/album/41AGmsnU96M9VEhyHrnUOw) | 3:30 | 2022-03-29 | 2026-09-16 |
-| [ONE WAY](https://open.spotify.com/track/3TN8y8iLSjlPP7oZyg7jnp) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live \-Battle of Unity\- Round2 “KARMA”](https://open.spotify.com/album/2N4UgRrRYkHqTrSiy82tCz) | 3:07 | 2025-03-26 |  |
+| [ONE WAY](https://open.spotify.com/track/3TN8y8iLSjlPP7oZyg7jnp) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live \-Battle of Unity\- Round2 “KARMA”](https://open.spotify.com/album/2N4UgRrRYkHqTrSiy82tCz) | 3:07 | 2025-03-26 | 2026-10-01 |
 | [OUTSIDERZ \-悪漢奴等 is Justice\-](https://open.spotify.com/track/2GwNa8lTXk44cGNpNQaMc9) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live Stage Battle "JUSTICE"](https://open.spotify.com/album/3i54Y4LgI4XGwheoY6lejl) | 3:23 | 2022-03-29 | 2026-09-16 |
 | [P△R△DISE \- feat\. ISSA](https://open.spotify.com/track/3JsLZ9MZpwnk9e18KU8l01) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [ISSA](https://open.spotify.com/artist/7Lv8GRenhn7wtrjQurHznx) | [Paradox Live Exhibition Show \-BAE\-](https://open.spotify.com/album/6Mjif8qAaWdTdVOBjrSC1p) | 3:23 | 2022-03-29 | 2026-09-16 |
 | [Rap Guerrilla \- Paradox Live All ARTISTS\-](https://open.spotify.com/track/6qULKH59EzPaQ1dYC3urTh) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live 1st album "TRAP"](https://open.spotify.com/album/41AGmsnU96M9VEhyHrnUOw) | 5:33 | 2022-03-29 | 2026-09-16 |
@@ -169,5 +169,6 @@
 | [喝采 \-Leave It To Me\-](https://open.spotify.com/track/1aLgndk57WjannutLYCFT1) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live \-Road to Legend\- \(Round2 "TRUST"\)](https://open.spotify.com/album/6injsNO9iZ5sLOOwsFIi8f) | 3:44 | 2026-09-15 |  |
 | [大火傷 \- License To Kill \-](https://open.spotify.com/track/1rIyhhyKKKxVJ59x6LqIjx) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 3:48 | 2022-08-30 |  |
 | [祭馬鹿 \-DAWN!! DAWN!!\-](https://open.spotify.com/track/2qn1AYR4TeHsaMXMOhgwA0) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live \-Battle of Unity\- Round4 “CHANCE”](https://open.spotify.com/album/2v9zrYOzVFXgZlUwfUir9Q) | 3:18 | 2026-09-15 |  |
+| [音色](https://open.spotify.com/track/2VnKoiyRr4V00MpX9UjMhI) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 3:04 | 2026-09-15 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

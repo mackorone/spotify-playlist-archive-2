@@ -1,13 +1,93 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: googly eyes. Artwork by Paola Saliby",
-  "num_followers": 243668,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Max Rickun. Artwork by Paola Saliby",
+  "num_followers": 243742,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHKD3yb3GeaO8I10W9I3phIt+5aE",
+  "snapshot_id": "AAAAAPDcuLSBY3D8s4lWLhGMTWkfQNuG",
   "tracks": [
+    {
+      "added_at": "2026-09-30 04:00:27",
+      "album": {
+        "name": "I'M IN THE BAND",
+        "url": "https://open.spotify.com/album/4RYbnY33qSKP55guw0EsxI"
+      },
+      "artists": [
+        {
+          "name": "Max Rickun",
+          "url": "https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl"
+        }
+      ],
+      "duration_ms": 199094,
+      "name": "I'M IN THE BAND",
+      "url": "https://open.spotify.com/track/4kDpQhtAarLjq35TOG9K63"
+    },
+    {
+      "added_at": "2026-09-30 04:00:27",
+      "album": {
+        "name": "1st Floor",
+        "url": "https://open.spotify.com/album/0CIvlKMuPlxcMUakEP63vh"
+      },
+      "artists": [
+        {
+          "name": "YiiiNKA",
+          "url": "https://open.spotify.com/artist/1RtPlRQt00Wh0AXsaLFgZ2"
+        }
+      ],
+      "duration_ms": 141257,
+      "name": "famous",
+      "url": "https://open.spotify.com/track/7IdpYmDzsFLh5n0tuYrurN"
+    },
+    {
+      "added_at": "2026-09-30 04:00:27",
+      "album": {
+        "name": "Ireland",
+        "url": "https://open.spotify.com/album/2uzgtFzX2z8L9NnRrSUKgm"
+      },
+      "artists": [
+        {
+          "name": "su i think",
+          "url": "https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1"
+        }
+      ],
+      "duration_ms": 176165,
+      "name": "Ireland",
+      "url": "https://open.spotify.com/track/5iXvUuow4NySBMCtWiGz9m"
+    },
+    {
+      "added_at": "2026-09-30 04:00:27",
+      "album": {
+        "name": "hit record",
+        "url": "https://open.spotify.com/album/1sYchovLfQEN8BEgsxEMlf"
+      },
+      "artists": [
+        {
+          "name": "Naya Yeira",
+          "url": "https://open.spotify.com/artist/2hsxVNlv84j20rvHUxOvfF"
+        }
+      ],
+      "duration_ms": 139306,
+      "name": "hit record",
+      "url": "https://open.spotify.com/track/6a2ohnqXabnrXLNrAQQkZR"
+    },
+    {
+      "added_at": "2026-09-30 04:00:27",
+      "album": {
+        "name": "misses independent",
+        "url": "https://open.spotify.com/album/6L2JFEfsVnzPyPcMahSJ5O"
+      },
+      "artists": [
+        {
+          "name": "Harris Hills",
+          "url": "https://open.spotify.com/artist/1dSuARb1qCtlxBWAObmCCW"
+        }
+      ],
+      "duration_ms": 172428,
+      "name": "misses independent",
+      "url": "https://open.spotify.com/track/5SrEfnGeY0Ip8m8WUG5OQd"
+    },
     {
       "added_at": "2026-09-23 04:00:18",
       "album": {
@@ -845,38 +925,6 @@
       "url": "https://open.spotify.com/track/7uqtB0u3EtELNUkLXsq7oZ"
     },
     {
-      "added_at": "2026-08-05 04:00:03",
-      "album": {
-        "name": "Who Could Not Be Broken",
-        "url": "https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il"
-      },
-      "artists": [
-        {
-          "name": "Dominique Way",
-          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "Lady In the GPS",
-      "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
-    },
-    {
-      "added_at": "2026-08-05 04:00:03",
-      "album": {
-        "name": "heartbreaker",
-        "url": "https://open.spotify.com/album/1vldrrNFlFsYgeg8GShaKh"
-      },
-      "artists": [
-        {
-          "name": "kitty bella",
-          "url": "https://open.spotify.com/artist/3dDsAxEGXIESY6puCA7YKz"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "heartbreaker",
-      "url": "https://open.spotify.com/track/6G9GiMHJrwzZDV3gNuzGW8"
-    },
-    {
       "added_at": "2026-07-29 04:00:18",
       "album": {
         "name": "ANGELFOODCAKE",
@@ -891,54 +939,6 @@
       "duration_ms": 213333,
       "name": "CANDYNECKLACE",
       "url": "https://open.spotify.com/track/0OCNB7aZHcl4FmBjfvR844"
-    },
-    {
-      "added_at": "2026-08-05 04:00:03",
-      "album": {
-        "name": "pretty please",
-        "url": "https://open.spotify.com/album/5nz9UHOeV9hcsheM8HLjgN"
-      },
-      "artists": [
-        {
-          "name": "TEILZ",
-          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "pretty please",
-      "url": "https://open.spotify.com/track/7mXWEoSBIPVZ1quMSDhVSC"
-    },
-    {
-      "added_at": "2026-08-05 04:00:03",
-      "album": {
-        "name": "Tough Act To Follow",
-        "url": "https://open.spotify.com/album/6Ra73YJTLoLc2lmnew6HyS"
-      },
-      "artists": [
-        {
-          "name": "Hunter Daily",
-          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "Tough Act To Follow",
-      "url": "https://open.spotify.com/track/3zCCpmvOk5GYI3K6iPyYgY"
-    },
-    {
-      "added_at": "2026-08-05 04:00:03",
-      "album": {
-        "name": "SATURN",
-        "url": "https://open.spotify.com/album/6Ilr5VbWCPFRvf9UNOOKsf"
-      },
-      "artists": [
-        {
-          "name": "Baobei",
-          "url": "https://open.spotify.com/artist/2Pj6Ot77F8iLP6H0QkXt1h"
-        }
-      ],
-      "duration_ms": 158124,
-      "name": "FERAL (don't talk to me)",
-      "url": "https://open.spotify.com/track/7wHjcHhQJb883IZpeDlJgw"
     },
     {
       "added_at": "2026-07-29 04:00:18",

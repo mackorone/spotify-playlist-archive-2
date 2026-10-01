@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Kirk Franklin & Glorilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,636 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,638 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 13 | [CAN'T BELIEVE](https://open.spotify.com/track/1n4kuKZCmPxSIZn56FkxSN) | [MARV](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [CAN'T BELIEVE](https://open.spotify.com/album/0qiimlCDBGLKzAHRw5r5EY) | 3:07 |
 | 14 | [In My Head](https://open.spotify.com/track/7LTHvtt8bBuyWRqJP2kJ0k) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [In My Head](https://open.spotify.com/album/5sXXFmNMK4KvvNHIzRwJnb) | 3:26 |
 | 15 | [LATE NIGHT](https://open.spotify.com/track/3RMtlXBFBqI4KSpinre8cN) | [REECE](https://open.spotify.com/artist/741RL7g85MwHhA67vF15cO) | [LATE NIGHT](https://open.spotify.com/album/7LetRzI03zjKcxljgdBYPt) | 2:34 |
-| 16 | [in the name \- \(the remix\)](https://open.spotify.com/track/3pwF9EoWMPVZWKshwqbVz7) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo), [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Day Bit](https://open.spotify.com/artist/6f4UCM5OJv6vDzpgcZIF1l) | [in the name \(the remix\)](https://open.spotify.com/album/2MxuUjt57exFGiSHcjlymr) | 2:31 |
+| 16 | [in the name \- with friends](https://open.spotify.com/track/3pwF9EoWMPVZWKshwqbVz7) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo), [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [in the name \(with friends\)](https://open.spotify.com/album/2MxuUjt57exFGiSHcjlymr) | 2:31 |
 | 17 | [Joy](https://open.spotify.com/track/27GjPtEr0vncJbMESd9D7D) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Joy](https://open.spotify.com/album/7gYNYVno4RBa5mkqf6CRFr) | 2:49 |
 | 18 | [King Of All Days](https://open.spotify.com/track/6HPB4frkmNBjNhKWaQQvO3) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [King Of All Days](https://open.spotify.com/album/6IzoyOCRwoNdxOq9YXovFc) | 4:29 |
 | 19 | [MUCH FOR ME](https://open.spotify.com/track/5Ott7cpAKa5oGzbiHZK06B) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [on the go](https://open.spotify.com/album/6JdiUCekjgB6H4ucX0ZWGu) | 3:39 |

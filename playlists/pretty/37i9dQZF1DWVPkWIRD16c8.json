@@ -1,6 +1,6 @@
 {
   "description": "Let Jesus take the wheel...and the aux cord! ",
-  "num_followers": 274065,
+  "num_followers": 274218,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
         "name": "Benjamin William Hastings",
         "url": "https://open.spotify.com/album/1K9dbdsz6jagqTAkrHHSmk"
       },
@@ -439,34 +455,18 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 184186,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
-        "name": "Heaven On My Mind",
-        "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 203450,
-      "name": "Heaven On My Mind",
-      "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
+      "duration_ms": 193091,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
+        "name": "Heaven On My Mind",
+        "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
         }
       ],
-      "duration_ms": 193091,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
+      "duration_ms": 203450,
+      "name": "Heaven On My Mind",
+      "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "So Long Sad Songs",
-        "url": "https://open.spotify.com/album/7mU9YGfE049DBQYQTiefuG"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 185092,
-      "name": "So Long Sad Songs",
-      "url": "https://open.spotify.com/track/05qqJOOLE3tfnEOTP67j8U"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Do It All Alone",
         "url": "https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 172738,
       "name": "Do It All Alone",
       "url": "https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "So Long Sad Songs",
+        "url": "https://open.spotify.com/album/7mU9YGfE049DBQYQTiefuG"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 185092,
+      "name": "So Long Sad Songs",
+      "url": "https://open.spotify.com/track/05qqJOOLE3tfnEOTP67j8U"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
+        "name": "Walk Through Fire",
+        "url": "https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 193274,
+      "name": "Walk Through Fire",
+      "url": "https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
         "name": "I'm So Blessed (Aaron Cole Mix)",
         "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
-        "name": "Walk Through Fire",
-        "url": "https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 193274,
-      "name": "Walk Through Fire",
-      "url": "https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/4ORpINjKrVyuy0iipO2Xz9"
+      },
+      "artists": [
+        {
+          "name": "Capital Kings",
+          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "duration_ms": 171536,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/6ofKv7jnJCB2am9gqd4xVo"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
         "name": "mourning 2 dancing",
         "url": "https://open.spotify.com/album/4nbGCL267piZpeBJ7jQsFq"
       },
@@ -1023,26 +1043,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/4ORpINjKrVyuy0iipO2Xz9"
-      },
-      "artists": [
-        {
-          "name": "Capital Kings",
-          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
-        },
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        }
-      ],
-      "duration_ms": 171536,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/6ofKv7jnJCB2am9gqd4xVo"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Far Country",
         "url": "https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 218000,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
-        "name": "After All This Time",
-        "url": "https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2"
-      },
-      "artists": [
-        {
-          "name": "Van Buren",
-          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
-        }
-      ],
-      "duration_ms": 218305,
-      "name": "After All This Time",
-      "url": "https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
+        "name": "After All This Time",
+        "url": "https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2"
+      },
+      "artists": [
+        {
+          "name": "Van Buren",
+          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
+        }
+      ],
+      "duration_ms": 218305,
+      "name": "After All This Time",
+      "url": "https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
         "name": "Runs In The Blood",
         "url": "https://open.spotify.com/album/2koZ327e01iwRUcOEzWd69"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 184203,
       "name": "Runs In The Blood",
       "url": "https://open.spotify.com/track/0VRNfCYpbLDM2QJapqw9aC"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "Everything_",
+        "url": "https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1"
+      },
+      "artists": [
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q"
+        }
+      ],
+      "duration_ms": 231151,
+      "name": "Everything_",
+      "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1127,22 +1143,6 @@
       "duration_ms": 252521,
       "name": "The Way Up",
       "url": "https://open.spotify.com/track/596sgQk0ouzDnaXouhLRPX"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
-        "name": "Everything_",
-        "url": "https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1"
-      },
-      "artists": [
-        {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q"
-        }
-      ],
-      "duration_ms": 231151,
-      "name": "Everything_",
-      "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "give & take",
-        "url": "https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 206719,
-      "name": "give & take",
-      "url": "https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 198706,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "give & take",
+        "url": "https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 206719,
+      "name": "give & take",
+      "url": "https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/02Q11OcOgZz90H5MWrGkoq"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 167065,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Tbgv6lIzTGPsXlTIBvb1E"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "God Showing Out",
         "url": "https://open.spotify.com/album/7xdAUVF3LuOz8FbD7rOlmW"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/02Q11OcOgZz90H5MWrGkoq"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 167065,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Tbgv6lIzTGPsXlTIBvb1E"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
         "name": "NO SKIPS / GOOD OLD DAYS",
         "url": "https://open.spotify.com/album/4igdFeAJW7MrQZ2bDxcm8X"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 190350,
       "name": "NO SKIPS",
       "url": "https://open.spotify.com/track/3E1Z0oPXJ5ZkAktQhJPzhC"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
-      },
-      "artists": [
-        {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
-        }
-      ],
-      "duration_ms": 186558,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "duration_ms": 186558,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
         "name": "Still Small Voice",
         "url": "https://open.spotify.com/album/499GkCyuTPX1U2BXhSDBon"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 205781,
       "name": "Still Small Voice",
       "url": "https://open.spotify.com/track/0N0bFgkkvD6sIX8PfJ1Ywi"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "Cascade View",
+        "url": "https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 165382,
+      "name": "Cascade View",
+      "url": "https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1587,22 +1603,6 @@
       "duration_ms": 111428,
       "name": "GREATER LOVE",
       "url": "https://open.spotify.com/track/3gdAmqnh0cQiknfkLSB17H"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
-        "name": "Cascade View",
-        "url": "https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 165382,
-      "name": "Cascade View",
-      "url": "https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/3l908EdsULb5j9vmSsNnvt"
+        "name": "In Process",
+        "url": "https://open.spotify.com/album/4DJ4sCWyimQRFEwfzoxJz5"
       },
       "artists": [
         {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
         }
       ],
-      "duration_ms": 322502,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3bZBLuUUlBGOz3icz5zrRX"
+      "duration_ms": 192014,
+      "name": "Reaching for the Light",
+      "url": "https://open.spotify.com/track/7jWire3mnMRBe3ynaTip4u"
     }
   ],
   "unique_name": "Christian Road Trip",

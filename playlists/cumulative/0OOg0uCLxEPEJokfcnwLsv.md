@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-671 songs - 1 day 17 hr 19 min
+673 songs - 1 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Chilly](https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:38 | 2026-04-16 | 2026-06-13 |
 | [Ciclos](https://open.spotify.com/track/4oIDPzkzzlZSWo2IKn6YfR) | [Peyote](https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF) | [Ciclos](https://open.spotify.com/album/3XL3e4KxuMu0ty0nj8HW2F) | 3:57 | 2025-11-11 | 2025-12-12 |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-15 | 2026-02-04 |
+| [Close To The Sun](https://open.spotify.com/track/3MWOzg0jhCbJOOQZEIKQhD) | [Diopter](https://open.spotify.com/artist/167b5d6MTZVu8prM9XkT7C) | [Close To The Sun](https://open.spotify.com/album/4e9LqsBC4LfHMkOGruVzBy) | 4:22 | 2026-10-01 |  |
 | [Cold](https://open.spotify.com/track/3jwVXmDi7lad4TOq4g7liD) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/5WUYMbJOzjX4vDZxPT57he) | 2:53 | 2026-05-28 | 2026-08-08 |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-11-04 | 2025-12-12 |
 | [Cold as Ice](https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Cold as Ice](https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM) | 3:07 | 2025-07-30 |  |
@@ -291,6 +292,7 @@
 | [Infectious](https://open.spotify.com/track/3p2ikRjARPokez7R61CUe9) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Infectious](https://open.spotify.com/album/0gL0fHZvzwODSW0jOJ9BMP) | 4:02 | 2026-07-06 | 2026-08-08 |
 | [Intenté Olvidarte](https://open.spotify.com/track/3ksN7lVHRGcQaulNC24Z1w) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Intenté Olvidarte](https://open.spotify.com/album/7nMf1VS5aC6F7jPMiUpCje) | 3:47 | 2026-09-08 |  |
 | [It Never Rains in Southern California](https://open.spotify.com/track/3wfaNsrfzu364Ue4Uwn96V) | [Darow](https://open.spotify.com/artist/1fJhkmWQSxhFSCe4ZGKj0l) | [It Never Rains in Southern California](https://open.spotify.com/album/0DNRbJVfBp5PlyR8q4YCXs) | 3:52 | 2026-03-20 | 2026-09-01 |
+| [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 | 2026-09-30 |  |
 | [It's Been a While \- Remastered](https://open.spotify.com/track/3DF5kTTZ9zsy45hhTqzbXH) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [It's Been a While \(Remastered\)](https://open.spotify.com/album/4VELm0GmTzKMDVgvxBNdA2) | 4:15 | 2026-01-19 | 2026-05-17 |
 | [It's Just an Act](https://open.spotify.com/track/0gA0sbktF61KIXJfkE6Kpn) | [Lizard Brain Trust](https://open.spotify.com/artist/1NTh40qQFwp4j8xerCD1js) | [It's Just an Act](https://open.spotify.com/album/6bVxbVsb0xRVgH4u6HFhfu) | 2:36 | 2026-09-17 |  |
 | [It's Not Much But It's Honest](https://open.spotify.com/track/7qk61UVR5b4uOZPERARakC) | [Chase Cavanaugh](https://open.spotify.com/artist/6DH1kypdObaGWIcKEefQEQ) | [It's Not Much But It's Honest](https://open.spotify.com/album/0s6g5E03GbA8a6rK2G2rfI) | 4:08 | 2026-01-22 | 2026-02-18 |

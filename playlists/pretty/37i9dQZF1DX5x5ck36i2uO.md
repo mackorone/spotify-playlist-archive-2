@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,985 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,995 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 45 | [today also \(feat\. Paloalto & The Quiett\)](https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 4:08 |
 | 46 | [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 |
 | 47 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 |
-| 48 | [Unknown guy](https://open.spotify.com/track/3L35k66dy48LZCty4rOqxM) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:07 |
-| 49 | [Flowers \(feat.Justhis\)](https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [저스디스 \(JUSTHIS\)](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Piece of mine](https://open.spotify.com/album/3UJRHoUkXc5Gt1Ej6qMwJ4) | 3:55 |
-| 50 | [Undertaker \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/4bU9VYTfIbgA1vqUvXEsgg) | [Yung Blesh](https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [Am I Trippin'?](https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm) | 2:31 |
+| 48 | [Flowers \(feat.Justhis\)](https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [저스디스 \(JUSTHIS\)](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Piece of mine](https://open.spotify.com/album/3UJRHoUkXc5Gt1Ej6qMwJ4) | 3:55 |
+| 49 | [Undertaker \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/4bU9VYTfIbgA1vqUvXEsgg) | [Yung Blesh](https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [Am I Trippin'?](https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm) | 2:31 |
+| 50 | [Unknown guy](https://open.spotify.com/track/3L35k66dy48LZCty4rOqxM) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:07 |
 
 Snapshot ID: `AAAAAHgjBe8ttxQqdy1zwFPuOP2XzklP`

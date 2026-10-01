@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Taylor Swift, Phoebe Bridgers, Madonna & Charli xcx, Tinashe, Karan Aujla, Josh Ross, Max McNown, Kardinal Offishall, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,321 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,336 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,18 +1,34 @@
 {
   "description": "<a href=\"spotify:artist:4nhvb6x9ZhPiYCzrHDNia9\">Daphni</a>'s track IDs. Updated regularly. Curated by Daphni. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 19427,
+  "num_followers": 19434,
   "original_name": "Daphni's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACcVGdvFYnZmfHU3nCnRolweWgMY",
+  "snapshot_id": "AAAAAG1bqoQaF8ifAnw6yOAmbLaKhKAt",
   "tracks": [
     {
-      "added_at": "2026-02-09 14:00:55",
+      "added_at": "2026-09-30 11:49:54",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/6EwceabziOOptW7N7tT626"
+        "name": "goodbye! later on!",
+        "url": "https://open.spotify.com/album/5xDOHYY3wSYuOHeZAhzrqI"
+      },
+      "artists": [
+        {
+          "name": "altrice",
+          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
+        }
+      ],
+      "duration_ms": 273230,
+      "name": "goodbye! later on!",
+      "url": "https://open.spotify.com/track/1ljxYB9lQqJVM5N0gX39Ze"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "Butterfly (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7EHig29QS76cBG55Gff2PX"
       },
       "artists": [
         {
@@ -20,9 +36,289 @@
           "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
         }
       ],
-      "duration_ms": 212909,
-      "name": "Hang",
-      "url": "https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h"
+      "duration_ms": 175427,
+      "name": "Catch 23",
+      "url": "https://open.spotify.com/track/639MGSK1oVDJSzohnFouQe"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "Echoed Dafnino (Pearson Sound Remix)",
+        "url": "https://open.spotify.com/album/4DCNHSfidxHcFpK61aPraT"
+      },
+      "artists": [
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        },
+        {
+          "name": "MaMan",
+          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
+        },
+        {
+          "name": "Pearson Sound",
+          "url": "https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J"
+        }
+      ],
+      "duration_ms": 309059,
+      "name": "Echoed Dafnino - Pearson Sound Remix",
+      "url": "https://open.spotify.com/track/67Si0YFqgMomIJNbnr88Ga"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "Heart Burned",
+        "url": "https://open.spotify.com/album/0KsAo1ewGMwiNYMMcMZgNx"
+      },
+      "artists": [
+        {
+          "name": "Aasthma",
+          "url": "https://open.spotify.com/artist/0oWDC2Rq9mbNIzMxoRpdoc"
+        }
+      ],
+      "duration_ms": 234782,
+      "name": "Heart Burned",
+      "url": "https://open.spotify.com/track/3oVlCx70yVXe0uDZWs7tgh"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 455693,
+      "name": "SOLE: FLOATING POINTS VERSION",
+      "url": "https://open.spotify.com/track/0uiH6W4NYKHCSNuyfWsIG3"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "Lena",
+        "url": "https://open.spotify.com/album/0Z0G2qXFcKhI3qg8k1UIYe"
+      },
+      "artists": [
+        {
+          "name": "Laurine Frost",
+          "url": "https://open.spotify.com/artist/3kl1CfqrR3WC2dc2BKtvCS"
+        }
+      ],
+      "duration_ms": 262437,
+      "name": "A Playful Piece of String",
+      "url": "https://open.spotify.com/track/5D46JvNRDCE1r7CNlsmcsP"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "Duistre Kamers",
+        "url": "https://open.spotify.com/album/1PypVJPUQAeK0BpA9XNtBb"
+      },
+      "artists": [
+        {
+          "name": "De Ambassade",
+          "url": "https://open.spotify.com/artist/0GZYFERImx0KoJ1tpN1iuT"
+        }
+      ],
+      "duration_ms": 196642,
+      "name": "Wat Voel Je Nou",
+      "url": "https://open.spotify.com/track/3STVaiG7OozAssfjBIVt0T"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "Reversing Time",
+        "url": "https://open.spotify.com/album/4MQuIkTkCkMgklMXVb6TcQ"
+      },
+      "artists": [
+        {
+          "name": "Erik Luebs",
+          "url": "https://open.spotify.com/artist/6WkOn4fj9anahTPdMPqTNy"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "Memory Pool",
+      "url": "https://open.spotify.com/track/7qIf0iZ0cWgmdUrPfA7V9T"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1bzhoN9vur8qy0l7TCnnid"
+      },
+      "artists": [
+        {
+          "name": "Monsta Boy",
+          "url": "https://open.spotify.com/artist/0YgabnWomkooWIaTM6VOfE"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "Sorry! (I Didn't Know) - Original Radio Edit",
+      "url": "https://open.spotify.com/track/1Hcu2NeyCTqcvk2UByNzIR"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "Sad Piano House / Cloudy (Kelbin Remixes)",
+        "url": "https://open.spotify.com/album/6S7g5c37if5FAFyiX8TmOf"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        },
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "duration_ms": 273191,
+      "name": "Sad Piano House - Kelbin Remix",
+      "url": "https://open.spotify.com/track/0R6QT8YxsM940uOb833wak"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "Ramos (Verraco Reshape)",
+        "url": "https://open.spotify.com/album/4ukk6hHQIcuGvqRjGAkTpB"
+      },
+      "artists": [
+        {
+          "name": "Ploy",
+          "url": "https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN"
+        },
+        {
+          "name": "Verraco",
+          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
+        }
+      ],
+      "duration_ms": 425000,
+      "name": "Ramos (Verraco Reshape)",
+      "url": "https://open.spotify.com/track/2AqkO83vEJOXlw24ZY4GjU"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "Cocktail Mexico",
+        "url": "https://open.spotify.com/album/6VcVWY5OP6S0Cbtl9yUsre"
+      },
+      "artists": [
+        {
+          "name": "EYE",
+          "url": "https://open.spotify.com/artist/0jxSwFqPTF3A3UPAbWDp8I"
+        }
+      ],
+      "duration_ms": 201411,
+      "name": "Yellow Density",
+      "url": "https://open.spotify.com/track/4eVxKQbKTw7SZHcxMgkme6"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "LC",
+        "url": "https://open.spotify.com/album/6KCZbjfik8Tdswe0uw8tc8"
+      },
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        }
+      ],
+      "duration_ms": 115733,
+      "name": "Detail For Paul",
+      "url": "https://open.spotify.com/track/7Im0JOCcdfmSEm4f0PQwla"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "11110",
+        "url": "https://open.spotify.com/album/1fdrIrFiihmNFtaPvfrRa9"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/5aAjDF4uS2ft9fy9vjXWYv"
+        }
+      ],
+      "duration_ms": 382212,
+      "name": "11110B",
+      "url": "https://open.spotify.com/track/3P2BAv3iJNV1J3VSKpbKLX"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/5CApMXuLrAYdHrBmE1akhq"
+      },
+      "artists": [
+        {
+          "name": "Ambivalent",
+          "url": "https://open.spotify.com/artist/6mP9zMUpvIMUMxkHfB5GUB"
+        },
+        {
+          "name": "Michael L. Penman",
+          "url": "https://open.spotify.com/artist/1fnaFJT7q5h6MEVQWbK0aA"
+        }
+      ],
+      "duration_ms": 352905,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/6Outs9NPsMand2PXfVznAV"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "Kokoro 01",
+        "url": "https://open.spotify.com/album/5KONY3dxu3QBHZvLZ0P6CZ"
+      },
+      "artists": [
+        {
+          "name": "Ernesto",
+          "url": "https://open.spotify.com/artist/06Tz5j41sfgdku57McWBzh"
+        }
+      ],
+      "duration_ms": 341028,
+      "name": "Red Velvet",
+      "url": "https://open.spotify.com/track/7mAkYTStY7iP028kYYOMsm"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "hav u a sec",
+        "url": "https://open.spotify.com/album/16Gl86UJDr0uQe244RYCui"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 298132,
+      "name": "hav u a sec",
+      "url": "https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6"
+    },
+    {
+      "added_at": "2026-09-30 11:49:54",
+      "album": {
+        "name": "I Did You Wrong",
+        "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "duration_ms": 172965,
+      "name": "I Did You Wrong",
+      "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
     },
     {
       "added_at": "2026-02-09 14:00:55",

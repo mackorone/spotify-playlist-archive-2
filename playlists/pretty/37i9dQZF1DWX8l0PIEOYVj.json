@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass  \ud83d\udef8  featuring Andrew Bayer",
-  "num_followers": 473879,
+  "num_followers": 473877,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
+        "name": "The Shadow Realm",
+        "url": "https://open.spotify.com/album/6APpd11qDPfXsVAWoEL2Or"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "baby blue",
+          "url": "https://open.spotify.com/artist/6DdWFOHTfxcBOLTHMrKpAN"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Empty Space (Without You Pt.2)",
+      "url": "https://open.spotify.com/track/1PTGyb8weMv3LAoeet3qm4"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/26KY5Noaiuq6EZB5CTiEpC"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 178285,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/3HD9GLv9hzwTPAkhmBIXKq"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
-        "name": "The Shadow Realm",
-        "url": "https://open.spotify.com/album/6APpd11qDPfXsVAWoEL2Or"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "baby blue",
-          "url": "https://open.spotify.com/artist/6DdWFOHTfxcBOLTHMrKpAN"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Empty Space (Without You Pt.2)",
-      "url": "https://open.spotify.com/track/1PTGyb8weMv3LAoeet3qm4"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -1435,6 +1435,30 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/7jdmw56fXUz5RHyVHXZ6X4"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/5zJWZLWlChbh820KLmMPIF"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
         "name": "We Survive",
         "url": "https://open.spotify.com/album/5SgMAXg4QWmXumx1eHQ03w"
       },
@@ -1475,30 +1499,6 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
-        "name": "Rise Up",
-        "url": "https://open.spotify.com/album/7jdmw56fXUz5RHyVHXZ6X4"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/5zJWZLWlChbh820KLmMPIF"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
+        "name": "DOPAMINE++",
+        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "DOPAMINE++",
+      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
         "name": "Let It Go (feat. Nevve)",
         "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 238285,
       "name": "Let It Go (feat. Nevve)",
       "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
-        "name": "DOPAMINE++",
-        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "DOPAMINE++",
-      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -1799,26 +1799,22 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "PULL ME CLOSER",
-        "url": "https://open.spotify.com/album/1zH6k6Xzd6AN9SGgIyIDcS"
+        "name": "Same High",
+        "url": "https://open.spotify.com/album/0Rh2luIqvjbDpzwvSXhhhN"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
         },
         {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        },
-        {
-          "name": "artemis orion",
-          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
         }
       ],
-      "duration_ms": 199183,
-      "name": "PULL ME CLOSER",
-      "url": "https://open.spotify.com/track/42Vv0VrHNzSlbhedKSPLs9"
+      "duration_ms": 213000,
+      "name": "Same High",
+      "url": "https://open.spotify.com/track/5kNfbwKazl907qSctxI1iI"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -1843,42 +1839,26 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "PART I - EXODUS",
-        "url": "https://open.spotify.com/album/3JzaD3OxtVSVwXwwBQkohd"
+        "name": "PULL ME CLOSER",
+        "url": "https://open.spotify.com/album/1zH6k6Xzd6AN9SGgIyIDcS"
       },
       "artists": [
         {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         },
         {
-          "name": "Megan Ashworth",
-          "url": "https://open.spotify.com/artist/5VWrCbjYaF07x1vTwYJr0S"
-        }
-      ],
-      "duration_ms": 214096,
-      "name": "Colder",
-      "url": "https://open.spotify.com/track/65PJnPSmGpCo4C7Mzx7Yjb"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
-        "name": "Something Bout You",
-        "url": "https://open.spotify.com/album/4vNs2UzUz5w5gB78mIlkyg"
-      },
-      "artists": [
-        {
-          "name": "LOCKBOX",
-          "url": "https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro"
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
         },
         {
-          "name": "EYLA",
-          "url": "https://open.spotify.com/artist/33psDUfH523L3oZxfpoPW1"
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
         }
       ],
-      "duration_ms": 217600,
-      "name": "Something Bout You",
-      "url": "https://open.spotify.com/track/3AL2QjShP9KzTvikzJz289"
+      "duration_ms": 199183,
+      "name": "PULL ME CLOSER",
+      "url": "https://open.spotify.com/track/42Vv0VrHNzSlbhedKSPLs9"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -1907,22 +1887,42 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "Same High",
-        "url": "https://open.spotify.com/album/0Rh2luIqvjbDpzwvSXhhhN"
+        "name": "Something Bout You",
+        "url": "https://open.spotify.com/album/4vNs2UzUz5w5gB78mIlkyg"
       },
       "artists": [
         {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+          "name": "LOCKBOX",
+          "url": "https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro"
         },
         {
-          "name": "Trella",
-          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+          "name": "EYLA",
+          "url": "https://open.spotify.com/artist/33psDUfH523L3oZxfpoPW1"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Same High",
-      "url": "https://open.spotify.com/track/5kNfbwKazl907qSctxI1iI"
+      "duration_ms": 217600,
+      "name": "Something Bout You",
+      "url": "https://open.spotify.com/track/3AL2QjShP9KzTvikzJz289"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
+        "name": "PART I - EXODUS",
+        "url": "https://open.spotify.com/album/3JzaD3OxtVSVwXwwBQkohd"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Megan Ashworth",
+          "url": "https://open.spotify.com/artist/5VWrCbjYaF07x1vTwYJr0S"
+        }
+      ],
+      "duration_ms": 214096,
+      "name": "Colder",
+      "url": "https://open.spotify.com/track/65PJnPSmGpCo4C7Mzx7Yjb"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2235,6 +2235,26 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
+        "name": "Meet Me In The Middle",
+        "url": "https://open.spotify.com/album/0Wmc5Dl0zjqmdM1LoEEfor"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Meet Me In The Middle",
+      "url": "https://open.spotify.com/track/5OKgJEB1FKe4CGctSNkdNS"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
         "name": "Miles From Home",
         "url": "https://open.spotify.com/album/4LmrGemhT0eR5LusWomTMk"
       },
@@ -2255,26 +2275,6 @@
       "duration_ms": 241548,
       "name": "Miles From Home",
       "url": "https://open.spotify.com/track/6lU6cq5kJc81K2quLJ8mtp"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
-        "name": "Meet Me In The Middle",
-        "url": "https://open.spotify.com/album/0Wmc5Dl0zjqmdM1LoEEfor"
-      },
-      "artists": [
-        {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Meet Me In The Middle",
-      "url": "https://open.spotify.com/track/5OKgJEB1FKe4CGctSNkdNS"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "Mirrorverse",
-        "url": "https://open.spotify.com/album/5Vb5UNccfVIqVbul0pEqFm"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "Mirrorverse",
-      "url": "https://open.spotify.com/track/5WHowBY3bpMMxoWRGAVVLp"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
         "name": "Hold Onto Me",
         "url": "https://open.spotify.com/album/4vkuDbVU5e3XZPFB2Ax873"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 160000,
       "name": "Hold Onto Me",
       "url": "https://open.spotify.com/track/4b6wQ8l2RvL6NklH6GDN8o"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
+        "name": "Mirrorverse",
+        "url": "https://open.spotify.com/album/5Vb5UNccfVIqVbul0pEqFm"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "Mirrorverse",
+      "url": "https://open.spotify.com/track/5WHowBY3bpMMxoWRGAVVLp"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2655,22 +2655,6 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/6qaKapLUr7K1P7kHxDfMu7"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/6zDvaOVlmbV1hpKfUiPN4q"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
         "name": "Ready Now",
         "url": "https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU"
       },
@@ -2687,6 +2671,22 @@
       "duration_ms": 201931,
       "name": "Ready Now",
       "url": "https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/6qaKapLUr7K1P7kHxDfMu7"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/6zDvaOVlmbV1hpKfUiPN4q"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2751,26 +2751,6 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/6dKMXL0sNKY71m2JqnbH0v"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "JIM",
-          "url": "https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Curtain Call",
-      "url": "https://open.spotify.com/track/7bwErxWaQkAHbFfFJFJ8QV"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
         "name": "Waiting On This Day Forever",
         "url": "https://open.spotify.com/album/0prOosQFge1HKryicdbaZ1"
       },
@@ -2791,6 +2771,26 @@
       "duration_ms": 212625,
       "name": "Waiting On This Day Forever",
       "url": "https://open.spotify.com/track/0C1NSDqt7Vr6OxfoiBprOS"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/6dKMXL0sNKY71m2JqnbH0v"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "JIM",
+          "url": "https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Curtain Call",
+      "url": "https://open.spotify.com/track/7bwErxWaQkAHbFfFJFJ8QV"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2859,6 +2859,22 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        }
+      ],
+      "duration_ms": 179555,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
         "name": "Beautiful & Broken",
         "url": "https://open.spotify.com/album/7n0aDdVT9sd9h1ZlgJbyyV"
       },
@@ -2895,22 +2911,6 @@
       "duration_ms": 164785,
       "name": "Have My Heart",
       "url": "https://open.spotify.com/track/33lIbOLfF200gictVibk9O"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
-      },
-      "artists": [
-        {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        }
-      ],
-      "duration_ms": 179555,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -2971,6 +2971,26 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
+        "name": "COPE",
+        "url": "https://open.spotify.com/album/5ft63ve9l4E71Bxm4IKw3R"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "babyidontlikeyou",
+          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
+        }
+      ],
+      "duration_ms": 218557,
+      "name": "Taste of Your Tongue",
+      "url": "https://open.spotify.com/track/2FutQIWvLmm9BG55Hmr4cR"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/0Pjb8nZBlx7muWOH2VZJoy"
       },
@@ -2991,26 +3011,6 @@
       "duration_ms": 192391,
       "name": "Numb",
       "url": "https://open.spotify.com/track/0kMWWZzHQwB5HaIkWhObP5"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
-        "name": "COPE",
-        "url": "https://open.spotify.com/album/5ft63ve9l4E71Bxm4IKw3R"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "babyidontlikeyou",
-          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
-        }
-      ],
-      "duration_ms": 218557,
-      "name": "Taste of Your Tongue",
-      "url": "https://open.spotify.com/track/2FutQIWvLmm9BG55Hmr4cR"
     },
     {
       "added_at": "2026-09-25 04:02:45",
@@ -3087,6 +3087,26 @@
     {
       "added_at": "2026-09-25 04:02:45",
       "album": {
+        "name": "Places We Know",
+        "url": "https://open.spotify.com/album/59AAwi8qUIPLOJuQnTKh6z"
+      },
+      "artists": [
+        {
+          "name": "KYDIN",
+          "url": "https://open.spotify.com/artist/5Bvt7Fcg2IWsWqRbEvZKIa"
+        },
+        {
+          "name": "Lacey",
+          "url": "https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "Places We Know",
+      "url": "https://open.spotify.com/track/03nvc8cz9PTGHxomurnHC5"
+    },
+    {
+      "added_at": "2026-09-25 04:02:45",
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/4HMiG31eRc9Tj8iNYOG1A0"
       },
@@ -3107,26 +3127,6 @@
       "duration_ms": 219633,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/0OyH2wwpCKZRKkSdxqCAef"
-    },
-    {
-      "added_at": "2026-09-25 04:02:45",
-      "album": {
-        "name": "Places We Know",
-        "url": "https://open.spotify.com/album/59AAwi8qUIPLOJuQnTKh6z"
-      },
-      "artists": [
-        {
-          "name": "KYDIN",
-          "url": "https://open.spotify.com/artist/5Bvt7Fcg2IWsWqRbEvZKIa"
-        },
-        {
-          "name": "Lacey",
-          "url": "https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Places We Know",
-      "url": "https://open.spotify.com/track/03nvc8cz9PTGHxomurnHC5"
     },
     {
       "added_at": "2026-09-25 04:02:45",

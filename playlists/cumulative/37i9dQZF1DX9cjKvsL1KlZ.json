@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 175866,
       "name": "AH HA",
       "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 2102996,
       "name": "Bobby Shmurda on Prison Girlfriends, His Missing Hat, & Tom Cruise",
       "url": "https://open.spotify.com/episode/4KhBadDMj5ZiKPwNmHniO3"
@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 184789,
       "name": "CHAMPAIN & VACAY",
       "url": "https://open.spotify.com/track/1097cG16gzkhlPgkUt6KA0"
@@ -2305,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346906,
+      "name": "Codeine Crazy",
+      "url": "https://open.spotify.com/track/0joQFwiBKmi6X1Iq5R1ubH"
+    },
+    {
+      "album": {
         "name": "COLD AT NIGHT",
         "url": "https://open.spotify.com/album/5lXyqnqMMEUE2vEq4kgkW6"
       },
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 191399,
       "name": "Crazy Story, Pt. 3",
       "url": "https://open.spotify.com/track/23TwR29GSeJBfXnXhmDlwR"
@@ -2458,6 +2476,24 @@
       "duration_ms": 137149,
       "name": "Crime Rate",
       "url": "https://open.spotify.com/track/6p1zGOwbM9uIjDo33ZMWUo"
+    },
+    {
+      "album": {
+        "name": "CYCLE",
+        "url": "https://open.spotify.com/album/6h85V2Uscwo83JnnkFpBk2"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "CYCLE",
+      "url": "https://open.spotify.com/track/6zG1h4f5LxtoryzQwmGPvk"
     },
     {
       "album": {
@@ -2822,7 +2858,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 176386,
       "name": "Digits",
       "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
@@ -3244,7 +3280,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 238249,
       "name": "DUMBO",
       "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
@@ -3888,7 +3924,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 158693,
       "name": "Flexin'",
       "url": "https://open.spotify.com/track/7mpoOB5YMpPnbllsALgSfr"
@@ -4336,7 +4372,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 160000,
       "name": "Gangstas",
       "url": "https://open.spotify.com/track/1hg3RlqFZXJb5YgRoK9qmF"
@@ -4837,6 +4873,24 @@
     },
     {
       "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118800,
+      "name": "Hawk Em",
+      "url": "https://open.spotify.com/track/3Rjx5mVXkYskoWTJMEO2JQ"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -4855,6 +4909,24 @@
     },
     {
       "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235986,
+      "name": "Headlines",
+      "url": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
+    },
+    {
+      "album": {
         "name": "The Blueprint (Explicit Version)",
         "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
       },
@@ -4866,7 +4938,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 223240,
       "name": "Heart Of The City (Ain't No Love)",
       "url": "https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA"
@@ -6654,7 +6726,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 307640,
       "name": "Lord Knows",
       "url": "https://open.spotify.com/track/1QBwk6GTCxVdC2hoSw9tlM"
@@ -6672,8 +6744,8 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
-      "duration_ms": 126960,
+      "date_removed": null,
+      "duration_ms": 126961,
       "name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
       "url": "https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm"
     },
@@ -6916,7 +6988,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 148629,
       "name": "Make No Sense",
       "url": "https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"
@@ -7004,6 +7076,28 @@
       "duration_ms": 190145,
       "name": "Maneuver (Bonus)",
       "url": "https://open.spotify.com/track/1GjjP9WxHI6caL97oRxp2h"
+    },
+    {
+      "album": {
+        "name": "Meet The Woo 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160560,
+      "name": "Mannequin",
+      "url": "https://open.spotify.com/track/68MJydPlnZ3dEemNjbtHOK"
     },
     {
       "album": {
@@ -7164,7 +7258,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 1210345,
       "name": "Mayor Zohran Mamdani on Knicks, Snowball Fights, & Potholes",
       "url": "https://open.spotify.com/episode/2UDk41ZvUEB9O3G6jHnJZt"
@@ -7280,6 +7374,28 @@
       "duration_ms": 99265,
       "name": "Misconceptions",
       "url": "https://open.spotify.com/track/4pUQktt2ispCFMBtIvqPol"
+    },
+    {
+      "album": {
+        "name": "COCOON",
+        "url": "https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188503,
+      "name": "MISS MY DAWG (feat. Drake)",
+      "url": "https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A"
     },
     {
       "album": {
@@ -8284,7 +8400,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 153561,
       "name": "No Suburban, Pt. 2",
       "url": "https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f"
@@ -11134,7 +11250,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 158466,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/5kkaSMcf4BFlhRRICCKZb6"
@@ -11274,6 +11390,32 @@
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
+    },
+    {
+      "album": {
+        "name": "Stay Schemin",
+        "url": "https://open.spotify.com/album/33bJwRLv35ynnhhFyj96hK"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267720,
+      "name": "Stay Schemin",
+      "url": "https://open.spotify.com/track/0nq6sfr8z1R5KJ4XUk396e"
     },
     {
       "album": {
@@ -11464,6 +11606,28 @@
       "duration_ms": 202450,
       "name": "Summer Sixteen",
       "url": "https://open.spotify.com/track/17Q87zeXgsAi9iQQbMu9v0"
+    },
+    {
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238026,
+      "name": "Sup Mate (feat. Future)",
+      "url": "https://open.spotify.com/track/0zNHMc1cGKe4MO5rtGtKRh"
     },
     {
       "album": {
@@ -11882,7 +12046,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 1777492,
       "name": "The Rizzler on Annoying Fans, Money, & The Mafia",
       "url": "https://open.spotify.com/episode/2py6uZBzRIykbygb5i5I8y"
@@ -12416,7 +12580,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 132587,
       "name": "Tunnel Vision (Outro)",
       "url": "https://open.spotify.com/track/2SxR5RitJdsG6wINvJLBSD"
@@ -12540,7 +12704,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 199440,
       "name": "U Don't Know",
       "url": "https://open.spotify.com/track/4O7oKy8YADaBrbehcPl0kE"

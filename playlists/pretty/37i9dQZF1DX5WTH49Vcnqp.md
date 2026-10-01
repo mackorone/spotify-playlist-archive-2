@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define, but easy to love\. Cover: Julia Jacklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,604 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,594 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hello \- triple j Like A Version](https://open.spotify.com/track/6B8XcuiJW6IR8YUEfwCfbi) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Hello \(triple j Like A Version\)](https://open.spotify.com/album/7fKBbaDDVJlbjjWAuDG2nU) | 3:25 |
+| 1 | [Hello \- triple j Like A Version](https://open.spotify.com/track/6B8XcuiJW6IR8YUEfwCfbi) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [triple j](https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1) | [Hello \(triple j Like A Version\)](https://open.spotify.com/album/7fKBbaDDVJlbjjWAuDG2nU) | 3:25 |
 | 2 | [Nosebleeds](https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Nosebleeds](https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH) | 3:12 |
 | 3 | [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 |
 | 4 | [The Only One \(feat\. Christine and the Queens\)](https://open.spotify.com/track/4cU5HrOrG8nz95VcnVQ2YD) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [The Only One \(feat\. Christine and the Queens\)](https://open.spotify.com/album/7ipyPxOUmpmSucbeEjxaPO) | 4:11 |

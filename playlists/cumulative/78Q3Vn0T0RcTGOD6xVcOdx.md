@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-353 songs - 20 hr 40 min
+355 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Los Días Que Pasan](https://open.spotify.com/track/7eTRf5Zv9DEKWIOwizRemP) | [Bautista Stocchi](https://open.spotify.com/artist/2AxLb5luLJ38OVyBrh24VN) | [Humo](https://open.spotify.com/album/6N89nT1jqqUcwXanNtolv6) | 3:42 | 2025-08-20 | 2026-04-06 |
 | [Love lasts less than a Netflix subscription \. \- Live](https://open.spotify.com/track/0KkVeWwEBwAhHNJ4FF10mH) | [Oscar Cirac Molina](https://open.spotify.com/artist/6yZRTIETqBAOYn0ApSNWjq) | [Live the Thunder](https://open.spotify.com/album/2hYvIuG6II3Lnfsq2Lw8Xd) | 3:46 | 2025-10-24 | 2026-04-06 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2025-01-24 | 2026-06-12 |
+| [Lucid dream](https://open.spotify.com/track/3KoN7jKYERFVQ6SUCjTQdB) | [Hugh](https://open.spotify.com/artist/4RpdpXGxT38XtAGHjjf3Im) | [Lucid dream](https://open.spotify.com/album/7qw076AzODOqCEgjrHog2b) | 3:00 | 2026-09-30 |  |
 | [Lucky By Design](https://open.spotify.com/track/6MRtwiNS2CsH5a452gQDFO) | [A Vibrational Boost](https://open.spotify.com/artist/562rbYfcYKIgltrldsEajA) | [Lucky By Design](https://open.spotify.com/album/6gMV80yzfE2XEE9Q51jRD9) | 2:30 | 2026-09-15 |  |
 | [Luna a Milano](https://open.spotify.com/track/65dYtGwcxkjFNXhu9BdrGc) | [Michele Tarasik](https://open.spotify.com/artist/4PO09aUamHbbNoxEyEK0vE), [Louis Moreno](https://open.spotify.com/artist/0okuclVbMLEUe1sMflRV5b) | [Luna a Milano](https://open.spotify.com/album/4GKzaY0Z4zTYcKVlMOusC6) | 3:37 | 2026-06-05 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-01-24 |  |
@@ -234,6 +235,7 @@
 | [Noite Abençoada](https://open.spotify.com/track/2obhzL0eDaXSjbDBie0bRR) | [StickClek](https://open.spotify.com/artist/0NmomGYNZEoWxCd89RjmZp) | [Noite Abençoada](https://open.spotify.com/album/2pwbEltIxyNGPN3AorBMKf) | 3:05 | 2026-06-23 |  |
 | [Nonobstant](https://open.spotify.com/track/6Dc843iL2ClGKCtr6GGpIs) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [La planète des ânes](https://open.spotify.com/album/0S9Ttf5LhN0XCCJ04dXNUy) | 4:25 | 2025-02-01 | 2026-06-12 |
 | [Nothing Else Matters](https://open.spotify.com/track/7HWLD03T6v1gqvPEMKTq0N) | [Kerian von Heyden](https://open.spotify.com/artist/3XgxKm9OLsn3JlJQ6tGzfw), [Jaki Nelson](https://open.spotify.com/artist/7oz4dlYyj9jadcbGJq1jwx) | [Nothing Else Matters](https://open.spotify.com/album/33wlaYgCF2pPFgNDzZ3cj6) | 4:29 | 2025-01-26 | 2026-06-12 |
+| [Nuje Sotto ’O Cielo](https://open.spotify.com/track/2CgWhoeovLTH3G9KezqLjG) | [Nero Vesuvio](https://open.spotify.com/artist/6K0PlJ1GGgfIsqYaNKO0uT) | [Nuje Sotto ’O Cielo](https://open.spotify.com/album/7LCODKwjudnuXVQcR6YXtD) | 3:18 | 2026-09-30 |  |
 | [Obsesion](https://open.spotify.com/track/0MPJwDBHhNve1nEpI1P9aG) | [Junior Hodie](https://open.spotify.com/artist/6aghE4xmKWwUiM42X2BiJR) | [Obsesion](https://open.spotify.com/album/3GnvbalbJvtbt5BbtdgRpT) | 2:52 | 2025-10-11 | 2026-04-06 |
 | [Odio a mi jefe](https://open.spotify.com/track/7jLS003HamIVPmdqfEKEjp) | [Ami Amarela](https://open.spotify.com/artist/6G8xgWVfQiLW23DSepp6vE) | [Odio a mi jefe](https://open.spotify.com/album/03sUhVUOflOyEWpawlPZxN) | 3:02 | 2025-02-15 | 2026-04-06 |
 | [Ojos Verdes](https://open.spotify.com/track/4Dm0V6rpjbEjQKACxbnG2L) | [Exen](https://open.spotify.com/artist/1nifjsMyLyjkDexOqptbeq) | [Ojos Verdes](https://open.spotify.com/album/197SmE1V69QtScoUSnvlhy) | 2:49 | 2025-03-08 | 2026-06-12 |

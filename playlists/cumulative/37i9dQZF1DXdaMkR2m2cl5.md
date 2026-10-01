@@ -4,7 +4,7 @@
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-277 songs - 17 hr 24 min
+278 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Chicago](https://open.spotify.com/track/5qQRUbrPsWR2aOgqcVOJO6) | [Josienne Clarke and Ben Walker](https://open.spotify.com/artist/3Vur5nBUAcGQjXZyk32WV1) | [Seedlings All](https://open.spotify.com/album/4uKlGigpwjW316iLF8HwQj) | 4:40 | 2020-11-25 | 2022-07-25 |
 | [Cigarette](https://open.spotify.com/track/3VLEFC1ZZhTbJYeqxBfjfU) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Ode to a Friend](https://open.spotify.com/album/6LCyIxEf32i4W6U9mZ7R64) | 3:32 | 2020-11-25 | 2022-07-22 |
 | [Colorado](https://open.spotify.com/track/4dIhkME9H3hzb0wNhA3f1m) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Some People I Know](https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g) | 2:57 | 2020-11-25 |  |
+| [Come Again](https://open.spotify.com/track/2NjgDng1yTNma7nrGsivyN) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes) | 5:44 | 2023-09-15 |  |
 | [Comfort](https://open.spotify.com/track/0qmLutbPsSY41baTrDVIIL) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Comfort](https://open.spotify.com/album/56l2MVr32gMMVO0SdWVx9i) | 3:07 | 2020-11-25 | 2022-07-14 |
 | [Comfort](https://open.spotify.com/track/41BSVFI0wboUPPGm4LOA5z) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:07 | 2020-11-25 | 2024-04-19 |
 | [Conversation](https://open.spotify.com/track/6F4wx2Y4ynjbaOF3wspy97) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Conversation](https://open.spotify.com/album/1SoHLS2A8xPeRgnpKxxp7F) | 3:49 | 2023-09-15 |  |
@@ -62,7 +63,7 @@
 | [Crack The Case](https://open.spotify.com/track/2JtC5mhcW0RoTJGoVkfgB7) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Passwords](https://open.spotify.com/album/1EPqf0Bfgbm2iMnne0WLVx) | 5:54 | 2020-11-25 | 2025-03-17 |
 | [Crow Song](https://open.spotify.com/track/18ioEXs8XbRmYiREQ8W6jI) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Among Horses III](https://open.spotify.com/album/14kZDlSzNecMAegiHWES5R) | 3:04 | 2020-11-25 | 2022-07-29 |
 | [Crow Song](https://open.spotify.com/track/6pB3L6yv5AVVq2265rNTIk) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Among Horses III](https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz) | 3:04 | 2023-09-15 | 2023-11-18 |
-| [Curls](https://open.spotify.com/track/3NLm801woJocONz1NmPJZR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Curls](https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup) | 3:17 | 2020-11-25 |  |
+| [Curls](https://open.spotify.com/track/3NLm801woJocONz1NmPJZR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Curls](https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup) | 3:17 | 2020-11-25 | 2026-10-01 |
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2020-11-25 | 2024-04-19 |
 | [Daydreaming](https://open.spotify.com/track/0L9WXYWHUMtTDkxBl6Y6M5) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [Give the People What They Want](https://open.spotify.com/album/1wAjWPzXGAgwzDK9Nkb9vh) | 5:03 | 2020-11-25 |  |
 | [Deep In Love](https://open.spotify.com/track/2ehQ2UuXplkqly0XBBAPud) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/5OgTkrQuF1aL0FtsTi5KmV) | 5:09 | 2020-11-25 | 2022-07-29 |

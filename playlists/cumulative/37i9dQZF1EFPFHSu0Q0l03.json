@@ -2609,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196647,
+      "name": "Idiot Heart",
+      "url": "https://open.spotify.com/track/4q19pDhRFj5NQb4EKgfRA0"
+    },
+    {
+      "album": {
         "name": "Cyrano (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7tK3QDXwCcgMl2bbgaZQD0"
       },

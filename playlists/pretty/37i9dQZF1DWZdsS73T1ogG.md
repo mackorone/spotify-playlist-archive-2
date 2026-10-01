@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: El Malilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,111 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,249 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 90 | [Fanny Pack](https://open.spotify.com/track/2suD3MtfTvjVeCvUatfnrX) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Fanny Pack](https://open.spotify.com/album/6QXBeYfIJwESRTbgIrSdoa) | 3:33 |
 | 91 | [Pastillitas De Color](https://open.spotify.com/track/4UuQQZByT87tFl5k7BMBcZ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Pastillitas De Color](https://open.spotify.com/album/4xfoXhc3fiFaAK6FFoZRW3) | 3:28 |
 | 92 | [A La Que Fui](https://open.spotify.com/track/4QcPthAvrXUiipKcTjB8Ec) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [A La Que Fui](https://open.spotify.com/album/58mObZlmJkF0P8Qs8oSFG0) | 2:49 |
-| 93 | [Buenas](https://open.spotify.com/track/4Aqn4dA7P7ZIwNuBoHbNcH) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Buenas](https://open.spotify.com/album/3LqngCYFdrRUJK08whT3hF) | 2:55 |
+| 93 | [Buenas](https://open.spotify.com/track/4Aqn4dA7P7ZIwNuBoHbNcH) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [NO PASA NADA HOMBRE](https://open.spotify.com/album/3LqngCYFdrRUJK08whT3hF) | 2:55 |
 | 94 | [Ja Ja Ja](https://open.spotify.com/track/4QmIUEAIhwrVEcZiELwy0d) | [Liil Jay](https://open.spotify.com/artist/0KA4BF3xL0wSVEY5ovpEru), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Ja Ja Ja](https://open.spotify.com/album/1f10o0WLIWzbY72fDOwK7h) | 1:43 |
 | 95 | [TRAMPA](https://open.spotify.com/track/4fEMzwVoUEJlVsHezqIblC) | [WHOOPYYTOSO BB](https://open.spotify.com/artist/3Fe4YVfgI51OUtK8SCrfjx), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Tommy Blanco](https://open.spotify.com/artist/37GpjLgunGgS7iDMCp5Cch) | [TRAMPA](https://open.spotify.com/album/7kFtosrAeAuOLnoX5Bk8Ed) | 2:35 |
 | 96 | [Completa](https://open.spotify.com/track/6hzI29uwcQ94Dd8AZTkBlx) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Completa](https://open.spotify.com/album/0AVa6arfnKUwuyLbUG4LJH) | 3:28 |

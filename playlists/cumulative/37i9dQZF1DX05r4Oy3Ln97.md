@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-535 songs - 1 day 4 hr 26 min
+536 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 | 2025-04-25 |  |
 | [Don't Stop Lovin'](https://open.spotify.com/track/62Bd3M4RpuJ6zR2KCW1LGX) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Don't Stop Lovin'](https://open.spotify.com/album/75v2SGfaNYOISwpbxsEvSN) | 2:13 | 2025-03-21 | 2025-04-05 |
 | [Don’t Forget My Love](https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don’t Forget My Love](https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8) | 3:19 | 2022-04-01 | 2025-05-31 |
-| [Don’t Go \(Don’t Leave\)](https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Don’t Go \(Don’t Leave\)](https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd) | 2:26 | 2026-04-17 |  |
+| [Don’t Go \(Don’t Leave\)](https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Don’t Go \(Don’t Leave\)](https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd) | 2:26 | 2026-04-17 | 2026-10-01 |
 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/5JBtWpLoGO62gb5vax505b) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Exotica](https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in) | 3:36 | 2022-03-25 | 2025-02-15 |
 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:36 | 2022-07-08 | 2023-01-11 |
 | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/track/55Gic5of4nSRA78CCQLwSP) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/album/7h1UqQUGd3vtpPFZyg6tIH) | 2:26 | 2025-11-21 | 2026-02-27 |
@@ -349,6 +349,7 @@
 | [No Boys Allowed \- OG House Mix](https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Locomotiva Ibiza 2099 II](https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm) | 5:52 | 2024-09-27 | 2024-11-23 |
 | [No Letting Go](https://open.spotify.com/track/7kTdLu5ZNyEFB2aChJXv3I) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [No Letting Go](https://open.spotify.com/album/3B8xnuYemxIakH1dmmEvt2) | 3:15 | 2021-10-29 | 2022-07-26 |
 | [No Mercy](https://open.spotify.com/track/2eU50HdqsZPXNBzKOdiwkV) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [nomerci](https://open.spotify.com/artist/5tygsM77YMbY8WgkVKhv4R) | [No Mercy](https://open.spotify.com/album/7i1hSeAp6foMVkuzhqYibE) | 2:46 | 2021-10-29 | 2022-05-22 |
+| [Not A Problem](https://open.spotify.com/track/34cGRbu2sg9mXm8fcUWlTw) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Not A Problem](https://open.spotify.com/album/4lck2TEXJQ94JSgv3Mhf5p) | 4:07 | 2026-09-25 |  |
 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-06-07 | 2026-04-03 |
 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 | 2022-07-01 | 2024-07-10 |
 | [NYC](https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [NYC](https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ) | 3:02 | 2025-07-04 | 2025-07-18 |

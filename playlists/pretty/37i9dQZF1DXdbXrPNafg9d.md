@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Julia Jacklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,082 likes - 224 songs - 12 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,120 likes - 224 songs - 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 19 | [The Ballad of St Nick's Park](https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX) | [300SkullsAndCounting](https://open.spotify.com/artist/7hGgwyIQYX5u1XU8asjH63), [Jenny Sparks](https://open.spotify.com/artist/0S8h1aYM60QtOHIKqWfNvf) | [THIS IS SPA TOWN!](https://open.spotify.com/album/621WlWIqOod29HG6km5Olf) | 3:13 |
 | 20 | [A Song](https://open.spotify.com/track/6ZFNwIAl47Ee5rFrCqnVKw) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [A Song](https://open.spotify.com/album/3eTjH8Z55teXrEVeRUkZOQ) | 3:24 |
 | 21 | [Forgetful Angel](https://open.spotify.com/track/5DswW6DJY5ahdWFcvAG8KS) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Tony Bontana](https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl) | [Forgetful Angel](https://open.spotify.com/album/0joqV38S9QIxfwIWdmdrV4) | 4:03 |
-| 22 | [Anxiety \(feat\. Orion\)](https://open.spotify.com/track/6WzECd80D8AJduH1l3xnme) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Anxiety](https://open.spotify.com/album/6073rZEKZ3yqdTTfikQ9oV) | 1:41 |
+| 22 | [Anxiety \(feat\. Orion Sun\)](https://open.spotify.com/track/6WzECd80D8AJduH1l3xnme) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Anxiety](https://open.spotify.com/album/6073rZEKZ3yqdTTfikQ9oV) | 1:41 |
 | 23 | [Heart Motion Foto](https://open.spotify.com/track/4zA1ijz7NszMWMAs1fVEmF) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [I Wrote You A Letter](https://open.spotify.com/album/1EHDAMMjP2UCAEdmqf7704) | 2:54 |
 | 24 | [Let You Know](https://open.spotify.com/track/102MWefF5h8IGe5OgJiqx8) | [Cicada](https://open.spotify.com/artist/1Vt0r4emAfug3oHrH4GIvD) | [Crystal Teeth World Tour](https://open.spotify.com/album/4CaJxFgJFazfa5ULRz9r6G) | 2:05 |
 | 25 | [train tracks](https://open.spotify.com/track/4XEkja3m9oS534pnA95MAL) | [parallel](https://open.spotify.com/artist/57GHGjRVnM7JTTXI7vXq7d), [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [train tracks](https://open.spotify.com/album/5S0BhDZGVDPvnkHwbUfa7T) | 3:01 |

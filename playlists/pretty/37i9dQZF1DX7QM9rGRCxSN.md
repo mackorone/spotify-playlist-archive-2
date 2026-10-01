@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,349 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,369 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 25 | [Estética Unisex](https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Estética Unisex](https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS) | 1:53 |
 | 26 | [Todos Preguntaron por Ti](https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw) | [Nunca Pasa Nada](https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T) | [Guía para Comprender los Sueños](https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2) | 2:29 |
 | 27 | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9) | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm) | 3:31 |
-| 28 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
-| 29 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
+| 28 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
+| 29 | [Santa Rosa](https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L) | [Procrastinación 1 Yo 0](https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT) | [El Mejor Regalo De Nuestras Vidas](https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q) | 2:56 |
 | 30 | [micheladas](https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [micheladas](https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B) | 2:16 |
-| 31 | [Santa Rosa](https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L) | [Procrastinación 1 Yo 0](https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT) | [El Mejor Regalo De Nuestras Vidas](https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q) | 2:56 |
+| 31 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
 | 32 | [Efecto Placebo](https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM) | [DOSMILDOS](https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh) | [Efecto Placebo](https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J) | 2:16 |
 | 33 | [Mot Hulligan](https://open.spotify.com/track/6en3tPpGj4vfkHnGDsEq9x) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9), [Las Cosas Calladitas](https://open.spotify.com/artist/2rVBJ9SpnaT23vEJE2lzpb) | [Peter Brown](https://open.spotify.com/album/0NJuZCHjKCxyRK78AMttIQ) | 3:20 |
 | 34 | [U/T](https://open.spotify.com/track/1GUxYyg4Hg49icIJC9p0qA) | [Un Viejo Arcoiris](https://open.spotify.com/artist/2DmfnifKTOqFOMBBj7pPbb) | [Hace Dos Veranos](https://open.spotify.com/album/1PRTHcesi1VKgVWtkjIS6j) | 2:47 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 47 | [Orquídeas](https://open.spotify.com/track/0uNYFj02U52kOYTJAhzJNN) | [Hummm](https://open.spotify.com/artist/5Nd5eFtrvfMLHmA78iGmT7) | [Orquídeas](https://open.spotify.com/album/6BvXv0f2qbNI9aC1iKAs62) | 3:01 |
 | 48 | [Ave](https://open.spotify.com/track/1C0JTISdpWiw1rGLNIs5UU) | [Dejaré que me apuñales](https://open.spotify.com/artist/4QbKlV4BEvPWy1ivGBRdPJ) | [Jardines Próximos](https://open.spotify.com/album/0MEUick8L0S9ZXZrVcdmsa) | 2:52 |
 | 49 | [pasan los días](https://open.spotify.com/track/0gndtLhT5ExWIKmRJo6TUx) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C) | [pasan los días](https://open.spotify.com/album/4JEbDeeXUEQ97zkDFGcQLK) | 2:44 |
-| 50 | [Silencio](https://open.spotify.com/track/2zCGu2hMmSNZQ0TTAvXaKY) | [La Versión Extendida de las Cosas](https://open.spotify.com/artist/5zfGpBrzndP4czcJTxZgKt) | [Silencio](https://open.spotify.com/album/4CfWqunMuCK0zUlD9ufECl) | 2:56 |
+| 50 | [Míráme](https://open.spotify.com/track/59vdxakMPGSDidajykh9sa) | [Buh](https://open.spotify.com/artist/6QWJGmTjhSkRhtOcNWJJat) | [El Split de Buh & Millones de Colores](https://open.spotify.com/album/7KNtgrH3CJojbrDzBtePCR) | 0:54 |
 
 Snapshot ID: `AAAAADcVd1V+/T3dcYwxPFNr/Ms2F2nD`

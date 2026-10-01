@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Terrian
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,832 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,846 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 28 | [Wild Rushing Wind](https://open.spotify.com/track/4suW7psO9IAhWX0ivPsBZ6) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Wild Rushing Wind](https://open.spotify.com/album/2NBWvx7PTv2YMDBjjMcYQy) | 5:30 |
 | 29 | [Desert Rose](https://open.spotify.com/track/4an386UgTjS2kQ8ujsyP83) | [Alex Jude](https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6) | [Leaving Egypt](https://open.spotify.com/album/0MVcRjzOEXGV1XwDjZu2ev) | 3:40 |
 | 30 | [AFFECTION](https://open.spotify.com/track/7EGIld5V9caHT69pMyN9Mq) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [FOR THE HOUSE \(Deluxe\)](https://open.spotify.com/album/7uH1AOA3O44ywcL5w85JHu) | 4:58 |
-| 31 | [Stand](https://open.spotify.com/track/6gFLH9blscWMdennqYEkfs) | [Me'Kayla De’Siree](https://open.spotify.com/artist/5bwMe2QoifbbKXVeKxqr5L) | [Stand](https://open.spotify.com/album/0CwPCXd4lHtEO0FPu1IiI5) | 4:20 |
+| 31 | [Stand](https://open.spotify.com/track/6gFLH9blscWMdennqYEkfs) | [Me'Kayla De’Siree](https://open.spotify.com/artist/5bwMe2QoifbbKXVeKxqr5L), [Phillip Bryant](https://open.spotify.com/artist/4puG7yE9LNxmaYFE6Xpn2k) | [Stand](https://open.spotify.com/album/0CwPCXd4lHtEO0FPu1IiI5) | 4:20 |
 | 32 | [how can it be?](https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [how can it be?](https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM) | 3:49 |
 | 33 | [i miss not knowing](https://open.spotify.com/track/00NBEqf4NGLHsXcZo2EZAp) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [i miss not knowing](https://open.spotify.com/album/38mBdvD4oDv2T5WBphmG4z) | 3:58 |
 | 34 | [Full 180](https://open.spotify.com/track/0E3wOAQr8WfP3zSbTjuKpG) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Full 180](https://open.spotify.com/album/1sU8oLWvSLNfkxCfBYfiRh) | 2:55 |

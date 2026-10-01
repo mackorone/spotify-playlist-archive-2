@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-08-08",
-  "description": "This week: back to business. Cover: Dolly Parton",
+  "description": "This week: it's Fatboy Slims favourite 30! Celebrating the iconic \"Better Living Through Chemistry\u201d 30th Anniversary \ud83d\ude03 \ud83c\udf89",
   "name": "Throwback Thursday (2)",
   "tracks": [
     {
@@ -826,7 +826,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 166749,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 152920,
       "name": "A Hard Day's Night - Remastered 2015",
       "url": "https://open.spotify.com/track/1pctwlBtIcKIjQMzsVcGHB"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 221840,
       "name": "A Milli",
       "url": "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5"
@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 313360,
       "name": "Back in Business",
       "url": "https://open.spotify.com/track/00akbmcZrMFuZ15AzIyC5T"
@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 211160,
       "name": "Billionaire (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 256026,
       "name": "Bills, Bills, Bills",
       "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
@@ -3846,7 +3846,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 219305,
       "name": "Bitch Better Have My Money",
       "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
@@ -4215,6 +4215,24 @@
     },
     {
       "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449160,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
+    },
+    {
+      "album": {
         "name": "Singles (2016 Remaster)",
         "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
       },
@@ -4490,7 +4508,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 244133,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/6VLEVV3KmHCiGHrY9qlXqB"
@@ -4508,7 +4526,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 285147,
       "name": "BOSS - Radio Edit",
       "url": "https://open.spotify.com/track/3M6GAqPB1SCfzS4CUbo13p"
@@ -4526,7 +4544,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 134239,
       "name": "Boss Bitch",
       "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
@@ -5017,6 +5035,24 @@
     },
     {
       "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/76y5pJydyE27yrXoFiQa8P"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186558,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC"
+    },
+    {
+      "album": {
         "name": "New Forms (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3e38PrPtIRDGbtbpc6jHrM"
       },
@@ -5234,7 +5270,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 221775,
       "name": "Business",
       "url": "https://open.spotify.com/track/4WcS64YPVtL5pvUwxqdnKV"
@@ -5252,7 +5288,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 251720,
       "name": "Business",
       "url": "https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S"
@@ -7463,6 +7499,24 @@
     },
     {
       "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328680,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
+    },
+    {
+      "album": {
         "name": "Blondes Have More Fun",
         "url": "https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio"
       },
@@ -8078,7 +8132,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 243133,
       "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
       "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
@@ -9907,6 +9961,24 @@
     },
     {
       "album": {
+        "name": "Better Living Through Chemistry",
+        "url": "https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349493,
+      "name": "Everybody Needs A 303",
+      "url": "https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs"
+    },
+    {
+      "album": {
         "name": "Greatest - Rozalla",
         "url": "https://open.spotify.com/album/2pEfPUJdvJxFZJwXM3dOI3"
       },
@@ -10652,6 +10724,24 @@
       "duration_ms": 239986,
       "name": "Fire Burning",
       "url": "https://open.spotify.com/track/2oENJa1T33GJ0w8dC167G4"
+    },
+    {
+      "album": {
+        "name": "Get Fired Up",
+        "url": "https://open.spotify.com/album/1PvIG1vdetbRLNNtU77Z8N"
+      },
+      "artists": [
+        {
+          "name": "Funky Green Dogs",
+          "url": "https://open.spotify.com/artist/3sta4kc4vmWb0bOnQb6R8c"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485160,
+      "name": "Fired Up!",
+      "url": "https://open.spotify.com/track/59cOkSYMBzajxog2tMyQCT"
     },
     {
       "album": {
@@ -12549,6 +12639,28 @@
     },
     {
       "album": {
+        "name": "God Save the Queer",
+        "url": "https://open.spotify.com/album/6cPf7l5QUzczzviL9ByIph"
+      },
+      "artists": [
+        {
+          "name": "Klatsch!",
+          "url": "https://open.spotify.com/artist/5UWYJFqEXV0LBkxsWk1snb"
+        },
+        {
+          "name": "Chocolate Puma",
+          "url": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216703,
+      "name": "God Save the Queer",
+      "url": "https://open.spotify.com/track/13eiQXXkPXJVVHC0ZNMzfO"
+    },
+    {
+      "album": {
         "name": "low kii savage",
         "url": "https://open.spotify.com/album/2EvTMiJyF3H4BoxNCL4HLh"
       },
@@ -12908,7 +13020,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 239546,
       "name": "Got Your Money (feat. Kelis)",
       "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
@@ -13183,6 +13295,24 @@
     },
     {
       "album": {
+        "name": "Guaguanco",
+        "url": "https://open.spotify.com/album/1onxhtGIUYRXokxC0TtWif"
+      },
+      "artists": [
+        {
+          "name": "Mighty Dub Katz",
+          "url": "https://open.spotify.com/artist/0tOB8FBc9x40nYR1k3e8pZ"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411280,
+      "name": "Guaguanco - Ashley Beedle Edit",
+      "url": "https://open.spotify.com/track/0EWyztkDGiErJf07oNgVo3"
+    },
+    {
+      "album": {
         "name": "Gyal You a Party Animal (Remix)",
         "url": "https://open.spotify.com/album/1drLzJJL0Voqt9GfD4cAly"
       },
@@ -13382,7 +13512,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 226413,
       "name": "Harder, Better, Faster, Stronger",
       "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
@@ -13534,6 +13664,32 @@
       "duration_ms": 261933,
       "name": "He Wasn't Man Enough",
       "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
+    },
+    {
+      "album": {
+        "name": "He's Frank (Slight Return)",
+        "url": "https://open.spotify.com/album/3cohHyy8SX0mbSi8cerA5F"
+      },
+      "artists": [
+        {
+          "name": "The BPA",
+          "url": "https://open.spotify.com/artist/1YJaPNfbWVIItItFlBrEK2"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197013,
+      "name": "He's Frank - Slight Return",
+      "url": "https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4"
     },
     {
       "album": {
@@ -13988,6 +14144,28 @@
       "duration_ms": 247093,
       "name": "Heaven Is A Place On Earth",
       "url": "https://open.spotify.com/track/4V9BTST4BSkvOL4xIQNHuS"
+    },
+    {
+      "album": {
+        "name": "Clubland 18",
+        "url": "https://open.spotify.com/album/7a5NhHpYH7V38B0Wx61Vxi"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0PtLVOQpx5YxQ33U0XxSdB"
     },
     {
       "album": {
@@ -15548,7 +15726,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 237613,
       "name": "Hustler's Ambition",
       "url": "https://open.spotify.com/track/7t67S1XHT4jU0GCkruG34R"
@@ -15566,7 +15744,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 254093,
       "name": "Hustlin'",
       "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
@@ -18079,6 +18257,24 @@
     },
     {
       "album": {
+        "name": "Raising Hell (Expanded Edition)",
+        "url": "https://open.spotify.com/album/53haOw4fOh1rNZK8xKgGY8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182933,
+      "name": "It's Tricky",
+      "url": "https://open.spotify.com/track/5IGUkmuTVroDG2PnaUiNFj"
+    },
+    {
+      "album": {
         "name": "Darkdancer",
         "url": "https://open.spotify.com/album/244zFqV0oJvOTaC714IVvc"
       },
@@ -18338,6 +18534,24 @@
       "duration_ms": 236133,
       "name": "Just A Little",
       "url": "https://open.spotify.com/track/1IMbmQCnl3h4m8NXqKee0g"
+    },
+    {
+      "album": {
+        "name": "Just Another Groove",
+        "url": "https://open.spotify.com/album/3ScYp67pltRTHMEfjkozY0"
+      },
+      "artists": [
+        {
+          "name": "Mighty Dub Katz",
+          "url": "https://open.spotify.com/artist/0tOB8FBc9x40nYR1k3e8pZ"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381333,
+      "name": "Just Another Groove",
+      "url": "https://open.spotify.com/track/1JcpDBkR6o6weqdj3tvWEs"
     },
     {
       "album": {
@@ -18998,7 +19212,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 307153,
       "name": "Lady - Hear Me Tonight",
       "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6"
@@ -19690,6 +19904,28 @@
       "duration_ms": 237053,
       "name": "Like a Boy",
       "url": "https://open.spotify.com/track/358bOvBiZCS9fRzNYosw6c"
+    },
+    {
+      "album": {
+        "name": "So This Is Goodbye",
+        "url": "https://open.spotify.com/album/17vI6w7tveJkUgBR4ERjQB"
+      },
+      "artists": [
+        {
+          "name": "Junior Boys",
+          "url": "https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR"
+        },
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628080,
+      "name": "Like A Child - Carl Craig Remix",
+      "url": "https://open.spotify.com/track/6Bd34OXbS3qfTsLBonoEyc"
     },
     {
       "album": {
@@ -21296,7 +21532,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 184173,
       "name": "Manic Monday",
       "url": "https://open.spotify.com/track/7Di7t9yGoxdZRLAt5a4pi0"
@@ -21724,7 +21960,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 224933,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/5dAauIxGC3TyZRGIsOwWDu"
@@ -21796,7 +22032,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 211520,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m"
@@ -21836,7 +22072,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 183527,
       "name": "Money",
       "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
@@ -21854,7 +22090,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 380080,
       "name": "Money",
       "url": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"
@@ -21872,7 +22108,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 170293,
       "name": "Money Honey",
       "url": "https://open.spotify.com/track/6gknJVkbQb8jkAXbXx0SYA"
@@ -21890,7 +22126,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 192670,
       "name": "Money On My Mind",
       "url": "https://open.spotify.com/track/5XX9oGZfgKMXdHnEp4t2JB"
@@ -21908,7 +22144,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 270680,
       "name": "Money Power Glory",
       "url": "https://open.spotify.com/track/7Ms58r8G6Y0r1XLtpwoGxN"
@@ -21930,7 +22166,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/74tLlkN3rgVzRqQJgPfink"
@@ -21948,7 +22184,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 186786,
       "name": "Money, Money, Money",
       "url": "https://open.spotify.com/track/29FNeqjOV2kPWGS55qhtGB"
@@ -22292,6 +22528,24 @@
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225973,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE"
     },
     {
       "album": {
@@ -24046,7 +24300,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 232017,
       "name": "Office Hours (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
@@ -24726,7 +24980,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 218000,
       "name": "Opportunities (Let's Make Lots of Money)",
       "url": "https://open.spotify.com/track/5Tjl3JKE16Wysns0mpfkZT"
@@ -25865,6 +26119,24 @@
     },
     {
       "album": {
+        "name": "You've Come A Long Way Baby",
+        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323240,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX"
+    },
+    {
+      "album": {
         "name": "You've Come a Long Way Baby",
         "url": "https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN"
       },
@@ -26032,7 +26304,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 368720,
       "name": "Professional",
       "url": "https://open.spotify.com/track/5ZicFGBDAi9J2YCVesboUp"
@@ -26054,7 +26326,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 227240,
       "name": "Professional Widow - Armand's Star Trunk Funk Mix",
       "url": "https://open.spotify.com/track/7pRDFBYPmUWBFnpwDhzqGm"
@@ -26148,10 +26420,28 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 327400,
       "name": "Proud Mary",
       "url": "https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x"
+    },
+    {
+      "album": {
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260506,
+      "name": "Psycho Killer",
+      "url": "https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD"
     },
     {
       "album": {
@@ -26496,6 +26786,24 @@
       "duration_ms": 186813,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2"
+    },
+    {
+      "album": {
+        "name": "The Sugarhill Gang - 30th Anniversary Edition (Expanded Version)",
+        "url": "https://open.spotify.com/album/5UairYwDKi0lsi82mHqAWm"
+      },
+      "artists": [
+        {
+          "name": "The Sugarhill Gang",
+          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235840,
+      "name": "Rapper's Delight",
+      "url": "https://open.spotify.com/track/2XbwFs07dfm2MGQuYmRMZT"
     },
     {
       "album": {
@@ -26903,6 +27211,28 @@
     },
     {
       "album": {
+        "name": "Acid Ballroom",
+        "url": "https://open.spotify.com/album/42rfXa7SqyGspDGcSSGrJu"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Tino",
+          "url": "https://open.spotify.com/artist/62yKrJJJxlMnRpn6cqcrQ3"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414772,
+      "name": "Retox - Tino Remix",
+      "url": "https://open.spotify.com/track/4aXJZ6UW5hWk8NH84jP8jh"
+    },
+    {
+      "album": {
         "name": "Return of the Mack",
         "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
       },
@@ -26972,7 +27302,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 236213,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0ALV8l7nqbjwSZ2w9hS2CI"
@@ -28996,7 +29326,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 320840,
       "name": "She Works Hard For The Money",
       "url": "https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy"
@@ -29941,6 +30271,24 @@
     },
     {
       "album": {
+        "name": "CeCe Rogers",
+        "url": "https://open.spotify.com/album/7nxYXN1wJ2PsPpQI09abMx"
+      },
+      "artists": [
+        {
+          "name": "CeCe Rogers",
+          "url": "https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230133,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/5bGlU4BXhMRMMHWZnHuKhj"
+    },
+    {
+      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
       },
@@ -30566,7 +30914,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 174120,
       "name": "Started From the Bottom",
       "url": "https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf"
@@ -31571,6 +31919,28 @@
     },
     {
       "album": {
+        "name": "Doin\u2019 It",
+        "url": "https://open.spotify.com/album/1pXXOwaZSUKH1QyoB1VOnh"
+      },
+      "artists": [
+        {
+          "name": "Spanky Wilson",
+          "url": "https://open.spotify.com/artist/6ObV2QiicPhGurIqf0Pj4u"
+        },
+        {
+          "name": "H.B. Barnum",
+          "url": "https://open.spotify.com/artist/6LezSLTlOkiARiTaTX2a2A"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223646,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/7zEU3E5f8nyXLITUlSqVsu"
+    },
+    {
+      "album": {
         "name": "The Soul Sessions",
         "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
       },
@@ -31979,6 +32349,24 @@
     },
     {
       "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "album": {
         "name": "Symphony (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
       },
@@ -32113,6 +32501,24 @@
     },
     {
       "album": {
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+    },
+    {
+      "album": {
         "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
         "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
       },
@@ -32160,7 +32566,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 289893,
       "name": "Takin' Care Of Business",
       "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
@@ -32672,7 +33078,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 241333,
       "name": "The Boss - Single Version",
       "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
@@ -32748,7 +33154,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
@@ -32806,6 +33212,28 @@
       "duration_ms": 289359,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/2a3U3GTCvrcma7wetBtOpi"
+    },
+    {
+      "album": {
+        "name": "Old Skool Junkies",
+        "url": "https://open.spotify.com/album/5EKuhX3T8zd0XsGkOsv378"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Old Skool Junkies",
+          "url": "https://open.spotify.com/artist/3eKGOpNDud6NlcxJgHKn4w"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417200,
+      "name": "The Funk Phenomena",
+      "url": "https://open.spotify.com/track/3egL3Vnd8iNRpkytmn5Zl2"
     },
     {
       "album": {
@@ -33264,6 +33692,24 @@
       "duration_ms": 264306,
       "name": "The Rhythm of the Night",
       "url": "https://open.spotify.com/track/4oUr6mgNSjQjyGs8kbXzU5"
+    },
+    {
+      "album": {
+        "name": "You've Come A Long Way Baby",
+        "url": "https://open.spotify.com/album/7G7cCHgQKbDD6zvwDQZyJu"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413880,
+      "name": "The Rockafeller Skank",
+      "url": "https://open.spotify.com/track/7mCQK9YB25WZw1saUjfL4e"
     },
     {
       "album": {
@@ -35112,6 +35558,28 @@
       "duration_ms": 270333,
       "name": "Un-Break My Heart",
       "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
+    },
+    {
+      "album": {
+        "name": "Hot Space",
+        "url": "https://open.spotify.com/album/4pFJdTvK6zNyWOO3W1hkGd"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "Under Pressure (feat. David Bowie)",
+      "url": "https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p"
     },
     {
       "album": {
@@ -37619,6 +38087,24 @@
     },
     {
       "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341773,
+      "name": "Wild Horses - 2009 Mix",
+      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
+    },
+    {
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -37840,7 +38326,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 270893,
       "name": "Wish I Didn't Miss You",
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
@@ -38112,7 +38598,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 224481,
       "name": "Work",
       "url": "https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt"
@@ -38130,7 +38616,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 223196,
       "name": "Work",
       "url": "https://open.spotify.com/track/7F5Mmc4DlX6x5tW3u5zxwt"
@@ -38152,7 +38638,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 219320,
       "name": "Work",
       "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
@@ -38170,7 +38656,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 191693,
       "name": "Work - Freemasons Radio Edit",
       "url": "https://open.spotify.com/track/4h9TZLHS7AZ30pt5c1o5Em"
@@ -38188,7 +38674,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 247960,
       "name": "Work Bitch",
       "url": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1"
@@ -38210,7 +38696,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 216575,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1JsUAmsjNz6oGuRTFG93qH"
@@ -38228,7 +38714,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
@@ -38246,7 +38732,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 246066,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/412bK8XW5X5Wvy3UzqNcHq"
@@ -38282,7 +38768,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 235320,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
@@ -38300,7 +38786,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 229715,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/35PKfoynRpVFoAUE3D5Kc6"
@@ -38318,7 +38804,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 158640,
       "name": "Workin' for a Livin'",
       "url": "https://open.spotify.com/track/1GbqmRw9pqTVxA1GgIFX7e"
@@ -38336,7 +38822,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 177866,
       "name": "Working Bitch",
       "url": "https://open.spotify.com/track/7g7w2WUpLcqsqH2M9XR7ZF"
@@ -38354,7 +38840,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 145960,
       "name": "Working for the Man",
       "url": "https://open.spotify.com/track/5ujgNkobXV5z6cX3ZERDm6"
@@ -38398,6 +38884,28 @@
       "duration_ms": 270826,
       "name": "World in Motion",
       "url": "https://open.spotify.com/track/08po8QZK3tihnLBZWATAki"
+    },
+    {
+      "album": {
+        "name": "Violator | The 12\" Singles",
+        "url": "https://open.spotify.com/album/0c2eDi1S58XzaqxwOC1FMZ"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Jon Marsh",
+          "url": "https://open.spotify.com/artist/0dOjlJBCADKs9IE75umaBQ"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394708,
+      "name": "World In My Eyes - Mode to Joy",
+      "url": "https://open.spotify.com/track/2tqKaYbqcpB47jIlEaXgRt"
     },
     {
       "album": {
@@ -39026,6 +39534,24 @@
       "duration_ms": 271026,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/0L5oYrkC94ArMJDmjtvJWC"
+    },
+    {
+      "album": {
+        "name": "You've Come A Long Way Baby",
+        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320693,
+      "name": "You're Not From Brighton",
+      "url": "https://open.spotify.com/track/5SP11TaRT8mZ41fIxEaIEX"
     },
     {
       "album": {

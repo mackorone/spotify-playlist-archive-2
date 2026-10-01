@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Love Dhaliwal",
+  "description": "Discover the future of Punjabi Pop! Cover: Ribikaa",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -3826,7 +3826,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 171951,
       "name": "Feel",
       "url": "https://open.spotify.com/track/7oRLMVpvURxQs01CRBndfh"
@@ -4234,7 +4234,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 169696,
       "name": "Gaddi Te Goli",
       "url": "https://open.spotify.com/track/3d9WYDiNjM8EWItgYIuSLq"
@@ -6257,6 +6257,32 @@
     },
     {
       "album": {
+        "name": "Jind",
+        "url": "https://open.spotify.com/album/0VrXzKTLhh5NXUTad7LYsW"
+      },
+      "artists": [
+        {
+          "name": "Param Benning",
+          "url": "https://open.spotify.com/artist/15f8GUVa7R8SrhImceV5GU"
+        },
+        {
+          "name": "Trxppy",
+          "url": "https://open.spotify.com/artist/69klT1vBrFrVOy4zPBYjwJ"
+        },
+        {
+          "name": "Joban",
+          "url": "https://open.spotify.com/artist/4JpOTIA5lgImAAbkkk301X"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Jind",
+      "url": "https://open.spotify.com/track/3i29Ztb6qBEykDZJ9Rxkcy"
+    },
+    {
+      "album": {
         "name": "Jindiye",
         "url": "https://open.spotify.com/album/0xkFmUdZ6jBC98r9ZeY7A9"
       },
@@ -6920,7 +6946,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 201023,
       "name": "Kick Off",
       "url": "https://open.spotify.com/track/5v5Onhs8cKFPWluT0nnvsE"
@@ -8026,7 +8052,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 204083,
       "name": "Makhmoor (Beat Version)",
       "url": "https://open.spotify.com/track/75FD2WuVgfxJT2PS1O4wq9"
@@ -11648,7 +11674,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 174106,
       "name": "She Is Love",
       "url": "https://open.spotify.com/track/6GqGP6Kj35O5uTuo9Klj84"
@@ -12008,6 +12034,28 @@
       "duration_ms": 182785,
       "name": "Sohni Lagdi",
       "url": "https://open.spotify.com/track/7lzxmnkYtILQ0gcGhoH9i3"
+    },
+    {
+      "album": {
+        "name": "Sohni Mahiwal",
+        "url": "https://open.spotify.com/album/2xxl55tw4aNxLW30lHqhSy"
+      },
+      "artists": [
+        {
+          "name": "Turban Beats",
+          "url": "https://open.spotify.com/artist/6Ddk8RlrCsHSGe2e4qafZE"
+        },
+        {
+          "name": "Gammy",
+          "url": "https://open.spotify.com/artist/7xjjktWTKRlzBcu176C29D"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176025,
+      "name": "Sohni Mahiwal",
+      "url": "https://open.spotify.com/track/7ME51Ahvm3aSjHzPuicfnh"
     },
     {
       "album": {
@@ -12536,6 +12584,32 @@
       "duration_ms": 149268,
       "name": "Supne",
       "url": "https://open.spotify.com/track/3uaqcb3JPKibNVqGZNrIjm"
+    },
+    {
+      "album": {
+        "name": "R For Ribikaa",
+        "url": "https://open.spotify.com/album/5amOfk7uCCPx5MVAU330et"
+      },
+      "artists": [
+        {
+          "name": "Ribikaa",
+          "url": "https://open.spotify.com/artist/0t3swoPHyVKlzl9NvEBCYV"
+        },
+        {
+          "name": "Jott Jotz",
+          "url": "https://open.spotify.com/artist/1zvV1ytXP7mCnHt7y7UQA7"
+        },
+        {
+          "name": "Deep Kaur Vehniwal",
+          "url": "https://open.spotify.com/artist/21z0HW17sTk4nhBdVKyZ7X"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197461,
+      "name": "Supne Sakhne",
+      "url": "https://open.spotify.com/track/47joNBFepgzMOXGTX9mcwz"
     },
     {
       "album": {
@@ -13119,6 +13193,24 @@
     },
     {
       "album": {
+        "name": "Tere Naal",
+        "url": "https://open.spotify.com/album/2TTLlicKs3dkQV8W4pVwSq"
+      },
+      "artists": [
+        {
+          "name": "Jass Sidhu",
+          "url": "https://open.spotify.com/artist/6qOPeT390lkiXtOmBbGZP9"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186009,
+      "name": "Tere Naal",
+      "url": "https://open.spotify.com/track/6vTY5GdrC3GaPRi350i9W8"
+    },
+    {
+      "album": {
         "name": "Tere Sher",
         "url": "https://open.spotify.com/album/1O3G72Xx0uu0TlKBPPuiOy"
       },
@@ -13134,6 +13226,24 @@
       "duration_ms": 122352,
       "name": "Tere Sher",
       "url": "https://open.spotify.com/track/2QsH4fYTyCjamaBBUQP41z"
+    },
+    {
+      "album": {
+        "name": "Tere Vaare",
+        "url": "https://open.spotify.com/album/7D0CpIzubOcarTNYJm2ocg"
+      },
+      "artists": [
+        {
+          "name": "Naman Preet",
+          "url": "https://open.spotify.com/artist/6ft6ZyfZiVgLkflF8BrFVL"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Tere Vaare",
+      "url": "https://open.spotify.com/track/7MohQbccmCfWkfC5Zac6Y3"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 204085,
+  "num_followers": 204112,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/0JPsZ8SJLB3tfVJTFjdCo8"
+      },
+      "artists": [
+        {
+          "name": "Stella Starlight Trio",
+          "url": "https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0PYLjTrb7ChZTfWG9TFAPe"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "I Touch Myself",
         "url": "https://open.spotify.com/album/5vgUrCbyURSaDhnJXlmSDu"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 200000,
       "name": "I Touch Myself",
       "url": "https://open.spotify.com/track/5Lk2DCQqa0peKaqLCv5uyW"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/0JPsZ8SJLB3tfVJTFjdCo8"
-      },
-      "artists": [
-        {
-          "name": "Stella Starlight Trio",
-          "url": "https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0PYLjTrb7ChZTfWG9TFAPe"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Melodic Canvas",
-        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
-      },
-      "artists": [
-        {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Sunshine & Lullaby",
         "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 247986,
       "name": "Sunshine & Lullaby",
       "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Melodic Canvas",
+        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
+      },
+      "artists": [
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "duration_ms": 207396,
+      "name": "Do You Believe",
+      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
     },
     {
       "added_at": "2026-03-14 19:25:00",

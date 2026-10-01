@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,635 likes - 187 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,634 likes - 187 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 76 | [No R&B](https://open.spotify.com/track/2SJgwPonGSJlFm0Wfjn8cj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:34 |
 | 77 | [To Do List](https://open.spotify.com/track/1U5yljiF4b2KwGvDLgt2rz) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:26 |
 | 78 | [Dollhouse](https://open.spotify.com/track/0YiYzuSET7RzVqywWlchwp) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Jukebox](https://open.spotify.com/album/6y2o7hPNHIfGUtOUyuX03D) | 3:33 |
-| 79 | [Help Me Mama](https://open.spotify.com/track/42iQ0ozQbqmzQCD0Eq5NOc) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Storm](https://open.spotify.com/album/757AemvYYoWCfp729Xp9eG) | 3:05 |
-| 80 | [AIN’T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/1HXdeaCEYL3zOdHA3E8Xio) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [A LITTLE VENGEANCE](https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44) | 3:41 |
+| 79 | [AIN’T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/1HXdeaCEYL3zOdHA3E8Xio) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [A LITTLE VENGEANCE](https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44) | 3:41 |
+| 80 | [Help Me Mama](https://open.spotify.com/track/42iQ0ozQbqmzQCD0Eq5NOc) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Storm](https://open.spotify.com/album/757AemvYYoWCfp729Xp9eG) | 3:05 |
 | 81 | [The Words](https://open.spotify.com/track/5HMl6aG4uTWFo8TZvJ7pfn) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:53 |
 | 82 | [Made In The U.S.A.](https://open.spotify.com/track/0WRxiAcMD5yxRhzwVwIAz8) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Radioactive \(Explicit Version\)](https://open.spotify.com/album/3AGMorE666prvzWaHGddKo) | 3:28 |
 | 83 | [Slow Grind](https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Slow Grind](https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe) | 3:39 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 100 | [Richest](https://open.spotify.com/track/6JUObwBY69Zi8k5tOcUsch) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Richest](https://open.spotify.com/album/58IJMjXWxHRcE4p1HHTieI) | 3:39 |
 | 101 | [Useless \(Without You\) \- Begging Remix](https://open.spotify.com/track/7fiTUtc8p2LhK6RdA4o3CH) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Useless \(Without You\) \[Begging Remix\]](https://open.spotify.com/album/0bqXDEj0z7zFICu38GyvEt) | 3:07 |
 | 102 | [Fade Away](https://open.spotify.com/track/3haG6HgBpcfEZ6UyiGJRsa) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Selah Sue](https://open.spotify.com/album/4QodEuQxjtrNR9htVuaUYr) | 3:27 |
-| 103 | [Black Like This](https://open.spotify.com/track/5psEg4QfGu8BfMrJnKmDWe) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:15 |
-| 104 | [Wax](https://open.spotify.com/track/4sJxHl826ztgX6POnBFNW8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:06 |
+| 103 | [Wax](https://open.spotify.com/track/4sJxHl826ztgX6POnBFNW8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:06 |
+| 104 | [Black Like This](https://open.spotify.com/track/5psEg4QfGu8BfMrJnKmDWe) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:15 |
 | 105 | [IMU](https://open.spotify.com/track/2IoafSDStF6NzyHGeCaFSe) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:08 |
 | 106 | [The Moves \(feat\. Muni Long & Nile Rodgers\)](https://open.spotify.com/track/3gCBF4XZx7dmEtaRDoQLEd) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [The Moves \(feat\. Muni Long & Nile Rodgers\)](https://open.spotify.com/album/2i7fwqOqVisYDooEIzk3Tr) | 2:50 |
 | 107 | [Extra \(Like O.M.G.\)](https://open.spotify.com/track/6PderaWMhMJYFvcoJfvn4I) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Remix](https://open.spotify.com/album/0NSAoiqAnyws6UzcYaCbV2) | 2:34 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 186 | [Baby Boo \- Workout Remix 134 BPM](https://open.spotify.com/track/3tZEV74gCQZIt0yVuWPX1c) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Songs of Fall 2022](https://open.spotify.com/album/48HC6047249VkSzqDxG5uA) | 4:32 |
 | 187 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
 
-Snapshot ID: `AcdopgAAAAAF5tXw8quzNO58YkI0cfm7`
+Snapshot ID: `AcduggAAAACzlCLT2wr2fzJ+6IywF10f`

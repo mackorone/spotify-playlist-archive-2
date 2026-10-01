@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 679897,
+  "num_followers": 680018,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
+        "name": "Nobody's Nobody",
+        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 169390,
+      "name": "Might As Well Be Me",
+      "url": "https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3"
+    },
+    {
+      "added_at": "2026-06-26 04:01:34",
+      "album": {
         "name": "Living Proof (with Jelly Roll)",
         "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 218986,
       "name": "Living Proof (with Jelly Roll)",
       "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
-    },
-    {
-      "added_at": "2026-06-26 04:01:34",
-      "album": {
-        "name": "Nobody's Nobody",
-        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 169390,
-      "name": "Might As Well Be Me",
-      "url": "https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3"
     },
     {
       "added_at": "2026-06-26 04:01:34",

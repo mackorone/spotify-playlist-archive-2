@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Ashley Milred",
-  "num_followers": 41838,
+  "num_followers": 41843,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIY7MIoQeAG+dAwiookq+lQRIw8i",
+  "snapshot_id": "AAAAAEu6iDfAnFx+HZPUcuhmwD9NIlWi",
   "tracks": [
     {
       "added_at": "2026-07-03 12:10:50",
@@ -101,6 +101,26 @@
       "url": "https://open.spotify.com/track/2UaVlvOow9jvoYurpf6Voa"
     },
     {
+      "added_at": "2026-09-30 11:49:24",
+      "album": {
+        "name": "Theeraa Theeraa (From \"Think Originals\")",
+        "url": "https://open.spotify.com/album/6LxewMsm3fGn2rFa2OD8Vb"
+      },
+      "artists": [
+        {
+          "name": "Parvatish Pradeep",
+          "url": "https://open.spotify.com/artist/5vjgwPGSteudan2MIvGjlu"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "duration_ms": 254086,
+      "name": "Theeraa Theeraa - From \"Think Originals\"",
+      "url": "https://open.spotify.com/track/0xv8wzSoazfqMH4r38jjRD"
+    },
+    {
       "added_at": "2026-09-17 06:19:34",
       "album": {
         "name": "Lovely Pain (From \"Saina Music Indie\")",
@@ -174,10 +194,6 @@
         {
           "name": "Sachin C S",
           "url": "https://open.spotify.com/artist/7MpwBydpBJr4uSmbhEoqEO"
-        },
-        {
-          "name": "Rex Vijayan",
-          "url": "https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ"
         }
       ],
       "duration_ms": 320757,

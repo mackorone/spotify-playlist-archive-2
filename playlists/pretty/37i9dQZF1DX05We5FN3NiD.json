@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Lux Prima",
         "url": "https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 183746,
       "name": "Ordinary Pleasure",
       "url": "https://open.spotify.com/track/31F0KxmTD4rz3o0tJht5RL"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 252987,
-      "name": "Roddy",
-      "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
     },
     {
       "added_at": "2022-09-16 04:53:36",

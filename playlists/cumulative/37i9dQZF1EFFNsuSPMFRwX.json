@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Boots In Da Club",
+        "url": "https://open.spotify.com/album/5CXtuNkwUXZ1XyLn9vrp1f"
+      },
+      "artists": [
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240103,
+      "name": "Boots In Da Club",
+      "url": "https://open.spotify.com/track/0Iy7XxO0tFWhqg2Vo1rj97"
+    },
+    {
+      "album": {
         "name": "This Is Me...Now",
         "url": "https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝒿𝓊𝓁𝒾](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,612 songs - 3 day 20 hr 34 min
+[𝒿𝓊𝓁𝒾](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,616 songs - 3 day 20 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1620,5 +1620,9 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1610 | [Contraction Ballet](https://open.spotify.com/track/0f6lAJRqA5NgBdyZWhSPda) | [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy), [Waitress Original Broadway Cast Ensemble](https://open.spotify.com/artist/42T0ua8vepUO5ao1H0RExt) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 1:02 |
 | 1611 | [Everything Changes](https://open.spotify.com/track/6nUhDYgFdSWWIWnN0Mwq9G) | [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy), [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA), [Waitress Original Broadway Cast Ensemble](https://open.spotify.com/artist/42T0ua8vepUO5ao1H0RExt) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 3:02 |
 | 1612 | [Opening Up \- Finale](https://open.spotify.com/track/0D0hntFnPGhcqlexHeudeV) | [Waitress Original Broadway Company](https://open.spotify.com/artist/1miImnjS3RGbyWaixJ5ZdK) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 1:44 |
+| 1613 | [Uncle ACE](https://open.spotify.com/track/0Cn4UhpHhgf88eWaS9nn5u) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:16 |
+| 1614 | [No Right Thing](https://open.spotify.com/track/5u8ZMevzINPCrN2uXQkeNZ) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [David Longstreth](https://open.spotify.com/artist/33HF8cjroL5KzkThWR689t) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:11 |
+| 1615 | [It Is What It Is](https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 5:07 |
+| 1616 | [Chosen](https://open.spotify.com/track/0AHJWgA2mLYz2iFVwbCeod) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 6:44 |
 
-Snapshot ID: `AAANvNPVuGxlGP/p8BHU0IZV1CrC7Mth`
+Snapshot ID: `AAANwNf8ErsXAUxLy0GzxkEYQhUTcA+w`

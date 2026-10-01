@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: Денис Бойко
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,407 likes - 54 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,447 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,20 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 37 | [Дольче Амальфі](https://open.spotify.com/track/2RAbqeiWBuZZq5qmCl72CL) | [Sonhe](https://open.spotify.com/artist/0Zc4Oitt1HFLiF78sSw9H8) | [Дольче Амальфі](https://open.spotify.com/album/2SgNjBuOQtINdf3QNjp81j) | 4:47 |
 | 38 | [відлік](https://open.spotify.com/track/6ssa8RJW8Ha3lo3w8eTopT) | [pollyséna](https://open.spotify.com/artist/701tkyvZL9Cf7BffrezT9F) | [меланхолі я](https://open.spotify.com/album/09qj7xQWRArMzFAPkXqbMS) | 2:21 |
 | 39 | [Хто я?](https://open.spotify.com/track/2yCp4wM4aPryDA8FqiW6MN) | [Aniko](https://open.spotify.com/artist/0LDUdOiMH09s4v6CyPoVpQ) | [Хто я?](https://open.spotify.com/album/7w8luHMFCbnpxjdIPNiFjn) | 2:32 |
-| 40 | [Що далі](https://open.spotify.com/track/4clAHFvl0iMvjIHgYktQC1) | [Нічний вхід](https://open.spotify.com/artist/30i6ttEz1ZLnat8rn53uFU) | [Що далі](https://open.spotify.com/album/4B0dAIHxmU5lWMvteBPjEo) | 3:08 |
-| 41 | [чому я завчасно не вийшов](https://open.spotify.com/track/1yeVri6qyH7YgOXxIggtxk) | [ripcity](https://open.spotify.com/artist/5llGjZdNOIUf6T0ewEbSeK) | [чому я завчасно не вийшов](https://open.spotify.com/album/0KcxS5Y8e5z6Fc2xr9fdd8) | 3:14 |
-| 42 | [ПЛАКАТИ](https://open.spotify.com/track/23Ui0tltKjGH3aqbHMPsEm) | [SEXTUR](https://open.spotify.com/artist/0RD9SzfRYxzcvoxBcYJcNc) | [ПЛАКАТИ](https://open.spotify.com/album/5Gc9lgHdgTlnHD4qPbNKxE) | 3:00 |
-| 43 | [березняки](https://open.spotify.com/track/6SUi1MIlF9QalMt7NqZmx7) | [KILLGRAPE](https://open.spotify.com/artist/110n6f7Pj3Qa1KGwksmVmc) | [березняки](https://open.spotify.com/album/0if0kMAYGR94sTtMRlsvss) | 2:38 |
-| 44 | [Не залиш \(Szívverés\)](https://open.spotify.com/track/7Kg5NNe2qShtffdgkCfGtu) | [Marie Hellstein](https://open.spotify.com/artist/5mP5e9ZxmR6c3NUQTI5PIA) | [Не залиш \(Szívverés\)](https://open.spotify.com/album/01BI1pvdBHFTaI1r53BCPN) | 3:02 |
-| 45 | [Алгоритм](https://open.spotify.com/track/1GLqbQ3rQpQnqlQlvOhDTo) | [DRUG](https://open.spotify.com/artist/6RYQSRnV6dr9S45xN2ZwlV) | [Алгоритм](https://open.spotify.com/album/4HE4dek1c3BNA6db8xp9ns) | 3:51 |
-| 46 | [Вектор в стилі електро](https://open.spotify.com/track/1Cz9yobwXx1lHi6Oci1cuk) | [Електромед](https://open.spotify.com/artist/7dtI8wWfw3XoG6jII7xD9D) | [Вектор в стилі електро](https://open.spotify.com/album/0QU65fKVumV4YxGzadPJFT) | 4:16 |
-| 47 | [Шум](https://open.spotify.com/track/2WG39mZr5DbeOEKT9OPatF) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Шум](https://open.spotify.com/album/4oIy3k705p30Y3MH69VesH) | 3:01 |
-| 48 | [В коробці із олівцями](https://open.spotify.com/track/5HpySvN1L8dFuRuHeobLZF) | [Дзенкінг](https://open.spotify.com/artist/0bVxsT670pmxGrtOGyIBZA) | [В коробці із олівцями](https://open.spotify.com/album/491tj1uhfRbEzjfk0yzEJ6) | 2:37 |
-| 49 | [Останнє метро](https://open.spotify.com/track/6QASIWIcNxJKzuy5yAT82M) | [VikaVishnya](https://open.spotify.com/artist/1rbhnfWQHla3HOpMhwYSLK) | [Останнє метро](https://open.spotify.com/album/1gg7Ke5463SfO0kInZufD0) | 3:45 |
-| 50 | [Рано\-Рано](https://open.spotify.com/track/6PZktOdFRLaEcuf3Nd0XEc) | [Shepit](https://open.spotify.com/artist/5qaJJWtasCLOzNI9GIswrZ) | [Рано\-Рано](https://open.spotify.com/album/5XO2TtrNeZSyF7vwCc3kTc) | 2:58 |
-| 51 | [Як завжди](https://open.spotify.com/track/4bNWMcXQoVq8AyAJbU8JWF) | [Потікша Фляга](https://open.spotify.com/artist/5o00M6Lgt3BMqA0Uh07Aty) | [Як завжди](https://open.spotify.com/album/3eAJD2uBNEZ2Z868UbfZLb) | 3:05 |
-| 52 | [Долоні твої](https://open.spotify.com/track/4sBOfVEDrZTiH3WDmWdbSo) | [Страхи](https://open.spotify.com/artist/6A039k1F7V7oXxKAoUO1o7) | [Долоні твої](https://open.spotify.com/album/1fgC2wGsGXRJqTPTsmIyOi) | 3:24 |
-| 53 | [лише для нас](https://open.spotify.com/track/3RhyRbKIZ612WLI2OXrzEp) | [kedrova](https://open.spotify.com/artist/5HnrXbE5dYA9wdMS6eerh0) | [\#2](https://open.spotify.com/album/1a3B9lMPWT8zChxZDuOocu) | 3:38 |
-| 54 | [справжньому](https://open.spotify.com/track/6e8sRs0DcN5YCMCCmIprLb) | [OGGIAMA](https://open.spotify.com/artist/0pxEqYpr2RKLLRVhQ8hY0N) | [справжньому](https://open.spotify.com/album/1g3NqMz7umKyDYDaNGYbCw) | 2:51 |
+| 40 | [чому я завчасно не вийшов](https://open.spotify.com/track/1yeVri6qyH7YgOXxIggtxk) | [ripcity](https://open.spotify.com/artist/5llGjZdNOIUf6T0ewEbSeK) | [чому я завчасно не вийшов](https://open.spotify.com/album/0KcxS5Y8e5z6Fc2xr9fdd8) | 3:14 |
+| 41 | [ПЛАКАТИ](https://open.spotify.com/track/23Ui0tltKjGH3aqbHMPsEm) | [SEXTUR](https://open.spotify.com/artist/0RD9SzfRYxzcvoxBcYJcNc) | [ПЛАКАТИ](https://open.spotify.com/album/5Gc9lgHdgTlnHD4qPbNKxE) | 3:00 |
+| 42 | [березняки](https://open.spotify.com/track/6SUi1MIlF9QalMt7NqZmx7) | [KILLGRAPE](https://open.spotify.com/artist/110n6f7Pj3Qa1KGwksmVmc) | [березняки](https://open.spotify.com/album/0if0kMAYGR94sTtMRlsvss) | 2:38 |
+| 43 | [Не залиш \(Szívverés\)](https://open.spotify.com/track/7Kg5NNe2qShtffdgkCfGtu) | [Marie Hellstein](https://open.spotify.com/artist/5mP5e9ZxmR6c3NUQTI5PIA) | [Не залиш \(Szívverés\)](https://open.spotify.com/album/01BI1pvdBHFTaI1r53BCPN) | 3:02 |
+| 44 | [Алгоритм](https://open.spotify.com/track/1GLqbQ3rQpQnqlQlvOhDTo) | [DRUG](https://open.spotify.com/artist/6RYQSRnV6dr9S45xN2ZwlV) | [Алгоритм](https://open.spotify.com/album/4HE4dek1c3BNA6db8xp9ns) | 3:51 |
+| 45 | [Вектор в стилі електро](https://open.spotify.com/track/1Cz9yobwXx1lHi6Oci1cuk) | [Електромед](https://open.spotify.com/artist/7dtI8wWfw3XoG6jII7xD9D) | [Вектор в стилі електро](https://open.spotify.com/album/0QU65fKVumV4YxGzadPJFT) | 4:16 |
+| 46 | [Шум](https://open.spotify.com/track/2WG39mZr5DbeOEKT9OPatF) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Шум](https://open.spotify.com/album/4oIy3k705p30Y3MH69VesH) | 3:01 |
+| 47 | [Рано\-Рано](https://open.spotify.com/track/6PZktOdFRLaEcuf3Nd0XEc) | [Shepit](https://open.spotify.com/artist/5qaJJWtasCLOzNI9GIswrZ) | [Рано\-Рано](https://open.spotify.com/album/5XO2TtrNeZSyF7vwCc3kTc) | 2:58 |
+| 48 | [Як завжди](https://open.spotify.com/track/4bNWMcXQoVq8AyAJbU8JWF) | [Потікша Фляга](https://open.spotify.com/artist/5o00M6Lgt3BMqA0Uh07Aty) | [Як завжди](https://open.spotify.com/album/3eAJD2uBNEZ2Z868UbfZLb) | 3:05 |
+| 49 | [лише для нас](https://open.spotify.com/track/3RhyRbKIZ612WLI2OXrzEp) | [kedrova](https://open.spotify.com/artist/5HnrXbE5dYA9wdMS6eerh0) | [\#2](https://open.spotify.com/album/1a3B9lMPWT8zChxZDuOocu) | 3:38 |
+| 50 | [справжньому](https://open.spotify.com/track/6e8sRs0DcN5YCMCCmIprLb) | [OGGIAMA](https://open.spotify.com/artist/0pxEqYpr2RKLLRVhQ8hY0N) | [справжньому](https://open.spotify.com/album/1g3NqMz7umKyDYDaNGYbCw) | 2:51 |
 
-Snapshot ID: `AAAAAB0GhZJ/NQPTCMZ9vTEZS/BSwFJ9`
+Snapshot ID: `AAAAAFxOXpYL0qo4K/KsUb6eIuZlGvZN`

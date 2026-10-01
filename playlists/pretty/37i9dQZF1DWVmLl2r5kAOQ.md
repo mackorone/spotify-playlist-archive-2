@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmLl2r5kAOQ.md) - [plain]
 
 > Songs from the UK's best kids musicians and characters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,687 likes - 90 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,696 likes - 90 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Gruffalo](https://open.spotify.com/track/6SVi8DZofUAESgdcd2ZzhF) | [Julia Donaldson](https://open.spotify.com/artist/16LvLSIezRcXAEpqcDDl2v) | [Julia Donaldson Sings the Gruffalo and Other Favourite Picture Book Songs](https://open.spotify.com/album/4WdCXf9tI3qVC1pNs1Btpl) | 1:16 |
+| 1 | [The Gruffalo](https://open.spotify.com/track/6SVi8DZofUAESgdcd2ZzhF) | [Julia Donaldson](https://open.spotify.com/artist/16LvLSIezRcXAEpqcDDl2v), [The Gruffalo & Friends](https://open.spotify.com/artist/2qBpatD2FarIEEv4Acktui) | [Julia Donaldson Sings the Gruffalo and Other Favourite Picture Book Songs](https://open.spotify.com/album/4WdCXf9tI3qVC1pNs1Btpl) | 1:16 |
 | 2 | [Revolting Children](https://open.spotify.com/track/5jb55O3h5dfOK4YMUbTb1Y) | [Matilda the Musical Original Cast](https://open.spotify.com/artist/7paFidVdtsmKlLtHiLZu41) | [Matilda the Musical \(Original London Cast Recording\)](https://open.spotify.com/album/4TMFJM8OsgA2RwwYySNhmU) | 2:32 |
 | 3 | [Evie!](https://open.spotify.com/track/3JGWN6wzHez1AvrJMUkzJh) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Evie!](https://open.spotify.com/album/1fYhZvq9CjA4MdaQ1soszs) | 1:59 |
 | 4 | [The Hokey Cokey](https://open.spotify.com/track/6Hb0PbsHrfP276ep55mJdZ) | [Justin Fletcher](https://open.spotify.com/artist/4WlmB6hwSKd5zYzjhKNXE9) | [Hands Up](https://open.spotify.com/album/4SUBM7XZVoMasHgEDZliWf) | 3:16 |

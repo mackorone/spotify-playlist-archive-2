@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Cuarteto de Nos",
-  "num_followers": 127427,
+  "num_followers": 127433,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
-        "name": "En Vivo Gran Rex",
-        "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 250426,
-      "name": "El Coraz\u00f3n Sobre Todo - En Vivo",
-      "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"
-    },
-    {
-      "added_at": "2026-09-14 18:42:36",
-      "album": {
         "name": "El Ultimo Concierto B (Remastered)",
         "url": "https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 291373,
       "name": "De M\u00fasica Ligera - Remasterizado 2007",
       "url": "https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g"
+    },
+    {
+      "added_at": "2026-09-14 18:42:36",
+      "album": {
+        "name": "En Vivo Gran Rex",
+        "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 250426,
+      "name": "El Coraz\u00f3n Sobre Todo - En Vivo",
+      "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"
     },
     {
       "added_at": "2026-09-14 18:42:36",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
-        "name": "El regreso",
-        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 233213,
-      "name": "Te quiero igual - En directo 2005",
-      "url": "https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX"
-    },
-    {
-      "added_at": "2026-09-14 18:42:36",
-      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 364493,
       "name": "Ella Uso Mi Cabeza Como Un Revolver - MTV Unplugged",
       "url": "https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK"
+    },
+    {
+      "added_at": "2026-09-14 18:42:36",
+      "album": {
+        "name": "El regreso",
+        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 233213,
+      "name": "Te quiero igual - En directo 2005",
+      "url": "https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX"
     },
     {
       "added_at": "2026-09-14 18:42:36",
@@ -379,22 +379,18 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+        "name": "Vivo y celebrando en Argentinos Jrs",
+        "url": "https://open.spotify.com/album/65zRm2x4JZBMxVGTdQL3AL"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 296120,
-      "name": "Casi Nunca Lo Ves (En Vivo) (feat. Ciro y Los Persas)",
-      "url": "https://open.spotify.com/track/4EbfeFf88tna6YcInp1ugJ"
+      "duration_ms": 229360,
+      "name": "El Cantar de los Anzuelos - En Vivo en Argentinos Jrs",
+      "url": "https://open.spotify.com/track/2zwlozi5lP3AgAqKLloR8u"
     },
     {
       "added_at": "2026-09-14 18:42:36",
@@ -415,18 +411,22 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
-        "name": "Vivo y celebrando en Argentinos Jrs",
-        "url": "https://open.spotify.com/album/65zRm2x4JZBMxVGTdQL3AL"
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
       "artists": [
         {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 229360,
-      "name": "El Cantar de los Anzuelos - En Vivo en Argentinos Jrs",
-      "url": "https://open.spotify.com/track/2zwlozi5lP3AgAqKLloR8u"
+      "duration_ms": 296120,
+      "name": "Casi Nunca Lo Ves (En Vivo) (feat. Ciro y Los Persas)",
+      "url": "https://open.spotify.com/track/4EbfeFf88tna6YcInp1ugJ"
     },
     {
       "added_at": "2026-09-14 18:42:36",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
-        "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
-        "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 334320,
-      "name": "Avanti Morocha (En Vivo Provincia Emergente)",
-      "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
-    },
-    {
-      "added_at": "2026-09-14 18:42:36",
-      "album": {
         "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
         "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 288560,
       "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
+    },
+    {
+      "added_at": "2026-09-14 18:42:36",
+      "album": {
+        "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
+        "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 334320,
+      "name": "Avanti Morocha (En Vivo Provincia Emergente)",
+      "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
     },
     {
       "added_at": "2026-09-14 18:42:36",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
-        "name": "Repuesto de Fe (En Vivo)",
-        "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Irresponsables - En Vivo",
-      "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
-    },
-    {
-      "added_at": "2026-09-14 18:42:36",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 263373,
       "name": "Pronta Entrega - En Vivo",
       "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+    },
+    {
+      "added_at": "2026-09-14 18:42:36",
+      "album": {
+        "name": "Repuesto de Fe (En Vivo)",
+        "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Irresponsables - En Vivo",
+      "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
     },
     {
       "added_at": "2026-09-14 18:42:36",

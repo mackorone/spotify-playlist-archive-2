@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 188421,
       "name": "Dil Kay Isharay",
       "url": "https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU"
@@ -4134,6 +4134,24 @@
       "duration_ms": 154434,
       "name": "KTMBK",
       "url": "https://open.spotify.com/track/4R8VBRb5nKbEfi1EIA2B7p"
+    },
+    {
+      "album": {
+        "name": "Kuch Toh Hai Yahan",
+        "url": "https://open.spotify.com/album/0msPrwR0zs2nsv8I1B4SuB"
+      },
+      "artists": [
+        {
+          "name": "OutStation",
+          "url": "https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Kuch Toh Hai Yahan",
+      "url": "https://open.spotify.com/track/6Lfn1GiEJZB4XSvDpRpbWV"
     },
     {
       "album": {

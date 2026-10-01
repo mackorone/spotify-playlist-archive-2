@@ -20518,7 +20518,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 182027,
       "name": "Ik\u00e4v\u00e4 kotiin (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
       "url": "https://open.spotify.com/track/0jYXNvVKH28ihkkFk5Fly5"
@@ -38978,7 +38978,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 195997,
       "name": "M\u00e4 nautin",
       "url": "https://open.spotify.com/track/2aDIZo4JlcfE4xzrEUhEzw"
@@ -39818,6 +39818,24 @@
       "duration_ms": 207306,
       "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
       "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
+    },
+    {
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "album": {
@@ -52692,7 +52710,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 210466,
       "name": "SKYLINE",
       "url": "https://open.spotify.com/track/1l5OqvmJEHoYWuszBt825e"

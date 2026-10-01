@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 345877,
+  "num_followers": 345972,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
-        "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos del sol",
-          "url": "https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah"
-        }
-      ],
-      "duration_ms": 245031,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Cumbia Amazonica",
         "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 147826,
       "name": "No Te Vayas, Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6ZHOAF8cCGLXsSvNAFADMi"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
+        "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos del sol",
+          "url": "https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah"
+        }
+      ],
+      "duration_ms": 245031,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/6phWt5bRbTh96gjxZcnH4c"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 161239,
       "name": "Yo Tomo Licor",
       "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/6phWt5bRbTh96gjxZcnH4c"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "El Condor Legendario",
+        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "Historia Musical de Lisandro Meza",
         "url": "https://open.spotify.com/album/0V8RCVW3lYuvm85lPDmhi9"
       },
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Los Reyes de la Cumbia",
-        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 284160,
-      "name": "Rumba Cha Cha",
-      "url": "https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
       },
@@ -1843,6 +1843,38 @@
       "duration_ms": 228400,
       "name": "Vida No Te Vayas",
       "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Guaracha Sabrosona",
+        "url": "https://open.spotify.com/album/2RmmHqe6EdibrcZfvRQkYk"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "Guaracha Sabrosona",
+      "url": "https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Los Reyes de la Cumbia",
+        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "Rumba Cha Cha",
+      "url": "https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1879,38 +1911,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
-        "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 290120,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "El Condor Legendario",
-        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
-      },
-      "artists": [
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "El Diario De Un Borracho",
-      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
         "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
       },
@@ -1923,6 +1923,22 @@
       "duration_ms": 224666,
       "name": "Alma De Acero",
       "url": "https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
+        "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 290120,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1975,8 +1991,8 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Guaracha Sabrosona",
-        "url": "https://open.spotify.com/album/2RmmHqe6EdibrcZfvRQkYk"
+        "name": "Guarachando",
+        "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
       },
       "artists": [
         {
@@ -1984,9 +2000,9 @@
           "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
         }
       ],
-      "duration_ms": 219088,
-      "name": "Guaracha Sabrosona",
-      "url": "https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL"
+      "duration_ms": 243457,
+      "name": "Coraz\u00f3n Solitario",
+      "url": "https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -2023,22 +2039,6 @@
       "duration_ms": 242918,
       "name": "Tabaco y Ron",
       "url": "https://open.spotify.com/track/5kyyzquBdNuJis2kVC4GmT"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Los Reyes de la Cumbia",
-        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Las Mujeres No Se Acaban",
-      "url": "https://open.spotify.com/track/76JtOI0FWWI1KhM0Gyj3rJ"
     }
   ],
   "unique_name": "Cumbias Viejitas",

@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Jay Park\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Verbal Jint\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-851 songs - 1 day 21 hr 21 min
+852 songs - 1 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -706,6 +706,7 @@
 | [Sunday](https://open.spotify.com/track/5OYu2gZDLzCGEYgeNvcmO2) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW), [Oz](https://open.spotify.com/artist/4qSDffaAMImvr2UHN5iqi5) | [Sunday](https://open.spotify.com/album/6Rdcr8uhBhaNFbuH4LVD2U) | 2:34 | 2022-04-21 | 2022-07-20 |
 | [Sunday \(feat\. HEIZE, Jay Park\)](https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYWHERE](https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7) | 3:02 | 2022-04-21 | 2026-03-14 |
 | [Super Freak](https://open.spotify.com/track/6c31ORfUpeHQF7df1AZV0X) | [200 \(Eback\)](https://open.spotify.com/artist/0fXWfP9K7O3T7z2uC1CzSc) | [Super Freak](https://open.spotify.com/album/3fHIbiwsluDRAfoebJralo) | 2:00 | 2024-11-06 | 2025-02-09 |
+| [SUPERDRY](https://open.spotify.com/track/0hflsM22PAKRNKIjw6fyUM) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [SUPERDRY](https://open.spotify.com/album/2uuomAXvY9Qz4C4QD3016j) | 2:28 | 2026-09-30 |  |
 | [SUR:VIBE \(feat\. BRAWL STARS\)](https://open.spotify.com/track/4AOEeJbeHPYCEzxfsStEwG) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Brawl Stars](https://open.spotify.com/artist/6uqbI01HHuIVZ2LcZoDGlG) | [SUR:VIBE \(feat\. BRAWL STARS\)](https://open.spotify.com/album/0A85GFAjC2oiJu7phflbCN) | 3:13 | 2022-05-05 | 2022-05-12 |
 | [Survival Rapper](https://open.spotify.com/track/2dLQDEG4Y0EKsaXNbmQcwm) | [lil bosal](https://open.spotify.com/artist/61uB19bE5ejvku0NCSAH2t) | [Bosal Coin](https://open.spotify.com/album/3IYYz6DyYX5ihg733A5ksL) | 2:16 | 2022-05-05 | 2022-06-14 |
 | [Swear](https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Swear](https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2) | 2:57 | 2024-05-30 | 2024-08-11 |
@@ -801,7 +802,7 @@
 | [Waterfalls \(feat\. BIG Naughty\)](https://open.spotify.com/track/1dL6K73YgzUj58luLfRTpV) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Yours Truly](https://open.spotify.com/album/4tHUmg0RAKdjTuCNkakep3) | 2:57 | 2024-10-16 | 2024-11-28 |
 | [Way \(Feat\. CHOILB, GIRIBOY, BIG Naughty, Kvsh, Kim Seungmin, OLNL, Kid Milli, THAMA\)](https://open.spotify.com/track/0WHUg5Z0NZkeuPt5l4uMB9) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [DEMOTAPE](https://open.spotify.com/album/1bt1wd9Pyihm15Jl3LzwwJ) | 4:21 | 2022-04-21 | 2022-07-25 |
 | [Weather report](https://open.spotify.com/track/5d3gS49jJRainBEemo7OF3) | [한다윗](https://open.spotify.com/artist/73NR9Q1xVKjoNJqyzstJuY) | [Negative 2 Positive 1](https://open.spotify.com/album/4FXKSSC4RCh6ueCSKxKOd9) | 3:46 | 2022-07-24 | 2022-07-29 |
-| [WET](https://open.spotify.com/track/6XVzxEg3OzlpdnJIzBZBL3) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [WET](https://open.spotify.com/album/4LmjnThcPXDd9Lcz3ctIY1) | 3:20 | 2025-04-09 |  |
+| [WET](https://open.spotify.com/track/6XVzxEg3OzlpdnJIzBZBL3) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [WET](https://open.spotify.com/album/4LmjnThcPXDd9Lcz3ctIY1) | 3:20 | 2025-04-09 | 2026-10-01 |
 | [What Should I do](https://open.spotify.com/track/4BZuHDcmgmRaAwPd6IO7MY) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Novel](https://open.spotify.com/album/6O08w4c7AzjXzfhQbG8zz9) | 3:42 | 2023-10-27 | 2025-06-11 |
 | [What U Wanna Do](https://open.spotify.com/track/2rQaFBnhmQWML20DPtZy7u) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO), [Ruddie Miller](https://open.spotify.com/artist/2hQyQHnEx894E4Xw6fuGam) | [What U Wanna Do](https://open.spotify.com/album/2xqHWKwd6eOTt7VhccA2PC) | 3:17 | 2022-05-05 | 2022-07-29 |
 | [What′s Love? \(Feat\. Rakon\)](https://open.spotify.com/track/6s9ygHPj98H7LptAk3SCqo) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk) | [What′s Love?](https://open.spotify.com/album/3EoTcBxiy2ZiHaoP7zOTuh) | 3:20 | 2023-09-27 | 2023-10-05 |

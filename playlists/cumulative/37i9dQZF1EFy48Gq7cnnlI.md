@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-153 songs - 8 hr 36 min
+154 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [Kidz Zone](https://open.spotify.com/track/5Bsm5nmisiChMvmOfyuIHn) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/3GIcmFqY3eL1cKOys4IpxJ) | 2:29 | 2024-02-08 |  |
 | [Knock Me Out](https://open.spotify.com/track/3ZKWAGpEG2UGvjzoNgJEPq) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [SAMURAI SESSIONS vol.3 \- Worlds Collide \-](https://open.spotify.com/album/4H9oh7fZrr6GBH1SWSNYsR) | 3:41 | 2021-12-27 |  |
 | [Lanterns](https://open.spotify.com/track/43Zwrtbau8McAXvvxw9Qv2) | [Benny Tipene](https://open.spotify.com/artist/6iGRpCDnRmtqYF0tNjRoKJ) | [Bricks \- Extended Sessions](https://open.spotify.com/album/35StGDg3dq2KgNrpC0LwrK) | 2:50 | 2021-12-27 |  |
+| [Last Girl On Earth](https://open.spotify.com/track/05ptpAc44nZeCf4WStJdn3) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [IF THE SHOE FITS, WEAR IT \(ONE LAST CRY EDITION\)](https://open.spotify.com/album/59IFWP7pYPOxmyKDLPBlKO) | 3:21 | 2026-09-30 |  |
 | [Last Girl on Earth](https://open.spotify.com/track/6PPxnLwM1Bzyyo0K2Kf5zK) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [Last Girl on Earth](https://open.spotify.com/album/6MUJP0mwWCuUeG9TgAMm2M) | 3:21 | 2023-12-21 | 2024-08-05 |
-| [Last Girl on Earth](https://open.spotify.com/track/6YCjZMyZEIFWumqnQvGQuB) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [IF THE SHOE FITS, WEAR IT \(ONE LAST CRY EDITION\)](https://open.spotify.com/album/30DtBHGdhiZKhyXjRE7vi8) | 3:21 | 2024-08-04 |  |
+| [Last Girl on Earth](https://open.spotify.com/track/6YCjZMyZEIFWumqnQvGQuB) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [IF THE SHOE FITS, WEAR IT \(ONE LAST CRY EDITION\)](https://open.spotify.com/album/30DtBHGdhiZKhyXjRE7vi8) | 3:21 | 2024-08-04 | 2026-10-01 |
 | [Let You Down](https://open.spotify.com/track/3RfCrI6Mmteu7Tp4xGndWd) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:15 | 2021-12-27 |  |
 | [Life On Earth?](https://open.spotify.com/track/5RpEqAXIsRvVwCJdVmufm9) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Two Songs For Now](https://open.spotify.com/album/1heHLpyhV8jv8dprQxJrki) | 2:10 | 2021-12-27 |  |
 | [Lights Out](https://open.spotify.com/track/6MQQI2uYnjd8EsWbISfpA5) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6) | [To A Stranger](https://open.spotify.com/album/2NwLmvIUuYg63DvZrVidmG) | 3:32 | 2021-12-27 |  |

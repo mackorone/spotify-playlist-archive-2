@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,332 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,415 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 6 | [Forgiveness](https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:38 |
 | 7 | [Chanel \(feat\. Asake\)](https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Chanel \(feat\. Asake\)](https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT) | 2:30 |
 | 8 | [MOVE](https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [MOVE](https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K) | 1:56 |
-| 9 | [GTA](https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GTA](https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN) | 2:35 |
+| 9 | [KANTE \(feat\. Fave\)](https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:14 |
 | 10 | [Bere Mole](https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Bere Mole](https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf) | 1:53 |
 | 11 | [MCBH](https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:50 |
 | 12 | [Love Again \(feat\. Full Blown\)](https://open.spotify.com/track/0zZUq2EqsqD2DDDHZAgPEf) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [SUN SHERIF](https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY) | 2:35 |
 | 13 | [TEA](https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [TEA](https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj) | 3:12 |
-| 14 | [KANTE \(feat\. Fave\)](https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:14 |
+| 14 | [GTA](https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GTA](https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN) | 2:35 |
 | 15 | [Elumelu](https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Elumelu](https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg) | 2:13 |
 | 16 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 |
 | 17 | [Big Bum Bum](https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Big Bum Bum](https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S) | 2:39 |

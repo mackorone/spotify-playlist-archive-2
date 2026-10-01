@@ -451,26 +451,6 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
-        "name": "Faded Eyes",
-        "url": "https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 177713,
-      "name": "Faded Eyes",
-      "url": "https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
         "name": "Decyzje",
         "url": "https://open.spotify.com/album/6uYOJ4jwogpsfI4q80MS65"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 193000,
       "name": "Decyzje",
       "url": "https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
+        "name": "Faded Eyes",
+        "url": "https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 177713,
+      "name": "Faded Eyes",
+      "url": "https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
-        "name": "halo Houston",
-        "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
-      },
-      "artists": [
-        {
-          "name": "Jasiek Piwowarczyk",
-          "url": "https://open.spotify.com/artist/705MUvkld29STeOVijPoTe"
-        }
-      ],
-      "duration_ms": 143048,
-      "name": "halo Houston",
-      "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
         "name": "Music Sounds",
         "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 159551,
       "name": "Music Sounds",
       "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
+        "name": "halo Houston",
+        "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
+      },
+      "artists": [
+        {
+          "name": "Jasiek Piwowarczyk",
+          "url": "https://open.spotify.com/artist/705MUvkld29STeOVijPoTe"
+        }
+      ],
+      "duration_ms": 143048,
+      "name": "halo Houston",
+      "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -683,26 +683,6 @@
       "duration_ms": 194331,
       "name": "By\u0142y momenty",
       "url": "https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
-        "name": "a\u017c nie chce si\u0119 wraca\u0107",
-        "url": "https://open.spotify.com/album/0HucmneaAqFQ3TM2AcnLTW"
-      },
-      "artists": [
-        {
-          "name": "MODELKI",
-          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
-        },
-        {
-          "name": "V\u0142odarski",
-          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
-        }
-      ],
-      "duration_ms": 134563,
-      "name": "a\u017c nie chce si\u0119 wraca\u0107",
-      "url": "https://open.spotify.com/track/422iOvOmu1a7tx3DDHEylm"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -747,6 +727,26 @@
       "duration_ms": 172852,
       "name": "Cztery pory roku",
       "url": "https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
+        "name": "a\u017c nie chce si\u0119 wraca\u0107",
+        "url": "https://open.spotify.com/album/0HucmneaAqFQ3TM2AcnLTW"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "duration_ms": 134563,
+      "name": "a\u017c nie chce si\u0119 wraca\u0107",
+      "url": "https://open.spotify.com/track/422iOvOmu1a7tx3DDHEylm"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -891,22 +891,18 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
-        "name": "SPOS\u00d3B",
-        "url": "https://open.spotify.com/album/2hO8mkfUQSuq0wHa4NfB0e"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/7vXymVunheG3BABabEky8f"
       },
       "artists": [
         {
-          "name": "Grubson",
-          "url": "https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa"
-        },
-        {
-          "name": "Kajetan Wolas",
-          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+          "name": "Wiktor Sas",
+          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
         }
       ],
-      "duration_ms": 193988,
-      "name": "SPOS\u00d3B",
-      "url": "https://open.spotify.com/track/1PRfKvxWbyJiPYMVzddOV9"
+      "duration_ms": 160846,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -927,6 +923,26 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
+        "name": "SPOS\u00d3B",
+        "url": "https://open.spotify.com/album/2hO8mkfUQSuq0wHa4NfB0e"
+      },
+      "artists": [
+        {
+          "name": "Grubson",
+          "url": "https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa"
+        },
+        {
+          "name": "Kajetan Wolas",
+          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+        }
+      ],
+      "duration_ms": 193988,
+      "name": "SPOS\u00d3B",
+      "url": "https://open.spotify.com/track/1PRfKvxWbyJiPYMVzddOV9"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
         "name": "Widz\u0119 Ci\u0119",
         "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
       },
@@ -939,38 +955,6 @@
       "duration_ms": 143500,
       "name": "Widz\u0119 Ci\u0119",
       "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/7vXymVunheG3BABabEky8f"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Sas",
-          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
-        }
-      ],
-      "duration_ms": 160846,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
-        "name": "DZI\u015a SOBIE DAM",
-        "url": "https://open.spotify.com/album/2pqlWiXuaQM6gD05K2e3EP"
-      },
-      "artists": [
-        {
-          "name": "Julia Wieniawa",
-          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "DZI\u015a SOBIE DAM",
-      "url": "https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -991,18 +975,18 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
-        "name": "Lepiej ju\u017c by\u0142o",
-        "url": "https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr"
+        "name": "DZI\u015a SOBIE DAM",
+        "url": "https://open.spotify.com/album/2pqlWiXuaQM6gD05K2e3EP"
       },
       "artists": [
         {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
         }
       ],
-      "duration_ms": 220157,
-      "name": "Lepiej ju\u017c by\u0142o",
-      "url": "https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH"
+      "duration_ms": 167920,
+      "name": "DZI\u015a SOBIE DAM",
+      "url": "https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -1019,6 +1003,22 @@
       "duration_ms": 192679,
       "name": "nie wierz\u0119 w bajki",
       "url": "https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
+        "name": "Lepiej ju\u017c by\u0142o",
+        "url": "https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 220157,
+      "name": "Lepiej ju\u017c by\u0142o",
+      "url": "https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH"
     },
     {
       "added_at": "2026-09-18 08:00:22",

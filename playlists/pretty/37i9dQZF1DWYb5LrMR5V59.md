@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYb5LrMR5V59.md) - [plain]
 
 > Guitarras relajantes para descansar y recuperar fuerzas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,182 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,183 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Porto Fino](https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Porto Fino](https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM) | 4:07 |
 | 2 | [Pacific Crossing](https://open.spotify.com/track/5ejwtcvWyF5disN9zhrBB5) | [Aias Conor](https://open.spotify.com/artist/7kuswEJC0797VqtvPmxpa1) | [Lost Stories](https://open.spotify.com/album/7y0owchBn5sqwugE6RFWqh) | 3:18 |
-| 3 | [At The Rainbow's End \(Instrumental Version\)](https://open.spotify.com/track/0rOKZpe9IicqAgHDkpqjZE) | [LVGOON](https://open.spotify.com/artist/2UKWDg9lNWIv3mBXCDMFHa) | [A Lifetime](https://open.spotify.com/album/5BP3YkvtQLJFGANQT3FiED) | 3:20 |
+| 3 | [At the Rainbow's End \- Instrumental Version](https://open.spotify.com/track/0rOKZpe9IicqAgHDkpqjZE) | [LVGOON](https://open.spotify.com/artist/2UKWDg9lNWIv3mBXCDMFHa) | [A Lifetime](https://open.spotify.com/album/5BP3YkvtQLJFGANQT3FiED) | 3:20 |
 | 4 | [Tranquility Lane](https://open.spotify.com/track/5CakJsxSpYHNKYYsp3Pnn0) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [Dust & Daze](https://open.spotify.com/album/43QkQsv32AaAgVtpV3lpOO) | 2:14 |
 | 5 | [She´s coming home](https://open.spotify.com/track/3hBw9MpwgfsAgCgZVKuFDN) | [Johan Norberg](https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr), [Lasse Englund](https://open.spotify.com/artist/49nrvO4HPiNcExUo9Yn9Q3) | [She´s Coming Home](https://open.spotify.com/album/6twdV5fyw38LVbVBhInzmX) | 2:46 |
 | 6 | [Flow](https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Flow](https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYb5LrMR5V59.md) - [plain]
 | 74 | [Adelita](https://open.spotify.com/track/62Boz6NDFyOT3tKkSWis2E) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/59wykB5aKaXRudvU8VTo6h) | 1:48 |
 | 75 | [Friends for Life](https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E) | [Les Cieu](https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB) | [Friends for Life](https://open.spotify.com/album/2HOadp8AnTx64UnV8GVZW0) | 2:16 |
 
-Snapshot ID: `AAAAABdAtXuZr1dY7Z+jyn0PrUCVyps0`
+Snapshot ID: `AAAAAIUnTQJ6agAr+00CefXk7AeZVA4D`

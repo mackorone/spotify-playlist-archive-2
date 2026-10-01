@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627 likes - 356 songs - 21 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 628 likes - 356 songs - 21 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -274,8 +274,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 264 | [I've Forgotten You \- Live](https://open.spotify.com/track/0Jd4VzemqpzeoZaFS7c2SD) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Ragin' Live](https://open.spotify.com/album/76fXgXvRmyAIkh0gLZuWFf) | 4:35 |
 | 265 | [boy crazy.](https://open.spotify.com/track/0w5kNjJnZeSincUoJKUkFq) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0fLfQ7ZAtf5oZN4Ku61wyV) | 2:37 |
 | 266 | [Liar](https://open.spotify.com/track/6qsc0dVy76PRWI0hkcLbz4) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Liar](https://open.spotify.com/album/4UD1ACjCmwnCcTdQwvtwj3) | 3:29 |
-| 267 | [Bad Love](https://open.spotify.com/track/1pfNTd88JczeBX1kndkO3p) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/5YRwR7wOulWESaGKwHcQbF) | 3:26 |
-| 268 | [Something Strong](https://open.spotify.com/track/4ooiGkHiIi6VQNGmE0MnSR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:34 |
+| 267 | [Something Strong](https://open.spotify.com/track/4ooiGkHiIi6VQNGmE0MnSR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:34 |
+| 268 | [Bad Love](https://open.spotify.com/track/1pfNTd88JczeBX1kndkO3p) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/5YRwR7wOulWESaGKwHcQbF) | 3:26 |
 | 269 | [The Other Side](https://open.spotify.com/track/2x6rtVe96HwHP5QRM2oXpL) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 2:59 |
 | 270 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
 | 271 | [Big Cry](https://open.spotify.com/track/05Wur4UuHdUIP3c8Hvs7fi) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 3:17 |
@@ -312,8 +312,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 302 | [\(No One's Gonna\) Break Me Down](https://open.spotify.com/track/67xenxD9QjNqTN85yt6eU1) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [What The World Needs Now Is Love](https://open.spotify.com/album/3Jx9WXotFej9KE0AlOLPUN) | 3:16 |
 | 303 | [Stunt Double](https://open.spotify.com/track/77viHqec8VbdpOfGYrmosJ) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Stunt Double](https://open.spotify.com/album/1EeKcdv0BY0ecKb5FyKtw9) | 2:46 |
 | 304 | [Grow Young With You](https://open.spotify.com/track/4wqBtWPwfJX1E9VktFasnp) | [Coley McCabe](https://open.spotify.com/artist/1hK0g9hPhdHxWbrG2488XO), [Andy Griggs](https://open.spotify.com/artist/7CyJIUpcWZK2zFM6gKLKvD) | [Coley McCabe](https://open.spotify.com/album/7LZ3ayqh2RLEckP2RK8p1u) | 3:54 |
-| 305 | [Rewrite History](https://open.spotify.com/track/109fKS4oNqEWgVXp1KtuV7) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Heartfirst](https://open.spotify.com/album/2YpTMq0ClNeAKMy0zCPhlF) | 3:52 |
-| 306 | [Long Way To Your Heart](https://open.spotify.com/track/6KG8m7jDXF5U76xnNIJn75) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [It's A Dying Art \(Commentary\)](https://open.spotify.com/album/192tOQqmoCMQZ9J3pwqodg) | 4:25 |
+| 305 | [Long Way To Your Heart](https://open.spotify.com/track/6KG8m7jDXF5U76xnNIJn75) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [It's A Dying Art \(Commentary\)](https://open.spotify.com/album/192tOQqmoCMQZ9J3pwqodg) | 4:25 |
+| 306 | [Rewrite History](https://open.spotify.com/track/109fKS4oNqEWgVXp1KtuV7) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Heartfirst](https://open.spotify.com/album/2YpTMq0ClNeAKMy0zCPhlF) | 3:52 |
 | 307 | [Over Here](https://open.spotify.com/track/4wuhlskcKp05Bvyo4ZBXjJ) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg) | [Planes Don't Wait](https://open.spotify.com/album/0uIwUWUsDPDJoNDBnfzs3o) | 3:34 |
 | 308 | [Don't Even Go There](https://open.spotify.com/track/03rfZYPDfZsHtClobeKpLc) | [Kaylens Rain](https://open.spotify.com/artist/2fYyRW0iCIGiN1ju0KcWyO) | [Found](https://open.spotify.com/album/00E7KsqlLiwM6PLCUUwzMq) | 3:27 |
 | 309 | [Whiskey and Water](https://open.spotify.com/track/4tDj7Nlfn1OfOFfXpvrm6g) | [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Whiskey and Water](https://open.spotify.com/album/7bWBIhSORAl6lwF48LgaaY) | 3:44 |
@@ -365,4 +365,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 355 | [Relapse](https://open.spotify.com/track/2QSx7YmaQeEF1Orrymng9h) | [Romantic](https://open.spotify.com/artist/6kopcZ58fkBTfUzDAQcb4n) | [Dying of The Light](https://open.spotify.com/album/7dYlb4zkngh3DRGGfcj0vC) | 3:30 |
 | 356 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcdoxAAAAACVDINBp1F+UvqPQEClLOcC`
+Snapshot ID: `AcduUAAAAACHYIDa9e6bwRTSgI4kZjDt`

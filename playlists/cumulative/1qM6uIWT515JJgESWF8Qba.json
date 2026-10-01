@@ -3541,6 +3541,24 @@
     },
     {
       "album": {
+        "name": "If Beethoven Was a Punk",
+        "url": "https://open.spotify.com/album/1MZl3M08invYemenKtPv7T"
+      },
+      "artists": [
+        {
+          "name": "WakeUpCall",
+          "url": "https://open.spotify.com/artist/3Gcd8bWz8E9Kwmk0DgESve"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203826,
+      "name": "My Last Song",
+      "url": "https://open.spotify.com/track/1vA3Eckd0hUPGctLZsLSis"
+    },
+    {
+      "album": {
         "name": "My Own World",
         "url": "https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m"
       },

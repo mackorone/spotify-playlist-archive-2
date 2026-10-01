@@ -1,6 +1,6 @@
 {
   "description": "Los mejores lentos del rock. Foto: reybruja",
-  "num_followers": 172410,
+  "num_followers": 172421,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-09-24 22:12:04",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 202063,
-      "name": "A Las Nueve",
-      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
-    },
-    {
-      "added_at": "2026-09-24 22:12:04",
-      "album": {
         "name": "Artaud",
         "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 215386,
       "name": "Diez a\u00f1os despu\u00e9s",
       "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
+    },
+    {
+      "added_at": "2026-09-24 22:12:04",
+      "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 202063,
+      "name": "A Las Nueve",
+      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
     },
     {
       "added_at": "2026-09-24 22:12:04",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-09-24 22:12:04",
       "album": {
+        "name": "Laberintos Entre Aristas Y Dialectos",
+        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 273013,
+      "name": "A Veces Vuelvo - Acustico",
+      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
+    },
+    {
+      "added_at": "2026-09-24 22:12:04",
+      "album": {
         "name": "Hay Momentos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 279684,
       "name": "Hay Momentos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
-    },
-    {
-      "added_at": "2026-09-24 22:12:04",
-      "album": {
-        "name": "Laberintos Entre Aristas Y Dialectos",
-        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 273013,
-      "name": "A Veces Vuelvo - Acustico",
-      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
     },
     {
       "added_at": "2026-09-24 22:12:04",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-09-24 22:12:04",
       "album": {
-        "name": "Los Dos",
-        "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Los Dos",
-      "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
-    },
-    {
-      "added_at": "2026-09-24 22:12:04",
-      "album": {
         "name": "Rock Nacional",
         "url": "https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 279441,
       "name": "Siguiendo la Luna",
       "url": "https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed"
+    },
+    {
+      "added_at": "2026-09-24 22:12:04",
+      "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
     },
     {
       "added_at": "2026-09-24 22:12:04",
@@ -1463,18 +1463,22 @@
     {
       "added_at": "2026-09-24 22:12:04",
       "album": {
-        "name": "SOLO POR HOY",
-        "url": "https://open.spotify.com/album/1NmWkRWCldn3E85eHBiDO5"
+        "name": "Como Un Cuento",
+        "url": "https://open.spotify.com/album/1Ki4nbbat5sivyij8b57Kv"
       },
       "artists": [
         {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Portal Sessions",
+          "url": "https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN"
         }
       ],
-      "duration_ms": 137661,
-      "name": "BUZIOS",
-      "url": "https://open.spotify.com/track/1SPPvEaqCuLFOkM9oVfJpS"
+      "duration_ms": 287114,
+      "name": "Como Un Cuento",
+      "url": "https://open.spotify.com/track/2lKQSh2RQ9z3yhfHOpKTqw"
     },
     {
       "added_at": "2026-09-24 22:12:04",
@@ -1495,22 +1499,18 @@
     {
       "added_at": "2026-09-24 22:12:04",
       "album": {
-        "name": "Como Un Cuento",
-        "url": "https://open.spotify.com/album/1Ki4nbbat5sivyij8b57Kv"
+        "name": "SOLO POR HOY",
+        "url": "https://open.spotify.com/album/1NmWkRWCldn3E85eHBiDO5"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Portal Sessions",
-          "url": "https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN"
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
         }
       ],
-      "duration_ms": 287114,
-      "name": "Como Un Cuento",
-      "url": "https://open.spotify.com/track/2lKQSh2RQ9z3yhfHOpKTqw"
+      "duration_ms": 137661,
+      "name": "BUZIOS",
+      "url": "https://open.spotify.com/track/1SPPvEaqCuLFOkM9oVfJpS"
     },
     {
       "added_at": "2026-09-24 22:12:04",

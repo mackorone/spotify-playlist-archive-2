@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 6 hr 21 min
+122 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Don't Wanna Pretend](https://open.spotify.com/track/2tOJHzOuaf6e7kJaXItGn7) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/3jJg20HwumSwJH0GcG5VbC) | 3:45 | 2025-06-01 |  |
 | [Door No.2](https://open.spotify.com/track/47uhP9GwLEbUVi4msjCSiU) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Great Escape](https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps) | 2:52 | 2025-06-01 |  |
 | [Double Standards](https://open.spotify.com/track/2XK2iL9gSAlYIAbklTHxbk) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:11 | 2025-06-01 |  |
+| [Down In Your Ways](https://open.spotify.com/track/2IO0JLR0qtl5q5E95i2dms) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 | 2026-09-30 |  |
 | [E\-Lo \(feat\. Jozzy\)](https://open.spotify.com/track/3eydp9rHJAskzOevEBK267) | [Los Unidades](https://open.spotify.com/artist/6VoRokuki5Bj7BEB2gZ3BF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [E\-Lo \(feat\. Jozzy\)](https://open.spotify.com/album/3rq0C0keP4oYI33YBXB9uk) | 3:34 | 2025-06-01 |  |
 | [Enough \(feat\. G\-Eazy, Tommy Genesis, Jozzy\)](https://open.spotify.com/track/0srQm3o6IuSsKOada9RDbz) | [Dakari](https://open.spotify.com/artist/1Gh2udMYnrBAzwpFPpbvJY), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Enough \(feat\. G\-Eazy, Tommy Genesis, Jozzy\)](https://open.spotify.com/album/6Uht7K54rmD5NVHiRNbOLJ) | 2:55 | 2025-06-01 |  |
 | [Facts \(feat\. YG, Rich The Kid & BIA\)](https://open.spotify.com/track/2k5W7eyzobMFd1a1Xisf3w) | [Chantel Jeffries](https://open.spotify.com/artist/2HFuviZiAYhouKgvRX0y45), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Facts \(feat\. YG, Rich The Kid & BIA\)](https://open.spotify.com/album/7kN33AZ16jN976NF6vBmE2) | 3:27 | 2025-06-01 |  |

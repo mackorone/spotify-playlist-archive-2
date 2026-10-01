@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Cheema Y & more!
 
-361 songs - 17 hr 17 min
+362 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Hammer](https://open.spotify.com/track/0AcTZKntdm80BEDqGTg5ZJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bull Music](https://open.spotify.com/artist/2MTEA52tqsE4Pke2kYjkL5) | [Hammer](https://open.spotify.com/album/73KLRC3DRuQLl3WMxgdVVm) | 2:42 | 2025-11-14 | 2025-12-18 |
 | [Hammer](https://open.spotify.com/track/4v5S808Mifk7EP1eFHo0Ht) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bull Music](https://open.spotify.com/artist/2MTEA52tqsE4Pke2kYjkL5) | [Hammer](https://open.spotify.com/album/3JKdXVxsmARqASCf84rzsa) | 2:42 | 2025-09-15 | 2025-09-27 |
 | [Hathyar \- From "Sikander 2"](https://open.spotify.com/track/1iKqYeWSuNtpiv1L9IGAbB) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/54MDNPrVZ6rT83ZEgZzTGN) | [Hathyar \(From "Sikander 2"\)](https://open.spotify.com/album/1eRa0g0SMEr9yfDzdnWQ93) | 4:36 | 2023-07-18 | 2024-09-07 |
+| [Hayi Shawa](https://open.spotify.com/track/7vgIycqzTFCBsJ8Lr10Ifc) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Goldboy](https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo), [Diljit Chitti](https://open.spotify.com/artist/7ubSwC6As0yJdZmChcqC6c), [Gur Malhi](https://open.spotify.com/artist/477clfJeMNMgSHlBbBibvv) | [Hayi Shawa](https://open.spotify.com/album/1XjjyvjmvrA6hTepZa2m4f) | 2:25 | 2026-09-30 |  |
 | [Head High](https://open.spotify.com/track/4mMIWLLaCboR6Ua952T82Y) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [LEGENDS](https://open.spotify.com/album/2fC4CqKEzXGyaYCTI4A8Ng) | 3:06 | 2025-11-19 | 2025-12-16 |
 | [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 | 2025-02-12 | 2025-04-17 |
 | [Hollow Point](https://open.spotify.com/track/4P2Yc0lk4YnOmnppqI1V2i) | [Azaad](https://open.spotify.com/artist/5Tz0mXyP1G7npqZ23vSzbr) | [Hollow Point](https://open.spotify.com/album/3hkKFunGFEpm5czOdnZpLr) | 2:49 | 2025-12-15 | 2026-01-15 |
@@ -283,7 +284,7 @@
 | [PPL](https://open.spotify.com/track/0FjTHHJL0ouvjgXskvxwyK) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW) | [PPL](https://open.spotify.com/album/5PUZxnsYh7pWj0oRqZUkDM) | 3:38 | 2025-08-07 | 2025-08-22 |
 | [Pre Workout](https://open.spotify.com/track/0Ov71yacCGsGhHbFXwhKTo) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [ALPHA](https://open.spotify.com/album/6xONAWWocgNhYPBvUBjF8f) | 2:36 | 2024-10-23 | 2025-07-31 |
 | [Pump Up](https://open.spotify.com/track/1O1E1lbobekZp3PHVqDAMl) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Longway](https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW) | 2:30 | 2025-07-30 |  |
-| [Punjab](https://open.spotify.com/track/0oxsoUGV7bBNGmU7PsL4bt) | [Bobby Sandhu](https://open.spotify.com/artist/6dGJfSrWE2z9oBj7wZXG5q), [Ary B](https://open.spotify.com/artist/2Q0gszM51Kkyhwjs8BTkKa) | [Punjab](https://open.spotify.com/album/32sC4Ebg2FhHZGEDbEUgXp) | 2:32 | 2026-09-18 |  |
+| [Punjab](https://open.spotify.com/track/0oxsoUGV7bBNGmU7PsL4bt) | [Bobby Sandhu](https://open.spotify.com/artist/6dGJfSrWE2z9oBj7wZXG5q), [Ary B](https://open.spotify.com/artist/2Q0gszM51Kkyhwjs8BTkKa) | [Punjab](https://open.spotify.com/album/32sC4Ebg2FhHZGEDbEUgXp) | 2:32 | 2026-09-18 | 2026-10-01 |
 | [Punjabi Kompa](https://open.spotify.com/track/3XUeQfDlKWphVg5LFWEaRi) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Punjabi Kompa](https://open.spotify.com/album/38K1o8yxmy7ZnHr4wJaYH3) | 3:10 | 2025-01-17 | 2025-02-04 |
 | [Putt Jatt Da](https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Putt Jatt Da](https://open.spotify.com/album/5RuqCvnNgBn5VUzm05EtlD) | 2:35 | 2025-04-04 |  |
 | [Putt Sardara De](https://open.spotify.com/track/7JPcZDsguZkm5OpofJ5pZl) | [Bhinda Aujla](https://open.spotify.com/artist/4452AKcmQh6NC4yNlTrR3D) | [Putt Sardara De](https://open.spotify.com/album/3ZG8s2MIYNXSImWF3ANpsK) | 2:04 | 2024-10-01 | 2024-10-22 |

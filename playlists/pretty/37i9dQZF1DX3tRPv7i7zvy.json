@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 22745,
+  "num_followers": 22764,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,22 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+        "name": "Run Away (OMALICHA)",
+        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+      "duration_ms": 176200,
+      "name": "Run Away (OMALICHA)",
+      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -187,22 +191,18 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "Run Away (OMALICHA)",
-        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 176200,
-      "name": "Run Away (OMALICHA)",
-      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -271,6 +271,26 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
+        "name": "365 Days",
+        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188041,
+      "name": "365 Days",
+      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
         "name": "Signature (with Lasmid)",
         "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
       },
@@ -311,22 +331,18 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "365 Days",
-        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
         }
       ],
-      "duration_ms": 188041,
-      "name": "365 Days",
-      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
+      "duration_ms": 166034,
+      "name": "FAMAME",
+      "url": "https://open.spotify.com/track/2Q914tFk8OwSG9GLUQ9peL"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -347,22 +363,6 @@
       "duration_ms": 138053,
       "name": "Darkest Style",
       "url": "https://open.spotify.com/track/1PcHLgffCAgtPcHjFkIM0W"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
-        "name": "CHRISTO DISCO",
-        "url": "https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 166034,
-      "name": "FAMAME",
-      "url": "https://open.spotify.com/track/2Q914tFk8OwSG9GLUQ9peL"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
+        "name": "Redemption Valley",
+        "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Yawa (Hosanna)",
+      "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
         "name": "ASANA",
         "url": "https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 89620,
       "name": "ASANA",
       "url": "https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
-        "name": "Redemption Valley",
-        "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Yawa (Hosanna)",
-      "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "Awurade Aye",
-        "url": "https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Awurade Aye",
-      "url": "https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
         "name": "Anadwo",
         "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 170295,
       "name": "Anadwo",
       "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
+        "name": "Awurade Aye",
+        "url": "https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Awurade Aye",
+      "url": "https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -911,6 +911,42 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
+        "name": "Steeze",
+        "url": "https://open.spotify.com/album/39sKfVQm4sKLL9mAflMvKR"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Steeze",
+      "url": "https://open.spotify.com/track/3m9lU6rU5orvK504eviiIU"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
         "name": "Goldigga",
         "url": "https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO"
       },
@@ -927,22 +963,6 @@
       "duration_ms": 182265,
       "name": "Goldigga",
       "url": "https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -991,26 +1011,6 @@
       "duration_ms": 138260,
       "name": "Trapper Sem",
       "url": "https://open.spotify.com/track/2CQIYtXQrIePjOdlDzm83H"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
-        "name": "Steeze",
-        "url": "https://open.spotify.com/album/39sKfVQm4sKLL9mAflMvKR"
-      },
-      "artists": [
-        {
-          "name": "Mr Drew",
-          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Steeze",
-      "url": "https://open.spotify.com/track/3m9lU6rU5orvK504eviiIU"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
+        "name": "Bendova",
+        "url": "https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 162941,
+      "name": "Bendova",
+      "url": "https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC"
+    },
+    {
+      "added_at": "2026-09-25 10:59:25",
+      "album": {
         "name": "Exopa",
         "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
       },
@@ -1111,38 +1131,18 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "Sneaky",
-        "url": "https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o"
+        "name": "All Of A Sudden",
+        "url": "https://open.spotify.com/album/38W1LS7Vc0qui8HZ5xe212"
       },
       "artists": [
         {
-          "name": "Mr Drew",
-          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
         }
       ],
-      "duration_ms": 166312,
-      "name": "Sneaky",
-      "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
-    },
-    {
-      "added_at": "2026-09-25 10:59:25",
-      "album": {
-        "name": "Bendova",
-        "url": "https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2"
-      },
-      "artists": [
-        {
-          "name": "Wendy Shay",
-          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 162941,
-      "name": "Bendova",
-      "url": "https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC"
+      "duration_ms": 142000,
+      "name": "All Of A Sudden",
+      "url": "https://open.spotify.com/track/14lv2xperrM7JiFLmF9b5y"
     },
     {
       "added_at": "2026-09-25 10:59:25",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-09-25 10:59:25",
       "album": {
-        "name": "All Of A Sudden",
-        "url": "https://open.spotify.com/album/38W1LS7Vc0qui8HZ5xe212"
+        "name": "Sneaky",
+        "url": "https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o"
       },
       "artists": [
         {
-          "name": "AlorG",
-          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
         }
       ],
-      "duration_ms": 142000,
-      "name": "All Of A Sudden",
-      "url": "https://open.spotify.com/track/14lv2xperrM7JiFLmF9b5y"
+      "duration_ms": 166312,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
     }
   ],
   "unique_name": "Abonten ",

@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 1177761,
+  "num_followers": 1177756,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "Speak and Spell (Deluxe)",
         "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 255733,
       "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
       "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "L'aventurier",
-        "url": "https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "L'aventurier",
-      "url": "https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "In the Heat of the Night",
         "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 387866,
       "name": "Just an Illusion",
       "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "L'aventurier",
+        "url": "https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 231960,
+      "name": "L'aventurier",
+      "url": "https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Give Me the Night",
+      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+        "name": "Comeblack",
+        "url": "https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
-      "duration_ms": 222626,
-      "name": "Give Me the Night",
-      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
+      "duration_ms": 403453,
+      "name": "Still Loving You",
+      "url": "https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -783,18 +799,18 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Comeblack",
-        "url": "https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV"
+        "name": "M & J",
+        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
         }
       ],
-      "duration_ms": 403453,
-      "name": "Still Loving You",
-      "url": "https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R"
+      "duration_ms": 235226,
+      "name": "Joe le taxi",
+      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -811,22 +827,6 @@
       "duration_ms": 246826,
       "name": "On va s'aimer",
       "url": "https://open.spotify.com/track/7MFWYTlrC81IGpb0Jwgdu7"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
-        "name": "M & J",
-        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Joe le taxi",
-      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Dure limite (Remasteris\u00e9 en 2015)",
-        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9l\u00e9phone",
-          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "\u00c7a (c'est vraiment toi) - Remasteris\u00e9 en 2015",
-      "url": "https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "True Colors: The Best Of Cyndi Lauper",
         "url": "https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 236293,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/459EpH5UZgE6fMNPMLOgMF"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Dure limite (Remasteris\u00e9 en 2015)",
+        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9phone",
+          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "\u00c7a (c'est vraiment toi) - Remasteris\u00e9 en 2015",
+      "url": "https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ"
     },
     {
       "added_at": "2026-09-09 09:06:15",

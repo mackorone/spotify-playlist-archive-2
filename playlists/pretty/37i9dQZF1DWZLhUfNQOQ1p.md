@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano 🥃
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,488 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,479 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 78 | [Move On Up \(Mark Knight Remix\)](https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [Move On Up \(Mark Knight Remix\)](https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq) | 2:29 |
 | 79 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
 | 80 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
-| 81 | [Ithaque](https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [Ithaque](https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp) | 3:09 |
-| 82 | [Used To Be](https://open.spotify.com/track/54L6mqCQlX9zKu62LDafiR) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Djomood](https://open.spotify.com/artist/7L8n726TCOKfUKF4bVOxsO) | [Used To Be](https://open.spotify.com/album/4OUivhe1yXMMFjA4KCbdyW) | 2:34 |
+| 81 | [Used To Be](https://open.spotify.com/track/54L6mqCQlX9zKu62LDafiR) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Djomood](https://open.spotify.com/artist/7L8n726TCOKfUKF4bVOxsO) | [Used To Be](https://open.spotify.com/album/4OUivhe1yXMMFjA4KCbdyW) | 2:34 |
+| 82 | [Ithaque](https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [Ithaque](https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp) | 3:09 |
 | 83 | [Jazz Feel](https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Jazz Feel](https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp) | 2:34 |
 | 84 | [Leave My Home](https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX) | 3:41 |
 | 85 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [GENNARO](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 96 | [I Did You Wrong](https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi) | 2:52 |
 | 97 | [Chica](https://open.spotify.com/track/2ZgaR05AXBq8UvE7yx6nDi) | [NUZZLE](https://open.spotify.com/artist/5dn00jU51k8ckoaQxrlvqa), [Chicca Leaf](https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ) | [Chica](https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi) | 2:10 |
 | 98 | [The Semimodular Bird of Jazz](https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Wait on Me EP](https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc) | 4:49 |
-| 99 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
-| 100 | [Things You Want](https://open.spotify.com/track/19bWGnsuujQJHd3qcHbKE5) | [Flying Moth](https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7) | [Things You Want](https://open.spotify.com/album/08Xc7BRq6Mz9BwoiB5sLNU) | 3:40 |
+| 99 | [Things You Want](https://open.spotify.com/track/19bWGnsuujQJHd3qcHbKE5) | [Flying Moth](https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7) | [Things You Want](https://open.spotify.com/album/08Xc7BRq6Mz9BwoiB5sLNU) | 3:40 |
+| 100 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
 
 Snapshot ID: `AAAAALy5v5Utz79mTDiaQYy6jAJkrclD`

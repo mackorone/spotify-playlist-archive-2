@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Taylor Swift, Dardan, Madonna, Charli xcx, EAZ, XEN, Tiakola & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,637 likes - 104 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,633 likes - 104 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

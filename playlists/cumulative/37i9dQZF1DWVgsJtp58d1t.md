@@ -2,9 +2,9 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> The best in Black music! Cover: <a href="spotify:artist:46pWGuE3dSwY3bMMXGBvVS">Tiakola</a>
+> The best in Black music! Now featuring our Frequency Zine cover star <a href="spotify:artist:2Gzy8TYJ5xrEMDyUjZuDsK">Masicka</a>
 
-6,460 songs - 13 day 15 hr 55 min
+6,461 songs - 13 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2591,6 +2591,7 @@
 | [Honey Bun](https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Honey Bun](https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7) | 2:14 | 2023-03-31 | 2023-04-22 |
 | [HONEYBUTTER](https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [LVRS PARADISE \(SIDE B\)](https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G) | 3:46 | 2026-07-31 | 2026-08-28 |
 | [Honeysuckle Neckbone](https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Honeysuckle Neckbone](https://open.spotify.com/album/7IyhQLXLMdsYr62RuSpt12) | 3:20 | 2023-03-17 | 2023-04-01 |
+| [Honor Roll \(feat\. Kraff Gad\)](https://open.spotify.com/track/2nOXbX3xbgDSwmun51UDN4) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Forever Reign](https://open.spotify.com/album/7sml8FbT4paFbIelC2WdGr) | 3:10 | 2026-09-30 |  |
 | [Honour \(feat\. Baby Rose\)](https://open.spotify.com/track/6hVfkxD7h8aQtmSgmPlMM5) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Honour \(feat\. Baby Rose\)](https://open.spotify.com/album/4wuPuMG4g7JHwhTopjBPwG) | 4:11 | 2026-05-01 | 2026-05-09 |
 | [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 | 2025-04-04 | 2025-04-12 |
 | [Hoochie Mama](https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:15 | 2022-03-25 | 2022-04-16 |

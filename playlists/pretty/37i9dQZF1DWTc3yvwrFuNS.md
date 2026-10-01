@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc3yvwrFuNS.md) - [plain]
 
 > Videos from our studio and live sessions\. Music videos available only on Premium\. Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 320 likes - 38 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 38 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

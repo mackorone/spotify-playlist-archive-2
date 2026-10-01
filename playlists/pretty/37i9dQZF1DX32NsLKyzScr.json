@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2586151,
+  "num_followers": 2586204,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 153750,
       "name": "Together",
       "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -723,6 +723,26 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
+        "name": "Addicted To Bass (Dom Dolla Relapse)",
+        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Puretone",
+          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
+        }
+      ],
+      "duration_ms": 189179,
+      "name": "Addicted To Bass (Dom Dolla Relapse)",
+      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
         "name": "Human (Feat. John Martin)",
         "url": "https://open.spotify.com/album/4FOIeI7EpeHdrQxKSxKc8s"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 199858,
       "name": "Human (Feat. John Martin)",
       "url": "https://open.spotify.com/track/426LH4RVp0WvxX69NQCTGl"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
-        "name": "Addicted To Bass (Dom Dolla Relapse)",
-        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Puretone",
-          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
-        }
-      ],
-      "duration_ms": 189179,
-      "name": "Addicted To Bass (Dom Dolla Relapse)",
-      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -955,30 +955,6 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "Meet Again",
-        "url": "https://open.spotify.com/album/6DOWj1TYplUhV2QDRsVupR"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 206363,
-      "name": "Meet Again",
-      "url": "https://open.spotify.com/track/4XQqAGRG3jRH0fVmVpyOms"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
         "name": "Ghost Dance",
         "url": "https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB"
       },
@@ -999,22 +975,26 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "Don't Lose Your Head",
-        "url": "https://open.spotify.com/album/0JlIAgb2Wef3CMsq3Jf7JS"
+        "name": "Meet Again",
+        "url": "https://open.spotify.com/album/6DOWj1TYplUhV2QDRsVupR"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         },
         {
-          "name": "Olivia Sebastianelli",
-          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
         }
       ],
-      "duration_ms": 163320,
-      "name": "Don't Lose Your Head",
-      "url": "https://open.spotify.com/track/6btPEp3yW4iSMB5ykuYJny"
+      "duration_ms": 206363,
+      "name": "Meet Again",
+      "url": "https://open.spotify.com/track/4XQqAGRG3jRH0fVmVpyOms"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1059,6 +1039,26 @@
       "duration_ms": 205063,
       "name": "Palm Of Your Hands",
       "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
+        "name": "Don't Lose Your Head",
+        "url": "https://open.spotify.com/album/0JlIAgb2Wef3CMsq3Jf7JS"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Don't Lose Your Head",
+      "url": "https://open.spotify.com/track/6btPEp3yW4iSMB5ykuYJny"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "No Mercy",
-        "url": "https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
       },
       "artists": [
         {
           "name": "Armin van Buuren",
           "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
         }
       ],
-      "duration_ms": 155666,
-      "name": "No Mercy",
-      "url": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw"
+      "duration_ms": 173333,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1311,6 +1307,22 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
+        "name": "No Way I'm Giving Up",
+        "url": "https://open.spotify.com/album/09cwqDdGJH7Lwe3cfvjHwJ"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        }
+      ],
+      "duration_ms": 145964,
+      "name": "No Way I'm Giving Up",
+      "url": "https://open.spotify.com/track/35GQvyOFRohoTeb5jmYcZd"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
       },
@@ -1323,6 +1335,26 @@
       "duration_ms": 168173,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -1343,22 +1375,6 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
         "name": "Annihilation",
         "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 187384,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
-        "name": "No Way I'm Giving Up",
-        "url": "https://open.spotify.com/album/09cwqDdGJH7Lwe3cfvjHwJ"
-      },
-      "artists": [
-        {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
-        }
-      ],
-      "duration_ms": 145964,
-      "name": "No Way I'm Giving Up",
-      "url": "https://open.spotify.com/track/35GQvyOFRohoTeb5jmYcZd"
     },
     {
       "added_at": "2026-09-25 04:00:39",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2026-09-25 04:00:39",
       "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
-    },
-    {
-      "added_at": "2026-09-25 04:00:39",
-      "album": {
         "name": "ALL OVER AGAIN",
         "url": "https://open.spotify.com/album/6IOcXv652Y2jDpFT8LLA6S"
       },
@@ -2167,6 +2147,26 @@
       "duration_ms": 181035,
       "name": "ALL OVER AGAIN",
       "url": "https://open.spotify.com/track/12pdzk71yPp6sxzWXOchIC"
+    },
+    {
+      "added_at": "2026-09-25 04:00:39",
+      "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "added_at": "2026-09-25 04:00:39",

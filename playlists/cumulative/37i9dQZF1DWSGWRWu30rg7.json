@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak. Cover: satchi!",
+  "description": "Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak. Cover: El Putra Sarira",
   "name": "Fresh Finds Indonesia",
   "tracks": [
     {
@@ -2136,6 +2136,24 @@
       "duration_ms": 292864,
       "name": "Abadi",
       "url": "https://open.spotify.com/track/6rdqabpJT3jplQzor1os8j"
+    },
+    {
+      "album": {
+        "name": "You Don't Know How Lucky You Are",
+        "url": "https://open.spotify.com/album/6wOF9ynKiNCXYTUTpKzClQ"
+      },
+      "artists": [
+        {
+          "name": "Inoya House",
+          "url": "https://open.spotify.com/artist/5ItIPaGaHbUvu2zEFPfwBB"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Abadi",
+      "url": "https://open.spotify.com/track/6yiFgrTqVSCdPI8ylhZmKW"
     },
     {
       "album": {
@@ -5578,6 +5596,24 @@
       "duration_ms": 248750,
       "name": "Another Life With You",
       "url": "https://open.spotify.com/track/3yiEKmyLU2Roktrjth5kIi"
+    },
+    {
+      "album": {
+        "name": "Another Minute",
+        "url": "https://open.spotify.com/album/7vGxG2aUNfp1zuFVGox6QM"
+      },
+      "artists": [
+        {
+          "name": "Adiva",
+          "url": "https://open.spotify.com/artist/2kE5DPsebHbgal8xDFDsMF"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177214,
+      "name": "Another Minute",
+      "url": "https://open.spotify.com/track/2pSilCq8FdMwC2q0p1iHR9"
     },
     {
       "album": {
@@ -47221,6 +47257,24 @@
     },
     {
       "album": {
+        "name": "Kau dan Aku",
+        "url": "https://open.spotify.com/album/0fO1C2aTlP5PyWWmgsmQon"
+      },
+      "artists": [
+        {
+          "name": "Narangga",
+          "url": "https://open.spotify.com/artist/1PwBf2sGcmFUird6fIK5jr"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306287,
+      "name": "Kau dan Aku",
+      "url": "https://open.spotify.com/track/6AQg99iRnCphmQuWpUiczF"
+    },
+    {
+      "album": {
         "name": "Kau dan Hujan",
         "url": "https://open.spotify.com/album/6iJKs5ECMAXOhz1LNnC2jR"
       },
@@ -59468,6 +59522,24 @@
     {
       "album": {
         "name": "Memoria",
+        "url": "https://open.spotify.com/album/6E1lp4IK8ocysYI0pUVEsl"
+      },
+      "artists": [
+        {
+          "name": "El Putra Sarira",
+          "url": "https://open.spotify.com/artist/50Fq9p1golo64d4KMsf11a"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235797,
+      "name": "Memoria",
+      "url": "https://open.spotify.com/track/2KrmQlQ1526v6IUr8osikD"
+    },
+    {
+      "album": {
+        "name": "Memoria",
         "url": "https://open.spotify.com/album/42NiiV0zFzVA2QQWcXZtl2"
       },
       "artists": [
@@ -62439,6 +62511,24 @@
     },
     {
       "album": {
+        "name": "Morning Boy",
+        "url": "https://open.spotify.com/album/6vAunq1VTKi5NfvZOz6rue"
+      },
+      "artists": [
+        {
+          "name": "SEEN",
+          "url": "https://open.spotify.com/artist/0M06XZrUbz94OsSWhrNmPI"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200347,
+      "name": "Morning Boy",
+      "url": "https://open.spotify.com/track/3GgAMblzcFQ856PpxNJKml"
+    },
+    {
+      "album": {
         "name": "Mother Angels",
         "url": "https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu"
       },
@@ -63010,6 +63100,24 @@
       "duration_ms": 219926,
       "name": "Mungkin Hanya Kamu",
       "url": "https://open.spotify.com/track/06ecDe5VHZhpCi7V5kQFTW"
+    },
+    {
+      "album": {
+        "name": "Mungkin Lain Hari",
+        "url": "https://open.spotify.com/album/2zeg56q7przrFNohhsAkqj"
+      },
+      "artists": [
+        {
+          "name": "Demia",
+          "url": "https://open.spotify.com/artist/73Q0Z2OHN40TyWENtL91sT"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205120,
+      "name": "Mungkin Lain Hari",
+      "url": "https://open.spotify.com/track/63lSznjbeFIkXobWgOiYYu"
     },
     {
       "album": {

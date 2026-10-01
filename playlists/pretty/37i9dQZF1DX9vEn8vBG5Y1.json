@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Avril Lavigne",
-  "num_followers": 362987,
+  "num_followers": 363128,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "America Town",
-        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
-      },
-      "artists": [
-        {
-          "name": "Five For Fighting",
-          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Superman (It's Not Easy)",
-      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 256613,
       "name": "Never Say Never",
       "url": "https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "America Town",
+        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
+      },
+      "artists": [
+        {
+          "name": "Five For Fighting",
+          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Superman (It's Not Easy)",
+      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Songs From An American Movie: Learning How To Smile",
-        "url": "https://open.spotify.com/album/2GQ3ljlp19JGE7qvE89PqF"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 280813,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/0WHOPmOuQKuu05k4g3UTvk"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "The Invisible Band",
         "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 239240,
       "name": "Side",
       "url": "https://open.spotify.com/track/5gfmEhfgMIcV3He1wgDGJY"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "Songs From An American Movie: Learning How To Smile",
+        "url": "https://open.spotify.com/album/2GQ3ljlp19JGE7qvE89PqF"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/0WHOPmOuQKuu05k4g3UTvk"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Cradlesong",
-        "url": "https://open.spotify.com/album/72aNaOna8AV0GZADXRbFlX"
+        "name": "Something to Be",
+        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
       },
       "artists": [
         {
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Her Diamonds",
-      "url": "https://open.spotify.com/track/3LtwmK1OfN0dGs9jf3qSjn"
+      "duration_ms": 256600,
+      "name": "Ever the Same",
+      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1451,8 +1451,8 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Something to Be",
-        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
+        "name": "Cradlesong",
+        "url": "https://open.spotify.com/album/72aNaOna8AV0GZADXRbFlX"
       },
       "artists": [
         {
@@ -1460,9 +1460,9 @@
           "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
         }
       ],
-      "duration_ms": 256600,
-      "name": "Ever the Same",
-      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
+      "duration_ms": 280000,
+      "name": "Her Diamonds",
+      "url": "https://open.spotify.com/track/3LtwmK1OfN0dGs9jf3qSjn"
     },
     {
       "added_at": "2024-07-02 21:20:51",

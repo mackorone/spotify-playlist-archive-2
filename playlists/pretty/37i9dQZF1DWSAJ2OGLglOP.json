@@ -1,6 +1,6 @@
 {
   "description": "\u30c9\u30e9\u30a4\u30d6\u7528\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u6e0b\u6ede\u3082\u6c17\u306b\u305b\u305a\u3001\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u697d\u66f2\u3092\u30bb\u30ec\u30af\u30c8\u3002",
-  "num_followers": 113025,
+  "num_followers": 113017,
   "original_name": "Drive Loud!: \u30c9\u30e9\u30a4\u30d6\u30fb\u30e9\u30a6\u30c9",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-04-27 06:02:35",
       "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": "2026-04-27 06:02:35",
-      "album": {
         "name": "FIX UR FACE (with Fred Durst)",
         "url": "https://open.spotify.com/album/5V2DOzyXq1zx7yRgebZZIv"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 199068,
       "name": "FIX UR FACE (with Fred Durst)",
       "url": "https://open.spotify.com/track/0zcU626JV9kV61raS5sGu4"
+    },
+    {
+      "added_at": "2026-04-27 06:02:35",
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-04-27 06:02:35",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
-    },
-    {
-      "added_at": "2026-04-27 06:02:35",
-      "album": {
         "name": "\u3072\u307f\u3064\u30b9\u30bf\u30b8\u30aa",
         "url": "https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 211920,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA"
+    },
+    {
+      "added_at": "2026-04-27 06:02:35",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
       "added_at": "2026-06-25 15:55:52",
@@ -931,18 +931,18 @@
     {
       "added_at": "2026-04-27 06:02:35",
       "album": {
-        "name": "\u30b3\u30ed\u30f3\u30d6\u30b9",
-        "url": "https://open.spotify.com/album/1u9fvlFVKcjhhin274qEAp"
+        "name": "Same Blue",
+        "url": "https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
         }
       ],
-      "duration_ms": 227178,
-      "name": "\u30b3\u30ed\u30f3\u30d6\u30b9",
-      "url": "https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI"
+      "duration_ms": 237836,
+      "name": "Same Blue",
+      "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -963,34 +963,18 @@
     {
       "added_at": "2026-04-27 06:02:35",
       "album": {
-        "name": "Same Blue",
-        "url": "https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF"
+        "name": "\u30b3\u30ed\u30f3\u30d6\u30b9",
+        "url": "https://open.spotify.com/album/1u9fvlFVKcjhhin274qEAp"
       },
       "artists": [
         {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 237836,
-      "name": "Same Blue",
-      "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
-    },
-    {
-      "added_at": "2026-07-31 05:23:03",
-      "album": {
-        "name": "Memo",
-        "url": "https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Memo",
-      "url": "https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG"
+      "duration_ms": 227178,
+      "name": "\u30b3\u30ed\u30f3\u30d6\u30b9",
+      "url": "https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1007,6 +991,22 @@
       "duration_ms": 234228,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112"
+    },
+    {
+      "added_at": "2026-07-31 05:23:03",
+      "album": {
+        "name": "Memo",
+        "url": "https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Memo",
+      "url": "https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG"
     },
     {
       "added_at": "2026-07-09 15:00:39",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-04-27 06:02:35",
       "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V"
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/5SM9Ykd2q8xfv1LBlVFlhz"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
         }
       ],
-      "duration_ms": 228600,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/7zbsxhqTb3yDICWuNBCodY"
+      "duration_ms": 326440,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/5LkWXxDxUTwEVHL0pfKL55"
     },
     {
       "added_at": "2026-06-25 15:55:52",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-04-27 06:02:35",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/5SM9Ykd2q8xfv1LBlVFlhz"
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V"
       },
       "artists": [
         {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 326440,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/5LkWXxDxUTwEVHL0pfKL55"
+      "duration_ms": 228600,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/7zbsxhqTb3yDICWuNBCodY"
     },
     {
       "added_at": "2026-04-27 06:02:35",

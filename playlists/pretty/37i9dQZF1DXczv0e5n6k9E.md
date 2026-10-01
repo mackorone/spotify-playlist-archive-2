@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Dirty Harry, Hoodie No
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,646 likes - 57 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,652 likes - 57 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

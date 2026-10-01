@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The best in Black music! Cover: <a href=\"spotify:artist:46pWGuE3dSwY3bMMXGBvVS\">Tiakola</a> ",
+  "description": "The best in Black music! Now featuring our Frequency Zine cover star <a href=\"spotify:artist:2Gzy8TYJ5xrEMDyUjZuDsK\">Masicka</a> ",
   "name": "This Is Frequency",
   "tracks": [
     {
@@ -51856,6 +51856,28 @@
       "duration_ms": 200560,
       "name": "Honeysuckle Neckbone",
       "url": "https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev"
+    },
+    {
+      "album": {
+        "name": "Forever Reign",
+        "url": "https://open.spotify.com/album/7sml8FbT4paFbIelC2WdGr"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190370,
+      "name": "Honor Roll (feat. Kraff Gad)",
+      "url": "https://open.spotify.com/track/2nOXbX3xbgDSwmun51UDN4"
     },
     {
       "album": {

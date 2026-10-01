@@ -1,13 +1,33 @@
 {
   "description": "#fyp\n",
-  "num_followers": 873719,
+  "num_followers": 873842,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIxvPGYK1UQ1GdJqNp8c7fyLDpmQ",
+  "snapshot_id": "AAAAACTDFnOEI6TPxQRBt3n0ZQ59VjCi",
   "tracks": [
+    {
+      "added_at": "2026-09-24 22:01:24",
+      "album": {
+        "name": "Fille \u00e0 Papa",
+        "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Fille \u00e0 Papa",
+      "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
+    },
     {
       "added_at": "2026-08-28 20:34:46",
       "album": {
@@ -23,6 +43,26 @@
       "duration_ms": 117691,
       "name": "Wagyu",
       "url": "https://open.spotify.com/track/7DVtpzEq51TFOYufMlMcD8"
+    },
+    {
+      "added_at": "2026-09-30 12:04:08",
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "La Nocturne",
+      "url": "https://open.spotify.com/track/2fsZNGcGb7KVfcp3PlXgcD"
     },
     {
       "added_at": "2026-06-12 15:22:16",
@@ -55,26 +95,6 @@
       "duration_ms": 156066,
       "name": "M\u00e9lo D\u00e9cal\u00e9",
       "url": "https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL"
-    },
-    {
-      "added_at": "2026-09-24 22:01:24",
-      "album": {
-        "name": "Fille \u00e0 Papa",
-        "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Fille \u00e0 Papa",
-      "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
     },
     {
       "added_at": "2026-07-09 22:01:34",
@@ -195,6 +215,30 @@
       "duration_ms": 153490,
       "name": "EXPLICIT 69",
       "url": "https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP"
+    },
+    {
+      "added_at": "2026-09-30 16:07:08",
+      "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 161140,
+      "name": "Uber",
+      "url": "https://open.spotify.com/track/2PPFDGYR4t96gLVsd52NmL"
     },
     {
       "added_at": "2026-07-23 22:00:18",
@@ -831,38 +875,6 @@
     {
       "added_at": "2026-06-09 14:17:45",
       "album": {
-        "name": "404",
-        "url": "https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD"
-      },
-      "artists": [
-        {
-          "name": "TRIANGLE DES BERMUDES",
-          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
-        },
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        },
-        {
-          "name": "MC YOSHI",
-          "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
-        },
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        },
-        {
-          "name": "Kokosvoice",
-          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
-        }
-      ],
-      "duration_ms": 179640,
-      "name": "\u00c0 l'aise",
-      "url": "https://open.spotify.com/track/3XzwTdwcIz67nPOE6sitEo"
-    },
-    {
-      "added_at": "2026-06-09 14:17:45",
-      "album": {
         "name": "Parfum quartier",
         "url": "https://open.spotify.com/album/3sjKkgJkvnRwYPPnFcaoED"
       },
@@ -1183,26 +1195,6 @@
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
-    },
-    {
-      "added_at": "2026-08-20 11:09:15",
-      "album": {
-        "name": "JE TE RESSEMBLE",
-        "url": "https://open.spotify.com/album/0FpCvu4SIYPz7ptPcNMuRQ"
-      },
-      "artists": [
-        {
-          "name": "Axel Tony",
-          "url": "https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh"
-        },
-        {
-          "name": "Admiral T",
-          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "Ma Reine",
-      "url": "https://open.spotify.com/track/2B5A0IJZTT5YsR6mMy8jnG"
     },
     {
       "added_at": "2026-08-14 13:40:52",

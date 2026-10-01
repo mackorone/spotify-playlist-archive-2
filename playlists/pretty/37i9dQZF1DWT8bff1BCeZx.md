@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,887 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,905 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 17 | [Super Power II](https://open.spotify.com/track/06GKUmEBjcUAeM0FfbSphf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1) | [Super Power II Pack](https://open.spotify.com/album/3Aw2bB8g0D80ysihK9G68K) | 2:28 |
 | 18 | [go back](https://open.spotify.com/track/4fhVo2oTvsbOvUDKhsYx1O) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [go back](https://open.spotify.com/album/7FLrjtMHZgWVS0gA1xGOEU) | 2:06 |
 | 19 | [first love](https://open.spotify.com/track/4WsHLmE2vJsCh3ToaBpaCv) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [first love](https://open.spotify.com/album/4m4Yp50LJXurZbV9eBLTPt) | 2:48 |
-| 20 | [You Are Worthy \- Live](https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN) | [Sunday Ekaidem](https://open.spotify.com/artist/6XrqMdeVSpWDBzNCzzVKob), [E\-Daniel](https://open.spotify.com/artist/3i44OnCiXrNd6xTOHIhdHu) | [You Are Worthy \(Live\)](https://open.spotify.com/album/7GLUBWewijYpmWRu4G58Go) | 9:17 |
+| 20 | [You Are Worthy \- Live](https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN) | [Sunday Ekaidem](https://open.spotify.com/artist/6XrqMdeVSpWDBzNCzzVKob), [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [You Are Worthy \(Live\)](https://open.spotify.com/album/7GLUBWewijYpmWRu4G58Go) | 9:17 |
 | 21 | [Jehovah Move](https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3) | [Sikaflames](https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg) | [Jehovah Move](https://open.spotify.com/album/6BZRvHDc4aHW40nIjr5mBm) | 3:41 |
 | 22 | [Riverside](https://open.spotify.com/track/3mr4ss6jZzRWRgQoSRNUSf) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e) | [Riverside](https://open.spotify.com/album/51PsOEme7VfzdNxYiSwGo5) | 3:13 |
 | 23 | [Blessed](https://open.spotify.com/track/7BpGB2kuuSTuSX0vQUMe9u) | [GEMS](https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF) | [Blessed](https://open.spotify.com/album/6uXUsYu5RfQYH8HYtJ59xY) | 5:37 |

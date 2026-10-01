@@ -3805,6 +3805,24 @@
     },
     {
       "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164692,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW"
+    },
+    {
+      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -6564,7 +6582,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 226800,
       "name": "TOUCH ME",
       "url": "https://open.spotify.com/track/3HE0qnw60B0KOKYmI6iNVZ"
@@ -6582,7 +6600,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 226800,
       "name": "TOUCH ME",
       "url": "https://open.spotify.com/track/7d6eKiPc5IzdZO28iT9cdh"

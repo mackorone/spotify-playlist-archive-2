@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 136668,
       "name": "Chori Chori",
       "url": "https://open.spotify.com/track/2uEVlPLmqXwssBgiFsBNUU"
@@ -3516,6 +3516,36 @@
       "duration_ms": 131578,
       "name": "Jaane Hi Do",
       "url": "https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY"
+    },
+    {
+      "album": {
+        "name": "Jaane Kis Mod Pe (From \"Pehla Pyaar Doosri Baar\")",
+        "url": "https://open.spotify.com/album/0yVv1hWLxbnVPtweFn8Pt9"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250021,
+      "name": "Jaane Kis Mod Pe (From \"Pehla Pyaar Doosri Baar\")",
+      "url": "https://open.spotify.com/track/70F8DfT2o1MYtVQLOJyuBS"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Valesca Mayssa",
-  "num_followers": 1220188,
+  "num_followers": 1220386,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
+        "name": "Cura (Ao Vivo em Salvador)",
+        "url": "https://open.spotify.com/album/4tsR5tDmZNPL3q5hvwz4Sc"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 245476,
+      "name": "Cura - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/7HUWoDzKA6KSBGxQmjNNR8"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
         "name": "Fiel \u00e9 Deus",
         "url": "https://open.spotify.com/album/2DxTfnkSxyNWz6PfsQUZKb"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 503584,
       "name": "Fiel \u00e9 Deus",
       "url": "https://open.spotify.com/track/1EzlXvFPrQ8d7Ar4L9kOSx"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
-        "name": "Cura (Ao Vivo em Salvador)",
-        "url": "https://open.spotify.com/album/4tsR5tDmZNPL3q5hvwz4Sc"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 245476,
-      "name": "Cura - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/7HUWoDzKA6KSBGxQmjNNR8"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
-        "name": "As Minhas Ora\u00e7\u00f5es Cantadas - Vol 1",
-        "url": "https://open.spotify.com/album/1sZNHIQlqQqylJ3VPwDKFW"
-      },
-      "artists": [
-        {
-          "name": "Laura Souguellis",
-          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
-        }
-      ],
-      "duration_ms": 540820,
-      "name": "Se Eles Soubessem",
-      "url": "https://open.spotify.com/track/5ii2ZGz9wb6hTqY9Ira9Cw"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
         "name": "A Promessa Nasceu",
         "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 306103,
       "name": "A Promessa Nasceu",
       "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
+        "name": "As Minhas Ora\u00e7\u00f5es Cantadas - Vol 1",
+        "url": "https://open.spotify.com/album/1sZNHIQlqQqylJ3VPwDKFW"
+      },
+      "artists": [
+        {
+          "name": "Laura Souguellis",
+          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
+        }
+      ],
+      "duration_ms": 540820,
+      "name": "Se Eles Soubessem",
+      "url": "https://open.spotify.com/track/5ii2ZGz9wb6hTqY9Ira9Cw"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
-        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
-      },
-      "artists": [
-        {
-          "name": "Alexsander Lucio",
-          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
-        }
-      ],
-      "duration_ms": 624000,
-      "name": "O Fogo Arder\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
         "name": "Betel (Ao Vivo)",
         "url": "https://open.spotify.com/album/36GKPZfDGWd6GWWWbWZjz0"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 303309,
       "name": "Betel - Ao Vivo",
       "url": "https://open.spotify.com/track/3e023EoYu68V1IHJdo18GO"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
+        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
+      },
+      "artists": [
+        {
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+        }
+      ],
+      "duration_ms": 624000,
+      "name": "O Fogo Arder\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
+        "name": "Eu Vou Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W"
+      },
+      "artists": [
+        {
+          "name": "Nair Nany",
+          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
+        }
+      ],
+      "duration_ms": 1356604,
+      "name": "Eu Vou Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7wZQH168Uz7cZQbLyoid2U"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
         "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
         "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 519000,
       "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
       "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
-        "name": "Eu Confio em Ti",
-        "url": "https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ"
-      },
-      "artists": [
-        {
-          "name": "Duda Santos Oficial",
-          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
-        }
-      ],
-      "duration_ms": 303582,
-      "name": "Eu Confio em Ti",
-      "url": "https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
-        "name": "Eu Vou Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W"
+        "name": "Eu Confio em Ti",
+        "url": "https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ"
       },
       "artists": [
         {
-          "name": "Nair Nany",
-          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
+          "name": "Duda Santos Oficial",
+          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
         }
       ],
-      "duration_ms": 1356604,
-      "name": "Eu Vou Orar - Ao Vivo",
-      "url": "https://open.spotify.com/track/7wZQH168Uz7cZQbLyoid2U"
+      "duration_ms": 303582,
+      "name": "Eu Confio em Ti",
+      "url": "https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN"
     },
     {
       "added_at": "2026-08-17 18:39:22",

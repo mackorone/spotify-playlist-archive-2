@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Violet Grohl",
-  "num_followers": 812333,
+  "num_followers": 812385,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "In The Heat Of The Night",
-        "url": "https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY"
-      },
-      "artists": [
-        {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/22ML0MuFKfw16WejbxsLOy"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "The Strange Case of... (Deluxe)",
         "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 183506,
       "name": "I Miss the Misery",
       "url": "https://open.spotify.com/track/3gmEzilP9BzF45wIMvA16l"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "In The Heat Of The Night",
+        "url": "https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY"
+      },
+      "artists": [
+        {
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/22ML0MuFKfw16WejbxsLOy"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Under the Pink",
-        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
       },
       "artists": [
         {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 305493,
-      "name": "Cornflake Girl",
-      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
+      "duration_ms": 201372,
+      "name": "Mirtazapine",
+      "url": "https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Ego Death At A Bachelorette Party",
-        "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
+        "name": "Under the Pink",
+        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
       },
       "artists": [
         {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
         }
       ],
-      "duration_ms": 201372,
-      "name": "Mirtazapine",
-      "url": "https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19"
+      "duration_ms": 305493,
+      "name": "Cornflake Girl",
+      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Sound & Color",
-        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 232546,
-      "name": "Don't Wanna Fight",
-      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "American Thighs",
         "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 254418,
       "name": "Come Over (Again)",
       "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "For I Am Death",
-        "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 219395,
-      "name": "For I Am Death",
-      "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "MOLLY",
         "url": "https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 272507,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "For I Am Death",
+        "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 219395,
+      "name": "For I Am Death",
+      "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "HEARTLESS",
-        "url": "https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe"
-      },
-      "artists": [
-        {
-          "name": "Kami Kehoe",
-          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
-        }
-      ],
-      "duration_ms": 264661,
-      "name": "HEARTLESS",
-      "url": "https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Blame",
         "url": "https://open.spotify.com/album/34XU427uXpPYwocbDxstyS"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 155027,
       "name": "Again",
       "url": "https://open.spotify.com/track/3ucVKI8BEpLXK3j64GDbY4"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "HEARTLESS",
+        "url": "https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe"
+      },
+      "artists": [
+        {
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+        }
+      ],
+      "duration_ms": 264661,
+      "name": "HEARTLESS",
+      "url": "https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "No Obligation",
-        "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 201187,
-      "name": "All In My Head",
-      "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 281380,
       "name": "Wireless",
       "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "No Obligation",
+        "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Somewhere In Between",
         "url": "https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG"
       },
@@ -1435,22 +1419,6 @@
       "duration_ms": 147253,
       "name": "WEAPON",
       "url": "https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
-        "name": "Exile In Guyville (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd"
-      },
-      "artists": [
-        {
-          "name": "Liz Phair",
-          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "Never Said - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1471,6 +1439,22 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
+        "name": "Exile In Guyville (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd"
+      },
+      "artists": [
+        {
+          "name": "Liz Phair",
+          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Never Said - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
         "name": "TOMBSTONE TOWN (feat. Slash)",
         "url": "https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 194653,
       "name": "TOMBSTONE TOWN (feat. Slash)",
       "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "My Mind Makes Noises",
-        "url": "https://open.spotify.com/album/6EuYfecmZrodq8sKWW00tZ"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 204265,
-      "name": "Television Romance",
-      "url": "https://open.spotify.com/track/2diAlJqrMMX7Sv9FlzcUMc"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Welcome To My House",
         "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 190611,
       "name": "By The Time You're Reading This",
       "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "My Mind Makes Noises",
+        "url": "https://open.spotify.com/album/6EuYfecmZrodq8sKWW00tZ"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 204265,
+      "name": "Television Romance",
+      "url": "https://open.spotify.com/track/2diAlJqrMMX7Sv9FlzcUMc"
     },
     {
       "added_at": "2026-05-01 18:02:47",

@@ -1,12 +1,12 @@
 {
   "description": "Soft jazz for slow mornings, first coffee, and the quiet before the day starts.",
-  "num_followers": 446934,
+  "num_followers": 446986,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI2YLQ5WIQEpMvI1g8MFdCVT72Zx",
+  "snapshot_id": "AAAAAKf3HS6AWUXSvDRS7+7JwufY9a39",
   "tracks": [
     {
       "added_at": "2026-09-21 13:05:52",
@@ -623,6 +623,34 @@
     {
       "added_at": "2026-09-21 13:05:52",
       "album": {
+        "name": "Grand Street",
+        "url": "https://open.spotify.com/album/6TIjvKJlXCo4mJUYJRUdJV"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        }
+      ],
+      "duration_ms": 224868,
+      "name": "Grand Street",
+      "url": "https://open.spotify.com/track/2NxHjUNJbp9udozC5zCUxy"
+    },
+    {
+      "added_at": "2026-09-21 13:05:52",
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
       },
@@ -659,34 +687,6 @@
       "duration_ms": 308525,
       "name": "These Simple Things",
       "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
-    },
-    {
-      "added_at": "2026-09-21 13:05:52",
-      "album": {
-        "name": "Grand Street",
-        "url": "https://open.spotify.com/album/6TIjvKJlXCo4mJUYJRUdJV"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        },
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        },
-        {
-          "name": "Marcus Gilmore",
-          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
-        }
-      ],
-      "duration_ms": 224868,
-      "name": "Grand Street",
-      "url": "https://open.spotify.com/track/2NxHjUNJbp9udozC5zCUxy"
     },
     {
       "added_at": "2026-09-21 13:05:52",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-09-21 13:05:52",
       "album": {
+        "name": "Country Song",
+        "url": "https://open.spotify.com/album/7dpFtT9UDbyyfotK358Qr9"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 235400,
+      "name": "Country Song",
+      "url": "https://open.spotify.com/track/3UAMhAWOLTvLBGpXrgWg51"
+    },
+    {
+      "added_at": "2026-09-21 13:05:52",
+      "album": {
         "name": "Smoke Rings",
         "url": "https://open.spotify.com/album/3cuyGBeGovNSkafVyR5V9Q"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 270339,
       "name": "Smoke Rings",
       "url": "https://open.spotify.com/track/68Bi9EUUa5jNvpD5sEwGOT"
-    },
-    {
-      "added_at": "2026-09-21 13:05:52",
-      "album": {
-        "name": "Country Song",
-        "url": "https://open.spotify.com/album/7dpFtT9UDbyyfotK358Qr9"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        }
-      ],
-      "duration_ms": 235400,
-      "name": "Country Song",
-      "url": "https://open.spotify.com/track/3UAMhAWOLTvLBGpXrgWg51"
     },
     {
       "added_at": "2026-09-21 13:05:52",

@@ -5766,7 +5766,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 151280,
       "name": "I Love You Samantha",
       "url": "https://open.spotify.com/track/1e4VJ7Z3UL0aoBP37bl2dk"
@@ -8922,7 +8922,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 153226,
       "name": "Nina",
       "url": "https://open.spotify.com/track/285s2fExCvLqr2T1dNZ8TV"
@@ -8940,7 +8940,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 175415,
       "name": "Nina (from: \"The Pirate\") - 2024 HD Remaster",
       "url": "https://open.spotify.com/track/1LTOGELfxbOcQLUe6OYaHN"
@@ -11732,7 +11732,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 187041,
       "name": "Solomon",
       "url": "https://open.spotify.com/track/2cJPrkSoyoBsoASGIztLGA"
@@ -11772,6 +11772,24 @@
       "duration_ms": 429853,
       "name": "Solomon",
       "url": "https://open.spotify.com/track/1dROR2zXDvF1CTgGquRpYJ"
+    },
+    {
+      "album": {
+        "name": "The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/5XYF9B4spAxIrgmFSEvbCi"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191267,
+      "name": "Solomon",
+      "url": "https://open.spotify.com/track/3vBwY9fLMfD55U2oWWO12U"
     },
     {
       "album": {

@@ -11658,7 +11658,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 172751,
       "name": "Dois Enganados",
       "url": "https://open.spotify.com/track/38jMHjnOAJDR4QUdk3IXsw"
@@ -38776,6 +38776,24 @@
       "duration_ms": 91750,
       "name": "Telefone",
       "url": "https://open.spotify.com/track/7rIeU9DvfVAz2hroqBAiuV"
+    },
+    {
+      "album": {
+        "name": "Mari no Barzinho (Ao Vivo em Fortaleza)",
+        "url": "https://open.spotify.com/album/6P4kv2DgtMn2d9YnxZYBrX"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167692,
+      "name": "Telefone Sem Fio - Ao Vivo",
+      "url": "https://open.spotify.com/track/0mo4IFJlaejAEzwUmyOyTD"
     },
     {
       "album": {

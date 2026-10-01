@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-301 songs - 17 hr 50 min
+302 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Better Now](https://open.spotify.com/track/7m8fOpoHqXMkQBMFwDHltd) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Better Now](https://open.spotify.com/album/6MuLUm3pXYUS7lQgqxkeaj) | 3:52 | 2023-12-13 | 2024-02-02 |
 | [Big Bucks](https://open.spotify.com/track/6aQzok2i9onyg7piIm63pF) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Big Bucks](https://open.spotify.com/album/4SaIYKSkgpur8zvvr9VZ4f) | 1:44 | 2023-12-13 |  |
 | [Biking \(Solo\)](https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Biking \(Solo\)](https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr) | 3:32 | 2023-12-13 |  |
+| [BILLIE JEAN](https://open.spotify.com/track/7kk5OT70FBurIIV1wibdsk) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [HYPERYOUTH](https://open.spotify.com/album/4QzLpl3oZx1P1BnhvkkAYW) | 2:48 | 2026-09-30 |  |
 | [Bish Bounce](https://open.spotify.com/track/20HlDD6s3Twz0cslCXUxZJ) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 3:59 | 2023-12-13 |  |
 | [Blem](https://open.spotify.com/track/2XlHu0HcujBCkWMdIAvrqt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:36 | 2023-12-13 |  |
 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 | 2023-12-14 |  |
@@ -80,7 +81,7 @@
 | [Company](https://open.spotify.com/track/0paIDUEcixm7WmcC72KgKZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:24 | 2025-04-15 |  |
 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 | 2023-12-13 |  |
 | [Confessions](https://open.spotify.com/track/1Sc2RHxyKHMeyCChQTWTnp) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 5:00 | 2023-12-13 |  |
-| [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2023-12-13 |  |
+| [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2023-12-13 | 2026-10-01 |
 | [Congratulations \- Remix](https://open.spotify.com/track/2YK01AIIWuywG24gsbuizE) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Congratulations \(Remix\)](https://open.spotify.com/album/3oeiU8nG5eDm5YPpDvK6eS) | 4:44 | 2023-12-13 |  |
 | [CRY FOR ME](https://open.spotify.com/track/0PoAZ7SLFpqpYR9LSCYAo8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/1Zk459EmzjRKMYbfxMY5CY) | 3:24 | 2023-12-13 |  |
 | [Cs60](https://open.spotify.com/track/397XzSTDSC6CjiybfmWKU0) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 6:52 | 2023-12-13 |  |
@@ -188,7 +189,7 @@
 | [Multifaceted](https://open.spotify.com/track/5j0Vc0Kw3lZ8yBDXDGvMzd) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 2:57 | 2024-01-10 |  |
 | [My Oh My](https://open.spotify.com/track/1H7MtM7oJ8S9NJi0a8gEyN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [My Oh My \(Official Music Video\)](https://open.spotify.com/album/2KRNKnolCAMsKVGhBN8P3Q) | 3:03 | 2023-12-13 | 2024-01-28 |
 | [My Oh My \(feat\. DaBaby & Gunna\) \- Remix](https://open.spotify.com/track/2ONOyrMhqho3oajY2tpC2n) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [My Oh My \(feat\. DaBaby & Gunna\) \[Remix\]](https://open.spotify.com/album/4UlrIJz4nXZBmqvkfXwfwR) | 2:59 | 2024-12-13 |  |
-| [My Oh My \(feat\. DaBaby\)](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 2:51 | 2023-12-16 | 2026-09-27 |
+| [My Oh My \(feat\. DaBaby\)](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 2:51 | 2023-12-16 |  |
 | [Myself](https://open.spotify.com/track/2cvOfKHOHgwQlLiuLKP2xR) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:38 | 2023-12-13 |  |
 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 | 2023-12-13 |  |
 | [Nervous](https://open.spotify.com/track/113xf7t4qNM7038YJvauik) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 4:05 | 2023-12-13 |  |

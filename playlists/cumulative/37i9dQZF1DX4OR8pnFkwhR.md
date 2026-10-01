@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: 名誉伝説
 
-2,450 songs - 6 day 4 hr 44 min
+2,450 songs - 6 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,6 +777,7 @@
 | [MAGiC VoX](https://open.spotify.com/track/4PK9DCpb5RquvL8xpQ6sm7) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [MAGiC VoX](https://open.spotify.com/album/6ed2yfNy9rIXI4OzV0zJNr) | 3:17 | 2026-07-28 | 2026-09-02 |
 | [maindish\(me@\)](https://open.spotify.com/track/3NwfrTZZSeXEtnB1RcZEFw) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [MENU](https://open.spotify.com/album/0c0QYzga2gli6lmA03bWav) | 3:07 | 2026-09-01 |  |
 | [Make a Move](https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Make a Move](https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7) | 2:37 | 2024-10-17 | 2025-01-10 |
+| [Make, make, make songs](https://open.spotify.com/track/6jmdF6C6NGENcYDVHNxptD) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [DTRM](https://open.spotify.com/album/5LTygSMSh1sb2WXa4BjMZ9) | 3:02 | 2026-09-29 |  |
 | [MakeUWantMe](https://open.spotify.com/track/4yaidbHbdh7lBewqqmKMh3) | [yuzuna](https://open.spotify.com/artist/6mvgiewb7uH8l4qlSuFIgh) | [MakeUWantMe](https://open.spotify.com/album/0sO8q6nHsBm0QSXF5i8gWj) | 3:27 | 2022-06-07 | 2022-06-29 |
 | [Mama's Pie](https://open.spotify.com/track/6ykodFke0uF1y6RLQt0zzr) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Mama's Pie](https://open.spotify.com/album/0OKTVjdBXcxBkksj2tlztZ) | 3:45 | 2023-02-01 | 2023-02-22 |
 | [matadokokade](https://open.spotify.com/track/6sNk0VZa78oZk6jTiJJiuF) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [netemosametemo](https://open.spotify.com/album/3ZtEKkkYYFwYHzxVQm5QH4) | 3:26 | 2024-12-24 | 2025-01-10 |
@@ -1328,7 +1329,6 @@
 | [Touch](https://open.spotify.com/track/3ryDbC3kOcEsuSG4uRqhSJ) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [Touch](https://open.spotify.com/album/6pQ7DktgOWUl0U4xHZ9PEj) | 3:31 | 2025-06-17 | 2025-09-03 |
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 | 2026-01-15 |
 | [Toxins](https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR) | [Toxins](https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR) | 3:00 | 2022-10-04 | 2022-10-19 |
-| [Track 11](https://open.spotify.com/track/6jmdF6C6NGENcYDVHNxptD) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [DTRM](https://open.spotify.com/album/5LTygSMSh1sb2WXa4BjMZ9) | 0:00 | 2026-09-29 |  |
 | [tradition](https://open.spotify.com/track/3jqm9iYwxyYQBM3WLoPiAx) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:27 | 2024-01-24 | 2024-02-07 |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2023-11-29 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2023-09-12 | 2023-09-14 |

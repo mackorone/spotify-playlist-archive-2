@@ -4,7 +4,7 @@
 
 > lontano lontano lontano 🐎🐎🐎 Sfera in cover
 
-1,106 songs - 2 day 8 hr 40 min
+1,107 songs - 2 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 | 2024-02-02 | 2024-02-16 |
 | [Bandito](https://open.spotify.com/track/4TTJpJqCoG1HrXhnNENqAp) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Bandito](https://open.spotify.com/album/7aeDTh7h77f5hsLz6f7DrP) | 2:00 | 2026-06-22 |  |
 | [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 | 2023-08-18 | 2023-09-29 |
+| [BATTISTA](https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ) | [BATTISTA](https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN) | [BATTISTA](https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW) | 2:37 | 2026-09-30 |  |
 | [Beat the Odds](https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Beat the Odds](https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv) | 2:30 | 2022-08-26 | 2023-05-26 |
 | [Beatrice \(feat\. Annalisa\)](https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 3:03 | 2025-12-29 | 2026-05-15 |
 | [Beckham](https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Kai Swervo](https://open.spotify.com/artist/1frmN1C7BmO6wKo7iQhar2), [KJ Swervo](https://open.spotify.com/artist/3VzzWMyEQci155HpLwKVZc), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Beckham](https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw) | 2:04 | 2024-08-01 | 2025-07-04 |

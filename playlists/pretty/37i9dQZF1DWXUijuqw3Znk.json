@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 1090,
+  "num_followers": 1093,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -964,6 +964,30 @@
       },
       "artists": [
         {
+          "name": "Skyminhyuk",
+          "url": "https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM"
+        },
+        {
+          "name": "HanYoHan",
+          "url": "https://open.spotify.com/artist/5i5QDc9kjQE2DEVfTuu8gb"
+        },
+        {
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
+        }
+      ],
+      "duration_ms": 254347,
+      "name": "Flashing (Feat. HanYoHan, OLNL)",
+      "url": "https://open.spotify.com/track/699iM8x19NFJx0MKsdqkqo"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
           "name": "Layone",
           "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
         },
@@ -983,30 +1007,6 @@
       "duration_ms": 237986,
       "name": "Mask On (Feat. Paloalto & Coogie) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/0jbjJFQsatcRCswxTl9X7J"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
-      },
-      "artists": [
-        {
-          "name": "Skyminhyuk",
-          "url": "https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM"
-        },
-        {
-          "name": "HanYoHan",
-          "url": "https://open.spotify.com/artist/5i5QDc9kjQE2DEVfTuu8gb"
-        },
-        {
-          "name": "OLNL",
-          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
-        }
-      ],
-      "duration_ms": 254347,
-      "name": "Flashing (Feat. HanYoHan, OLNL)",
-      "url": "https://open.spotify.com/track/699iM8x19NFJx0MKsdqkqo"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1579,22 +1579,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "GAROSAWK",
-        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
+        "name": "500000",
+        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
       },
       "artists": [
         {
-          "name": "Khundi Panda",
-          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
-        },
-        {
-          "name": "DAMYE",
-          "url": "https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR"
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
         }
       ],
-      "duration_ms": 250195,
-      "name": "Story On Sale (Feat. DAMYE)",
-      "url": "https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1"
+      "duration_ms": 189750,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/1z9TQOl5KFxFPksB4weOMM"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1635,18 +1631,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "500000",
-        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
+        "name": "GAROSAWK",
+        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
       },
       "artists": [
         {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "DAMYE",
+          "url": "https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR"
         }
       ],
-      "duration_ms": 189750,
-      "name": "The Surface",
-      "url": "https://open.spotify.com/track/1z9TQOl5KFxFPksB4weOMM"
+      "duration_ms": 250195,
+      "name": "Story On Sale (Feat. DAMYE)",
+      "url": "https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1675,26 +1675,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "FAKE RAPPERS KILLER",
-        "url": "https://open.spotify.com/album/52Htfn8fvmMajlxTlVtP4b"
+        "name": "500000",
+        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
       },
       "artists": [
         {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
-        },
-        {
-          "name": "Chin",
-          "url": "https://open.spotify.com/artist/0wLLr9JWffvRvyWpn0NfgZ"
-        },
-        {
-          "name": "LIL GIMCHI",
-          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
         }
       ],
-      "duration_ms": 203549,
-      "name": "WINNING MIND (Feat. Chin, LIL GIMCHI)",
-      "url": "https://open.spotify.com/track/2wwmdvHAH09hRZ9w7tqNie"
+      "duration_ms": 128250,
+      "name": "500000",
+      "url": "https://open.spotify.com/track/68CH3kN7G1Ve7TBUFICh0z"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1731,6 +1723,30 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "FAKE RAPPERS KILLER",
+        "url": "https://open.spotify.com/album/52Htfn8fvmMajlxTlVtP4b"
+      },
+      "artists": [
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        },
+        {
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/0wLLr9JWffvRvyWpn0NfgZ"
+        },
+        {
+          "name": "LIL GIMCHI",
+          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
+        }
+      ],
+      "duration_ms": 203549,
+      "name": "WINNING MIND (Feat. Chin, LIL GIMCHI)",
+      "url": "https://open.spotify.com/track/2wwmdvHAH09hRZ9w7tqNie"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "MultrillVerse",
         "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
       },
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "500000",
-        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
-      },
-      "artists": [
-        {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
-        }
-      ],
-      "duration_ms": 128250,
-      "name": "500000",
-      "url": "https://open.spotify.com/track/68CH3kN7G1Ve7TBUFICh0z"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "BREATHE",
         "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
       },
@@ -1779,54 +1779,6 @@
       "duration_ms": 205857,
       "name": "OWL",
       "url": "https://open.spotify.com/track/7h9gz8EKmkBdTOU4WFkkQu"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Superbee's Maserati",
-        "url": "https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl"
-      },
-      "artists": [
-        {
-          "name": "Basick",
-          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
-        }
-      ],
-      "duration_ms": 230408,
-      "name": "Superbee's Maserati",
-      "url": "https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
-      },
-      "artists": [
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 199755,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "END OF PUBERTY",
-        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
-      },
-      "artists": [
-        {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
-        }
-      ],
-      "duration_ms": 224613,
-      "name": "DEAR MOM",
-      "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1847,22 +1799,50 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "It's Your Turn (Feat. Futuristic Swaver)",
-        "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
       },
       "artists": [
         {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
-        },
-        {
-          "name": "Futuristic Swaver",
-          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         }
       ],
-      "duration_ms": 193174,
-      "name": "It's Your Turn (Feat. Futuristic Swaver)",
-      "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
+      "duration_ms": 199755,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Superbee's Maserati",
+        "url": "https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl"
+      },
+      "artists": [
+        {
+          "name": "Basick",
+          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
+        }
+      ],
+      "duration_ms": 230408,
+      "name": "Superbee's Maserati",
+      "url": "https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "END OF PUBERTY",
+        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
+      },
+      "artists": [
+        {
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+        }
+      ],
+      "duration_ms": 224613,
+      "name": "DEAR MOM",
+      "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1879,6 +1859,26 @@
       "duration_ms": 148983,
       "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
       "url": "https://open.spotify.com/track/5IEz46ferHq5IuyZH0WJtj"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "It's Your Turn (Feat. Futuristic Swaver)",
+        "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        },
+        {
+          "name": "Futuristic Swaver",
+          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
+        }
+      ],
+      "duration_ms": 193174,
+      "name": "It's Your Turn (Feat. Futuristic Swaver)",
+      "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX"
-      },
-      "artists": [
-        {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
-        }
-      ],
-      "duration_ms": 161557,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Good Time For The Team",
         "url": "https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw"
       },
@@ -1971,6 +1955,38 @@
       "duration_ms": 232655,
       "name": "Good Time For The Team",
       "url": "https://open.spotify.com/track/1XROjtYVZkHRwCt79VzwZc"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "duration_ms": 161557,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
+        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        }
+      ],
+      "duration_ms": 133781,
+      "name": "\ubc14\ub2e5\uc5d0\uc11c\ubd80\ud130",
+      "url": "https://open.spotify.com/track/2M3Cc8JnL9oahiDr2S29V5"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1995,22 +2011,6 @@
       "duration_ms": 244186,
       "name": "Naked (Feat. SINCE, Roh Yun Ha)",
       "url": "https://open.spotify.com/track/20SnjTFsnEWVYtqUEB7EYx"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
-        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        }
-      ],
-      "duration_ms": 133781,
-      "name": "\ubc14\ub2e5\uc5d0\uc11c\ubd80\ud130",
-      "url": "https://open.spotify.com/track/2M3Cc8JnL9oahiDr2S29V5"
     },
     {
       "added_at": "2025-11-10 09:53:18",

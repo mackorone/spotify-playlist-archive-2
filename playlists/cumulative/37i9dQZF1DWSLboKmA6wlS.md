@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: erutanpsn\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: jesda\. Artwork: Isu Kim
 
-2,699 songs - 7 day 1 hr 20 min
+2,700 songs - 7 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,7 +647,7 @@
 | [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-29 | 2025-03-21 |
 | [ก่อนที่เธอจะไป](https://open.spotify.com/track/2XMLv7PUnsXjRLglsqMSHk) | [Javin Boom](https://open.spotify.com/artist/5fAAU5cPkaPhyZy2Qs5jUt) | [ก่อนที่เธอจะไป](https://open.spotify.com/album/2w5Z7Od84bfKC99wQhUsLK) | 3:45 | 2024-07-26 | 2024-10-12 |
 | [ก่อนที่เราจะไม่รักกัน \(BEFORE THE END\)](https://open.spotify.com/track/2rtD3WzepY5p3xINE27v0w) | [AernAver](https://open.spotify.com/artist/5dNcnAxNCZBfD9H9xWcWfR) | [ก่อนที่เราจะไม่รักกัน \(BEFORE THE END\)](https://open.spotify.com/album/6IrkbfngLKBKJLHFZl1Zss) | 2:44 | 2026-03-05 | 2026-03-21 |
-| [ก่อนบอกไป](https://open.spotify.com/track/0dWdoq8lLCvVEgUetD9cn3) | [Cigarettes Summer George](https://open.spotify.com/artist/1GeJxu4mpC0stTPe2jv5NP) | [ก่อนบอกไป](https://open.spotify.com/album/5BI1o3aGsLGX1NUyMEAV3u) | 4:35 | 2026-05-20 |  |
+| [ก่อนบอกไป](https://open.spotify.com/track/0dWdoq8lLCvVEgUetD9cn3) | [Cigarettes Summer George](https://open.spotify.com/artist/1GeJxu4mpC0stTPe2jv5NP) | [ก่อนบอกไป](https://open.spotify.com/album/5BI1o3aGsLGX1NUyMEAV3u) | 4:35 | 2026-05-20 | 2026-10-01 |
 | [ก่อนฟ้ารางเลือน](https://open.spotify.com/track/1tF8KDdPBlJVxTCqWdmQXe) | [Manymoons.](https://open.spotify.com/artist/0JHNb1uiJSV4iY5KnE55Gx) | [ก่อนฟ้ารางเลือน](https://open.spotify.com/album/7nI1vsKydZKzkLXOzY6P7Z) | 3:46 | 2024-04-11 | 2024-05-11 |
 | [ก่อนลา](https://open.spotify.com/track/7B3AylZeiUyuqqsC6ba2We) | [Topeople](https://open.spotify.com/artist/3LXIfzAVXPvKnIyPLBcW1c) | [ก่อนลา](https://open.spotify.com/album/2wsL1z9cEO5OdXUERclUy8) | 4:09 | 2022-11-11 | 2022-12-02 |
 | [ก่อนสอบ](https://open.spotify.com/track/2A0aX7Jk1dyRRtTEjpW4Cu) | [SIBKARIN & JACK](https://open.spotify.com/artist/2RHRToZCHkguzYxJXIPjDU) | [ก่อนสอบ](https://open.spotify.com/album/37WlxDNbPKbHuQ1AWTnAIk) | 3:20 | 2024-12-13 | 2024-12-21 |
@@ -1454,6 +1454,7 @@
 | [พุ่มไม้](https://open.spotify.com/track/1ewtg91YYUPj67sUmVDtw3) | [Twilight Harmony](https://open.spotify.com/artist/3IdMke5OpEb2cGQAGzH29A) | [พุ่มไม้](https://open.spotify.com/album/6lkv88tk9eehsDOYxo2B4Q) | 3:33 | 2024-02-23 | 2024-03-16 |
 | [พูดถึงหรือคิดถึง](https://open.spotify.com/track/1EqSScAhrnZWFCHPYngop9) | [teʰ](https://open.spotify.com/artist/4V0aQzU8RtNz1RB3IiVD23) | [พูดถึงหรือคิดถึง](https://open.spotify.com/album/2Y7aXYvldDBDMUgLYd9Yfx) | 3:09 | 2024-09-06 | 2024-09-14 |
 | [พูดล้านคำเธอฟังบ้างเหอะ](https://open.spotify.com/track/40SBEpwVFVPlR2qjc6hhsr) | [DEADEVST](https://open.spotify.com/artist/0bLpTMGmbbUx9dskoO6gdK), [Slange s](https://open.spotify.com/artist/3nXRENrgtuu3TMMwKLEgWt) | [พูดล้านคำเธอฟังบ้างเหอะ](https://open.spotify.com/album/2GXn71u7jmMoiOhfZhDkgY) | 2:23 | 2023-05-12 | 2023-06-17 |
+| [พูดออกมาสิ .communicate](https://open.spotify.com/track/6iBJfqPi8ba5HUNYfEKtfy) | [jesda](https://open.spotify.com/artist/05cVUky7fgl6A3HP26u41n) | [พูดออกมาสิ .communicate](https://open.spotify.com/album/37uoKcBPkbLLSAVuM3Cm6s) | 2:58 | 2026-09-30 |  |
 | [พูดเหมือนจำ ทำเหมือนเดิม](https://open.spotify.com/track/4lF7rC3Dm1ZSZXwGpaTvOU) | [ANSHI](https://open.spotify.com/artist/1Aq61RGfDrRMFX2scouXAS) | [พูดเหมือนจำ ทำเหมือนเดิม](https://open.spotify.com/album/6VLusWApmUfyf8rrNJrdMV) | 4:04 | 2024-11-08 | 2024-11-16 |
 | [พูดได้ไงก่อน](https://open.spotify.com/track/00YGmq417uF5vsgQmjM8ji) | [More Nine](https://open.spotify.com/artist/4TH3r2oEvgV8AINodIkJjv) | [พูดได้ไงก่อน](https://open.spotify.com/album/0N3nXDdpvk948SlLmzk7g2) | 4:10 | 2024-09-20 | 2024-09-28 |
 | [พูดได้ไหม](https://open.spotify.com/track/6V2SoIM8DSUlK5tVqA2hrU) | [Bellinium](https://open.spotify.com/artist/7vraj69VxUJRkHwWT9MryR), [Joe Supawat](https://open.spotify.com/artist/6ndaL3vDuYMuNpvrtIhJeU) | [Sorry girl, I'm changed](https://open.spotify.com/album/36LTyo4BkANaugtVpF4W27) | 3:43 | 2022-09-15 | 2022-10-22 |

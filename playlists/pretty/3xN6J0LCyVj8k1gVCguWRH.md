@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 143,283 likes - 212 songs - 12 hr 39 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 143,285 likes - 207 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,10 +215,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 205 | [What Will I Do](https://open.spotify.com/track/4Hw6L4yWjgPfQR6g3hKNn0) | [Emily McLoud](https://open.spotify.com/artist/51F5xANuZ6phsIvT8tAdYa) | [What Will I Do](https://open.spotify.com/album/73hHaFwADfXCoEIuExuAol) | 2:48 |
 | 206 | [The Company I Keep](https://open.spotify.com/track/2CHOEHU3zkZ2oPYGyyGEj3) | [John Haywood](https://open.spotify.com/artist/5yQUEBrCLsgRvH8ceG7TTM) | [The Company I Keep](https://open.spotify.com/album/0qUZ9P7tqCSJNklevgUCMI) | 3:38 |
 | 207 | [What the Fudd?](https://open.spotify.com/track/5LCPHnAIoxc0Os4erxSgy7) | [Judd Mellon and the Cantaloupes](https://open.spotify.com/artist/4WLO1tdXRrhfjDjZMsYB5S) | [What the Fudd?](https://open.spotify.com/album/54PWAFmpsuG68Owp6GLGXZ) | 4:46 |
-| 208 | [Love Story](https://open.spotify.com/track/30uFI1KICQnH4N7wv0UQIh) | [JoiStaRR](https://open.spotify.com/artist/1IqGEfjh8ScdSV8jaHzHxN) | [Love Story](https://open.spotify.com/album/7hxnN9L47HBsqFGpUZ1SyY) | 3:36 |
-| 209 | [The Lights](https://open.spotify.com/track/069ugYXOPPDIsL5IcZRqQW) | [Arnie Flo](https://open.spotify.com/artist/64Kz1WVJ7ZM68BW1Ue5KR1) | [Arcade](https://open.spotify.com/album/0m1hk2vhKnNzomKy6TQBvi) | 2:01 |
-| 210 | [Too Obvious](https://open.spotify.com/track/6H6UYX9tzbKg6SiPUuHgic) | [Malik English](https://open.spotify.com/artist/3gpBRVLHl7p8aMQ0IWPbjV), [SoloWrld](https://open.spotify.com/artist/0T8Fv2ZQpxL9wMUCNiQ9mh) | [Too Obvious](https://open.spotify.com/album/6kZOjo05yNng8l0dpSgrr7) | 2:12 |
-| 211 | [Vudú](https://open.spotify.com/track/5hqecau7EIKETVN9zhZUTh) | [Ritmo Kingz Beats](https://open.spotify.com/artist/0vHUsehFohFNcoX6pz6pSd), [Fabio](https://open.spotify.com/artist/5rpP5xNuj3ewPRcmDus0CW), [Cardi](https://open.spotify.com/artist/4cOp7BhxowqCDz3CrIjzbq) | [Vudú](https://open.spotify.com/album/0J5cD2xPIvPx3Wn8JQRQDJ) | 2:47 |
-| 212 | [Heavy Heart](https://open.spotify.com/track/0egDrBZyG8uWZSljuTMHOD) | [Solarrio](https://open.spotify.com/artist/1GqwMM1E15gniqofxJg1A3) | [Heavy Heart](https://open.spotify.com/album/4Y1JxXp9GcieT694Vt1oQA) | 3:02 |
 
-Snapshot ID: `AAA/X2ZI5TfxHXQLFsWMUlaNeH/OoAeJ`
+Snapshot ID: `AAA/YhfiIR/vvY3NFFQJDIKcXCDFulUn`

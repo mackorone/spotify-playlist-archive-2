@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMSdLdv4CGpJ4p1y3b88uAGUMtgP",
+  "snapshot_id": "AAAAAFDor3dFtVMq2yGjeP+uGt0QfBaF",
   "tracks": [
     {
       "added_at": "2026-09-22 13:42:59",
@@ -699,8 +699,8 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "No Words Can Say",
-        "url": "https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr"
+        "name": "When Spring Comes",
+        "url": "https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
         }
       ],
-      "duration_ms": 236000,
-      "name": "No Words Can Say",
-      "url": "https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk"
+      "duration_ms": 238400,
+      "name": "When Spring Comes",
+      "url": "https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -779,8 +779,8 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "When Spring Comes",
-        "url": "https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me"
+        "name": "No Words Can Say",
+        "url": "https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
         }
       ],
-      "duration_ms": 238400,
-      "name": "When Spring Comes",
-      "url": "https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe"
+      "duration_ms": 236000,
+      "name": "No Words Can Say",
+      "url": "https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "IM HERO",
-        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 274386,
-      "name": "If We Ever Meet Again",
-      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
         "name": "Queen of Tears (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 245066,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "If We Ever Meet Again",
+      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/6fYDT5VwUzrIhHReFszTcH"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Hyun",
-          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
-        }
-      ],
-      "duration_ms": 247386,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/4olnn5uPUcuHTbzDZb7kq2"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
         "name": "Close your eyes",
         "url": "https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "WSG WANNABE 1st Album",
-        "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/6fYDT5VwUzrIhHReFszTcH"
       },
       "artists": [
         {
-          "name": "WSG WANNABE(4FIRE)",
-          "url": "https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD"
+          "name": "Lim Jae Hyun",
+          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
         }
       ],
-      "duration_ms": 207866,
-      "name": "I Missed You",
-      "url": "https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N"
+      "duration_ms": 247386,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/4olnn5uPUcuHTbzDZb7kq2"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -1243,6 +1227,22 @@
       "duration_ms": 216813,
       "name": "I Miss You So Much",
       "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
+        "name": "WSG WANNABE 1st Album",
+        "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
+      },
+      "artists": [
+        {
+          "name": "WSG WANNABE(4FIRE)",
+          "url": "https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "I Missed You",
+      "url": "https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "Monday Kiz's Footprints Vol.1 With Lee Yi Kyung",
-        "url": "https://open.spotify.com/album/6tdMpoiWbTxx6otgWj2bmF"
+        "name": "Bloom Again",
+        "url": "https://open.spotify.com/album/2Ki6NwC0tAoWpIQIW5at94"
       },
       "artists": [
         {
-          "name": "Monday Kiz",
-          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
-        },
-        {
-          "name": "Lee Yi Kyung",
-          "url": "https://open.spotify.com/artist/3VNRGqfUpv4TSkcJjnt9qd"
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
         }
       ],
-      "duration_ms": 258730,
-      "name": "Destiny (2025)",
-      "url": "https://open.spotify.com/track/0LLd9oghk9adWYmou7YQnV"
+      "duration_ms": 245000,
+      "name": "No More Encore",
+      "url": "https://open.spotify.com/track/3W2kHl0GltIhAxO1zNqOxY"
     }
   ],
   "unique_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",

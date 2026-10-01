@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 46806,
+  "num_followers": 46815,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Insecure: Music from the HBO Original Series",
+        "url": "https://open.spotify.com/album/768HEXhXFM0O8cP2ObI3RA"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 412746,
+      "name": "Just Sayin/I Tried",
+      "url": "https://open.spotify.com/track/0dtSFx5d01pUvWY1d4mskP"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 223517,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Insecure: Music from the HBO Original Series",
-        "url": "https://open.spotify.com/album/768HEXhXFM0O8cP2ObI3RA"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 412746,
-      "name": "Just Sayin/I Tried",
-      "url": "https://open.spotify.com/track/0dtSFx5d01pUvWY1d4mskP"
     }
   ],
   "unique_name": "Kofi Siriboe's Taste",

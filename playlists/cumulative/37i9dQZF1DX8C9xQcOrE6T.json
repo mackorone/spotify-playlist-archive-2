@@ -43,6 +43,24 @@
     },
     {
       "album": {
+        "name": "The Haunted Mansion",
+        "url": "https://open.spotify.com/album/0D0ewaLXve7NBibkwrrdIA"
+      },
+      "artists": [
+        {
+          "name": "The Happy Haunts",
+          "url": "https://open.spotify.com/artist/7wP6bEeJj1bXfaTrM53oLO"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459400,
+      "name": "999 Happy Haunts",
+      "url": "https://open.spotify.com/track/7f6m6vfymOiE3dpmbmBgF6"
+    },
+    {
+      "album": {
         "name": "Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q"
       },
@@ -720,6 +738,24 @@
       "duration_ms": 135440,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/32seFAmMy7j3ginCwac9kW"
+    },
+    {
+      "album": {
+        "name": "A.N.T. Farm",
+        "url": "https://open.spotify.com/album/2cVKRV3zYpcaU8Cz8sroUA"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Calling All the Monsters",
+      "url": "https://open.spotify.com/track/0QTUoI90fBFdKkd4h8fsOu"
     },
     {
       "album": {
@@ -2368,7 +2404,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 229813,
       "name": "If Only",
       "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
@@ -3752,7 +3788,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 162066,
       "name": "Rotten to the Core",
       "url": "https://open.spotify.com/track/2bNxCVI4Fub8BAwr0CQDyd"
@@ -4824,7 +4860,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
@@ -4846,7 +4882,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 189173,
       "name": "This Is Me",
       "url": "https://open.spotify.com/track/5pomCBdsTZSDCFHH8BAUQe"

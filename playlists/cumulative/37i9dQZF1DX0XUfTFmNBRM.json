@@ -478,7 +478,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 259636,
       "name": "Ae Ajnabee | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/5pkBdzFwC3sAfOvxIvmhL1"
@@ -1179,6 +1179,32 @@
     },
     {
       "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        },
+        {
+          "name": "Sharvi Yadav",
+          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck"
+    },
+    {
+      "album": {
         "name": "Shiddat",
         "url": "https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9"
       },
@@ -1722,6 +1748,28 @@
       "duration_ms": 192992,
       "name": "Care Ni Karda",
       "url": "https://open.spotify.com/track/04ozdnFWUpW7L1VJl3yTQQ"
+    },
+    {
+      "album": {
+        "name": "Casa Tupka Anthemo",
+        "url": "https://open.spotify.com/album/2in9Bgw7e4jKwH8aKZUkEH"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Casa Tupka Anthemo",
+      "url": "https://open.spotify.com/track/0cbmbkbCIg97a0CTt2c0Y0"
     },
     {
       "album": {
@@ -3856,7 +3904,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 634032,
       "name": "Ghar Kab Aaoge (From \"BORDER 2\")",
       "url": "https://open.spotify.com/track/0OEyemEMBUbBbGlcb3w9J4"
@@ -3950,6 +3998,24 @@
       "duration_ms": 244073,
       "name": "Guzaara (From \"Baaghi 4\")",
       "url": "https://open.spotify.com/track/3gjTErwpHM5PkRbWMhmNrV"
+    },
+    {
+      "album": {
+        "name": "Guzarish",
+        "url": "https://open.spotify.com/album/2YeoLVaz3FRi1RvQmyVhMN"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288030,
+      "name": "Guzarish",
+      "url": "https://open.spotify.com/track/45Gi7lLR8VI4hFyPeJpxH3"
     },
     {
       "album": {
@@ -5020,6 +5086,36 @@
       "duration_ms": 251124,
       "name": "Jab Tu Sajan (From \"Aap Jaisa Koi\")",
       "url": "https://open.spotify.com/track/0v716URUxpcG1AhIZmulz7"
+    },
+    {
+      "album": {
+        "name": "Jai Jai Ram (From \"Ramayana\")",
+        "url": "https://open.spotify.com/album/1vgA0OMWlZrFsnza2ql0IZ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Kumar Vishwas",
+          "url": "https://open.spotify.com/artist/2LjhQ08HU3jmWljGsf5Z0Y"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320136,
+      "name": "Jai Jai Ram (From \"Ramayana\")",
+      "url": "https://open.spotify.com/track/4y1KR84zpSoU0aVOdiAGIT"
     },
     {
       "album": {
@@ -9982,7 +10078,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 217148,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
@@ -10164,7 +10260,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 170044,
       "name": "Sajni (From \"Laapataa Ladies\")",
       "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
@@ -10268,6 +10364,36 @@
       "duration_ms": 177694,
       "name": "Sakhiyan2.0 (From \"BellBottom\")",
       "url": "https://open.spotify.com/track/1y5beX4vn7QPfg36r4jiWo"
+    },
+    {
+      "album": {
+        "name": "Samjho Na (From \"The Vvaan\")",
+        "url": "https://open.spotify.com/album/4dDpesDlsId7FLZ9rQ17tp"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Suvarna Tiwari",
+          "url": "https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253833,
+      "name": "Samjho Na - From \"The Vvaan\"",
+      "url": "https://open.spotify.com/track/1yQZfjUeKWs31AYV2IxN0V"
     },
     {
       "album": {
@@ -12464,7 +12590,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 268445,
       "name": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
       "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"

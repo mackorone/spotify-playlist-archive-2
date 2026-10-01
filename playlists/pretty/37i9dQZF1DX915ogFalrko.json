@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188351,
+  "num_followers": 188359,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-09-25 14:28:33",
       "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
+    },
+    {
+      "added_at": "2026-09-25 14:28:33",
+      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
-    },
-    {
-      "added_at": "2026-09-25 14:28:33",
-      "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
     },
     {
       "added_at": "2026-09-25 14:28:33",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-09-25 14:28:33",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Mi Negrita",
-      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
-    },
-    {
-      "added_at": "2026-09-25 14:28:33",
-      "album": {
         "name": "Husband",
         "url": "https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 236440,
       "name": "Husband",
       "url": "https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD"
+    },
+    {
+      "added_at": "2026-09-25 14:28:33",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Mi Negrita",
+      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
     },
     {
       "added_at": "2026-09-25 14:28:33",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-09-25 14:28:33",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "De Cara a la Pared",
-      "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
-    },
-    {
-      "added_at": "2026-09-25 14:28:33",
-      "album": {
         "name": "Interior",
         "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 213545,
       "name": "Yours & Mine",
       "url": "https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5"
+    },
+    {
+      "added_at": "2026-09-25 14:28:33",
+      "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "De Cara a la Pared",
+      "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
     },
     {
       "added_at": "2026-09-25 14:28:33",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-09-25 14:28:33",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
-    },
-    {
-      "added_at": "2026-09-25 14:28:33",
-      "album": {
         "name": "Barchords",
         "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+      "added_at": "2026-09-25 14:28:33",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
     },
     {
       "added_at": "2026-09-25 14:28:33",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-09-25 14:28:33",
       "album": {
-        "name": "Christina",
-        "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
-      },
-      "artists": [
-        {
-          "name": "Lilly Wood and The Prick",
-          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
-    },
-    {
-      "added_at": "2026-09-25 14:28:33",
-      "album": {
         "name": "Beast of the Night",
         "url": "https://open.spotify.com/album/3n80cCmDjVkd9EX81YV4VU"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 220906,
       "name": "Beast of the Night",
       "url": "https://open.spotify.com/track/6udRUpHQlWCbwbDN6J1Y43"
+    },
+    {
+      "added_at": "2026-09-25 14:28:33",
+      "album": {
+        "name": "Christina",
+        "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
     },
     {
       "added_at": "2026-09-25 14:28:33",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-09-25 14:28:33",
       "album": {
-        "name": "Fou de toi",
-        "url": "https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS"
-      },
-      "artists": [
-        {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
-        }
-      ],
-      "duration_ms": 140248,
-      "name": "Fou de toi",
-      "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
-    },
-    {
-      "added_at": "2026-09-25 14:28:33",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2026-09-25 14:28:33",
       "album": {
-        "name": "jamais danser!",
-        "url": "https://open.spotify.com/album/4y3itidUZSRAufNXvCohWv"
+        "name": "Fou de toi",
+        "url": "https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS"
       },
       "artists": [
         {
-          "name": "Nikola",
-          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
         }
       ],
-      "duration_ms": 195453,
-      "name": "jamais danser!",
-      "url": "https://open.spotify.com/track/3DpKI6j6d8IDt1fERqHGk6"
+      "duration_ms": 140248,
+      "name": "Fou de toi",
+      "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
     },
     {
       "added_at": "2026-09-25 14:28:33",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2026-09-25 14:28:33",
       "album": {
+        "name": "jamais danser!",
+        "url": "https://open.spotify.com/album/4y3itidUZSRAufNXvCohWv"
+      },
+      "artists": [
+        {
+          "name": "Nikola",
+          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "jamais danser!",
+      "url": "https://open.spotify.com/track/3DpKI6j6d8IDt1fERqHGk6"
+    },
+    {
+      "added_at": "2026-09-25 14:28:33",
+      "album": {
         "name": "100S",
         "url": "https://open.spotify.com/album/0ECvPUBuvkS1I4U8X3LAjC"
       },
@@ -1523,6 +1523,38 @@
       "duration_ms": 201521,
       "name": "100S",
       "url": "https://open.spotify.com/track/6boMeUCYx9v8UG1cVfxlyb"
+    },
+    {
+      "added_at": "2026-09-25 14:28:33",
+      "album": {
+        "name": "Rapids of Love",
+        "url": "https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D"
+      },
+      "artists": [
+        {
+          "name": "Courrier Sud",
+          "url": "https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm"
+        }
+      ],
+      "duration_ms": 165554,
+      "name": "Rapids of Love",
+      "url": "https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp"
+    },
+    {
+      "added_at": "2026-09-25 14:28:33",
+      "album": {
+        "name": "Ache",
+        "url": "https://open.spotify.com/album/1ZglL7piZRwXuAILjndgOz"
+      },
+      "artists": [
+        {
+          "name": "Flora Hibberd",
+          "url": "https://open.spotify.com/artist/5EFG7rqfVfdyaXiRZbRkpS"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/3cepuSHtaG4aN2EYY4DLwv"
     },
     {
       "added_at": "2026-09-25 14:28:33",
@@ -1563,38 +1595,6 @@
       "duration_ms": 138039,
       "name": "Something Inside Me",
       "url": "https://open.spotify.com/track/6d3T0nMjuKVyKdycqmExks"
-    },
-    {
-      "added_at": "2026-09-25 14:28:33",
-      "album": {
-        "name": "Rapids of Love",
-        "url": "https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D"
-      },
-      "artists": [
-        {
-          "name": "Courrier Sud",
-          "url": "https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm"
-        }
-      ],
-      "duration_ms": 165554,
-      "name": "Rapids of Love",
-      "url": "https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp"
-    },
-    {
-      "added_at": "2026-09-25 14:28:33",
-      "album": {
-        "name": "Ache",
-        "url": "https://open.spotify.com/album/1ZglL7piZRwXuAILjndgOz"
-      },
-      "artists": [
-        {
-          "name": "Flora Hibberd",
-          "url": "https://open.spotify.com/artist/5EFG7rqfVfdyaXiRZbRkpS"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/3cepuSHtaG4aN2EYY4DLwv"
     },
     {
       "added_at": "2026-09-25 14:28:33",

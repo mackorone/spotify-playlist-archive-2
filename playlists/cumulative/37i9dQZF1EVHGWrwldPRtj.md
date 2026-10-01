@@ -2,9 +2,9 @@
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIVaqdm8JIWAo>Olivia Dean</a>, <a href=spotify:playlist:37i9dQZF1EIZobirLlpmBa>Mac Miller</a>, <a href=spotify:playlist:37i9dQZF1EIVOlGHvpBwBH>Tyler, The Creator</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIYIe6aZAczQL>Harry Styles</a>, <a href=spotify:playlist:37i9dQZF1EIV630wDjArgt>P!nk</a>, <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a> and more
 
-1,257 songs - 2 day 23 hr 26 min
+1,258 songs - 2 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,7 @@
 | [It Takes Two](https://open.spotify.com/track/5V7qLbZJNTwaEVbZADqofc) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [It Takes Two](https://open.spotify.com/album/3bTLu0LF1pBSZsZUDohta0) | 2:39 | 2026-08-30 | 2026-09-01 |
 | [It's a small world](https://open.spotify.com/track/7FTMEtx6gQhZ57wDWKdiz7) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Sympa](https://open.spotify.com/album/6Z3LT9uIwXDnbgypLFrBQb) | 3:13 | 2026-05-06 | 2026-06-10 |
 | [It's Not So Bad](https://open.spotify.com/track/3Ch6KUaWojcIFpdCXE8yYE) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH), [Sabrina Gomes](https://open.spotify.com/artist/7Ee7rIUB6OkmfxeqCKiGPu), [Dybbukk Covers](https://open.spotify.com/artist/65etXZIRd8KjC0pCYhD9wI) | [It's Not So Bad](https://open.spotify.com/album/2XkweG77Iu656Pj1MhI8oO) | 2:20 | 2024-01-02 | 2024-01-18 |
-| [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:53 | 2026-06-30 |  |
+| [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:53 | 2026-06-30 | 2026-10-01 |
 | [it’s okay](https://open.spotify.com/track/4q8shMNFx1n3bgVV9t4xyB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [20](https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS) | 2:26 | 2026-04-08 | 2026-04-29 |
 | [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2023-12-31 | 2026-02-17 |
 | [I’ll Keep You Safe](https://open.spotify.com/track/72FSEhAkrbLDQtmQZvcFkR) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/2xWpuJlwWOL4QM5BSMYehc) | 2:20 | 2024-01-21 | 2024-02-02 |
@@ -545,6 +545,7 @@
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2025-08-19 | 2026-03-18 |
 | [Jungle](https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:20 | 2024-01-01 | 2025-08-26 |
 | [just friends](https://open.spotify.com/track/1MprIFeBCp6gqiexinWCjZ) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/6zpKJ0jCROglQiV9ir7pcr) | 2:52 | 2024-01-05 | 2024-01-13 |
+| [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 | 2026-10-01 |  |
 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2026-03-19 | 2026-06-16 |
 | [Keep Your Head Up](https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:24 | 2024-01-03 | 2024-01-04 |
 | [Keeps Me High](https://open.spotify.com/track/3sgSmAMkevGr5rO6Ah8BMg) | [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE) | [Keeps Me High](https://open.spotify.com/album/63dNB8lnn9iwuQiRzeSWXJ) | 2:02 | 2024-01-04 | 2024-02-01 |
@@ -649,7 +650,7 @@
 | [Make Them Cry](https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:07 | 2026-06-21 | 2026-06-22 |
 | [Make Them Pay](https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:01 | 2026-05-26 | 2026-05-27 |
 | [Mamma](https://open.spotify.com/track/7f7d6FJ0LOAFzFaaEIa3s8) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Så mycket bättre 2022 \- Tolkningarna](https://open.spotify.com/album/6X7ZtH3FL5mBFQnf1mis7r) | 3:35 | 2024-01-18 | 2024-01-19 |
-| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-09-04 |  |
+| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-09-04 | 2026-10-01 |
 | [Marinade](https://open.spotify.com/track/2OFUamird9l49tMtwf8w3l) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V) | 3:57 | 2024-04-05 | 2024-04-16 |
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2024-01-06 | 2024-01-17 |
 | [Masih Ada Kamu](https://open.spotify.com/track/72eZ9t6Y9yfpwyqy3uikEm) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Perjumpaan](https://open.spotify.com/album/3OtVXCQnVUdGlcDfvfKJDb) | 5:06 | 2025-08-30 | 2025-08-31 |
@@ -900,7 +901,7 @@
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [Íñigo Quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2024-01-06 | 2026-05-01 |
 | [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 | 2025-09-10 | 2025-11-10 |
 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2025-08-23 | 2026-02-27 |
-| [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2026-02-09 | 2026-09-29 |
+| [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2026-02-09 |  |
 | [Simmer](https://open.spotify.com/track/0D8dzxPNbYA0Ck2auTnWGS) | [Robinson Roe](https://open.spotify.com/artist/5IjUr7lUdZ1mOUluaYpKZE) | [Simmer](https://open.spotify.com/album/6Ss5rIWTlbcpSFFOZ1bZ8Q) | 2:31 | 2026-06-10 | 2026-06-11 |
 | [SIN MIRAR LAS SEÑALES](https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Happy Birthday Flakko](https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4) | 3:00 | 2026-02-27 | 2026-04-29 |
 | [SINCERA TE](https://open.spotify.com/track/0LHx4VkNoLuC60p23xUpig) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 4:02 | 2025-09-02 | 2025-09-03 |

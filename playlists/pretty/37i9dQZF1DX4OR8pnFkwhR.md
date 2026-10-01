@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,009 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,003 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2ndスキン](https://open.spotify.com/track/45IongiIeIhQoLhZqzIfEr) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [2ndスキン](https://open.spotify.com/album/34qGV2RMnchJjv1aWvXiZU) | 2:49 |
 | 2 | [麗らか](https://open.spotify.com/track/7M8NP3Oxt1CQPfcRZW9sSU) | [中島 寂](https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL) | [麗らか](https://open.spotify.com/album/0DIc7YVrF5alr9JWnNsT7G) | 4:04 |
-| 3 | [Track 11](https://open.spotify.com/track/6jmdF6C6NGENcYDVHNxptD) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [DTRM](https://open.spotify.com/album/5LTygSMSh1sb2WXa4BjMZ9) | 0:00 |
+| 3 | [Make, make, make songs](https://open.spotify.com/track/6jmdF6C6NGENcYDVHNxptD) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [DTRM](https://open.spotify.com/album/5LTygSMSh1sb2WXa4BjMZ9) | 3:02 |
 | 4 | [Taion](https://open.spotify.com/track/0fdIlmKcU7YtwzrwhEGlrC) | [HINONABE](https://open.spotify.com/artist/5prUoGMqRokR10HEyR4LjD) | [Taion](https://open.spotify.com/album/650RrPZxvqCUzeACk5M9hx) | 4:20 |
 | 5 | [hora](https://open.spotify.com/track/4p4RcxZBkJOhRq1fAWDVu9) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [hora](https://open.spotify.com/album/51SClLoJGlqlkEOoTX5xrU) | 3:23 |
 | 6 | [DND](https://open.spotify.com/track/38Ly5TWg9E7B7inRwrcAbs) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [DND](https://open.spotify.com/album/21z1fNY6xXjnVRc9H35nDb) | 2:26 |

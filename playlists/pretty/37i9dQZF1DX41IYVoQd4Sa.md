@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : עלמה גוב
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,492 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,498 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 36 | [נשמות](https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2) | [ATAR MAYNER](https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [העולם זה לא מספיק](https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X) | 3:24 |
 | 37 | [ח'ת שתיים](https://open.spotify.com/track/7FfYo7iCiFyfXKCQbpaXtT) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אני נינה](https://open.spotify.com/album/1BtYEQGPMG5ich1PCAR7rB) | 4:07 |
 | 38 | [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 |
-| 39 | [כותב שירי פרידה](https://open.spotify.com/track/7AZHHG5GcjASyOWv11OBQ1) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [כותב שירי פרידה](https://open.spotify.com/album/13gG63NQDUIP5ip318Uq4J) | 3:07 |
-| 40 | [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7), [Ori Kaplan](https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu), [Tamir Muskat](https://open.spotify.com/artist/0JpjOln5myM6tFYglXTsAR) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 |
+| 39 | [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7), [Ori Kaplan](https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu), [Tamir Muskat](https://open.spotify.com/artist/0JpjOln5myM6tFYglXTsAR) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 |
+| 40 | [כותב שירי פרידה](https://open.spotify.com/track/7AZHHG5GcjASyOWv11OBQ1) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [כותב שירי פרידה](https://open.spotify.com/album/13gG63NQDUIP5ip318Uq4J) | 3:07 |
 | 41 | [בוקר טוב יא בני זונות](https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [כאב ודמעות 2](https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA) | 3:37 |
 | 42 | [מראה לי את השקט](https://open.spotify.com/track/1d1BNBeoKCGJNg3rHHGcco) | [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [מראה לי את השקט](https://open.spotify.com/album/4BeqL7VHszyjTMarotAZBI) | 3:36 |
-| 43 | [כמו הדובים](https://open.spotify.com/track/1q0GlKlKUZsY7q69T5L6vz) | [Mashina](https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g) | [כמו הדובים](https://open.spotify.com/album/6wHWOEHQsSGTzJnOHOjq3y) | 3:47 |
-| 44 | [כישוף נגדי](https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj) | [כישוף נגדי](https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu) | 4:08 |
+| 43 | [כישוף נגדי](https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj) | [כישוף נגדי](https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu) | 4:08 |
+| 44 | [כמו הדובים](https://open.spotify.com/track/1q0GlKlKUZsY7q69T5L6vz) | [Mashina](https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g) | [כמו הדובים](https://open.spotify.com/album/6wHWOEHQsSGTzJnOHOjq3y) | 3:47 |
 | 45 | [טאם טאם](https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [ליעם חכמון](https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh) | [טאם טאם](https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z) | 2:56 |
 | 46 | [ניצן](https://open.spotify.com/track/47OCPqYwCd6b4UNVsj64OJ) | [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4), [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [ניצן](https://open.spotify.com/album/7nSMzoR5c5WU7dPE2tTVbi) | 3:55 |
 | 47 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 |

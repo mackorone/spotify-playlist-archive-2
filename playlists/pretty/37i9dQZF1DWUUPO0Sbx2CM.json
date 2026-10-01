@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 240294,
+  "num_followers": 240328,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Love Theory",
-        "url": "https://open.spotify.com/album/6zEA4NTSlgfwDCPgLCX2iL"
+        "name": "God Is Love",
+        "url": "https://open.spotify.com/album/3raWYstLV7sZ5AlOEs63Us"
       },
       "artists": [
         {
-          "name": "Judy Jay",
-          "url": "https://open.spotify.com/artist/5q8RThTZw42cwyqNGBnUIA"
+          "name": "Vision of Leo",
+          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
         },
         {
-          "name": "Oscar Mbo",
-          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+        },
+        {
+          "name": "Nyman",
+          "url": "https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT"
         }
       ],
-      "duration_ms": 482760,
-      "name": "Love Theory",
-      "url": "https://open.spotify.com/track/0bZk2SKsbkdeWskMZ3fPUQ"
+      "duration_ms": 222721,
+      "name": "God Is Love",
+      "url": "https://open.spotify.com/track/1bOZu4FZQPrXZ5jFjYSmGQ"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -183,26 +187,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "God Is Love",
-        "url": "https://open.spotify.com/album/3raWYstLV7sZ5AlOEs63Us"
+        "name": "Love Theory",
+        "url": "https://open.spotify.com/album/6zEA4NTSlgfwDCPgLCX2iL"
       },
       "artists": [
         {
-          "name": "Vision of Leo",
-          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
+          "name": "Judy Jay",
+          "url": "https://open.spotify.com/artist/5q8RThTZw42cwyqNGBnUIA"
         },
         {
-          "name": "Edgar Sandoval Jr",
-          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
-        },
-        {
-          "name": "Nyman",
-          "url": "https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT"
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
         }
       ],
-      "duration_ms": 222721,
-      "name": "God Is Love",
-      "url": "https://open.spotify.com/track/1bOZu4FZQPrXZ5jFjYSmGQ"
+      "duration_ms": 482760,
+      "name": "Love Theory",
+      "url": "https://open.spotify.com/track/0bZk2SKsbkdeWskMZ3fPUQ"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Can't Stop Me Now (Gregatron Remix)",
-        "url": "https://open.spotify.com/album/3K2wuCt4XibD9h49gkbKPn"
-      },
-      "artists": [
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        },
-        {
-          "name": "Gregatron",
-          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
-        }
-      ],
-      "duration_ms": 142588,
-      "name": "Can't Stop Me Now - Gregatron Remix",
-      "url": "https://open.spotify.com/track/3UMrk48HddibQGSFS9Q6T8"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "ANOTHER WAY (26th Junction Remix)",
         "url": "https://open.spotify.com/album/3YN1YjzsFHqSHaaNnCy9rz"
       },
@@ -783,6 +763,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Can't Stop Me Now (Gregatron Remix)",
+        "url": "https://open.spotify.com/album/3K2wuCt4XibD9h49gkbKPn"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Gregatron",
+          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
+        }
+      ],
+      "duration_ms": 142588,
+      "name": "Can't Stop Me Now - Gregatron Remix",
+      "url": "https://open.spotify.com/track/3UMrk48HddibQGSFS9Q6T8"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Perfect Duet",
         "url": "https://open.spotify.com/album/64AXj367n2UZH9EnM6UrFZ"
       },
@@ -823,6 +823,30 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Move (Remixes)",
+        "url": "https://open.spotify.com/album/3Bl4P0Vz2KijX8BrGzOFcF"
+      },
+      "artists": [
+        {
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Bruninho Music",
+          "url": "https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Move - Gui Brazil & Bruninho Music Remix",
+      "url": "https://open.spotify.com/track/5irlMDKsADoAWrZM29bXYx"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/1JZc8NYUgV69snK0a2tur3"
       },
@@ -847,30 +871,6 @@
       "duration_ms": 130153,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/1NyHiKFrCnfjF4PLC67plt"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Move (Remixes)",
-        "url": "https://open.spotify.com/album/3Bl4P0Vz2KijX8BrGzOFcF"
-      },
-      "artists": [
-        {
-          "name": "LIN D",
-          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Bruninho Music",
-          "url": "https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Move - Gui Brazil & Bruninho Music Remix",
-      "url": "https://open.spotify.com/track/5irlMDKsADoAWrZM29bXYx"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Save Me (Illingworth Remix)",
+        "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
+      },
+      "artists": [
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        },
+        {
+          "name": "Illingworth",
+          "url": "https://open.spotify.com/artist/4xXLZBKSGXTCOuQGEzGPRQ"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Save Me (Illingworth Remix)",
+      "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "You Love Me",
         "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
       },
@@ -1471,26 +1491,6 @@
       "duration_ms": 193208,
       "name": "You Love Me",
       "url": "https://open.spotify.com/track/5CN6apmJuMUUKbdc4zKyRC"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Save Me (Illingworth Remix)",
-        "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        },
-        {
-          "name": "Illingworth",
-          "url": "https://open.spotify.com/artist/4xXLZBKSGXTCOuQGEzGPRQ"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Save Me (Illingworth Remix)",
-      "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
-      },
-      "artists": [
-        {
-          "name": "Petrina DeLacey",
-          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 178764,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
+      },
+      "artists": [
+        {
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        },
+        {
+          "name": "Fredrik Ferrier",
+          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+        }
+      ],
+      "duration_ms": 232802,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "GRACE OF GOD",
         "url": "https://open.spotify.com/album/49ckozfEQnoxWzqcYvZMKc"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 164000,
       "name": "GRACE OF GOD - GOSPEL AMAPIANO",
       "url": "https://open.spotify.com/track/6wWkqH634OUM6Hm2bwDtli"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
-      },
-      "artists": [
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        },
-        {
-          "name": "Fredrik Ferrier",
-          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
-        }
-      ],
-      "duration_ms": 232802,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "You Ain't",
-        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "You Ain't",
-      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/407AveS1NrLvzxwqB2UQPI"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 171467,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6RUgbYZv69Kd28d5UO76pK"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "You Ain't",
+        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "You Ain't",
+      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Floating (okay.benny Remix)",
-        "url": "https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU"
-      },
-      "artists": [
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
-        },
-        {
-          "name": "okay.benny",
-          "url": "https://open.spotify.com/artist/33apsEp4wvDgls8ZXdFp8x"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Floating - okay.benny Remix",
-      "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Praise His Holy Name (House Remix)",
         "url": "https://open.spotify.com/album/0dDoWCItCHVkXts89g2QOf"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 245118,
       "name": "Praise His Holy Name - House Remix",
       "url": "https://open.spotify.com/track/6jnlYWmuU2c3jvN0J0bIZV"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Floating (okay.benny Remix)",
+        "url": "https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU"
+      },
+      "artists": [
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "okay.benny",
+          "url": "https://open.spotify.com/artist/33apsEp4wvDgls8ZXdFp8x"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Floating - okay.benny Remix",
+      "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "How He Works",
+        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
+      },
+      "artists": [
+        {
+          "name": "Ish D",
+          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "How He Works",
+      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/5aUZSoMm6jfVlJ9BO0dLsc"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 173333,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "How He Works",
-        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
-      },
-      "artists": [
-        {
-          "name": "Ish D",
-          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "How He Works",
-      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
     },
     {
       "added_at": "2026-08-18 23:12:48",

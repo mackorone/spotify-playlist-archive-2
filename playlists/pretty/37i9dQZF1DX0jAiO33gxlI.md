@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Emicida, Puro Suco
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,022 likes - 87 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,028 likes - 87 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 19 | [Espirito Maloka](https://open.spotify.com/track/7F3l4wx0fEpkkha55ufMmk) | [KOVY](https://open.spotify.com/artist/0i0cvYipeELJcNl9l8jLLK), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [nabru](https://open.spotify.com/artist/3vL4zu2elGxz6DPPlOz2s3) | [Espírito Maloka](https://open.spotify.com/album/10AQen1OPlTZtgykm16Mp9) | 3:24 |
 | 20 | [Lobo da Matilha](https://open.spotify.com/track/5xLB3x5SgZFesp4FRgVgVm) | [Mrasta](https://open.spotify.com/artist/4LATAzZazW5gcrunD9TMLs), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Lobo da Matilha](https://open.spotify.com/album/71db0xs4llmuEjOnN21ClY) | 2:07 |
 | 21 | [Calor!](https://open.spotify.com/track/2XGPqsZeDcciVklnhLswAH) | [Dário Inerente](https://open.spotify.com/artist/1NKiimXkmC2cFdhaE5z6y9), [Matheus Coringa](https://open.spotify.com/artist/3dZNzNVuTLL2UlQCkyEQqF) | [Os Atabaques são Clarins de Guerra](https://open.spotify.com/album/0x7NqGGb6iNifDjACgqjBl) | 2:42 |
-| 22 | [Ritual do Kkkkakau](https://open.spotify.com/track/11JQ5fkVzFwP5AdmhuNj8l) | [Oreia](https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Ritual do Kkkkakau](https://open.spotify.com/album/2uxgESrZ8ZaZkj8KAI9hdZ) | 2:17 |
+| 22 | [Ritual do KKKkakau](https://open.spotify.com/track/11JQ5fkVzFwP5AdmhuNj8l) | [Oreia](https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Ritual do KKKkakau](https://open.spotify.com/album/2uxgESrZ8ZaZkj8KAI9hdZ) | 2:17 |
 | 23 | [Para Tio](https://open.spotify.com/track/6MQ6LsPGDdCuQyTjPG0RcS) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [LR Beats](https://open.spotify.com/artist/76QB68tHPxjNOhncwYE0J7), [Damien Seth](https://open.spotify.com/artist/2CvIpYTTcWpSSINyjUNLvM), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [RPB/Para Tio](https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw) | 3:46 |
 | 24 | [BAD GIRLS](https://open.spotify.com/track/28H79LOsZpD1jxV4bKGL5q) | [Janvi](https://open.spotify.com/artist/2tPIG7AhyjtuKf58E5SFaJ), [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Alta Rec](https://open.spotify.com/artist/4S88NckzXHTMwvXw7kY0Ii) | [BAD GIRLS](https://open.spotify.com/album/0CTyDptsTvczlCCLkj4wCb) | 2:31 |
 | 25 | [Encontro](https://open.spotify.com/track/1FPm76VfDY4Y6itfVoJOK6) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [outro lado](https://open.spotify.com/artist/3QmFq43WZx7c0kgBHLgVX6) | [Encontro e Recomeço](https://open.spotify.com/album/3PFNQdlspYrW0dJQ7VBBrc) | 4:05 |

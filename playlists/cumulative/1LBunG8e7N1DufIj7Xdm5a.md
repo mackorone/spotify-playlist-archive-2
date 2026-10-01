@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,840 songs - 10 day 22 hr 23 min
+4,841 songs - 10 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2470,6 +2470,7 @@
 | [Lords](https://open.spotify.com/track/7CI4lwk5dEomnWegEHvbal) | [Barbarism.](https://open.spotify.com/artist/0YAuUyYQorYBXjGmU3iwte) | [Lords](https://open.spotify.com/album/6fsM1TNobd8BCj66xeSrwd) | 3:04 | 2025-06-22 |  |
 | [Lorraine](https://open.spotify.com/track/2SgsH5kqwcLJZF2UFaxPzu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 1:53 | 2025-11-05 |  |
 | [Los sueños](https://open.spotify.com/track/5jxupTeXqVCshsgtOWh0xr) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:10 | 2026-03-15 |  |
+| [Losing Control](https://open.spotify.com/track/24x8zbSJ72uRWc6xM63Idy) | [Mindscape Lab](https://open.spotify.com/artist/62CykolqF4eLYT5Q01D236) | [Deep Pression II – Relapse](https://open.spotify.com/album/35boMnlPM2sKvgjmM6aoe4) | 2:53 | 2026-09-30 |  |
 | [Lost](https://open.spotify.com/track/1E76p7PxlTz1CH4cnL6ixq) | [returnthemap](https://open.spotify.com/artist/6F3N9QmbCAjRGbxTF5Hvug) | [The Voight\-Kampff Test](https://open.spotify.com/album/6DqOPQwdjFqVa1b8Iut0fy) | 4:09 | 2025-04-30 |  |
 | [Lost and Found](https://open.spotify.com/track/3qmTYEoQo7IwEsajEfFxfn) | [Cane Rouge](https://open.spotify.com/artist/1uiVgmOdSFSlgDfbJx1rJw) | [Lost and Found](https://open.spotify.com/album/1YRH642XRDebs2vrnsxw4k) | 3:30 | 2026-08-10 |  |
 | [Lost Control](https://open.spotify.com/track/3D5ZfB279M2mHYo06nMxLL) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 2:24 | 2025-09-20 |  |

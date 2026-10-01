@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-525 songs - 1 day 0 hr 48 min
+526 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Prana](https://open.spotify.com/track/2I8w8s0lKS1ZT4onSKB7k7) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Bhakti](https://open.spotify.com/album/01pQqb89FcBuQnE2KDdFyl) | 2:48 | 2023-04-28 | 2025-05-22 |
 | [Quiet Mist](https://open.spotify.com/track/1bGwPUE5Y312J39hfnYhrg) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Quiet Mist](https://open.spotify.com/album/7ccIHSSph5aU2ILrApAONS) | 2:19 | 2026-02-23 | 2026-04-04 |
 | [Quiet Radiance](https://open.spotify.com/track/1IAuMjuOkqm4FGV0WvCIvi) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Quiet Radiance](https://open.spotify.com/album/55nDL0v3OpLtcAaiAF0jGW) | 2:47 | 2026-08-19 |  |
+| [Quiet Shelter](https://open.spotify.com/track/4hptp8h4v6Y5rbeGETiWtE) | [Softfield](https://open.spotify.com/artist/3fAsMj4bHch8mjQ3wf5BOV) | [Quiet Shelter](https://open.spotify.com/album/3FcwagZjk8Dt01B5MHvk3w) | 2:27 | 2026-09-21 |  |
 | [Quietude](https://open.spotify.com/track/36nQpufEYzDmPgstzJd6l2) | [Eves Haven](https://open.spotify.com/artist/3aluZDXupxEPepTqjSMdOT) | [Quietude](https://open.spotify.com/album/50IfTSztYG6d57ECN2t1Ub) | 2:48 | 2026-08-19 |  |
 | [Radiant Recovery](https://open.spotify.com/track/6vrIfscwRw6648jkgY5JUO) | [Ambienne](https://open.spotify.com/artist/2TnYJIoylPdjQiWJPYsKhu) | [Radiant Recovery](https://open.spotify.com/album/7laP0oMseLBZjSjM912dh2) | 2:28 | 2025-05-28 | 2026-02-12 |
 | [Radura](https://open.spotify.com/track/1fZ2qoDTQB9VoMhNdb3wsh) | [Silentia Natura](https://open.spotify.com/artist/66451HoublFc32cocZpJjd) | [Radura](https://open.spotify.com/album/5aYpBEovuAH7MSZ5te2yCj) | 2:42 | 2026-07-03 |  |
@@ -419,7 +420,7 @@
 | [Solemn Echo](https://open.spotify.com/track/5NtSWnA98CIXpE6HloLurX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Solemn Echo](https://open.spotify.com/album/4b8EHzObZBqI6KXyU3DE2g) | 2:12 | 2023-04-28 | 2025-04-21 |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2023-04-28 | 2023-05-27 |
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-22 | 2026-04-04 |
-| [Song of the Forest](https://open.spotify.com/track/25pX7clkjhZ0Nd9vsNxWnz) | [Silent Peaks](https://open.spotify.com/artist/78cVzWtdhDa6Mfx5uKo0YV) | [Song of the Forest](https://open.spotify.com/album/0ZpNKgschn5HdrmjXZIh9T) | 3:05 | 2026-04-03 |  |
+| [Song of the Forest](https://open.spotify.com/track/25pX7clkjhZ0Nd9vsNxWnz) | [Silent Peaks](https://open.spotify.com/artist/78cVzWtdhDa6Mfx5uKo0YV) | [Song of the Forest](https://open.spotify.com/album/0ZpNKgschn5HdrmjXZIh9T) | 3:05 | 2026-04-03 | 2026-10-01 |
 | [Soothing Ripples](https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct) | [Applied Rest](https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX) | [Soothing Ripples](https://open.spotify.com/album/4c2ImLyXKB23EToI6NP8UE) | 2:49 | 2023-04-28 | 2025-03-02 |
 | [Soothing River Currents](https://open.spotify.com/track/5wadEWywibUs6MUP61h8kE) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Soothing River Currents](https://open.spotify.com/album/74sFp2e1f4L9PKjonje0J5) | 2:50 | 2023-12-01 | 2025-02-13 |
 | [Sound Of Morning](https://open.spotify.com/track/1Q2DZ6TvsmuZtsOvuqpLnJ) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Sound of Morning](https://open.spotify.com/album/2KH6p1kYs3ThudS0qpyr4u) | 2:51 | 2026-04-03 | 2026-06-27 |

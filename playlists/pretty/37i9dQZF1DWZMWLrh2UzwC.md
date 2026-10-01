@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Taylor Swift, ILLIT,  Hebe Tien, Hael Husaini, Mimifly, DOLLA, and many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,890 likes - 110 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,889 likes - 110 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 16 | [Read My Mind](https://open.spotify.com/track/2d3d9Y7lH6Or7LDljxxG9v) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Read My Mind](https://open.spotify.com/album/45ChFxMQZhJsRsCblN25XS) | 2:21 |
 | 17 | [Fleabag \(feat\. Paolo Sandejas\)](https://open.spotify.com/track/7xRga53GguD9bLi2NtaIv3) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Fleabag \(feat\. Paolo Sandejas\)](https://open.spotify.com/album/1e36Xz5KJvTY3zVjVWIi8h) | 2:53 |
 | 18 | [Can't Stop Won't Stop](https://open.spotify.com/track/6DgSaqiCxtZUeZBfF9HIa8) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [Can't Stop Won't Stop](https://open.spotify.com/album/7zFvxLmlFUbV0SZtvGNB2c) | 2:38 |
-| 19 | [Like Me \(feat\. Jay Park\)](https://open.spotify.com/track/2jCh0Xaz6NQwCTB2PeFIZo) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Like Me \(feat\. Jay Park\)](https://open.spotify.com/album/11su08u4jWbdzZL60bAvoP) | 3:42 |
+| 19 | [LIKE ME \(feat\. Jay Park\)](https://open.spotify.com/track/2jCh0Xaz6NQwCTB2PeFIZo) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [LIKE ME \(feat\. Jay Park\)](https://open.spotify.com/album/11su08u4jWbdzZL60bAvoP) | 3:42 |
 | 20 | [Change](https://open.spotify.com/track/3uGBIAD7oz5rSBOVBHrATQ) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Change](https://open.spotify.com/album/5Kip3tzC2TuLVIgAvY6YgL) | 3:52 |
 | 21 | [Nobody Wanna Dance Anymore](https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:20 |
 | 22 | [Grandma Song](https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Grandma Song](https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I) | 3:03 |

@@ -3224,7 +3224,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 193767,
       "name": "Ghoom Ghoom - From \u201cMirzapur The Movie\u201d",
       "url": "https://open.spotify.com/track/3TZ0uKl0RVbc7vAfcc1Qle"
@@ -5242,6 +5242,40 @@
       "duration_ms": 229947,
       "name": "Munda Sona Hoon Main (From \"Shehzada\")",
       "url": "https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE"
+    },
+    {
+      "album": {
+        "name": "Baaghi 2",
+        "url": "https://open.spotify.com/album/2zVzYeNSylXPUUungjtXz4"
+      },
+      "artists": [
+        {
+          "name": "Navraj Hans",
+          "url": "https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K"
+        },
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        {
+          "name": "Sandeep Shirodkar",
+          "url": "https://open.spotify.com/artist/3Ma3jCLuyYvZCELx5WQHCd"
+        },
+        {
+          "name": "Panjabi MC",
+          "url": "https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR"
+        },
+        {
+          "name": "Ginny Diwan",
+          "url": "https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210183,
+      "name": "Mundiyan",
+      "url": "https://open.spotify.com/track/1gzbyTeCNZkgicRGX9TXl6"
     },
     {
       "album": {

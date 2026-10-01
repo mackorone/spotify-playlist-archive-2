@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 267782,
+  "num_followers": 267778,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Navisad",
-        "url": "https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI"
-      },
-      "artists": [
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        }
-      ],
-      "duration_ms": 186775,
-      "name": "Navisad",
-      "url": "https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "Lleg\u00f3 la Navidad",
         "url": "https://open.spotify.com/album/41BtvGvCv8JpWl3RXFEZdI"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 245792,
       "name": "Lleg\u00f3 la Navidad",
       "url": "https://open.spotify.com/track/6kmwUkaKQMGxQGpS52r1Pt"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Navisad",
+        "url": "https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "duration_ms": 186775,
+      "name": "Navisad",
+      "url": "https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -999,6 +999,42 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
+        "name": "Duende",
+        "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
+      },
+      "artists": [
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 166891,
+      "name": "Duende",
+      "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "este diciembre.",
+        "url": "https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "este diciembre.",
+      "url": "https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -1043,42 +1079,6 @@
       "duration_ms": 236200,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "Duende",
-        "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
-      },
-      "artists": [
-        {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 166891,
-      "name": "Duende",
-      "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "este diciembre.",
-        "url": "https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "este diciembre.",
-      "url": "https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "triste navidad",
-        "url": "https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "triste navidad",
-      "url": "https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "Mu\u00f1eco de Nieve",
         "url": "https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 170856,
       "name": "Mu\u00f1eco de Nieve",
       "url": "https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 195842,
+      "name": "Last Christmas - Spanish Version",
+      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+        "name": "triste navidad",
+        "url": "https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z"
       },
       "artists": [
         {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
         }
       ],
-      "duration_ms": 195842,
-      "name": "Last Christmas - Spanish Version",
-      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
+      "duration_ms": 195882,
+      "name": "triste navidad",
+      "url": "https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
+        "name": "Una Navidad Sin Nieve",
+        "url": "https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "Una Navidad Sin Nieve",
+      "url": "https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
         "name": "voy a pedirte a ti (esta navidad)",
         "url": "https://open.spotify.com/album/6908QdGAaGa7S4qMDHwXVG"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 145876,
       "name": "Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "Una Navidad Sin Nieve",
-        "url": "https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "Una Navidad Sin Nieve",
-      "url": "https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA"
     },
     {
       "added_at": "2026-08-28 04:02:14",

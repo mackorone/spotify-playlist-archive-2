@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: mellowmie\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Chaca Trisha\. Artwork: Isu Kim.
 
-1,524 songs - 3 day 11 hr 37 min
+1,526 songs - 3 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [I DON'T BELIEVE IN KARMA](https://open.spotify.com/track/5I48AHwTDwTvJKX61dbVjS) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [I DON'T BELIEVE IN KARMA](https://open.spotify.com/album/5aI4fIMlufpLaZfgGAKsUR) | 2:52 | 2024-08-29 | 2025-01-18 |
 | [I Don't Mind](https://open.spotify.com/track/3DzYmaYp3RIFYsn4WF9W22) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt), [Karena Yeo](https://open.spotify.com/artist/3aHgoRddVvpmmaci2RNzZj), [Vessail](https://open.spotify.com/artist/5BkvrjwohNWFvwYUJ1jxnZ) | [I Don't Mind](https://open.spotify.com/album/5sT9gxDFo7toJBGbZEktqS) | 3:05 | 2022-01-13 | 2023-01-13 |
 | [i don't wanna](https://open.spotify.com/track/2kSRbzzPiqNs4l9SpYOTvp) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [i don't wanna](https://open.spotify.com/album/7l1jU052bwN9KiQkHJEbeH) | 2:24 | 2024-11-21 | 2025-04-04 |
+| [i don't wanna go home](https://open.spotify.com/track/10JofTB56nF5Xoe3oVm76w) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26) | [i don't wanna go home](https://open.spotify.com/album/1Tl7lic5DwxusjIte0xw1U) | 3:41 | 2026-09-30 |  |
 | [I Don't Want To Say Goodbye](https://open.spotify.com/track/2PLQ9KQfTaucJsHrEcJz87) | [Bell 傅熙雅](https://open.spotify.com/artist/1LsBLrIZjFwXgXmhUvroDS) | [I Don't Want To Say Goodbye](https://open.spotify.com/album/4chGqhYRyIU2M2lMXykRA7) | 4:34 | 2025-11-07 | 2026-05-07 |
 | [i dont wanna die tonight.flp](https://open.spotify.com/track/6vJEKuvTTjDJI6VNs6Bzfk) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [i dont wanna die tonight.flp](https://open.spotify.com/album/5x9XJVavdSkb3iDV1lyoJz) | 2:47 | 2025-07-31 | 2025-08-16 |
 | [I Dont Want To...](https://open.spotify.com/track/42gjYpiniGz2AZPL76X0rE) | [Elsa Mickayla](https://open.spotify.com/artist/7HA7Xpc6jxV0orcFXWJDe7), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ) | [I Don't Want To ...](https://open.spotify.com/album/4GgED97dwnXTC5JgfxeUYb) | 2:26 | 2026-01-30 | 2026-03-21 |
@@ -1105,6 +1106,7 @@
 | [Situation](https://open.spotify.com/track/2oSZC5ZHEeIQnxRv9cChip) | [Cleo Megido](https://open.spotify.com/artist/1FY6L1PfzeFm8kSrLM8yhm) | [Situation](https://open.spotify.com/album/1WzQHb84Eyt1gMjArWXI6V) | 2:45 | 2025-08-15 | 2025-09-27 |
 | [Situations](https://open.spotify.com/track/222sLcHSr2G02KO2UsDvD5) | [FAIZ NAJIB](https://open.spotify.com/artist/78hQ6M1odAot8GMRUWHiWw), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [Situations](https://open.spotify.com/album/0jx0nDMQUOFzMEropctFLZ) | 3:00 | 2023-06-22 | 2023-11-10 |
 | [Situationshit](https://open.spotify.com/track/3Y47jggwLcHeb3UdD4cEoM) | [JEANTONIC](https://open.spotify.com/artist/7qCy3fmej0SUb1DJ5wOsXp), [DylanHing](https://open.spotify.com/artist/0fJGSPa3GA3WshZq490glo) | [Situationshit](https://open.spotify.com/album/0ZjPBaGiuLtSd76NvAPnUe) | 3:34 | 2024-11-21 | 2025-04-04 |
+| [Slalu Sayang Kamu](https://open.spotify.com/track/72AdERsw4exCLPIG2M0oQ5) | [Chaca Trisha](https://open.spotify.com/artist/02geLTFdneffT5CtaO0rqt) | [Slalu Sayang Kamu](https://open.spotify.com/album/2O8FvWnKtGDF68K6JNuy6A) | 3:10 | 2026-09-30 |  |
 | [SLAPS](https://open.spotify.com/track/3QKkjdxFCYjxMMKXJPhXsk) | [Leeray](https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr) | [SLAPS](https://open.spotify.com/album/528zekoEYve0u7eBYJuWOa) | 3:15 | 2025-09-12 | 2025-11-08 |
 | [Sleeping Issues](https://open.spotify.com/track/5Xlrs3PoyDxPXCuoD2mcvu) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Sleeping Issues](https://open.spotify.com/album/3bqQjnvAmhUKI2wbDsz3Ew) | 3:49 | 2024-08-29 | 2025-05-10 |
 | [SLIDE](https://open.spotify.com/track/3mxTCFQ5GCAvhkFBt1lJPb) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [SLIDE](https://open.spotify.com/album/7ASEKgcGL4UUFArYgUXiXk) | 2:33 | 2023-02-17 | 2023-06-23 |

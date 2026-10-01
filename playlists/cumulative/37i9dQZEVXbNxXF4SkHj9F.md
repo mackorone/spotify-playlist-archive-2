@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,192 songs - 4 day 23 hr 50 min
+2,193 songs - 4 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Countdown!](https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 3rd Mini Album 'TRY WITH US'](https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y) | 2:30 | 2025-04-25 | 2025-05-10 |
 | [COUNTER](https://open.spotify.com/track/0oDDoTLcHPMnHJNmB2Ts40) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:58 | 2024-09-04 | 2024-09-06 |
 | [Counting Stars](https://open.spotify.com/track/4MokmgyM83qhJ6IAaChom5) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Counting Stars](https://open.spotify.com/album/4OJ5SXGLH3wIvsUsFuV8g8) | 2:31 | 2021-12-14 | 2022-03-30 |
+| [CRASH](https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S) | 2:52 | 2026-09-30 |  |
 | [Crash Landing](https://open.spotify.com/track/66eZq38bO1ofzmpNa02XiL) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:24 | 2022-09-17 | 2022-09-19 |
 | [Crazier](https://open.spotify.com/track/3druZC9WrM7UUv82PX0SfA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:58 | 2024-08-31 | 2024-09-02 |
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-31 | 2024-09-04 |
@@ -1684,7 +1685,7 @@
 | [Siren Remix \(Feat\. UNEDUCATED KID, Paul Blanco\)](https://open.spotify.com/track/2S9FuNX2H2cCwxcIoTUtbM) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Siren Remix](https://open.spotify.com/album/5c84PfOOqKLuE8WTtsgqbn) | 3:17 | 2021-05-06 | 2021-05-22 |
 | [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-07-31 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-08-01 | 2021-08-29 |
-| [Skibidi](https://open.spotify.com/track/2L1dsjU3R3U4SX27qIiPrq) | [Girls' Generation\-HRS](https://open.spotify.com/artist/1wlgozUz29VEBQxMDqQFK1) | [Skibidi](https://open.spotify.com/album/1gOc9AX3LDW6Q84YCDO0Wq) | 2:46 | 2026-09-08 |  |
+| [Skibidi](https://open.spotify.com/track/2L1dsjU3R3U4SX27qIiPrq) | [Girls' Generation\-HRS](https://open.spotify.com/artist/1wlgozUz29VEBQxMDqQFK1) | [Skibidi](https://open.spotify.com/album/1gOc9AX3LDW6Q84YCDO0Wq) | 2:46 | 2026-09-08 | 2026-10-01 |
 | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/album/3AbzaZmgL010EmQ79G48IG) | 3:39 | 2024-11-22 | 2025-01-11 |
 | [SKY PASS \(Feat\. BOBBY\) \(Prod\. by GRAY\)](https://open.spotify.com/track/0eyMfW9Y8Ogmc5VCF4Sb7s) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb), [MASON HOME](https://open.spotify.com/artist/6fUWivVaWaEgN2G0m7c0Wa), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [Show Me The Money 12 Episode 2](https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ) | 5:01 | 2026-03-21 | 2026-04-16 |
 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 | 2021-05-21 | 2021-05-23 |

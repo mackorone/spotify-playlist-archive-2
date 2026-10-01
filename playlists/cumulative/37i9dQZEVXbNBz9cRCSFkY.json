@@ -1965,6 +1965,28 @@
     },
     {
       "album": {
+        "name": "Baby 123",
+        "url": "https://open.spotify.com/album/6z2T61xva7VFBk7a2rUmrx"
+      },
+      "artists": [
+        {
+          "name": "RAPROJECT SIX",
+          "url": "https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59"
+        },
+        {
+          "name": "MADAM SAUCE",
+          "url": "https://open.spotify.com/artist/3yL6zbQBFZbBp2cUG38Eu2"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176105,
+      "name": "Baby 123",
+      "url": "https://open.spotify.com/track/3chBLXLQgj1KB2h1KgQxmF"
+    },
+    {
+      "album": {
         "name": "Taste of Love",
         "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
       },
@@ -3792,7 +3814,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 164307,
       "name": "Chinay",
       "url": "https://open.spotify.com/track/64yMq9uyHZKSxaM4eRIrv1"
@@ -5342,7 +5364,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
@@ -9800,7 +9822,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -13708,7 +13730,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 349750,
       "name": "Mundo",
       "url": "https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw"
@@ -17082,7 +17104,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 250058,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/7o1BMqnl3zLTd7RrF4oVTg"
@@ -18304,7 +18326,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 280426,
       "name": "Sino",
       "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
@@ -19902,7 +19924,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 195428,
       "name": "Tahanan",
       "url": "https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A"

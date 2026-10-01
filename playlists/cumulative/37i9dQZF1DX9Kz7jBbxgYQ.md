@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Aksomaniac
 
-397 songs - 22 hr 16 min
+398 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Dhundhala](https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J) | 3:02 | 2022-07-15 | 2022-09-02 |
 | [DIL](https://open.spotify.com/track/2K8Y8VO3HKRJYPVzwSjhWb) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [DIL](https://open.spotify.com/album/2LOj2BVeI7t31gmPoZrBBe) | 2:50 | 2023-07-14 | 2023-09-09 |
 | [Dil de Bol](https://open.spotify.com/track/7pnzuSzXn8QmiTjXHCi304) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Dil de Bol](https://open.spotify.com/album/73C1xLVTjBxIT89yzEAtHi) | 3:13 | 2022-12-28 | 2024-07-27 |
-| [Dil Kay Isharay](https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Dil Kay Isharay](https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv) | 3:08 | 2022-07-15 |  |
+| [Dil Kay Isharay](https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Dil Kay Isharay](https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv) | 3:08 | 2022-07-15 | 2026-10-01 |
 | [Dil Mere](https://open.spotify.com/track/0XF0D8HL9gk2sr9tlFOee3) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 3:31 | 2023-11-29 | 2024-04-19 |
 | [Dil Mere](https://open.spotify.com/track/6ZmtxXUXRVjxOhugKkmerC) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:31 | 2023-01-12 |  |
 | [Dil Se](https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Dil Se](https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg) | 4:17 | 2026-03-05 |  |
@@ -210,6 +210,7 @@
 | [Kon Ae Tu?](https://open.spotify.com/track/4jIVye9jAjdr0M7tqwJFHv) | [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Syed Hamza](https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ), [Aalehaider Gillani](https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA) | [Kon Ae Tu?](https://open.spotify.com/album/6wyTkLCl6L8jUHDyT8r7No) | 2:43 | 2025-08-01 | 2025-08-23 |
 | [KTMBK](https://open.spotify.com/track/1XmoGNf6OVs6N251UejkbN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [KTMBK](https://open.spotify.com/album/2KH6uB4BxcBqcBfZ5Rh7Pr) | 2:34 | 2022-05-20 | 2025-11-27 |
 | [KTMBK](https://open.spotify.com/track/4R8VBRb5nKbEfi1EIA2B7p) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:34 | 2023-11-29 | 2024-01-13 |
+| [Kuch Toh Hai Yahan](https://open.spotify.com/track/6Lfn1GiEJZB4XSvDpRpbWV) | [OutStation](https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH) | [Kuch Toh Hai Yahan](https://open.spotify.com/album/0msPrwR0zs2nsv8I1B4SuB) | 2:53 | 2026-09-30 |  |
 | [Kundi](https://open.spotify.com/track/2qRGcuJlvSXCkd0KYDywKr) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [blal bloch](https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:58 | 2023-10-03 | 2023-11-16 |
 | [Kya sach ho tum?](https://open.spotify.com/track/7iQxWIYGzTkkLWlUscD4HP) | [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Kya sach ho tum?](https://open.spotify.com/album/0jQ4tYapUB62uhzoIEPE1n) | 3:30 | 2025-07-01 |  |
 | [Laayee Mohabbat](https://open.spotify.com/track/1j0WqABtu73oIgtqzGIiP4) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA), [Qulid](https://open.spotify.com/artist/2CV0KIicosK2RGWjpil0Wp) | [Laayee Mohabbat](https://open.spotify.com/album/334JZbhqXvJUdSDzXph9DN) | 3:07 | 2024-01-05 | 2024-01-27 |

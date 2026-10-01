@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Sijya",
+  "description": "The best new music by independent artists and labels in India. Cover - Vardaan Malhotra",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -4884,6 +4884,24 @@
       "duration_ms": 231978,
       "name": "Blood-Starved Beast",
       "url": "https://open.spotify.com/track/0UzkzenY82eqZMtaNcvr7R"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1ovrqBV0ZyHfhFAmC2aIat"
+      },
+      "artists": [
+        {
+          "name": "The DANGERMEN",
+          "url": "https://open.spotify.com/artist/3r265DJWlrPiBBesljZ1Be"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258351,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/54WDZ7mgS2uQboApoaND6L"
     },
     {
       "album": {
@@ -18433,6 +18451,24 @@
     },
     {
       "album": {
+        "name": "Khatt",
+        "url": "https://open.spotify.com/album/4WFWcXUVdDoftiLhIk285A"
+      },
+      "artists": [
+        {
+          "name": "Vardaan Malhotra",
+          "url": "https://open.spotify.com/artist/6lRDtA49QAi4epkE8Xw27Q"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253220,
+      "name": "Khatt",
+      "url": "https://open.spotify.com/track/1Z2Pbh8juZxAZvk55M0wkr"
+    },
+    {
+      "album": {
         "name": "Khayaal",
         "url": "https://open.spotify.com/album/4RVe0cnS14fSM9Qr9hVbl7"
       },
@@ -26104,7 +26140,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 118997,
       "name": "Old Curse New Sight",
       "url": "https://open.spotify.com/track/1EDzTbUlHArgIk92vgfdup"
@@ -37922,7 +37958,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 215854,
       "name": "Waiting on Nothing",
       "url": "https://open.spotify.com/track/5IAd2YfP8ificqniAaaRyp"

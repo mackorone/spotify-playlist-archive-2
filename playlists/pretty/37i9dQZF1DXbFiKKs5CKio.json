@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73467,
+  "num_followers": 73473,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-09-18 03:03:04",
       "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "Romance Fora de Hora",
+      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
+    },
+    {
+      "added_at": "2026-09-18 03:03:04",
+      "album": {
         "name": "Fiquei assim",
         "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 218662,
       "name": "Fiquei assim",
       "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
-    },
-    {
-      "added_at": "2026-09-18 03:03:04",
-      "album": {
-        "name": "FORA DA LEI",
-        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 186396,
-      "name": "FORA DA LEI",
-      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
     },
     {
       "added_at": "2026-09-18 03:03:04",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-09-18 03:03:04",
       "album": {
-        "name": "Na Mi\u00fada",
-        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+        "name": "FORA DA LEI",
+        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
       },
       "artists": [
         {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
         }
       ],
-      "duration_ms": 164131,
-      "name": "Romance Fora de Hora",
-      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
+      "duration_ms": 186396,
+      "name": "FORA DA LEI",
+      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
     },
     {
       "added_at": "2026-09-18 03:03:04",

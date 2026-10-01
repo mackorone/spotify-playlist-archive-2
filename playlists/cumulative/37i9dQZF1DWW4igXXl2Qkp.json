@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: Biggs money",
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: Wxoda",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -2784,6 +2784,28 @@
       "duration_ms": 193134,
       "name": "American Deli (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/2GwOIEVXMZPGEJjSBF7lcp"
+    },
+    {
+      "album": {
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/6TexSEUgITnpxzAAaYA3hj"
+      },
+      "artists": [
+        {
+          "name": "Younginsosleaze",
+          "url": "https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o"
+        },
+        {
+          "name": "Aflacko",
+          "url": "https://open.spotify.com/artist/4xGIy4hVil8DTVPnu5Auzs"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/1f4QUcx471mKx3lOGq14FD"
     },
     {
       "album": {
@@ -7554,7 +7576,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 160509,
       "name": "Buzzer Beater",
       "url": "https://open.spotify.com/track/50OxmJqLImVRRBA9q8w2Rx"
@@ -8468,7 +8490,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 116479,
       "name": "Check The Ring - LIVE \"On The Radar\" Performance",
       "url": "https://open.spotify.com/track/7BhdglPyoyLsqpLkvMRmgu"
@@ -11054,6 +11076,28 @@
       "duration_ms": 156555,
       "name": "disrespect",
       "url": "https://open.spotify.com/track/0hvhqarh0ZjkWpzWRX7QcJ"
+    },
+    {
+      "album": {
+        "name": "Disrespectfully",
+        "url": "https://open.spotify.com/album/2839n7epDNb9VzTkw74VaT"
+      },
+      "artists": [
+        {
+          "name": "bdifferent",
+          "url": "https://open.spotify.com/artist/1gQjUHdAZ992ioNqJ1QMjG"
+        },
+        {
+          "name": "MARCO PLUS",
+          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207884,
+      "name": "Disrespectfully",
+      "url": "https://open.spotify.com/track/0xaAbHucphA5pb68eGW3Mp"
     },
     {
       "album": {
@@ -15493,6 +15537,24 @@
     },
     {
       "album": {
+        "name": "fun wit",
+        "url": "https://open.spotify.com/album/7yFxmvM86bLDzGiXWLKCYx"
+      },
+      "artists": [
+        {
+          "name": "saveaj",
+          "url": "https://open.spotify.com/artist/3D0dxmpnWREvNCxjsY1Bjv"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166138,
+      "name": "fun wit",
+      "url": "https://open.spotify.com/track/69rGqcHlyQnhS9lDvc5hz9"
+    },
+    {
+      "album": {
         "name": "Square Bizness",
         "url": "https://open.spotify.com/album/2tV3NFS6hJd7g5ejr9h2gW"
       },
@@ -18832,7 +18894,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 124545,
       "name": "holon?",
       "url": "https://open.spotify.com/track/2Po44AeaMfcBhb0vJQTouh"
@@ -21124,7 +21186,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 155031,
       "name": "I\u2019m Clutch",
       "url": "https://open.spotify.com/track/0WG1bTAx90z4k6nDyFdnL4"
@@ -23534,7 +23596,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 165789,
       "name": "Let\u2019s Talk About It (feat. Stunna 4 Vegas)",
       "url": "https://open.spotify.com/track/1APm1pv04YFJiE43qE30Ri"
@@ -32242,7 +32304,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 99267,
       "name": "Peace Sign",
       "url": "https://open.spotify.com/track/60n1FBG3P0AOgNk9h9p2nH"
@@ -35928,6 +35990,24 @@
       "duration_ms": 191080,
       "name": "Rug Burn",
       "url": "https://open.spotify.com/track/1TjzdG5MVNo5tUXcSbZ3iX"
+    },
+    {
+      "album": {
+        "name": "From The Couch",
+        "url": "https://open.spotify.com/album/5dt5sb3CiF84Jh5FuwNHHR"
+      },
+      "artists": [
+        {
+          "name": "TwoTees",
+          "url": "https://open.spotify.com/artist/4WCxDgq7VTSAvDRELoAydZ"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132514,
+      "name": "Rule Number One",
+      "url": "https://open.spotify.com/track/5QNBVAWyiRkEwPsv6CONZ9"
     },
     {
       "album": {
@@ -41513,6 +41593,24 @@
     },
     {
       "album": {
+        "name": "Scurry Crazy",
+        "url": "https://open.spotify.com/album/5Kp4or9cxkSFGdvnZuhBSM"
+      },
+      "artists": [
+        {
+          "name": "Rell Sosa",
+          "url": "https://open.spotify.com/artist/72BvheakcSUJU5A3nKOjc8"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160731,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/4ZzUCgUeZkVrYSZi91v5hw"
+    },
+    {
+      "album": {
         "name": "Beach Bounce: Vol. 01",
         "url": "https://open.spotify.com/album/7yRoriiEHaciDYiUMGEPUF"
       },
@@ -41760,6 +41858,24 @@
       "duration_ms": 178758,
       "name": "This Run's Personal",
       "url": "https://open.spotify.com/track/5vE8PcNVlUgloRzipbERuj"
+    },
+    {
+      "album": {
+        "name": "Make America Valid Again",
+        "url": "https://open.spotify.com/album/6zwlIcRRTD031M3oo87mzF"
+      },
+      "artists": [
+        {
+          "name": "Validtmk",
+          "url": "https://open.spotify.com/artist/4NCxL8t0OrwTTyXeKvqpXQ"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116585,
+      "name": "Throw dat p$$$y",
+      "url": "https://open.spotify.com/track/5M2eXmOyQxZmMU2CcRb33m"
     },
     {
       "album": {

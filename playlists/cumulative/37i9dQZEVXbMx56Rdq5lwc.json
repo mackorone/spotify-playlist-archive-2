@@ -25602,7 +25602,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 220133,
       "name": "LVL",
       "url": "https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4"
@@ -27916,7 +27916,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 212386,
       "name": "Mira\u017eas",
       "url": "https://open.spotify.com/track/6jLmAjY0hfGF98mqfu4ugw"
@@ -41392,7 +41392,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 194754,
       "name": "Stadionai",
       "url": "https://open.spotify.com/track/2RfaNuS3O8IblZzeI7PEHp"
@@ -42035,6 +42035,28 @@
     },
     {
       "album": {
+        "name": "Love & Tears",
+        "url": "https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"
+    },
+    {
+      "album": {
         "name": "The After Taste",
         "url": "https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN"
       },
@@ -42382,7 +42404,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 158205,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
@@ -52104,6 +52126,24 @@
       "duration_ms": 153250,
       "name": "\u041f\u041e\u0412\u041e\u0414",
       "url": "https://open.spotify.com/track/1SUguUEQfQokc535Ye7ttR"
+    },
+    {
+      "album": {
+        "name": "\u041f\u044c\u044f\u043d\u044b\u0439",
+        "url": "https://open.spotify.com/album/2xQX34hzie3VNlTBzEn8Ij"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0430\u0442\u0440\u0438\u043d \u0428\u0442\u043e\u043b\u044c",
+          "url": "https://open.spotify.com/artist/4pQF6sfjTmNBsUKFuJpA5W"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219167,
+      "name": "\u041f\u044c\u044f\u043d\u044b\u0439",
+      "url": "https://open.spotify.com/track/4I1zHwedXs8RLfXs4nWSIK"
     },
     {
       "album": {

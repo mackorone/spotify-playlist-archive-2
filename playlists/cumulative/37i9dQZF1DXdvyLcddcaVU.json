@@ -11191,6 +11191,28 @@
     },
     {
       "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221053,
+      "name": "La Nocturne",
+      "url": "https://open.spotify.com/track/2fsZNGcGb7KVfcp3PlXgcD"
+    },
+    {
+      "album": {
         "name": "La nourrice",
         "url": "https://open.spotify.com/album/5FAxPeC5aWzVR49Mv9noXs"
       },
@@ -12900,7 +12922,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 219106,
       "name": "Ma Reine",
       "url": "https://open.spotify.com/track/2B5A0IJZTT5YsR6mMy8jnG"
@@ -22503,6 +22525,32 @@
     },
     {
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161140,
+      "name": "Uber",
+      "url": "https://open.spotify.com/track/2PPFDGYR4t96gLVsd52NmL"
+    },
+    {
+      "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/7yAhtDoqbWMkpu7LwUiNMj"
       },
@@ -23916,7 +23964,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 179640,
       "name": "\u00c0 l'aise",
       "url": "https://open.spotify.com/track/3XzwTdwcIz67nPOE6sitEo"

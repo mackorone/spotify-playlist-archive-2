@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: Zora Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,120 likes - 76 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,133 likes - 76 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

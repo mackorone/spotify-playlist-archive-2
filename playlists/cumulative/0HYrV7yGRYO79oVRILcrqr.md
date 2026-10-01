@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-778 songs - 2 day 0 hr 26 min
+779 songs - 2 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Magnolia](https://open.spotify.com/track/6IufA64SPqtOYyFoKzL1s6) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [My Revenge](https://open.spotify.com/album/1rjfZshfNjxGP5cQXyIGzz) | 3:20 | 2026-07-09 | 2026-08-01 |
 | [Make Love](https://open.spotify.com/track/3ijoP1G48nhRcBY2QB2y4o) | [CLARASCHEIN](https://open.spotify.com/artist/3G6VR0fzmyjvNSxZx6480w), [Vittorio Longobardi](https://open.spotify.com/artist/06qOVeNb3n8mq1UhbWG3TE) | [Make Love](https://open.spotify.com/album/0kJwIehJg21K07TgHVzCcS) | 2:37 | 2026-01-28 | 2026-03-18 |
 | [Maldito Antro](https://open.spotify.com/track/78KBfIKs7GKPRPv4j35xyX) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [Maldito Antro](https://open.spotify.com/album/0ehJgzhkbrUz1EBt13KaV4) | 3:31 | 2026-02-25 | 2026-03-18 |
+| [Mama im back again](https://open.spotify.com/track/35c0JZOp0565wa2265Boqk) | [J addy 360 degrees](https://open.spotify.com/artist/2U4dxYLYrPCJ0hwF7C6PyF) | [Mama im back again](https://open.spotify.com/album/5mVYSJmXZT894IYqBe2qeA) | 3:02 | 2026-09-30 |  |
 | [Mania](https://open.spotify.com/track/3Dv0QbRMjgZB7Rh9xmmv7F) | [GLIZZYMO GLEN](https://open.spotify.com/artist/1FZPYphRrS6eeXveD2pzGQ) | [Mania](https://open.spotify.com/album/1QZm3P0Hfr5rtx7bYA6JYs) | 2:09 | 2026-09-26 |  |
 | [Marginal](https://open.spotify.com/track/4Nv0Bzom36kPiFXJt85HTT) | [Orecchio Sordo](https://open.spotify.com/artist/0f4qCSAE3bqGntDnL6gRyE) | [Marginal](https://open.spotify.com/album/28lICaZjyM3VNqjMVNHIB5) | 4:50 | 2025-09-29 | 2025-12-17 |
 | [Marijuana](https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l) | [Plastic Madmen](https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA) | [Marijuana](https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH) | 4:37 | 2025-11-26 | 2025-12-17 |

@@ -25645,6 +25645,28 @@
     },
     {
       "album": {
+        "name": "Ngibonile Othandweni",
+        "url": "https://open.spotify.com/album/6VDMjvBCUqkD5NmP7tqvl0"
+      },
+      "artists": [
+        {
+          "name": "Phangandawo",
+          "url": "https://open.spotify.com/artist/3irECGtZGGBOARaZElSiLb"
+        },
+        {
+          "name": "Thembani",
+          "url": "https://open.spotify.com/artist/4pT7EpySlYLudA9Y0Cv6nQ"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178337,
+      "name": "Ingqondo",
+      "url": "https://open.spotify.com/track/6ntPv9yehYDuN6vRJM3tzl"
+    },
+    {
+      "album": {
         "name": "Inhliziyo (feat. Babalwa M)",
         "url": "https://open.spotify.com/album/4EsxwkwftyCnqpTDbyQzln"
       },
@@ -27500,7 +27522,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 284003,
       "name": "Izinkinga Zami",
       "url": "https://open.spotify.com/track/3cSHiNQ5ntNfERXSxJOPAR"
@@ -27702,7 +27724,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 443394,
       "name": "Izospana",
       "url": "https://open.spotify.com/track/6tvBXtUeHKxDL1oZMas2mF"
@@ -31476,7 +31498,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 276062,
       "name": "Lea chancer bafana",
       "url": "https://open.spotify.com/track/1B3JMwhxpzaVOfe0fN5nCN"
@@ -32094,7 +32116,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 249093,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
@@ -36124,7 +36146,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 535310,
       "name": "Methodist Medley",
       "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
@@ -41038,7 +41060,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Ningikhonzele",
       "url": "https://open.spotify.com/track/3FQ35B2LboHaOVqOvvDOjh"
@@ -49086,7 +49108,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 286944,
       "name": "Seanamarena (feat. Prince Benza)",
       "url": "https://open.spotify.com/track/1zwQBlIxyYhBCfNEyfb5i6"
@@ -53592,7 +53614,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 215745,
       "name": "STOP and GO",
       "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
@@ -55380,7 +55402,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 346277,
       "name": "Thandolwethu",
       "url": "https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre"

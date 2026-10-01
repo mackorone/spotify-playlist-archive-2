@@ -1,6 +1,6 @@
 {
   "description": "An all-Australian soundtrack to snags, bread and tomato sauce!",
-  "num_followers": 571357,
+  "num_followers": 571353,
   "original_name": "Aussie BBQ",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq"
-      },
-      "artists": [
-        {
-          "name": "Daryl Braithwaite",
-          "url": "https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe"
-        }
-      ],
-      "duration_ms": 256105,
-      "name": "The Horses",
-      "url": "https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE"
-    },
-    {
-      "added_at": "2026-02-12 13:00:20",
-      "album": {
         "name": "Freak Show",
         "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 226106,
       "name": "Freak",
       "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
+    },
+    {
+      "added_at": "2026-02-12 13:00:20",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq"
+      },
+      "artists": [
+        {
+          "name": "Daryl Braithwaite",
+          "url": "https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe"
+        }
+      ],
+      "duration_ms": 256105,
+      "name": "The Horses",
+      "url": "https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE"
     },
     {
       "added_at": "2026-02-12 13:00:20",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
+        "name": "Modern Girls - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6VSHcaLDYJIv5dIu5nkuOS"
+      },
+      "artists": [
+        {
+          "name": "ICEHOUSE",
+          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "No Promises",
+      "url": "https://open.spotify.com/track/4AX3HUxF377bqmKfqC0s2N"
+    },
+    {
+      "added_at": "2026-02-12 13:00:20",
+      "album": {
         "name": "Blue Sky Mining (Remastered)",
         "url": "https://open.spotify.com/album/4C3raKL0dzfTitM3YtqN1S"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 255600,
       "name": "Blue Sky Mine - 2011 Remaster",
       "url": "https://open.spotify.com/track/6z9ehfxE973fOlKJKNJL2x"
-    },
-    {
-      "added_at": "2026-02-12 13:00:20",
-      "album": {
-        "name": "Black Fingernails, Red Wine",
-        "url": "https://open.spotify.com/album/4PXy3cBCNeY0ZVKTOGi9Cw"
-      },
-      "artists": [
-        {
-          "name": "Eskimo Joe",
-          "url": "https://open.spotify.com/artist/3yW6jTzGjHUUkLvLkjLOVn"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "Black Fingernails, Red Wine",
-      "url": "https://open.spotify.com/track/0ujklxrVM2jwpLMgbTwTd1"
     }
   ],
   "unique_name": "Aussie BBQ",

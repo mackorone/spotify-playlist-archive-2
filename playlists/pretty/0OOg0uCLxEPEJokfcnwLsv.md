@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,324 likes - 98 songs - 5 hr 48 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,324 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 96 | [Kimberly Clark](https://open.spotify.com/track/06QggER0hHCYmRIfOW3Igr) | [Stane](https://open.spotify.com/artist/7eLnp0P9jfpkziT43TV8tG) | [Kimberly Clark](https://open.spotify.com/album/3Sv8C39VaBa1lTjkAcyQrr) | 4:57 |
 | 97 | [Growth Extractors](https://open.spotify.com/track/04KFDvCLLzh00ULv3HuKox) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Growth Extractors](https://open.spotify.com/album/131O9HDEtaDDpFlQ0sToor) | 2:50 |
 | 98 | [Delusional Daydream](https://open.spotify.com/track/2WtIj15qAaG0lfeWyjvPOU) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Delusional Daydream](https://open.spotify.com/album/2oe6AdaailGYT0AAjlD8k6) | 3:17 |
+| 99 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 |
+| 100 | [Close To The Sun](https://open.spotify.com/track/3MWOzg0jhCbJOOQZEIKQhD) | [Diopter](https://open.spotify.com/artist/167b5d6MTZVu8prM9XkT7C) | [Close To The Sun](https://open.spotify.com/album/4e9LqsBC4LfHMkOGruVzBy) | 4:22 |
 
-Snapshot ID: `AAAHC8CJPm/hdKPwVMu5QTX2f8Xqbs3v`
+Snapshot ID: `AAAHDahlaa5wauXWlli3/WCPgTq1apcK`

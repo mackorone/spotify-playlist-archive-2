@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 242845,
       "name": "Al Mafrood",
       "url": "https://open.spotify.com/track/5Aigt44wICHJ2BDshPZqvh"
@@ -18201,6 +18201,24 @@
     },
     {
       "album": {
+        "name": "Houwa El Zaman",
+        "url": "https://open.spotify.com/album/009RW0MttQawyTcXFGSTu2"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190432,
+      "name": "Ma Sar",
+      "url": "https://open.spotify.com/track/64v6LW97P5Y4beQXBrUxwG"
+    },
+    {
+      "album": {
         "name": "Mafi Mennik",
         "url": "https://open.spotify.com/album/7cUCcWvtL3Z0S2JWIGIR93"
       },
@@ -22672,7 +22690,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp"
@@ -22690,7 +22708,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
@@ -24368,7 +24386,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 244013,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
@@ -30584,7 +30602,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 277707,
       "name": "TQBL Kol",
       "url": "https://open.spotify.com/track/7b4B5ACH9ZxnDnUVi2USqV"
@@ -33086,7 +33104,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 185495,
       "name": "Ya Helou",
       "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
@@ -37864,7 +37882,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 190432,
       "name": "\u0645\u0627\u0635\u0627\u0631",
       "url": "https://open.spotify.com/track/3z7ClNhSmg9IlfmZxO7G5E"

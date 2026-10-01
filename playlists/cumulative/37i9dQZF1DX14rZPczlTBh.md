@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-171 songs - 8 hr 58 min
+172 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Iraga Iraga](https://open.spotify.com/track/2RCigtiYWf4LBCbp60m7Qg) | [Rahul Sipligunj, Mohana Bhogaraju](https://open.spotify.com/artist/61QdqNUW0qSz0GoaeVe6Gw) | [Naa Peru Surya Naa Illu India](https://open.spotify.com/album/3S0ezMfLB53pIEfYwAdG9R) | 4:00 | 2021-06-24 | 2024-08-24 |
 | [Ismart Title Song](https://open.spotify.com/track/40dF1b3S55REkQudnGiLkW) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Ismart Shankar](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 4:12 | 2021-06-24 | 2024-08-24 |
 | [Itlu Kanmani Announcement Theme](https://open.spotify.com/track/3UwuNDTGxZhKvgEpneC8mH) | [Praveen Sriram](https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6) | [Itlu Kanmani Announcement Theme](https://open.spotify.com/album/5tg9gAncqIphPnEx6MNJsn) | 1:03 | 2026-02-09 |  |
+| [Jadal Zamana \(Interval Theme\) \(From "The Paradise"\) \(Telugu\)](https://open.spotify.com/track/4SXOZbOuY0yfDSHEaRRz0X) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jadal Zamana \(Interval Theme\) \(From "The Paradise"\) \(Telugu\)](https://open.spotify.com/album/70NLkdlgvogfvDEeDP4if0) | 1:19 | 2026-09-29 |  |
 | [King Of The Crowd 'Title Song' \(From "Ramarao On Duty"\)](https://open.spotify.com/track/1X56oGyHaLQgOZxDVBJBo5) | [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv) | [King Of The Crowd 'Title Song' \(From "Ramarao On Duty"\)](https://open.spotify.com/album/37hM9dL91U4SDRksCn7kHJ) | 3:25 | 2022-07-22 | 2024-08-24 |
 | [Kiss Me Baby](https://open.spotify.com/track/3aM2juY0azR4PZ9BtQdq29) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Mahanubhavudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1yqvJA4WwJQlyiUR1lwKvh) | 3:30 | 2021-06-24 | 2024-08-24 |
 | [Kiss Me Baby](https://open.spotify.com/track/0DB298HE0qsbJwyxFXLpet) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Kiss Day Special](https://open.spotify.com/album/5M8XU9Kz85M5d3yH0mrl8V) | 3:35 | 2021-06-24 | 2022-08-12 |
@@ -160,7 +161,7 @@
 | [The Raid](https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer \(Telugu\)](https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO) | 1:22 | 2025-02-03 |  |
 | [The Unpredictable Rap Verse](https://open.spotify.com/track/3AM69qzTqwns3FLV0dTyZG) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer \(Telugu\)](https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO) | 2:23 | 2025-02-03 | 2025-10-05 |
 | [Theme](https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 5:15 | 2024-08-23 |  |
-| [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 | 2024-08-23 |  |
+| [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 | 2024-08-23 | 2026-10-01 |
 | [Theme Of Gharshana](https://open.spotify.com/track/4uGnRhL3ZKDyTmLaDD0kMP) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Gharshana\-New](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 2:17 | 2024-08-23 | 2026-08-11 |
 | [Tillu Anna DJ Pedithe](https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [DJ Tillu](https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0) | 3:03 | 2022-02-18 | 2024-08-24 |
 | [Time to Party](https://open.spotify.com/track/6At33dgu65HY1hcbHIHeSC) | [David Simon](https://open.spotify.com/artist/1C7kjT2jleM2qNGK97amtW), [Malgudi Subha](https://open.spotify.com/artist/6AeYaKk3j2uxScmcPNYpHY) | [Attarrintiki Daaredi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13XyqrYVQXonzIrgBLfFrX) | 4:29 | 2021-06-24 | 2022-07-29 |

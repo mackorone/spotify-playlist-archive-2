@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,223 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,316 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 37 | [Bullhead](https://open.spotify.com/track/5EAEFB8usSqF2rCvwmjJbr) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 2:39 |
 | 38 | [Crushed \(Hostile Nations\)](https://open.spotify.com/track/1gseBRxHWAAx6lckoGZeEt) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Life Is Good](https://open.spotify.com/album/7wxpajBgcfiRwooT3JvYwH) | 4:22 |
 | 39 | [Country Roads](https://open.spotify.com/track/7qA7nOX5DuM1Eob1EBwCvA) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 4:19 |
-| 40 | [Drunk and Fucked Up](https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Drunk and Fucked Up](https://open.spotify.com/album/5GUWM27f7hYwhciSKETj1i) | 3:40 |
-| 41 | [You've Got a Friend](https://open.spotify.com/track/7GbGrWKrO2VKrz27sCjGAM) | [The Cloverhearts](https://open.spotify.com/artist/5zhpfAeN7k5tXfxSVbZu7l) | [You've Got a Friend](https://open.spotify.com/album/428PXrg2qhVrzEo2FGMlPT) | 3:43 |
+| 40 | [You've Got a Friend](https://open.spotify.com/track/7GbGrWKrO2VKrz27sCjGAM) | [The Cloverhearts](https://open.spotify.com/artist/5zhpfAeN7k5tXfxSVbZu7l) | [You've Got a Friend](https://open.spotify.com/album/428PXrg2qhVrzEo2FGMlPT) | 3:43 |
+| 41 | [Drunk and Fucked Up](https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Drunk and Fucked Up](https://open.spotify.com/album/5GUWM27f7hYwhciSKETj1i) | 3:40 |
 | 42 | [An Irish Pub Song](https://open.spotify.com/track/5UGJICh0UfvXTansc82A1k) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 3:22 |
 | 43 | [Back Home in Bristol](https://open.spotify.com/track/4fJ3Izp494APZkuSQJMe36) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Foreign Skies](https://open.spotify.com/album/4sXaOOcXH2tfRFUJsiIzKh) | 4:03 |
 | 44 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |

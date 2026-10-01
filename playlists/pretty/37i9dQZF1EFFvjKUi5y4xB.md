@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27 likes - 117 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 27 likes - 118 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,6 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 114 | [Don't Say No](https://open.spotify.com/track/6rewEZkLHDRD7kBrkwEChb) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:43 |
 | 115 | [Feel So Good](https://open.spotify.com/track/25ceDA7wDxIo60C1FuPiKJ) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Feel So Good](https://open.spotify.com/album/4O4kBKYlGvIXdDGuE0mNs7) | 2:48 |
 | 116 | [Songs for Women](https://open.spotify.com/track/5gRUEMbzjBYe146BYIUlXK) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:28 |
-| 117 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
+| 117 | [Down In Your Ways](https://open.spotify.com/track/2IO0JLR0qtl5q5E95i2dms) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 |
+| 118 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
 
-Snapshot ID: `AcdoxAAAAAC9uelTwNtoWshwf5H3kUG0`
+Snapshot ID: `AcduUAAAAAB3mMQS/Xdt270MtpJQNSqO`

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: CLOSE YOUR EYES\)
+> Future K\-Pop hits! \(Cover: CRAVITY\)
 
-1,811 songs - 4 day 0 hr 33 min
+1,813 songs - 4 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Cheese](https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Cheese](https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj) | 3:26 | 2023-09-01 | 2023-10-06 |
 | [Cheese](https://open.spotify.com/track/6x5mCFqbpUfjAq6Egyjl2c) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Cheese](https://open.spotify.com/album/7qx75T9tAxkomFYsmFADV1) | 3:06 | 2024-05-23 | 2024-06-24 |
 | [CHERRY](https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:30 | 2021-09-28 | 2021-11-24 |
-| [Cherry Cola](https://open.spotify.com/track/1nqau4dspD8bkrNZuIcmQv) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Cherry Cola](https://open.spotify.com/album/1CdJ5zGeJ1irYnBZ59zZ5S) | 2:30 | 2026-07-04 |  |
+| [Cherry Cola](https://open.spotify.com/track/1nqau4dspD8bkrNZuIcmQv) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Cherry Cola](https://open.spotify.com/album/1CdJ5zGeJ1irYnBZ59zZ5S) | 2:30 | 2026-07-04 | 2026-10-01 |
 | [CHERRY PIE](https://open.spotify.com/track/233xgksBgzpEwH9tKiAzz9) | [WHIB](https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb) | [CHERRY PIE](https://open.spotify.com/album/6r9J12vrlqV47LJcXlYgi2) | 2:37 | 2026-08-06 |  |
 | [Cherry Talk](https://open.spotify.com/track/7CmjviM3EY4Xi7w8VzeULP) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [+\(KR\)ystal Eyes <AESTHETIC>](https://open.spotify.com/album/5GNSmUrJmZvgBvouXS8ZGp) | 2:51 | 2023-05-15 | 2023-07-26 |
 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 | 2021-06-18 | 2021-08-11 |
@@ -931,6 +931,7 @@
 | [LOSER](https://open.spotify.com/track/2jSKhV7zSImRqT4jBCFnEE) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [THE FUTURE IS OURS: LOST](https://open.spotify.com/album/0YXbjMgswczPCUdRsM19Ni) | 3:30 | 2023-05-30 | 2023-08-17 |
 | [Losing You](https://open.spotify.com/track/4OJJ48xIvpbP3lHaCkEIbA) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Losing You](https://open.spotify.com/album/2pA5upussFvf8eQoMUATmI) | 2:58 | 2020-10-13\* | 2020-11-11 |
 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 | 2022-01-12 | 2022-03-25 |
+| [LOUDER](https://open.spotify.com/track/4k4jZ2V6kZjsuDOLqvRTbl) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [sonorous](https://open.spotify.com/album/4FF6ssmhf4WRAG38M3Qyds) | 3:02 | 2026-09-30 |  |
 | [LOVE and FEAR](https://open.spotify.com/track/3v2fpbBTm5m0uPU15qnQ36) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.2](https://open.spotify.com/album/6eMtWQJJnCKuUrGKugJ1CH) | 3:07 | 2024-07-08 | 2024-10-02 |
 | [LOVE ATTACK](https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:01 | 2024-09-27 | 2026-06-28 |
 | [Love Comes Slowly](https://open.spotify.com/track/2DHwbEzphzJGOiZ9dMAzEk) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [About Love](https://open.spotify.com/album/7MRt4WWGiTXTquxQPOXpY9) | 3:00 | 2026-03-25 | 2026-05-07 |
@@ -1156,6 +1157,7 @@
 | [Open Your Eyes](https://open.spotify.com/track/1JvRDITxJfdNXCZPm9RcXW) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [Open Your Eyes](https://open.spotify.com/album/1Mx5r7RLYkLnhZQN4mCaI7) | 2:59 | 2026-09-21 |  |
 | [ORANGE](https://open.spotify.com/track/3ud65LzKLgdsEzktLvFXgc) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER THREE](https://open.spotify.com/album/3dfrKjXXIsZ8ftwen5v40w) | 4:16 | 2020-11-12 | 2021-02-15 |
 | [OST \( Feat.CHANMINA \)](https://open.spotify.com/track/5i2qsnB4cF2j7KdxjhTbzV) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [OST](https://open.spotify.com/album/2ZFE0nxTNIgX1jMCfT0L0W) | 3:01 | 2024-07-18 | 2024-09-10 |
+| [Our Ending](https://open.spotify.com/track/0fu6AUwmng12GwgurC4RUs) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Our Ending](https://open.spotify.com/album/2FgxbLydrFnM1qU0EQzm4S) | 2:34 | 2026-09-30 |  |
 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/11YovYUVkZdLyOFncbecWL) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans X MY DEMON](https://open.spotify.com/album/31chdu7JhVd0sC9X7sURNb) | 3:12 | 2023-11-29 | 2024-02-16 |
 | [Outerspace \(feat\. Loco\)](https://open.spotify.com/track/6FAxtrYysG7kIZlCreBf0q) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Outerspace \(feat\. Loco\)](https://open.spotify.com/album/2G3pMjDpRpkHu7TuQr1nWM) | 3:14 | 2021-05-15 | 2021-07-30 |
 | [Outsider](https://open.spotify.com/track/3NIuhONwDFEwjcekOat7mL) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [4U : OUTSIDE](https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA) | 3:32 | 2021-09-02 | 2021-10-30 |
@@ -1307,7 +1309,7 @@
 | [Ruby](https://open.spotify.com/track/5ljGBxXb9LthJK0rW61G6X) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [Ruby](https://open.spotify.com/album/35F1IiTWhlrhjCSQOwvCC6) | 2:43 | 2022-01-03 | 2022-02-18 |
 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-02-20 | 2026-04-26 |
 | [Ruin My Life](https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [EXchange4, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T) | 3:05 | 2025-10-02 | 2025-11-18 |
-| [RULE \(feat\. Heize\)](https://open.spotify.com/track/29orq8DEeVBJr0f9KWncuJ) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RULE \(feat\. Heize\)](https://open.spotify.com/album/2UKxxzXiOJ1FBpQtjIBHTh) | 2:36 | 2026-07-04 |  |
+| [RULE \(feat\. Heize\)](https://open.spotify.com/track/29orq8DEeVBJr0f9KWncuJ) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RULE \(feat\. Heize\)](https://open.spotify.com/album/2UKxxzXiOJ1FBpQtjIBHTh) | 2:36 | 2026-07-04 | 2026-10-01 |
 | [Rum Pum Pum](https://open.spotify.com/track/0orUoBenQ9Cwx26z4I4RAT) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [Rum Pum Pum](https://open.spotify.com/album/1OeKgT4UKXTfZ5cDIs0HsZ) | 3:39 | 2022-10-27 | 2023-01-18 |
 | [Run away \- KR Ver.](https://open.spotify.com/track/1184jV78PgS9MxH7fpsMRi) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [TAKE \(KR EDITION\)](https://open.spotify.com/album/0UeHCISBZ4G00cLdFKIRA0) | 2:25 | 2020-10-30 | 2021-03-10 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-22 | 2022-07-14 |
@@ -1491,7 +1493,7 @@
 | [SUMMERTIME STORY](https://open.spotify.com/track/4gEayLXcxbZFoIVLoUUPpu) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [SUMMERTIME STORY](https://open.spotify.com/album/69KF67n03oFlMuDj6olUzP) | 3:11 | 2026-07-01 | 2026-09-09 |
 | [SUN KISS](https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy) | [TUIDE](https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf) | [TUNE & PLAY](https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN) | 3:01 | 2026-08-25 |  |
 | [Sunflower \(P.E.L\)](https://open.spotify.com/track/3lLCAFzZqA7B3OQl6yfYCM) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [Sunflower](https://open.spotify.com/album/08tTGoLXNw5OaEUOJFIBe6) | 3:01 | 2022-09-16 | 2022-11-11 |
-| [Sunset](https://open.spotify.com/track/1hx4HkO3bYg1y94EsRSES7) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [On the Crest of a Wave](https://open.spotify.com/album/6LCY5x1exkVi5xkQaN9LWi) | 3:54 | 2026-07-04 |  |
+| [Sunset](https://open.spotify.com/track/1hx4HkO3bYg1y94EsRSES7) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [On the Crest of a Wave](https://open.spotify.com/album/6LCY5x1exkVi5xkQaN9LWi) | 3:54 | 2026-07-04 | 2026-10-01 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-02-03 | 2022-04-09 |
 | [Sunsets and Cigarettes](https://open.spotify.com/track/4xk3VG8GMiS65iBtUyZ209) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Silhouette](https://open.spotify.com/album/412kW5chzKk3ucqPurnRMF) | 3:10 | 2025-11-11 | 2026-01-04 |
 | [Sunﬁsh](https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 7th Album 'GROWTH THEORY'](https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm) | 3:38 | 2024-09-05 | 2024-11-20 |

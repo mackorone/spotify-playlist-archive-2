@@ -1,6 +1,6 @@
 {
   "description": "pop that *hits different* featuring nick ward",
-  "num_followers": 627340,
+  "num_followers": 627306,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-09-24 14:00:24",
       "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
-    },
-    {
-      "added_at": "2026-09-24 14:00:24",
-      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
+    },
+    {
+      "added_at": "2026-09-24 14:00:24",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
       "added_at": "2026-09-24 14:00:24",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-09-24 14:00:24",
       "album": {
-        "name": "The light in the painting",
-        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224595,
-      "name": "The light in the painting",
-      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
-    },
-    {
-      "added_at": "2026-09-24 14:00:24",
-      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "added_at": "2026-09-24 14:00:24",
+      "album": {
+        "name": "The light in the painting",
+        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
     },
     {
       "added_at": "2026-09-24 14:00:24",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-09-24 14:00:24",
       "album": {
+        "name": "If I Ever Talk To God",
+        "url": "https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy"
+      },
+      "artists": [
+        {
+          "name": "Landon Barker",
+          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "If I Ever Talk To God",
+      "url": "https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL"
+    },
+    {
+      "added_at": "2026-09-24 14:00:24",
+      "album": {
         "name": "Who is she",
         "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 159000,
       "name": "Who is she",
       "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
-    },
-    {
-      "added_at": "2026-09-24 14:00:24",
-      "album": {
-        "name": "rollerblade",
-        "url": "https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV"
-      },
-      "artists": [
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 114056,
-      "name": "rollerblade",
-      "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
     },
     {
       "added_at": "2026-09-24 14:00:24",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-09-24 14:00:24",
       "album": {
-        "name": "If I Ever Talk To God",
-        "url": "https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy"
+        "name": "rollerblade",
+        "url": "https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV"
       },
       "artists": [
         {
-          "name": "Landon Barker",
-          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
         }
       ],
-      "duration_ms": 160120,
-      "name": "If I Ever Talk To God",
-      "url": "https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL"
+      "duration_ms": 114056,
+      "name": "rollerblade",
+      "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
     },
     {
       "added_at": "2026-09-24 14:00:24",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-09-24 14:00:24",
       "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187455,
-      "name": "All I Can Say",
-      "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
-    },
-    {
-      "added_at": "2026-09-24 14:00:24",
-      "album": {
         "name": "Loveland",
         "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 211280,
       "name": "Weirdo",
       "url": "https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2"
+    },
+    {
+      "added_at": "2026-09-24 14:00:24",
+      "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187455,
+      "name": "All I Can Say",
+      "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
     },
     {
       "added_at": "2026-09-24 14:00:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-09-24 14:00:24",
       "album": {
-        "name": "Too Fast To Live, Too Young To Die",
-        "url": "https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 201340,
-      "name": "Too Fast To Live, Too Young To Die",
-      "url": "https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL"
-    },
-    {
-      "added_at": "2026-09-24 14:00:24",
-      "album": {
         "name": "Bad Apple",
         "url": "https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 159324,
       "name": "Bad Apple",
       "url": "https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA"
+    },
+    {
+      "added_at": "2026-09-24 14:00:24",
+      "album": {
+        "name": "Too Fast To Live, Too Young To Die",
+        "url": "https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 201340,
+      "name": "Too Fast To Live, Too Young To Die",
+      "url": "https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL"
     },
     {
       "added_at": "2026-09-24 14:00:24",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-09-24 14:00:24",
       "album": {
-        "name": "Loveland",
-        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 190213,
-      "name": "Notting Hill",
-      "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
     },
     {
       "added_at": "2026-09-24 14:00:24",
@@ -1163,6 +1163,22 @@
       "duration_ms": 265606,
       "name": "Ache",
       "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
+    },
+    {
+      "added_at": "2026-09-24 14:00:24",
+      "album": {
+        "name": "Loveland",
+        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Notting Hill",
+      "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
     },
     {
       "added_at": "2026-09-24 14:00:24",
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2026-09-24 14:00:24",
       "album": {
-        "name": "I Won't Cry",
-        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+        "name": "Wishbone",
+        "url": "https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 260146,
-      "name": "I Won\u2019t Cry",
-      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
+      "duration_ms": 234228,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112"
     },
     {
       "added_at": "2026-09-24 14:00:24",
@@ -1279,22 +1295,6 @@
       "duration_ms": 189964,
       "name": "BOY IN RED",
       "url": "https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf"
-    },
-    {
-      "added_at": "2026-09-24 14:00:24",
-      "album": {
-        "name": "Wishbone",
-        "url": "https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 234228,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112"
     },
     {
       "added_at": "2026-09-24 14:00:24",

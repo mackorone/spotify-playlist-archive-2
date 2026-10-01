@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-427 songs - 1 day 3 hr 7 min
+428 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Snowflake](https://open.spotify.com/track/0DbGG3nbq1R3TNLkKTx6aZ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 4:02 | 2023-12-30 |  |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2023-12-31 |  |
 | [Snowman](https://open.spotify.com/track/4478hK5vl9IVnYr2pxW7jP) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Snowman](https://open.spotify.com/album/40XYrlP145PTVWNZBQzJMM) | 2:52 | 2023-12-30 | 2024-02-01 |
+| [Snowman \(feat\. Belinda\)](https://open.spotify.com/track/7tQ5cliSQxT7kv2OAxgy7s) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Snowman](https://open.spotify.com/album/6ABuOE8UhKiIiG0nK0fyUb) | 2:59 | 2026-09-30 |  |
 | [So Bored](https://open.spotify.com/track/14qXiDDx2O55oH06iH9j3W) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 3:09 | 2023-12-30 |  |
 | [Sober and Unkissed](https://open.spotify.com/track/6ll48HRbmGzB5zFK6LwBnJ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:01 | 2023-12-30 |  |
 | [Some Kind of Love Song](https://open.spotify.com/track/6cFNWEKNMStIVX5VuDX5dd) | [Freak Kitchen](https://open.spotify.com/artist/0HtEZODdzPzZhdehDcF3fX) | [Appetizer](https://open.spotify.com/album/4Tli7Q4t0RVhVRr9jiBDo2) | 4:05 | 2023-12-30 |  |
@@ -417,7 +418,7 @@
 | [Where I Belong](https://open.spotify.com/track/6CfKKiBm6iRgNCqVITrmtO) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:43 | 2023-12-30 |  |
 | [Who Am I?](https://open.spotify.com/track/732QOzrBUFi0gGWNU9gB7d) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Cameron Diaz](https://open.spotify.com/artist/1lrL3Lwyoyij9dFwSayDsV), [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:20 | 2023-12-30 |  |
 | [Wild Ones \(Club Mix\)](https://open.spotify.com/track/3D2Oe2TxIUqP8FFm1yKaXF) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones \(Club Mix\)](https://open.spotify.com/album/7FntTAsGpLUJl0eSZkXh6E) | 3:26 | 2024-08-03 |  |
-| [Wild Ones \(feat\. Sia\)](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:52 | 2023-12-30 |  |
+| [Wild Ones \(feat\. Sia\)](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:52 | 2023-12-30 | 2026-10-01 |
 | [Wolves](https://open.spotify.com/track/432hUIl3ISDeytYW5XBQ5h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:01 | 2023-12-30 |  |
 | [Wonderful](https://open.spotify.com/track/2St9phLphjLD3e0tpZV4tH) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Phases](https://open.spotify.com/album/5dAuovYBdntbFoq6xFScts) | 3:12 | 2023-12-30 |  |
 | [Wrapped Up](https://open.spotify.com/track/536LtAJlONCorMQe539cKy) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1), [Vox Lux](https://open.spotify.com/artist/7cTvNYz4p7LDVwfGEsBDji) | [Wrapped Up / Alive \(Vox Lux Original Motion Picture Soundtrack\)](https://open.spotify.com/album/344A3w5aYjSEPkBNRUj2Md) | 4:29 | 2023-12-30 |  |

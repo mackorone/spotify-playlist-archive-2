@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 TOBIKA",
-  "num_followers": 349160,
+  "num_followers": 349153,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "DESAFIANDO EL DESTINO",
+      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
+    },
+    {
+      "added_at": "2026-09-28 18:22:16",
+      "album": {
         "name": "Amapolas (Remix)",
         "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 267338,
       "name": "Amapolas - Remix",
       "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
-    },
-    {
-      "added_at": "2026-09-28 18:22:16",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "DESAFIANDO EL DESTINO",
-      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
       "added_at": "2026-09-28 18:22:16",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
-        "name": "Correcaminos",
-        "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Correcaminos",
-      "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
-    },
-    {
-      "added_at": "2026-09-28 18:22:16",
-      "album": {
         "name": "50 Horas",
         "url": "https://open.spotify.com/album/1VAw66UdPTMhoKLRTk7OrA"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 164758,
       "name": "50 Horas",
       "url": "https://open.spotify.com/track/6F4aIikY2WK9tHZtJCubp9"
+    },
+    {
+      "added_at": "2026-09-28 18:22:16",
+      "album": {
+        "name": "Correcaminos",
+        "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Correcaminos",
+      "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
     },
     {
       "added_at": "2026-09-28 18:22:16",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
-        "name": "cool",
-        "url": "https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ"
-      },
-      "artists": [
-        {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
-        },
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 175760,
-      "name": "cool",
-      "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
-    },
-    {
-      "added_at": "2026-09-28 18:22:16",
-      "album": {
         "name": "Otra Que Arde",
         "url": "https://open.spotify.com/album/3BI8faWtulqixNf6JaGhGj"
       },
@@ -1651,22 +1631,22 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
-        "name": "La despedida",
-        "url": "https://open.spotify.com/album/2a3Fn5kNzTeir9wOQPzrc5"
+        "name": "cool",
+        "url": "https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
         },
         {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
         }
       ],
-      "duration_ms": 214928,
-      "name": "La despedida",
-      "url": "https://open.spotify.com/track/6MkJVM8XCjoBBJzmnDZY8y"
+      "duration_ms": 175760,
+      "name": "cool",
+      "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
     },
     {
       "added_at": "2026-09-28 18:22:16",
@@ -1691,6 +1671,26 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
+        "name": "La despedida",
+        "url": "https://open.spotify.com/album/2a3Fn5kNzTeir9wOQPzrc5"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        },
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "duration_ms": 214928,
+      "name": "La despedida",
+      "url": "https://open.spotify.com/track/6MkJVM8XCjoBBJzmnDZY8y"
+    },
+    {
+      "added_at": "2026-09-28 18:22:16",
+      "album": {
         "name": "Hasta el Cielo",
         "url": "https://open.spotify.com/album/1yJSIdmpdrOmfRlgHzJ30e"
       },
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
-        "name": "SABOR TROPICAL",
-        "url": "https://open.spotify.com/album/4EwPZMPAol6owdlZlwvomg"
-      },
-      "artists": [
-        {
-          "name": "TOBIKA",
-          "url": "https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "SABOR TROPICAL",
-      "url": "https://open.spotify.com/track/3GHiyB261wDZ0idCCyPMGw"
-    },
-    {
-      "added_at": "2026-09-28 18:22:16",
-      "album": {
         "name": "CUERPO",
         "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 198813,
       "name": "cuerpo",
       "url": "https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0"
+    },
+    {
+      "added_at": "2026-09-28 18:22:16",
+      "album": {
+        "name": "SABOR TROPICAL",
+        "url": "https://open.spotify.com/album/4EwPZMPAol6owdlZlwvomg"
+      },
+      "artists": [
+        {
+          "name": "TOBIKA",
+          "url": "https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "SABOR TROPICAL",
+      "url": "https://open.spotify.com/track/3GHiyB261wDZ0idCCyPMGw"
     },
     {
       "added_at": "2026-09-28 18:22:16",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-09-28 18:22:16",
       "album": {
-        "name": "ACELERAO",
-        "url": "https://open.spotify.com/album/44Fohjc2uXDEWFIKmqNeDZ"
-      },
-      "artists": [
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 151115,
-      "name": "ACELERAO",
-      "url": "https://open.spotify.com/track/03YXVIBt8bLGHp8kBHEEgb"
-    },
-    {
-      "added_at": "2026-09-28 18:22:16",
-      "album": {
         "name": "ALTER EGO",
         "url": "https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 220964,
       "name": "PUERTA DEL SOL",
       "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
+    },
+    {
+      "added_at": "2026-09-28 18:22:16",
+      "album": {
+        "name": "ACELERAO",
+        "url": "https://open.spotify.com/album/44Fohjc2uXDEWFIKmqNeDZ"
+      },
+      "artists": [
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 151115,
+      "name": "ACELERAO",
+      "url": "https://open.spotify.com/track/03YXVIBt8bLGHp8kBHEEgb"
     },
     {
       "added_at": "2026-09-28 18:22:16",

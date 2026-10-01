@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,888 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,894 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [See God](https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Realness Over Hype](https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW) | 2:45 |
 | 50 | [Feeling You](https://open.spotify.com/track/1l8UZotTBOynkYGEPW0WEa) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:22 |
 
-Snapshot ID: `armuAAAAAAAd1ucuolMyuuX9g7nioaTI`
+Snapshot ID: `armuAAAAAAC8feVXRpLoHowzH+ymSi9I`

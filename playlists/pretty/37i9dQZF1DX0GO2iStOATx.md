@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi aa gaye oye!
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,080 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,146 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 18 | [Veer Vaar \- From "Sardaarji"](https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tarannum Malik Jain](https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 2:22 |
 | 19 | [Patiala Peg](https://open.spotify.com/track/3chOtZ9EkYWYLT80Gjcptq) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Patiala Peg](https://open.spotify.com/album/2wI6WGzFm4z1dPLjgfUd0m) | 3:08 |
 | 20 | [Lak 28 Kudi Da](https://open.spotify.com/track/43ptYENIQJfqMWdCtyGFk8) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Lak 28 Kudi Da](https://open.spotify.com/album/526HxFaDf5l1T0C5QBoT7B) | 3:32 |
-| 21 | [Laembadgini](https://open.spotify.com/track/5zKWrXbY0EU8ZComTwfnk6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Laembadgini](https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1) | 3:06 |
-| 22 | [Truck](https://open.spotify.com/track/3GUpX7xIjE4Z3tYjKK3oY7) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:29 |
+| 21 | [Truck](https://open.spotify.com/track/3GUpX7xIjE4Z3tYjKK3oY7) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:29 |
+| 22 | [Laembadgini](https://open.spotify.com/track/5zKWrXbY0EU8ZComTwfnk6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Laembadgini](https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1) | 3:06 |
 | 23 | [Poh Di Raat](https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tee L](https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:44 |
 | 24 | [Radio](https://open.spotify.com/track/1mYjwd7fhieNlsrjiFyOr0) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 4:04 |
 | 25 | [Kharku](https://open.spotify.com/track/1xzxjqnT7mZb2Sh4HaG5tc) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:37 |

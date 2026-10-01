@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,351 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,375 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 42 | [Chưa Phải Là Yêu](https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z) | [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV), [REX](https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4) | [Chưa Phải Là Yêu](https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd) | 3:12 |
 | 43 | [Tấm Lòng Cửu Long](https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5) | [Ricky Star](https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4) | [ĐÔI CHÂN ĐI](https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs) | 5:44 |
 | 44 | [ABG](https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2) | [nhan.](https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t), [Xuanpac](https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM) | [ABG](https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l) | 3:00 |
-| 45 | [Đáng Lý Anh Nên Yêu Em Hơn](https://open.spotify.com/track/2UvqD395dhlJWO0SxHJ89n) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Mắt Nhắm Mắt Mở](https://open.spotify.com/album/0f0fmMVSSKpTeKOHXrP9El) | 3:00 |
+| 45 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 |
 | 46 | [Steppa](https://open.spotify.com/track/4CXAWKWJYgq1KsN6Vrpdpl) | [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh), [Youngun](https://open.spotify.com/artist/4kHGCMPHuU39F8EL9hjpRK) | [Steppa](https://open.spotify.com/album/3vFEAfKuw7FCeU96AFUCss) | 2:49 |
 | 47 | [TALK TO MYSELF](https://open.spotify.com/track/5upBvuANFHteDvEaaoDJgR) | [HITTWITHLOVE](https://open.spotify.com/artist/04McwEONDlPGgNP3d0Jaap), [REX](https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4), [Kemm Đá](https://open.spotify.com/artist/56b9YYgbU4U76wtBC7NfDl) | [TALK TO MYSELF](https://open.spotify.com/album/1ILhMENRj5afpl15vqpQOT) | 2:21 |
 | 48 | [quên](https://open.spotify.com/track/0Osu09oX7LWAzmjCbKtPv8) | [Lil Liem](https://open.spotify.com/artist/5WtJZwEnoNM2Te1jh6Uftx), [n0id](https://open.spotify.com/artist/4nCsDwwGHFTGl93BvjsaJN) | [quên](https://open.spotify.com/album/44l7J68DliDat5SUzEPl41) | 3:30 |

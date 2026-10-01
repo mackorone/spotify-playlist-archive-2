@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u3055\u3068\u3046\u3082\u304b",
-  "num_followers": 138986,
+  "num_followers": 138980,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 180773,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
         "name": "Dogs",
         "url": "https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 296912,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "\u7b2c\u4e09\u60d1\u661f - The Third Planet",
-        "url": "https://open.spotify.com/album/0AKItcNg4t6CC2nOu8yv98"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "\u7b2c\u4e09\u60d1\u661f - The Third Planet",
-      "url": "https://open.spotify.com/track/75B3tVCZozY6YRkC9N6ThQ"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/6dKA5LfNGimTv9IAyHhVPp"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 214000,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/6nmRFTaSwwoZ2e2Q45Pa9l"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
+        "name": "\u7b2c\u4e09\u60d1\u661f - The Third Planet",
+        "url": "https://open.spotify.com/album/0AKItcNg4t6CC2nOu8yv98"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "\u7b2c\u4e09\u60d1\u661f - The Third Planet",
+      "url": "https://open.spotify.com/track/75B3tVCZozY6YRkC9N6ThQ"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "\u30b3\u30c8\u30ce\u30cf - Kotonoha",
-        "url": "https://open.spotify.com/album/2Q9DyUG1DCeCiogiVC8jHZ"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 239840,
-      "name": "\u30b3\u30c8\u30ce\u30cf - Kotonoha",
-      "url": "https://open.spotify.com/track/7Cv5gBtM44IjVhUNMoNG8R"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
         "name": "Kill or Kiss",
         "url": "https://open.spotify.com/album/0oMQOKCOH1errI6cG7HVGn"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 185116,
       "name": "Kill or Kiss",
       "url": "https://open.spotify.com/track/2kLQYErt8QPd4cg2axB7in"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
+        "name": "\u30b3\u30c8\u30ce\u30cf - Kotonoha",
+        "url": "https://open.spotify.com/album/2Q9DyUG1DCeCiogiVC8jHZ"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 239840,
+      "name": "\u30b3\u30c8\u30ce\u30cf - Kotonoha",
+      "url": "https://open.spotify.com/track/7Cv5gBtM44IjVhUNMoNG8R"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
+        "name": "\u30bd\u30d5\u30a3\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/5W2VLS6CY3w8DWYQ7scpe3"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 284040,
+      "name": "\u30bd\u30d5\u30a3\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/5m9zC72yYWnW3Yhy7cBTtJ"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
         "name": "LOVE BEAT",
         "url": "https://open.spotify.com/album/1QICMvQde0IakCpcfVhlbz"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 208520,
       "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
       "url": "https://open.spotify.com/track/4efmtclSeuqYXi6tuGRYtm"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
-        "name": "\u30bd\u30d5\u30a3\u30ea\u30a2",
-        "url": "https://open.spotify.com/album/5W2VLS6CY3w8DWYQ7scpe3"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 284040,
-      "name": "\u30bd\u30d5\u30a3\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/5m9zC72yYWnW3Yhy7cBTtJ"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "From Tokyo with Love",
-        "url": "https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB"
+        "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
         }
       ],
-      "duration_ms": 217751,
-      "name": "TTTTOKYO",
-      "url": "https://open.spotify.com/track/1oVXwkGfDKJXnCkOlVwQez"
+      "duration_ms": 217392,
+      "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
-        "url": "https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2"
+        "name": "From Tokyo with Love",
+        "url": "https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB"
       },
       "artists": [
         {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 217392,
-      "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk"
+      "duration_ms": 217751,
+      "name": "TTTTOKYO",
+      "url": "https://open.spotify.com/track/1oVXwkGfDKJXnCkOlVwQez"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "\u7fe0\u8272\u306b\u8d08\u308b",
-        "url": "https://open.spotify.com/album/0nin4jnECyXBVEYztBA7S3"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "\u6b8b\u9177\u306b\u306a\u308a\u307e\u3059\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/7wOydiUwoKbAybdgLyjJlw"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
         "name": "L\u3068R",
         "url": "https://open.spotify.com/album/2mvm51e648ncvVB8HVfh3q"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 216888,
       "name": "L\u3068R",
       "url": "https://open.spotify.com/track/6Ln2ObReA3U9sKd3ccikz7"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
+        "name": "\u7fe0\u8272\u306b\u8d08\u308b",
+        "url": "https://open.spotify.com/album/0nin4jnECyXBVEYztBA7S3"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 208693,
+      "name": "\u6b8b\u9177\u306b\u306a\u308a\u307e\u3059\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/7wOydiUwoKbAybdgLyjJlw"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/21z1fNY6xXjnVRc9H35nDb"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "duration_ms": 146037,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/38Ly5TWg9E7B7inRwrcAbs"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
         "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
         "url": "https://open.spotify.com/album/3yMLvnj2odPbafzUUv9Ql9"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "dedede",
-        "url": "https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI"
-      },
-      "artists": [
-        {
-          "name": "Haku.",
-          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
-        }
-      ],
-      "duration_ms": 175247,
-      "name": "dedede",
-      "url": "https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un"
       },
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/21z1fNY6xXjnVRc9H35nDb"
+        "name": "dedede",
+        "url": "https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI"
       },
       "artists": [
         {
-          "name": "Litty",
-          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
         }
       ],
-      "duration_ms": 146037,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/38Ly5TWg9E7B7inRwrcAbs"
+      "duration_ms": 175247,
+      "name": "dedede",
+      "url": "https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -1479,6 +1479,22 @@
       "duration_ms": 264284,
       "name": "\u508d\u3089\u306b\u3066\u6708\u591c",
       "url": "https://open.spotify.com/track/0o73gjLRlk3XPivSBvZGAV"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
+        "name": "It\u2019s You",
+        "url": "https://open.spotify.com/album/4fyfMYVLwAQfZq6wtL0Yjs"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "duration_ms": 242986,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/2Gomh0ZdLksrgHp5uTyYMP"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -1511,22 +1527,6 @@
       "duration_ms": 191851,
       "name": "\u9053\u8349",
       "url": "https://open.spotify.com/track/3dyNDrWUWPPpjBOn3Pk6iZ"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
-        "name": "It\u2019s You",
-        "url": "https://open.spotify.com/album/4fyfMYVLwAQfZq6wtL0Yjs"
-      },
-      "artists": [
-        {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        }
-      ],
-      "duration_ms": 242986,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/2Gomh0ZdLksrgHp5uTyYMP"
     },
     {
       "added_at": "2026-09-29 15:00:23",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-09-29 15:00:23",
       "album": {
-        "name": "\u3075\u305f\u308a\u3067\u3044\u3088\u3046",
-        "url": "https://open.spotify.com/album/51lx693BwIUDAM5O8tEA3A"
-      },
-      "artists": [
-        {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
-        }
-      ],
-      "duration_ms": 246026,
-      "name": "\u3075\u305f\u308a\u3067\u3044\u3088\u3046",
-      "url": "https://open.spotify.com/track/3ZL91WJItZxbl230ZEfzCn"
-    },
-    {
-      "added_at": "2026-09-29 15:00:23",
-      "album": {
         "name": "Wanna me",
         "url": "https://open.spotify.com/album/5Gm9NPCshVejCzruoNJRuh"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 236160,
       "name": "Wanna me",
       "url": "https://open.spotify.com/track/2JUjL1621goUg9JbLGUsrA"
+    },
+    {
+      "added_at": "2026-09-29 15:00:23",
+      "album": {
+        "name": "\u3075\u305f\u308a\u3067\u3044\u3088\u3046",
+        "url": "https://open.spotify.com/album/51lx693BwIUDAM5O8tEA3A"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "duration_ms": 246026,
+      "name": "\u3075\u305f\u308a\u3067\u3044\u3088\u3046",
+      "url": "https://open.spotify.com/track/3ZL91WJItZxbl230ZEfzCn"
     },
     {
       "added_at": "2026-09-29 15:00:23",

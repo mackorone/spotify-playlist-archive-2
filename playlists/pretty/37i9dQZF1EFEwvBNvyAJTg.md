@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160 likes - 189 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 159 likes - 189 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 91 | [Loudmouth](https://open.spotify.com/track/6cCHKwvTMIrA0SyRjkoN6C) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 4:02 |
 | 92 | [Declaration](https://open.spotify.com/track/5h3sUmbwEdFkxejGryYhj6) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:38 |
 | 93 | [Lose My Love \(Acoustic\)](https://open.spotify.com/track/4Rzjt3rkPs5PfrBg5kPgxz) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Lose My Love \(Acoustic\)](https://open.spotify.com/album/4bcNl7WHYBTiy0BXGsdayM) | 3:00 |
-| 94 | [Golden](https://open.spotify.com/track/4noRLVoGQH2YCtJ1JUKDKi) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:46 |
-| 95 | [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 |
+| 94 | [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 |
+| 95 | [Golden](https://open.spotify.com/track/4noRLVoGQH2YCtJ1JUKDKi) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:46 |
 | 96 | [Lonely](https://open.spotify.com/track/0u0UwHTBElRtS8QImH1oR4) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 2:40 |
 | 97 | [I Gotta I Gotta](https://open.spotify.com/track/2pKLhfqiY6yD1tZWlbE3tQ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Gotta I Gotta](https://open.spotify.com/album/5tfq2xwJtGRKA7rIJgMyix) | 2:17 |
 | 98 | [Out For The Weekend](https://open.spotify.com/track/7rl1Z4u5EEtG03Nv6NohsB) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Out For The Weekend](https://open.spotify.com/album/5xTD5saqA6XYfi3A7C8nyA) | 3:27 |
@@ -174,8 +174,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 164 | [Are We Gonna Play?](https://open.spotify.com/track/53AjjgxI3plxw34vGwpr1H) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Finding Neverland The Album \(Songs From The Broadway Musical\)](https://open.spotify.com/album/69grMvq7lgEuogl6YdpnBW) | 2:48 |
 | 165 | [Trapped In The Car](https://open.spotify.com/track/3rROv6Wlp9i3Ocx7aJ1yFq) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Lost but Found](https://open.spotify.com/album/1MfTTBG6YwGiOkph1bPs9L) | 2:46 |
 | 166 | [TEST YOU](https://open.spotify.com/track/0cNCZ2X0ckWZYxD1sjhnWI) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [IT'S NOT ABOUT YOU NO MORE](https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy) | 2:46 |
-| 167 | [Get Into It](https://open.spotify.com/track/1GqJ05nhtax7yuCLypwZGr) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:02 |
-| 168 | [Don't Kill My Vibe](https://open.spotify.com/track/58tGCL2ir7M0iJDdhCsLLW) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:33 |
+| 167 | [Don't Kill My Vibe](https://open.spotify.com/track/58tGCL2ir7M0iJDdhCsLLW) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:33 |
+| 168 | [Get Into It](https://open.spotify.com/track/1GqJ05nhtax7yuCLypwZGr) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:02 |
 | 169 | [Planet Lonely](https://open.spotify.com/track/2O9TR86ZliDlmIKcduJ3VT) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Planet Lonely](https://open.spotify.com/album/2Bc112Kr0ntu1SAci8yJ4B) | 1:58 |
 | 170 | [You Make It so Easy, Don't You \(feat\. Sam Sparro\)](https://open.spotify.com/track/08XXFoYJNdPnYGxVS9a7A9) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Fun City](https://open.spotify.com/album/2sxw4rC5lerPPb5gDbOwWm) | 3:18 |
 | 171 | [Enjoy Youth](https://open.spotify.com/track/3fBT8ulgB2jVaOr77QEV9u) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 4:11 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 188 | [Crush](https://open.spotify.com/track/5cjyHKXAV1OCX8MpjoAglp) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Super Deluxe Edition\)](https://open.spotify.com/album/1nB0GYarRd5bnenhk2FdA7) | 2:46 |
 | 189 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcdoxAAAAADLO27rzFvkaqoy9tI8qbg2`
+Snapshot ID: `AcduZAAAAACP8fZmENm1fgj7TrZ8xiLY`

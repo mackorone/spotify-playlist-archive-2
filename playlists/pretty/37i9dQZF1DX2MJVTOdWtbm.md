@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B ❤️ La casa del R&B Latino\. Cover: Immasoul
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,139 likes - 154 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,152 likes - 154 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

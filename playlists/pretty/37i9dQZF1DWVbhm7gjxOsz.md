@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,533 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,581 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 27 | [Natural High](https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd) | [Bloodstone](https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk) | [Natural High](https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2) | 4:00 |
 | 28 | [Whatcha See Is Whatcha Get](https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:34 |
 | 29 | [Fire And Desire](https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 7:17 |
-| 30 | [Mr\. Lonely](https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:41 |
-| 31 | [The Agony And The Ecstasy](https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 4:49 |
+| 30 | [The Agony And The Ecstasy](https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 4:49 |
+| 31 | [Mr\. Lonely](https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:41 |
 | 32 | [Love...Can Be So Wonderful](https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC) | [The Temprees](https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU) | [The Best Of The Temprees](https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG) | 4:21 |
 | 33 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
 | 34 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 122 | [I Really Love You](https://open.spotify.com/track/1wwjrU9JBVzbSvcHlyntxt) | [Deztini Farinas](https://open.spotify.com/artist/1hnF4gDndtUcKpcLhz8hWy) | [I Really Love You](https://open.spotify.com/album/0egWJ6uyEXJecs0TiP9vc7) | 3:06 |
 | 123 | [Somebody Please \(Stereo Mix 2019\)](https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE) | [The Vanguards](https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW) | [Somebody Please \(Stereo Mix 2019\)](https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6) | 3:51 |
 | 124 | [Sweet Thing](https://open.spotify.com/track/1YvNzsK7eD8Bu7JShCjD90) | [Nick Wilkins](https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI), [Scott Griffin](https://open.spotify.com/artist/7rt6LADzZyTTDxwjsM4ASJ), [Aléjandra Soleil](https://open.spotify.com/artist/6Qpj6XaX9rQr4XXOgFfntn) | [Sweet Thing](https://open.spotify.com/album/4UDP4rLKDeLOFxzPPyoNI9) | 3:08 |
-| 125 | [I Want You Back \- Remastered](https://open.spotify.com/track/1ZWoj485L6n4QRN0ahm5iY) | [Don Julian & The Larks](https://open.spotify.com/artist/15FPSd4ron3lLiv8A4V97y) | [East Side Story Volume 5](https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl) | 3:08 |
-| 126 | [La Vida Es Fría](https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [La Vida Es Fría](https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp) | 3:22 |
+| 125 | [La Vida Es Fría](https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [La Vida Es Fría](https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp) | 3:22 |
+| 126 | [I Want You Back \- Remastered](https://open.spotify.com/track/1ZWoj485L6n4QRN0ahm5iY) | [Don Julian & The Larks](https://open.spotify.com/artist/15FPSd4ron3lLiv8A4V97y) | [East Side Story Volume 5](https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl) | 3:08 |
 | 127 | [One Summer Night](https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4) | [The Danleers](https://open.spotify.com/artist/1W0oUYvRe6jjI2SuaiigFv) | [Presenting The Danleers](https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R) | 2:13 |
 | 128 | [I Love You for All Seasons](https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy) | [The Fuzz](https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t) | [Sisters of Soul; the Sweeter Voices of Soul](https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l) | 3:04 |
 | 129 | [Reasons](https://open.spotify.com/track/55xs0ctzl8u3OY9KLmnyu2) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Greatest Hits](https://open.spotify.com/album/339IjdizH8YIpwOUbUWGjl) | 4:58 |

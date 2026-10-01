@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,896 songs - 11 day 1 hr 17 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,897 songs - 11 day 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4904,5 +4904,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4894 | [Despedida De Lujo](https://open.spotify.com/track/7nrBRsBnce4xlB4yicQlqm) | [Leyder Beisan](https://open.spotify.com/artist/3R3bxAbwxbdHOomXkAt6CR) | [Despedida De Lujo](https://open.spotify.com/album/17iES2EnkCMCYmoya9Z1Cn) | 3:15 |
 | 4895 | [Amor Sin Conexión](https://open.spotify.com/track/0VLGCrUvr77ZPalGBSd30D) | [DANNY DAZZ](https://open.spotify.com/artist/2dCYKvTlGlcFgwIwGh5g0F) | [Evolución](https://open.spotify.com/album/357PXqaxnhgfA1jRsh1mtm) | 4:04 |
 | 4896 | [Fuck the Guilt](https://open.spotify.com/track/0Iqm7bTFRqlygmFPyMC5S9) | [Athen Vale](https://open.spotify.com/artist/0YD3z4y8JJXddb1aHDi8oE) | [Fuck the Guilt](https://open.spotify.com/album/7vOrTWLBs2Cpeu2zV8tOPm) | 2:39 |
+| 4897 | [Losing Control](https://open.spotify.com/track/24x8zbSJ72uRWc6xM63Idy) | [Mindscape Lab](https://open.spotify.com/artist/62CykolqF4eLYT5Q01D236) | [Deep Pression II – Relapse](https://open.spotify.com/album/35boMnlPM2sKvgjmM6aoe4) | 2:53 |
 
-Snapshot ID: `AAAKWZXNY4BRx1OAdnqi+Sk93wJy7nCJ`
+Snapshot ID: `AAAKWkHB4f6OR2Rpnl9xpAcM1q+IGBhL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,899 likes - 593 songs - 1 day 16 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,898 likes - 593 songs - 1 day 16 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,8 +157,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 147 | [Unfinished Songs](https://open.spotify.com/track/37FWLRydBTjmDdOwNYjqrP) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Loved Me Back to Life](https://open.spotify.com/album/0rsJSdnc89hsmJkCV24YQK) | 3:40 |
 | 148 | [Open Road](https://open.spotify.com/track/79GIQ05BA674iw4Eoy6KmE) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB), [Absolute](https://open.spotify.com/artist/4ewAGkp20YJ8KDi2nDrTmt) | [Open Road](https://open.spotify.com/album/5Gw7fOOrsnB0ZeKyghATAX) | 4:22 |
 | 149 | [Let's Make It Last All Night](https://open.spotify.com/track/6uZfdeaNSXh42d16eSj49M) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Two Fires](https://open.spotify.com/album/2F9ywIws07eHYcIvg8KFTn) | 4:06 |
-| 150 | [Note to God](https://open.spotify.com/track/7MlEmf2a7vrvXJ1v0AHFoe) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/2GhwG1q1nyMEc3GAfnQysg) | 3:58 |
-| 151 | [The Same Love](https://open.spotify.com/track/07YAP0FPP2cXx30NM2hBwk) | [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Believe](https://open.spotify.com/album/15buuJJtVXJ0ccRjqv5P0r) | 3:58 |
+| 150 | [The Same Love](https://open.spotify.com/track/07YAP0FPP2cXx30NM2hBwk) | [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Believe](https://open.spotify.com/album/15buuJJtVXJ0ccRjqv5P0r) | 3:58 |
+| 151 | [Note to God](https://open.spotify.com/track/7MlEmf2a7vrvXJ1v0AHFoe) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/2GhwG1q1nyMEc3GAfnQysg) | 3:58 |
 | 152 | [I'm Still Breathing](https://open.spotify.com/track/7r3ZDv5CoIvWH0fDWMizJQ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:15 |
 | 153 | [It Isn't, It Wasn't, It Ain't Never Gonna Be \(with Whitney Houston\) \- Album Edit](https://open.spotify.com/track/4dnZWUuBgcvy2WsAO6SPTq) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Through the Storm \(Expanded Edition\)](https://open.spotify.com/album/0EX7mlERvnmWSWMUBukVim) | 4:49 |
 | 154 | [I Belong to Me](https://open.spotify.com/track/7bIld1aH9R3zgGgzMWLxcU) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me) | 3:40 |
@@ -480,8 +480,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 470 | [Riivinrautahumppa](https://open.spotify.com/track/47scnIyEs3O95JVO8cLmlV) | [Eläkeläiset](https://open.spotify.com/artist/3HKoyHD86fikvLBdecyl5j) | [Humpan kuninkaan hovissa](https://open.spotify.com/album/7gz76r9FtfbPseiuLbXRGA) | 2:06 |
 | 471 | [Places I've Been](https://open.spotify.com/track/1bP40fkBHVutRjd7FIbj9J) | [Taylor Hicks](https://open.spotify.com/artist/3E3tW69eMfAffLGgsmP3GG) | [Taylor Hicks](https://open.spotify.com/album/3nlWXJ6v7cemNilz77YcxD) | 3:29 |
 | 472 | [You Are My Heaven](https://open.spotify.com/track/3trKxBaWivjVutTwTk9U83) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:36 |
-| 473 | [Emergency..\. \(c'est juste pour rire\)](https://open.spotify.com/track/7wJvygRRDU8tWJGDw1KnVy) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Merci](https://open.spotify.com/album/1OywRJOoGaifH6Jug5zdLg) | 3:53 |
-| 474 | [If This Day \- From The Gray House Original Soundtrack](https://open.spotify.com/track/0Te2w0wQWeyPwvrKxsrkXq) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [If This Day \(From The Gray House Original Soundtrack\)](https://open.spotify.com/album/6t4KP347nsJTwRA2GXnAlU) | 3:03 |
+| 473 | [If This Day \- From The Gray House Original Soundtrack](https://open.spotify.com/track/0Te2w0wQWeyPwvrKxsrkXq) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [If This Day \(From The Gray House Original Soundtrack\)](https://open.spotify.com/album/6t4KP347nsJTwRA2GXnAlU) | 3:03 |
+| 474 | [Emergency..\. \(c'est juste pour rire\)](https://open.spotify.com/track/7wJvygRRDU8tWJGDw1KnVy) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Merci](https://open.spotify.com/album/1OywRJOoGaifH6Jug5zdLg) | 3:53 |
 | 475 | [Never Changing Love](https://open.spotify.com/track/6Gvle1zxRejXZh57PLpDNS) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [21..\. Ways To Grow \(Expanded Edition\)](https://open.spotify.com/album/1LCN1FSKjERpebIGF7TmtU) | 4:16 |
 | 476 | [Language Of Love](https://open.spotify.com/track/5kkwOqclBO8CHyryiEvYBn) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/53maQl8jkqxVZe4mu2rBAN) | 4:15 |
 | 477 | [Letting You Go](https://open.spotify.com/track/7C6iDUTZxf6YbkLaxiXU1y) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [Time](https://open.spotify.com/album/36b3VVCe459J9S3JsC9Knz) | 4:47 |
@@ -524,9 +524,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 514 | [There Is No Heart That Won't Heal](https://open.spotify.com/track/0MG53mMBZb4mJpqR0Ukmjd) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Naked Without You](https://open.spotify.com/album/6qrmgCo7ZTnPPqLEcCcdvD) | 5:17 |
 | 515 | [Little Too Much, Little Too Late](https://open.spotify.com/track/6p4yXipO2RNsb9IuJbHnCA) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring \(Deluxe\)](https://open.spotify.com/album/7hbEvzk6T3oVLJXw1mNoix) | 3:24 |
 | 516 | [New Fire from an Old Flame](https://open.spotify.com/track/2KbJbYybWdMuJ9eDkE1nWs) | [Miki Howard](https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh) | [Femme Fatale](https://open.spotify.com/album/06jxwPZJrt0LQ6Jzbh0kbO) | 4:21 |
-| 517 | [Love Can Do That](https://open.spotify.com/track/2OKK2s7XOjqsfwMErdbi7G) | [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA) | [Love Can Do That](https://open.spotify.com/album/269hwhejxSAHEk91uGaVaA) | 4:26 |
-| 518 | [For You I Will](https://open.spotify.com/track/0sObrtFKGxWXLSe92kVBF9) | [The Pioneer Creek Gang](https://open.spotify.com/artist/6rFHM9LCS7Fg5CDqZcifWC) | [\#1 R&B Hits, Vol\. 2](https://open.spotify.com/album/2sTMsj8cHE1LpBO8t6B8Xy) | 4:52 |
-| 519 | [Kiss Me Tonight](https://open.spotify.com/track/4Ztiw8TAZX9rdQqxZKq5F9) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [Kiss Me Tonight](https://open.spotify.com/album/18PjnZ68NIo5ZkZvdBdQqo) | 3:10 |
+| 517 | [Kiss Me Tonight](https://open.spotify.com/track/4Ztiw8TAZX9rdQqxZKq5F9) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [Kiss Me Tonight](https://open.spotify.com/album/18PjnZ68NIo5ZkZvdBdQqo) | 3:10 |
+| 518 | [Love Can Do That](https://open.spotify.com/track/2OKK2s7XOjqsfwMErdbi7G) | [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA) | [Love Can Do That](https://open.spotify.com/album/269hwhejxSAHEk91uGaVaA) | 4:26 |
+| 519 | [For You I Will](https://open.spotify.com/track/0sObrtFKGxWXLSe92kVBF9) | [The Pioneer Creek Gang](https://open.spotify.com/artist/6rFHM9LCS7Fg5CDqZcifWC) | [\#1 R&B Hits, Vol\. 2](https://open.spotify.com/album/2sTMsj8cHE1LpBO8t6B8Xy) | 4:52 |
 | 520 | [Taste the Tears \- Thunderpuss Original Mix](https://open.spotify.com/track/19CSCNrnrQOsVgJZxMR8M6) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [The Hits Remixed](https://open.spotify.com/album/3k7C0kAgsm4e0R5HeluMMB) | 3:47 |
 | 521 | [Time Will](https://open.spotify.com/track/76h0PJfdpdPNPErt70hWlk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:47 |
 | 522 | [When I'm Back On My Feet Again](https://open.spotify.com/track/6IgjowpZxvKBJuuYmrS3qN) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [Dean Man's Tan](https://open.spotify.com/album/7e2KdcHGo6fsSeScGm3KMm) | 3:52 |
@@ -602,4 +602,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 592 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 593 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcdopgAAAAA1r8hFr1hz7wuWpee+n6ar`
+Snapshot ID: `AcduUAAAAACTc4Ct1uNYvHHaVEO5DvDE`

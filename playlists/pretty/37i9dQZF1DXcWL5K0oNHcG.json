@@ -1,13 +1,45 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE Artwork: Joy Yamusangie.",
-  "num_followers": 245631,
+  "num_followers": 245698,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANFcVLz5cuvdUlTd1c1DuirUOACF",
+  "snapshot_id": "AAAAAPNzP4Hmx0Ok9mOrCPl85Q4RI+Uj",
   "tracks": [
+    {
+      "added_at": "2026-09-30 16:35:31",
+      "album": {
+        "name": "there are mirrors everywhere",
+        "url": "https://open.spotify.com/album/1kESAdt1UaileXb6PFGsEY"
+      },
+      "artists": [
+        {
+          "name": "vuyo viwe",
+          "url": "https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj"
+        }
+      ],
+      "duration_ms": 515500,
+      "name": "tropic of capricorn",
+      "url": "https://open.spotify.com/track/29dc2WJ4t01L98MJYFGWuZ"
+    },
+    {
+      "added_at": "2026-09-30 16:35:31",
+      "album": {
+        "name": "Rumination",
+        "url": "https://open.spotify.com/album/1bW4lCqvwXFCIt0BEUJGt1"
+      },
+      "artists": [
+        {
+          "name": "Charles Overton",
+          "url": "https://open.spotify.com/artist/1K98DJ68l2U9IRZTxHQed4"
+        }
+      ],
+      "duration_ms": 307410,
+      "name": "Rumination",
+      "url": "https://open.spotify.com/track/5mS21XPztr14Nb6E8C1Pgx"
+    },
     {
       "added_at": "2026-09-23 04:00:18",
       "album": {
@@ -725,26 +757,6 @@
       "url": "https://open.spotify.com/track/5pNVpQECQ0YY1yuD75nSXq"
     },
     {
-      "added_at": "2026-02-18 17:47:31",
-      "album": {
-        "name": "Tea For Two",
-        "url": "https://open.spotify.com/album/30B0t8xw2v0tFv44fs6yj9"
-      },
-      "artists": [
-        {
-          "name": "Ari Alexander",
-          "url": "https://open.spotify.com/artist/5TUPHEJx8yYHZvPg80482h"
-        },
-        {
-          "name": "Cecil Alexander",
-          "url": "https://open.spotify.com/artist/42oLcqYpvwyPY5BZO6oqfa"
-        }
-      ],
-      "duration_ms": 158289,
-      "name": "Tea For Two",
-      "url": "https://open.spotify.com/track/4Iz1avENa26Lr2FJJxCjon"
-    },
-    {
       "added_at": "2026-03-04 14:28:02",
       "album": {
         "name": "Life Sketching #06",
@@ -851,22 +863,6 @@
       "duration_ms": 263213,
       "name": "Shoal",
       "url": "https://open.spotify.com/track/2jKsP66gOCm0FJKEhuZ6yd"
-    },
-    {
-      "added_at": "2026-02-11 19:41:30",
-      "album": {
-        "name": "Momentum Shift",
-        "url": "https://open.spotify.com/album/0SqdoP0jQb9ngG0FA1Sgju"
-      },
-      "artists": [
-        {
-          "name": "Ryosuke Kojima",
-          "url": "https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Momentum Shift",
-      "url": "https://open.spotify.com/track/07Q9pG7zFW4PLEXWzp6Jki"
     },
     {
       "added_at": "2026-03-04 14:28:02",

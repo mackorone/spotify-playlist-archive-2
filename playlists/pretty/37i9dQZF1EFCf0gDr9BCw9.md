@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669 likes - 176 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 670 likes - 176 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 141 | [Coffee and Kisses](https://open.spotify.com/track/0ursbi6z3JFL0Tndox3C0a) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:10 |
 | 142 | [Toot Suite : Red Garter \- From The Album Duke Ellington Jazz Party](https://open.spotify.com/track/6vOrhq9FHTEea7jXLttoTA) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 3:40 |
 | 143 | [Take It Slow](https://open.spotify.com/track/5TeZCLMIwQahKBJaxCfV3k) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection, Vol\. 3: Studio Sessions New York, 1962](https://open.spotify.com/album/1QDl5p8iwOIpyqllm73bC2) | 2:57 |
-| 144 | [Too Late](https://open.spotify.com/track/2orMq4m4fROSPJW7IJX7zr) | [Samuel M\. Lewis](https://open.spotify.com/artist/1D1nGlhOU1C1vAlwnTUelD), [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Victor Young Orchestra](https://open.spotify.com/artist/3EQ5IozQSPnosaIdHxwA2r) | [Crosby, Bing: Some of These Days \(1931\-1933\)](https://open.spotify.com/album/7uVA7pG20okz4Tt1f84MPM) | 3:08 |
-| 145 | [Double Ruff](https://open.spotify.com/track/2rqPTnyEzokTazwWyLDtT7) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington Vol\. 4](https://open.spotify.com/album/5WS8fJoxWB7mhL7lixYmUL) | 2:50 |
+| 144 | [Double Ruff](https://open.spotify.com/track/2rqPTnyEzokTazwWyLDtT7) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington Vol\. 4](https://open.spotify.com/album/5WS8fJoxWB7mhL7lixYmUL) | 2:50 |
+| 145 | [Too Late](https://open.spotify.com/track/2orMq4m4fROSPJW7IJX7zr) | [Samuel M\. Lewis](https://open.spotify.com/artist/1D1nGlhOU1C1vAlwnTUelD), [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Victor Young Orchestra](https://open.spotify.com/artist/3EQ5IozQSPnosaIdHxwA2r) | [Crosby, Bing: Some of These Days \(1931\-1933\)](https://open.spotify.com/album/7uVA7pG20okz4Tt1f84MPM) | 3:08 |
 | 146 | [There Was Nobody Looking](https://open.spotify.com/track/0I9tEYd8foW37GdzmIPuvo) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music & Cabu Present Duke Ellington at the Piano](https://open.spotify.com/album/7nnCsQ6WJXoQ7N8IGvbKW0) | 2:57 |
 | 147 | [Swing Dance](https://open.spotify.com/track/6V2L2VdpeDURO7qTlSdc3Z) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 2:33 |
 | 148 | [Swamp Drum](https://open.spotify.com/track/6uNAphp0WKyA6bRwF86pyk) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 2:45 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 175 | [Rhumbop](https://open.spotify.com/track/6ebY9lVt94BL4VWduLL0eq) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:29 |
 | 176 | [Up and Down, up and Down \(I Will Lead Them up and Down\)](https://open.spotify.com/track/2miKp3bcM2dEB9FmLOG9nT) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 2:52 |
 
-Snapshot ID: `AcdopgAAAABQKaEwkFZECcmJUDKTqpG+`
+Snapshot ID: `AcduUAAAAAC1CYENX4Id+LUoU07cPPk7`

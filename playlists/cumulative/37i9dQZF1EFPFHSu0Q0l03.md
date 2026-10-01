@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-329 songs - 21 hr 38 min
+330 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [I'll Tell You Everything](https://open.spotify.com/track/4MGEM5fktBHcB0gJzVswsv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:42 | 2026-03-02 |  |
 | [Icarus \(with Gigi Perez\)](https://open.spotify.com/track/5JHbJWAt56lUXP70gEeBRv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:12 | 2026-03-02 |  |
 | [Ice Machines](https://open.spotify.com/track/5HjovA5JOU4SrNxotF3i1d) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:16 | 2024-04-25 |  |
+| [Idiot Heart](https://open.spotify.com/track/4q19pDhRFj5NQb4EKgfRA0) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Good Grief](https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7) | 3:16 | 2026-09-30 |  |
 | [Intro](https://open.spotify.com/track/74umlCTg586DqpCsO3Vl85) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Cyrano \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tK3QDXwCcgMl2bbgaZQD0) | 0:37 | 2024-04-25 |  |
 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 | 2024-04-25 |  |
 | [It Never Happened](https://open.spotify.com/track/7timozTlGw1k7yyZH4RTP3) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers](https://open.spotify.com/album/2GXoU6gpOlx1oZ0DkNgrUM) | 4:37 | 2024-04-25 |  |

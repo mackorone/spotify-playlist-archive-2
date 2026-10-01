@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: LE SSERAFIM\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: Keyveatz\)
 
-643 songs - 1 day 9 hr 7 min
+644 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [2 Months](https://open.spotify.com/track/1ayDPLiUj3blLqVkVufY0X) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#You Are You](https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ) | 2:27 | 2025-05-28 | 2025-06-28 |
 | [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 | 2026-01-27 | 2026-04-25 |
 | [A.I TROOPER](https://open.spotify.com/track/33xJsKmNqrm8909NnjbguA) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [A.I TROOPER](https://open.spotify.com/album/4EgzPL3u6phqVolLWJhQw6) | 2:02 | 2020-10-13\* | 2022-04-21 |
+| [A1 GO](https://open.spotify.com/track/3Fxyus5dy1VVF0IRyyKjPF) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Mixtape : A1 GO](https://open.spotify.com/album/4AxIouGKYNLcW7L7ADFu9B) | 2:18 | 2026-09-30 |  |
 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-14 |  |
 | [Abracadabra](https://open.spotify.com/track/3OL3ZJ6YEJpTTxFENVK3L8) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Abracadabra \[THE SEASONS: Red Carpet with Lee Hyo Ri\]](https://open.spotify.com/album/7a81w6Jk4mMnDC6NL36zao) | 3:02 | 2024-03-11 | 2024-04-03 |
 | [ACACIA](https://open.spotify.com/track/5skqcVEBZpXIEICB0yj3XI) | [YEZI](https://open.spotify.com/artist/6LPOT9C3gvGQHxlZtMLHHg) | [ACACIA](https://open.spotify.com/album/0hwx9RAwQqLMt5gCDrC49w) | 3:32 | 2022-05-28 | 2022-05-31 |
@@ -593,7 +594,7 @@
 | [WANT IT?](https://open.spotify.com/track/2DvBbpZ9MjOQZs2HtN5Ake) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) | 3:20 | 2021-01-21 | 2022-04-18 |
 | [water color](https://open.spotify.com/track/2pNJ0TsgiRc4mGdYHazD5w) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Redd](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) | 3:09 | 2021-04-29 | 2022-07-27 |
 | [WAVE](https://open.spotify.com/track/6niv1pqSja00ZaCZTjUtRn) | [Limesoda](https://open.spotify.com/artist/3VZFE0VtlgyCog2X9Cwd2C) | [WAVE](https://open.spotify.com/album/3cNphMDn97zeDrILVZA2Cu) | 3:48 | 2021-02-26 | 2022-06-13 |
-| [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL) | 2:54 | 2026-05-11 |  |
+| [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL) | 2:54 | 2026-05-11 | 2026-10-01 |
 | [WE ARE LEGENDARY](https://open.spotify.com/track/6Td37Nc2Dk4Ntmxmv6NVTx) | [SONAMOO](https://open.spotify.com/artist/2MY1GcYSTw3QH2C1Umzsq0) | [WE ARE LEGENDARY](https://open.spotify.com/album/1zEyocmo58vvrRWETd7bnD) | 3:29 | 2021-03-17 | 2022-04-15 |
 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 | 2023-02-14 | 2023-03-28 |
 | [we don't go to bed tonight](https://open.spotify.com/track/4YYLKkdYHTiqHLuwLE2Bnl) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [we don't go to bed tonight](https://open.spotify.com/album/1O7eVWHIgUPkkLlwp9PnNk) | 3:03 | 2026-04-07 | 2026-04-25 |

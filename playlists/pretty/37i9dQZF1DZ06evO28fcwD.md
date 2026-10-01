@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,407 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,409 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 | 49 | [Once In a Blue Moon](https://open.spotify.com/track/0nlvbQBi4XNQGB2Rsi51oF) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [In Harmony](https://open.spotify.com/album/5ciWiRD3ZT6YkAwaM7DzE5) | 3:57 |
 | 50 | [Walk In The Light](https://open.spotify.com/track/4B1itxpEdwz5889AOdbLfX) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walk In The Light](https://open.spotify.com/album/249AbniRkHnopD6Ued4qRj) | 5:16 |
 
-Snapshot ID: `armuAAAAAAAyLKBTfV/Agt/kB2gLXbc3`
+Snapshot ID: `armuAAAAAAB02nEuO7zfKXh4FGnCD+LF`

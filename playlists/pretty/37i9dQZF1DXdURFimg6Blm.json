@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1486259,
+  "num_followers": 1486367,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,26 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
+        "name": "Can I Ride",
+        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "95 South",
+          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
+        }
+      ],
+      "duration_ms": 163888,
+      "name": "Can I Ride",
+      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
+    },
+    {
+      "added_at": "2026-09-18 04:02:33",
+      "album": {
         "name": "I Wanna Go - John Summit Remix",
         "url": "https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 147269,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
-    },
-    {
-      "added_at": "2026-09-18 04:02:33",
-      "album": {
-        "name": "Can I Ride",
-        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "95 South",
-          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
-        }
-      ],
-      "duration_ms": 163888,
-      "name": "Can I Ride",
-      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
     },
     {
       "added_at": "2026-09-18 04:02:33",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "Come To Life",
-        "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 192209,
-      "name": "Come To Life",
-      "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
-    },
-    {
-      "added_at": "2026-09-18 04:02:33",
-      "album": {
         "name": "Comes and Goes (Dom Dolla Remix)",
         "url": "https://open.spotify.com/album/0P1a7qP5rKjk9tCdj8SAd5"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 267272,
       "name": "Comes and Goes - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/3vVapQ0417yRGO66kWT2V3"
+    },
+    {
+      "added_at": "2026-09-18 04:02:33",
+      "album": {
+        "name": "Come To Life",
+        "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 192209,
+      "name": "Come To Life",
+      "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
     },
     {
       "added_at": "2026-09-18 04:02:33",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
+        "name": "Electrify",
+        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Electrify",
+      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
+    },
+    {
+      "added_at": "2026-09-18 04:02:33",
+      "album": {
         "name": "The Way I Are (Max Dean Remix)",
         "url": "https://open.spotify.com/album/2PGg01PDpfS5pJqUj7iaEj"
       },
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "Electrify",
-        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/2tENxRVzu8QejEn6bmcmsc"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
         }
       ],
-      "duration_ms": 156428,
-      "name": "Electrify",
-      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
+      "duration_ms": 149516,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/2EA3soO6codXlcY4CmtJMt"
     },
     {
       "added_at": "2026-09-18 04:02:33",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/2tENxRVzu8QejEn6bmcmsc"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/2EA3soO6codXlcY4CmtJMt"
-    },
-    {
-      "added_at": "2026-09-18 04:02:33",
-      "album": {
         "name": "$MONEY",
         "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 169105,
-      "name": "Testo Skin Part 1",
-      "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
-    },
-    {
-      "added_at": "2026-09-18 04:02:33",
-      "album": {
         "name": "I Need Your Lovin'",
         "url": "https://open.spotify.com/album/2uukapgbed8sqMqHQrmlTI"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 168000,
       "name": "I Need Your Lovin'",
       "url": "https://open.spotify.com/track/5Tjkz9SXrtWdwQmEm11ZPS"
+    },
+    {
+      "added_at": "2026-09-18 04:02:33",
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 169105,
+      "name": "Testo Skin Part 1",
+      "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
     },
     {
       "added_at": "2026-09-18 04:02:33",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/7AO7DuU0gu9m7ZuW9PYRPu"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "TAET",
+          "url": "https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f"
+        }
+      ],
+      "duration_ms": 178834,
+      "name": "Second Nature",
+      "url": "https://open.spotify.com/track/48UKanzGLbagrgYxcH2cuS"
+    },
+    {
+      "added_at": "2026-09-18 04:02:33",
+      "album": {
         "name": "Turn The Tide (ft. Sylver)",
         "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 135483,
       "name": "Turn The Tide (ft. Sylver)",
       "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
-    },
-    {
-      "added_at": "2026-09-18 04:02:33",
-      "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/7AO7DuU0gu9m7ZuW9PYRPu"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "TAET",
-          "url": "https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f"
-        }
-      ],
-      "duration_ms": 178834,
-      "name": "Second Nature",
-      "url": "https://open.spotify.com/track/48UKanzGLbagrgYxcH2cuS"
     },
     {
       "added_at": "2026-09-18 04:02:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 529 likes - 76 songs - 4 hr 44 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 529 likes - 78 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 74 | [Lucky By Design](https://open.spotify.com/track/6MRtwiNS2CsH5a452gQDFO) | [A Vibrational Boost](https://open.spotify.com/artist/562rbYfcYKIgltrldsEajA) | [Lucky By Design](https://open.spotify.com/album/6gMV80yzfE2XEE9Q51jRD9) | 2:30 |
 | 75 | [Everything Is Clicking](https://open.spotify.com/track/2fNwdngc5DlGgXE8ssRJsV) | [A Vibrational Boost](https://open.spotify.com/artist/562rbYfcYKIgltrldsEajA) | [This Kind Of Feeling](https://open.spotify.com/album/41asp5JDOB5g3nKGr85J7L) | 3:18 |
 | 76 | [Make It Right Tonight](https://open.spotify.com/track/2N6E9QHbKfUN4B2tRelFNQ) | [GIABY](https://open.spotify.com/artist/20co0JO6iFN5Xh4oKbA7Nv) | [Make It Right Tonight](https://open.spotify.com/album/6WKra06AdOGLWguPJIjsGM) | 3:44 |
+| 77 | [Nuje Sotto ’O Cielo](https://open.spotify.com/track/2CgWhoeovLTH3G9KezqLjG) | [Nero Vesuvio](https://open.spotify.com/artist/6K0PlJ1GGgfIsqYaNKO0uT) | [Nuje Sotto ’O Cielo](https://open.spotify.com/album/7LCODKwjudnuXVQcR6YXtD) | 3:18 |
+| 78 | [Lucid dream](https://open.spotify.com/track/3KoN7jKYERFVQ6SUCjTQdB) | [Hugh](https://open.spotify.com/artist/4RpdpXGxT38XtAGHjjf3Im) | [Lucid dream](https://open.spotify.com/album/7qw076AzODOqCEgjrHog2b) | 3:00 |
 
-Snapshot ID: `AAACXdwyeaqj6+fQ3XjlmGvraJhh54xz`
+Snapshot ID: `AAACX3V0AS445jHtMy0m4+07yO/I9GBS`

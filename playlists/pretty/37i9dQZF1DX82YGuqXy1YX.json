@@ -1,12 +1,12 @@
 {
   "description": "All the artists playing at FORM Arcosanti 2026.",
-  "num_followers": 626,
+  "num_followers": 642,
   "original_name": "FORM Arcosanti Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOkZjmk3xsV6Xr2L/ACM9+vmPMWF",
+  "snapshot_id": "AAAAABFHTsIJZ40LtCzhSE8ZN27Ue22v",
   "tracks": [
     {
       "added_at": "2026-08-06 16:00:19",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-08-06 16:00:19",
       "album": {
-        "name": "In Limerence",
-        "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 272693,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e"
-    },
-    {
-      "added_at": "2026-08-06 16:00:19",
-      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/1TwmkxFywYn6qn4PFTejOe"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 243030,
       "name": "Hypersoft Lovejinx Junkdream",
       "url": "https://open.spotify.com/track/1C9fCrGgtkkqS8UsB8KwA4"
+    },
+    {
+      "added_at": "2026-08-06 16:00:19",
+      "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e"
     },
     {
       "added_at": "2026-08-06 16:00:19",
@@ -579,30 +579,6 @@
     {
       "added_at": "2026-08-06 16:00:19",
       "album": {
-        "name": "Na Dem",
-        "url": "https://open.spotify.com/album/6ToelXLgu2gyxDtdIfHuui"
-      },
-      "artists": [
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
-          "name": "Egypt 80",
-          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 269659,
-      "name": "Na Dem",
-      "url": "https://open.spotify.com/track/6Mn3ebt3BKoQqrCZKamdjA"
-    },
-    {
-      "added_at": "2026-08-06 16:00:19",
-      "album": {
         "name": "Let the Moon Be a Planet",
         "url": "https://open.spotify.com/album/3wFY9XEusAnyUY5GxTE6vu"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 404000,
       "name": "Over the Dune",
       "url": "https://open.spotify.com/track/3cHLDKI6zWPFtczejY5kGw"
+    },
+    {
+      "added_at": "2026-08-06 16:00:19",
+      "album": {
+        "name": "Na Dem",
+        "url": "https://open.spotify.com/album/6ToelXLgu2gyxDtdIfHuui"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Egypt 80",
+          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 269659,
+      "name": "Na Dem",
+      "url": "https://open.spotify.com/track/6Mn3ebt3BKoQqrCZKamdjA"
     },
     {
       "added_at": "2026-08-06 16:00:19",

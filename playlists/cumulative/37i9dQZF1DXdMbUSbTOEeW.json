@@ -3790,7 +3790,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 210267,
       "name": "Main Aur Tu",
       "url": "https://open.spotify.com/track/6LuxzVXwsIoN1RZr9Grw8y"
@@ -5090,6 +5090,32 @@
       "duration_ms": 228865,
       "name": "Rasiya",
       "url": "https://open.spotify.com/track/6SfviJFBzLjAZIegHY9QRi"
+    },
+    {
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/31IK2iRy13nI7JeepjD1X4"
+      },
+      "artists": [
+        {
+          "name": "KavyaKriti",
+          "url": "https://open.spotify.com/artist/1DHwrcQWDQhgbRg4BE9rgr"
+        },
+        {
+          "name": "Agsy",
+          "url": "https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp"
+        },
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/351dCswaJ118gyxKoIlmbV"
     },
     {
       "album": {

@@ -95,6 +95,50 @@
     },
     {
       "album": {
+        "name": "alone",
+        "url": "https://open.spotify.com/album/02IOegJSs4ltxbSMOPdzvs"
+      },
+      "artists": [
+        {
+          "name": "Chill Grace",
+          "url": "https://open.spotify.com/artist/5HzUpENXNhG9l34HCwjwwJ"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202307,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/1UpwTceyoCF3YAW7inm7b0"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/7oGGau3X9KPzjpC4JK1qug"
+      },
+      "artists": [
+        {
+          "name": "Simone Del Freo",
+          "url": "https://open.spotify.com/artist/44pP5tBedbl0kJ5OWNBZK4"
+        },
+        {
+          "name": "Massimo Guidi",
+          "url": "https://open.spotify.com/artist/1lioBGtdZzjCtoH0TyMD7g"
+        },
+        {
+          "name": "Luca Dini",
+          "url": "https://open.spotify.com/artist/0Z04mYCQEQrS2omtNv1ys6"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208900,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4iOEKLJhI32QHnBV0us5ii"
+    },
+    {
+      "album": {
         "name": "and still we met",
         "url": "https://open.spotify.com/album/4a4KvbTvDjQ9vMUUZo6XVp"
       },
@@ -200,6 +244,24 @@
       "duration_ms": 176428,
       "name": "Beyond the Trees - Piano & Rain",
       "url": "https://open.spotify.com/track/6pnGZ8aMMQN5IFl80ZHz85"
+    },
+    {
+      "album": {
+        "name": "Bird That Lost Her Wings",
+        "url": "https://open.spotify.com/album/4jaHAb5ZMl3JuzVWMuwcbE"
+      },
+      "artists": [
+        {
+          "name": "Angor",
+          "url": "https://open.spotify.com/artist/6hUVBbMpeRi0B7gOtGSuQb"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130100,
+      "name": "Bird That Lost Her Wings",
+      "url": "https://open.spotify.com/track/0LHfV2ixM8J1Tocdb62w8a"
     },
     {
       "album": {
@@ -398,7 +460,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 211666,
       "name": "Deep In The Forest",
       "url": "https://open.spotify.com/track/2YYqrJs7lgjmEkgO5PGd35"
@@ -621,6 +683,24 @@
     },
     {
       "album": {
+        "name": "End Of Day LA",
+        "url": "https://open.spotify.com/album/4ntQu2mHq00VMMP1zOODhc"
+      },
+      "artists": [
+        {
+          "name": "places we go",
+          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "End Of Day LA",
+      "url": "https://open.spotify.com/track/7mQ9IPAzeUPumxluQQaUnE"
+    },
+    {
+      "album": {
         "name": "Entering",
         "url": "https://open.spotify.com/album/3mxgspEMYHtoFtOEO6gSJi"
       },
@@ -722,7 +802,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 147428,
       "name": "eternity in fragments",
       "url": "https://open.spotify.com/track/79mDPIhTxwdJinCQayiGNO"
@@ -838,6 +918,24 @@
       "duration_ms": 215320,
       "name": "Flyby",
       "url": "https://open.spotify.com/track/405P9q8Fp8OIlKFEYhutNE"
+    },
+    {
+      "album": {
+        "name": "Forgotten",
+        "url": "https://open.spotify.com/album/4Eu9syBdjipatN7mWX1Ypw"
+      },
+      "artists": [
+        {
+          "name": "Ramses Ravi",
+          "url": "https://open.spotify.com/artist/0y0JV9mFY0qSk7Ka9zQAbs"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/7InfRtYq11RfZXyNKEZTc5"
     },
     {
       "album": {
@@ -1036,7 +1134,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 176000,
       "name": "Hidden Lights",
       "url": "https://open.spotify.com/track/4G7EbpymiUtSY6KGthtvH0"
@@ -1246,7 +1344,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 146619,
       "name": "Melancholic Rain",
       "url": "https://open.spotify.com/track/3gZDbtA8m1hGBUHwVO5wwg"
@@ -1671,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "trust no one",
+        "url": "https://open.spotify.com/album/3k82CCqlXZ01UExxbZqZ4P"
+      },
+      "artists": [
+        {
+          "name": "Necrem",
+          "url": "https://open.spotify.com/artist/6hMjnaf9Ow1dJSGeBudJa7"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "our secrects",
+      "url": "https://open.spotify.com/track/2MVDIJH1mFCCIyaXnTPDQh"
+    },
+    {
+      "album": {
         "name": "Pandora's Silence 528hz",
         "url": "https://open.spotify.com/album/5IwB6LYGwdnIzfiAYdIfEz"
       },
@@ -1682,7 +1798,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 147692,
       "name": "Pandora's Silence 528hz",
       "url": "https://open.spotify.com/track/5hammEY1l29UjagDkV0Qo2"
@@ -2130,6 +2246,24 @@
       "duration_ms": 161093,
       "name": "Shape of Night",
       "url": "https://open.spotify.com/track/6vgj2ZaUka6lMa9r98Dd6Z"
+    },
+    {
+      "album": {
+        "name": "she's gone",
+        "url": "https://open.spotify.com/album/2AqxyS4A4oNWXD6W0MXAMp"
+      },
+      "artists": [
+        {
+          "name": "sasa.mp3",
+          "url": "https://open.spotify.com/artist/6kkUSbZyCWq8fx0Kx46lDS"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "she's gone",
+      "url": "https://open.spotify.com/track/4Nbq9ErhfCjObHTgzwlzSV"
     },
     {
       "album": {
@@ -2612,7 +2746,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 141176,
       "name": "Vallonia",
       "url": "https://open.spotify.com/track/3xXePxE8hCa8s3gnBlT8MF"
@@ -2778,7 +2912,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 170957,
       "name": "Wichita Mountains",
       "url": "https://open.spotify.com/track/67fVPmujVatZQlXCSWhtPG"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Holy Drill & Dells TMX ",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: John Jin Han",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 209556,
       "name": "17",
       "url": "https://open.spotify.com/track/4xSOhLAzBfyWOWc8yTDV3F"
+    },
+    {
+      "album": {
+        "name": "2 Sides (A)",
+        "url": "https://open.spotify.com/album/21hvHzgdI2HT5FMP3NMdoR"
+      },
+      "artists": [
+        {
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184691,
+      "name": "2 Sides (A)",
+      "url": "https://open.spotify.com/track/46TPrcx7GuaS1AS3ZvVrMo"
     },
     {
       "album": {
@@ -910,7 +928,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 201933,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/1VbuyGK1bBv4ioZKcidXHH"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 142000,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN"
@@ -2681,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "BREAK IT DOWN",
+        "url": "https://open.spotify.com/album/070BkYPIQuqzMdod94ihwL"
+      },
+      "artists": [
+        {
+          "name": "Kai Uriah",
+          "url": "https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136250,
+      "name": "BREAK IT DOWN",
+      "url": "https://open.spotify.com/track/2QwacvSEOCcIbdKK5DP8zs"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/4xryD1sCenNXeluGoEgbEz"
       },
@@ -3194,6 +3230,24 @@
       "duration_ms": 227053,
       "name": "Can You Hear Me From Heaven",
       "url": "https://open.spotify.com/track/4g8Hu8rt3u7SNPKYmrsKdS"
+    },
+    {
+      "album": {
+        "name": "CAN'T BELIEVE",
+        "url": "https://open.spotify.com/album/0qiimlCDBGLKzAHRw5r5EY"
+      },
+      "artists": [
+        {
+          "name": "MARV",
+          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187073,
+      "name": "CAN'T BELIEVE",
+      "url": "https://open.spotify.com/track/1n4kuKZCmPxSIZn56FkxSN"
     },
     {
       "album": {
@@ -3913,6 +3967,24 @@
     },
     {
       "album": {
+        "name": "Coming Back (Recorded Live at Susan Street)",
+        "url": "https://open.spotify.com/album/0BPunEmWEfVXmDlFmrHwY4"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251729,
+      "name": "Coming Back (Recorded Live at Susan Street)",
+      "url": "https://open.spotify.com/track/3sdTfggDMAuIDhsvLg7EzA"
+    },
+    {
+      "album": {
         "name": "Coming Clean",
         "url": "https://open.spotify.com/album/7lAOoGeKqTxs8OC5pV7DhS"
       },
@@ -4358,7 +4430,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 216195,
       "name": "Cynical and Jaded",
       "url": "https://open.spotify.com/track/7JaJ2fuj8ThMybzb1JMvgW"
@@ -5144,7 +5216,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 205371,
       "name": "Don't Runaway",
       "url": "https://open.spotify.com/track/5YkTu7GZrtSNfKfTLDCyJO"
@@ -5591,6 +5663,24 @@
     },
     {
       "album": {
+        "name": "enough",
+        "url": "https://open.spotify.com/album/2nptBY3GiYkOvwbv3vbQRL"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "enough",
+      "url": "https://open.spotify.com/track/1ajvWQ22Iu420eQkFix6ge"
+    },
+    {
+      "album": {
         "name": "Enough For Me",
         "url": "https://open.spotify.com/album/0BDcHgGJBb6dR6K2fN0kNL"
       },
@@ -5904,6 +5994,24 @@
       "duration_ms": 240039,
       "name": "Everything Changed - Remix",
       "url": "https://open.spotify.com/track/24iF0GPkruazKZQXMjvFC6"
+    },
+    {
+      "album": {
+        "name": "Everything Is Better (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6sO7bNnhfvgMOLYyhuCXeo"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171677,
+      "name": "Everything Is Better - Acoustic Version",
+      "url": "https://open.spotify.com/track/5jdp2DhxNjNg2nEIXhi7rs"
     },
     {
       "album": {
@@ -8657,6 +8765,24 @@
     },
     {
       "album": {
+        "name": "Headache",
+        "url": "https://open.spotify.com/album/4zoyVNqLJop5RNpp2MBc0H"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230137,
+      "name": "Headache",
+      "url": "https://open.spotify.com/track/0HeNeWagifCnYNaaftS9ze"
+    },
+    {
+      "album": {
         "name": "Heal Sofie",
         "url": "https://open.spotify.com/album/0Vsro0WynKaCp5rXvwCYpc"
       },
@@ -9138,6 +9264,32 @@
       "duration_ms": 181714,
       "name": "Higher",
       "url": "https://open.spotify.com/track/57D4aDWr9L8QnLkH1NIyIS"
+    },
+    {
+      "album": {
+        "name": "HIGHLIGHT",
+        "url": "https://open.spotify.com/album/0cIoOPLvXjj3Iyq0cM09LW"
+      },
+      "artists": [
+        {
+          "name": "Barajas",
+          "url": "https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw"
+        },
+        {
+          "name": "Yeniell",
+          "url": "https://open.spotify.com/artist/0NfUDepBHPTyQBKWBmop91"
+        },
+        {
+          "name": "Borrero",
+          "url": "https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174014,
+      "name": "HIGHLIGHT",
+      "url": "https://open.spotify.com/track/4jlpJM9LinRqZZe8yzk9xM"
     },
     {
       "album": {
@@ -11626,7 +11778,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 186517,
       "name": "KALLAH",
       "url": "https://open.spotify.com/track/7KMBBsBa0b8nEStzLMluTo"
@@ -14478,7 +14630,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 144246,
       "name": "N.L.L.Y",
       "url": "https://open.spotify.com/track/6GkSuVt98hzriYQgyyUSeB"
@@ -15334,7 +15486,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 176000,
       "name": "nothing to lose!",
       "url": "https://open.spotify.com/track/27bAyGhdqELvShC9xNDMJP"
@@ -15708,7 +15860,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 202941,
       "name": "ON TO SOMETHING",
       "url": "https://open.spotify.com/track/2bG5dFrGm4gofIfoMrzD3u"
@@ -16052,7 +16204,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 129230,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7C4vjMINogbg9sheE6l9yP"
@@ -18508,7 +18660,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 200038,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/35I3OkokQgiDZPh9VPKlfl"
@@ -21059,6 +21211,24 @@
     },
     {
       "album": {
+        "name": "The Same (Forever + Ever)",
+        "url": "https://open.spotify.com/album/2viP4dIjmfz8IPcGzLsrnT"
+      },
+      "artists": [
+        {
+          "name": "Carlina",
+          "url": "https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131870,
+      "name": "The Same (Forever + Ever)",
+      "url": "https://open.spotify.com/track/5ik8BTwhHl8FL1p79QoIjQ"
+    },
+    {
+      "album": {
         "name": "The Table",
         "url": "https://open.spotify.com/album/1PEf5sXES0sPMFxiUNypEX"
       },
@@ -21794,6 +21964,24 @@
       "duration_ms": 133000,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/1ur7RmCSXoO5JCQnnr0TQY"
+    },
+    {
+      "album": {
+        "name": "blinded",
+        "url": "https://open.spotify.com/album/5sHnwk734jyj7kesTRzYuc"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp"
     },
     {
       "album": {
@@ -22762,6 +22950,28 @@
       "duration_ms": 213993,
       "name": "Wanna Be",
       "url": "https://open.spotify.com/track/6KCJ9E91alz1whSqp3UIj6"
+    },
+    {
+      "album": {
+        "name": "wanna be at peace tonight",
+        "url": "https://open.spotify.com/album/5waXgFGjZtAAoMVBv6vzIL"
+      },
+      "artists": [
+        {
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+        },
+        {
+          "name": "JBthaPreacher",
+          "url": "https://open.spotify.com/artist/6ShMmu8ZCu6MUoJfui5YK6"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164883,
+      "name": "wanna be at peace tonight",
+      "url": "https://open.spotify.com/track/4mo7sjk3IDB6h7f87TZ42c"
     },
     {
       "album": {

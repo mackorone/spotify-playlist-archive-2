@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Minimal Days\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: LYLEE\. Artwork: Isu Kim.
 
-4,159 songs - 10 day 2 hr 55 min
+4,162 songs - 10 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [Bedtime](https://open.spotify.com/track/5qbKGWlYgZp1Ktrk7yj70r) | [YXE](https://open.spotify.com/artist/3IIFJXZD7qzQ3rvVsMAgZW) | [Bedtime](https://open.spotify.com/album/6zLVNXqHFcCYxC7qGnkPKr) | 3:18 | 2024-08-01 | 2024-08-30 |
 | [BEFORE](https://open.spotify.com/track/5663tCK5zvF5630ocSxvOR) | [BenPlayssuuu](https://open.spotify.com/artist/2rKAMFopIecOV8vIjxvtjR), [Ikia](https://open.spotify.com/artist/20LA2dbkmH1dkEhd3AClRV) | [BEFORE](https://open.spotify.com/album/307ZX9LjP5GhTmgT9kcBXF) | 1:47 | 2026-03-05 | 2026-05-07 |
 | [Before You Leave My Heart](https://open.spotify.com/track/4SGJXiT5oEXsLCusmpS849) | [ANNA](https://open.spotify.com/artist/0kdRq6M9xM5QIw0NIfyEHN) | [Before You Leave My Heart](https://open.spotify.com/album/0eEAS5alAozUiNulHgx5bm) | 4:06 | 2022-01-27 | 2022-03-11 |
-| [Before You Left](https://open.spotify.com/track/6Bn2bgzn1Ak410q7AC6qBc) | [Camille de la Cruz](https://open.spotify.com/artist/19unJ2tL7xGtVAZ8XIyTqi) | [Before You Left](https://open.spotify.com/album/55klWigmxBqw3IRJia30z3) | 2:24 | 2026-06-24 |  |
+| [Before You Left](https://open.spotify.com/track/6Bn2bgzn1Ak410q7AC6qBc) | [Camille de la Cruz](https://open.spotify.com/artist/19unJ2tL7xGtVAZ8XIyTqi) | [Before You Left](https://open.spotify.com/album/55klWigmxBqw3IRJia30z3) | 2:24 | 2026-06-24 | 2026-10-01 |
 | [Beh Buti Nga](https://open.spotify.com/track/7AWuMFHjEfYF2BllheN74E) | [Kahel](https://open.spotify.com/artist/2en1UzOP6taB2wxIFQzULa) | [Beh Buti Nga](https://open.spotify.com/album/2L7jssqmRHM0COEiz4Ouxd) | 4:43 | 2025-01-23 | 2026-01-15 |
 | [Believe](https://open.spotify.com/track/2QjKqLxt5LhpWaLUGYIm4I) | [SK!D](https://open.spotify.com/artist/44IMSufMeFgCqrPpBTI9Di), [ALMZC](https://open.spotify.com/artist/2fNSYQe6Yqu5XgczlRC3vJ) | [Believe](https://open.spotify.com/album/6Eef0Ey4Y56yq9ZACjN3dv) | 2:53 | 2023-05-25 | 2023-06-09 |
 | [BENG](https://open.spotify.com/track/5fmbFpIzbZN6zv0mbnxFzd) | [FuMi](https://open.spotify.com/artist/5z1u78f6Cbmiewkon0fPyT) | [BENG](https://open.spotify.com/album/6gUW9sc4mUuBsAEtRevrrN) | 3:02 | 2024-06-13 | 2024-07-12 |
@@ -839,7 +839,7 @@
 | [Dekada](https://open.spotify.com/track/5riQUYoIZ5jDXZD0kqN66W) | [Justin Taller](https://open.spotify.com/artist/6EWxRnepcr37PGDIara8gI) | [Dekada](https://open.spotify.com/album/1G3JgZMBSqp2mUtfIp8eEr) | 3:40 | 2023-01-19 | 2023-02-17 |
 | [Delikado](https://open.spotify.com/track/0ZwFfvqIQ9dGtBSEkDfvTr) | [$aint Pxpe](https://open.spotify.com/artist/6Ym0aSumqoa7GnFGtk4nch) | [Delikado](https://open.spotify.com/album/5QgAMdSnqxHpuWyosSEKmL) | 2:30 | 2022-07-07 | 2022-07-22 |
 | [Delikado](https://open.spotify.com/track/5tFbhH1EcG90wiqMOywYJE) | [Lee Noynoy](https://open.spotify.com/artist/3Lunw8x5Yc1NeuvDv9AF6E) | [Delikado](https://open.spotify.com/album/4LXvj6SPvH97yBGqL0amhF) | 3:26 | 2025-07-24 | 2025-09-26 |
-| [Delikado](https://open.spotify.com/track/7DLY0iWhYVKTuXewK8oNCY) | [The Nomads](https://open.spotify.com/artist/6dfvmSow3REwLNbdpfcpOt) | [Delikado](https://open.spotify.com/album/67MgYExrsnq9DMi9Q6lMPc) | 3:39 | 2026-07-22 |  |
+| [Delikado](https://open.spotify.com/track/7DLY0iWhYVKTuXewK8oNCY) | [The Nomads](https://open.spotify.com/artist/6dfvmSow3REwLNbdpfcpOt) | [Delikado](https://open.spotify.com/album/67MgYExrsnq9DMi9Q6lMPc) | 3:39 | 2026-07-22 | 2026-10-01 |
 | [delulu](https://open.spotify.com/track/5f9o6HBTdtDGq4PlMznHx5) | [palagi.](https://open.spotify.com/artist/7CaN0416jaWruOGjD1os6S) | [delulu](https://open.spotify.com/album/0xuXgz7QqG3cjH3UIUsYhL) | 2:59 | 2024-01-11 | 2024-02-09 |
 | [Delusyon](https://open.spotify.com/track/29FjkHTUnc6KvecxhCx4mz) | [Perfect Average](https://open.spotify.com/artist/7paf4j1ddcMJDPmGAPMyjf) | [Delusyon](https://open.spotify.com/album/4GM0162RgLMMiqspCNd0rk) | 3:36 | 2022-03-10 | 2022-04-01 |
 | [DELUSYON](https://open.spotify.com/track/4fPymaE49aqxi27sHG95Se) | [Zildjan De Leon](https://open.spotify.com/artist/70eq7PDs4jQwVTU83exAaZ) | [DELUSYON](https://open.spotify.com/album/14oUZXasO9kGdHMGTPLb2r) | 4:38 | 2024-02-08 | 2024-03-08 |
@@ -884,6 +884,7 @@
 | [Di Pa Rin Sapat \(Ang Sahod\)](https://open.spotify.com/track/1k46XzLNwFFfLNGTDRw19W) | [Pinkmen](https://open.spotify.com/artist/6XNIDeowERJg7IRUiAsDrU) | [Di Pa Rin Sapat \(Ang Sahod\)](https://open.spotify.com/album/1HbPfssJY9X8qZLjLOybEU) | 4:48 | 2024-06-13 | 2024-07-12 |
 | [di sapat](https://open.spotify.com/track/0B4nSHplKOHGpguWzKohWm) | [jake lane](https://open.spotify.com/artist/2cw2yFkU1GsFOOzCWcOSWQ) | [di sapat](https://open.spotify.com/album/4CTioEvJwagjzvvcpIzplM) | 2:02 | 2023-07-06 | 2023-07-21 |
 | [Di tayo talo](https://open.spotify.com/track/2e0dh3IeEiCmyCr6GZXjLT) | [deyo](https://open.spotify.com/artist/5bF9hgr4Q88TwENK5D32Vq), [Lance A](https://open.spotify.com/artist/0fdCjtR1V4tSbkShNAXeNq) | [Di tayo talo](https://open.spotify.com/album/57DC8qqArhmmzyeTv2AADn) | 3:01 | 2023-10-19 | 2023-11-11 |
+| [DI TO HIMALA](https://open.spotify.com/track/37ZH6VsIUmwRNX7kj6yDZU) | [Hijo](https://open.spotify.com/artist/5FKfbso0qRACpiLxHQ0Ad6), [riv](https://open.spotify.com/artist/3wn0W7LBB2D2t8ZKScTeJ6) | [DORK](https://open.spotify.com/album/4MAscIFcOOTKOJxg9GayR6) | 2:20 | 2026-09-30 |  |
 | [Dial Up](https://open.spotify.com/track/1AkyuiHm8xHFSzq7XTmIEy) | [Brxn](https://open.spotify.com/artist/11sFlcfZXlFoGYEnPYfFSF) | [Dial Up](https://open.spotify.com/album/3jd6y1Bc1ABquAEvEb5B28) | 3:34 | 2023-05-25 | 2024-01-12 |
 | [Diana](https://open.spotify.com/track/7JZNqLNiYeHY4WtFvYKXqn) | [Ovaleira](https://open.spotify.com/artist/7pNS45BQk3qOwUuSxJEfg6) | [Diana](https://open.spotify.com/album/5A1KGvi09KoBqE1BxdmuEO) | 5:16 | 2025-08-07 | 2025-10-17 |
 | [Did You Find It?](https://open.spotify.com/track/4PhW0Z9U99NPtPDT8Y8uhC) | [Miguel Abella](https://open.spotify.com/artist/7gStcwSNzziJ8QL0QswaXd) | [Did You Find It?](https://open.spotify.com/album/53drB90hiqveZhAeUsRah5) | 3:25 | 2023-06-08 | 2023-06-30 |
@@ -1747,6 +1748,7 @@
 | [Isang Minuto](https://open.spotify.com/track/5N48dP8j9npXNzDmcEZMOb) | [Tatin Castillon](https://open.spotify.com/artist/0FbcznzPkwVrMhFquaeOzL) | [Isang Minuto](https://open.spotify.com/album/0bGFxEQplWIiV756bBqbuJ) | 5:04 | 2023-05-18 | 2023-06-02 |
 | [ISANGDAAN](https://open.spotify.com/track/0vVcgWUOxfxQx3f10xGMFX) | [Jekk Therapeace](https://open.spotify.com/artist/4cut06tIutBS57wt3btzez), [K\-Leb](https://open.spotify.com/artist/4lYhlnIyceAsRBOm601dLD), [R1CH](https://open.spotify.com/artist/47jH5QmL7kM2dlq46YMigI) | [ISANGDAAN](https://open.spotify.com/album/432nPkpshMFg4HWjNxHv1h) | 4:03 | 2022-09-08 | 2022-09-23 |
 | [ISFIL](https://open.spotify.com/track/6mKXtkDtxCnr0WfHL29bfy) | [Kezia Vanyel](https://open.spotify.com/artist/7xSspTZQjqeHJFbhIFQDWZ) | [ISFIL](https://open.spotify.com/album/4nJxaydCPn29t0f4KfB6BH) | 1:03 | 2022-02-24 | 2022-04-01 |
+| [Isip](https://open.spotify.com/track/4do0DDPsoFE0TsOdtc8RHF) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx) | [Isip](https://open.spotify.com/album/2IcIRs9fPtAWSJKjgrMExw) | 4:09 | 2026-09-30 |  |
 | [Issue](https://open.spotify.com/track/1A3wVjDaTQvM0YFxHbda31) | [I.V.X.N](https://open.spotify.com/artist/2OCTaDYhI6ZqXmplfXdtmw), [Mac Chillain](https://open.spotify.com/artist/49LJxgmWovtXGYhvxvoRQ7) | [Issue](https://open.spotify.com/album/4W0pbmxLNjSrXM3IGqbN7Y) | 3:48 | 2023-05-04 | 2023-05-26 |
 | [IT IS WHAT IT IS](https://open.spotify.com/track/7j9q3NRrgD5g64CVoPSFPX) | [Luwi](https://open.spotify.com/artist/0xbHD9GWJjzAlVPPfzItTD) | [IT IS WHAT IT IS](https://open.spotify.com/album/1CQErQJfkx5QEvLXn3GCL6) | 2:46 | 2025-08-21 | 2025-11-07 |
 | [It's Been a Minute](https://open.spotify.com/track/6bRObHptpD7cUdjbyuLer6) | [FlipGang](https://open.spotify.com/artist/65vJdRQiAjWbDlMgr4aXkR) | [It's Been a Minute](https://open.spotify.com/album/4vctdGHZF9gvU6F97Sufke) | 3:55 | 2023-02-23 | 2024-01-12 |
@@ -1915,7 +1917,7 @@
 | [Knight](https://open.spotify.com/track/4si4ML9UAqh4aGi4567Ewv) | [franz](https://open.spotify.com/artist/4SnxAiKFmPTSMpQnqay1sk) | [Knight](https://open.spotify.com/album/42CUHWPctBT4fr3zsGeF6B) | 3:29 | 2024-10-10 | 2025-01-24 |
 | [KNOCK YOURSELF OUT XD](https://open.spotify.com/track/0vFzN3PNhClovqckL2UPw1) | [Twilike Wonder](https://open.spotify.com/artist/0p6U88EWoDuBHtA2r7jtXV) | [KNOCK YOURSELF OUT XD](https://open.spotify.com/album/1WRaZOsRQtS2vdm51Uiyjo) | 3:27 | 2024-06-06 | 2024-06-28 |
 | [Kodigo](https://open.spotify.com/track/7dX6SifhdulLGfFN2R6ptT) | [DIONE](https://open.spotify.com/artist/2tXlQ6wwH8bmOqXLEumYkg) | [Kodigo](https://open.spotify.com/album/06OR9EXI67XIRhnAytT8EG) | 3:15 | 2025-04-24 | 2025-06-06 |
-| [Kolorete](https://open.spotify.com/track/0XTly8Yt9kjeBTqSLPxH4K) | [Carren Eistrup](https://open.spotify.com/artist/4djvt3xWK9dfkga6FXAxvp) | [Kolorete](https://open.spotify.com/album/3yvqhlUJR1RWXXn0jJiOVB) | 3:15 | 2026-07-15 |  |
+| [Kolorete](https://open.spotify.com/track/0XTly8Yt9kjeBTqSLPxH4K) | [Carren Eistrup](https://open.spotify.com/artist/4djvt3xWK9dfkga6FXAxvp) | [Kolorete](https://open.spotify.com/album/3yvqhlUJR1RWXXn0jJiOVB) | 3:15 | 2026-07-15 | 2026-10-01 |
 | [KOMPLETO](https://open.spotify.com/track/2jwZHyrs1yxGg5SIobNtvK) | [Marco BMG](https://open.spotify.com/artist/46wFQ13fQTY41FSRJS2m1u), [Max Importunate](https://open.spotify.com/artist/1ey4bEDkXvpAzhMkoEcOlP) | [KOMPLETO](https://open.spotify.com/album/2CBWDk5V8CTFCyCSlxUFdw) | 5:09 | 2023-03-16 | 2023-03-31 |
 | [Kompletos Rekados](https://open.spotify.com/track/11UAVqbEwWNtmTWoWmuuM7) | [SNG On Da Track](https://open.spotify.com/artist/497uh8Q5OmAzaNpaZDVL35), [Rish Mel](https://open.spotify.com/artist/2ENtIAo6CMZB7bLmJj3Owf), [Big Drimm](https://open.spotify.com/artist/3VbppAr11BTMOgcltTTDqZ), [Rove](https://open.spotify.com/artist/4xWG2T3Q14InL7VoQbthUB), [Abat](https://open.spotify.com/artist/4zHrke1vCIgYcWeSO5vfEr) | [Kompletos Rekados](https://open.spotify.com/album/2Rw1EwXRvceQoCRT2KHVGv) | 3:43 | 2023-04-13 | 2023-05-05 |
 | [Komplikado](https://open.spotify.com/track/2SZ9VQQcltcmLSzxwbUXvK) | [STARIRAYS](https://open.spotify.com/artist/0XG8KzIYhfzZ6ZaOYuvWrc) | [Komplikado](https://open.spotify.com/album/2ewXfqQ8QfwPcQPqHPbaW3) | 4:17 | 2026-07-15 | 2026-08-20 |
@@ -3034,6 +3036,7 @@
 | [PWEDE PA BA?](https://open.spotify.com/track/6vwucCuEg3nAEh4Y842B9h) | [Jemay Santiago](https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq) | [PWEDE PA BA?](https://open.spotify.com/album/3vWoEer55gRSwALl3OP6vB) | 2:50 | 2026-08-12 |  |
 | [Pyromaniacs](https://open.spotify.com/track/2FRPY3sJbCBIabCqnL5NI7) | [Lindenwood](https://open.spotify.com/artist/4oi2jc0SiVtglXRbQ0qpI0) | [Pyromaniacs](https://open.spotify.com/album/78ZSYak6eEYWv8vgHAYeDb) | 2:31 | 2024-04-11 | 2024-06-01 |
 | [Quarter Life Crisis](https://open.spotify.com/track/4RRPegT5rufbPgN9WAEmoW) | [poetryonherskin](https://open.spotify.com/artist/65ja300pzBSGnFOBYqZ8Kn) | [split](https://open.spotify.com/album/6Zp74ItJkPHgoQ8ZPxCi8j) | 3:49 | 2024-06-20 | 2024-07-27 |
+| [QUESO](https://open.spotify.com/track/4qovOIUS7O58btWHWVSf3B) | [LYLEE](https://open.spotify.com/artist/0EoK6JrIwUebv1Ia79zrc5) | [QUESO](https://open.spotify.com/album/3V2Q7No5yxDJWxNubCOECj) | 4:20 | 2026-09-30 |  |
 | [Questions \(feat\. esa\)](https://open.spotify.com/track/04zkmHTyNSYpZiO165b02N) | [Anj](https://open.spotify.com/artist/2FCofcDkDipKOWOKfKV95s), [esa](https://open.spotify.com/artist/32gKPyvVOMrhSCrjDm657c) | [Questions \(feat\. esa\)](https://open.spotify.com/album/4UAVGekWUgUTQHUJivFomM) | 5:30 | 2024-01-18 | 2024-02-16 |
 | [Quiet Room](https://open.spotify.com/track/22zxubZJ74fRwA85dkX3yC) | [Arron Rebustes](https://open.spotify.com/artist/57bzRuWfRpg71paLHsYcjx) | [Quiet Room](https://open.spotify.com/album/6Xz9OaW7rZCyjU2Q6iiJts) | 3:48 | 2022-03-24 | 2022-04-01 |
 | [R U OK?](https://open.spotify.com/track/1FDUxXuLvN0a1FHMg7EyXE) | [Michael Keith](https://open.spotify.com/artist/51YYVvx3m9Sk2GPk2eaT1S) | [R U OK?](https://open.spotify.com/album/0aq3TzzskcZUCe2CU5w0VU) | 3:19 | 2024-08-01 | 2024-08-30 |

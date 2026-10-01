@@ -515,26 +515,6 @@
     {
       "added_at": "2026-09-25 14:49:25",
       "album": {
-        "name": "Crazy:B\u300c\u30cf\u30cb\u30fc\u30c8\u30e9\u30c3\u30d7\u30fb\u30de\u30ea\u30a2\u30fc\u30b8\u30e5\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
-        "url": "https://open.spotify.com/album/4UxzlvHAJyLSMA7YPevnSb"
-      },
-      "artists": [
-        {
-          "name": "Crazy:B",
-          "url": "https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 245847,
-      "name": "\u30cf\u30cb\u30fc\u30c8\u30e9\u30c3\u30d7\u30fb\u30de\u30ea\u30a2\u30fc\u30b8\u30e5",
-      "url": "https://open.spotify.com/track/0gr9gmL1e9bHsnD1JiSSRZ"
-    },
-    {
-      "added_at": "2026-09-25 14:49:25",
-      "album": {
         "name": "UNDEAD\u300cWanderlust Sailing\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
         "url": "https://open.spotify.com/album/6ehYFEt3WgpNUL38O9N7c5"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 201229,
       "name": "Wanderlust Sailing",
       "url": "https://open.spotify.com/track/6rXYXo0k7V3G5arz1f6cEg"
+    },
+    {
+      "added_at": "2026-09-25 14:49:25",
+      "album": {
+        "name": "Crazy:B\u300c\u30cf\u30cb\u30fc\u30c8\u30e9\u30c3\u30d7\u30fb\u30de\u30ea\u30a2\u30fc\u30b8\u30e5\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
+        "url": "https://open.spotify.com/album/4UxzlvHAJyLSMA7YPevnSb"
+      },
+      "artists": [
+        {
+          "name": "Crazy:B",
+          "url": "https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 245847,
+      "name": "\u30cf\u30cb\u30fc\u30c8\u30e9\u30c3\u30d7\u30fb\u30de\u30ea\u30a2\u30fc\u30b8\u30e5",
+      "url": "https://open.spotify.com/track/0gr9gmL1e9bHsnD1JiSSRZ"
     },
     {
       "added_at": "2026-09-25 14:49:25",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-09-25 14:49:25",
       "album": {
+        "name": "\u30d9\u30ea\u30a4\u30fb\u30d9\u30ea\u30a4\u30fb\u30b9\u30a4\u30fc\u30c8\u30fb\u30db\u30ef\u30a4\u30c8\u2661",
+        "url": "https://open.spotify.com/album/1lQL9w0VSAmShsqm18AjsF"
+      },
+      "artists": [
+        {
+          "name": "Special for Princess!",
+          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+        }
+      ],
+      "duration_ms": 183833,
+      "name": "\u30d9\u30ea\u30a4\u30fb\u30d9\u30ea\u30a4\u30fb\u30b9\u30a4\u30fc\u30c8\u30fb\u30db\u30ef\u30a4\u30c8\u2661",
+      "url": "https://open.spotify.com/track/7BvTk4mj3sjBcshBHFRk7I"
+    },
+    {
+      "added_at": "2026-09-25 14:49:25",
+      "album": {
         "name": "ALKALOID\u300cSunnyTrip Summer\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy"
       },
@@ -595,18 +611,22 @@
     {
       "added_at": "2026-09-25 14:49:25",
       "album": {
-        "name": "\u30d9\u30ea\u30a4\u30fb\u30d9\u30ea\u30a4\u30fb\u30b9\u30a4\u30fc\u30c8\u30fb\u30db\u30ef\u30a4\u30c8\u2661",
-        "url": "https://open.spotify.com/album/1lQL9w0VSAmShsqm18AjsF"
+        "name": "Lancetta\u300c\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
+        "url": "https://open.spotify.com/album/0lDNCSOC8fLuIKSMq6vD7I"
       },
       "artists": [
         {
-          "name": "Special for Princess!",
-          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+          "name": "Lancetta",
+          "url": "https://open.spotify.com/artist/3W674s5RmqmX7oYhXYeMki"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
-      "duration_ms": 183833,
-      "name": "\u30d9\u30ea\u30a4\u30fb\u30d9\u30ea\u30a4\u30fb\u30b9\u30a4\u30fc\u30c8\u30fb\u30db\u30ef\u30a4\u30c8\u2661",
-      "url": "https://open.spotify.com/track/7BvTk4mj3sjBcshBHFRk7I"
+      "duration_ms": 293011,
+      "name": "\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26",
+      "url": "https://open.spotify.com/track/0h2J374g21zVASx4Ahlr3h"
     },
     {
       "added_at": "2026-09-25 14:49:25",
@@ -627,26 +647,6 @@
       "duration_ms": 195932,
       "name": "Foolish Alien",
       "url": "https://open.spotify.com/track/1MmoBTdCdBAWMTCq0TkTDN"
-    },
-    {
-      "added_at": "2026-09-25 14:49:25",
-      "album": {
-        "name": "Lancetta\u300c\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
-        "url": "https://open.spotify.com/album/0lDNCSOC8fLuIKSMq6vD7I"
-      },
-      "artists": [
-        {
-          "name": "Lancetta",
-          "url": "https://open.spotify.com/artist/3W674s5RmqmX7oYhXYeMki"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 293011,
-      "name": "\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26",
-      "url": "https://open.spotify.com/track/0h2J374g21zVASx4Ahlr3h"
     },
     {
       "added_at": "2026-09-25 14:49:25",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-09-25 14:49:25",
       "album": {
-        "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
-        "url": "https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn"
-      },
-      "artists": [
-        {
-          "name": "Special for Princess!",
-          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
-        }
-      ],
-      "duration_ms": 238033,
-      "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
-      "url": "https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh"
-    },
-    {
-      "added_at": "2026-09-25 14:49:25",
-      "album": {
         "name": "fine\u300cMusica Vita! -\u30e0\u30b8\u30ab\u30fb\u30f4\u30a3\u30fc\u30bf-\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
         "url": "https://open.spotify.com/album/4aliOe9EI55O5Nb8o3MU8D"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 229010,
       "name": "Musica Vita! -\u30e0\u30b8\u30ab\u30fb\u30f4\u30a3\u30fc\u30bf-",
       "url": "https://open.spotify.com/track/6luj4dLrMoGjlrd930bHsO"
+    },
+    {
+      "added_at": "2026-09-25 14:49:25",
+      "album": {
+        "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
+        "url": "https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn"
+      },
+      "artists": [
+        {
+          "name": "Special for Princess!",
+          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
+      "url": "https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh"
     },
     {
       "added_at": "2026-09-25 14:49:25",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2026-09-25 14:49:25",
       "album": {
+        "name": "\u5927\u795e \u6643\u7259\u300cSCAB\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/5gMJg7a3uezBjYUweV4rBz"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u795e \u6643\u7259(CV.\u5c0f\u91ce \u53cb\u6a39)",
+          "url": "https://open.spotify.com/artist/1M6bWEqikQdJtnFb0sxjTu"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 208201,
+      "name": "SCAB",
+      "url": "https://open.spotify.com/track/5anTMMp6mxWV8lkhSnM6Gg"
+    },
+    {
+      "added_at": "2026-09-25 14:49:25",
+      "album": {
         "name": "\u30d5\u30e9\u30b8\u30fc\u30eb (feat. \u6771\u96f2\u5f70\u4eba & \u9752\u67f3\u51ac\u5f25) [Cover]",
         "url": "https://open.spotify.com/album/3KM5OtuX96tlIwmzt0GKTI"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 270354,
       "name": "\u30d5\u30e9\u30b8\u30fc\u30eb - Cover",
       "url": "https://open.spotify.com/track/1vywsFdOWEVvP6JkDOuUbU"
-    },
-    {
-      "added_at": "2026-09-25 14:49:25",
-      "album": {
-        "name": "\u5927\u795e \u6643\u7259\u300cSCAB\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
-        "url": "https://open.spotify.com/album/5gMJg7a3uezBjYUweV4rBz"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u795e \u6643\u7259(CV.\u5c0f\u91ce \u53cb\u6a39)",
-          "url": "https://open.spotify.com/artist/1M6bWEqikQdJtnFb0sxjTu"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 208201,
-      "name": "SCAB",
-      "url": "https://open.spotify.com/track/5anTMMp6mxWV8lkhSnM6Gg"
     },
     {
       "added_at": "2026-09-25 14:49:25",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-09-25 14:49:25",
       "album": {
-        "name": "Jin & Akiomi\u300c\u30cf\u30ca\u30cb\u30ca\u30ec\uff01\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/30ZTn3ofR3ISSO1cdY2OGO"
-      },
-      "artists": [
-        {
-          "name": "Jin & Akiomi",
-          "url": "https://open.spotify.com/artist/3ZF3KhNQq8uXuQul8EJVC6"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 199112,
-      "name": "\u30cf\u30ca\u30cb\u30ca\u30ec\uff01",
-      "url": "https://open.spotify.com/track/32Rqmby8BxNZUvjcbvO88C"
-    },
-    {
-      "added_at": "2026-09-25 14:49:25",
-      "album": {
         "name": "\u300c\u77ac\u304dSign\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u9078\u629c\u66f2",
         "url": "https://open.spotify.com/album/22KZVcTQ9TclS3O8zRnlW7"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 249173,
       "name": "\u77ac\u304dSign\u2606",
       "url": "https://open.spotify.com/track/01wK8qdoiA2FlYbSYQin0Y"
+    },
+    {
+      "added_at": "2026-09-25 14:49:25",
+      "album": {
+        "name": "Jin & Akiomi\u300c\u30cf\u30ca\u30cb\u30ca\u30ec\uff01\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/30ZTn3ofR3ISSO1cdY2OGO"
+      },
+      "artists": [
+        {
+          "name": "Jin & Akiomi",
+          "url": "https://open.spotify.com/artist/3ZF3KhNQq8uXuQul8EJVC6"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 199112,
+      "name": "\u30cf\u30ca\u30cb\u30ca\u30ec\uff01",
+      "url": "https://open.spotify.com/track/32Rqmby8BxNZUvjcbvO88C"
     },
     {
       "added_at": "2026-09-25 14:49:25",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-09-25 14:49:25",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
+        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
+      },
+      "artists": [
+        {
+          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Last Lament",
+      "url": "https://open.spotify.com/track/3kUM43sqTFPBXV1SCWYCjm"
+    },
+    {
+      "added_at": "2026-09-25 14:49:25",
+      "album": {
         "name": "Eden\u300cEXCEED\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
         "url": "https://open.spotify.com/album/4B9IcoGyc8q4gmZTUB3pXr"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 280626,
       "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30c7\u30a3\u30b9\u30b3",
       "url": "https://open.spotify.com/track/0Pmja2vH52EzqkJyxQltM7"
-    },
-    {
-      "added_at": "2026-09-25 14:49:25",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Valkyrie",
-        "url": "https://open.spotify.com/album/3mb1ZiGpzS3snBjMKjFNgF"
-      },
-      "artists": [
-        {
-          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
-          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "\u795d\u798f\u306eLibrary",
-      "url": "https://open.spotify.com/track/7ql0h0LbkIgw8Dd45ERZMT"
     },
     {
       "added_at": "2026-09-25 14:49:25",

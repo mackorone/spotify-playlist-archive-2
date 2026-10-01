@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 330318,
+  "num_followers": 330370,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAEdJeRMQ6PMi8CoSTlc9XPpWGMRG",
   "tracks": [
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
-    },
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Changes In Latitudes, Changes In Attitudes",
-      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Firefall",
         "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Changes In Latitudes, Changes In Attitudes",
+      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Ambrosia",
         "url": "https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI"
       },
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh"
     },
     {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Some Things Don't Come Easy",
-        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "We'll Never Have to Say Goodbye Again - Single Version",
-      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
-    },
-    {
       "added_at": "2023-03-30 13:21:39",
       "album": {
         "name": "Whatever Happened to Benny Santini?",
@@ -751,6 +735,22 @@
       "duration_ms": 284533,
       "name": "Fool (If You Think It's Over)",
       "url": "https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Some Things Don't Come Easy",
+        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "We'll Never Have to Say Goodbye Again - Single Version",
+      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "The Stranger",
-        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 213924,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Little River Band (Remastered 2022)",
         "url": "https://open.spotify.com/album/35j8cY91pzMYe02ZszvMyC"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 522633,
       "name": "It's A Long Way There - Remastered 2022",
       "url": "https://open.spotify.com/track/6eVtCSzb3ZKRAA37dQWzbb"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "The Stranger",
+        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 213924,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Player",
+        "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
+      },
+      "artists": [
+        {
+          "name": "Player",
+          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
+        }
+      ],
+      "duration_ms": 265221,
+      "name": "This Time I'm In It For Love",
+      "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "One Man Dog (2019 Remaster)",
         "url": "https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 195160,
       "name": "Song Sung Blue - Single Version",
       "url": "https://open.spotify.com/track/4FZ8wtTaOAbYvyChBt4GEQ"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
-      },
-      "artists": [
-        {
-          "name": "Player",
-          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
-        }
-      ],
-      "duration_ms": 265221,
-      "name": "This Time I'm In It For Love",
-      "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
     },
     {
       "added_at": "2023-03-29 17:34:27",

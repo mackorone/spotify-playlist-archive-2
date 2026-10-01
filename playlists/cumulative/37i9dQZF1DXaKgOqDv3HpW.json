@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 207097,
       "name": "Cirrus",
       "url": "https://open.spotify.com/track/3bFVLAja0OzPwbol1SCOTI"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 164916,
       "name": "Clouds Over Dusk",
       "url": "https://open.spotify.com/track/0EMCEZmNdhUKu8ELPbgzCL"
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 181018,
       "name": "Coincide",
       "url": "https://open.spotify.com/track/7nTbKG5FuCTppsmCXY8CKH"
@@ -2201,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Dream Haze",
+        "url": "https://open.spotify.com/album/7v0BVMi9jvYBlw15YNRbo3"
+      },
+      "artists": [
+        {
+          "name": "Joseph Sai",
+          "url": "https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Dream Haze",
+      "url": "https://open.spotify.com/track/7h7eesnuvkm9p0wtMAzKj6"
+    },
+    {
+      "album": {
         "name": "Dream Light",
         "url": "https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9"
       },
@@ -2270,6 +2288,24 @@
       "duration_ms": 170250,
       "name": "Dreaming Of Dust",
       "url": "https://open.spotify.com/track/33cvC00s0tc6bFeM92xksE"
+    },
+    {
+      "album": {
+        "name": "Dreaming Skies",
+        "url": "https://open.spotify.com/album/4no6NkoDxoDdGElaaDP45F"
+      },
+      "artists": [
+        {
+          "name": "Inlune",
+          "url": "https://open.spotify.com/artist/3TYEVwtWJLKq2Y2dj46kZ7"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "Dreaming Skies",
+      "url": "https://open.spotify.com/track/7jiOlTCFeIMp5NNhSfwQqV"
     },
     {
       "album": {
@@ -2813,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/4UkNQIz6Jkx1DWgnPn4PKW"
+      },
+      "artists": [
+        {
+          "name": "Sonical Serenity",
+          "url": "https://open.spotify.com/artist/5efTlkpka6MMoEpB3QXXYM"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148524,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/4jdDINU5fK1rrTJdJrnYXD"
+    },
+    {
+      "album": {
         "name": "eternity",
         "url": "https://open.spotify.com/album/4hRl60htmVRuiX82B3zNsv"
       },
@@ -3030,6 +3084,24 @@
       "duration_ms": 254749,
       "name": "Expansion",
       "url": "https://open.spotify.com/track/5kb3YbGwrOyLIRVCPacxdS"
+    },
+    {
+      "album": {
+        "name": "Fading Lights",
+        "url": "https://open.spotify.com/album/3f2S9tuBDEtYBnM7APmvkM"
+      },
+      "artists": [
+        {
+          "name": "Leon White",
+          "url": "https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147810,
+      "name": "Fading Lights",
+      "url": "https://open.spotify.com/track/6yK7I0md4HbXL6nr3pgw1Z"
     },
     {
       "album": {
@@ -4581,6 +4653,24 @@
     },
     {
       "album": {
+        "name": "Lingerer",
+        "url": "https://open.spotify.com/album/05Q7ZIAqEqdNztiPeO2Ftu"
+      },
+      "artists": [
+        {
+          "name": "Solitudine Sono",
+          "url": "https://open.spotify.com/artist/6QYh2EMjHTxtBCOxhBIRnZ"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "Lingerer",
+      "url": "https://open.spotify.com/track/1D7lDrObnXPwNm1FcupysW"
+    },
+    {
+      "album": {
         "name": "Lithe",
         "url": "https://open.spotify.com/album/70L8PU7byfp8KTSkYKNi6U"
       },
@@ -5643,6 +5733,24 @@
     },
     {
       "album": {
+        "name": "Night Tide",
+        "url": "https://open.spotify.com/album/6wg0rR07CiyqfZ3VERIwoL"
+      },
+      "artists": [
+        {
+          "name": "Alric Morrow",
+          "url": "https://open.spotify.com/artist/1a5CY1xxmUu1SkdnMgB56e"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146129,
+      "name": "Night Tide",
+      "url": "https://open.spotify.com/track/4ChtwuiGNlYc3gz9McW154"
+    },
+    {
+      "album": {
         "name": "Night Winds",
         "url": "https://open.spotify.com/album/5cIYq1T6s9dYnaehg418Xh"
       },
@@ -5730,6 +5838,24 @@
       "duration_ms": 142000,
       "name": "Nordan",
       "url": "https://open.spotify.com/track/1ql5hLxvCoHjTcKM1bPHyl"
+    },
+    {
+      "album": {
+        "name": "North of Sleep",
+        "url": "https://open.spotify.com/album/7zQrkHjIjXmCoGTVuIXC1w"
+      },
+      "artists": [
+        {
+          "name": "Ekoha",
+          "url": "https://open.spotify.com/artist/6g6mFGyvQcunLY0Bfef1B4"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "North of Sleep",
+      "url": "https://open.spotify.com/track/0SLvBuoANtQnc7QqMr6zej"
     },
     {
       "album": {
@@ -6792,7 +6918,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 148054,
       "name": "Return to Wholeness",
       "url": "https://open.spotify.com/track/3GDUlwrI5sOotEQ3A5xbcg"
@@ -7764,7 +7890,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 169052,
       "name": "Soft Embrace",
       "url": "https://open.spotify.com/track/1QcmRI9Jjg0XxeEyKmH1Dx"
@@ -7804,6 +7930,24 @@
       "duration_ms": 189000,
       "name": "Sognante",
       "url": "https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw"
+    },
+    {
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/12HBHGWvMRQ8qpuSAra7Df"
+      },
+      "artists": [
+        {
+          "name": "Alboran",
+          "url": "https://open.spotify.com/artist/0pSHJFQEatQAHY3yOJpLAi"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/7grINDu0QdO9ASJGEHtnbr"
     },
     {
       "album": {
@@ -8124,7 +8268,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 150500,
       "name": "Sun Silence",
       "url": "https://open.spotify.com/track/2YGgUHsJSH9fv3yMWiazQJ"
@@ -8146,6 +8290,24 @@
       "duration_ms": 167586,
       "name": "Supine",
       "url": "https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS"
+    },
+    {
+      "album": {
+        "name": "Sylvan",
+        "url": "https://open.spotify.com/album/1GqqQifBiQBNfbyNmCNeW7"
+      },
+      "artists": [
+        {
+          "name": "Joel Holm",
+          "url": "https://open.spotify.com/artist/6PCsXNlCd3Nvo6zzGr5aEm"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Sylvan",
+      "url": "https://open.spotify.com/track/24RpwvT2rVtoCpUJ9BNvSa"
     },
     {
       "album": {
@@ -8509,6 +8671,24 @@
     },
     {
       "album": {
+        "name": "Tidal Lock",
+        "url": "https://open.spotify.com/album/5CyzZjVCXriJQrIr7ZmyrH"
+      },
+      "artists": [
+        {
+          "name": "hue spell",
+          "url": "https://open.spotify.com/artist/2SlGjkq4is7FWe9pcI80a6"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152876,
+      "name": "Tidal Lock",
+      "url": "https://open.spotify.com/track/7ivmOgAeBd2d7Q67qdcz77"
+    },
+    {
+      "album": {
         "name": "Tikal",
         "url": "https://open.spotify.com/album/63WHoBmoPhLexglwoKtQPu"
       },
@@ -8542,6 +8722,24 @@
       "duration_ms": 158417,
       "name": "Time",
       "url": "https://open.spotify.com/track/3evfhQ5oIj8QjPIPNYfw7y"
+    },
+    {
+      "album": {
+        "name": "Time Reimagined",
+        "url": "https://open.spotify.com/album/7DW3HUZvUr692dQGUepEni"
+      },
+      "artists": [
+        {
+          "name": "Claddagh Glas",
+          "url": "https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Time Reimagined",
+      "url": "https://open.spotify.com/track/35GOq4mXR5Q9VABfTiRqWE"
     },
     {
       "album": {

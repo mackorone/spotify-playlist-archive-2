@@ -1,29 +1,13 @@
 {
   "description": "Alternative Arabic songs. Cover: Faraj Suleiman",
-  "num_followers": 152738,
+  "num_followers": 152745,
   "original_name": "Arab Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACoUTdudhyRCcjJ4jMPMcig7a6N0",
+  "snapshot_id": "AAAAAFduLZhGA4iqC/ONa4782XRQZnKg",
   "tracks": [
-    {
-      "added_at": "2026-06-16 14:24:49",
-      "album": {
-        "name": "3ayb Wlo",
-        "url": "https://open.spotify.com/album/72FxbgtdABg9cq3LbQrnTq"
-      },
-      "artists": [
-        {
-          "name": "Joe Ashkar",
-          "url": "https://open.spotify.com/artist/4lQhb7Hptj08WWqSf2za9O"
-        }
-      ],
-      "duration_ms": 114857,
-      "name": "3ayb Wlo",
-      "url": "https://open.spotify.com/track/5fkL85ZqUZipFRkcKYlVlR"
-    },
     {
       "added_at": "2026-05-13 16:34:36",
       "album": {
@@ -425,68 +409,36 @@
       "url": "https://open.spotify.com/track/42cgSqcYqyRxG3VCd3ubTC"
     },
     {
-      "added_at": "2025-12-26 12:08:55",
+      "added_at": "2025-12-26 11:37:22",
       "album": {
-        "name": "Shereet Kharban",
-        "url": "https://open.spotify.com/album/0RfaQD7eg095MNndI0Jhfr"
+        "name": "Wehda",
+        "url": "https://open.spotify.com/album/3VydlXlCHNxcdEIQO14lu6"
       },
       "artists": [
         {
-          "name": "Pink Seasalt",
-          "url": "https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D"
+          "name": "Dina El Wedidi",
+          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Shereet Kharban",
-      "url": "https://open.spotify.com/track/69zAFnSfwp1ylcJdZinPuE"
+      "duration_ms": 284398,
+      "name": "Wehda",
+      "url": "https://open.spotify.com/track/6GUv3DJvdc5RLk2dsI1RZT"
     },
     {
       "added_at": "2025-12-26 11:37:22",
       "album": {
-        "name": "mech nafs el chi",
-        "url": "https://open.spotify.com/album/6P5LqXQQnyGM86ckpF2Gqk"
+        "name": "Rivo (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u064a\u0641\u0648)",
+        "url": "https://open.spotify.com/album/1EfYYVFrbQubucndRHR9um"
       },
       "artists": [
         {
-          "name": "Marilyne Naaman",
-          "url": "https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s"
+          "name": "\u0631\u064a\u0641\u0648 \u0634\u0648",
+          "url": "https://open.spotify.com/artist/176F6CdFEVWYNwqM6HEXU2"
         }
       ],
-      "duration_ms": 192000,
-      "name": "mech nafs el chi",
-      "url": "https://open.spotify.com/track/4kxpzN83RfuiPluSyCPXrC"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
-        "name": "Ma7boobi",
-        "url": "https://open.spotify.com/album/6DAcM9B4LarUNtSsNBPokz"
-      },
-      "artists": [
-        {
-          "name": "Idreesi",
-          "url": "https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Al3ab",
-      "url": "https://open.spotify.com/track/2aLxkQKd73nJesKCeYdoXA"
-    },
-    {
-      "added_at": "2026-01-22 07:39:38",
-      "album": {
-        "name": "Aleem Allah \u0639\u0644\u064a\u0645 \u0627\u0644\u0644\u0647 (Galbi Wadani Lawain \u0642\u0644\u0628\u064a \u0648\u062f\u0627\u0646\u064a \u0644\u0648\u064a\u0646)",
-        "url": "https://open.spotify.com/album/1Y69tspoX8E1X6MOKIKhOB"
-      },
-      "artists": [
-        {
-          "name": "Autostrad",
-          "url": "https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ"
-        }
-      ],
-      "duration_ms": 238152,
-      "name": "Aleem Allah \u0639\u0644\u064a\u0645 \u0627\u0644\u0644\u0647 (Galbi Wadani Lawain \u0642\u0644\u0628\u064a \u0648\u062f\u0627\u0646\u064a \u0644\u0648\u064a\u0646)",
-      "url": "https://open.spotify.com/track/3vOYS16Twv5u9sLO0yxswF"
+      "duration_ms": 151301,
+      "name": "\u0639\u0644\u064a \u0628\u0627\u0628 \u0627\u0644\u0633\u064a\u0645\u0627 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u064a\u0641\u0648",
+      "url": "https://open.spotify.com/track/5gdERhZjshqCGHnCPWJhqM"
     },
     {
       "added_at": "2025-12-26 11:37:22",
@@ -557,20 +509,36 @@
       "url": "https://open.spotify.com/track/58y6fLuPSyI1MQlojS3MFe"
     },
     {
-      "added_at": "2025-12-26 11:37:22",
+      "added_at": "2025-12-26 12:08:55",
       "album": {
-        "name": "Wehda",
-        "url": "https://open.spotify.com/album/3VydlXlCHNxcdEIQO14lu6"
+        "name": "Shereet Kharban",
+        "url": "https://open.spotify.com/album/0RfaQD7eg095MNndI0Jhfr"
       },
       "artists": [
         {
-          "name": "Dina El Wedidi",
-          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
+          "name": "Pink Seasalt",
+          "url": "https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D"
         }
       ],
-      "duration_ms": 284398,
-      "name": "Wehda",
-      "url": "https://open.spotify.com/track/6GUv3DJvdc5RLk2dsI1RZT"
+      "duration_ms": 180000,
+      "name": "Shereet Kharban",
+      "url": "https://open.spotify.com/track/69zAFnSfwp1ylcJdZinPuE"
+    },
+    {
+      "added_at": "2026-06-16 14:24:49",
+      "album": {
+        "name": "3ayb Wlo",
+        "url": "https://open.spotify.com/album/72FxbgtdABg9cq3LbQrnTq"
+      },
+      "artists": [
+        {
+          "name": "Joe Ashkar",
+          "url": "https://open.spotify.com/artist/4lQhb7Hptj08WWqSf2za9O"
+        }
+      ],
+      "duration_ms": 114857,
+      "name": "3ayb Wlo",
+      "url": "https://open.spotify.com/track/5fkL85ZqUZipFRkcKYlVlR"
     },
     {
       "added_at": "2025-12-26 11:37:22",
@@ -607,18 +575,50 @@
     {
       "added_at": "2025-12-26 11:37:22",
       "album": {
-        "name": "Rivo (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u064a\u0641\u0648)",
-        "url": "https://open.spotify.com/album/1EfYYVFrbQubucndRHR9um"
+        "name": "mech nafs el chi",
+        "url": "https://open.spotify.com/album/6P5LqXQQnyGM86ckpF2Gqk"
       },
       "artists": [
         {
-          "name": "\u0631\u064a\u0641\u0648 \u0634\u0648",
-          "url": "https://open.spotify.com/artist/176F6CdFEVWYNwqM6HEXU2"
+          "name": "Marilyne Naaman",
+          "url": "https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s"
         }
       ],
-      "duration_ms": 151301,
-      "name": "\u0639\u0644\u064a \u0628\u0627\u0628 \u0627\u0644\u0633\u064a\u0645\u0627 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u064a\u0641\u0648",
-      "url": "https://open.spotify.com/track/5gdERhZjshqCGHnCPWJhqM"
+      "duration_ms": 192000,
+      "name": "mech nafs el chi",
+      "url": "https://open.spotify.com/track/4kxpzN83RfuiPluSyCPXrC"
+    },
+    {
+      "added_at": "2025-12-26 11:37:22",
+      "album": {
+        "name": "Ma7boobi",
+        "url": "https://open.spotify.com/album/6DAcM9B4LarUNtSsNBPokz"
+      },
+      "artists": [
+        {
+          "name": "Idreesi",
+          "url": "https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Al3ab",
+      "url": "https://open.spotify.com/track/2aLxkQKd73nJesKCeYdoXA"
+    },
+    {
+      "added_at": "2026-01-22 07:39:38",
+      "album": {
+        "name": "Aleem Allah \u0639\u0644\u064a\u0645 \u0627\u0644\u0644\u0647 (Galbi Wadani Lawain \u0642\u0644\u0628\u064a \u0648\u062f\u0627\u0646\u064a \u0644\u0648\u064a\u0646)",
+        "url": "https://open.spotify.com/album/1Y69tspoX8E1X6MOKIKhOB"
+      },
+      "artists": [
+        {
+          "name": "Autostrad",
+          "url": "https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ"
+        }
+      ],
+      "duration_ms": 238152,
+      "name": "Aleem Allah \u0639\u0644\u064a\u0645 \u0627\u0644\u0644\u0647 (Galbi Wadani Lawain \u0642\u0644\u0628\u064a \u0648\u062f\u0627\u0646\u064a \u0644\u0648\u064a\u0646)",
+      "url": "https://open.spotify.com/track/3vOYS16Twv5u9sLO0yxswF"
     },
     {
       "added_at": "2025-12-26 11:37:22",

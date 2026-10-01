@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2267802,
+  "num_followers": 2268125,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -1199,26 +1199,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Honky Tonk Angels",
-        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
+        "name": "Clay Walker",
+        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        },
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
         }
       ],
-      "duration_ms": 171133,
-      "name": "It Wasn't God Who Made Honky Tonk Angels",
-      "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
+      "duration_ms": 166626,
+      "name": "What's It to You",
+      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1271,18 +1263,26 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Clay Walker",
-        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
+        "name": "Honky Tonk Angels",
+        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
       "artists": [
         {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 166626,
-      "name": "What's It to You",
-      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
+      "duration_ms": 171133,
+      "name": "It Wasn't God Who Made Honky Tonk Angels",
+      "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "I Will Stand",
         "url": "https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 205093,
       "name": "She's Got It All",
       "url": "https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Everywhere We Go",
         "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 188173,
       "name": "How Forever Feels",
       "url": "https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 169546,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "My Maria",
-      "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Can't Run From Yourself",
         "url": "https://open.spotify.com/album/6AFaPe8uSnqCqP6kbq0CuS"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 250533,
       "name": "Two Sparrows In A Hurricane",
       "url": "https://open.spotify.com/track/7k9F26WpokhmRjzwxlCsCP"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "My Maria",
+      "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "The Tractors",
-        "url": "https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96"
-      },
-      "artists": [
-        {
-          "name": "The Tractors",
-          "url": "https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Baby Likes To Rock It",
-      "url": "https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Rumor Has It",
         "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
       },
@@ -1975,18 +1959,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "All I Can Be",
-        "url": "https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA"
+        "name": "The Tractors",
+        "url": "https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96"
       },
       "artists": [
         {
-          "name": "Collin Raye",
-          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+          "name": "The Tractors",
+          "url": "https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9"
         }
       ],
-      "duration_ms": 231506,
-      "name": "Love, Me",
-      "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
+      "duration_ms": 236466,
+      "name": "Baby Likes To Rock It",
+      "url": "https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2003,6 +1987,22 @@
       "duration_ms": 240706,
       "name": "No One Else On Earth",
       "url": "https://open.spotify.com/track/6Ek2xNsKHwkuYBqvzj20rl"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "All I Can Be",
+        "url": "https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA"
+      },
+      "artists": [
+        {
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "Love, Me",
+      "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Life's So Funny",
-        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Bigger Than the Beatles",
-      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Ten Thousand Angels",
         "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 191800,
       "name": "Guys Do It All the Time",
       "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Life's So Funny",
+        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Bigger Than the Beatles",
+      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
     },
     {
       "added_at": "2026-02-11 22:52:29",

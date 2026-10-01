@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Worldpeace DMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,357 likes - 299 songs - 15 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,352 likes - 299 songs - 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

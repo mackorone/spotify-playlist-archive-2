@@ -1,6 +1,6 @@
 {
   "description": "The sound of the underground. Cover: Gurriers",
-  "num_followers": 487929,
+  "num_followers": 487909,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -467,8 +467,8 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "If Not Now, When",
-        "url": "https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6"
+        "name": "Crestfallen",
+        "url": "https://open.spotify.com/album/4Gh2aBuvIo91syfV3IaeYb"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
         }
       ],
-      "duration_ms": 237384,
-      "name": "If Not Now, When",
-      "url": "https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc"
+      "duration_ms": 244064,
+      "name": "Crestfallen",
+      "url": "https://open.spotify.com/track/15tdjaSaSNFxjrKtj52kDZ"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -547,8 +547,8 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Crestfallen",
-        "url": "https://open.spotify.com/album/4Gh2aBuvIo91syfV3IaeYb"
+        "name": "If Not Now, When",
+        "url": "https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
         }
       ],
-      "duration_ms": 244064,
-      "name": "Crestfallen",
-      "url": "https://open.spotify.com/track/15tdjaSaSNFxjrKtj52kDZ"
+      "duration_ms": 237384,
+      "name": "If Not Now, When",
+      "url": "https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Count Your Blessings | Repented",
-        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 365774,
-      "name": "(I Used to Make Out With) Medusa - 2026 Repented",
-      "url": "https://open.spotify.com/track/0EaCnpPMhiGMLkGcaQfgv0"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "Bleeding Heart",
         "url": "https://open.spotify.com/album/02TN5COA7e3uh96dRwLPBr"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 212038,
       "name": "Bleeding Heart",
       "url": "https://open.spotify.com/track/1WXuljOQWtK6rKRNM4SlEk"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "Count Your Blessings | Repented",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 365774,
+      "name": "(I Used to Make Out With) Medusa - 2026 Repented",
+      "url": "https://open.spotify.com/track/0EaCnpPMhiGMLkGcaQfgv0"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Modern Life Is Lonely",
-        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 282726,
-      "name": "Modern Life Is Lonely",
-      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "CUT_it",
         "url": "https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 194597,
       "name": "CUT_it",
       "url": "https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "Modern Life Is Lonely",
+        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 282726,
+      "name": "Modern Life Is Lonely",
+      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/5ALmIZchDuwnbsOAbmhADv"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/7bbMBpP6706PQTzmjFA1se"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "From A Distance",
         "url": "https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 203314,
       "name": "Swept From Under (Call of the Void)",
       "url": "https://open.spotify.com/track/6qOSf7vfYCwcQfeqI5QPgX"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5ALmIZchDuwnbsOAbmhADv"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/7bbMBpP6706PQTzmjFA1se"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "\u2060Lucid Love",
-        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 210555,
-      "name": "Lucid Love",
-      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "Sx",
         "url": "https://open.spotify.com/album/7IZsiyiB3C0ZUA4osa6EXv"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 242805,
       "name": "Sx",
       "url": "https://open.spotify.com/track/1ruMyUArnbPivLRjeHyOWH"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "\u2060Lucid Love",
+        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 210555,
+      "name": "Lucid Love",
+      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Live by the Sword",
-        "url": "https://open.spotify.com/album/2m2PHGU8NJlTtwZbIClLp2"
+        "name": "Bang Bang Bang",
+        "url": "https://open.spotify.com/album/2OQAMmezHYf03fpDoJngrN"
       },
       "artists": [
         {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 219665,
-      "name": "Live by the Sword",
-      "url": "https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG"
+      "duration_ms": 142221,
+      "name": "Bang Bang Bang",
+      "url": "https://open.spotify.com/track/6fhNTP2BZzR3wri0qh1iKx"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Bang Bang Bang",
-        "url": "https://open.spotify.com/album/2OQAMmezHYf03fpDoJngrN"
+        "name": "Live by the Sword",
+        "url": "https://open.spotify.com/album/2m2PHGU8NJlTtwZbIClLp2"
       },
       "artists": [
         {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 142221,
-      "name": "Bang Bang Bang",
-      "url": "https://open.spotify.com/track/6fhNTP2BZzR3wri0qh1iKx"
+      "duration_ms": 219665,
+      "name": "Live by the Sword",
+      "url": "https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 223941,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "Armour Of Angels",
         "url": "https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Fangs",
-        "url": "https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb"
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg"
       },
       "artists": [
         {
-          "name": "Loathe",
-          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 249293,
-      "name": "Fangs",
-      "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
+      "duration_ms": 223941,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1159,6 +1143,22 @@
       "duration_ms": 200493,
       "name": "Last One Here",
       "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "Fangs",
+        "url": "https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb"
+      },
+      "artists": [
+        {
+          "name": "Loathe",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "Fangs",
+      "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Kill Count Increase",
-        "url": "https://open.spotify.com/album/4lsum4LQdOPJ8r29s3eqAW"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 148946,
-      "name": "Kill Count Increase",
-      "url": "https://open.spotify.com/track/6Jq3KKVdU70ejCxLOAdsgt"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 262784,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "Kill Count Increase",
+        "url": "https://open.spotify.com/album/4lsum4LQdOPJ8r29s3eqAW"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 148946,
+      "name": "Kill Count Increase",
+      "url": "https://open.spotify.com/track/6Jq3KKVdU70ejCxLOAdsgt"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Fatal Paradox",
-        "url": "https://open.spotify.com/album/2C35JDhqsNoGB3ZBSqcDZo"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Fatal Paradox",
-      "url": "https://open.spotify.com/track/2Fftk3qAukmlWOwWN2SYHT"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "Chosen Hell",
         "url": "https://open.spotify.com/album/5Rf79vAFPsJgSqmZnxWHV7"
       },
@@ -1383,18 +1367,34 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Death Threat",
-        "url": "https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ"
+        "name": "Fatal Paradox",
+        "url": "https://open.spotify.com/album/2C35JDhqsNoGB3ZBSqcDZo"
       },
       "artists": [
         {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Death Threat",
-      "url": "https://open.spotify.com/track/5vajYYLucVGK38hPJWafyC"
+      "duration_ms": 162373,
+      "name": "Fatal Paradox",
+      "url": "https://open.spotify.com/track/2Fftk3qAukmlWOwWN2SYHT"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "dna",
+        "url": "https://open.spotify.com/album/07xvPNFtCyHEmgvg2KDrfc"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "dna",
+      "url": "https://open.spotify.com/track/7LygYLu2lZQ45dlhGrQUbW"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "dna",
-        "url": "https://open.spotify.com/album/07xvPNFtCyHEmgvg2KDrfc"
+        "name": "Death Threat",
+        "url": "https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ"
       },
       "artists": [
         {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
         }
       ],
-      "duration_ms": 173793,
-      "name": "dna",
-      "url": "https://open.spotify.com/track/7LygYLu2lZQ45dlhGrQUbW"
+      "duration_ms": 182293,
+      "name": "Death Threat",
+      "url": "https://open.spotify.com/track/5vajYYLucVGK38hPJWafyC"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
+        "name": "MISSING",
+        "url": "https://open.spotify.com/album/2UWQDA2qWX7liC1h0HqNvN"
+      },
+      "artists": [
+        {
+          "name": "October Ends",
+          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "MISSING",
+      "url": "https://open.spotify.com/track/2doVEgUhYXZbNw6u8J1f9m"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
         "name": "Hand Me A Halo",
         "url": "https://open.spotify.com/album/6OVLPlT4Eqw244iwqqbELe"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 205466,
       "name": "May this pain never leave",
       "url": "https://open.spotify.com/track/2nVtRRozQdPbCTOM3lKtcp"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
-        "name": "MISSING",
-        "url": "https://open.spotify.com/album/2UWQDA2qWX7liC1h0HqNvN"
-      },
-      "artists": [
-        {
-          "name": "October Ends",
-          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "MISSING",
-      "url": "https://open.spotify.com/track/2doVEgUhYXZbNw6u8J1f9m"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Injury Episode",
-        "url": "https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2"
-      },
-      "artists": [
-        {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        }
-      ],
-      "duration_ms": 263921,
-      "name": "dull blade disguise",
-      "url": "https://open.spotify.com/track/2O8SjoHVVfVvDLLpwrXAhL"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "Blunt Force Blues",
         "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 251505,
       "name": "Blunt Force Blues",
       "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "Injury Episode",
+        "url": "https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 263921,
+      "name": "dull blade disguise",
+      "url": "https://open.spotify.com/track/2O8SjoHVVfVvDLLpwrXAhL"
     }
   ],
   "unique_name": "The Pit",

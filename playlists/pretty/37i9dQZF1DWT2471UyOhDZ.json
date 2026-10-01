@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Julia Jacklin",
-  "num_followers": 93491,
+  "num_followers": 93492,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "3310",
-        "url": "https://open.spotify.com/album/2uhFhEkvO1E8NQ5I19skkb"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 182286,
-      "name": "3310",
-      "url": "https://open.spotify.com/track/73qjPrQyaBd7mcGR5kEiBC"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "The Happy Dictator (feat. Sparks)",
         "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "3310",
+        "url": "https://open.spotify.com/album/2uhFhEkvO1E8NQ5I19skkb"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 182286,
+      "name": "3310",
+      "url": "https://open.spotify.com/track/73qjPrQyaBd7mcGR5kEiBC"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -415,18 +415,18 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Disappearing Act",
-        "url": "https://open.spotify.com/album/5MYLrD2ltm4LAJ2W02u7DV"
+        "name": "Seriously",
+        "url": "https://open.spotify.com/album/6rE9QBWb6TtCjz13ipuwVv"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
         }
       ],
-      "duration_ms": 179328,
-      "name": "Disappearing Act",
-      "url": "https://open.spotify.com/track/5HzWItiJH85G6OSs9h81uY"
+      "duration_ms": 249975,
+      "name": "Seriously",
+      "url": "https://open.spotify.com/track/3dZTrUqLpivFUkSuIpSoyb"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
+        "name": "Disappearing Act",
+        "url": "https://open.spotify.com/album/5MYLrD2ltm4LAJ2W02u7DV"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 179328,
+      "name": "Disappearing Act",
+      "url": "https://open.spotify.com/track/5HzWItiJH85G6OSs9h81uY"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
         "name": "Oh No Now My",
         "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 188453,
       "name": "Oh No Now My",
       "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
-        "name": "Seriously",
-        "url": "https://open.spotify.com/album/6rE9QBWb6TtCjz13ipuwVv"
-      },
-      "artists": [
-        {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
-        }
-      ],
-      "duration_ms": 249975,
-      "name": "Seriously",
-      "url": "https://open.spotify.com/track/3dZTrUqLpivFUkSuIpSoyb"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/7JLoQup5FmnWodYaoFfpBt"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 345732,
+      "name": "Natural High",
+      "url": "https://open.spotify.com/track/2ltTipWlzX9L8ofFKJioJi"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
         "name": "Heaven Knows You're Lonely",
         "url": "https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B"
       },
@@ -567,38 +583,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Kick Stones (The Boys)",
-        "url": "https://open.spotify.com/album/4xAiEN0XBJLHCGizBeJBqx"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "Kick Stones (The Boys)",
-      "url": "https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/7JLoQup5FmnWodYaoFfpBt"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 345732,
-      "name": "Natural High",
-      "url": "https://open.spotify.com/track/2ltTipWlzX9L8ofFKJioJi"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "Anticipate",
         "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 189284,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "Kick Stones (The Boys)",
+        "url": "https://open.spotify.com/album/4xAiEN0XBJLHCGizBeJBqx"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "Kick Stones (The Boys)",
+      "url": "https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -647,38 +647,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Armor",
-        "url": "https://open.spotify.com/album/3OUjODbCdJfSwgGChAY5fR"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 198433,
-      "name": "Armor",
-      "url": "https://open.spotify.com/track/3vEznOTV6qVU4GO7kmB1GK"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
-        "name": "Jubilee Feeling",
-        "url": "https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 255227,
-      "name": "Jubilee Feeling",
-      "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "Chapter 4",
         "url": "https://open.spotify.com/album/7iVISoawYt4py8izsqOdq7"
       },
@@ -691,6 +659,22 @@
       "duration_ms": 197119,
       "name": "Chapter 4",
       "url": "https://open.spotify.com/track/7wsi6doEPUrUlFJYylmApv"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "Armor",
+        "url": "https://open.spotify.com/album/3OUjODbCdJfSwgGChAY5fR"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 198433,
+      "name": "Armor",
+      "url": "https://open.spotify.com/track/3vEznOTV6qVU4GO7kmB1GK"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -711,18 +695,18 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "The Cherry Farm",
-        "url": "https://open.spotify.com/album/5IsfijJGDAIof1NXts7gAq"
+        "name": "Jubilee Feeling",
+        "url": "https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         }
       ],
-      "duration_ms": 178955,
-      "name": "The Cherry Farm",
-      "url": "https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY"
+      "duration_ms": 255227,
+      "name": "Jubilee Feeling",
+      "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -739,6 +723,22 @@
       "duration_ms": 227070,
       "name": "Words",
       "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "The Cherry Farm",
+        "url": "https://open.spotify.com/album/5IsfijJGDAIof1NXts7gAq"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 178955,
+      "name": "The Cherry Farm",
+      "url": "https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
+        "name": "haven\u2019t found love.",
+        "url": "https://open.spotify.com/album/5adelMOkx04sITILgdP5tw"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 176324,
+      "name": "haven\u2019t found love.",
+      "url": "https://open.spotify.com/track/2SMQtb6HabOW6Uo8ocVske"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
         "name": "Sounds We Cannot Hear",
         "url": "https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "haven\u2019t found love.",
-        "url": "https://open.spotify.com/album/5adelMOkx04sITILgdP5tw"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
-        }
-      ],
-      "duration_ms": 176324,
-      "name": "haven\u2019t found love.",
-      "url": "https://open.spotify.com/track/2SMQtb6HabOW6Uo8ocVske"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "It Goes On",
         "url": "https://open.spotify.com/album/3KA5QA2o7yMkCAbMQNq0oL"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Nothing Happens Twice",
-        "url": "https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 222395,
-      "name": "Nothing Happens Twice",
-      "url": "https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "So it goes",
         "url": "https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 156340,
       "name": "So it goes",
       "url": "https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "Nothing Happens Twice",
+        "url": "https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 222395,
+      "name": "Nothing Happens Twice",
+      "url": "https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 257400,
-      "name": "Iceberg",
-      "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "One of the Greats",
         "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 392098,
       "name": "One of the Greats",
       "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 257400,
+      "name": "Iceberg",
+      "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 131906,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
         "name": "Renascent",
         "url": "https://open.spotify.com/album/5YocvK2G7GuMDS1YHX51YV"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 204200,
       "name": "Sargasso Sea",
       "url": "https://open.spotify.com/track/4Oy185yBcxHHi5x2sa6iiv"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 131906,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/1Fh2mehhvPRxvzR2wYgkGI"
-      },
-      "artists": [
-        {
-          "name": "Willie J Healey",
-          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
-        }
-      ],
-      "duration_ms": 256718,
-      "name": "143",
-      "url": "https://open.spotify.com/track/5rorEgFXzVPe2DsiAcCdCy"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 182360,
       "name": "Rock And Roll",
       "url": "https://open.spotify.com/track/58yz3lbCHxj18jsbwkQEyz"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/1Fh2mehhvPRxvzR2wYgkGI"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "duration_ms": 256718,
+      "name": "143",
+      "url": "https://open.spotify.com/track/5rorEgFXzVPe2DsiAcCdCy"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Soft Control",
-        "url": "https://open.spotify.com/album/5fRHlDzwhKI3KaGQKWrNPC"
+        "name": "Creature of Habit",
+        "url": "https://open.spotify.com/album/2fmY3KwKCrlwhmlb308sI2"
       },
       "artists": [
         {
-          "name": "The Afghan Whigs",
-          "url": "https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 205397,
-      "name": "Loose Talk",
-      "url": "https://open.spotify.com/track/34y46kIPGCkh120SPNqtoi"
+      "duration_ms": 282062,
+      "name": "One Thing At A Time",
+      "url": "https://open.spotify.com/track/2o2s7sFRf9XByKXoV0Qw6e"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1359,34 +1359,18 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Creature of Habit",
-        "url": "https://open.spotify.com/album/2fmY3KwKCrlwhmlb308sI2"
+        "name": "Soft Control",
+        "url": "https://open.spotify.com/album/5fRHlDzwhKI3KaGQKWrNPC"
       },
       "artists": [
         {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+          "name": "The Afghan Whigs",
+          "url": "https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD"
         }
       ],
-      "duration_ms": 282062,
-      "name": "One Thing At A Time",
-      "url": "https://open.spotify.com/track/2o2s7sFRf9XByKXoV0Qw6e"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/5WXs3gKH5ZjIBAryUs7qMn"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 170473,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/4VdbjQigFukJA2ccXurthd"
+      "duration_ms": 205397,
+      "name": "Loose Talk",
+      "url": "https://open.spotify.com/track/34y46kIPGCkh120SPNqtoi"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5WXs3gKH5ZjIBAryUs7qMn"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 170473,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/4VdbjQigFukJA2ccXurthd"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
         "name": "My New Band Believe",
         "url": "https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Blue Morpho",
-        "url": "https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe"
-      },
-      "artists": [
-        {
-          "name": "Ed O'Brien",
-          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
-        }
-      ],
-      "duration_ms": 318546,
-      "name": "Teachers",
-      "url": "https://open.spotify.com/track/0XFPAjBsHwYeMnMfYeTGr4"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "Maybe Not Tonight",
         "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 165121,
       "name": "Maybe Not Tonight",
       "url": "https://open.spotify.com/track/7bOyVnYY469Zavjtxcf47f"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "Blue Morpho",
+        "url": "https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe"
+      },
+      "artists": [
+        {
+          "name": "Ed O'Brien",
+          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
+        }
+      ],
+      "duration_ms": 318546,
+      "name": "Teachers",
+      "url": "https://open.spotify.com/track/0XFPAjBsHwYeMnMfYeTGr4"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Something Else to Give",
-        "url": "https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0"
-      },
-      "artists": [
-        {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
-        }
-      ],
-      "duration_ms": 285183,
-      "name": "Something Else to Give",
-      "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
-    },
-    {
-      "added_at": "2026-09-25 00:00:33",
-      "album": {
         "name": "To The Sandals",
         "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Tunnels",
-        "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
+        "name": "Something Else to Give",
+        "url": "https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0"
       },
       "artists": [
         {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
         }
       ],
-      "duration_ms": 168265,
-      "name": "Tunnels",
-      "url": "https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3"
+      "duration_ms": 285183,
+      "name": "Something Else to Give",
+      "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1583,6 +1567,22 @@
       "duration_ms": 143592,
       "name": "Portal",
       "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
+    },
+    {
+      "added_at": "2026-09-25 00:00:33",
+      "album": {
+        "name": "Tunnels",
+        "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "duration_ms": 168265,
+      "name": "Tunnels",
+      "url": "https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3"
     },
     {
       "added_at": "2026-09-25 00:00:33",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2026-09-25 00:00:33",
       "album": {
-        "name": "Jenius",
-        "url": "https://open.spotify.com/album/6gxTMkVUCvfKkFvgq8vCYL"
+        "name": "The Scythe",
+        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
       },
       "artists": [
         {
-          "name": "Paul Heaton",
-          "url": "https://open.spotify.com/artist/1aIozCeQrpKipbEdkGtr0j"
-        },
-        {
-          "name": "Rianne Downey",
-          "url": "https://open.spotify.com/artist/254gmlnuhtyLCJmHiodIri"
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
         }
       ],
-      "duration_ms": 186360,
-      "name": "Before Before",
-      "url": "https://open.spotify.com/track/48xmirSoXOlkObvyEAJwJq"
+      "duration_ms": 285240,
+      "name": "The Scythe",
+      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
     }
   ],
   "unique_name": "The Listening Post",

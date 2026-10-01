@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-2,293 songs - 4 day 23 hr 24 min
+2,294 songs - 4 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [COMO TE CONTE](https://open.spotify.com/track/1MbN7WXNGp1ckPmY2TTq2c) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [NO A LA DELINCUENCIA](https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw) | 1:51 | 2025-08-31 | 2025-11-07 |
 | [Como Te Hiceron](https://open.spotify.com/track/4XVw1jVOkqbDI1ot8rztqV) | [SEAN G](https://open.spotify.com/artist/1amioE1z2YsW8Gk78HsSLO) | [Como Te Hiceron](https://open.spotify.com/album/3XSKyfEkpfiKpnwwKcxIyv) | 2:13 | 2025-02-02 | 2025-02-20 |
 | [Como Te Pago](https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM) | 3:13 | 2022-05-30 | 2023-05-31 |
+| [COMPA COLETO \(uy\_como\)](https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch) | 3:20 | 2026-09-30 |  |
 | [Comparemos](https://open.spotify.com/track/35UNiCcO5pPS2kVEi7hJmU) | [La Frecuencia](https://open.spotify.com/artist/0UjaWVlAXWCdpJdt0WpIbp) | [Comparemos](https://open.spotify.com/album/7C1Hl4e7oTsszGAP5QvwMS) | 2:53 | 2024-08-26 | 2024-08-29 |
 | [COMPETENCIA](https://open.spotify.com/track/1hrRcfsancQb92OcifmMV1) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:10 | 2024-08-24 | 2024-08-26 |
 | [Completa](https://open.spotify.com/track/6mCzElWVPTZMNPA2jjbFuJ) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E) | [Completa](https://open.spotify.com/album/28Fuo7FjZGGQo4W45IvJA4) | 2:07 | 2022-08-21 | 2022-10-09 |
@@ -2264,7 +2265,7 @@
 | [Y U So Cold?](https://open.spotify.com/track/2HYGBPJmQiP7TBdoGdUX5Y) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 2:30 | 2025-04-05 | 2025-04-07 |
 | [Ya me enteré](https://open.spotify.com/track/6xUTpgnxMzxM5JhWeLCKMB) | [Sin Límite](https://open.spotify.com/artist/5xv1gqyqgeXRA7vkaUvX4P) | [Ya me enteré](https://open.spotify.com/album/7DruCOLjHMOKoFC0RPl8Fq) | 2:41 | 2024-04-24 | 2024-06-12 |
 | [Ya Me Enteré \- En Vivo](https://open.spotify.com/track/4zqAuyPZKQCxG6c6SBiXDv) | [Dalvin La Melodia](https://open.spotify.com/artist/6oYf3YTP3CaTNPlUqAK7xJ) | [Ya Me Enteré \(En Vivo\)](https://open.spotify.com/album/4Jdle7C1bBNAqlSZDlkjbV) | 4:24 | 2026-01-26 | 2026-07-29 |
-| [Ya Me Enteré \- Live](https://open.spotify.com/track/6fIseBtp274Jl2s6pjugWG) | [Dalvin La Melodia](https://open.spotify.com/artist/6oYf3YTP3CaTNPlUqAK7xJ) | [Live Concert](https://open.spotify.com/album/0yr8S95Ig8NCJuQJd3URn9) | 4:22 | 2026-09-06 |  |
+| [Ya Me Enteré \- Live](https://open.spotify.com/track/6fIseBtp274Jl2s6pjugWG) | [Dalvin La Melodia](https://open.spotify.com/artist/6oYf3YTP3CaTNPlUqAK7xJ) | [Live Concert](https://open.spotify.com/album/0yr8S95Ig8NCJuQJd3URn9) | 4:22 | 2026-09-06 | 2026-10-01 |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2024-06-15 | 2024-06-25 |
 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 | 2023-01-12 | 2023-01-16 |
 | [Yandel 150](https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:36 | 2023-01-15 | 2023-12-17 |

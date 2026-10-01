@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jujubballin/\">Juju Watkins</a>",
-  "num_followers": 1106,
+  "num_followers": 1105,
   "original_name": "JuJu Watkins Taste",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Yo (Excuse Me Miss)",
-      "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "Language",
         "url": "https://open.spotify.com/album/2MsWCeQjZlSfHFjDm5DYR1"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 150360,
       "name": "Language",
       "url": "https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Yo (Excuse Me Miss)",
+      "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "The Backend Child",
-        "url": "https://open.spotify.com/album/5Qg5XiK1Ovgen4JBztGbPr"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 235263,
-      "name": "Ghetto Angels",
-      "url": "https://open.spotify.com/track/0T6DHuLI3NANOAFPgE8AXR"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 136071,
       "name": "Paint The Sky Red",
       "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "The Backend Child",
+        "url": "https://open.spotify.com/album/5Qg5XiK1Ovgen4JBztGbPr"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 235263,
+      "name": "Ghetto Angels",
+      "url": "https://open.spotify.com/track/0T6DHuLI3NANOAFPgE8AXR"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 172669,
-      "name": "Chinatown",
-      "url": "https://open.spotify.com/track/4XLCFFvRG1qQ8kT4uzwYZC"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "Fuck The World",
         "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 30645,
       "name": "Make It Out",
       "url": "https://open.spotify.com/track/4bAPAjc4EmL7YNndqg7AMv"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 172669,
+      "name": "Chinatown",
+      "url": "https://open.spotify.com/track/4XLCFFvRG1qQ8kT4uzwYZC"
     },
     {
       "added_at": "2023-01-01 05:00:00",

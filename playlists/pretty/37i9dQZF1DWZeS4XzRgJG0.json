@@ -1,12 +1,12 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 43601,
+  "num_followers": 43633,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANlPkdNsX59O+qSN+/4y+DacdnKn",
+  "snapshot_id": "AAAAADdj8kDz5DDmZL0OFH4EK0o8wJAO",
   "tracks": [
     {
       "added_at": "2026-09-21 12:00:15",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 170859,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "All That We Needed",
         "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 143298,
-      "name": "I Think I Like You Better When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "Hold the Rhythm",
         "url": "https://open.spotify.com/album/4nof0TI1S49a6Gogj33yue"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 198573,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 143298,
+      "name": "I Think I Like You Better When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "The Intro",
-        "url": "https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Superficial Love",
-      "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "Liar",
         "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 217637,
       "name": "Liar",
       "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "The Intro",
+        "url": "https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Superficial Love",
+      "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 145710,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 192572,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 145710,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "New To You",
-        "url": "https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 151378,
-      "name": "New To You",
-      "url": "https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "THE ART OF BEING A MESS (DELUXE)",
         "url": "https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 190066,
       "name": "somebody you're supposed to love",
       "url": "https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "New To You",
+        "url": "https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "duration_ms": 151378,
+      "name": "New To You",
+      "url": "https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "most to me",
-        "url": "https://open.spotify.com/album/2VBBVsnhQAnQvYLJpsIoWx"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 156212,
-      "name": "most to me",
-      "url": "https://open.spotify.com/track/1r5UhJ5N8uOsmC1zP4TMR4"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 240900,
       "name": "Kiss Me - Acoustic",
       "url": "https://open.spotify.com/track/7xQUulzggtLVXbo8tLwpjc"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "most to me",
+        "url": "https://open.spotify.com/album/2VBBVsnhQAnQvYLJpsIoWx"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 156212,
+      "name": "most to me",
+      "url": "https://open.spotify.com/track/1r5UhJ5N8uOsmC1zP4TMR4"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "Are You Still Sad?",
-        "url": "https://open.spotify.com/album/5CbSQeKzlBtgSQN8NUOshS"
-      },
-      "artists": [
-        {
-          "name": "L\u00d6NA",
-          "url": "https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Are You Still Sad?",
-      "url": "https://open.spotify.com/track/1KRdjt2jijCnRj7HjvuPmd"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/6CBLXRfN2rYZxUdQ41XCoF"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 182352,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/4JlmHpay5SIOpc0HttOz2V"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "Are You Still Sad?",
+        "url": "https://open.spotify.com/album/5CbSQeKzlBtgSQN8NUOshS"
+      },
+      "artists": [
+        {
+          "name": "L\u00d6NA",
+          "url": "https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Are You Still Sad?",
+      "url": "https://open.spotify.com/track/1KRdjt2jijCnRj7HjvuPmd"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "IDK You Yet",
-        "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 184638,
-      "name": "IDK You Yet",
-      "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "In A Perfect World",
         "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "IDK You Yet",
+        "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 184638,
+      "name": "IDK You Yet",
+      "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -2587,6 +2587,22 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
       },
@@ -2615,22 +2631,6 @@
       "duration_ms": 222041,
       "name": "Nothing Really Matters",
       "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -2767,6 +2767,22 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
+        "name": "Catch & Release",
+        "url": "https://open.spotify.com/album/1nOS6PITU27mls9l2TH4r4"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Catch & Release",
+      "url": "https://open.spotify.com/track/3lsKY1alCeIrwkaYRI4sxV"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
         "name": "One Call Away (Acoustic)",
         "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
       },
@@ -2863,22 +2879,6 @@
       "duration_ms": 214285,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/58GufL5ouunj41e6QV65bw"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
-        "name": "Catch & Release",
-        "url": "https://open.spotify.com/album/1nOS6PITU27mls9l2TH4r4"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Catch & Release",
-      "url": "https://open.spotify.com/track/3lsKY1alCeIrwkaYRI4sxV"
     },
     {
       "added_at": "2026-09-21 12:00:15",

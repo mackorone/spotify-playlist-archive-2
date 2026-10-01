@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 75 | [Pa' Chile](https://open.spotify.com/track/0xINw5OfMEFpgqfgVnN3Bu) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:39 |
 | 76 | [Volverás](https://open.spotify.com/track/7e7jwhhF97ivaOrqXa7dju) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Volverás](https://open.spotify.com/album/5VhDef51qADRAeqqLZdIL4) | 2:44 |
 | 77 | [COMPLICADO](https://open.spotify.com/track/2FKIbvksdWBHXe0KjF2Jdx) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [COMPLICADO](https://open.spotify.com/album/34acwC6W2OjOMfEZXfUOFH) | 2:51 |
-| 78 | [Gira Gira](https://open.spotify.com/track/2qcKhavOikePIU3A1hirGe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [El Tracatra](https://open.spotify.com/album/5vKJMBf6AE1bnYE3Q1BWhw) | 3:00 |
-| 79 | [bellaka](https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Confesiones de las que me voy a arrepentir](https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE) | 2:40 |
+| 78 | [bellaka](https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Confesiones de las que me voy a arrepentir](https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE) | 2:40 |
+| 79 | [Gira Gira](https://open.spotify.com/track/2qcKhavOikePIU3A1hirGe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [El Tracatra](https://open.spotify.com/album/5vKJMBf6AE1bnYE3Q1BWhw) | 3:00 |
 | 80 | [SER ELLA](https://open.spotify.com/track/7Aihd6Eq6qXoMSPmkR347Y) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [SER ELLA](https://open.spotify.com/album/4FFg8qcpC0xPcvt6VSq9Hj) | 2:41 |
 | 81 | [ICE $PICE](https://open.spotify.com/track/6pvPwEQFRzI80KSfkoHf1N) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [ICE $PICE](https://open.spotify.com/album/3tSfq0f6nFZSrxucpa9XJ8) | 2:43 |
 | 82 | [CERO](https://open.spotify.com/track/0ymJeUV9zr0f5qogiaxY4t) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [CERO](https://open.spotify.com/album/5yo3PAqHQxe8K5S5VndQsm) | 2:38 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 97 | [VIP](https://open.spotify.com/track/5oDwlD8r5zNlVOE6i34tjH) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 1:46 |
 | 98 | [¿CUANDO VIENES?](https://open.spotify.com/track/4Qbv62N6cq5pGuOVP8GvaF) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 2:32 |
 | 99 | [Voy Por El Millón](https://open.spotify.com/track/2x9CeKPYxdb0pXxWmjuvHA) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:41 |
-| 100 | [Siempre Tú](https://open.spotify.com/track/16PAMEB904tgVrbSMqbnSp) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [RITMO GLOBAL](https://open.spotify.com/album/5cICfk2kY1AgGe7zRKFMzO) | 1:56 |
-| 101 | [ODIO A TU NOVIA](https://open.spotify.com/track/2Tzac8w3E1acFOvssdApmc) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 4:36 |
+| 100 | [ODIO A TU NOVIA](https://open.spotify.com/track/2Tzac8w3E1acFOvssdApmc) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 4:36 |
+| 101 | [Siempre Tú](https://open.spotify.com/track/16PAMEB904tgVrbSMqbnSp) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [RITMO GLOBAL](https://open.spotify.com/album/5cICfk2kY1AgGe7zRKFMzO) | 1:56 |
 | 102 | [Química](https://open.spotify.com/track/5gQbxzw0vAWI1F3RLXWsna) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:21 |
 | 103 | [300 Latidos](https://open.spotify.com/track/1nK9Srt5PunTHB2CvXlVUN) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [SÉ TÚ MISMO](https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3) | 1:45 |
 | 104 | [Inevitable](https://open.spotify.com/track/76cbzftq8VJ9zyXAoKWXcr) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:44 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 115 | [Terrifying](https://open.spotify.com/track/2ANynrvIPu167ZHz2DJ3xk) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Terrifying](https://open.spotify.com/album/732sY0DgQ57NUeH5wNSDL4) | 3:24 |
 | 116 | [Its Weird](https://open.spotify.com/track/4S9pwJF1RwFY9rjuyVlTOB) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Its Weird](https://open.spotify.com/album/4XqWvGatggpkv5iGNmgp0T) | 2:59 |
 
-Snapshot ID: `AcdopgAAAADA6iuAxy9Ig03/t39641Ra`
+Snapshot ID: `AcduggAAAADQ9fQBf+umsJluM5xjWRwL`

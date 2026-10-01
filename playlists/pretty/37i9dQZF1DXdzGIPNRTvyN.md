@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,409 likes - 255 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,677 likes - 255 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 254 | [Dreamcatcher](https://open.spotify.com/track/4A2JmTd01YNCzOMXjpwr5i) | [Inner Calmness](https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT) | [Dreamcatcher](https://open.spotify.com/album/34Vl73RJNA5jugvhfzVqPA) | 3:12 |
 | 255 | [Serenity River](https://open.spotify.com/track/02GCbTA03HQoXq38ZZPA5a) | [Fables From Mars](https://open.spotify.com/artist/2jIevUMKJWhRbcToBLJjqW) | [Serenity River](https://open.spotify.com/album/5K83tHQlzJmdUKWzZfI5bd) | 3:09 |
 
-Snapshot ID: `AAAAAH3+Zbyu36f/x+3XFA5X8PT86Pu7`
+Snapshot ID: `AAAAAHFj40plQsCdBcbTdZHFlK7/KEls`

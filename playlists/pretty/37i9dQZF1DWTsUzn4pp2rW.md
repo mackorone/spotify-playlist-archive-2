@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,085 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,112 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 |
-| 2 | [I Touch Myself](https://open.spotify.com/track/5Lk2DCQqa0peKaqLCv5uyW) | [Anekka](https://open.spotify.com/artist/2GWp5uc48WTM1nnqqUbJQd), [Brazilian Jazz Cuts](https://open.spotify.com/artist/4KVWjWPXzulIkmjlk8P05o) | [I Touch Myself](https://open.spotify.com/album/5vgUrCbyURSaDhnJXlmSDu) | 3:20 |
-| 3 | [Finally](https://open.spotify.com/track/0PYLjTrb7ChZTfWG9TFAPe) | [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Finally](https://open.spotify.com/album/0JPsZ8SJLB3tfVJTFjdCo8) | 3:39 |
+| 2 | [Finally](https://open.spotify.com/track/0PYLjTrb7ChZTfWG9TFAPe) | [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Finally](https://open.spotify.com/album/0JPsZ8SJLB3tfVJTFjdCo8) | 3:39 |
+| 3 | [I Touch Myself](https://open.spotify.com/track/5Lk2DCQqa0peKaqLCv5uyW) | [Anekka](https://open.spotify.com/artist/2GWp5uc48WTM1nnqqUbJQd), [Brazilian Jazz Cuts](https://open.spotify.com/artist/4KVWjWPXzulIkmjlk8P05o) | [I Touch Myself](https://open.spotify.com/album/5vgUrCbyURSaDhnJXlmSDu) | 3:20 |
 | 4 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 |
 | 5 | [I Ran \(So Far Away\)](https://open.spotify.com/track/37JRb6cexDkgxVPqcuFivc) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [I Ran \(So Far Away\)](https://open.spotify.com/album/7qhixjUIoIgMYA2Q3yjJi0) | 4:02 |
 | 6 | [Ebony and Ivory](https://open.spotify.com/track/7zsv8AsEPknqs35q2cEK5J) | [Brazilian Jazz Cuts](https://open.spotify.com/artist/4KVWjWPXzulIkmjlk8P05o), [Lee Avril](https://open.spotify.com/artist/6LH7SUgERTDqDlpc2APvZu), [Renauld](https://open.spotify.com/artist/25Q0qiDzgPP2JghheF8NRM) | [Ebony and Ivory](https://open.spotify.com/album/1ztDVfurx3fc4Fcdqt9vqP) | 3:39 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 42 | [I'd Run to the Moon](https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP) | [Meryl Rudy](https://open.spotify.com/artist/5D0fFHHBDqY6PuxnZgbcMc), [Sophie Wellington](https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C) | [Featuring EP](https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC) | 2:56 |
 | 43 | [A Better One for You](https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS) | [Guilherme Cunha Ribeiro](https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5) | [Free Afternoon](https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i) | 3:53 |
 | 44 | [A Voice](https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [A Voice](https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M) | 4:25 |
-| 45 | [Do You Believe](https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Melodic Canvas](https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG) | 3:27 |
-| 46 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 |
+| 45 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 |
+| 46 | [Do You Believe](https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Melodic Canvas](https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG) | 3:27 |
 | 47 | [Let's Get Lost](https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM) | [Johnny Summers](https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX) | [Let's Get Lost](https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx) | 3:10 |
 | 48 | [Inside and Out](https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [à Fleur de Peau](https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW) | 4:18 |
 | 49 | [What Love Is For](https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo) | [PRD](https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ) | [What Love Is For](https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs) | 3:09 |

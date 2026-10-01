@@ -216,7 +216,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 227093,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7wb8HaXttfcAYRYsdIyZEN"
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 295741,
       "name": "La Buena y la Mala",
       "url": "https://open.spotify.com/track/6bRrhZ8xhUJ4bD7oCEqMIn"
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 279445,
       "name": "My Body Isn't Ready",
       "url": "https://open.spotify.com/track/6zbFKq8lMjRWmLf4iOzxKe"
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 277368,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/1BMvI5DMWsAaGtrfNEFQBX"
@@ -2907,6 +2907,60 @@
     },
     {
       "album": {
+        "name": "Set Yuri 22",
+        "url": "https://open.spotify.com/album/7GWnJr2E2Ybe2noQlJKVDb"
+      },
+      "artists": [
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "DJ Hyago",
+          "url": "https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Men\u00f3 Prod\u00edgio",
+          "url": "https://open.spotify.com/artist/1CH99bkFw0BvyhuBfDzaNh"
+        },
+        {
+          "name": "Pdrin",
+          "url": "https://open.spotify.com/artist/1ETa7ap3zOIxbEpKO6O4Fd"
+        },
+        {
+          "name": "Luh",
+          "url": "https://open.spotify.com/artist/6oYlhBJNAZzMPjFXwqr2m3"
+        }
+      ],
+      "date_added": "2026-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453342,
+      "name": "Set Yuri 22",
+      "url": "https://open.spotify.com/track/4zd5ljxp3lsZ0pH3lwWgIl"
+    },
+    {
+      "album": {
         "name": "Shake It Off",
         "url": "https://open.spotify.com/album/0ybpykKhoW5LltMFxV2ALt"
       },
@@ -3088,7 +3142,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 226943,
       "name": "Still",
       "url": "https://open.spotify.com/track/0CGGe0SkjsOAUYGuq3Dj7Y"

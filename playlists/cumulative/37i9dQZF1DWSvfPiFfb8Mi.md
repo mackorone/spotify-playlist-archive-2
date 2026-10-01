@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-472 songs - 1 day 6 hr 22 min
+473 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Golden](https://open.spotify.com/track/73ob1BOoxobzYqlnwSVmJv) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Golden](https://open.spotify.com/album/5M2gAdU3TtwlDucUL7YFQf) | 2:45 | 2026-04-17 | 2026-06-17 |
 | [Golden Hour](https://open.spotify.com/track/1Mwukx2jPsPsurJRN9fRYn) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Golden Hour](https://open.spotify.com/album/7925ysUpNzHNZ1ixyBrq3Y) | 3:02 | 2025-07-25 | 2025-08-12 |
 | [Golden Hour](https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT) | [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq) | [Golden Hour](https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O) | 2:20 | 2025-04-11 | 2026-08-10 |
+| [Good Measure \(I Like It\)](https://open.spotify.com/track/54TBRKz1k1CfGTYvxCREWw) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG), [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv) | [Good Measure \(I Like It\)](https://open.spotify.com/album/0LwuDADxTSzt0ZGx8VYv9e) | 3:08 | 2026-09-25 |  |
 | [Good Night](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Good Night](https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge) | 4:37 | 2023-05-19 | 2026-02-02 |
 | [Good Times](https://open.spotify.com/track/4ElhB6q5C4ugz6owedGbQZ) | [Mikey Lion](https://open.spotify.com/artist/50iz6mQhjUfbM0UjtZxWIp) | [Good Times](https://open.spotify.com/album/3ozbJ3UJy7n4rgD8yAMNmz) | 3:56 | 2025-04-25 | 2025-09-07 |
 | [Gotta Be](https://open.spotify.com/track/4xMKaAg2LUNaGo8y5JGI2W) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Gotta Be](https://open.spotify.com/album/0pWZ6tl5NxBHWIGNffjG0T) | 3:22 | 2026-09-11 |  |
@@ -246,7 +247,7 @@
 | [Lola’s Theme \- VIP](https://open.spotify.com/track/53o4CYK4YtTKmrnnWV6mFP) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola’s Theme \(VIP\)](https://open.spotify.com/album/0CpH0XG5uGunfnRpfiSyl0) | 7:18 | 2023-05-19 | 2023-07-22 |
 | [LoMhlaba \- Original Mix](https://open.spotify.com/track/2dbHZpfVKLsd0YqNEWtUbG) | [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [LoMhlaba EP](https://open.spotify.com/album/2Pkf27kgfSNPs71Jy4iWRp) | 7:52 | 2021-07-24 | 2023-05-20 |
 | [Look How Far We've Come](https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Look How Far We've Come](https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y) | 5:41 | 2024-05-17 | 2026-09-18 |
-| [Looney Tunes](https://open.spotify.com/track/56nOWmdv5U0DIcKzzKGOIb) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [bankr](https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp) | [Looney Tunes](https://open.spotify.com/album/5NjqfBREBVCH8cPC55KzGx) | 2:52 | 2026-07-17 |  |
+| [Looney Tunes](https://open.spotify.com/track/56nOWmdv5U0DIcKzzKGOIb) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [bankr](https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp) | [Looney Tunes](https://open.spotify.com/album/5NjqfBREBVCH8cPC55KzGx) | 2:52 | 2026-07-17 | 2026-10-01 |
 | [Lose Control](https://open.spotify.com/track/5pIiOV7ZDmHWT1us1gTxJ4) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ) | [Lose Control](https://open.spotify.com/album/02jwqpA0J4oGG71M2gmikL) | 2:57 | 2025-03-14 | 2025-06-01 |
 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Constance Power](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 | 2023-05-19 |  |
 | [Lost In Space \(feat\. SG Lewis\)](https://open.spotify.com/track/142MW1OLW8GobITMDIhMCD) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lost In Space \(feat\. SG Lewis\)](https://open.spotify.com/album/22zT7XF3pnP4T2MxDZOcDC) | 2:23 | 2021-07-24 | 2023-09-17 |

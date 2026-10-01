@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,769 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,766 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 49 | [Portal](https://open.spotify.com/track/7sNpgkGQkHjZsRoOf5qRDf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Grou](https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV) | [Portal](https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx) | 4:12 |
 | 50 | [Meu Sol](https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik) | [Meu Sol](https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee) | 3:26 |
 
-Snapshot ID: `armuAAAAAAA7xd2VkpCGz0hhsHMn9fWm`
+Snapshot ID: `armuAAAAAAC0+Tme6yudG4jFFbOeVBT3`

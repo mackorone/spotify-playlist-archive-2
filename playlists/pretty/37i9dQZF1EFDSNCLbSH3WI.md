@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 164 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 425 likes - 168 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 54 | [Black Folk](https://open.spotify.com/track/1iWAx1WGCY6j2zAMdACQ6E) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [CrasH Talk](https://open.spotify.com/album/3UTp6spxkyTdvsmJDPfb7n) | 2:27 |
 | 55 | [Lemme Know](https://open.spotify.com/track/1u1VcXquBfZfu7dc8PVYVc) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 3:42 |
 | 56 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 |
-| 57 | [Sheezus](https://open.spotify.com/track/7ExcclQypkEukgHqC40JNp) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:54 |
-| 58 | [BULLIES](https://open.spotify.com/track/5Ow3QqHeeA78Q3nSnbUbkL) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 3:14 |
+| 57 | [BULLIES](https://open.spotify.com/track/5Ow3QqHeeA78Q3nSnbUbkL) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 3:14 |
+| 58 | [Sheezus](https://open.spotify.com/track/7ExcclQypkEukgHqC40JNp) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:54 |
 | 59 | [All the Way Down](https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy) | 4:28 |
 | 60 | [Lucky Me](https://open.spotify.com/track/6wVnQMRXd1z2iPEo24f9db) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 4:08 |
 | 61 | [MISS ME?](https://open.spotify.com/track/2eRMWLSNBS6yvxNcEbstRJ) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Melody Of A Memory](https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB) | 2:06 |
@@ -161,16 +161,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 151 | [Let Us In](https://open.spotify.com/track/10JJgpWFPMJsxfZ50qTfhj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:02 |
 | 152 | [Intense City](https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 2:40 |
 | 153 | [No Label](https://open.spotify.com/track/2QYalRAh6mAs1PoUSxrnbI) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [It's Not Me, It's You](https://open.spotify.com/album/3420KGAv7XqNKYAUOCHyTM) | 3:39 |
-| 154 | [Spirit](https://open.spotify.com/track/6XZANPD0UCJZsVdcczgl2V) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 1:59 |
-| 155 | [Let It Show](https://open.spotify.com/track/5EIcZTEYjE8O1L5de64QeK) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Cadillactica \(Deluxe Version\)](https://open.spotify.com/album/7AUsm4Nzd6ApSgkLCHSjia) | 3:02 |
-| 156 | [The Proposal](https://open.spotify.com/track/3CkPYwsbZHm1Y9jtEPh5tJ) | [Rico Love](https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn) | [Turn The Lights On](https://open.spotify.com/album/5enHYKdCZgw3oetOUqIibl) | 3:48 |
-| 157 | [Close To Me](https://open.spotify.com/track/3CSvP5YmGganmbwIwJMbLO) | [Kyndall](https://open.spotify.com/artist/3m5xTc0hyBdOW6m2S5XC1P) | [Close To Me \- Single](https://open.spotify.com/album/53OshynhGdLFJbxpI0TfrU) | 3:28 |
-| 158 | [SWEETER](https://open.spotify.com/track/7M7RRSVit64ax4cU39OlEw) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/40fZVfUQqIagBqSXsH5E69) | 3:43 |
-| 159 | [MAKE IT KNOWN](https://open.spotify.com/track/5qfVTbcSnH2pd0DRCWHBcU) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:22 |
-| 160 | [Save Your Soul](https://open.spotify.com/track/7E3fkUiPNGnSGi91ViISV7) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 2:45 |
-| 161 | [Dreams](https://open.spotify.com/track/6wjQqganLZrqmBgqfiH9BX) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [It's Not Me, It's You](https://open.spotify.com/album/3420KGAv7XqNKYAUOCHyTM) | 2:19 |
-| 162 | [Y U Lying](https://open.spotify.com/track/2EsJunQJAPYsems22NWwAV) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 3:17 |
-| 163 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
-| 164 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
+| 154 | [Square Up](https://open.spotify.com/track/6z23ALs89TA5LEckkkFTTm) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Square Up](https://open.spotify.com/album/3kQLDzH2oF0sLcPUVdFgDn) | 3:02 |
+| 155 | [Spirit](https://open.spotify.com/track/6XZANPD0UCJZsVdcczgl2V) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 1:59 |
+| 156 | [Let It Show](https://open.spotify.com/track/5EIcZTEYjE8O1L5de64QeK) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Cadillactica \(Deluxe Version\)](https://open.spotify.com/album/7AUsm4Nzd6ApSgkLCHSjia) | 3:02 |
+| 157 | [The Proposal](https://open.spotify.com/track/3CkPYwsbZHm1Y9jtEPh5tJ) | [Rico Love](https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn) | [Turn The Lights On](https://open.spotify.com/album/5enHYKdCZgw3oetOUqIibl) | 3:48 |
+| 158 | [Close To Me](https://open.spotify.com/track/3CSvP5YmGganmbwIwJMbLO) | [Kyndall](https://open.spotify.com/artist/3m5xTc0hyBdOW6m2S5XC1P) | [Close To Me \- Single](https://open.spotify.com/album/53OshynhGdLFJbxpI0TfrU) | 3:28 |
+| 159 | [SWEETER](https://open.spotify.com/track/7M7RRSVit64ax4cU39OlEw) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/40fZVfUQqIagBqSXsH5E69) | 3:43 |
+| 160 | [Power](https://open.spotify.com/track/2VbOKBfUboYGlbSJquVBGe) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 4:03 |
+| 161 | [MAKE IT KNOWN](https://open.spotify.com/track/5qfVTbcSnH2pd0DRCWHBcU) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:22 |
+| 162 | [Stand For Something](https://open.spotify.com/track/5JEP7XDAwowpBEwEEyrs3I) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 4:47 |
+| 163 | [Save Your Soul](https://open.spotify.com/track/7E3fkUiPNGnSGi91ViISV7) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 2:45 |
+| 164 | [Dreams](https://open.spotify.com/track/6wjQqganLZrqmBgqfiH9BX) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [It's Not Me, It's You](https://open.spotify.com/album/3420KGAv7XqNKYAUOCHyTM) | 2:19 |
+| 165 | [Keep Counting](https://open.spotify.com/track/60uDyT4PCPfI8nP7SnYPyv) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [Dogma](https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC) | 2:38 |
+| 166 | [Y U Lying](https://open.spotify.com/track/2EsJunQJAPYsems22NWwAV) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 3:17 |
+| 167 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
+| 168 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `AcdoxAAAAAAX1KfM1WoFFhC7RhR1ac3e`
+Snapshot ID: `AcduUAAAAAA4zt5CasnjqUUV4FKyJNr9`

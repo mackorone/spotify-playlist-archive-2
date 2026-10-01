@@ -4,7 +4,7 @@
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. \(Cover: NiziU\)
 
-933 songs - 2 day 1 hr 12 min
+934 songs - 2 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [A Kind Of Magic \- Coke Studio Session](https://open.spotify.com/track/3EN2OYE3pYpRN8Axxasv2u) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [A Kind Of Magic \(Coke Studio Session\)](https://open.spotify.com/album/47oy52LyIbbzC0qLKQH16Z) | 2:49 | 2022-06-09 | 2022-07-29 |
 | [A little more](https://open.spotify.com/track/5JXZEz2nO23mXsYY4nNREW) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [A little more \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0FW5ce3s0jz6k4RJfoBBhd) | 3:32 | 2022-04-05 | 2022-05-27 |
 | [A Poem Titled You](https://open.spotify.com/track/4uW8imiqhAXandpeQk8Cnh) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [If, Vol\. 1](https://open.spotify.com/album/3D9DBNiWtmU37jYh0x5sPG) | 3:36 | 2023-07-06 | 2023-08-22 |
+| [A1 GO](https://open.spotify.com/track/3Fxyus5dy1VVF0IRyyKjPF) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Mixtape : A1 GO](https://open.spotify.com/album/4AxIouGKYNLcW7L7ADFu9B) | 2:18 | 2026-09-30 |  |
 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-27 | 2026-06-18 |
 | [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 | 2026-05-13 |  |
 | [Adrenaline](https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [CRAVITY 1ST ALBUM PART 2 \[LIBERTY : IN OUR COSMOS\]](https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY) | 3:14 | 2022-04-05 | 2022-06-04 |

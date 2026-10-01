@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Jadal Zamana (Interval Theme) (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/70NLkdlgvogfvDEeDP4if0"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79500,
+      "name": "Jadal Zamana (Interval Theme) (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/4SXOZbOuY0yfDSHEaRRz0X"
+    },
+    {
+      "album": {
         "name": "King Of The Crowd 'Title Song' (From \"Ramarao On Duty\")",
         "url": "https://open.spotify.com/album/37hM9dL91U4SDRksCn7kHJ"
       },
@@ -3316,7 +3334,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 89400,
       "name": "Theme of 3",
       "url": "https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO"

@@ -1,6 +1,6 @@
 {
   "description": "La playlist officielle de Nouvelle \u00c9cole. Saison 5 dispo sur Netflix !",
-  "num_followers": 117673,
+  "num_followers": 117743,
   "original_name": "Nouvelle \u00c9cole",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "Nouvelle \u00c9cole",
           "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        },
+        {
+          "name": "OZZY",
+          "url": "https://open.spotify.com/artist/2zbCtMABpCQBjjpARTaOuH"
         },
         {
           "name": "YANAMKO",
@@ -46,10 +50,6 @@
         {
           "name": "Base 221",
           "url": "https://open.spotify.com/artist/1HfBe0SGyd0cXWXYhKmMxm"
-        },
-        {
-          "name": "OZZY",
-          "url": "https://open.spotify.com/artist/2zbCtMABpCQBjjpARTaOuH"
         }
       ],
       "duration_ms": 210929,

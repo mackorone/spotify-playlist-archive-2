@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-135 songs - 6 hr 54 min
+136 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-16 |  |
 | [Underwater](https://open.spotify.com/track/6qnULXVFGfFqPj0Hpj0tIG) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Underwater / Other Voices](https://open.spotify.com/album/3p1vQf7Y8BSHiUVCGR2NtG) | 4:57 | 2024-09-17 |  |
 | [Villain](https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:25 | 2024-09-17 |  |
-| [Warp Speed Suzie](https://open.spotify.com/track/6uGTGFm1AchlydB9uW04P9) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Ultra Mango](https://open.spotify.com/album/0quCp4fi92StDM27DUSHS5) | 2:56 | 2024-09-17 |  |
+| [Warp Speed Suzie](https://open.spotify.com/track/5jPVo9EQxBvKl6IXBQLnKU) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Ultra Mango](https://open.spotify.com/album/2js3B0SkEoyXrEzJLArKt4) | 2:56 | 2026-09-30 |  |
+| [Warp Speed Suzie](https://open.spotify.com/track/6uGTGFm1AchlydB9uW04P9) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Ultra Mango](https://open.spotify.com/album/0quCp4fi92StDM27DUSHS5) | 2:56 | 2024-09-17 | 2026-10-01 |
 | [Woman Is King](https://open.spotify.com/track/1gxc1dIYLmSS2sxMm8BYNj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine \(Deluxe\)](https://open.spotify.com/album/6qPZrueXJiXtEe8qxGq49N) | 1:46 | 2025-03-09 |  |
 | [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 | 2025-06-11 |  |
 | [Young American Heart](https://open.spotify.com/track/7gBoKtmVpD4QQ0AJHjpo5L) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:52 | 2025-07-09 |  |

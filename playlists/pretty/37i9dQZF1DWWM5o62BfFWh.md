@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música que representa a Cuba! Cover: Wampi
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,479 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,496 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 44 | [Se asfixió](https://open.spotify.com/track/6ExpY0BtLaB90mW2mB2Bkn) | [L Maldito 13](https://open.spotify.com/artist/3IO3ybxtyH9sVU4Pm3Z7eL) | [Se asfixió](https://open.spotify.com/album/1c9aEl236Ox15x6cWMp8ZE) | 2:43 |
 | 45 | [Pobre Corazón \- with Lenier](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
 | 46 | [Firme Contigo](https://open.spotify.com/track/6bfQyhA4XY5sjL4zIcRe1k) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Firme Contigo](https://open.spotify.com/album/7rFbb2R694sYJR8CNMzRRO) | 2:05 |
-| 47 | [El Millonario](https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R) | [Ronkalunga](https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC) | [La Chiva](https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct) | 4:10 |
-| 48 | [El de Pi](https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt) | [El de Pi](https://open.spotify.com/album/33DrhmxhAI9WShK28kXB9H) | 3:16 |
+| 47 | [El de Pi](https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt) | [El de Pi](https://open.spotify.com/album/33DrhmxhAI9WShK28kXB9H) | 3:16 |
+| 48 | [El Millonario](https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R) | [Ronkalunga](https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC) | [La Chiva](https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct) | 4:10 |
 | 49 | [El Men2 Remix](https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY) | [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8), [La Tankeria](https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [El Men2 Remix](https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg) | 3:38 |
 | 50 | [Te Amo \(Versos Gastados\) \- Prod\. by Cuban Deejay$](https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 3:39 |
 

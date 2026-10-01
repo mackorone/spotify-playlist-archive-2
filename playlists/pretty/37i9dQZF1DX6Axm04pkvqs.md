@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,669 likes - 80 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,747 likes - 80 songs - 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 45 | [Flaunt Your Fire \(Holy Ghost\)](https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Flaunt Your Fire \(Holy Ghost\)](https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd) | 7:10 |
 | 46 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
 | 47 | [Song of Angels \(The Call\)](https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Gwen Samuel](https://open.spotify.com/artist/3MKVPEAKVqjOWppgRRqIfK) | [Song of Angels \(The Call\)](https://open.spotify.com/album/758w7ppEQYjtKeLn0E9n4p) | 6:09 |
-| 48 | [Prayer Call \(Chants\) \- Live](https://open.spotify.com/track/1pmdxkKQ63owY4oSjBmqnj) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [God Can Live Ministration](https://open.spotify.com/album/1kiiYGJtDNVezSCFYTGR1P) | 8:50 |
-| 49 | [Revival Revival](https://open.spotify.com/track/7eUF82gjc4HpJM80aI6Rp8) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:38 |
+| 48 | [Revival Revival](https://open.spotify.com/track/7eUF82gjc4HpJM80aI6Rp8) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:38 |
+| 49 | [Prayer Call \(Chants\) \- Live](https://open.spotify.com/track/1pmdxkKQ63owY4oSjBmqnj) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [God Can Live Ministration](https://open.spotify.com/album/1kiiYGJtDNVezSCFYTGR1P) | 8:50 |
 | 50 | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa) | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97) | 14:59 |
 | 51 | [Joy Chant](https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH) | [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Joy Chant](https://open.spotify.com/album/5vL8tCAa5HZmg5SsXQziPN) | 8:51 |
 | 52 | [Holy Ghost](https://open.spotify.com/track/62iIcfToRxBNTZ1qstamVC) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:23 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 76 | [The King Is Here](https://open.spotify.com/track/7LZmlyEeqZMjHVRhV5RGt0) | [Embassy Worship](https://open.spotify.com/artist/4cBoYKMseEZPCZhYGtl6d4), [Psalmist Raine](https://open.spotify.com/artist/3uwJ062m79j5I0qr6U4NWY) | [Possess the Land](https://open.spotify.com/album/7qvk6ymjfvruRmR40VoXih) | 8:45 |
 | 77 | [Benediction](https://open.spotify.com/track/2aS9WnLarRPsTSyzpzlGNU) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:29 |
 | 78 | [Midnight Cry, Vol\. 5 \(Time\-Out Of Fellowship\)](https://open.spotify.com/track/7ikJDPDH1IDfxC3uroUw6k) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Midnight Cry, Vol\. 5 \(Time\-Out Of Fellowship\)](https://open.spotify.com/album/13PR6EewIISf4zGx9nuf48) | 47:10 |
-| 79 | [Let Me Want What You Want](https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8) | [The Paul\-Enenche Family](https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT) | [Let Me Want What You Want](https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q) | 8:03 |
-| 80 | [Like Fire Like Rain \- Prayer Chant](https://open.spotify.com/track/4pcUzJV14FbOQVp9bsHg4E) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Like Fire Like Rain \- Prayer Chant](https://open.spotify.com/album/73QPJLOL9BkYGOYsm4hLmj) | 15:01 |
+| 79 | [Seek Him](https://open.spotify.com/track/6L3m7ovo5F0KkOSqHEBAN0) | [Oluwajenyo](https://open.spotify.com/artist/5VMLcHJIvePoeIJlsCdPtC) | [Seek Him](https://open.spotify.com/album/2jIscfhK2LVuzQA63TJJC6) | 4:39 |
+| 80 | [Let Me Want What You Want](https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8) | [The Paul\-Enenche Family](https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT) | [Let Me Want What You Want](https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q) | 8:03 |
 
 Snapshot ID: `AAAAAIb1iUzucaJ4A8Hrzxd1BolUhCP3`

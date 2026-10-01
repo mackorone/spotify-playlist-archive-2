@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover - Shreya Jain",
-  "num_followers": 109722,
+  "num_followers": 109751,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE7UZoBzSvgO+R6W7KvfUrdTXS+u",
+  "snapshot_id": "AAAAAH47bcq3aajm+n6fJmTsgDyKop1c",
   "tracks": [
     {
       "added_at": "2026-09-29 06:39:45",
@@ -835,6 +835,26 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
+        "name": "Aaye Miyan Khat-Pat (From \"Lust Stories 3\")",
+        "url": "https://open.spotify.com/album/4HlXMQ8upHOYvtVUoJv7sh"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        }
+      ],
+      "duration_ms": 167662,
+      "name": "Aaye Miyan Khat-Pat (From \"Lust Stories 3\")",
+      "url": "https://open.spotify.com/track/39bbIastYmH17y5FGfjB1d"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
         "name": "Toxic (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4jGcNTPz6qjQxPM7uTQJUV"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 171547,
       "name": "Chingariyaan - From \"Toxic\"",
       "url": "https://open.spotify.com/track/3w2rfa8YIAgLEqwRBublOJ"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
-        "name": "Aaye Miyan Khat-Pat (From \"Lust Stories 3\")",
-        "url": "https://open.spotify.com/album/4HlXMQ8upHOYvtVUoJv7sh"
-      },
-      "artists": [
-        {
-          "name": "Rekha Bhardwaj",
-          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
-        },
-        {
-          "name": "Vishal Bhardwaj",
-          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
-        }
-      ],
-      "duration_ms": 167662,
-      "name": "Aaye Miyan Khat-Pat (From \"Lust Stories 3\")",
-      "url": "https://open.spotify.com/track/39bbIastYmH17y5FGfjB1d"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
-        "name": "Sochun Main",
-        "url": "https://open.spotify.com/album/08zmj2y9MyLjcMtTL2Iapz"
-      },
-      "artists": [
-        {
-          "name": "Noor Chahal",
-          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Sochun Main",
-      "url": "https://open.spotify.com/track/0N1ASYZHim2Uhj0DSqxKQO"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
         "name": "Piya Bina",
         "url": "https://open.spotify.com/album/22d6u8cUyUbzy4TZJ1J9Wq"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 198837,
       "name": "Piya Bina",
       "url": "https://open.spotify.com/track/5ZzyOL637Vkvp2K6nIjYrp"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
+        "name": "Sochun Main",
+        "url": "https://open.spotify.com/album/08zmj2y9MyLjcMtTL2Iapz"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Sochun Main",
+      "url": "https://open.spotify.com/track/0N1ASYZHim2Uhj0DSqxKQO"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -1297,6 +1297,30 @@
       "url": "https://open.spotify.com/track/5RDcDKJPV5YaNNj4C8Id12"
     },
     {
+      "added_at": "2026-09-30 06:56:57",
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/31IK2iRy13nI7JeepjD1X4"
+      },
+      "artists": [
+        {
+          "name": "KavyaKriti",
+          "url": "https://open.spotify.com/artist/1DHwrcQWDQhgbRg4BE9rgr"
+        },
+        {
+          "name": "Agsy",
+          "url": "https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp"
+        },
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/351dCswaJ118gyxKoIlmbV"
+    },
+    {
       "added_at": "2026-09-29 06:39:45",
       "album": {
         "name": "Asla Najaij",
@@ -1367,22 +1391,6 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
-        "name": "PARINDA",
-        "url": "https://open.spotify.com/album/3FDa4TQ4GuEDQIZkXTJcKI"
-      },
-      "artists": [
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        }
-      ],
-      "duration_ms": 147391,
-      "name": "Malang",
-      "url": "https://open.spotify.com/track/5tKrD1fGCAx02LVqE5HvS0"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
         "name": "Balma",
         "url": "https://open.spotify.com/album/0cIUcddrziyaJ8I8WIqLjT"
       },
@@ -1411,18 +1419,18 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
-        "name": "Seven And a Half Dates",
-        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
+        "name": "PARINDA",
+        "url": "https://open.spotify.com/album/3FDa4TQ4GuEDQIZkXTJcKI"
       },
       "artists": [
         {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Duniya",
-      "url": "https://open.spotify.com/track/0EkErlhqHxhJmEd5SZJvc1"
+      "duration_ms": 147391,
+      "name": "Malang",
+      "url": "https://open.spotify.com/track/5tKrD1fGCAx02LVqE5HvS0"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -1455,82 +1463,18 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
-        "name": "Jaan lutaaun",
-        "url": "https://open.spotify.com/album/7zRTeFOgQlGQNK5xBTXBIS"
+        "name": "Seven And a Half Dates",
+        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
       },
       "artists": [
         {
-          "name": "Utsavi Jha",
-          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
         }
       ],
-      "duration_ms": 253913,
-      "name": "Jaan lutaaun",
-      "url": "https://open.spotify.com/track/1AN89gHhSIhIROl06qodK5"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
-        "name": "Jaane Bhi Do",
-        "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
-      },
-      "artists": [
-        {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        },
-        {
-          "name": "Pavithra Chari",
-          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
-        },
-        {
-          "name": "Rahul Shah",
-          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
-        }
-      ],
-      "duration_ms": 170890,
-      "name": "Jaane Bhi Do",
-      "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
-        "name": "Chhaila (From \"Bhoomi 2024\")",
-        "url": "https://open.spotify.com/album/7jt9ta30emHh5myR2YButg"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        }
-      ],
-      "duration_ms": 230192,
-      "name": "Chhaila (From \"Bhoomi 2024\")",
-      "url": "https://open.spotify.com/track/5AI0ggBid3MhMhsFQDyRwk"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
-        "name": "Dil Ki Yaari",
-        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
-      },
-      "artists": [
-        {
-          "name": "Arunima Wali",
-          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
-        }
-      ],
-      "duration_ms": 213187,
-      "name": "Dil Ki Yaari",
-      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
+      "duration_ms": 207000,
+      "name": "Duniya",
+      "url": "https://open.spotify.com/track/0EkErlhqHxhJmEd5SZJvc1"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -1559,6 +1503,86 @@
     {
       "added_at": "2026-09-29 06:39:45",
       "album": {
+        "name": "Jaan lutaaun",
+        "url": "https://open.spotify.com/album/7zRTeFOgQlGQNK5xBTXBIS"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "duration_ms": 253913,
+      "name": "Jaan lutaaun",
+      "url": "https://open.spotify.com/track/1AN89gHhSIhIROl06qodK5"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
+        "name": "Chhaila (From \"Bhoomi 2024\")",
+        "url": "https://open.spotify.com/album/7jt9ta30emHh5myR2YButg"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "duration_ms": 230192,
+      "name": "Chhaila (From \"Bhoomi 2024\")",
+      "url": "https://open.spotify.com/track/5AI0ggBid3MhMhsFQDyRwk"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
+        "name": "Jaane Bhi Do",
+        "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        },
+        {
+          "name": "Rahul Shah",
+          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+        }
+      ],
+      "duration_ms": 170890,
+      "name": "Jaane Bhi Do",
+      "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
+        "name": "Dil Ki Yaari",
+        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
+      },
+      "artists": [
+        {
+          "name": "Arunima Wali",
+          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+        }
+      ],
+      "duration_ms": 213187,
+      "name": "Dil Ki Yaari",
+      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
         "name": "Bewafa (From\"Ilzaam 2.0\")",
         "url": "https://open.spotify.com/album/73ahWMm2g5hpwYijQUPgg0"
       },
@@ -1579,6 +1603,30 @@
       "duration_ms": 163076,
       "name": "Bewafa - (From\"Ilzaam 2.0\")",
       "url": "https://open.spotify.com/track/7CsyFWn2F7B3WTueMVbjFG"
+    },
+    {
+      "added_at": "2026-09-29 06:39:45",
+      "album": {
+        "name": "Late Night In The Living Room",
+        "url": "https://open.spotify.com/album/0aRozipSX2QwhzssRkEb0B"
+      },
+      "artists": [
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Sanah Moidutty",
+          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
+        }
+      ],
+      "duration_ms": 144118,
+      "name": "Raazi",
+      "url": "https://open.spotify.com/track/0ExOAhgB6vv1ldXym9yI7B"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -1639,30 +1687,6 @@
       "duration_ms": 176938,
       "name": "Jindua",
       "url": "https://open.spotify.com/track/5Efx3o1NB0vfFDBusFYjqh"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
-        "name": "Late Night In The Living Room",
-        "url": "https://open.spotify.com/album/0aRozipSX2QwhzssRkEb0B"
-      },
-      "artists": [
-        {
-          "name": "Denny",
-          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
-        },
-        {
-          "name": "Sanah Moidutty",
-          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
-        },
-        {
-          "name": "Shloke Lal",
-          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
-        }
-      ],
-      "duration_ms": 144118,
-      "name": "Raazi",
-      "url": "https://open.spotify.com/track/0ExOAhgB6vv1ldXym9yI7B"
     },
     {
       "added_at": "2026-09-29 06:39:45",
@@ -1759,22 +1783,6 @@
       "duration_ms": 157931,
       "name": "Birha",
       "url": "https://open.spotify.com/track/34qQefRo1gvABSijPg2v9G"
-    },
-    {
-      "added_at": "2026-09-29 06:39:45",
-      "album": {
-        "name": "Maan Jao",
-        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
-      },
-      "artists": [
-        {
-          "name": "Utsavi Jha",
-          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "Maan Jao",
-      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
     }
   ],
   "unique_name": "EQUAL India",

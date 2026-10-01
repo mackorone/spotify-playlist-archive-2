@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,903 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,930 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 28 | [Il est libre Max](https://open.spotify.com/track/0ZuHb82X30zwYP8TVnIi8K) | [Hervé Cristiani](https://open.spotify.com/artist/4ml7309NlaZaAHeBUOThVx) | [Les inoubliables de Hervé Cristiani \- Best Of](https://open.spotify.com/album/5X7x3uX32XtxdhBcMohjNA) | 3:14 |
 | 29 | [En rouge et noir](https://open.spotify.com/track/1Gcv4C4s4aJTtm8THwEdFN) | [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [Best of Jeanne Mas 2004](https://open.spotify.com/album/4pTDSN6BHeCYXI3hkojANx) | 4:28 |
 | 30 | [Besoin de personne](https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Exclusivement féminin](https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS) | 2:47 |
-| 31 | [Miss Maggie](https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 4:15 |
+| 31 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
 | 32 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
-| 33 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
+| 33 | [Miss Maggie](https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 4:15 |
 | 34 | [Disparue](https://open.spotify.com/track/280p8WbpK05bAptetUzEcx) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Disparue \- EP](https://open.spotify.com/album/6InWfWweFfuMQ7kCn5CBoc) | 3:09 |
 | 35 | [Joue pas](https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH) | [François Feldman](https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe), [Joniece Jamison](https://open.spotify.com/artist/1cv4XgiZ8UewYxrtk4XO3Q) | [Two Feldman](https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9) | 4:11 |
 | 36 | [La p'tite Lady](https://open.spotify.com/track/7jeK414Hj68dYeLzEUVGe8) | [Vivien Savage](https://open.spotify.com/artist/4JB4YibTxVBeW30DtePCZT) | [EP La P'tite Lady](https://open.spotify.com/album/0Lg340OEMHB1qyi919yiZQ) | 3:35 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 40 | [C'est la ouate \- Radio Edit Original Version 1987](https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 3:48 |
 | 41 | [Boule de flipper](https://open.spotify.com/track/6shGOXYAONStOPgpZI1i3E) | [Corynne Charby](https://open.spotify.com/artist/0g3UZ5TKLKBB9m35O8KAm3) | [Boule de flipper](https://open.spotify.com/album/7BbpQZ2U11hHECUP0nkD6p) | 3:51 |
 | 42 | [Lili voulait aller danser](https://open.spotify.com/track/5W8DHtd2JOU9q7X3pvzafw) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 3:58 |
-| 43 | [Désir, désir, Pt\. 1](https://open.spotify.com/track/2tr24VBF280hvO14tSNBEO) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z), [Véronique Jannot](https://open.spotify.com/artist/3AySyGIRlpIhkjan8dOSbN) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:56 |
-| 44 | [Embrasse moi idiot \- .](https://open.spotify.com/track/418hg3W91QSVSI7S6l3baJ) | [Bill Baxter](https://open.spotify.com/artist/3KpXJFls6MeNgtt8uyBfmf) | [Embrasse Moi Idiot](https://open.spotify.com/album/03ZiFpoAZNWSHvQAkfHM6z) | 3:45 |
+| 43 | [Embrasse moi idiot \- .](https://open.spotify.com/track/418hg3W91QSVSI7S6l3baJ) | [Bill Baxter](https://open.spotify.com/artist/3KpXJFls6MeNgtt8uyBfmf) | [Embrasse Moi Idiot](https://open.spotify.com/album/03ZiFpoAZNWSHvQAkfHM6z) | 3:45 |
+| 44 | [Désir, désir, Pt\. 1](https://open.spotify.com/track/2tr24VBF280hvO14tSNBEO) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z), [Véronique Jannot](https://open.spotify.com/artist/3AySyGIRlpIhkjan8dOSbN) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:56 |
 | 45 | [Les brunes comptent pas pour des prunes](https://open.spotify.com/track/2FO8AfQVGJsmxgg6RlI5jK) | [Lio](https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI) | [Les brunes comptent pas pour des prunes](https://open.spotify.com/album/48Hn4QRWsu9vLDNLdmBPxb) | 3:09 |
 | 46 | [Tombé pour la France \- Version maximum](https://open.spotify.com/track/5DlrHsAjvzsR1z4vOLZPN3) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Tombé pour la France](https://open.spotify.com/album/16kl4uJMSvFCfiyBl2cXFv) | 6:30 |
 | 47 | [Mélissa](https://open.spotify.com/track/4YkRb6KIi03YSfGuTDJrZG) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [A Rendez\-Vous With Julien Clerc](https://open.spotify.com/album/1BBkJnf0MLDGRcMzEsal7C) | 3:00 |

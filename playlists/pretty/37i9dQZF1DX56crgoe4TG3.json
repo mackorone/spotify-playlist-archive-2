@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 286938,
+  "num_followers": 286956,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Stuck in the Middle With You",
-        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stuck in the Middle With You",
-      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "No Rain",
         "url": "https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 203810,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Stuck in the Middle With You",
+        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stuck in the Middle With You",
+      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Old Cane Back Rocker",
+        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        },
+        {
+          "name": "Darrell Scott String Band",
+          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
+        }
+      ],
+      "duration_ms": 267690,
+      "name": "It's a Great Day to Be Alive",
+      "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "In the Summertime",
         "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 190733,
       "name": "Little Piece of My Heart",
       "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Old Cane Back Rocker",
-        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        },
-        {
-          "name": "Darrell Scott String Band",
-          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
-        }
-      ],
-      "duration_ms": 267690,
-      "name": "It's a Great Day to Be Alive",
-      "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Songs That Made Me Weird, Vol. 1",
-        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
-      },
-      "artists": [
-        {
-          "name": "Tony Kamel",
-          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
-        }
-      ],
-      "duration_ms": 251621,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Yellow Ledbetter",
         "url": "https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 245120,
       "name": "Yellow Ledbetter",
       "url": "https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Songs That Made Me Weird, Vol. 1",
+        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
+      },
+      "artists": [
+        {
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+        }
+      ],
+      "duration_ms": 251621,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Shaken By A Low Sound",
-        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
-      },
-      "artists": [
-        {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Come On In My Kitchen",
-      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "The Set",
         "url": "https://open.spotify.com/album/0dYP4Q4gWwDilyvhAqu4iS"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Shaken By A Low Sound",
+        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Come On In My Kitchen",
+      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Folsom Prison Blues",
         "url": "https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
-      },
-      "artists": [
-        {
-          "name": "Austin Brown: The Covers",
-          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "The DeLorean Sisters",
         "url": "https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 209895,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/2w0YouPU8m4o847GCgweTK"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
+      },
+      "artists": [
+        {
+          "name": "Austin Brown: The Covers",
+          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "YMCA b/w Rasputin",
-        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
+        "name": "Norwegian Wood (This Bird Has Flown)",
+        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
       },
       "artists": [
         {
-          "name": "Hayseed Dixie",
-          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
         }
       ],
-      "duration_ms": 281287,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
+      "duration_ms": 167827,
+      "name": "Norwegian Wood (This Bird Has Flown)",
+      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Norwegian Wood (This Bird Has Flown)",
-        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
+        "name": "YMCA b/w Rasputin",
+        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
       },
       "artists": [
         {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+          "name": "Hayseed Dixie",
+          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
         }
       ],
-      "duration_ms": 167827,
-      "name": "Norwegian Wood (This Bird Has Flown)",
-      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
+      "duration_ms": 281287,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "If I Needed You",
-        "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
-      },
-      "artists": [
-        {
-          "name": "Admiral Radio",
-          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
-        }
-      ],
-      "duration_ms": 203416,
-      "name": "If I Needed You",
-      "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 216343,
       "name": "good 4 u - Spotify Sessions",
       "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "If I Needed You",
+        "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
+      },
+      "artists": [
+        {
+          "name": "Admiral Radio",
+          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
+        }
+      ],
+      "duration_ms": 203416,
+      "name": "If I Needed You",
+      "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
     },
     {
       "added_at": "2026-08-21 04:02:18",

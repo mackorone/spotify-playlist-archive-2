@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1024489,
+  "num_followers": 1024515,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
+        "name": "Ya Es Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 186581,
+      "name": "Vuelvo A Ti",
+      "url": "https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
-        "name": "Ya Es Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 186581,
-      "name": "Vuelvo A Ti",
-      "url": "https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
-        "name": "Tal Vez Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 208465,
-      "name": "Tal Vez Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
         "name": "ESTA ES TU CASA NENA",
         "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 209616,
       "name": "ESTA ES TU CASA NENA",
       "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
+        "name": "Tal Vez Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 208465,
+      "name": "Tal Vez Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1223,18 +1223,22 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
-        "name": "el cielo",
-        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+        "name": "Hey Mor",
+        "url": "https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 188671,
-      "name": "el cielo",
-      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
+      "duration_ms": 196600,
+      "name": "Hey Mor",
+      "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
-        "name": "Hey Mor",
-        "url": "https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l"
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 196600,
-      "name": "Hey Mor",
-      "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1307,22 +1307,6 @@
       "duration_ms": 201836,
       "name": "Faltas T\u00fa",
       "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 159062,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1371,6 +1355,22 @@
       "duration_ms": 181914,
       "name": "Algo de m\u00ed",
       "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 159062,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
-        "name": "Bajo Cero",
-        "url": "https://open.spotify.com/album/2zGuFILxHQ0516trrslslS"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Bajo Cero",
-      "url": "https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
         "name": "Mi Reina",
         "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 171272,
       "name": "Sin Querer",
       "url": "https://open.spotify.com/track/0Rz0YPrVlC7YzgbOOharAy"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
+        "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/2zGuFILxHQ0516trrslslS"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o"
     },
     {
       "added_at": "2026-09-09 22:02:34",

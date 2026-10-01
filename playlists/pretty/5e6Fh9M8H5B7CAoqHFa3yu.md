@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,688 songs - 6 day 12 hr 52 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 357 likes - 2,697 songs - 6 day 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2696,5 +2696,14 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2686 | [Dino](https://open.spotify.com/track/5Vq6OAlTw9ZsIrLwFbvapt) | [Erbomb](https://open.spotify.com/artist/1xmDZ27OFgWwJgGlLmaHZn) | [3](https://open.spotify.com/album/2voBAf4VAc6NzKDKRHpVqI) | 2:43 |
 | 2687 | [Recordandote](https://open.spotify.com/track/5KFU9ny7dmH3dJm49Kn5vv) | [djpanthe](https://open.spotify.com/artist/4tMzD6kKT4VcBQKBIZFW5i) | [Recordandote](https://open.spotify.com/album/18j993ovYdslUR5365bziS) | 6:13 |
 | 2688 | [Stylistic](https://open.spotify.com/track/5XkMU1eSvMyQvKUQX2wSiH) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Stylistic](https://open.spotify.com/album/0igdGFQEo9rLlRCe1c7Cpg) | 1:51 |
+| 2689 | [Sunset](https://open.spotify.com/track/2WBFnyUkVnwIb9rWTC8kEy) | [tzi](https://open.spotify.com/artist/0OtctMT5WuZpib5GQiEuMT) | [Sunset](https://open.spotify.com/album/6yk6OUobNQ7fKgYLTIq0A3) | 3:25 |
+| 2690 | [Fortune Cookie](https://open.spotify.com/track/5pSAAjvei4PdkRhEo1rFgG) | [Nakace7](https://open.spotify.com/artist/79WqBie5aUELM4nIUaNqZs) | [Fortune Cookie](https://open.spotify.com/album/6I1qXbQEWTe9tbDbMUuOqp) | 3:49 |
+| 2691 | [Parallel Alignment](https://open.spotify.com/track/2ctDQYSWQ61qE3NaJKQU9I) | [Ashanti Selah](https://open.spotify.com/artist/1IdpvTfGDPshOD7PaYPAkS), [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Parallel Alignment](https://open.spotify.com/album/3fRjfich4AKbvLtEPuLjIw) | 3:46 |
+| 2692 | [Magic Roots](https://open.spotify.com/track/2BXdP7Bjl2qRcvShfxUcvC) | [Dubussy](https://open.spotify.com/artist/19fgYI58BbUW0qHhiCnAYC) | [Magic Roots](https://open.spotify.com/album/1syGJgqeUtCF9xQYPdQQNU) | 4:03 |
+| 2693 | [Walkin' Target \- Gaudi Remix](https://open.spotify.com/track/0ZTt8rnXCNMSFTiobhcMq2) | [Ashtech](https://open.spotify.com/artist/34gRkptPjYd3uVN9igS75S), [Gaudi](https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP), [Cheshire Cat](https://open.spotify.com/artist/6AyEh5QaLxZnt6jurf5Pei) | [Dub Target](https://open.spotify.com/album/5w5LINyDK0peC5wHH59DGR) | 5:15 |
+| 2694 | [Be Who You Are](https://open.spotify.com/track/0qfD3FHf7TKejn480f67IW) | [Macka B](https://open.spotify.com/artist/2ph6mRzG0lANVJRBTUIxI2), [Paul Lupa](https://open.spotify.com/artist/0D8V5doqxjePJPxhtGO054) | [Be Who You Are](https://open.spotify.com/album/7hDMJKHV499gcr0pNWksUp) | 2:50 |
+| 2695 | [Bababoom Dub \(Melodica Cut\)](https://open.spotify.com/track/4lkg4jKhgYoO7M6pjgHajj) | [Dubmaster Conte](https://open.spotify.com/artist/12Ms9bkvJpFIpOFN6V8ZYl) | [No more Gunmen / Bababoom Dub](https://open.spotify.com/album/3Tnqm0VucHtZLb73asZEZS) | 4:45 |
+| 2696 | [Stronger](https://open.spotify.com/track/4DxIC2HyDj5boedcLIsDPd) | [Anayah Roots Levi](https://open.spotify.com/artist/2sYjFt5ayyIACrgzhcRLOO), [Costa Rebel](https://open.spotify.com/artist/4Yg4PNWpQZ3O3dkp7iz4Rz) | [Stronger](https://open.spotify.com/album/71ejRGSc6Q0IpW3BIve6MU) | 3:16 |
+| 2697 | [War Profiteers](https://open.spotify.com/track/2W7PCkxw20Y6CWpeeoyIzf) | [DAB David Asher Band](https://open.spotify.com/artist/0GhS6P8ikbiR0G2hulvtRA) | [War Profiteers](https://open.spotify.com/album/4tUZa025xjAYF6ZmSO9W00) | 4:24 |
 
-Snapshot ID: `AAALhbhTJYqWUlIyguHN4weNyzd3i6mG`
+Snapshot ID: `AAALjpg5NFpEF6jHQKWAw6Qnjwsq78pO`

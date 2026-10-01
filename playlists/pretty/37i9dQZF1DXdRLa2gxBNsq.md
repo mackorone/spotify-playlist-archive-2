@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,241 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,262 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 42 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
 | 43 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
 | 44 | [Molestar](https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Molestar](https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8) | 2:38 |
-| 45 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
-| 46 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
+| 45 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
+| 46 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
 | 47 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 48 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 |
 | 49 | [Al Monte \- En Directo Sala Nazca Madrid](https://open.spotify.com/track/0Ul61jBXFqInNFaQgtZJa0) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Al Monte \(En Directo Sala Nazca Madrid\)](https://open.spotify.com/album/4spYMKkgYXaeOPBCb5evIU) | 3:22 |

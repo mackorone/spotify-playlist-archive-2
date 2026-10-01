@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 122340,
+  "num_followers": 122374,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2026-09-25 04:01:55",
       "album": {
+        "name": "Rave En La Favela",
+        "url": "https://open.spotify.com/album/4rZxSGTxcw5m3SiIKSfTa8"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        }
+      ],
+      "duration_ms": 194798,
+      "name": "Rave En La Favela",
+      "url": "https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj"
+    },
+    {
+      "added_at": "2026-09-25 04:01:55",
+      "album": {
         "name": "Se Va (feat. Cumbiafrica)",
         "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
-    },
-    {
-      "added_at": "2026-09-25 04:01:55",
-      "album": {
-        "name": "Rave En La Favela",
-        "url": "https://open.spotify.com/album/4rZxSGTxcw5m3SiIKSfTa8"
-      },
-      "artists": [
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        }
-      ],
-      "duration_ms": 194798,
-      "name": "Rave En La Favela",
-      "url": "https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj"
     },
     {
       "added_at": "2026-09-25 04:01:55",

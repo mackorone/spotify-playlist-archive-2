@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,581 likes - 260 songs - 13 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,646 likes - 260 songs - 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

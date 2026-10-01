@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,297 songs - 2 day 19 hr 39 min
+1,298 songs - 2 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [ADHD](https://open.spotify.com/track/3KeL0bKLO1mlkQsTJ6H1oj) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [LILLA](https://open.spotify.com/album/3NxQsReEqYKsD1vanJhFGA) | 2:56 | 2026-08-13 | 2026-09-07 |
 | [ADHD](https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [ADHD](https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr) | 3:48 | 2024-11-21 | 2025-02-23 |
 | [Adrian](https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Adrian](https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS) | 3:37 | 2024-09-26 | 2024-10-11 |
+| [Afar](https://open.spotify.com/track/45raOKhmjnJRNChMIpopI3) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Afar](https://open.spotify.com/album/2c4sPfylEVZmQ0BVy0rGVI) | 2:13 | 2026-09-25 |  |
 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 | 2024-08-09 | 2024-11-15 |
 | [Afterall](https://open.spotify.com/track/6mDKqPHVwjDMrnEz6qtj3Z) | [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Afterall](https://open.spotify.com/album/0nXOzec7sBDtMzWFNNSr1s) | 3:22 | 2025-03-13 | 2025-04-01 |
 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-07-01 | 2024-07-14 |
@@ -237,7 +238,7 @@
 | [Dark Room \(feat\. ICEKIID\)](https://open.spotify.com/track/1eA6vc394WJF2l4lHLqJ2B) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Dark Room \(feat\. ICEKIID\)](https://open.spotify.com/album/7wwyWVyOkb8KVIp32Ocd4u) | 2:54 | 2024-07-25 | 2024-09-11 |
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-09-05 | 2025-01-10 |
 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 | 2025-06-26 | 2025-07-29 |
-| [De Der Dage \(feat\. KESI\)](https://open.spotify.com/track/42LsVwhoT2WWQ7oKUu2Cko) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [De Der Dage \(feat\. KESI\)](https://open.spotify.com/album/1O5THMplgRFfUbJxhxOdq4) | 2:26 | 2026-08-13 |  |
+| [De Der Dage \(feat\. KESI\)](https://open.spotify.com/track/42LsVwhoT2WWQ7oKUu2Cko) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [De Der Dage \(feat\. KESI\)](https://open.spotify.com/album/1O5THMplgRFfUbJxhxOdq4) | 2:26 | 2026-08-13 | 2026-10-01 |
 | [De Her Timer](https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [De Her Timer](https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA) | 3:28 | 2024-07-31 | 2024-08-24 |
 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 | 2024-07-31 | 2024-08-23 |
 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 | 2026-01-23 | 2026-02-13 |

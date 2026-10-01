@@ -1,6 +1,6 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 599012,
+  "num_followers": 599052,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
@@ -23,22 +23,6 @@
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Father Figure (Live in Paris, 1988)",
-        "url": "https://open.spotify.com/album/0p3RLAK1kBMHwAkXPKYVPX"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 357062,
-      "name": "Father Figure - Live in Paris, 1988",
-      "url": "https://open.spotify.com/track/1Zz0KelBItC56UOAqsoQiL"
     },
     {
       "added_at": null,
@@ -847,6 +831,86 @@
       "duration_ms": 269891,
       "name": "Idol - Live",
       "url": "https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirito Italiano",
+        "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        },
+        {
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        },
+        {
+          "name": "Irene Grandi",
+          "url": "https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        },
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        },
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Ars Canto G. Verdi",
+          "url": "https://open.spotify.com/artist/2nlUKg0hGbfQkhUuyudOgE"
+        },
+        {
+          "name": "Cambodian And Tibetan Children's Choir",
+          "url": "https://open.spotify.com/artist/5roVbMFPCz0wtqh7ffwzSd"
+        },
+        {
+          "name": "Orchestra Sinfonica Italiana",
+          "url": "https://open.spotify.com/artist/2TLCdLafkMIbrLHYvh4U5P"
+        },
+        {
+          "name": "Jos\u00e9 Molina",
+          "url": "https://open.spotify.com/artist/64sor8KhJsha9rn0LKiDGh"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM"
     }
   ],
   "unique_name": "This Is George Michael",
